@@ -145,6 +145,9 @@ test('Echte Projektdaten: jedes Video eingeordnet, bestehende Interviews als Ori
   assert.ok(!/FIKTIV|Fiktive Testdaten/.test(JSON.stringify(rel)), 'keine Testdaten in beziehungen.json');
 });
 
+// [Codex] Der reale Drei-Video-Fall aus #13 läuft auch im bestehenden CI-Einstieg.
+require('./krall-test.js');
+
 test('Hank/Naomi: unbekannte Rollen und nicht geprüfte Quellen werden nicht zu Endurteilen', () => {
   const root = path.join(__dirname, '..', 'faktenchecks', 'zUnxDR5ttRU');
   const data = JSON.parse(fs.readFileSync(path.join(root, 'strukturiert', 'aussagen.json'), 'utf8'));

@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "videoId": "qQAcmDzd9O8",
+  "role": "reaction",
+  "reactionType": "faktencheck",
+  "channel": "Alfred räumt auf",
+  "title": "Wächst das Eis am Südpol? Markus Krall bei Ungeskriptet",
+  "videoUrl": "https://www.youtube.com/watch?v=qQAcmDzd9O8",
+  "workStatus": "Teilbestand geprüft",
+  "identification": {
+    "basis": "YouTube-oEmbed und Uploadmetadaten am 18.11.2026 geprüft; beide Reaktionsbeschreibungen verlinken das Original ausdrücklich.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-18"
+  }
+}

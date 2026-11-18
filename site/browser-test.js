@@ -289,6 +289,9 @@ async function step(name, fn) {
   });
 
   await step('Großansicht: Dialog mit Video und Fakten, Fokus, Escape, Player bleibt erhalten', async () => {
+    // Eigene Ausgangslage: Der Echtzeit-Mock darf während der vorigen Layoutprüfung
+    // bereits über die geprüfte Fundstelle hinausgelaufen sein (z. B. unter hoher Last).
+    await page.evaluate(() => { __yt.players[0].t = 8390; __yt.players[0].pauseVideo(); });
     await page.waitForFunction(() => document.getElementById('vc').dataset.basis === 'ok' && /02:19:/.test(document.querySelector('#vc-list .vc-item.is-current .time')?.textContent || ''));
     await page.evaluate(() => __yt.players[0].pauseVideo());
     await page.waitForTimeout(300);

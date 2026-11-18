@@ -495,6 +495,7 @@ a.person-link:hover { border-color: var(--accent); transform: translateY(-2px); 
 /* Originalinterviews, Reaktionen und Prüfkonflikte (site/relations.js) */
 .role-line { margin: 4px 0 10px; color: var(--text-2); }
 .rel-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
+.badge.rel-state { white-space: normal; max-width: 100%; }
 .rel-item { overflow-wrap: anywhere; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 12px 16px; }
 .rel-item .small { margin-top: 4px; }
 .rel-state.rel-conflict { border-color: var(--v-widerlegt); color: var(--v-widerlegt); }

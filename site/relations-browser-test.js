@@ -109,7 +109,12 @@ async function step(name, fn) {
     assert.match(t, /Naomi Seibt/);
     assert.match(t, /Horst Lüning/);
     assert.doesNotMatch(t, /Noch nicht eingeordnet/);
-    assert.match(t, /2 Originalinterviews/);
+    const base = path.join(ROOT, 'faktenchecks');
+    const count = fs.readdirSync(base).filter(id => {
+      const p = path.join(base, id, 'video.json');
+      return fs.existsSync(p) && JSON.parse(fs.readFileSync(p, 'utf8')).role === 'original';
+    }).length;
+    assert.match(t, new RegExp(count + ' Originalinterviews'));
   });
 
   await step('Echte Daten: Detailseite zeigt Rolle und Reaktionsabschnitt, Direktlinks funktionieren', async () => {
@@ -196,7 +201,11 @@ async function step(name, fn) {
     const home = await open(urlOf(real), '#/');
     const cards = await page.$$eval('.cards a.card', a => a.map(x => x.getAttribute('href')));
     assert.ok(!cards.some(h => h.includes('zUnxDR5ttRU')), 'Reaktion ist keine Originalkarte');
-    assert.match(home, /2 Originalinterviews/);
+    const expected = fs.readdirSync(path.join(ROOT, 'faktenchecks')).filter(id => {
+      const p = path.join(ROOT, 'faktenchecks', id, 'video.json');
+      return fs.existsSync(p) && JSON.parse(fs.readFileSync(p, 'utf8')).role === 'original';
+    }).length;
+    assert.match(home, new RegExp(expected + ' Originalinterviews'));
   });
 
   await step('Echte Reaktion mobil: Vergleich und Berichte bleiben ohne Überlauf erreichbar', async () => {
@@ -278,7 +287,11 @@ async function step(name, fn) {
     await page.click('[data-thumbs="ja"]');
     await page.waitForSelector('img.card-thumb');
     const srcs = await page.$$eval('img.card-thumb', x => x.map(i => i.getAttribute('src')));
-    assert.deepEqual(srcs.sort(), ['https://i.ytimg.com/vi/mdo14671BPE/mqdefault.jpg', 'https://i.ytimg.com/vi/mlxFA9T88I0/mqdefault.jpg']);
+    const originals = fs.readdirSync(path.join(ROOT, 'faktenchecks')).filter(id => {
+      const p = path.join(ROOT, 'faktenchecks', id, 'video.json');
+      return fs.existsSync(p) && JSON.parse(fs.readFileSync(p, 'utf8')).role === 'original';
+    });
+    assert.deepEqual(srcs.sort(), originals.map(id => `https://i.ytimg.com/vi/${id}/mqdefault.jpg`).sort());
     assert.equal(await page.$('.thumb-ask'), null, 'Abfrage nach Wahl verschwunden');
     assert.match(await page.innerText('#thumb-setting'), /an/);
     await open(urlOf(real), '#/video/mlxFA9T88I0/reaktionen');
