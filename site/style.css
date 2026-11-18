@@ -517,3 +517,24 @@ a.person-link:hover { border-color: var(--accent); transform: translateY(-2px); 
 @media (max-width: 560px) { .rel-item.has-thumb { grid-template-columns: 1fr; } .rel-thumb { width: 100%; } }
 .settings { margin: 8px 0; }
 .linkbtn { font: inherit; background: none; border: 0; padding: 0; color: var(--accent); text-decoration: underline; cursor: pointer; }
+
+/* Zweite Ebene: Rhetorik und Darstellung. Bewusst andere Form (gestrichelt, eigene Farbe) als die
+   Faktenbewertung, damit beide Ebenen nicht verwechselt werden. */
+:root { --rhet: #6a4c9c; --rhet-soft: #f1ecf8; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) { --rhet: #b9a2e0; --rhet-soft: #2a2436; } }
+:root[data-theme="dark"] { --rhet: #b9a2e0; --rhet-soft: #2a2436; }
+.rhet { margin-top: 12px; border: 1px dashed var(--rhet); border-radius: var(--radius-s); background: var(--rhet-soft); padding: 8px 12px; }
+.rhet-label { font-size: .72rem; color: var(--rhet); text-transform: uppercase; letter-spacing: .06em; font-weight: 600; margin-bottom: 4px; }
+.rhet-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.rhet-item + .rhet-item { border-top: 1px dashed var(--line-strong); padding-top: 8px; }
+.rhet-top { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; }
+.rhet-obs { margin: 4px 0 0; font-size: .95rem; color: var(--text-2); }
+.badge.rhet-badge { border-style: dashed; border-color: var(--rhet); color: var(--rhet); background: transparent; }
+.claim .rhet details, .rhet-panel details { border-top: 0; }
+.claim .rhet summary, .rhet-panel summary { padding: 4px 0; font-size: .85rem; color: var(--rhet); cursor: pointer; }
+.rhet .kv { font-size: .88rem; margin-top: 4px; }
+.rhet-panel { border-style: dashed; border-color: var(--rhet); }
+.rhet-panel .rhet-counts { margin: 6px 0 8px; }
+.rhet-toggle { display: inline-flex; gap: 6px; align-items: center; font-size: .92rem; color: var(--text-2); }
+.hide-rhet .rhet { display: none; }
+.claim .rhet summary::before, .rhet-panel summary::before { margin-right: 4px; }

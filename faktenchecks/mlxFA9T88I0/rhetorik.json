@@ -1,0 +1,307 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mlxFA9T88I0",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-18",
+    "by": "Claude",
+    "basis": "Durchsicht der dokumentierten Prüfnotizen aller 395 erfassten Aussagen der Faktenebene (Beschreibung, Begründung, Fundstellenhinweise), mit besonderem Augenmerk auf Meinungen, Prognosen und bereits als zugespitzt, pauschal, satirisch oder abwertend vermerkte Stellen.",
+    "coverage": "10 Hinweise zu 9 von 395 erfassten Aussagen. Das Video ist rhetorisch nicht vollständig geprüft; die Faktenebene ist selbst ein Teilbestand.",
+    "limits": [
+      "Keine eigene Sichtung von Video, Ton oder Untertiteln durch Claude; YouTube war aus der Prüfumgebung nicht erreichbar.",
+      "Grundlage sind ausschließlich die vorhandenen Prüfnotizen der Faktenebene. Rhetorische Merkmale, die dort nicht beschrieben sind, konnten nicht erkannt werden.",
+      "Aussagen ohne Hinweis sind nicht als rhetorisch unauffällig bestätigt, sondern nur ohne dokumentierten Anhaltspunkt.",
+      "Möglicher Tunnelblick und die Wiedergabe von Gegenpositionen wurden nicht markiert: beides setzt eine konkrete fehlende Gegeninformation bzw. einen Vergleich mit dem vollständigen Kontext voraus, der hier nicht vorlag.",
+      "Alle Hinweise sind KI-Vorschläge ohne redaktionelle Prüfung."
+    ],
+    "history": [
+      {
+        "date": "2026-11-18",
+        "by": "Claude",
+        "change": "Erste Rhetorik-Einordnung aus vorhandenen Prüfnotizen (Issue #21)."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "mlxFA9T88I0-R0001",
+      "claimId": "mlxFA9T88I0-A0048",
+      "feature": "pauschalisierung",
+      "startSeconds": 1465,
+      "endSeconds": 1478,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Übernommen aus der Fundstelle mlxFA9T88I0-O0061 der Faktenprüfung: Automatische deutsche Originaluntertitel am 17.11.2026 im Gesprächszusammenhang gelesen. Moderatorfragen, Gastbiografie und Werberolle stützen nur einen Kandidaten. Keine namentlich gekennzeichnete verlässliche Transkription und kein Audio-/Videoabgleich. Die Altangabe und JSON3-Wechselmarken beweisen keine Identität."
+      },
+      "observation": "Die EU und große US-Plattformen werden gemeinsam unter einer einheitlichen, stark wertenden Sammelbezeichnung als politischer Zensurapparat zusammengefasst.",
+      "reason": "Verschiedene Akteure werden ohne Unterscheidung einer gemeinsamen Funktion zugeordnet. Die Faktenprüfung vermerkt, dass daraus keine gemeinsame Steuerung oder konkrete Rechtsverletzung folgt.",
+      "context": "Wertung des Moderators im Gespräch über Plattformregeln; auf der Faktenebene als Meinung eingeordnet. Kritik an Moderationsregeln oder am DSA ist legitim.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Erstmalig erfasst (Issue #21)."
+        }
+      ]
+    },
+    {
+      "id": "mlxFA9T88I0-R0002",
+      "claimId": "mlxFA9T88I0-A0203",
+      "feature": "pauschalisierung",
+      "startSeconds": 4914,
+      "endSeconds": 4944,
+      "speaker": {
+        "id": "SP02",
+        "attribution": "Plausibel",
+        "basis": "Übernommen aus der Fundstelle mlxFA9T88I0-O0231 der Faktenprüfung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme."
+      },
+      "observation": "Insolvente Unternehmer werden als Typ der schlechten Unternehmer beschrieben, die nicht weit genug vorausgeschaut hätten.",
+      "reason": "Die Faktenprüfung bezeichnet die Stelle als wertende Typisierung; Insolvenzen haben vielfältige Ursachen, die Stelle setzt sie mit schlechter Führung gleich.",
+      "context": "Einschätzung des Gastes aus eigener unternehmerischer Sicht; auf der Faktenebene als Meinung eingeordnet.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Erstmalig erfasst (Issue #21)."
+        }
+      ]
+    },
+    {
+      "id": "mlxFA9T88I0-R0003",
+      "claimId": "mlxFA9T88I0-A0208",
+      "feature": "pauschalisierung",
+      "startSeconds": 5030,
+      "endSeconds": 5033,
+      "speaker": {
+        "id": "SP02",
+        "attribution": "Plausibel",
+        "basis": "Übernommen aus der Fundstelle mlxFA9T88I0-O0236 der Faktenprüfung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme."
+      },
+      "observation": "Das Wahlverhalten in einer ganzen Stadt wird mit einem einzigen Motiv erklärt, dem Bezug staatlicher Leistungen ohne Arbeit.",
+      "reason": "Die Faktenprüfung vermerkt, dass aus einer regionalen Arbeitslosenquote kein Motiv einzelner Wählender folgt; die Erklärung verallgemeinert auf eine große Gruppe.",
+      "context": "Kausale Deutung des Gastes; auf der Faktenebene als Meinung eingeordnet.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Erstmalig erfasst (Issue #21)."
+        }
+      ]
+    },
+    {
+      "id": "mlxFA9T88I0-R0004",
+      "claimId": "mlxFA9T88I0-A0271",
+      "feature": "pauschalisierung",
+      "startSeconds": 6420,
+      "endSeconds": 6455,
+      "speaker": {
+        "id": "SP02",
+        "attribution": "Plausibel",
+        "basis": "Übernommen aus der Fundstelle mlxFA9T88I0-O0312 der Faktenprüfung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme."
+      },
+      "observation": "Allen Politikern wird ein gemeinsames Wissen über eine unterstellte staatliche Absicht zugeschrieben.",
+      "reason": "Die Verallgemeinerung auf alle Politiker ist bereits in unserer Paraphrase enthalten; die Faktenprüfung ordnet die Absicht als nicht prüfbare Unterstellung ein.",
+      "context": "Aussage des Gastes im geldpolitischen Gesprächsteil; auf der Faktenebene als Meinung eingeordnet. Möglicherweise umgangssprachliche Übertreibung statt wörtlich gemeinter Allaussage.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Erstmalig erfasst (Issue #21)."
+        }
+      ]
+    },
+    {
+      "id": "mlxFA9T88I0-R0005",
+      "claimId": "mlxFA9T88I0-A0295",
+      "feature": "abwertung",
+      "startSeconds": 7330,
+      "endSeconds": 7365,
+      "speaker": {
+        "id": "SP02",
+        "attribution": "Plausibel",
+        "basis": "Übernommen aus der Fundstelle mlxFA9T88I0-O0338 der Faktenprüfung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme."
+      },
+      "observation": "Menschen, die staatliche Leistungen beziehen, werden als nicht produktive Kräfte beschrieben (unsere Paraphrase), die nicht merkten, dass das System brüchig werde.",
+      "reason": "Die Formulierung spricht einer Gruppe pauschal Produktivität und Einsicht ab. Das geht über eine Sachkritik an Sozialpolitik hinaus.",
+      "context": "Politische Wertung des Gastes; auf der Faktenebene als Meinung eingeordnet. Der Gast verbindet die Aussage mit der Sorge, der Staat erweise diesen Menschen einen Bärendienst; die Stelle ist also nicht nur abwertend gemeint.",
+      "assessment": "Möglich",
+      "reliability": "Niedrig",
+      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Die Begriffe stammen aus unserer Paraphrase; ob sie den Wortlaut genau treffen, ist ungeprüft.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Erstmalig erfasst (Issue #21)."
+        }
+      ]
+    },
+    {
+      "id": "mlxFA9T88I0-R0006",
+      "claimId": "mlxFA9T88I0-A0297",
+      "feature": "emotionalisierung",
+      "startSeconds": 7420,
+      "endSeconds": 7450,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Übernommen aus der Fundstelle mlxFA9T88I0-O0340 der Faktenprüfung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme."
+      },
+      "observation": "Die wirtschaftliche Lage wird mit einer Steigerungsform als gigantische Krise beschrieben und mit dem Vorwurf verbunden, der Staat vertusche sie.",
+      "reason": "Die Faktenprüfung ordnet die Stelle als zuspitzende Deutung des Moderators ein; Steigerungsform und Vertuschungsvorwurf sind beobachtbare emotionalisierende Mittel.",
+      "context": "Moderator im Gespräch; auf der Faktenebene als Meinung eingeordnet. Emotionale Sprache allein ist kein Sachfehler.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Erstmalig erfasst (Issue #21)."
+        }
+      ]
+    },
+    {
+      "id": "mlxFA9T88I0-R0007",
+      "claimId": "mlxFA9T88I0-A0300",
+      "feature": "emotionalisierung",
+      "startSeconds": 7502,
+      "endSeconds": 7530,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Übernommen aus der Fundstelle mlxFA9T88I0-O0344 der Faktenprüfung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme."
+      },
+      "observation": "Die Lage Deutschlands wird mit dem Bild eines Schiffes beschrieben, das mit voller Kraft auf einen Eisberg zufährt und die Kollision nicht mehr abwenden kann.",
+      "reason": "Die Faktenprüfung bezeichnet die Stelle als bildhafte Zusammenfassung des Moderators. Ein unausweichliches Katastrophenbild ist ein beobachtbares emotionalisierendes Mittel.",
+      "context": "Zusammenfassende Metapher des Moderators; auf der Faktenebene als Prognose ohne prüfbare Einzelangabe eingeordnet.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Erstmalig erfasst (Issue #21)."
+        }
+      ]
+    },
+    {
+      "id": "mlxFA9T88I0-R0008",
+      "claimId": "mlxFA9T88I0-A0354",
+      "feature": "pauschalisierung",
+      "startSeconds": 9500,
+      "endSeconds": 9520,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Übernommen aus der Fundstelle mlxFA9T88I0-O0404 der Faktenprüfung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme."
+      },
+      "observation": "Großunternehmen werden insgesamt als wenig innovativ beschrieben, begründet mit Flurfunk und Ablenkung.",
+      "reason": "Die Faktenprüfung bezeichnet die Stelle als wertende Verallgemeinerung.",
+      "context": "Beiläufige Einschätzung im Gesprächsteil über persönliche Arbeitsweise; auf der Faktenebene als Meinung eingeordnet.",
+      "assessment": "Möglich",
+      "reliability": "Niedrig",
+      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Die Prüfnotiz ist knapp; Einschränkungen im Umfeld sind nicht bekannt.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Erstmalig erfasst (Issue #21)."
+        }
+      ]
+    },
+    {
+      "id": "mlxFA9T88I0-R0009",
+      "claimId": "mlxFA9T88I0-A0387",
+      "feature": "abwertung",
+      "startSeconds": 10900,
+      "endSeconds": 10915,
+      "speaker": {
+        "id": "SP02",
+        "attribution": "Plausibel",
+        "basis": "Übernommen aus der Fundstelle mlxFA9T88I0-O0438 der Faktenprüfung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme."
+      },
+      "observation": "Menschen werden in Wissende und Unwissende eingeteilt; den Unwissenden wird zugeschrieben, den falschen Politikern zu folgen.",
+      "reason": "Die Einteilung spricht einer nicht näher bestimmten Gruppe pauschal Urteilsvermögen ab. Das ist eine herabsetzende Gruppenzuschreibung, keine Sachkritik an einer Position.",
+      "context": "Wertung des Gastes gegen Ende des Gesprächs; auf der Faktenebene als Meinung eingeordnet.",
+      "assessment": "Möglich",
+      "reliability": "Niedrig",
+      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Die Prüfnotiz enthält nur eine kurze Einordnung; Ironie oder Selbstbezug sind nicht ausgeschlossen.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Erstmalig erfasst (Issue #21)."
+        }
+      ]
+    },
+    {
+      "id": "mlxFA9T88I0-R0010",
+      "claimId": "mlxFA9T88I0-A0387",
+      "feature": "pauschalisierung",
+      "startSeconds": 10900,
+      "endSeconds": 10915,
+      "speaker": {
+        "id": "SP02",
+        "attribution": "Plausibel",
+        "basis": "Übernommen aus der Fundstelle mlxFA9T88I0-O0438 der Faktenprüfung: Gesamten Kapitelabschnitt der automatischen deutschen Originaluntertitel am 18.11.2026 gelesen (Claude). Gesprächsfluss, Fragen und Ich-Bezüge stützen nur den angegebenen Kandidaten. Kein verlässlich beschriftetes Sprechertranskript und keine Audio-/Videokontrolle; weder Metadaten noch Wechselmarken bestätigen eine konkrete Stimme."
+      },
+      "observation": "Eine Gruppe von Menschen wird pauschal einem bestimmten politischen Verhalten zugeordnet.",
+      "reason": "Verallgemeinerung von einer Eigenschaft (Unwissen) auf ein einheitliches Wahlverhalten.",
+      "context": "Gleiche Stelle wie der Hinweis auf abwertende Sprache; die Merkmale werden getrennt geführt.",
+      "assessment": "Möglich",
+      "reliability": "Niedrig",
+      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Erstmalig erfasst (Issue #21)."
+        }
+      ]
+    }
+  ]
+}

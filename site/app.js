@@ -270,12 +270,14 @@ async function loadVideo(id) {
   if (state.videos.has(id)) return state.videos.get(id);
   const entry = state.index.videos.find(v => v.id === id);
   if (!entry) throw new Error('Unbekanntes Video: ' + id);
-  const [readme, data, stats] = await Promise.all([
+  const [readme, data, stats, rhet] = await Promise.all([
     getText(id + '/README.md').catch(() => ''),
     entry.structured ? getJson(id + '/strukturiert/aussagen.json') : Promise.resolve(null),
-    entry.structured ? getJson(id + '/strukturiert/statistik.json').catch(() => null) : Promise.resolve(null)
+    entry.structured ? getJson(id + '/strukturiert/statistik.json').catch(() => null) : Promise.resolve(null),
+    /* Zweite Ebene (Rhetorik) ist optional; fehlt sie, gilt das Video als rhetorisch noch nicht geprüft. */
+    entry.rhetoric ? getJson(id + '/rhetorik.json').catch(() => null) : Promise.resolve(null)
   ]);
-  const v = { ...entry, readme, meta: readmeMeta(readme), data, stats };
+  const v = { ...entry, readme, meta: readmeMeta(readme), data, stats, rhet };
   state.videos.set(id, v);
   return v;
 }
@@ -464,6 +466,12 @@ function videoFacts(v) {
   return items.join('');
 }
 
+function rhetHomeLine(v) {
+  const st = FactRhetoric.reviewState(v.rhet);
+  if (!v.rhet) return 'Darstellung (Rhetorik): noch nicht geprüft';
+  return `Darstellung (Rhetorik): ${esc(st.status.toLowerCase())} · ${st.annotations} KI-Hinweis${st.annotations === 1 ? '' : 'e'}`;
+}
+
 async function pageHome() {
   const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   /* Hauptübersicht: nur Originalinterviews; Reaktionen erscheinen bei ihrem Original. */
@@ -487,6 +495,7 @@ async function pageHome() {
       ${claims.length ? `<div>${distribution(claims)}</div>
         <p class="meta">${claims.length} strukturierte Aussagen · ${claims.filter(c => c.status === 'Abgeschlossen').length} abgeschlossen${scope && scope.totalLegacyPoints ? ` · ${scope.totalLegacyPoints - scope.unmigratedLegacyPoints} von ${scope.totalLegacyPoints} Prüfpunkten des Erststands strukturiert` : ''}</p>`
         : '<p class="meta">Noch keine strukturierten Aussagen; Berichte als Text verfügbar.</p>'}
+      <p class="meta">${rhetHomeLine(v)}</p>
       ${v.video?.role === 'original' ? `<p class="meta">${nReact ? `${nReact} zugeordnete Reaktion${nReact === 1 ? '' : 'en'} und weitere Faktenchecks` : 'Noch keine Reaktionen zugeordnet'}</p>` : ''}
       <span class="more">Zum Faktencheck →</span>
     </a>`;
@@ -542,7 +551,77 @@ async function pageHome() {
   document.title = 'Politik4M3 Faktencheck Ungeskriptet';
 }
 
-function claimCard(c, v, chapterTitles, linkedVideos) {
+/* ---------- Zweite Ebene: Rhetorik und Darstellung (siehe docs/RHETORIK.md) ---------- */
+/* Rhetorik-Hinweise stehen getrennt neben der Faktenbewertung, ändern sie nie und zählen nicht als Fehler. */
+const RHET_KEY = 'p4m3.rhetorikHinweise';
+function rhetShown() {
+  try { return localStorage.getItem(RHET_KEY) !== 'aus'; } catch (e) { return true; }
+}
+function setRhetShown(on) {
+  try { localStorage.setItem(RHET_KEY, on ? 'an' : 'aus'); } catch (e) { /* nur Anzeigevorliebe */ }
+  document.documentElement.classList.toggle('hide-rhet', !on);
+}
+function rhetBadge(a) {
+  const f = FactRhetoric.FEATURES[a.feature];
+  return `<span class="badge rhet-badge" data-tip="${esc(f?.hint || '')}">${esc(f?.name || a.feature)}${a.assessment !== 'Erkennbar' ? ' · ' + esc(a.assessment.toLowerCase()) : ''}</span>`;
+}
+function rhetSpeaker(a, d) {
+  const sp = (d?.speakers || []).find(s => s.id === a.speaker?.id);
+  const name = sp ? (sp.name || 'Unbenannte Stimme ' + sp.id) : null;
+  if (a.speaker?.attribution === 'Bestätigt' && name) return esc(name);
+  if (a.speaker?.attribution === 'Plausibel' && name) return 'vermutlich ' + esc(name);
+  return 'Sprecher ungeklärt';
+}
+function rhetBlock(list, v) {
+  if (!list || !list.length) return '';
+  const url = v.data?.scope?.videoUrl || v.video?.videoUrl;
+  const items = list.map(a => {
+    const t = `${hms(a.startSeconds)}–${hms(a.endSeconds)}`;
+    const time = videoTimeUrl(url, a.startSeconds) ? extLink(videoTimeUrl(url, a.startSeconds), `<span class="time">▶ ${t}</span>`) : `<span class="time">${t}</span>`;
+    return `<li class="rhet-item">
+      <div class="rhet-top">${rhetBadge(a)}<span class="small">${time} · ${rhetSpeaker(a, v.data)}</span></div>
+      <p class="rhet-obs">${esc(a.observation)}</p>
+      <details class="rhet-more"><summary>Begründung, Kontext und Unsicherheit</summary>
+        <dl class="kv">
+          <dt>Begründung</dt><dd>${esc(a.reason)}</dd>
+          <dt>Kontext</dt><dd>${esc(a.context)}</dd>
+          ${a.missingInformation ? `<dt>Fehlende Information</dt><dd>${esc(a.missingInformation.what)}${a.missingInformation.source ? ' · ' + extLink(a.missingInformation.source, 'Quelle') : ''}${a.missingInformation.reasoning ? ' · ' + esc(a.missingInformation.reasoning) : ''}</dd>` : ''}
+          <dt>Unsicherheit</dt><dd>${esc(a.uncertainty)}</dd>
+          <dt>Zuverlässigkeit</dt><dd>${esc(a.reliability)}</dd>
+          <dt>Sprecherzuordnung</dt><dd>${esc(a.speaker?.basis)}</dd>
+          <dt>Grundlage</dt><dd>${esc(a.basis)}</dd>
+          <dt>Prüfstand</dt><dd>${esc(a.status)} · ${(a.history || []).map(h => `${esc(deDate(h.date))} ${esc(h.by)}: ${esc(h.change)}`).join(' · ')}</dd>
+        </dl>
+      </details>
+    </li>`;
+  }).join('');
+  return `<section class="rhet" aria-label="Darstellung: Rhetorik-Hinweise">
+    <div class="rhet-label">Darstellung · KI-Hinweis, getrennt von der Faktenbewertung</div>
+    <ul class="rhet-list">${items}</ul>
+  </section>`;
+}
+function rhetPanel(v) {
+  const r = v.rhet;
+  const st = FactRhetoric.reviewState(r);
+  if (!r) {
+    return `<div class="panel rhet-panel"><h3>Darstellung (zweite Ebene)</h3>
+      <p><strong>Noch nicht geprüft.</strong> Für dieses Video gibt es noch keine Rhetorik-Einordnung. Das heißt nicht, dass es rhetorisch unauffällig ist.</p></div>`;
+  }
+  const counts = FactRhetoric.featureCounts(r);
+  const rows = Object.entries(counts).filter(([, n]) => n > 0)
+    .map(([k, n]) => `<li>${esc(FactRhetoric.FEATURES[k].name)} <b>${n}</b></li>`).join('');
+  return `<div class="panel rhet-panel"><h3>Darstellung (zweite Ebene)</h3>
+    <p><strong>${esc(st.status)}</strong> · Stand ${esc(deDate(r.review.checkedOn))} · ${esc(r.review.by)}</p>
+    <p>${esc(r.review.coverage)}</p>
+    ${rows ? `<ul class="rhet-counts">${rows}</ul>` : ''}
+    <p class="small">Hinweise darauf, <em>wie</em> etwas gesagt wird: abwertend, ironisch, pauschal, emotionalisierend, einseitig. Sie sind KI-Einschätzungen, ändern keine Faktenbewertung, zählen nicht als Fehler und ergeben keine Note für Personen.</p>
+    <details class="rhet-more"><summary>Grundlage und Grenzen</summary>
+      <p class="small">${esc(r.review.basis)}</p>
+      <ul class="questions">${(r.review.limits || []).map(x => `<li>${esc(x)}</li>`).join('')}</ul>
+    </details></div>`;
+}
+
+function claimCard(c, v, chapterTitles, linkedVideos, rhetList) {
   const d = v.data;
   const speakers = Object.fromEntries((d.speakers || []).map(s => [s.id, s]));
   const sources = Object.fromEntries((d.sources || []).map(s => [s.id, s]));
@@ -603,6 +682,7 @@ function claimCard(c, v, chapterTitles, linkedVideos) {
         <div class="claim-desc-label">Prüfgegenstand – unsere Beschreibung, kein Zitat</div>
         <p class="claim-desc">${esc(c.description)}</p>
         <p class="claim-reason">${esc(c.reason)}</p>
+        ${rhetBlock(rhetList, v)}
       </div>
     </div>
     <details>
@@ -691,6 +771,7 @@ async function pageVideo(id, focusClaim) {
     `<li><i class="fill-${VKEY[cat.category]}" aria-hidden="true"></i>${esc(cat.category)} <b>${cat.completedCount}</b>${cat.completedFactPercent != null ? ` <span class="muted">(${pct(cat.completedFactPercent)})</span>` : ''}</li>`).join('') : '';
 
   const linkedVideos = await loadLinked([...(state.rel.byOriginal.get(v.id) || []), ...(state.rel.byReaction.get(v.id) || [])]);
+  const rhetByClaim = FactRhetoric.byClaim(v.rhet);
   const speakers = (d.speakers || []).map(sp => `<li><strong>${esc(sp.name || 'Unbenannte Stimme')}</strong> (${esc(sp.id)}, ${esc(sp.videoRole)})<br><span class="small">${esc(sp.identityBasis)}</span></li>`).join('');
 
   setPage(`<div class="wrap">
@@ -714,13 +795,20 @@ async function pageVideo(id, focusClaim) {
             <option value="">Alle Kapitel</option>
             ${chapters.map(n => `<option value="${n}">Kapitel ${n}${titles[n] ? ' · ' + esc(titles[n]) : ''}</option>`).join('')}
           </select>
+          ${v.rhet ? `<select id="f-r" aria-label="Nach Rhetorik-Hinweis filtern">
+            <option value="">Darstellung: alle</option>
+            <option value="*">Mit Rhetorik-Hinweis</option>
+            ${Object.entries(FactRhetoric.featureCounts(v.rhet)).filter(([, n]) => n > 0).map(([k]) => `<option value="${k}">${esc(FactRhetoric.FEATURES[k].name)}</option>`).join('')}
+          </select>
+          <label class="rhet-toggle"><input type="checkbox" id="f-rs"${rhetShown() ? ' checked' : ''}> Rhetorik-Hinweise anzeigen</label>` : ''}
         </div>
         <p class="result-count" id="count" aria-live="polite"></p>
-        <div class="claims" id="claims">${d.claims.map(c => claimCard(c, v, titles, linkedVideos)).join('')}</div>
+        <div class="claims" id="claims">${d.claims.map(c => claimCard(c, v, titles, linkedVideos, rhetByClaim.get(c.id))).join('')}</div>
       </div>
       <aside class="aside">
         ${catRows ? `<div class="panel"><h3>Ergebnisse der abgeschlossenen Prüfungen</h3><ul class="legend" style="flex-direction:column;align-items:flex-start">${catRows}</ul>
           <p class="small" style="margin-top:10px">Prozente beziehen sich nur auf ${s.percentageDenominator} abgeschlossene Tatsachenbehauptungen; Meinungen, Prognosen und offene Prüfungen zählen nicht mit. Bei so kleinen Zahlen sind Anteile kaum aussagekräftig.</p></div>` : ''}
+        ${rhetPanel(v)}
         <div class="panel"><h3>Recherchegrundlage</h3><p>${esc(scope.researchNote)}</p></div>
         ${speakers ? `<div class="panel"><h3>Personen im Video</h3><ul>${speakers}</ul><p class="small" style="margin-top:8px">Sprecherzuordnungen werden je Fundstelle als bestätigt, plausibel oder ungeklärt angegeben. Es gibt bewusst keine Glaubwürdigkeitsnoten oder Ranglisten von Personen.</p></div>` : ''}
         <div class="panel"><h3>Prüfung und Diskussion</h3><p>Erstellt von Codex. ChatGPT und Claude prüfen unabhängig; ihre Hinweise, Widersprüche und Codex’ Entscheidungen stehen öffentlich auf GitHub. Nicht jede Aussage ist bereits gegengeprüft.</p>
@@ -731,6 +819,9 @@ async function pageVideo(id, focusClaim) {
   document.title = v.title + ' – Politik4M3 Faktencheck Ungeskriptet';
 
   const q = document.getElementById('f-q'), fv = document.getElementById('f-v'), fc = document.getElementById('f-c');
+  const fr = document.getElementById('f-r'), frs = document.getElementById('f-rs');
+  setRhetShown(rhetShown());
+  if (frs) frs.addEventListener('change', () => { setRhetShown(frs.checked); if (!frs.checked && fr) fr.value = ''; apply(); });
   const cards = [...document.querySelectorAll('#claims .claim')];
   const byId = Object.fromEntries(d.claims.map(c => [c.id, c]));
   const apply = () => {
@@ -738,20 +829,23 @@ async function pageVideo(id, focusClaim) {
     let n = 0;
     for (const el of cards) {
       const c = byId[el.id];
-      const ok = (!fv.value || bucketOf(c) === fv.value) && (!fc.value || String(c.chapter) === fc.value) &&
+      const rl = rhetByClaim.get(c.id) || [];
+      const okR = !fr || !fr.value || (fr.value === '*' ? rl.length > 0 : rl.some(a => a.feature === fr.value));
+      const ok = (!fv.value || bucketOf(c) === fv.value) && (!fc.value || String(c.chapter) === fc.value) && okR &&
         (!term || el.textContent.toLowerCase().includes(term));
       el.hidden = !ok; if (ok) n++;
     }
     document.getElementById('count').textContent = n === cards.length ? `${n} Aussagen` : `${n} von ${cards.length} Aussagen`;
   };
-  [q, fv, fc].forEach(el => el.addEventListener('input', apply));
+  [q, fv, fc, fr].filter(Boolean).forEach(el => el.addEventListener('input', apply));
+  if (fr) fr.addEventListener('input', () => { if (fr.value && frs && !frs.checked) { frs.checked = true; setRhetShown(true); } });
   apply();
 
   if (focusClaim) {
     const el = document.getElementById(focusClaim);
     if (el) {
       el.classList.add('highlight');
-      el.querySelector('details').open = true;
+      el.querySelector(':scope > details').open = true;
       requestAnimationFrame(() => el.scrollIntoView({ block: 'start' }));
     }
   } else {
@@ -844,6 +938,17 @@ function pageMethod() {
         <li><strong>Keine Doppelzählung.</strong> Wiederholungen werden als weitere Fundstellen derselben Aussage geführt, nicht als neue Aussagen.</li>
         <li><strong>Teilbestände ehrlich kennzeichnen.</strong> Wenn nur ein Teil eines Videos strukturiert geprüft ist, gibt es keine Gesamtbilanz.</li>
         <li><strong>Keine Rankings.</strong> Wir vergeben keine Glaubwürdigkeitsnoten für Personen.</li>
+      </ul>
+    </section>
+
+    <section class="section prose-plain"><h2>Zweite Ebene: Wie etwas gesagt wird</h2>
+      <p>Getrennt von der Frage, ob eine Aussage stimmt, kann eine Stelle einen <strong>Hinweis zur Darstellung</strong> erhalten: ${Object.values(FactRhetoric.FEATURES).map(f => esc(f.name)).join(', ')}. Eine sachlich richtige Aussage kann abwertend formuliert sein, eine falsche Aussage höflich.</p>
+      <ul>
+        <li><strong>Getrennt und ausblendbar.</strong> Die Hinweise stehen unter der Faktenbewertung, sind als KI-Einschätzung gekennzeichnet und lassen sich ausblenden.</li>
+        <li><strong>Keine Fehlerpunkte.</strong> Rhetorik-Hinweise ändern keine Bewertung, fließen in keine Statistik ein und ergeben keine Note für Personen.</li>
+        <li><strong>Beobachtung statt Urteil.</strong> Beschrieben wird die Stelle, nicht die Person; Motive werden nicht unterstellt. Ironie und Satire sind Stilmittel und nicht automatisch negativ.</li>
+        <li><strong>Möglicher Tunnelblick</strong> wird nur markiert, wenn eine konkret benennbare, relevante Gegeninformation fehlt, mit Quelle oder Begründung.</li>
+        <li><strong>Ehrlicher Prüfstand.</strong> Je Video steht, wie weit die Einordnung reicht. Fehlt ein Hinweis, heißt das nicht, dass die Stelle unauffällig ist. Für alle Kanäle, Gäste und Faktenchecker gelten dieselben Maßstäbe.</li>
       </ul>
     </section>
 

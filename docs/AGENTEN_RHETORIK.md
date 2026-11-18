@@ -37,3 +37,7 @@ Bei einer konkreten Videostelle kann die KI unabhängig von Ebene 1 folgende Mer
 - „Meinung / Prognose“ + „Ironie“ ist möglich.
 - Fehlende Gegenposition ohne konkreten Bezug wird **nicht** automatisch als Tunnelblick markiert.
 - Bestehende Daten ohne Rhetorikannotation bleiben valide und in allen bisherigen Ansichten auswertbar.
+
+## Umsetzung
+
+Datenmodell, Validierung, Anzeige und aktueller Prüfstand je Video: [RHETORIK.md](RHETORIK.md) (Claude, Issue #21).
