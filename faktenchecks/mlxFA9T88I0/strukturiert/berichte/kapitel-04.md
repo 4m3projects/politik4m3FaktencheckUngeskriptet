@@ -1689,7 +1689,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Kleine und mittlere Unternehmen bilden den Kern der deutschen Wertschöpfung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1712,21 +1712,22 @@ Frueherer Suchbereich: [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. An Unternehmensstatistik prüfbar (Anteil an Wertschöpfung und Beschäftigung); keine solche Quelle gelesen. Der Begriff Kern ist zudem wertend.
+KMU sind der größte Arbeitgeber, tragen aber weniger als die Hälfte der Wertschöpfung: Nach einer Datev-Studie mit Daten des Statistischen Bundesamts stellten sie 2023 gut 99 Prozent der Unternehmen, rund 53 Prozent der Beschäftigung, aber nur rund 41 Prozent der Bruttowertschöpfung und 26 Prozent des Umsatzes, jeweils mit sinkender Tendenz seit 2018. „Kern“ ist eine Wertung; für die Beschäftigung trifft sie zu, als größter Teil der Wertschöpfung nicht.
 
-Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Pressebericht über eine Datev-Studie; KMU-Abgrenzung laut Bericht in der Regel bis 500 Beschäftigte.
 
 Uebernahme: Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): KMU-Anteile recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Kleine Unternehmen in Deutschland geraten zunehmend unter Druck](https://www.cash.ch/news/kleine-unternehmen-in-deutschland-geraten-zunehmend-unter-druck-906679) · AWP/cash.ch, 08.02.2026; berichtet über eine Datev-Studie mit Material des Statistischen Bundesamts, Bezugsjahre 2018–2023.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Die Datev-Studie selbst nicht eingesehen. Keine Quellenkopie veröffentlicht. KMU-Anteile an Unternehmen, Beschäftigung, Wertschöpfung und Umsatz 2023.
 
 ### Offene Fragen und Unsicherheiten
 
-- KMU-Anteile an Bruttowertschöpfung und Beschäftigung (Destatis, IfM Bonn) lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0215
 

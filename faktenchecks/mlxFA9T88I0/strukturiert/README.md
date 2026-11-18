@@ -13,8 +13,8 @@ A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfo
 - Ausgewaehlte bisherige Pruefpunkte: 99 von 99
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 392
-- Abgeschlossen: 198
-- Offen (noch nicht geprueft): 44
+- Abgeschlossen: 201
+- Offen (noch nicht geprueft): 41
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 150
 - Erfasste Behauptungsvorkommen: 436
@@ -30,16 +30,16 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 118 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 121 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 33 | 28.0 % |
-| Teilweise belegt | 58 | 49.2 % |
-| Irreführend / Kontext fehlt | 18 | 15.3 % |
-| Widerlegt | 7 | 5.9 % |
+| Belegt | 34 | 28.1 % |
+| Teilweise belegt | 59 | 48.8 % |
+| Irreführend / Kontext fehlt | 19 | 15.7 % |
+| Widerlegt | 7 | 5.8 % |
 | Nicht ausreichend belegbar | 2 | 1.7 % |
 | Meinung / Prognose | 80 | nicht anwendbar |
 

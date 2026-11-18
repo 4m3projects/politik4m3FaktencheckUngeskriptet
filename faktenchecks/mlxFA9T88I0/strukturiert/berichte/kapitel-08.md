@@ -1824,7 +1824,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Staat habe in der Vergangenheit auf Immobilieneigentum zugegriffen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1847,21 +1847,22 @@ Frueherer Suchbereich: [02:40:59–02:43:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – zu unbestimmt. Gemeinte Fälle sind nicht genannt (etwa historische Sonderabgaben). Keine Quelle gelesen.
+Zutreffend jedenfalls für die Bundesrepublik: Mit dem Lastenausgleichsgesetz von 1952 mussten Eigentümer größerer erhaltener Vermögen, ausdrücklich auch von Häusern, die Hälfte des Werts als Vermögensabgabe in Raten über 30 Jahre abführen. Welche Fälle der Sprecher genau meint, sagt er nicht; die allgemeine Aussage ist damit gedeckt.
 
-Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Pressebericht zum 70. Jahrestag des Lastenausgleichs; Gesetzestext nicht gelesen.
 
 Uebernahme: Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Lastenausgleich 1952 als Beispiel recherchiert; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Vor 70 Jahren: Lastenausgleich zugunsten von Millionen Kriegsopfern](https://www.sonntagsblatt.de/artikel/gesellschaft/vor-70-jahren-lastenausgleich-zugunsten-von-millionen-kriegsopfern) · Sonntagsblatt / epd (Dirk Baas), 23.08.2022; Lastenausgleichsgesetz von 1952.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Gesetzestext nicht gelesen. Keine Quellenkopie veröffentlicht. Vermögensabgabe von 50 Prozent auf Immobilien und andere Vermögen, 1952–1979.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche historischen Abgaben sind gemeint? Fachquelle lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0361
 
