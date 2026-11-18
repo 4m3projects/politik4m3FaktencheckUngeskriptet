@@ -61,6 +61,9 @@ Regeln, die der Validator durchsetzt:
 
 ## Anzeige
 
+- Im Kopf jeder betroffenen Aussage eine gestrichelte Kennzeichnung „Darstellung: <Merkmal>“ hinter der Faktenbewertung.
+- Detailseite: unter Statistik und Verteilungsbalken ein eigener Kasten „Darstellung“ mit Anzahl je Merkmal; ein Klick filtert die Aussagen.
+- Startseite: jede Videokarte zeigt Anzahl und Art der Hinweise und den Prüfstand; oben die Gesamtzahl der Darstellungshinweise.
 - Unter der Faktenbewertung jeder betroffenen Aussage, gestrichelt und farblich abgesetzt, mit der Kennzeichnung „KI-Hinweis, getrennt von der Faktenbewertung“. Begründung, Kontext, Unsicherheit, Zuverlässigkeit, Grundlage und Verlauf sind aufklappbar.
 - Ein-/ausblendbar über „Rhetorik-Hinweise anzeigen“ (die Wahl wird nur im eigenen Browser gemerkt) und filterbar nach Merkmal.
 - Seitenleiste „Darstellung (zweite Ebene)“: Prüfstand, Umfang, Anzahl je Merkmal, Grundlage und Grenzen. Startseite: Prüfstand je Interview.

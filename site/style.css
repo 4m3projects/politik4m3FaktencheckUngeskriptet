@@ -537,3 +537,9 @@ a.person-link:hover { border-color: var(--accent); transform: translateY(-2px); 
 .rhet-toggle { display: inline-flex; gap: 6px; align-items: center; font-size: .92rem; color: var(--text-2); }
 .hide-rhet .rhet { display: none; }
 .claim .rhet summary::before, .rhet-panel summary::before { margin-right: 4px; }
+.rhet-sum { border: 1px dashed var(--rhet); border-radius: var(--radius-s); background: var(--rhet-soft); padding: 8px 12px; margin-top: 10px; }
+.rhet-sum .small { margin: 4px 0 0; }
+.rhet-chips { list-style: none; margin: 4px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+button.rhet-chip { font: inherit; font-size: .82rem; cursor: pointer; }
+button.rhet-chip:hover { background: var(--surface); }
+.hide-rhet .rhet-flag { display: none; }
