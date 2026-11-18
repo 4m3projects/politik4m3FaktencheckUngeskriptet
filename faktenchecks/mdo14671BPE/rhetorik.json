@@ -5,12 +5,11 @@
     "status": "Teilweise geprüft",
     "checkedOn": "2026-11-18",
     "by": "Claude",
-    "basis": "Durchsicht der dokumentierten Prüfnotizen aller 249 erfassten Aussagen der Faktenebene (Beschreibung, Begründung, Fundstellenhinweise), mit besonderem Augenmerk auf Meinungen, Prognosen und bereits als zugespitzt, pauschal, satirisch oder abwertend vermerkte Stellen.",
-    "coverage": "8 Hinweise zu 7 von 249 erfassten Aussagen. Das Video ist rhetorisch nicht vollständig geprüft; die Faktenebene ist selbst ein Teilbestand.",
+    "basis": "Alle Hinweise am automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache geprüft (Fundstelle mit Umfeld, privat außerhalb des Repositorys gelesen). Die Auswahl der Stellen beruht weiterhin auf den Prüfnotizen der Faktenebene.",
+    "coverage": "8 Hinweise zu 7 von 249 erfassten Aussagen, alle am Untertitelwortlaut geprüft. Das übrige Video wurde nicht systematisch auf Darstellungsmerkmale durchgesehen.",
     "limits": [
-      "Keine eigene Sichtung von Video, Ton oder Untertiteln durch Claude; YouTube war aus der Prüfumgebung nicht erreichbar.",
-      "Grundlage sind ausschließlich die vorhandenen Prüfnotizen der Faktenebene. Rhetorische Merkmale, die dort nicht beschrieben sind, konnten nicht erkannt werden.",
-      "Aussagen ohne Hinweis sind nicht als rhetorisch unauffällig bestätigt, sondern nur ohne dokumentierten Anhaltspunkt.",
+      "Grundlage ist der automatische Untertitel ohne eigene Hör- oder Sichtkontrolle. Tonfall, der für Ironie wichtig ist, und Sprecherwechsel sind nicht akustisch bestätigt.",
+      "Stellen außerhalb der markierten Fundstellen wurden nicht systematisch durchgesehen. Aussagen ohne Hinweis sind nicht als rhetorisch unauffällig bestätigt, sondern nur ohne geprüften Anhaltspunkt.",
       "Möglicher Tunnelblick und die Wiedergabe von Gegenpositionen wurden nicht markiert: beides setzt eine konkrete fehlende Gegeninformation bzw. einen Vergleich mit dem vollständigen Kontext voraus, der hier nicht vorlag.",
       "Alle Hinweise sind KI-Vorschläge ohne redaktionelle Prüfung."
     ],
@@ -19,6 +18,11 @@
         "date": "2026-11-18",
         "by": "Claude",
         "change": "Erste Rhetorik-Einordnung aus vorhandenen Prüfnotizen (Issue #21)."
+      },
+      {
+        "date": "2026-11-18",
+        "by": "Claude",
+        "change": "Alle Hinweise am Untertitelwortlaut geprüft (Issue #21). Kein Hinweis entfernt."
       }
     ]
   },
@@ -36,18 +40,23 @@
       },
       "observation": "Eine nicht näher bestimmte Vielzahl früher als Verschwörungsdeutung eingeordneter Corona-Thesen wird insgesamt als inzwischen bewiesen dargestellt.",
       "reason": "Die Stelle schließt von nicht benannten Einzelfällen auf eine ganze Gruppe von Thesen. Die Faktenprüfung vermerkt das Fehlen einer Liste, eines Beweismaßstabs und eines Zeitpunkts.",
-      "context": "Antwort des Gastes im Interview. Ob einzelne Thesen zutreffen, bleibt eine Frage der Faktenebene (dort offen). Der Hinweis betrifft nur die Verallgemeinerung.",
+      "context": "Antwort des Gastes im Interview. Unmittelbar danach nimmt der Gast selbst eine bekannte Verschwörungserzählung ausdrücklich aus; die Verallgemeinerung ist also nicht ausnahmslos gemeint. Als Beispiel wird nur die Corona-Zeit allgemein genannt, keine einzelne These. Ob einzelne Thesen zutreffen, bleibt eine Frage der Faktenebene.",
       "assessment": "Möglich",
       "reliability": "Mittel",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Ob an anderer Stelle konkrete Thesen benannt werden, ist nicht geprüft.",
+      "uncertainty": "Grundlage ist der automatische Untertitel; Tonfall, Betonung und Sprecherwechsel wurden nicht gehört.",
       "missingInformation": null,
       "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "basis": "Abgleich mit dem automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache (mit Zeitstempeln), privat außerhalb des Repositorys gelesen, jeweils mit etwa 10 bis 15 Sekunden Umfeld vor und nach der Fundstelle. Erstauswahl der Stelle aus den Prüfnotizen der Faktenebene. Kein Ton und kein Bild gehört oder gesehen.",
       "history": [
         {
           "date": "2026-11-18",
           "by": "Claude",
           "change": "Erstmalig erfasst (Issue #21)."
+        },
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Am Untertitelwortlaut geprüft, Merkmal bestätigt; Kontext präzisiert."
         }
       ]
     },
@@ -62,20 +71,25 @@
         "attribution": "Plausibel",
         "basis": "Übernommen aus der Fundstelle mdo14671BPE-O0082 der Faktenprüfung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme."
       },
-      "observation": "Eine Wirtschaftsordnung wird im Kern auf ein einziges Motiv zurückgeführt, die andere pauschal als Verbesserung für alle beschrieben.",
+      "observation": "Eine Wirtschaftsordnung wird im Kern auf Neid, Missgunst und Verbitterung zurückgeführt, die andere pauschal als Verbesserung für alle beschrieben.",
       "reason": "Pauschaler Kausalanspruch über ganze Wirtschaftsordnungen ohne erkennbare Einschränkung; so auch in der Begründung der Faktenprüfung vermerkt.",
       "context": "Weltanschauliche Meinungsäußerung des Gastes; auf der Faktenebene als Meinung eingeordnet. Beschrieben wird die Form der Aussage, nicht die Zulässigkeit der Meinung.",
       "assessment": "Erkennbar",
-      "reliability": "Mittel",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Mögliche Einschränkungen im Satzumfeld sind nicht geprüft.",
+      "reliability": "Hoch",
+      "uncertainty": "Grundlage ist der automatische Untertitel; Tonfall, Betonung und Sprecherwechsel wurden nicht gehört.",
       "missingInformation": null,
       "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "basis": "Abgleich mit dem automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache (mit Zeitstempeln), privat außerhalb des Repositorys gelesen, jeweils mit etwa 10 bis 15 Sekunden Umfeld vor und nach der Fundstelle. Erstauswahl der Stelle aus den Prüfnotizen der Faktenebene. Kein Ton und kein Bild gehört oder gesehen.",
       "history": [
         {
           "date": "2026-11-18",
           "by": "Claude",
           "change": "Erstmalig erfasst (Issue #21)."
+        },
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Am Untertitelwortlaut geprüft, Merkmal bestätigt; Zuverlässigkeit Mittel → Hoch; Beobachtung präzisiert."
         }
       ]
     },
@@ -95,15 +109,20 @@
       "context": "Nebenbemerkung im Gesprächszusammenhang über persönliche Gefährdung. Die Sachfrage bleibt auf der Faktenebene offen.",
       "assessment": "Möglich",
       "reliability": "Niedrig",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Ob die Aussage im Gespräch eingeschränkt oder relativiert wurde, ist nicht bekannt.",
+      "uncertainty": "Grundlage ist der automatische Untertitel; Tonfall, Betonung und Sprecherwechsel wurden nicht gehört. Der Gast leitet die Aussage selbst als Vermutung ein und stellt direkt danach klar, dass damit keine Wertung über den Wert von Leben verbunden ist. Ob die Verallgemeinerung über Kriegsopfer als rhetorisches Merkmal oder nur als Sachfrage einzuordnen ist, bleibt offen.",
       "missingInformation": null,
       "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "basis": "Abgleich mit dem automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache (mit Zeitstempeln), privat außerhalb des Repositorys gelesen, jeweils mit etwa 10 bis 15 Sekunden Umfeld vor und nach der Fundstelle. Erstauswahl der Stelle aus den Prüfnotizen der Faktenebene. Kein Ton und kein Bild gehört oder gesehen.",
       "history": [
         {
           "date": "2026-11-18",
           "by": "Claude",
           "change": "Erstmalig erfasst (Issue #21)."
+        },
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Am Untertitelwortlaut geprüft, Merkmal bestätigt; keine inhaltliche Änderung."
         }
       ]
     },
@@ -120,18 +139,23 @@
       },
       "observation": "Eine im Bundestag vertretene Partei wird als gefährlichste Partei des Landes und als totalitäres, gegen Deutschland gerichtetes Vorhaben bezeichnet.",
       "reason": "Die Zuschreibung geht über Kritik an konkreten Entscheidungen hinaus und belegt eine Organisation insgesamt mit stark abwertenden Begriffen. Sie richtet sich gegen eine Partei, nicht gegen eine einzelne Person.",
-      "context": "Politische Wertung im Interview; auf der Faktenebene als Meinung eingeordnet. Scharfe Parteikritik ist legitim; markiert wird nur die abwertende Gesamtzuschreibung.",
+      "context": "Politische Wertung im Interview; auf der Faktenebene als Meinung eingeordnet. Scharfe Parteikritik ist legitim; markiert wird nur die abwertende Gesamtzuschreibung. Im selben Abschnitt wird auch eine frühere Kanzlerin als gefährliche Figur und die Partei als Kult und Fassade beschrieben.",
       "assessment": "Erkennbar",
-      "reliability": "Mittel",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Ob die Begriffe ironisch oder als Zitat Dritter verwendet wurden, ist nicht selbst geprüft; die Prüfnotiz gibt dafür keinen Anhaltspunkt.",
+      "reliability": "Hoch",
+      "uncertainty": "Grundlage ist der automatische Untertitel; Tonfall, Betonung und Sprecherwechsel wurden nicht gehört. Am Wortlaut kein Hinweis auf Ironie oder ein Zitat Dritter.",
       "missingInformation": null,
       "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "basis": "Abgleich mit dem automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache (mit Zeitstempeln), privat außerhalb des Repositorys gelesen, jeweils mit etwa 10 bis 15 Sekunden Umfeld vor und nach der Fundstelle. Erstauswahl der Stelle aus den Prüfnotizen der Faktenebene. Kein Ton und kein Bild gehört oder gesehen.",
       "history": [
         {
           "date": "2026-11-18",
           "by": "Claude",
           "change": "Erstmalig erfasst (Issue #21)."
+        },
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Am Untertitelwortlaut geprüft, Merkmal bestätigt; Zuverlässigkeit Mittel → Hoch; Kontext präzisiert."
         }
       ]
     },
@@ -149,17 +173,22 @@
       "observation": "Einer ganzen Partei wird eine einheitliche Gesamtabsicht zugeschrieben, ohne dass konkrete Entscheidungen benannt werden.",
       "reason": "Die Faktenprüfung beschreibt eine pauschale Absichtszuschreibung ohne Nachweis eines Gesamtplans.",
       "context": "Gleiche Stelle wie der Hinweis auf abwertende Sprache; die beiden Merkmale werden getrennt geführt.",
-      "assessment": "Möglich",
-      "reliability": "Mittel",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen.",
+      "assessment": "Erkennbar",
+      "reliability": "Hoch",
+      "uncertainty": "Grundlage ist der automatische Untertitel; Tonfall, Betonung und Sprecherwechsel wurden nicht gehört. Zur Begründung werden am Wortlaut nur die Amtszeiten zweier Kanzler allgemein genannt, keine einzelnen Entscheidungen.",
       "missingInformation": null,
       "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "basis": "Abgleich mit dem automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache (mit Zeitstempeln), privat außerhalb des Repositorys gelesen, jeweils mit etwa 10 bis 15 Sekunden Umfeld vor und nach der Fundstelle. Erstauswahl der Stelle aus den Prüfnotizen der Faktenebene. Kein Ton und kein Bild gehört oder gesehen.",
       "history": [
         {
           "date": "2026-11-18",
           "by": "Claude",
           "change": "Erstmalig erfasst (Issue #21)."
+        },
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Am Untertitelwortlaut geprüft, Merkmal bestätigt; Einschätzung Möglich → Erkennbar; Zuverlässigkeit Mittel → Hoch."
         }
       ]
     },
@@ -176,18 +205,23 @@
       },
       "observation": "Den Wählerinnen und Wählern einer Partei wird insgesamt ein gemeinsames Motiv zugeschrieben.",
       "reason": "Die Faktenprüfung ordnet die Stelle als Deutung von Wählermotiven ohne gelesene Datengrundlage ein; die Aussage verallgemeinert auf eine große Gruppe.",
-      "context": "Politische Einschätzung des Gastes; auf der Faktenebene als Meinung eingeordnet.",
-      "assessment": "Möglich",
-      "reliability": "Mittel",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Die Einschränkung im Wesentlichen in unserer Paraphrase deutet eine Einschränkung an; ihr genauer Umfang ist offen.",
+      "context": "Politische Einschätzung des Gastes; auf der Faktenebene als Meinung eingeordnet. Die frühere Vermutung, unsere Paraphrase deute eine Einschränkung an, hat sich am Wortlaut nicht bestätigt.",
+      "assessment": "Erkennbar",
+      "reliability": "Hoch",
+      "uncertainty": "Grundlage ist der automatische Untertitel; Tonfall, Betonung und Sprecherwechsel wurden nicht gehört. Am Wortlaut wird das Motiv den Wählern insgesamt zugeschrieben, ohne Einschränkung auf einen Teil.",
       "missingInformation": null,
       "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "basis": "Abgleich mit dem automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache (mit Zeitstempeln), privat außerhalb des Repositorys gelesen, jeweils mit etwa 10 bis 15 Sekunden Umfeld vor und nach der Fundstelle. Erstauswahl der Stelle aus den Prüfnotizen der Faktenebene. Kein Ton und kein Bild gehört oder gesehen.",
       "history": [
         {
           "date": "2026-11-18",
           "by": "Claude",
           "change": "Erstmalig erfasst (Issue #21)."
+        },
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Am Untertitelwortlaut geprüft, Merkmal bestätigt; Einschätzung Möglich → Erkennbar; Zuverlässigkeit Mittel → Hoch; Kontext präzisiert."
         }
       ]
     },
@@ -206,16 +240,21 @@
       "reason": "Die Faktenprüfung vermerkt eine pauschale Einschätzung über die Absichten anderer ohne Datengrundlage.",
       "context": "Gesprächszusammenhang über Asylverfahren. Die Aussage spricht nach unserer Paraphrase von vielen, nicht von allen; deshalb nur als möglicher Hinweis geführt.",
       "assessment": "Möglich",
-      "reliability": "Niedrig",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen.",
+      "reliability": "Mittel",
+      "uncertainty": "Grundlage ist der automatische Untertitel; Tonfall, Betonung und Sprecherwechsel wurden nicht gehört. Die Aussage spricht von den meisten, nicht von allen, und ist als vermutete Haltung formuliert; deshalb nur als möglicher Hinweis geführt.",
       "missingInformation": null,
       "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "basis": "Abgleich mit dem automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache (mit Zeitstempeln), privat außerhalb des Repositorys gelesen, jeweils mit etwa 10 bis 15 Sekunden Umfeld vor und nach der Fundstelle. Erstauswahl der Stelle aus den Prüfnotizen der Faktenebene. Kein Ton und kein Bild gehört oder gesehen.",
       "history": [
         {
           "date": "2026-11-18",
           "by": "Claude",
           "change": "Erstmalig erfasst (Issue #21)."
+        },
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Am Untertitelwortlaut geprüft, Merkmal bestätigt; Zuverlässigkeit Niedrig → Mittel."
         }
       ]
     },
@@ -230,20 +269,25 @@
         "attribution": "Plausibel",
         "basis": "Übernommen aus der Fundstelle mdo14671BPE-O0248 der Faktenprüfung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme."
       },
-      "observation": "Die deutsche Justiz wird insgesamt als weitgehend von bestimmten politischen Kräften vereinnahmt beschrieben.",
+      "observation": "Die deutsche Justiz wird insgesamt als stark von einer politischen Richtung bzw. von totalitären Kräften vereinnahmt beschrieben; zuvor wird das politische System insgesamt als korrumpiert bezeichnet.",
       "reason": "Die Faktenprüfung bezeichnet die Stelle als wertende Gesamteinschätzung der Justiz; einzelne Verfahren oder Entscheidungen werden dafür nicht benannt.",
-      "context": "Der Gast nennt nach unserer Paraphrase zugleich die institutionelle Unabhängigkeit; die Aussage ist also nicht ohne Differenzierung. Auf der Faktenebene als Meinung eingeordnet.",
-      "assessment": "Möglich",
-      "reliability": "Niedrig",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen.",
+      "context": "Der Gast erwähnt am Wortlaut zugleich die institutionelle Unabhängigkeit der Justiz, nennt aber keine einzelnen Verfahren oder Entscheidungen. Auf der Faktenebene als Meinung eingeordnet.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Grundlage ist der automatische Untertitel; Tonfall, Betonung und Sprecherwechsel wurden nicht gehört.",
       "missingInformation": null,
       "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "basis": "Abgleich mit dem automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache (mit Zeitstempeln), privat außerhalb des Repositorys gelesen, jeweils mit etwa 10 bis 15 Sekunden Umfeld vor und nach der Fundstelle. Erstauswahl der Stelle aus den Prüfnotizen der Faktenebene. Kein Ton und kein Bild gehört oder gesehen.",
       "history": [
         {
           "date": "2026-11-18",
           "by": "Claude",
           "change": "Erstmalig erfasst (Issue #21)."
+        },
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Am Untertitelwortlaut geprüft, Merkmal bestätigt; Einschätzung Möglich → Erkennbar; Zuverlässigkeit Niedrig → Mittel; Beobachtung präzisiert; Kontext präzisiert."
         }
       ]
     }

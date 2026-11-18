@@ -71,21 +71,23 @@ Regeln, die der Validator durchsetzt:
 
 ## Prüfstand je Video
 
-Stand 18.11.2026, Claude. Alle Hinweise sind KI-Vorschläge ohne redaktionelle Prüfung.
+Stand 18.11.2026, Claude. Alle Hinweise sind KI-Vorschläge ohne redaktionelle Prüfung, inzwischen aber am Untertitelwortlaut geprüft.
 
 | Video | Rolle | Ebene 2 | Hinweise | Merkmale |
 | --- | --- | --- | --- | --- |
 | `mdo14671BPE` Naomi Seibt bei ungeskriptet | Original | Teilweise geprüft | 8 zu 7 von 249 Aussagen | Pauschalisierung 7, Abwertung 1 |
-| `mlxFA9T88I0` Horst Lüning bei ungeskriptet | Original | Teilweise geprüft | 10 zu 9 von 395 Aussagen | Pauschalisierung 6, Abwertung 2, Emotionalisierung 2 |
-| `sLMyP0H7tSY` Alfred räumt auf zu Lüning | Reaktion | Teilweise geprüft | 4 zu 4 von 30 Aussagen | Ironie 2, Pauschalisierung 2 |
-| `zUnxDR5ttRU` Hank Loose zu Seibt | Reaktion | Teilweise geprüft | 4 zu 3 von 43 Aussagen | Ironie 3 (davon 1 nicht beurteilbar), Abwertung 1 |
+| `mlxFA9T88I0` Horst Lüning bei ungeskriptet | Original | Teilweise geprüft | 9 zu 8 von 395 Aussagen | Pauschalisierung 5, Abwertung 2, Emotionalisierung 2 |
+| `sLMyP0H7tSY` Alfred räumt auf zu Lüning | Reaktion | Teilweise geprüft | 2 zu 2 von 30 Aussagen | Ironie 2 |
+| `zUnxDR5ttRU` Hank Loose zu Seibt | Reaktion | Teilweise geprüft | 4 zu 3 von 43 Aussagen | Ironie 3, Abwertung 1 |
 | Krall-Videos aus PR #15 | – | Noch nicht geprüft | – | Noch nicht in `main`; nach Übernahme nachholen |
 
-**Grundlage und Grenzen dieser ersten Einordnung:** Claude hatte keinen Zugriff auf Video, Ton oder Untertitel (YouTube aus der Prüfumgebung nicht erreichbar). Durchgesehen wurden die dokumentierten Prüfnotizen aller erfassten Aussagen der Faktenebene, insbesondere Meinungen, Prognosen und Stellen, die dort bereits als zugespitzt, pauschal, satirisch oder abwertend beschrieben sind. Merkmale, die in den Notizen nicht vorkommen, konnten nicht erkannt werden. Aussagen ohne Hinweis sind deshalb **nicht** als unauffällig bestätigt. Möglicher Tunnelblick und die Wiedergabe von Gegenpositionen wurden nicht markiert, weil beides eine konkret benannte fehlende Gegeninformation bzw. den vollständigen Kontext voraussetzt. Für Originale, Reaktionen und Faktenchecker gelten dieselben Maßstäbe; auch die beiden Faktencheck-Kanäle haben Hinweise erhalten.
+**Wortlautprüfung (zweiter Durchgang, 18.11.2026):** Alle 26 Hinweise der ersten Einordnung wurden am automatisch erzeugten deutschen YouTube-Untertitel geprüft, jeweils die Fundstelle mit Umfeld. Die Untertitel lagen privat außerhalb des Repositorys; nichts davon ist veröffentlicht. Ergebnis: 23 Hinweise bestätigt, davon viele mit höherer Einschätzung oder Zuverlässigkeit und mehrere mit genauerer Beobachtung oder genauerem Kontext. 3 Hinweise wurden entfernt, weil das Merkmal am Wortlaut nicht passt: zwei Pauschalisierungen bei Alfred (eine sachliche Überdehnung, die auf die Faktenebene gehört, und eine Zusammenfassung, die ausdrücklich nur vier untersuchte Themen nennt) und eine Pauschalisierung bei Lüning (Rückfrage des Moderators, die dem Gast eine Position zuschreibt). Die Gründe stehen im Verlauf der jeweiligen `rhetorik.json`. Der Hinweis zur Musk-Stelle bei Hank ist von „nicht beurteilbar“ auf „möglich“ gestiegen, der Sprecher bleibt ungeklärt. Ton und Bild wurden nicht gehört oder gesehen; Ironie und Sprecherwechsel sind deshalb nur textlich eingeordnet. Der Prüfstand bleibt „Teilweise geprüft“, weil das übrige Video nicht systematisch auf Darstellungsmerkmale durchgesehen wurde.
+
+**Grundlage und Grenzen der ersten Einordnung:** Claude hatte keinen Zugriff auf Video, Ton oder Untertitel (YouTube aus der Prüfumgebung nicht erreichbar). Durchgesehen wurden die dokumentierten Prüfnotizen aller erfassten Aussagen der Faktenebene, insbesondere Meinungen, Prognosen und Stellen, die dort bereits als zugespitzt, pauschal, satirisch oder abwertend beschrieben sind. Merkmale, die in den Notizen nicht vorkommen, konnten nicht erkannt werden. Aussagen ohne Hinweis sind deshalb **nicht** als unauffällig bestätigt. Möglicher Tunnelblick und die Wiedergabe von Gegenpositionen wurden nicht markiert, weil beides eine konkret benannte fehlende Gegeninformation bzw. den vollständigen Kontext voraussetzt. Für Originale, Reaktionen und Faktenchecker gelten dieselben Maßstäbe; auch die beiden Faktencheck-Kanäle haben Hinweise erhalten.
 
 ## Weiterarbeit
 
-1. Mit Text- oder Videozugang die Hinweise am Wortlaut prüfen, Zuverlässigkeit anheben oder Hinweise verwerfen und im Verlauf dokumentieren.
+1. Erledigt für alle bisherigen Hinweise (Untertitelwortlaut). Offen: die übrigen Videostellen systematisch durchsehen, damit ein Video „Vollständig geprüft“ werden kann, und Ironie oder unklare Sprecher bei Bedarf mit Ton prüfen.
 2. Stellen ohne Faktenaussage (reine Rhetorik ohne prüfbaren Inhalt) ergänzen; dafür ist `claimId: null` vorgesehen.
 3. Tunnelblick nur mit konkreter Gegeninformation und Quelle ergänzen.
 4. Neue Videos (z. B. aus PR #15) nach ihrer Übernahme gleich mit einordnen; bis dahin zeigt die Webseite „noch nicht geprüft“.

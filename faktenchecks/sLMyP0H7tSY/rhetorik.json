@@ -5,12 +5,11 @@
     "status": "Teilweise geprüft",
     "checkedOn": "2026-11-18",
     "by": "Claude",
-    "basis": "Durchsicht der dokumentierten Prüfnotizen aller 30 erfassten Aussagen der Faktenebene (Beschreibung, Begründung, Fundstellenhinweise), mit besonderem Augenmerk auf Meinungen, Prognosen und bereits als zugespitzt, pauschal, satirisch oder abwertend vermerkte Stellen.",
-    "coverage": "4 Hinweise zu 4 von 30 erfassten Aussagen. Das Video ist rhetorisch nicht vollständig geprüft; die Faktenebene ist selbst ein Teilbestand.",
+    "basis": "Alle Hinweise am automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache geprüft (Fundstelle mit Umfeld, privat außerhalb des Repositorys gelesen). Die Auswahl der Stellen beruht weiterhin auf den Prüfnotizen der Faktenebene.",
+    "coverage": "2 Hinweise zu 2 von 30 erfassten Aussagen, alle am Untertitelwortlaut geprüft. Das übrige Video wurde nicht systematisch auf Darstellungsmerkmale durchgesehen. Die Faktenebene ist selbst ein Teilbestand.",
     "limits": [
-      "Keine eigene Sichtung von Video, Ton oder Untertiteln durch Claude; YouTube war aus der Prüfumgebung nicht erreichbar.",
-      "Grundlage sind ausschließlich die vorhandenen Prüfnotizen der Faktenebene. Rhetorische Merkmale, die dort nicht beschrieben sind, konnten nicht erkannt werden.",
-      "Aussagen ohne Hinweis sind nicht als rhetorisch unauffällig bestätigt, sondern nur ohne dokumentierten Anhaltspunkt.",
+      "Grundlage ist der automatische Untertitel ohne eigene Hör- oder Sichtkontrolle. Tonfall, der für Ironie wichtig ist, und Sprecherwechsel sind nicht akustisch bestätigt.",
+      "Stellen außerhalb der markierten Fundstellen wurden nicht systematisch durchgesehen. Aussagen ohne Hinweis sind nicht als rhetorisch unauffällig bestätigt, sondern nur ohne geprüften Anhaltspunkt.",
       "Möglicher Tunnelblick und die Wiedergabe von Gegenpositionen wurden nicht markiert: beides setzt eine konkrete fehlende Gegeninformation bzw. einen Vergleich mit dem vollständigen Kontext voraus, der hier nicht vorlag.",
       "Alle Hinweise sind KI-Vorschläge ohne redaktionelle Prüfung."
     ],
@@ -19,6 +18,11 @@
         "date": "2026-11-18",
         "by": "Claude",
         "change": "Erste Rhetorik-Einordnung aus vorhandenen Prüfnotizen (Issue #21)."
+      },
+      {
+        "date": "2026-11-18",
+        "by": "Claude",
+        "change": "Alle Hinweise am Untertitelwortlaut geprüft (Issue #21). Entfernt: sLMyP0H7tSY-R0002 (Pauschalisierung) am Wortlaut verworfen: Die Stelle schließt aus einer Regierungsantwort auf die Absicht aller Beteiligten. Das ist eine sachliche Überdehnung für die Faktenebene, aber keine Verallgemeinerung von Einzelnen auf eine Gruppe im Sinne des Merkmals. sLMyP0H7tSY-R0003 (Pauschalisierung) am Wortlaut verworfen: Die Zusammenfassung nennt ausdrücklich die Zahl der vier untersuchten Themen und behauptet kein allgemeines Muster für alle Aussagen des Gastes."
       }
     ]
   },
@@ -34,76 +38,25 @@
         "attribution": "Plausibel",
         "basis": "Übernommen aus der Fundstelle sLMyP0H7tSY-O0003 der Faktenprüfung: Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert."
       },
-      "observation": "Die Fachkompetenz des Gastes für Whisky wird jener für Staatsfinanzen satirisch zugespitzt gegenübergestellt.",
-      "reason": "Der vorläufige Befund der Faktenprüfung (Codex) nennt ausdrücklich eine satirische Zuspitzung.",
+      "observation": "Die Fachkompetenz des Gastes für Whisky wird jener für Staatsfinanzen gegenübergestellt; die Ratschläge des Gastes werden mit einer ironischen Bemerkung über Stift und schwarzes Loch aufgegriffen.",
+      "reason": "Am Wortlaut ist die ironische Zuspitzung deutlich erkennbar; der vorläufige Befund der Faktenprüfung (Codex) nennt sie ebenfalls.",
       "context": "Kommentierendes Reaktionsformat. Ironie wird als Stilmittel beschrieben, nicht negativ gewertet. Auf der Faktenebene vermerkt: Fachfremdheit widerlegt keine Sachaussage.",
-      "assessment": "Möglich",
-      "reliability": "Mittel",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Die Faktenprüfung dieses Videos ist selbst noch in Bearbeitung.",
+      "assessment": "Erkennbar",
+      "reliability": "Hoch",
+      "uncertainty": "Grundlage ist der automatische Untertitel; Tonfall, Betonung und Sprecherwechsel wurden nicht gehört. Die Abgrenzung zwischen Kommentar und eingespielten Originalausschnitten ist nicht akustisch kontrolliert.",
       "missingInformation": null,
       "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "basis": "Abgleich mit dem automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache (mit Zeitstempeln), privat außerhalb des Repositorys gelesen, jeweils mit etwa 10 bis 15 Sekunden Umfeld vor und nach der Fundstelle. Erstauswahl der Stelle aus den Prüfnotizen der Faktenebene. Kein Ton und kein Bild gehört oder gesehen.",
       "history": [
         {
           "date": "2026-11-18",
           "by": "Claude",
           "change": "Erstmalig erfasst (Issue #21)."
-        }
-      ]
-    },
-    {
-      "id": "sLMyP0H7tSY-R0002",
-      "claimId": "sLMyP0H7tSY-A0010",
-      "feature": "pauschalisierung",
-      "startSeconds": 259,
-      "endSeconds": 275,
-      "speaker": {
-        "id": "SP01",
-        "attribution": "Plausibel",
-        "basis": "Übernommen aus der Fundstelle sLMyP0H7tSY-O0010 der Faktenprüfung: Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert."
-      },
-      "observation": "Aus einer einzelnen damaligen Regierungsantwort wird abgeleitet, dass niemand eine Verbotswirkung gewollt habe.",
-      "reason": "Der vorläufige Befund der Faktenprüfung (Codex) vermerkt, dass hier eine begrenzte Quelle auf die Absicht sämtlicher Beteiligter verallgemeinert wird.",
-      "context": "Eigene Erläuterung im Faktencheck-Video; Maßstäbe gelten für Faktenchecker genauso wie für Interviewgäste.",
-      "assessment": "Möglich",
-      "reliability": "Mittel",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Die Faktenprüfung dieses Videos ist selbst noch in Bearbeitung.",
-      "missingInformation": null,
-      "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
-      "history": [
+        },
         {
           "date": "2026-11-18",
           "by": "Claude",
-          "change": "Erstmalig erfasst (Issue #21)."
-        }
-      ]
-    },
-    {
-      "id": "sLMyP0H7tSY-R0003",
-      "claimId": "sLMyP0H7tSY-A0024",
-      "feature": "pauschalisierung",
-      "startSeconds": 712,
-      "endSeconds": 746,
-      "speaker": {
-        "id": "SP01",
-        "attribution": "Plausibel",
-        "basis": "Übernommen aus der Fundstelle sLMyP0H7tSY-O0024 der Faktenprüfung: Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert."
-      },
-      "observation": "Vier ausgewählte Sachkomplexe werden zu einem wiederkehrenden Muster fehlerhafter Erklärungen des Gastes zusammengefasst.",
-      "reason": "Der vorläufige Befund der Faktenprüfung (Codex) vermerkt, dass jeder dieser Sachkomplexe auch zutreffende Teilbefunde enthält und keine vollständige Fehlerstatistik vorliegt; die Zusammenfassung verallgemeinert von einer Auswahl.",
-      "context": "Übergreifendes Fazit im Faktencheck-Video; als Meinung bzw. Wertung eingeordnet.",
-      "assessment": "Möglich",
-      "reliability": "Niedrig",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Die Faktenprüfung dieses Videos ist selbst noch in Bearbeitung.",
-      "missingInformation": null,
-      "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
-      "history": [
-        {
-          "date": "2026-11-18",
-          "by": "Claude",
-          "change": "Erstmalig erfasst (Issue #21)."
+          "change": "Am Untertitelwortlaut geprüft, Merkmal bestätigt; Einschätzung Möglich → Erkennbar; Zuverlässigkeit Mittel → Hoch; Beobachtung präzisiert; Begründung präzisiert."
         }
       ]
     },
@@ -118,20 +71,25 @@
         "attribution": "Plausibel",
         "basis": "Übernommen aus der Fundstelle sLMyP0H7tSY-O0029 der Faktenprüfung: Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert."
       },
-      "observation": "Der Schlussteil über Kanalentwicklung und Finanzierung enthält nach der Prüfnotiz satirische Elemente.",
+      "observation": "Der Schlussteil über Kanalentwicklung und Finanzierung enthält eine Spitze über den Geldgeber des Kanals und eine selbstironische Schlusspointe.",
       "reason": "Der vorläufige Befund der Faktenprüfung (Codex) behandelt Teile der Stelle ausdrücklich als Satire und nicht als Finanzierungsangabe.",
       "context": "Kanalinterner Abschluss; Satire wird als Stilmittel beschrieben, nicht negativ gewertet.",
-      "assessment": "Möglich",
-      "reliability": "Niedrig",
-      "uncertainty": "Wortlaut, Tonfall und unmittelbarer Kontext wurden nicht selbst gehört oder gelesen. Welche Teile genau satirisch sind, ist in der Prüfnotiz nicht abgegrenzt.",
+      "assessment": "Erkennbar",
+      "reliability": "Mittel",
+      "uncertainty": "Grundlage ist der automatische Untertitel; Tonfall, Betonung und Sprecherwechsel wurden nicht gehört. Die satirischen Teile sind am Wortlaut abgrenzbar: eine Spitze über den Geldgeber des Kanals und ein selbstironischer Schluss über Funken an der Bar. Die Angaben zur Monetarisierung sind dagegen sachlich formuliert.",
       "missingInformation": null,
       "status": "KI-Vorschlag",
-      "basis": "Abgeleitet aus der dokumentierten Prüfnotiz dieser Aussage im bestehenden Faktencheck (eigene Beschreibung, Begründung und Fundstellenhinweis), die auf dem gelesenen automatischen Text beruht. Keine eigene Hör-, Seh- oder Textkontrolle durch Claude; Video und Untertitel waren in dieser Prüfung nicht erreichbar.",
+      "basis": "Abgleich mit dem automatisch erzeugten deutschen YouTube-Untertitel in Originalsprache (mit Zeitstempeln), privat außerhalb des Repositorys gelesen, jeweils mit etwa 10 bis 15 Sekunden Umfeld vor und nach der Fundstelle. Erstauswahl der Stelle aus den Prüfnotizen der Faktenebene. Kein Ton und kein Bild gehört oder gesehen.",
       "history": [
         {
           "date": "2026-11-18",
           "by": "Claude",
           "change": "Erstmalig erfasst (Issue #21)."
+        },
+        {
+          "date": "2026-11-18",
+          "by": "Claude",
+          "change": "Am Untertitelwortlaut geprüft, Merkmal bestätigt; Einschätzung Möglich → Erkennbar; Zuverlässigkeit Niedrig → Mittel; Beobachtung präzisiert."
         }
       ]
     }
