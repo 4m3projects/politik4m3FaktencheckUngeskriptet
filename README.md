@@ -10,9 +10,9 @@ Die Webseite ist der zentrale Zugang zu den Videoanalysen, Aussagen, Quellen und
 
 ## Projektstand
 
-- **2 Videoanalysen** als übernommene Arbeitsstände im Repository vorhanden.
+- **2 Originalinterviews** als übernommene Arbeitsstände und **eine verknüpfte Gegenprüfung** zum Naomi-Interview vorhanden. Die Gegenprüfung ist ausdrücklich ein Teilbestand.
 - Webseite und GitHub-Pages-Workflow eingerichtet; die erfolgreiche Veröffentlichung wird noch geprüft.
-- Geplant: Verknüpfte Analysen von Reaktionsvideos und anderen Faktenchecks sowie transparente Gegenprüfungen.
+- Verknüpfte Reaktionen erscheinen auf den Interviewseiten mit eigenständigen Prüfungen und Aussagevergleichen; weitere Analysen und Gegenprüfungen können ergänzt werden.
 - Bewertungen und Berichte können überarbeitet und korrigiert werden.
 
 ## Mitwirken und Technik

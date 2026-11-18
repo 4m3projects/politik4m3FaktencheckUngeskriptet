@@ -144,3 +144,30 @@ test('Echte Projektdaten: jedes Video eingeordnet, bestehende Interviews als Ori
   assert.deepEqual(R.validateRelations(rel, videos), []);
   assert.ok(!/FIKTIV|Fiktive Testdaten/.test(JSON.stringify(rel)), 'keine Testdaten in beziehungen.json');
 });
+
+test('Hank/Naomi: unbekannte Rollen und nicht geprüfte Quellen werden nicht zu Endurteilen', () => {
+  const root = path.join(__dirname, '..', 'faktenchecks', 'zUnxDR5ttRU');
+  const data = JSON.parse(fs.readFileSync(path.join(root, 'strukturiert', 'aussagen.json'), 'utf8'));
+  const claim = n => data.claims.find(c => c.id.endsWith(n));
+  const ambiguous = claim('A0024');
+  assert.equal(ambiguous.verdict, null);
+  assert.ok(ambiguous.occurrences.every(o => o.speakerId === null && o.candidateSpeakerId === null && o.attributionStatus === 'Ungeklärt' && o.roleStatus === 'Ungeklärt'));
+  assert.equal(claim('A0011').verdict, null, 'unzugänglicher Medienbericht bleibt offen');
+  assert.equal(claim('A0019').verdict, null, 'fehlende Sichtprüfung wird nicht als erledigt ausgegeben');
+  assert.match(claim('A0031').reason, /nicht nur als alleinigen Grund/, 'abweichende Wiedergabe wird dokumentiert');
+  assert.equal(data.scope.kind, 'Teilbestand');
+  assert.match(data.scope.researchNote, /Keine vollständige Audio-/);
+});
+
+test('Hank/Naomi: fehlende Bestätigung bleibt Ergänzung und keine gegenteilige Tatsachenbehauptung', () => {
+  const root = path.join(__dirname, '..', 'faktenchecks');
+  const rel = JSON.parse(fs.readFileSync(path.join(root, 'beziehungen.json'), 'utf8')).relations.find(r => r.reactionVideoId === 'zUnxDR5ttRU');
+  const originals = JSON.parse(fs.readFileSync(path.join(root, 'mdo14671BPE', 'strukturiert', 'aussagen.json'), 'utf8'));
+  for (const l of rel.claimLinks) {
+    const c = originals.claims.find(c => c.id === l.originalClaimId);
+    if (c.verdict == null || c.verdict === 'Nicht ausreichend belegbar') {
+      assert.ok(['gibt_wieder', 'ergaenzt'].includes(l.type), l.id + ': kein künstlicher Widerspruch');
+    }
+  }
+  assert.equal(rel.originalVideoId, 'mdo14671BPE');
+});
