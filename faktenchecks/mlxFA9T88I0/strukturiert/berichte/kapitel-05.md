@@ -1203,7 +1203,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Deutschland sei an die UN vertraglich zu etwa 0,5 bis 1 Milliarde verpflichtet, zahle aber freiwillig ein Vielfaches, etwa fünf Milliarden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1226,22 +1226,28 @@ Frueherer Suchbereich: [01:33:30–01:34:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Laut Auswärtigem Amt trägt Deutschland 5,69 Prozent des regulären UN-Haushalts von knapp 3,75 Milliarden US-Dollar (2025), also rund 0,2 Milliarden, dazu 5,69 Prozent der Friedensmissionen. Pflicht- und freiwillige Beiträge sind verschiedene Kategorien. Die Höhe der freiwilligen Beiträge nennt die Seite nicht; die Größenordnung von fünf Milliarden ist damit nicht geprüft.
+Die Größenordnung der Pflichtbeiträge stimmt: rund 0,59 Milliarden Euro 2024 und gut 0,8 Milliarden 2025. Freiwillige Beiträge sind tatsächlich ein Vielfaches davon. Insgesamt zahlte der Bund aber 4,16 Milliarden Euro (2024) und 3,24 Milliarden (2025), also nicht „etwa fünf Milliarden“ freiwillig; die freiwilligen Anteile lagen bei rund 3,6 beziehungsweise 2,4 Milliarden.
 
-Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Bundestagsmeldung zur Unterrichtung 21/7580 und Presseaufschlüsselung derselben Zahlen; dazu die bereits gelesene Seite des Auswärtigen Amts.
 
 Uebernahme: USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): UN-Zahlungen 2024/2025 recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
 - [Hintergrund: Beiträge zum Haushalt der Vereinten Nationen](https://www.auswaertiges-amt.de/de/aussenpolitik/regelbasierte-internationale-ordnung/uno/01-grundlagen-uno/01-haushalt-uno-274848) · Auswärtiges Amt · Artikel vom 17.03.2025; deutscher Pflichtanteil 5,69 Prozent am regulären Haushalt (knapp 3,75 Mrd. US-Dollar 2025) und an Friedensmissionen; Programme aus freiwilligen Beiträgen, ohne Betragsangabe.
   Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Pflichtanteil 5,69 Prozent; freiwillige Beiträge ohne Betrag.
 
+- [Zahlungen an die Vereinten Nationen (hib 657/2026)](https://www.bundestag.de/presse/hib/kurzmeldungen-1205734) · Deutscher Bundestag, heute im bundestag, 24.08.2026, zur Unterrichtung 21/7580; Zahlungen 2024 und 2025.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen; Drucksache selbst nicht gelesen. Keine Quellenkopie veröffentlicht. Gesamtzahlungen an die UN 2024 und 2025.
+
+- [Wadephul dreht Geldhahn zu: 914 Millionen Euro weniger für die UN](https://www.echo24.de/welt/wadephul-dreht-geldhahn-zu-914-millionen-euro-weniger-fuer-die-un-zr-94456758.html) · echo24, 27.08.2026; Aufschlüsselung der Unterrichtung 21/7580 nach Pflicht- und freiwilligen Beiträgen.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Aufschlüsselung nach Pflicht- und freiwilligen Beiträgen.
+
 ### Offene Fragen und Unsicherheiten
 
-- Gesamtsumme freiwilliger deutscher Beiträge an UN-Organisationen für 2025/2026 lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0246
 

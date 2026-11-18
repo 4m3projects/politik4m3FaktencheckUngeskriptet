@@ -1557,8 +1557,13 @@ Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile n
 - [Ukraine Support Tracker: Only EUR 41.7 Billion of Germany's EUR 100 Billion Went to Ukraine](https://www.kielinstitut.de/media/news/ukraine-support-tracker-only-eur-417-billion-of-germanys-eur-100-billion-went-to-ukraine/) · Kiel Institut für Weltwirtschaft · Pressemitteilung vom 08.10.2026; Bundesregierung meldet 100 Mrd. Euro (57,6 Mrd. militärisch) bereitgestellt oder vorgesehen, Kiel verfolgt 56,3 Mrd. Euro Militärhilfe nach; keine Aussage zur Rückzahlungsfreiheit der Militärhilfe gefunden.
   Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Umfang deutscher Militärhilfe; keine Angabe zu Zuschuss oder Darlehen.
 
+- [Germany to contribute US$500m to NATO initiative to supply US weapons to Ukraine](https://www.pravda.com.ua/eng/news/2025/08/13/7526040) · European Pravda, 13.08.2025; deutscher Beitrag zur NATO-Initiative PURL.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Deutscher PURL-Beitrag zum Kauf von US-Waffen für die Ukraine.
+
 ### Offene Fragen und Unsicherheiten
 
 - Kiel Policy Brief 10/2026 zur Form der deutschen Hilfe lesen; europäische Finanzierung von US-Waffenkäufen prüfen.
+
+- Zwischenstand 18.11.2026: Deutschland finanziert über die NATO-Initiative PURL selbst US-Waffen für die Ukraine (500 Mio. US-Dollar, 08/2025, S152); das ist Geld der Verbündeten, nicht der Ukraine. Form der deutschen Hilfe (Zuschuss oder Darlehen) noch zu prüfen.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
