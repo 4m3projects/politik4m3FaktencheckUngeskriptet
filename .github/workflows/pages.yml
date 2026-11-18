@@ -59,6 +59,9 @@ jobs:
       - name: Rhetorik-Ebene prüfen (getrennt von der Faktenbewertung)
         run: node --test site/rhetoric-test.js
 
+      - name: Faktenampel prüfen (zentrale Regel, nur aus Aussagebewertungen)
+        run: node --test site/ampel-test.js
+
       - name: Webseite zusammenstellen
         env:
           OUT: ${{ runner.temp }}/site
@@ -66,12 +69,12 @@ jobs:
           set -euo pipefail
           rm -rf "$OUT"
           mkdir -p "$OUT/daten"
-          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js "$OUT/"
+          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js site/ampel.js "$OUT/"
           # Versionsparameter je Commit: Browser und GitHub-Pages-Cache laden nach jedem Deploy alle Skripte neu
           # und mischen keine alten und neuen Dateien.
           ver="${GITHUB_SHA:0:12}"
-          sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js|rhetoric\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
-          test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 6
+          sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js|rhetoric\.js|ampel\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
+          test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 7
           if [[ -f faktenchecks/beziehungen.json ]]; then jq -c . faktenchecks/beziehungen.json > "$OUT/daten/beziehungen.json"; else echo '{"schemaVersion":1,"relations":[]}' > "$OUT/daten/beziehungen.json"; fi
           videos='[]'
           for dir in faktenchecks/*/; do

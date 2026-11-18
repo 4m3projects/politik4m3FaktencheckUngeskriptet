@@ -27,6 +27,7 @@ Andere Dateien werden nicht übernommen. Der Titel stammt aus der ersten Übersc
 - Je Fundstelle: Zeitmarke mit Link zum Original, Zeitpräzision, Sprecherzuordnung (bestätigt / plausibel / ungeklärt) und Aussagebezug mit Begründung.
 - Quellen mit direktem Link, Datenstand, Abrufdatum und Zugriffsgrundlage.
 - Keine Personenrankings oder Glaubwürdigkeitsnoten.
+- Faktenampel je Video (Startseitenkarten, Videokopf, Listen von Originalen und Reaktionen), zur Laufzeit aus den Einzelbewertungen berechnet; Regel nur in `site/ampel.js`, siehe [AMPEL.md](AMPEL.md).
 
 ## Einmalige Einrichtung
 
