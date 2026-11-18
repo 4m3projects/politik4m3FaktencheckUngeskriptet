@@ -877,7 +877,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Eine statistische Auswertung habe gezeigt, dass im Tatort oft Unternehmer oder Manager die Mörder sind.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -900,21 +900,22 @@ Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Behauptung über Dritte oder Ursachen ohne Beleg. Ohne genannte Auswertung nicht prüfbar; keine Quelle gelesen.
+Eine solche Auswertung gibt es: Laut epd-Bericht vom März 2024 wertete der Mittelstandsverband BVMW die ARD-„Tatort“-Folgen der vorangegangenen sechs Jahre aus. Unternehmer, Manager und Selbstständige waren danach in 39 Folgen die Täter und damit die häufigste Gruppe, vor Berufskriminellen (28) und Polizisten (23). Einschränkung: Die Auswertung stammt von einem Interessenverband, die Gesamtzahl der Folgen nennt der Bericht nicht.
 
-Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Presseagenturbericht (epd) über die BVMW-Auswertung; die Auswertung selbst wurde nicht gelesen.
 
 Uebernahme: Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Auswertung identifiziert und Bericht gelesen; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Analyse: Unternehmer und Manager morden im ARD-„Tatort“ am häufigsten](https://www.sonntagsblatt.de/artikel/epd/analyse-unternehmer-und-manager-morden-im-ard-tatort-am-haeufigsten) · Sonntagsblatt / epd, 06.03.2024; berichtet über eine Auswertung des Bundesverbands mittelständische Wirtschaft (BVMW), zuerst gemeldet von der Zeit.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Die BVMW-Auswertung selbst wurde nicht eingesehen. Keine Quellenkopie veröffentlicht. Bericht über die BVMW-Auswertung mit den genannten Fallzahlen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Auswertung ist gemeint?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0341
 

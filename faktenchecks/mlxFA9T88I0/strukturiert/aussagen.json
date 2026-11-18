@@ -2150,6 +2150,14 @@
       "details": "Interesting Engineering · 26.01.2021; 55 Mio. US-Dollar pro Person für Ax-1 mit SpaceX Crew Dragon zur ISS.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S144",
+      "title": "Analyse: Unternehmer und Manager morden im ARD-„Tatort“ am häufigsten",
+      "url": "https://www.sonntagsblatt.de/artikel/epd/analyse-unternehmer-und-manager-morden-im-ard-tatort-am-haeufigsten",
+      "details": "Sonntagsblatt / epd, 06.03.2024; berichtet über eine Auswertung des Bundesverbands mittelständische Wirtschaft (BVMW), zuerst gemeldet von der Zeit.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Die BVMW-Auswertung selbst wurde nicht eingesehen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -19623,7 +19631,8 @@
       },
       "sourceRefs": [],
       "openQuestions": [
-        "Interview identifizieren und Äußerung im Original prüfen."
+        "Interview identifizieren und Äußerung im Original prüfen.",
+        "Zwischenstand 18.11.2026: Der ZDF-Faktencheck zum Sommerinterview vom 19.07.2026 enthält keine solche Äußerung; die KAS-Umfrage (Mai 2026) nennt „jede und jeder Fünfte“ für alle Erwachsenen, nicht für junge Menschen. Weitere Sommerinterviews (z. B. ARD) prüfen."
       ],
       "occurrences": [
         {
@@ -20765,19 +20774,22 @@
       "legacyId": "C08-P07",
       "kind": "Tatsachenbehauptung",
       "description": "Eine statistische Auswertung habe gezeigt, dass im Tatort oft Unternehmer oder Manager die Mörder sind.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Behauptung über Dritte oder Ursachen ohne Beleg. Ohne genannte Auswertung nicht prüfbar; keine Quelle gelesen.",
-      "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Eine solche Auswertung gibt es: Laut epd-Bericht vom März 2024 wertete der Mittelstandsverband BVMW die ARD-„Tatort“-Folgen der vorangegangenen sechs Jahre aus. Unternehmer, Manager und Selbstständige waren danach in 39 Folgen die Täter und damit die häufigste Gruppe, vor Berufskriminellen (28) und Polizisten (23). Einschränkung: Die Auswertung stammt von einem Interessenverband, die Gesamtzahl der Folgen nennt der Bericht nicht.",
+      "assessmentBasis": "Presseagenturbericht (epd) über die BVMW-Auswertung; die Auswertung selbst wurde nicht gelesen.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
         "mapping": "Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Auswertung identifiziert und Bericht gelesen; von Offen auf Belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Auswertung ist gemeint?"
+      "sourceRefs": [
+        {
+          "sourceId": "S144",
+          "note": "Bericht über die BVMW-Auswertung mit den genannten Fallzahlen."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0389",
