@@ -129,6 +129,24 @@ async function step(name, fn) {
   });
 
   const B = urlOf(fix);
+  await step('Reiterwechsel: Reiterleiste bleibt an ihrer Stelle statt nach oben zu springen', async () => {
+    await open(urlOf(real), '#/video/mlxFA9T88I0');
+    const tabsTop = () => page.$eval('#inhalt .tabs', el => Math.round(el.getBoundingClientRect().top));
+    await page.$eval('#inhalt .tabs', el => window.scrollTo(0, window.scrollY + el.getBoundingClientRect().top - 200));
+    const before = await tabsTop();
+    assert.ok(Math.abs(before - 200) <= 2, 'Ausgangslage: Leiste bei 200 px, ist ' + before);
+    for (const label of ['Reaktionen', 'Berichte', 'Video mit Faktencheck', 'Aussagen']) {
+      await page.click(`#inhalt .tabs a:has-text("${label}")`);
+      await page.waitForFunction(l => (document.querySelector('#inhalt .tabs a[aria-current="page"]')?.innerText || '').startsWith(l), label);
+      await page.waitForTimeout(100);
+      const now = await tabsTop();
+      assert.ok(Math.abs(now - before) <= 2, `${label}: Leiste bei ${now} px statt ${before} px`);
+      assert.ok(await page.evaluate(() => window.scrollY) > 0, label + ': nicht nach oben gesprungen');
+    }
+    await open(urlOf(real), '#/video/mlxFA9T88I0/reaktionen');
+    assert.equal(await page.evaluate(() => window.scrollY), 0, 'Direktaufruf beginnt oben');
+  });
+
   await step('Echte Reaktion: Hank unter Naomi mit Rücklink und begrenzter Gegenprüfung', async () => {
     const t = await open(urlOf(real), '#/video/mdo14671BPE/reaktionen');
     assert.match(t, /Hank Loose/);

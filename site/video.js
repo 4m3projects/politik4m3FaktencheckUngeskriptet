@@ -155,10 +155,12 @@ async function pageVideoSync(id, opts = {}) {
           </div>
         </div>
         <div class="vc-list-col">
+          <div class="vc-scroll" id="vc-scroll">
           <h2 class="vc-list-head" id="vc-list-h">Fundstellen im Zeitverlauf <span class="muted">(${timeline.entries.length})</span></h2>
           <p class="small vc-hint">Alle Zeitmarken sind ${timeline.entries.every(e => e.precision === 'Ungefähr') ? 'ungefähr (aus Untertiteltext eingegrenzt, ohne Audio-/Videokontrolle)' : 'unterschiedlich genau; siehe Angabe je Eintrag'}. Einträge kurz davor oder danach werden deshalb als „in der Nähe“ markiert (${esc(tolText)}).</p>
           <ol class="vc-list" id="vc-list" aria-labelledby="vc-list-h" tabindex="-1">${items || '<li class="small">Keine Fundstellen mit Zeitmarke vorhanden.</li>'}</ol>
           ${untimed ? `<h3 class="vc-list-head">Ohne verwendbare Zeitmarke</h3><ol class="vc-list vc-list-untimed">${untimed}</ol>` : ''}
+          </div>
         </div>
       </div>
     </div>
@@ -167,7 +169,7 @@ async function pageVideoSync(id, opts = {}) {
   window.scrollTo(0, 0);
 
   const $ = s => document.getElementById(s);
-  const vc = $('vc'), list = $('vc-list'), frame = $('vc-frame'), timeEl = $('vc-time'), currentEl = $('vc-current');
+  const vc = $('vc'), list = $('vc-list'), scroller = $('vc-scroll'), frame = $('vc-frame'), timeEl = $('vc-time'), currentEl = $('vc-current');
   const reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const itemEls = Object.fromEntries([...vc.querySelectorAll('.vc-item')].map(el => [el.dataset.key, el]));
 
@@ -219,13 +221,13 @@ async function pageVideoSync(id, opts = {}) {
   document.addEventListener('keydown', onKey);
 
   /* ---------- Anzeige des aktuellen Stands ---------- */
-  ['wheel', 'touchmove', 'keydown', 'pointerdown'].forEach(t => list.addEventListener(t, () => { lastUserScroll = Date.now(); }, { passive: true }));
+  ['wheel', 'touchmove', 'keydown', 'pointerdown'].forEach(t => scroller.addEventListener(t, () => { lastUserScroll = Date.now(); }, { passive: true }));
 
   function scrollToCurrent(force) {
     const el = list.querySelector('.vc-item.is-current') || list.querySelector('.vc-item.is-near');
     if (!el || (!force && !$('vc-auto').checked)) return;
     if (!force && Date.now() - lastUserScroll < 4000) return; // Nutzer liest gerade selbst
-    if (list.scrollHeight > list.clientHeight + 1) scrollToEl(el);
+    if (scroller.scrollHeight > scroller.clientHeight + 1) scrollToEl(el);
   }
 
   const STATE_TEXT = { playing: 'Wiedergabe läuft', paused: 'Pausiert', buffering: 'Lädt …', cued: 'Bereit', unstarted: 'Bereit', ended: 'Video zu Ende', error: 'Playerfehler' };
@@ -295,8 +297,8 @@ async function pageVideoSync(id, opts = {}) {
     if (controller) controller.setHold($('vc-hold').getAttribute('aria-pressed') !== 'true');
   });
   function scrollToEl(el) {
-    const top = list.scrollTop + el.getBoundingClientRect().top - list.getBoundingClientRect().top - 8;
-    list.scrollTo({ top, behavior: reduceMotion ? 'auto' : 'smooth' });
+    const top = scroller.scrollTop + el.getBoundingClientRect().top - scroller.getBoundingClientRect().top - 8;
+    scroller.scrollTo({ top, behavior: reduceMotion ? 'auto' : 'smooth' });
   }
 
   /* ---------- Player ---------- */
