@@ -500,3 +500,4 @@ a.person-link:hover { border-color: var(--accent); transform: translateY(-2px); 
 .cmp-desc { margin: 8px 0 4px; }
 .cmp .sources { padding-left: 18px; overflow-wrap: anywhere; }
 @media (max-width: 700px) { .cmp-grid { grid-template-columns: 1fr; } }
+.btn-note { margin: 8px 0 0; color: var(--text-2); max-width: 70ch; }
