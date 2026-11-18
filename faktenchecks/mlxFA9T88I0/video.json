@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mlxFA9T88I0",
+  "role": "original",
+  "reactionType": null,
+  "channel": "{ungeskriptet} by Ben",
+  "title": "Schau dieses Video, bevor Deutschland kippt (Horst Lüning)",
+  "videoUrl": "https://www.youtube.com/watch?v=mlxFA9T88I0",
+  "workStatus": "Teilbestand geprüft",
+  "identification": {
+    "basis": "Kanal, Titel und Video-ID laut erfassten Metadaten in faktenchecks/mlxFA9T88I0/README.md; das Gespräch wurde auf dem Kanal selbst veröffentlicht und ist kein Reaktionsvideo.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-18"
+  }
+}

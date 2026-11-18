@@ -102,3 +102,7 @@ Die Video-Ansicht kommt mit dem bestehenden Schema 2 aus. Optional hilfreich wä
 1. **Kapitelzeiten in `aussagen.json`** (z. B. `chapters: [{ number, startSeconds, endSeconds }]`), damit die Ansicht auch ohne Aussage anzeigen kann, in welchem Themenabschnitt man sich befindet. Heute stehen Kapitelzeiten nur in den Markdown-Berichten.
 2. **Feinere Zeitpräzision je Fundstelle**, etwa eine optionale Unsicherheit in Sekunden (`toleranceSeconds`), statt einer festen Anzeige-Toleranz je Präzisionsstufe.
 3. **Kennzeichnung der Abdeckung je Zeitbereich** (welche Bereiche systematisch geprüft wurden), damit die neutrale Meldung zwischen „geprüft, nichts gefunden“ und „noch nicht geprüft“ unterscheiden kann.
+
+## Originalinterviews und Reaktionen
+
+Erstellt von: Claude, Issue #4. Die Startseite zeigt nur Videos mit `role: original` aus `faktenchecks/<ID>/video.json`; Reaktionen erscheinen auf der Seite ihrer Originale, Videos ohne Einordnung unter „Noch nicht eingeordnet“. Der Workflow übernimmt `video.json` in `daten/index.json` (Feld `video`) und veröffentlicht `faktenchecks/beziehungen.json` als `daten/beziehungen.json`. Datenmodell, Konfliktregeln und Korrekturablauf: [REAKTIONSVIDEOS.md](REAKTIONSVIDEOS.md).
