@@ -110,7 +110,7 @@ async function step(name, fn) {
   const base = `http://127.0.0.1:${server.address().port}/`;
   const shots = process.env.SCREENSHOTS;
   const browser = await chromium.launch();
-  const ctx = await browser.newContext({ viewport: { width: 1360, height: 860 } });
+  const ctx = await browser.newContext({ viewport: { width: 1360, height: 860 }, reducedMotion: 'reduce' });
   const external = [];
   const consoleErrors = [];
   let apiMode = 'ok';
@@ -179,10 +179,11 @@ async function step(name, fn) {
     const cur = await page.locator('#vc-list .vc-item.is-current .vc-flag').allTextContents();
     assert.deepEqual(cur, ['Jetzt im Video', 'Jetzt im Video']);
     assert.ok(await page.locator('#vc-current li').count() >= 2);
-    await page.evaluate(() => { __yt.players[0].t = 1200; });
+    // Im erweiterten Bestand ist die frühere Testlücke bei 1200 s inzwischen mit Aussagen belegt.
+    await page.evaluate(() => { __yt.players[0].t = 61; });
     await page.waitForFunction(() => /keine geprüfte Aussage/.test(document.getElementById('vc-current').textContent));
     assert.equal(await page.locator('#vc-list .vc-item.is-current, #vc-list .vc-item.is-near').count(), 0);
-    assert.match(await page.locator('#vc-current').textContent(), /Nächste Fundstelle bei 00:56:28/);
+    assert.match(await page.locator('#vc-current').textContent(), /Nächste Fundstelle bei 00:02:18/);
   });
 
   await step('Ungenaue Zeitmarke: Eintrag kurz vor Beginn als „in der Nähe“', async () => {
