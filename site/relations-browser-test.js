@@ -112,11 +112,12 @@ async function step(name, fn) {
     assert.match(t, /2 Originalinterviews/);
   });
 
-  await step('Echte Daten: Detailseite zeigt Rolle und leeren Reaktionsabschnitt, Direktlinks funktionieren', async () => {
+  await step('Echte Daten: Detailseite zeigt Rolle und Reaktionsabschnitt, Direktlinks funktionieren', async () => {
     const t = await open(urlOf(real), '#/video/mlxFA9T88I0');
     assert.match(t, /Originalinterview/);
     assert.match(t, /Reaktionen und weitere Faktenchecks/);
-    assert.match(t, /Noch keine Reaktionen zugeordnet/);
+    assert.match(t, /Alfred räumt auf/);
+    assert.match(await open(urlOf(real), '#/video/mdo14671BPE'), /Noch keine Reaktionen zugeordnet/);
     await open(urlOf(real), '#/video/mdo14671BPE/aussage/mdo14671BPE-A0001');
     assert.ok(await page.$('#mdo14671BPE-A0001'));
     assert.match(await open(urlOf(real), '#/video/mlxFA9T88I0/bericht/README.md'), /Horst Lüning/);
