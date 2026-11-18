@@ -2,7 +2,7 @@
 # Pull Requests: nur Prüfung und Testaufbau, keine Veröffentlichung.
 # Push auf main: Prüfung, Aufbau und Veröffentlichung.
 # Es werden ausschließlich die Seitendateien aus site/ (ohne *-test.js), eigene Markdown-Berichte, die beiden
-# strukturierten JSON-Dateien und video.json je Video sowie faktenchecks/beziehungen.json übernommen –
+# strukturierten JSON-Dateien, video.json und rhetorik.json je Video sowie faktenchecks/beziehungen.json übernommen –
 # keine anderen Dateien aus dem Repository.
 name: Webseite
 
@@ -56,6 +56,9 @@ jobs:
       - name: Originale, Reaktionen und Beziehungen prüfen
         run: node --test site/relations-test.js
 
+      - name: Rhetorik-Ebene prüfen (getrennt von der Faktenbewertung)
+        run: node --test site/rhetoric-test.js
+
       - name: Webseite zusammenstellen
         env:
           OUT: ${{ runner.temp }}/site
@@ -63,12 +66,12 @@ jobs:
           set -euo pipefail
           rm -rf "$OUT"
           mkdir -p "$OUT/daten"
-          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js "$OUT/"
+          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js "$OUT/"
           # Versionsparameter je Commit: Browser und GitHub-Pages-Cache laden nach jedem Deploy alle Skripte neu
           # und mischen keine alten und neuen Dateien.
           ver="${GITHUB_SHA:0:12}"
-          sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
-          test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 5
+          sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js|rhetoric\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
+          test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 6
           if [[ -f faktenchecks/beziehungen.json ]]; then jq -c . faktenchecks/beziehungen.json > "$OUT/daten/beziehungen.json"; else echo '{"schemaVersion":1,"relations":[]}' > "$OUT/daten/beziehungen.json"; fi
           videos='[]'
           for dir in faktenchecks/*/; do
@@ -93,10 +96,15 @@ jobs:
             fi
             meta=null
             if [[ -f "$dir/video.json" ]]; then meta=$(jq -c . "$dir/video.json"); fi
+            rhetoric=false
+            if [[ -f "$dir/rhetorik.json" ]]; then
+              rhetoric=true
+              jq -c . "$dir/rhetorik.json" > "$OUT/daten/$id/rhetorik.json"
+            fi
             title=$(grep -m1 '^# ' "$dir/README.md" | sed 's/^# //')
-            videos=$(jq -c --arg id "$id" --arg title "${title:-$id}" --argjson structured "$structured" --argjson meta "$meta" \
+            videos=$(jq -c --arg id "$id" --arg title "${title:-$id}" --argjson structured "$structured" --argjson rhetoric "$rhetoric" --argjson meta "$meta" \
               --argjson files "$(printf '%s\n' "$files" | jq -R . | jq -sc 'map(select(length > 0))')" \
-              '. + [{id: $id, title: $title, structured: $structured, files: $files, video: $meta}]' <<< "$videos")
+              '. + [{id: $id, title: $title, structured: $structured, rhetoric: $rhetoric, files: $files, video: $meta}]' <<< "$videos")
           done
           jq -n --argjson videos "$videos" \
             --arg commit "${GITHUB_SHA}" \
