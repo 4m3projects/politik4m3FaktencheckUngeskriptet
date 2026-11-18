@@ -209,7 +209,8 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
 .dist span:last-child { border-radius: 0 4px 4px 0; }
 .dist-tip {
   position: fixed; z-index: 20; pointer-events: none; background: var(--text); color: var(--bg);
-  font-size: .82rem; padding: 6px 10px; border-radius: 6px; white-space: nowrap; box-shadow: var(--shadow);
+  font-size: .82rem; line-height: 1.45; padding: 7px 10px; border-radius: 6px; white-space: normal; overflow-wrap: break-word;
+  max-width: min(340px, calc(100vw - 16px)); box-shadow: var(--shadow);
 }
 .legend { display: flex; flex-wrap: wrap; gap: 6px 14px; padding: 0; margin: 8px 0 0; list-style: none; font-size: .85rem; color: var(--text-2); }
 .legend li { display: flex; align-items: center; gap: 6px; }

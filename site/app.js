@@ -131,7 +131,9 @@ function moveTip(e) {
   if (!state.tip) return;
   const w = state.tip.offsetWidth;
   state.tip.style.left = Math.min(window.innerWidth - w - 8, Math.max(8, e.clientX - w / 2)) + 'px';
-  state.tip.style.top = (e.clientY - 40) + 'px';
+  /* Mehrzeilige Hinweise: über dem Mauszeiger, bei zu wenig Platz darunter. */
+  const h = state.tip.offsetHeight;
+  state.tip.style.top = (e.clientY - h - 12 >= 8 ? e.clientY - h - 12 : Math.min(window.innerHeight - h - 8, e.clientY + 18)) + 'px';
 }
 function hideTip() { if (state.tip) state.tip.hidden = true; }
 
