@@ -392,6 +392,7 @@ function relationSummary(r, videos, side) {
     ${thumb ? `<a href="#/video/${esc(other)}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}
     <div class="rel-body">
     <a href="#/video/${esc(other)}"><strong>${esc(videoName(other))}</strong></a>
+    <div>${ampelView(videos.get(other), 'compact')}</div>
     <div class="small">${esc(e?.video?.channel || '')}${side === 'original' && e?.video?.reactionType ? ' · ' + esc(reactionTypeName(e.video.reactionType)) : ''} · Analyse: ${esc(e?.video?.workStatus || 'unbekannt')} · Zuordnung ${esc(r.certainty.toLowerCase())}</div>
     <div class="small">${esc(r.basis)}</div>
     <div class="small">${(r.claimLinks || []).length} verknüpfte Aussagen${conflicts ? ` · <span class="rel-conflict-text">⚠ ${conflicts} offene${conflicts === 1 ? 'r' : ''} Prüfkonflikt${conflicts === 1 ? '' : 'e'}</span>` : ''}</div>
@@ -486,6 +487,29 @@ function rhetSummary(v, interactive) {
   </div>`;
 }
 
+/* Faktenampel (site/ampel.js): nur aus der Faktenbewertung, nie aus Darstellungshinweisen.
+   variant: '' (Karte), 'compact' (Listen), 'big' (Detailseite mit Begründung). */
+function ampelSub(r) {
+  if (r.key === 'gruen' || r.key === 'gelb' || r.key === 'rot') {
+    return `${pct(r.errorShare * 100)} widerlegt oder irreführend · Basis: ${num(r.decided)} entschiedene von ${num(r.facts)} erfassten Tatsachenbehauptungen`;
+  }
+  return r.reason;
+}
+function ampelDemo(key) {
+  const l = FactAmpel.LEVELS[key];
+  const title = key === 'gruen' || key === 'gelb' || key === 'rot' ? `${l.name} · ${l.label}` : l.label;
+  return `<span class="ampel compact ampel-${key}"><span class="ampel-lights" aria-hidden="true"><i></i><i></i><i></i></span><span class="ampel-text"><span class="ampel-title">${esc(title)}</span></span></span>`;
+}
+function ampelView(v, variant = '') {
+  const r = FactAmpel.rate(v?.stats || null, v?.video || null, v?.data?.scope?.durationSeconds);
+  const title = r.key === 'gruen' || r.key === 'gelb' || r.key === 'rot' ? `${r.name} · ${r.label}` : r.label;
+  const tip = `Faktenampel: ${title}. ${ampelSub(r)}. ${r.text} Nur geprüfte Aussagen, kein Urteil über das ganze Video oder Personen; Darstellungshinweise zählen nicht.`;
+  return `<div class="ampel ampel-${r.key}${variant ? ' ' + (variant === 'big' ? 'ampel-big' : variant) : ''}" role="img" aria-label="${esc(tip)}" data-tip="${esc(tip)}">
+    <span class="ampel-lights" aria-hidden="true"><i></i><i></i><i></i></span>
+    <span class="ampel-text" aria-hidden="true"><span class="ampel-title">Faktenampel: ${esc(title)}</span><span class="ampel-sub">${esc(ampelSub(r))}</span></span>
+  </div>`;
+}
+
 async function pageHome() {
   const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   /* Hauptübersicht: nur Originalinterviews; Reaktionen erscheinen bei ihrem Original. */
@@ -506,6 +530,7 @@ async function pageHome() {
       <div class="claim-top">${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
       ${v.meta.Status ? `<span class="small">${esc(v.meta.Status)}</span>` : ''}</div>
       <h3>${esc(v.title)}</h3>
+      ${ampelView(v)}
       <ul class="facts">${videoFacts(v)}</ul>
       ${claims.length ? `<div>${distribution(claims)}</div>
         <p class="meta">${claims.length} strukturierte Aussagen · ${claims.filter(c => c.status === 'Abgeschlossen').length} abgeschlossen${scope && scope.totalLegacyPoints ? ` · ${scope.totalLegacyPoints - scope.unmigratedLegacyPoints} von ${scope.totalLegacyPoints} Prüfpunkten des Erststands strukturiert` : ''}</p>`
@@ -760,6 +785,8 @@ function videoHeader(v, tab) {
   <header class="video-head">
     <h1>${esc(v.title)}</h1>
     ${roleLine(v)}
+    ${ampelView(v, 'big')}
+    <p class="small ampel-note">Die Faktenampel fasst nur die bereits entschiedenen Tatsachenbehauptungen zusammen, nicht das ganze Video und keine Person. Darstellungshinweise fließen nicht ein. <a href="#/methodik">Regel in der Methodik</a></p>
     <ul class="facts">${videoFacts(v)}</ul>
     <div class="btn-row">
       ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" title="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
@@ -954,11 +981,27 @@ function pageMethod() {
   setPage(`<div class="wrap">
     <nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / Methodik</nav>
     <header class="video-head"><h1>So prüfen wir</h1>
-      <p class="lead" style="color:var(--text-2);max-width:70ch">Wir bewerten einzelne, überprüfbare Aussagen – nie ein ganzes Video pauschal. Entscheidend sind nachvollziehbare Quellen und die Trennung von Tatsachen, Meinungen und Prognosen. Dafür gibt es zwei getrennte Maßstäbe: die <strong>Faktenbewertung</strong> (stimmt die Aussage?) und die <strong>Darstellung</strong> (wie wird sie gesagt?).</p></header>
+      <p class="lead" style="color:var(--text-2);max-width:70ch">Wir bewerten einzelne, überprüfbare Aussagen – nie ein ganzes Video pauschal. Die Faktenampel je Video ist nur eine offengelegte Rechnung aus diesen Einzelbewertungen. Entscheidend sind nachvollziehbare Quellen und die Trennung von Tatsachen, Meinungen und Prognosen. Dafür gibt es zwei getrennte Maßstäbe: die <strong>Faktenbewertung</strong> (stimmt die Aussage?) und die <strong>Darstellung</strong> (wie wird sie gesagt?).</p></header>
 
     <section class="section" id="bewertung"><h2>Maßstab 1 – Faktenbewertung: sechs feste Bewertungen</h2>
       <ul class="verdict-list">${VERDICTS.map(x => `<li><span class="badge"><i class="fill-${x.key}" aria-hidden="true"></i>${esc(x.name)}</span><p>${esc(x.text)}</p></li>`).join('')}</ul>
       <p class="small">Solange eine Prüfung <strong>offen</strong> oder <strong>in Bearbeitung</strong> ist, gibt es bewusst keine Bewertung. Eine nicht belegte Aussage ist nicht automatisch falsch.</p>
+    </section>
+
+    <section class="section prose-plain" id="ampel"><h2>Faktenampel: das Video auf einen Blick</h2>
+      <p>Jedes Video zeigt eine Ampel. Sie ist eine reine Rechnung aus den Einzelbewertungen oben und enthält keine zusätzliche Einschätzung.</p>
+      <ul>
+        <li><strong>Grundlage:</strong> nur abgeschlossen bewertete Tatsachenbehauptungen mit dem Ergebnis belegt, teilweise belegt, irreführend oder widerlegt („entschieden“). Meinungen, Prognosen, offene, laufende, nicht überprüfbare und nicht ausreichend belegbare Aussagen zählen nicht mit.</li>
+        <li><strong>Fehleranteil</strong> = (widerlegt + irreführend) ÷ entschiedene Tatsachenbehauptungen. Teilweise belegt zählt nicht als Fehler.</li>
+      </ul>
+      <ul class="verdict-list">
+        <li>${ampelDemo('gruen')}<p>${esc(FactAmpel.LEVELS.gruen.text)}</p></li>
+        <li>${ampelDemo('gelb')}<p>${esc(FactAmpel.LEVELS.gelb.text)}</p></li>
+        <li>${ampelDemo('rot')}<p>${esc(FactAmpel.LEVELS.rot.text)}</p></li>
+        <li>${ampelDemo('nicht_bewertbar')}<p>${esc(FactAmpel.LEVELS.nicht_bewertbar.text)}</p></li>
+        <li>${ampelDemo('vorlaeufig')}<p>${esc(FactAmpel.LEVELS.vorlaeufig.text)} Das gilt auch, solange die Analyse als „In Bearbeitung“ gekennzeichnet ist.</p></li>
+      </ul>
+      <p class="small">Die Ampel beschreibt nur den geprüften Bestand, nicht das ganze Video, und ist keine Glaubwürdigkeitsnote für Personen. Neben ihr steht immer, auf wie vielen Aussagen sie beruht. Darstellungshinweise (Maßstab 2) verändern sie nie. Die Ampel wird nirgends gespeichert und von niemandem gesetzt: Sie wird bei jedem Aufruf nach einer einzigen, hier beschriebenen Regel berechnet. Ändert sich eine Einzelbewertung oder die Regel selbst, werden alle Videos automatisch neu eingestuft, ohne neue Prüfung.</p>
     </section>
 
     <section class="section prose-plain"><h2>Grundsätze</h2>
@@ -968,7 +1011,7 @@ function pageMethod() {
         <li><strong>Zeitbezug.</strong> Wir trennen den Wissensstand zur Zeit der Aufnahme von späteren Daten.</li>
         <li><strong>Vorsichtige Sprecherzuordnung.</strong> Je Fundstelle steht, ob die Person bestätigt, nur plausibel oder ungeklärt ist – und ob es eine eigene Behauptung, Zustimmung, Rückfrage oder Wiedergabe war.</li>
         <li><strong>Keine Doppelzählung.</strong> Wiederholungen werden als weitere Fundstellen derselben Aussage geführt, nicht als neue Aussagen.</li>
-        <li><strong>Teilbestände ehrlich kennzeichnen.</strong> Wenn nur ein Teil eines Videos strukturiert geprüft ist, gibt es keine Gesamtbilanz.</li>
+        <li><strong>Teilbestände ehrlich kennzeichnen.</strong> Wenn nur ein Teil eines Videos strukturiert geprüft ist, gibt es keine Gesamtbilanz des ganzen Videos; die Faktenampel nennt deshalb immer ihre Grundlage.</li>
         <li><strong>Keine Rankings.</strong> Wir vergeben keine Glaubwürdigkeitsnoten für Personen.</li>
       </ul>
     </section>
