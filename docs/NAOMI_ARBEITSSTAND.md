@@ -15,7 +15,7 @@ Bearbeitet von: Claude. Claude trägt die Verantwortung für diesen Auftrag. Der
 - Abschlussrecherche (S112–S127): A0001, A0074, A0175, A0178, A0182, A0198, A0223 und A0246 abgeschlossen. Zwölf Wertungen und Motivunterstellungen als Meinung eingeordnet (A0048, A0070, A0101, A0108, A0156, A0180, A0183, A0201, A0213, A0216, A0242, A0248). Alle übrigen offenen Tatsachen tragen am Anfang der Begründung eine Kennzeichnung „Nicht überprüfbar“ bzw. „Nicht überprüft“ mit Grund (persönliche Darstellung, nicht öffentlicher Vorgang, keine zugängliche Quelle, Behauptung über Dritte, zu unbestimmt, Originalstelle nicht kontrolliert). Es wurde nicht auf „Nicht ausreichend belegbar“ umgestellt, um keine Abschlusszahl zu erzeugen. Auf Anweisung des Projektverantwortlichen: Nicht Überprüfbares markieren, nicht raten.
 - Teilstand mit 71 abgeschlossenen Tatsachen als Merge-Commit `fcb8dde` in `main` (PR #12, Pages-Deploy erfolgreich). Folgestände über neue PRs vom selben Branch.
 
-- Nachprüfung nach Issue #3 (Kommentar 6975091438): Themenprüfung, Werbe-Korrektur und Restliste in [NAOMI_ABGLEICH.md](NAOMI_ABGLEICH.md). Die ältere 328-Punkte-Auswertung liegt weiterhin nicht vor.
+- Nachprüfung nach Issue #3 (Kommentar 6975091438): Themenprüfung, Werbe-Korrektur und Restliste in [NAOMI_ABGLEICH.md im Schwesterprojekt](https://github.com/4m3projects/politik4m3Facktencheck/blob/main/docs/NAOMI_ABGLEICH.md). Die ältere 328-Punkte-Auswertung liegt weiterhin nicht vor.
 
 Die folgenden Abschnitte dokumentieren Codex' Übergabestand.
 

@@ -13,6 +13,12 @@ $script:current=ConvertFrom-FactcheckJson (Get-Content -LiteralPath (Join-Path $
 $chapterTwoLines=@(& git -c ('safe.directory='+$root.Replace('\','/')) -C $root show '4e622aae57453fe77790a5b709863f44bb0d9f08:faktenchecks/mlxFA9T88I0/strukturiert/aussagen.json')
 if ($LASTEXITCODE -ne 0) { throw 'Kapitel-2-Referenz fehlt.' }
 $script:chapterTwo=ConvertFrom-FactcheckJson ($chapterTwoLines -join [char]10)
+# Kapitel-3-Endstand (nach Gegenpruefung, in main) als feste Referenz fuer Kapitel-3-Regressionen.
+$chapterThreeLines=@(& git -c ('safe.directory='+$root.Replace('\','/')) -C $root show '118400fdb012c0b33bd3799429fe84b5156fd948:faktenchecks/mlxFA9T88I0/strukturiert/aussagen.json')
+if ($LASTEXITCODE -ne 0) { throw 'Kapitel-3-Referenz fehlt.' }
+$script:chapterThree=ConvertFrom-FactcheckJson ($chapterThreeLines -join [char]10)
+$script:finalReview='Abschlussprüfung 18.11.2026 (Claude): '
+$script:finalReviewKeys=@('kind','status','verdict','reason','sourceRefs','openQuestions','migration')
 function Get-ChapterOneView {
     $d=ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson $script:chapterTwo)
     $d.claims=@($d.claims | Where-Object chapter -NE 2)
@@ -418,10 +424,10 @@ Case 'Kapiteluebergreifender Teaser ist ein Vorkommen und keine neue Aussage' {
     Check-True ($s.statusCounts.Abgeschlossen -eq 5 -and $s.statusCounts.Offen -eq 6 -and $s.statusCounts.'In Bearbeitung' -eq 7 -and $s.completedFacts -eq 4 -and $s.kindCounts.Prognose -eq 1) 'Neue Statistik falsch.'
 }
 Case 'Redaktionelle Auslegungsunsicherheit erhaelt keine Endbewertung' {
-    foreach($id in @('mlxFA9T88I0-A0011','mlxFA9T88I0-A0012')){
-        $c=@($script:current.claims | Where-Object id -CEQ $id)[0]
-        Check-True ($c.status -ceq 'In Bearbeitung' -and $null -eq $c.verdict -and $c.openQuestions.Count -gt 0) 'Unsichere Auslegung abschliessend bewertet.'
-    }
+    $c=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0012')[0]
+    Check-True ($c.status -ceq 'Offen' -and $null -eq $c.verdict -and $c.openQuestions.Count -gt 0 -and $c.reason.StartsWith('Nicht überprüfbar – ')) 'Unsichere Auslegung abschliessend bewertet.'
+    $c=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0011')[0]
+    Check-True ($c.verdict -ceq 'Belegt' -and $c.migration.assessmentChange.Contains($script:finalReview) -and $c.reason.Contains('September 2026')) 'Abschlussbewertung ohne Zeitbezug oder Dokumentation.'
     $c=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0014')[0]
     $src=@($script:current.sources | Where-Object id -CEQ 'S009')[0]
     Check-True ($c.verdict -ceq 'Belegt' -and $src.details.Contains('gedruckte Seite 17 / PDF-Seite 23')) 'Sachbewertung oder korrigierte Seitenangabe verloren.'
@@ -510,7 +516,7 @@ Case 'Kapitel-2-Referenz trennt Datensaetze Vorkommen und Tatsachen-Nenner' {
     Check-True ($s.selectedLegacyPoints -eq 20 -and $s.totalLegacyPoints -eq 99 -and $s.coverageNote.Contains('Keine Statistik des vollständigen Videos')) 'Teilbestandskennzeichnung verloren.'
 }
 Case 'Kapitel 3 deckt alle 14 Altpunkte ab und startet keine weitere Migration' {
-    $d=$script:current;Assert-FactcheckData $d
+    $d=$script:chapterThree;Assert-FactcheckData $d
     $old=Get-Content -LiteralPath (Join-Path $root 'faktenchecks/mlxFA9T88I0/kapitel/03_unternehmen.md') -Raw -Encoding UTF8
     $numbers=@([regex]::Matches($old,'(?m)^## Prüfpunkt (\d+)') | ForEach-Object {[int]$_.Groups[1].Value})
     Check-True ($numbers.Count -eq 14 -and $d.legacyPoints.Count -eq 33 -and $d.scope.unmigratedLegacyPoints -eq 66 -and $d.scope.kind -ceq 'Teilbestand') 'Kapitel-3-Umfang falsch.'
@@ -520,7 +526,7 @@ Case 'Kapitel 3 deckt alle 14 Altpunkte ab und startet keine weitere Migration' 
 }
 Case 'Kapitel-2-Bestand bleibt bis auf dokumentierte Domainfortschreibung erhalten' {
     foreach($old in $script:chapterTwo.claims){
-        $now=ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson @($script:current.claims | Where-Object id -CEQ $old.id)[0])
+        $now=ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson @($script:chapterThree.claims | Where-Object id -CEQ $old.id)[0])
         if($old.id -ceq 'mlxFA9T88I0-A0002'){
             foreach($field in @('status','verdict','reason','assessmentBasis','sourceRefs','openQuestions')){$now.$field=$old.$field}
             $now.migration.assessmentChange=$old.migration.assessmentChange
@@ -531,8 +537,8 @@ Case 'Kapitel-2-Bestand bleibt bis auf dokumentierte Domainfortschreibung erhalt
         }
         Check-True (Test-FactcheckEqual $now $old) ('Undokumentierte Altbestandsaenderung: '+$old.id)
     }
-    foreach($old in $script:chapterTwo.sources){$now=@($script:current.sources | Where-Object id -CEQ $old.id);Check-True ($now.Count -eq 1 -and (Test-FactcheckEqual $now[0] $old)) 'Alte Quellengrundlage veraendert.'}
-    foreach($old in $script:chapterTwo.legacyPoints){$now=@($script:current.legacyPoints | Where-Object id -CEQ $old.id);Check-True ($now.Count -eq 1 -and (Test-FactcheckEqual $now[0] $old)) 'Alte Herkunft veraendert.'}
+    foreach($old in $script:chapterTwo.sources){$now=@($script:chapterThree.sources | Where-Object id -CEQ $old.id);Check-True ($now.Count -eq 1 -and (Test-FactcheckEqual $now[0] $old)) 'Alte Quellengrundlage veraendert.'}
+    foreach($old in $script:chapterTwo.legacyPoints){$now=@($script:chapterThree.legacyPoints | Where-Object id -CEQ $old.id);Check-True ($now.Count -eq 1 -and (Test-FactcheckEqual $now[0] $old)) 'Alte Herkunft veraendert.'}
 }
 Case 'Domainerwerb bekommt begrenzten neuen Beleg ohne Preis oder Rang zu erfinden' {
     $c=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0002')[0]
@@ -554,26 +560,99 @@ Case 'Erneut gescheiterte Kaufquelle wird nicht als neue Verifikation dargestell
 }
 Case 'Unsichere Rechtslesart Internetkurzform und historisches Baudatum bleiben ohne Endurteil' {
     foreach($id in @('mlxFA9T88I0-A0094','mlxFA9T88I0-A0105','mlxFA9T88I0-A0162')){
-        $c=@($script:current.claims | Where-Object id -CEQ $id)[0];Check-True ($null -eq $c.verdict -and $c.status -ceq 'In Bearbeitung' -and $c.openQuestions.Count -gt 0) 'Mehrdeutigkeit als abgeschlossen ausgegeben.'
+        $c=@($script:current.claims | Where-Object id -CEQ $id)[0];Check-True ($null -eq $c.verdict -and $c.status -ceq 'Offen' -and $c.openQuestions.Count -gt 0 -and $c.reason.StartsWith('Nicht überprüfbar – ')) 'Mehrdeutigkeit als abgeschlossen ausgegeben.'
     }
     $c=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0143')[0]
     Check-True ($c.occurrences[0].role -ceq 'Rückfrage' -and -not (Test-FactcheckOwnRole $c.occurrences[0])) 'Frage zur EU-Herkunft als eigene Tatsachenbehauptung gezaehlt.'
 }
 Case 'Kapitel-3-Sprecher und Zeiten bleiben unabhaengig vom Sachurteil unsicher' {
-    $new=@($script:current.claims | Where-Object {$_.id -cnotin $script:chapterTwo.claims.id})
+    $new=@($script:chapterThree.claims | Where-Object {$_.id -cnotin $script:chapterTwo.claims.id})
     foreach($c in $new){foreach($o in $c.occurrences){
         Check-True ($null -eq $o.speakerId -and $o.attributionStatus -ceq 'Plausibel' -and $o.roleStatus -ceq 'Plausibel' -and $o.precision -ceq 'Ungefähr' -and $o.timeBasis.Contains('Originaluntertitel')) 'Textbefund als Personen- oder Zeitbestaetigung ausgegeben.'
         Check-True (($null -ne $c.legacyId -and $o.timeHistory.Count -eq 1) -or ($null -eq $c.legacyId -and $o.timeHistory.Count -eq 0)) 'Altzeit oder Neuerfassung falsch behandelt.'
     }}
-    $s=Get-FactcheckStatistics $script:current
+    $s=Get-FactcheckStatistics $script:chapterThree
     Check-True ($s.speakerStatistics.reliablyAssignedFacts -eq 0 -and $s.sameSpeakerRepeatedAssertionOccurrences -eq 0) 'Unbelegte Personenstatistik.'
 }
 Case 'Kapitel-3-Endstand trennt Migration Forschung und Referenzfragen' {
-    $s=Get-FactcheckStatistics $script:current
+    $s=Get-FactcheckStatistics $script:chapterThree
     Check-True ($s.statementRecords -eq 178 -and $s.uniqueStatements -eq 176 -and $s.referenceOnlyStatements -eq 2 -and $s.assertionOccurrences -eq 197 -and $s.referenceOccurrences -eq 8 -and $s.additionalAssertionOccurrences -eq 21) 'Aktuelle Vorkommenszaehlung falsch.'
     Check-True ($s.statusCounts.Abgeschlossen -eq 51 -and $s.statusCounts.Offen -eq 65 -and $s.statusCounts.'In Bearbeitung' -eq 60 -and $s.completedFacts -eq 42) 'Aktueller Forschungsstand falsch.'
     Check-True ($s.categories[0].completedCount -eq 9 -and $s.categories[1].completedCount -eq 27 -and $s.categories[2].completedCount -eq 6 -and $s.categories[5].completedCount -eq 9) 'Aktuelle Kategorien falsch.'
     Check-True ($s.selectedLegacyPoints -eq 33 -and $s.totalLegacyPoints -eq 99 -and $s.coverageNote.Contains('Keine Statistik des vollständigen Videos')) 'Teilbestand verloren.'
+}
+# Ab Kapitel 4: fortlaufende Kapitelmigrationen durch Claude (18.11.2026). Je neuem Kapitel Altpunktzahl, Zeitfenster und Endstand ergaenzen.
+$script:laterChapters=@{4=11;5=13;6=11;7=8;8=16;9=7;10=2}
+$script:laterRanges=@{4=@(4500,5290);5=@(5270,6530);6=@(6500,7530);7=@(7490,8290);8=@(8260,10330);9=@(10290,10990);10=@(10970,11166)}
+$script:laterExtraOccurrences=@('mlxFA9T88I0-A0011','mlxFA9T88I0-A0012','mlxFA9T88I0-A0013','mlxFA9T88I0-A0014','mlxFA9T88I0-A0015','mlxFA9T88I0-A0016','mlxFA9T88I0-A0017','mlxFA9T88I0-A0018')
+Case 'Spaetere Kapitel decken alle Altpunkte ab und bleiben im Kapitel' {
+    $d=$script:current;Assert-FactcheckData $d
+    foreach($ch in @($script:laterChapters.Keys | Sort-Object)){
+        $file=@(Get-ChildItem -LiteralPath (Join-Path $root 'faktenchecks/mlxFA9T88I0/kapitel') -Filter ('{0:00}_*.md' -f $ch))[0]
+        $old=Get-Content -LiteralPath $file.FullName -Raw -Encoding UTF8
+        $numbers=@([regex]::Matches($old,'(?m)^## Prüfpunkt (\d+)') | ForEach-Object {[int]$_.Groups[1].Value})
+        Check-True ($numbers.Count -eq $script:laterChapters[$ch]) ('Altpunktzahl Kapitel '+$ch)
+        foreach($n in $numbers){$id='C{0:00}-P{1:00}' -f $ch,$n;Check-True (@($d.legacyPoints | Where-Object id -CEQ $id).Count -eq 1 -and @($d.claims | Where-Object legacyId -CEQ $id).Count -gt 0) ('Altpunkt fehlt: '+$id)}
+        $rg=$script:laterRanges[$ch]
+        foreach($c in @($d.claims | Where-Object {$_.chapter -eq $ch -and $_.id -cnotin $script:chapterThree.claims.id})){
+            $hasLegacy=$null -ne $c.legacyId
+            if($hasLegacy){Check-True ($c.legacyId.StartsWith(('C{0:00}-' -f $ch))) ('Herkunft falsch: '+$c.id)}
+            foreach($o in $c.occurrences){
+                Check-True ($null -eq $o.speakerId -and $o.attributionStatus -ceq 'Plausibel' -and $o.precision -ceq 'Ungefähr' -and $o.startSeconds -ge $rg[0] -and $o.endSeconds -le $rg[1]) ('Fundstelle, Zeit oder Sprecher unzulaessig: '+$o.id)
+                Check-True (($hasLegacy -and $o.timeHistory.Count -eq 1) -or (-not $hasLegacy -and $o.timeHistory.Count -eq 0)) ('Altzeit oder Neuerfassung falsch: '+$o.id)
+            }
+        }
+    }
+}
+Case 'Kapitel-3-Bestand bleibt bis auf dokumentierte Hauptgespraechsvorkommen erhalten' {
+    foreach($old in $script:chapterThree.claims){
+        $now=ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson @($script:current.claims | Where-Object id -CEQ $old.id)[0])
+        $added=@($now.occurrences | Where-Object {$_.id -cnotin $old.occurrences.id})
+        if($added.Count){
+            Check-True ($script:laterExtraOccurrences -ccontains $old.id) ('Unerwartetes Zusatzvorkommen: '+$old.id)
+            foreach($o in $added){Check-True ($o.timeHistory[0].basis -match 'Altpunkt C(0[4-9]|10)-P' -and $o.note.Contains('Bewertung von')) ('Zusatzvorkommen ohne Herkunft: '+$o.id)}
+            $now.occurrences=@($now.occurrences | Where-Object {$_.id -cin $old.occurrences.id})
+        }
+        if($now.migration.assessmentChange.Contains($script:finalReview)){
+            Check-True ($now.migration.assessmentChange.StartsWith($old.migration.assessmentChange.Trim())) ('Abschlusspruefung ueberschreibt Migrationsgeschichte: '+$old.id)
+            foreach($key in $script:finalReviewKeys){$now.$key=$old.$key}
+        }
+        Check-True (Test-FactcheckEqual $now $old) ('Undokumentierte Altbestandsaenderung: '+$old.id)
+    }
+    foreach($old in $script:chapterThree.sources){$now=@($script:current.sources | Where-Object id -CEQ $old.id);Check-True ($now.Count -eq 1 -and (Test-FactcheckEqual $now[0] $old)) 'Alte Quellengrundlage veraendert.'}
+    foreach($old in $script:chapterThree.legacyPoints){$now=@($script:current.legacyPoints | Where-Object id -CEQ $old.id);Check-True ($now.Count -eq 1 -and (Test-FactcheckEqual $now[0] $old)) 'Alte Herkunft veraendert.'}
+}
+Case 'Nicht Ueberpruefbares bleibt offen und ohne Endurteil' {
+    $new=@($script:current.claims | Where-Object {$_.id -cnotin $script:chapterThree.claims.id})
+    $marked=@($new | Where-Object {$_.reason.StartsWith('Nicht überprüfbar – ')})
+    Check-True ($marked.Count -ge 10) 'Kennzeichnung fehlt.'
+    foreach($c in $marked){Check-True ($c.status -ceq 'Offen' -and $null -eq $c.verdict -and $c.openQuestions.Count -gt 0) ('Nicht Ueberpruefbares abgeschlossen: '+$c.id)}
+    foreach($c in @($script:current.claims | Where-Object status -CNE 'Abgeschlossen')){Check-True ($c.reason.StartsWith('Nicht überprüfbar – ')) ('Offene Aussage ohne abschliessende Kennzeichnung: '+$c.id)}
+    Check-True ($script:current.scope.coverageNote.StartsWith('Recherche abgeschlossen') -and $script:current.scope.coverageNote.Contains('Keine Statistik des vollständigen Videos')) 'Abschlussvermerk oder Teilbestandsgrenze fehlt.'
+}
+Case 'Berliner Quote nach Zeitstand und Laendervergleich getrennt' {
+    $q=@($script:current.claims | Where-Object {$_.legacyId -ceq 'C04-P07'})
+    Check-True ($q.Count -eq 2 -and $q[0].verdict -ceq 'Teilweise belegt' -and $q[1].verdict -ceq 'Widerlegt' -and ($q[1].sourceRefs.sourceId -contains 'S063')) 'Berliner Quote oder Bremen-Vergleich falsch.'
+    $src=@($script:current.sources | Where-Object id -CEQ 'S063')[0]
+    Check-True ($src.details.Contains('28.08.2026') -and $src.details.Contains('Vor der Aufnahme')) 'Damaliger Informationsstand nicht dokumentiert.'
+}
+Case 'Zinsreihe und Restlaufzeit an amtlichen Daten statt Erinnerung bewertet' {
+    $z=@($script:current.claims | Where-Object {$_.legacyId -ceq 'C05-P01'})
+    Check-True ($z.Count -eq 3 -and $z[0].verdict -ceq 'Belegt' -and $z[1].verdict -ceq 'Widerlegt' -and $z[2].verdict -ceq 'Irreführend / Kontext fehlt') 'Zinsreihe falsch bewertet.'
+    $l=@($script:current.claims | Where-Object {$_.legacyId -ceq 'C05-P02'})[0]
+    Check-True ($l.verdict -ceq 'Widerlegt' -and ($l.sourceRefs.sourceId -contains 'S072')) 'Restlaufzeit falsch bewertet.'
+    $i=@($script:current.claims | Where-Object {$_.legacyId -ceq 'C05-P09' -and $_.occurrences.Count -eq 2})[0]
+    Check-True ($i.occurrences[1].role -ceq 'Zurückweisung' -and $null -eq $i.verdict) 'Zurueckweisung der Staatsinsolvenzthese falsch.'
+}
+Case 'Aktueller Endstand trennt Migration Forschung und Referenzfragen' {
+    $s=Get-FactcheckStatistics $script:current
+    Check-True ($s.statementRecords -eq 395 -and $s.uniqueStatements -eq 392 -and $s.referenceOnlyStatements -eq 3 -and $s.assertionOccurrences -eq 436 -and $s.referenceOccurrences -eq 11 -and $s.additionalAssertionOccurrences -eq 44) 'Aktuelle Vorkommenszaehlung falsch.'
+    Check-True ($s.statusCounts.Abgeschlossen -eq 197 -and $s.statusCounts.Offen -eq 195 -and $s.statusCounts.'In Bearbeitung' -eq 0 -and $s.completedFacts -eq 117) 'Aktueller Forschungsstand falsch.'
+    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '32,58,18,7,2,80') 'Aktuelle Kategorien falsch.'
+    Check-True ($script:current.scope.unmigratedLegacyPoints -eq 0 -and $script:current.scope.kind -ceq 'Teilbestand') 'Vollstaendige Migration darf ohne Vollpruefung kein Vollbestand sein.'
+    $w=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0207')[0]
+    Check-True ($w.verdict -ceq 'Belegt' -and ($w.sourceRefs.sourceId -join ',') -ceq 'S100' -and $w.migration.assessmentChange.Contains('Kapitel-7-Prüfung')) 'Fortschreibung A0207 nicht dokumentiert.'
+    Check-True ($s.selectedLegacyPoints -eq 99 -and $s.totalLegacyPoints -eq 99 -and $s.speakerStatistics.reliablyAssignedFacts -eq 0 -and $s.sameSpeakerRepeatedAssertionOccurrences -eq 0) 'Teilbestand oder Personenstatistik falsch.'
 }
 Case 'JSON, Statistik und Markdown stimmen ueberein' { Assert-FactcheckCollection $workTexts }
 Case 'Veraltete Statistik wird zurueckgewiesen' {
