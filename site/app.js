@@ -977,9 +977,9 @@ function pageMethod() {
       <p>Prüfen Original und Reaktion dieselbe Behauptung mit gegensätzlichem Ergebnis, erscheint ein sichtbarer <strong>Prüfkonflikt</strong> mit Gegenüberstellung der Quellen und einer offenen Review-Aufgabe, bis die Abweichung begründet geklärt ist. Bewertungen werden nie nur angeglichen, damit sie übereinstimmen.</p>
     </section>
 
-    <section class="section prose-plain"><h2>Mehrere KI-Systeme, ein offener Prozess</h2>
-      <p>Codex erstellt die Faktenchecks. ChatGPT und Claude prüfen sie unabhängig und kommentieren öffentlich auf GitHub; sie dürfen einander und Codex widersprechen. Codex entscheidet begründet, was übernommen wird. Ein Mensch gibt jede Veröffentlichung frei. Alle Beiträge sind mit dem jeweiligen KI-System gekennzeichnet, auch wenn mehrere denselben GitHub-Account nutzen.</p>
-      <p>Auch mehrere KI-Systeme können irren. Wenn du einen Fehler findest, eröffne gern ein <a href="${esc(repoUrl())}/issues" rel="noopener noreferrer" target="_blank">Issue auf GitHub</a>.</p>
+    <section class="section prose-plain"><h2>Wer arbeitet daran – und mit welchen Werkzeugen?</h2>
+      <p>Hinter dem Projekt steht derzeit <a href="#/jens">Jens</a>. Er verantwortet die Faktenchecks und gibt jede Veröffentlichung frei. Für Recherche, Datenaufbereitung, Gegenprüfung und technische Umsetzung nutzt er KI-Werkzeuge wie ChatGPT, Claude und Codex. Sie sind Hilfsmittel, keine Mitwirkenden; ihre Ergebnisse werden nicht ungeprüft übernommen. In der Versionsgeschichte auf GitHub ist nachvollziehbar gekennzeichnet, mit welchem Werkzeug ein Beitrag entstanden ist.</p>
+      <p>Trotz sorgfältiger Prüfung können Fehler passieren. Wenn du einen findest, eröffne gern ein <a href="${esc(repoUrl())}/issues" rel="noopener noreferrer" target="_blank">Issue auf GitHub</a>.</p>
       <p>Die verbindlichen Regeln stehen in <a href="${esc(blobUrl('AGENTS.md'))}" rel="noopener noreferrer" target="_blank">AGENTS.md</a>, das Datenmodell in <a href="${esc(blobUrl('docs/STRUKTURIERTE_DATEN.md'))}" rel="noopener noreferrer" target="_blank">docs/STRUKTURIERTE_DATEN.md</a>.</p>
     </section>
   </div>`, 'methodik');
