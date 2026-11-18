@@ -1356,7 +1356,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Das Gehirn sortiere nachts Ballast aus; mit genug Input komme die Lösung eines Problems oft im Schlaf.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1379,21 +1379,22 @@ Frueherer Suchbereich: [02:33:40–02:36:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Gedächtnisverarbeitung im Schlaf ist Forschungsgegenstand; die konkrete Darstellung wurde nicht anhand einer Fachquelle geprüft.
+Für den zweiten Teil gibt es einen bekannten Beleg: In der Lübecker Studie (Wagner, Born u. a., Nature 2004) fanden nach einer Nacht Schlaf rund 60 % der Teilnehmenden eine verborgene Abkürzung in einer Rechenaufgabe, nach gleich langer Wachzeit nur rund 20 %. Schlaf kann also das Finden von Lösungen fördern. Dass das Gehirn nachts „Ballast aussortiert“, ist eine starke Vereinfachung der Gedächtnisforschung und wurde nicht eigens geprüft.
 
-Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Wissenschaftsbericht von Spektrum.de zur Studie gelesen; Originalaufsatz nicht gelesen.
 
 Uebernahme: Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Schlaf und Problemlösen recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Muse und Morpheus](https://www.spektrum.de/news/muse-und-morpheus/698460) · Spektrum.de, Jan Osterkamp, 22.01.2004; Bericht über die Studie von Wagner, Born u. a., Nature 427 (2004).
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Schlaf verdreifacht den Anteil, der die verborgene Lösung findet (60 % gegenüber 20 %).
 
 ### Offene Fragen und Unsicherheiten
 
-- Fachquelle zu Schlaf, Gedächtniskonsolidierung und Problemlösen lesen.
+- Übersichtsarbeit zu Schlaf und Vergessen bzw. synaptischer Herunterregelung lesen.
 
 ## mlxFA9T88I0-A0351
 
@@ -1960,7 +1961,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Unter der NS-Verfolgung seien Menschen, die wegen Firmen und Häusern blieben, im KZ gelandet; Flüchtenden sei Gold an der Grenze abgenommen worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1983,21 +1984,25 @@ Frueherer Suchbereich: [02:43:30–02:47:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Historische Aussage zur Verfolgung im Nationalsozialismus; die Zeitangabe vor hundert Jahren ist ungenau. Keine historische Fachquelle gelesen.
+Im Kern zutreffend: Jüdische Auswanderer wurden ab 1933 fiskalisch ausgeplündert (Reichsfluchtsteuer von 25 % des Vermögens, hohe Abgaben für Umzugsgut und Devisen, Sicherstellung von Besitz); wer blieb, wurde ab 1938 weiter enteignet und ab Ende 1941 deportiert. Die konkrete Schilderung, Flüchtenden sei Gold an der Grenze abgenommen worden, und der Zusammenhang „wegen Firmen und Häusern geblieben“ werden in den gelesenen Quellen nicht behandelt. Die Zeitangabe „vor hundert Jahren“ ist ungenau.
 
-Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Darstellungen der Berliner Finanzverwaltung und des Deutschen Historischen Museums gelesen; keine Fachliteratur zu Kontrollen an der Grenze.
 
 Uebernahme: Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Vermögensentzug im NS recherchiert; von Offen auf Teilweise belegt (Gold an der Grenze nicht belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Reichsfluchtsteuer und Judenvermögensabgabe](https://www.berlin.de/sen/finanzen/ueber-uns/architektur-geschichte/artikel.5183.php) · Senatsverwaltung für Finanzen Berlin, Architektur und Geschichte, 2021; fiskalische Ausplünderung jüdischer Auswanderer.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Reichsfluchtsteuer 25 %, Beschlagnahme, Judenvermögensabgabe.
+
+- [Legalisierter Raub – Stufen der Ausplünderung](https://www.dhm.de/archiv/ausstellungen/legalisierter-raub/02.html) · Deutsches Historisches Museum, Ausstellungsarchiv; Abgaben für Umzugsgut und Devisen, Sicherstellung, Deportationen ab 1941.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Abgaben für Umzugsgut und Devisen, Sicherstellung, Deportationen ab 1941.
 
 ### Offene Fragen und Unsicherheiten
 
-- Fachquelle zu Vermögensentzug und Fluchtbedingungen ab 1933 lesen.
+- Fachquelle zu Abgabepflichten für Edelmetalle und Schmuck bei der Auswanderung (z. B. Mitnahmeverbote, Devisenkontrollen an der Grenze).
 
 ## mlxFA9T88I0-A0364
 

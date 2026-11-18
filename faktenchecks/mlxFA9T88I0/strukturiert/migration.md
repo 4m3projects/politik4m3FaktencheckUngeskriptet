@@ -1982,7 +1982,7 @@ Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistun
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0207 | Abgeschlossen | Belegt | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
 | mlxFA9T88I0-A0208 | Abgeschlossen | Meinung / Prognose | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
-| mlxFA9T88I0-A0209 | Offen | keine Endbewertung | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
+| mlxFA9T88I0-A0209 | Abgeschlossen | Teilweise belegt | Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013. |
 
 Bewertungsuebergang mlxFA9T88I0-A0207: Zunächst Offen; in der Kapitel-7-Prüfung nach Lektüre des amtlichen Endergebnisses auf Belegt fortgeschrieben.
 
@@ -1990,7 +1990,7 @@ Bewertungsuebergang mlxFA9T88I0-A0207: Zunächst Offen; in der Kapitel-7-Prüfun
 Bewertungsuebergang mlxFA9T88I0-A0208: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0209: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang mlxFA9T88I0-A0209: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Destatis-Energiepreise Juni/August 2026 recherchiert; von Offen auf Teilweise belegt (Erdgas nicht teurer).
 
 
 ## C04-P09
@@ -3771,13 +3771,13 @@ Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsreg
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0349 | Abgeschlossen | Irreführend / Kontext fehlt | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
-| mlxFA9T88I0-A0350 | Offen | keine Endbewertung | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
+| mlxFA9T88I0-A0350 | Abgeschlossen | Teilweise belegt | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
 | mlxFA9T88I0-A0351 | Abgeschlossen | Meinung / Prognose | Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet. |
 
 Bewertungsuebergang mlxFA9T88I0-A0349: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Irreführend / Kontext fehlt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0350: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang mlxFA9T88I0-A0350: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Schlaf und Problemlösen recherchiert; von Offen auf Teilweise belegt.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0351: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -3910,13 +3910,13 @@ Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt.
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0362 | Abgeschlossen | Meinung / Prognose | Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt. |
-| mlxFA9T88I0-A0363 | Offen | keine Endbewertung | Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt. |
+| mlxFA9T88I0-A0363 | Abgeschlossen | Teilweise belegt | Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt. |
 | mlxFA9T88I0-A0364 | Abgeschlossen | Meinung / Prognose | Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0362: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0363: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang mlxFA9T88I0-A0363: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Vermögensentzug im NS recherchiert; von Offen auf Teilweise belegt (Gold an der Grenze nicht belegt).
 
 
 Bewertungsuebergang mlxFA9T88I0-A0364: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
