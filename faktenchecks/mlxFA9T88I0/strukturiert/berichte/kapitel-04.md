@@ -1451,7 +1451,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Öl, Gas und Sprit sind zuletzt wieder teurer geworden und belasten Erwerbstätige.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1474,21 +1474,25 @@ Frueherer Suchbereich: [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. An Verbraucherpreisdaten prüfbar; keine solche Quelle gelesen. Zeitraum und Vergleichsbasis fehlen.
+Für Öl und Sprit trifft es zu: Nach der befristeten Steuersenkung auf Kraftstoffe bis Ende Juni 2026 stiegen die Energiepreise wieder; im August 2026 lagen Kraftstoffe 27,7 % und leichtes Heizöl 49,6 % über dem Vorjahresmonat, Energie insgesamt 10,5 %. Erdgas war dagegen 2,9 % billiger als ein Jahr zuvor. Dass die Preise Erwerbstätige belasten, ist eine allgemeine Folgerung.
 
-Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Destatis-Pressemitteilungen zu Juni und August 2026 gelesen (Aufnahme laut Beschreibung 23.09.2026).
 
 Uebernahme: Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Destatis-Energiepreise Juni/August 2026 recherchiert; von Offen auf Teilweise belegt (Erdgas nicht teurer).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Inflationsrate im August 2026 bei +2,9 %](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_320_611.html) · Statistisches Bundesamt, Pressemitteilung Nr. 320 vom 10.09.2026; Energie, Kraftstoffe, Heizöl, Erdgas.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. August 2026: Kraftstoffe +27,7 %, Heizöl +49,6 %, Erdgas −2,9 % zum Vorjahresmonat.
+
+- [Inflationsrate im Juni 2026 bei +2,3 %](https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_243_611.html) · Statistisches Bundesamt, Pressemitteilung Nr. 243 vom 10.07.2026; Energiepreise während der befristeten Kraftstoffsteuersenkung.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Juni 2026: Energie −3,0 % zum Vormonat wegen Steuersenkung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Destatis-Verbraucherpreise für Heizöl, Erdgas und Kraftstoffe im Sommer 2026 gegenüber Vormonaten und Vorjahr lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0210
 

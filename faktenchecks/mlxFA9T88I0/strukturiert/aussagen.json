@@ -2254,6 +2254,46 @@
       "details": "Leipziger Zeitung, Lucas Böhme, 19.07.2020; Umtauschkurse 1990, Kaufkraftüberhang, ausbleibender Kaufrausch.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S157",
+      "title": "Inflationsrate im August 2026 bei +2,9 %",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/09/PD26_320_611.html",
+      "details": "Statistisches Bundesamt, Pressemitteilung Nr. 320 vom 10.09.2026; Energie, Kraftstoffe, Heizöl, Erdgas.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S158",
+      "title": "Inflationsrate im Juni 2026 bei +2,3 %",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/07/PD26_243_611.html",
+      "details": "Statistisches Bundesamt, Pressemitteilung Nr. 243 vom 10.07.2026; Energiepreise während der befristeten Kraftstoffsteuersenkung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S159",
+      "title": "Reichsfluchtsteuer und Judenvermögensabgabe",
+      "url": "https://www.berlin.de/sen/finanzen/ueber-uns/architektur-geschichte/artikel.5183.php",
+      "details": "Senatsverwaltung für Finanzen Berlin, Architektur und Geschichte, 2021; fiskalische Ausplünderung jüdischer Auswanderer.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S160",
+      "title": "Legalisierter Raub – Stufen der Ausplünderung",
+      "url": "https://www.dhm.de/archiv/ausstellungen/legalisierter-raub/02.html",
+      "details": "Deutsches Historisches Museum, Ausstellungsarchiv; Abgaben für Umzugsgut und Devisen, Sicherstellung, Deportationen ab 1941.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S161",
+      "title": "Muse und Morpheus",
+      "url": "https://www.spektrum.de/news/muse-und-morpheus/698460",
+      "details": "Spektrum.de, Jan Osterkamp, 22.01.2004; Bericht über die Studie von Wagner, Born u. a., Nature 427 (2004).",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -14059,19 +14099,26 @@
       "legacyId": "C04-P08",
       "kind": "Tatsachenbehauptung",
       "description": "Öl, Gas und Sprit sind zuletzt wieder teurer geworden und belasten Erwerbstätige.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. An Verbraucherpreisdaten prüfbar; keine solche Quelle gelesen. Zeitraum und Vergleichsbasis fehlen.",
-      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Für Öl und Sprit trifft es zu: Nach der befristeten Steuersenkung auf Kraftstoffe bis Ende Juni 2026 stiegen die Energiepreise wieder; im August 2026 lagen Kraftstoffe 27,7 % und leichtes Heizöl 49,6 % über dem Vorjahresmonat, Energie insgesamt 10,5 %. Erdgas war dagegen 2,9 % billiger als ein Jahr zuvor. Dass die Preise Erwerbstätige belasten, ist eine allgemeine Folgerung.",
+      "assessmentBasis": "Destatis-Pressemitteilungen zu Juni und August 2026 gelesen (Aufnahme laut Beschreibung 23.09.2026).",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
         "mapping": "Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Destatis-Energiepreise Juni/August 2026 recherchiert; von Offen auf Teilweise belegt (Erdgas nicht teurer)."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Destatis-Verbraucherpreise für Heizöl, Erdgas und Kraftstoffe im Sommer 2026 gegenüber Vormonaten und Vorjahr lesen."
+      "sourceRefs": [
+        {
+          "sourceId": "S157",
+          "note": "August 2026: Kraftstoffe +27,7 %, Heizöl +49,6 %, Erdgas −2,9 % zum Vorjahresmonat."
+        },
+        {
+          "sourceId": "S158",
+          "note": "Juni 2026: Energie −3,0 % zum Vormonat wegen Steuersenkung."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0237",
@@ -21441,18 +21488,23 @@
       "legacyId": "C08-P10",
       "kind": "Tatsachenbehauptung",
       "description": "Das Gehirn sortiere nachts Ballast aus; mit genug Input komme die Lösung eines Problems oft im Schlaf.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Gedächtnisverarbeitung im Schlaf ist Forschungsgegenstand; die konkrete Darstellung wurde nicht anhand einer Fachquelle geprüft.",
-      "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Für den zweiten Teil gibt es einen bekannten Beleg: In der Lübecker Studie (Wagner, Born u. a., Nature 2004) fanden nach einer Nacht Schlaf rund 60 % der Teilnehmenden eine verborgene Abkürzung in einer Rechenaufgabe, nach gleich langer Wachzeit nur rund 20 %. Schlaf kann also das Finden von Lösungen fördern. Dass das Gehirn nachts „Ballast aussortiert“, ist eine starke Vereinfachung der Gedächtnisforschung und wurde nicht eigens geprüft.",
+      "assessmentBasis": "Wissenschaftsbericht von Spektrum.de zur Studie gelesen; Originalaufsatz nicht gelesen.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
         "mapping": "Unbewusste Entscheidungsvorbereitung, nächtliche Verarbeitung und Steuerungsregel getrennt; ein in der Automatik unklar erkannter Autorenname wird nicht verwendet.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Schlaf und Problemlösen recherchiert; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S161",
+          "note": "Schlaf verdreifacht den Anteil, der die verborgene Lösung findet (60 % gegenüber 20 %)."
+        }
+      ],
       "openQuestions": [
-        "Fachquelle zu Schlaf, Gedächtniskonsolidierung und Problemlösen lesen."
+        "Übersichtsarbeit zu Schlaf und Vergessen bzw. synaptischer Herunterregelung lesen."
       ],
       "occurrences": [
         {
@@ -22097,18 +22149,27 @@
       "legacyId": "C08-P13",
       "kind": "Tatsachenbehauptung",
       "description": "Unter der NS-Verfolgung seien Menschen, die wegen Firmen und Häusern blieben, im KZ gelandet; Flüchtenden sei Gold an der Grenze abgenommen worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Historische Aussage zur Verfolgung im Nationalsozialismus; die Zeitangabe vor hundert Jahren ist ungenau. Keine historische Fachquelle gelesen.",
-      "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Im Kern zutreffend: Jüdische Auswanderer wurden ab 1933 fiskalisch ausgeplündert (Reichsfluchtsteuer von 25 % des Vermögens, hohe Abgaben für Umzugsgut und Devisen, Sicherstellung von Besitz); wer blieb, wurde ab 1938 weiter enteignet und ab Ende 1941 deportiert. Die konkrete Schilderung, Flüchtenden sei Gold an der Grenze abgenommen worden, und der Zusammenhang „wegen Firmen und Häusern geblieben“ werden in den gelesenen Quellen nicht behandelt. Die Zeitangabe „vor hundert Jahren“ ist ungenau.",
+      "assessmentBasis": "Darstellungen der Berliner Finanzverwaltung und des Deutschen Historischen Museums gelesen; keine Fachliteratur zu Kontrollen an der Grenze.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
         "mapping": "Vermögensstruktur, historisches NS-Beispiel und Diversifikationsrat getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Vermögensentzug im NS recherchiert; von Offen auf Teilweise belegt (Gold an der Grenze nicht belegt)."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S159",
+          "note": "Reichsfluchtsteuer 25 %, Beschlagnahme, Judenvermögensabgabe."
+        },
+        {
+          "sourceId": "S160",
+          "note": "Abgaben für Umzugsgut und Devisen, Sicherstellung, Deportationen ab 1941."
+        }
+      ],
       "openQuestions": [
-        "Fachquelle zu Vermögensentzug und Fluchtbedingungen ab 1933 lesen."
+        "Fachquelle zu Abgabepflichten für Edelmetalle und Schmuck bei der Auswanderung (z. B. Mitnahmeverbote, Devisenkontrollen an der Grenze)."
       ],
       "occurrences": [
         {
