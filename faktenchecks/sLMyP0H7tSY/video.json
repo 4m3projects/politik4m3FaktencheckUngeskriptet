@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "videoId": "sLMyP0H7tSY",
+  "role": "reaction",
+  "reactionType": "faktencheck",
+  "channel": "Alfred räumt auf",
+  "title": "Verbietet der digitale Euro, was wir kaufen? Horst Lüning bei Ungeskriptet",
+  "videoUrl": "https://www.youtube.com/watch?v=sLMyP0H7tSY",
+  "workStatus": "In Bearbeitung",
+  "identification": {
+    "basis": "Titel und Kanal über YouTube-oEmbed kontrolliert; die Uploadbeschreibung nennt ausdrücklich das Originalinterview mlxFA9T88I0 (Codex, Issue #5). Fremder Kanal, daher Reaktion und kein Original.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-18"
+  }
+}

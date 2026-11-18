@@ -602,10 +602,11 @@ function videoHeader(v, tab) {
     ${roleLine(v)}
     <ul class="facts">${videoFacts(v)}</ul>
     <div class="btn-row">
-      ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video">▶ Video mit Faktencheck auf dieser Seite</a>` : ''}
+      ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" title="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
       ${(scope?.videoUrl || v.video?.videoUrl) ? extLink(scope?.videoUrl || v.video.videoUrl, `<span class="btn ghost">${v.video?.role === 'reaction' ? 'Video' : 'Originalvideo'} auf YouTube</span>`) : ''}
       <a class="btn ghost" href="${esc(blobUrl('faktenchecks/' + v.id))}" rel="noopener noreferrer" target="_blank">Daten auf GitHub</a>
     </div>
+    ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? '<p class="small btn-note">Der Knopf „hier abspielen“ lädt den YouTube-Player im erweiterten Datenschutzmodus; dabei werden Daten wie deine IP-Adresse an YouTube (Google) übertragen.</p>' : ''}
   </header>
   <nav class="tabs" aria-label="Ansicht">${tabs.map(t => `<a href="${esc(t[1])}"${t[0] === tab ? ' aria-current="page"' : ''}>${t[2]}</a>`).join('')}</nav>`;
 }
@@ -845,7 +846,7 @@ async function route() {
       state.rel = FactRelations.buildIndex(state.relations);
     }
     if (parts[0] === 'video' && parts[1]) {
-      if (parts[2] === 'video') return await pageVideoSync(parts[1]);
+      if (parts[2] === 'video') return await pageVideoSync(parts[1], { autostart: parts[3] === 'start' });
       if (parts[2] === 'bericht') return await pageReport(parts[1], parts.slice(3).join('/'));
       if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
       return await pageVideo(parts[1]);

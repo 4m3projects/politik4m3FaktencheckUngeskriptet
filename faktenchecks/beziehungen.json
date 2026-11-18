@@ -1,7 +1,382 @@
 {
   "schemaVersion": 1,
-  "note": "Zuordnungen von Reaktionsvideos zu Originalinterviews. Aufbau und Prüfregeln: docs/REAKTIONSVIDEOS.md. Noch keine Reaktion erfasst.",
+  "note": "Zuordnungen von Reaktionsvideos zu Originalinterviews. Aufbau und Prüfregeln: docs/REAKTIONSVIDEOS.md.",
   "relations": [
+    {
+      "id": "R0001",
+      "reactionVideoId": "sLMyP0H7tSY",
+      "originalVideoId": "mlxFA9T88I0",
+      "certainty": "Belegt",
+      "basis": "Die Uploadbeschreibung des Alfred-Videos nennt ausdrücklich das Originalinterview mlxFA9T88I0 (geprüft von Codex am 18.11.2026, Issue #5).",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "change": "Zuordnung und Themenbezüge aus Codex-Arbeitsstand (PR #8) übernommen."
+        }
+      ],
+      "claimLinks": [
+        {
+          "id": "L0001",
+          "type": "gibt_wieder",
+          "originalClaimId": "mlxFA9T88I0-A0084",
+          "reactionClaimId": "sLMyP0H7tSY-A0001",
+          "reactionSeconds": 16,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0002",
+          "type": "gibt_wieder",
+          "originalClaimId": "mlxFA9T88I0-A0345",
+          "reactionClaimId": "sLMyP0H7tSY-A0001",
+          "reactionSeconds": 16,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0003",
+          "type": "gibt_wieder",
+          "originalClaimId": "mlxFA9T88I0-A0025",
+          "reactionClaimId": "sLMyP0H7tSY-A0001",
+          "reactionSeconds": 16,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0004",
+          "type": "gibt_wieder",
+          "originalClaimId": "mlxFA9T88I0-A0082",
+          "reactionClaimId": "sLMyP0H7tSY-A0002",
+          "reactionSeconds": 52,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0005",
+          "type": "gibt_wieder",
+          "originalClaimId": "mlxFA9T88I0-A0134",
+          "reactionClaimId": "sLMyP0H7tSY-A0002",
+          "reactionSeconds": 52,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0006",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0143",
+          "reactionClaimId": "sLMyP0H7tSY-A0004",
+          "reactionSeconds": 180,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0007",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0144",
+          "reactionClaimId": "sLMyP0H7tSY-A0004",
+          "reactionSeconds": 180,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0008",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0145",
+          "reactionClaimId": "sLMyP0H7tSY-A0004",
+          "reactionSeconds": 180,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0009",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0141",
+          "reactionClaimId": "sLMyP0H7tSY-A0005",
+          "reactionSeconds": 180,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0010",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0142",
+          "reactionClaimId": "sLMyP0H7tSY-A0005",
+          "reactionSeconds": 180,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0011",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0140",
+          "reactionClaimId": "sLMyP0H7tSY-A0006",
+          "reactionSeconds": 195,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0012",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0146",
+          "reactionClaimId": "sLMyP0H7tSY-A0007",
+          "reactionSeconds": 228,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0013",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0146",
+          "reactionClaimId": "sLMyP0H7tSY-A0008",
+          "reactionSeconds": 228,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0014",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0147",
+          "reactionClaimId": "sLMyP0H7tSY-A0009",
+          "reactionSeconds": 244,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0015",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0148",
+          "reactionClaimId": "sLMyP0H7tSY-A0009",
+          "reactionSeconds": 244,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0016",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0147",
+          "reactionClaimId": "sLMyP0H7tSY-A0010",
+          "reactionSeconds": 259,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0017",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0148",
+          "reactionClaimId": "sLMyP0H7tSY-A0010",
+          "reactionSeconds": 259,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0018",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0221",
+          "reactionClaimId": "sLMyP0H7tSY-A0011",
+          "reactionSeconds": 356,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R02 von Codex: Zinsausgaben: unterschiedliche Haushaltsabgrenzungen getrennt halten. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0019",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0222",
+          "reactionClaimId": "sLMyP0H7tSY-A0011",
+          "reactionSeconds": 356,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R02 von Codex: Zinsausgaben: unterschiedliche Haushaltsabgrenzungen getrennt halten. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0020",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0223",
+          "reactionClaimId": "sLMyP0H7tSY-A0011",
+          "reactionSeconds": 356,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R02 von Codex: Zinsausgaben: unterschiedliche Haushaltsabgrenzungen getrennt halten. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0021",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0224",
+          "reactionClaimId": "sLMyP0H7tSY-A0012",
+          "reactionSeconds": 388,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R02 von Codex: Zinsausgaben: unterschiedliche Haushaltsabgrenzungen getrennt halten. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0022",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0223",
+          "reactionClaimId": "sLMyP0H7tSY-A0013",
+          "reactionSeconds": 403,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R02 von Codex: Zinsausgaben: unterschiedliche Haushaltsabgrenzungen getrennt halten. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0023",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0225",
+          "reactionClaimId": "sLMyP0H7tSY-A0013",
+          "reactionSeconds": 403,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0024",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0226",
+          "reactionClaimId": "sLMyP0H7tSY-A0014",
+          "reactionSeconds": 373,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R03 von Codex: Zinsprognose: neueren Finanzplan vom 14.08.2026 ergänzen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0025",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0226",
+          "reactionClaimId": "sLMyP0H7tSY-A0015",
+          "reactionSeconds": 373,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R03 von Codex: Zinsprognose: neueren Finanzplan vom 14.08.2026 ergänzen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0026",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0227",
+          "reactionClaimId": "sLMyP0H7tSY-A0015",
+          "reactionSeconds": 373,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R03 von Codex: Zinsprognose: neueren Finanzplan vom 14.08.2026 ergänzen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0027",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0250",
+          "reactionClaimId": "sLMyP0H7tSY-A0016",
+          "reactionSeconds": 463,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0028",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0269",
+          "reactionClaimId": "sLMyP0H7tSY-A0017",
+          "reactionSeconds": 530,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0029",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0270",
+          "reactionClaimId": "sLMyP0H7tSY-A0018",
+          "reactionSeconds": 547,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0030",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0269",
+          "reactionClaimId": "sLMyP0H7tSY-A0019",
+          "reactionSeconds": 578,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0031",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0271",
+          "reactionClaimId": "sLMyP0H7tSY-A0019",
+          "reactionSeconds": 578,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0032",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0269",
+          "reactionClaimId": "sLMyP0H7tSY-A0020",
+          "reactionSeconds": 578,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0033",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0275",
+          "reactionClaimId": "sLMyP0H7tSY-A0021",
+          "reactionSeconds": 612,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0034",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0276",
+          "reactionClaimId": "sLMyP0H7tSY-A0022",
+          "reactionSeconds": 645,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R04 von Codex: Lagarde: Umfang des Schuldspruchs (45 Mio. Euro) präzisieren. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0035",
+          "type": "ergaenzt",
+          "originalClaimId": "mlxFA9T88I0-A0276",
+          "reactionClaimId": "sLMyP0H7tSY-A0023",
+          "reactionSeconds": 659,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
+            "note": "Reviewvorschlag R04 von Codex: Lagarde: Umfang des Schuldspruchs (45 Mio. Euro) präzisieren. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+          }
+        },
+        {
+          "id": "L0036",
+          "type": "gibt_wieder",
+          "originalClaimId": "mlxFA9T88I0-A0140",
+          "reactionClaimId": "sLMyP0H7tSY-A0030",
+          "reactionSeconds": 106,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0037",
+          "type": "gibt_wieder",
+          "originalClaimId": "mlxFA9T88I0-A0142",
+          "reactionClaimId": "sLMyP0H7tSY-A0030",
+          "reactionSeconds": 106,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        },
+        {
+          "id": "L0038",
+          "type": "gibt_wieder",
+          "originalClaimId": "mlxFA9T88I0-A0143",
+          "reactionClaimId": "sLMyP0H7tSY-A0030",
+          "reactionSeconds": 106,
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+        }
+      ]
+    },
     {
       "id": "R0010",
       "reactionVideoId": "zUnxDR5ttRU",

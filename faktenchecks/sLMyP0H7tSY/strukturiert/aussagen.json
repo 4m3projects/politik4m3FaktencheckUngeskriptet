@@ -1,0 +1,1619 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "sLMyP0H7tSY",
+    "videoUrl": "https://www.youtube.com/watch?v=sLMyP0H7tSY",
+    "durationSeconds": 999,
+    "asOf": "2026-11-18",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung.",
+    "coverageNote": "Gesamtes verfügbares Untertitelmaterial gelesen (Segmentbeginn 00:00 bis 16:25). Keine direkte Audio-/Videosichtung, keine redaktionelle Zweitprüfung. Ausgewählte Aussagen, keine vollständige Erfassung aller Aussagen des Videos."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Alfred-Upload und YouTube-oEmbed",
+      "url": "https://www.youtube.com/watch?v=sLMyP0H7tSY",
+      "details": "YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ."
+    },
+    {
+      "id": "S002",
+      "title": "HSE: DSEAR",
+      "url": "https://www.hse.gov.uk/fireandexplosion/dsear.htm",
+      "details": "Abschnitte zu Pflichten, Zonen und Zündquellen; heutiger Erläuterungstext.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S003",
+      "title": "Diageo: Malt Brand Homes Terms and Conditions",
+      "url": "https://www.malts.com/en/malt-brand-homes-terms-and-conditions",
+      "details": "Abschnitt Filming and Photography; heutige Hausregeln, kein historischer Vorher-Nachher-Beleg.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S004",
+      "title": "Scotch Whisky Association: Health & Safety",
+      "url": "https://scotch-whisky.org.uk/industry-insights/sustainability/health-safety/",
+      "details": "Abschnitt Fire risks; Branchenverband als Quelle für eigene Sicherheitsbeschreibung, keine unabhängige Unfallvollerhebung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S005",
+      "title": "Hansard: Warehouse Fire, Glasgow, 29.03.1960",
+      "url": "https://api.parliament.uk/historic-hansard/commons/1960/mar/29/warehouse-fire-glasgow",
+      "details": "Ministerantwort: Lagerhaus, Explosion, 14 Feuerwehrleute und fünf Angehörige des Salvage Corps. Die Frage nennt abweichend 18; maßgeblich ist die differenzierte Antwort.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S006",
+      "title": "Hansard: Scotch Whisky (Transportation), 02.11.1994",
+      "url": "https://api.parliament.uk/historic-hansard/written-answers/1994/nov/02/scotch-whisky-transportation",
+      "details": "Regierungsantwort zu Fässern über 250 Litern und vorgeschlagenen Ausnahmen innerhalb Großbritanniens; keine umgesetzte Endfassung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S007",
+      "title": "BMF: Kreditaufnahmebericht des Bundes 2025",
+      "url": "https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Finanzagentur/pdf/kreditaufnahmeberichte/Kreditaufnahmebericht_2025.pdf",
+      "details": "Text relevanter Abschnitte geprüft: Tabelle 7 (Druckseite 27), Tabelle 17 (55), Anhang 4.6 (83). Keine vollständige Prüfung der 96 PDF-Seiten; keine visuelle Tabellenkontrolle als Nachweis verwendet.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S008",
+      "title": "Wissenschaftliche Dienste: WD 4-3000-009/26, 19.02.2026",
+      "url": "https://www.bundestag.de/resource/blob/1157946/WD-4-009-26.pdf",
+      "details": "Text Tabelle 6 und Abgrenzung auf Druckseite 20 sowie Planung auf Seite 22 geprüft; amtliche Zusammenstellung, keine Primärbuchführung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S009",
+      "title": "Bundestag: Finanzplan 2026–2030, 14.08.2026",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1205072",
+      "details": "Absatz zu Zinsplanwerten und deren Einbeziehung von Sondervermögen; hib-Zusammenfassung der Regierungsvorlage, vollständige Vorlage nicht geprüft.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S010",
+      "title": "EZB: FAQs on the digital euro, Seitenkopf 17.08.2026",
+      "url": "https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html",
+      "details": "Relevante Projektbeschreibungen, besonders Fragen 20 und 24. Dynamische Seite; angezeigtes Aktualisierungsdatum ist kein Nachweis unveränderter historischer Fassung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S011",
+      "title": "Europäisches Parlament: Verfahren 2023/0212(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023%2F0212%28COD%29",
+      "details": "Status und Ereignisliste beim Abruf: noch keine erste Parlamentsposition; kein abgeschlossener Rechtsakt.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S012",
+      "title": "EZB: Pandemic Emergency Purchase Programme",
+      "url": "https://www.ecb.europa.eu/mopo/implement/pepp/html/index.en.html",
+      "details": "Öffentliche Beschreibung, Beginn März 2020 und Wertpapierankäufe. Keine vollständige Untersuchung sämtlicher Pandemiehilfen.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S013",
+      "title": "Cour de justice de la République: Urteil 19.12.2016",
+      "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000033943496",
+      "details": "Tatvorwurf, Gründe und Tenor gelesen. Seitenmetadaten nennen Cour de cassation, der Entscheidungstext benennt CJR. Spätere Rechtsmittelhistorie nicht geprüft.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S014",
+      "title": "YouTube: Voraussetzungen des Partnerprogramms",
+      "url": "https://support.google.com/youtube/answer/72851?hl=de",
+      "details": "Langformat-Schwelle und anschließende Kanalprüfung; aktueller dynamischer Hilfetext.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S015",
+      "title": "Whisky.de: Chronik 30 Jahre",
+      "url": "https://www.whisky.de/ueber-uns/firmenportrait/chronik-30-jahre.html",
+      "details": "Abschnitte 1990–1994 und 1995–2001: Gründung, technische Ausbildung, Direktmarketing. Unternehmensselbstauskunft, kein Studien- oder Registeraudit.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S016",
+      "title": "HSE: ATEX and explosive atmospheres",
+      "url": "https://www.hse.gov.uk/fireandexplosion/atex.htm",
+      "details": "Zuordnung Richtlinie 99/92/EC und britische Umsetzung durch DSEAR.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S017",
+      "title": "Kommission: COM(2023)369",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0369",
+      "details": "EUR-Lex lieferte Bot-/JavaScript-Abfrage; HTML/PDF-Varianten und Parlamentskopie ergaben keinen lesbaren Entwurf. Kein Gesetzeszitat verifiziert.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Nicht lesbar (Zugriff blockiert); nur als Verweis genannt, nicht als gelesener Beleg."
+    },
+    {
+      "id": "S018",
+      "title": "EU: Richtlinie 1999/92/EG",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:31999L0092",
+      "details": "Kein lesbarer Volltext in diesem Zugriff; regulatorischer Zusammenhang stattdessen anhand HSE geprüft.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Nicht lesbar (Zugriff blockiert); nur als Verweis genannt, nicht als gelesener Beleg."
+    },
+    {
+      "id": "S019",
+      "title": "EZB: Lebenslauf Christine Lagarde",
+      "url": "https://www.ecb.europa.eu/ecb/decisions/html/cvlagarde.en.html",
+      "details": "Ministeramt 2007–2011 und EZB-Präsidentschaft seit November 2019.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Codex am Abrufdatum gelesen."
+    },
+    {
+      "id": "S020",
+      "title": "Originalinterview",
+      "url": "https://www.youtube.com/watch?v=mlxFA9T88I0",
+      "details": "Relevante Original-Untertitelpassagen erneut gelesen; keine direkte akustische Sprecherkontrolle und keine neue Vollprüfung des dreistündigen Interviews.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Nur zur Fundstellensuche genutzt; keine Inhalte übernommen."
+    }
+  ],
+  "claims": [
+    {
+      "id": "sLMyP0H7tSY-A0001",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Lüning wird als technisch ausgebildeter Whiskyunternehmer mit Unternehmensbeginn 1993 vorgestellt.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: teilweise belegt. S015 stützt Jahr und Ausbildung als Unternehmensselbstauskunft. Die konkrete Berufsakademie und eine gemeinsame rechtliche Gründerrolle sind hier nicht unabhängig belegt; die Chronik bezeichnet Theresia als Gründerin.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0001 (Art: wiedergabe) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0001",
+          "startSeconds": 16,
+          "endSeconds": 86,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0002",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Umsatz und 167 Brennereibesuche werden ausdrücklich als eigene Angaben Lünings berichtet.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: offen. Die entsprechenden Originalstellen und Vergleichs-IDs sind vorhanden. Die Genauigkeit von Besuchszählung und damaligem Umsatz ist damit extern nicht bestätigt. Alfreds Zuschreibung als Selbstauskunft ist von einer Übernahme als geprüfte Kennzahl zu unterscheiden.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0002 (Art: wiedergabe) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0002",
+          "startSeconds": 52,
+          "endSeconds": 69,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0003",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Aus beruflicher Erfahrung wird eine unterschiedliche fachliche Vertrauenswürdigkeit für Whisky und Staatsschulden abgeleitet.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Meinung / Wertung. Kompetenzurteil und satirische Zuspitzung, kein eigenständiger Zahlenbeleg. Fachfremdheit widerlegt keine Aussage; berufliche Erfahrung bestätigt sie nicht.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0003 (Art: wertung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0003",
+          "startSeconds": 69,
+          "endSeconds": 106,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0004",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Europäischer Explosionsschutz um die Jahrtausendwende hat einen realen regulatorischen Hintergrund.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S016 ordnet die EU-Arbeitsschutzrichtlinie und britische Umsetzung zu. Keine Bestätigung der pauschalen Umklassifizierung jeder Brennerei oder konkreter Millionenaufwendungen.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0004 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0004",
+          "startSeconds": 180,
+          "endSeconds": 195,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0005",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Diageo untersagt Foto- und Aufnahmegeräte aus Sicherheitsgründen in bestimmten Bereichen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S003 erlaubt private Kameranutzung grundsätzlich und mögliche Verbote in bezeichneten Bereichen. Betriebliche Besucherregeln sind kein generelles gesetzliches Fotografieverbot.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0005 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0005",
+          "startSeconds": 180,
+          "endSeconds": 211,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0006",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Whiskybranche behandelt Feuer und Explosion wegen leicht entzündlichen Ethanols als reale Gefahren.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S004 benennt dies ausdrücklich; S002 verlangt risikobezogene Vermeidung von Zündquellen. Das belegt keinen bestimmten durch eine Kamera ausgelösten Unfall.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0006 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0006",
+          "startSeconds": 195,
+          "endSeconds": 228,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0007",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Glasgower Lagerhausbrand 1960 mit Explosion forderte 14 Feuerwehrleute und fünf Bergungsdienstangehörige.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S005 bestätigt Ort, Explosion und getrennte Opferzahlen. Alfred grenzt das Lagerhaus selbst von einer Brennerei ab; damit kein wörtlicher Gegenbeleg für jeden engeren Brennerei-Bezug.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0007 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S005",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0007",
+          "startSeconds": 228,
+          "endSeconds": 244,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0008",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Glasgower Lagerhaus wird als voller Whisky beschrieben.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: offen. Die gelesene Ministerantwort S005 nennt ein Zolllager, nicht dessen Inhalt. Das Detail wurde in diesem Durchlauf nicht durch eine weitere Primärquelle bestätigt; daraus folgt keine Widerlegung.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0008 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0008",
+          "startSeconds": 228,
+          "endSeconds": 244,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0009",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "1994 drohten unbeabsichtigte Bauartprüfungen für große Whiskyfässer; der Branchenverband intervenierte.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S006 dokumentiert Eingaben, Fässer über 250 Liter und den vorgeschlagenen Ausnahmepfad innerhalb Großbritanniens. Keine Gleichsetzung mit einem beabsichtigten allgemeinen Transportverbot.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0009 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0009",
+          "startSeconds": 244,
+          "endSeconds": 259,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0010",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Fässer durften nach der Intervention bleiben; niemand habe eine Verbotswirkung gewollt.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: teilweise belegt. Die damalige Regierungsantwort beschreibt eine beabsichtigte Ausnahme, nicht deren späteren Vollzug. Sie bezeichnet die Prüfanforderung als unbeabsichtigt, belegt aber nicht die Absicht sämtlicher Beteiligter. Alfred verallgemeinert hier eine begrenzte Quelle.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0010 (Art: schlussfolgerung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0010",
+          "startSeconds": 259,
+          "endSeconds": 275,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0011",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die historischen Zinsausgaben werden mit knapp vier Milliarden 2021 und rund 39 Milliarden 2023 angegeben.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. Zahlen passen gerundet zur saldierten Reihe S007 Tabelle 7. Abweichende Kernhaushaltsreihe S008 ist eine andere Abgrenzung, kein automatischer Gegenbeweis; siehe R02.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0011 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0011",
+          "startSeconds": 356,
+          "endSeconds": 373,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0012",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die durchschnittliche Restlaufzeit des Bundesportfolios stieg zwischen Ende 2021 und Ende 2024.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S007 Anhang 4.6: ohne Swaps 6,90 auf 7,63 Jahre. Keine Aussage über jede einzelne Neuemission oder die gesamte öffentliche Verschuldung einschließlich Länder und Gemeinden.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0012 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0012",
+          "startSeconds": 388,
+          "endSeconds": 403,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0013",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Agio-/Disagiobuchungen erklären einen wesentlichen Teil des ausgewiesenen Zinssprungs; ohne diese etwa 15 bzw. 22 Milliarden.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. Eigene Rechnung aus S007 Tabelle 7: 3,8−(−11,1)=14,9; 39,2−17,6=21,6. Dies isoliert die genannten Buchungen, liefert keine vollständige periodengerechte historische Zinsreihe und keine alleinige Kausalerklärung.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0013 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0013",
+          "startSeconds": 403,
+          "endSeconds": 450,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0014",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Regierungsplanung sieht etwa 68 Milliarden Zinsen für 2029 und über 80 Milliarden für 2030 vor.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S009 enthält die entsprechenden Planwerte. Ausgabenpläne sind keine realisierten Zahlen.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0014 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0014",
+          "startSeconds": 373,
+          "endSeconds": 388,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0015",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Lünings 80-Milliarden-Prognose liege nahe an der Regierungsplanung.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: teilweise belegt. Die Größenordnung passt zu 2030, aber der Original-Vergleichsstand erfasst als Bezug das Ende der laufenden Koalition. Ein Jahresversatz darf nicht stillschweigend als Übereinstimmung gelten; siehe R03.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0015 (Art: schlussfolgerung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0015",
+          "startSeconds": 373,
+          "endSeconds": 388,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0016",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die wiederholte Erzählung einer heimlichen Bankenrettung wird zurückgewiesen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: teilweise belegt. S012 dokumentiert ein öffentliches Wertpapierkaufprogramm, keine allgemeine Eigenkapitalzuführung. Dass es Finanzierungsbedingungen stützte, ist damit nicht ausgeschlossen. Das im Original unscharf benannte Pandemieprogramm ist nur plausibel PEPP; nicht alle Bankenhilfen untersucht.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0016 (Art: schlussfolgerung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0016",
+          "startSeconds": 463,
+          "endSeconds": 487,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0017",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der digitale Euro soll Bargeld ergänzen; das Gesetzgebungsverfahren ist noch nicht abgeschlossen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S010 beschreibt das Projekt, S011 zeigt ein offenes Verfahren. Keine Aussage über den endgültigen Rechtsakt oder ein festes Einführungsdatum.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0017 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0017",
+          "startSeconds": 530,
+          "endSeconds": 562,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0018",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Haltegrenzen und verknüpfte Bankkonten sollen große Zahlungsbeträge trotz begrenzten digitalen Guthabens ermöglichen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S010 erläutert hypothetische getestete Grenzen bis 3.000 Euro und Kontoverknüpfung. Das ist keine bereits beschlossene allgemeine Abhebe- oder Kaufobergrenze.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0018 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0018",
+          "startSeconds": 547,
+          "endSeconds": 578,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0019",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Programmierbare Verwendungsbeschränkungen passen nicht zum veröffentlichten Euro-Konzept.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S010 grenzt sie ausdrücklich von bedingten Zahlungen ab. Künftige Änderungen und allgemeine Kauf-/Sanktionsgesetze sind damit nicht ausgeschlossen; deren Missbrauch ist hier nicht festgestellt.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0019 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0019",
+          "startSeconds": 578,
+          "endSeconds": 612,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0020",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Kommissionsentwurf schließe programmierbares Geld ausdrücklich aus; Kaufverbote erforderten eine Gesetzesänderung.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: offen. Der genaue Entwurfstext S017 war nicht lesbar. Die Aussage ist mit S010 vereinbar, aber damit nicht wortlautgetreu juristisch verifiziert. Eine Garantie gegen jede anders begründete staatliche Zahlungsbeschränkung wäre weitergehend.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0020 (Art: rechtsbehauptung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0020",
+          "startSeconds": 578,
+          "endSeconds": 612,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0021",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Lagarde ist EZB-Präsidentin und war französische Finanzministerin.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S019 bestätigt beide Funktionen. Politische Auswahl und rechtliche Unabhängigkeit sind getrennte Fragen; aus dem Amt folgt keine konkrete politische Weisung.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0021 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S019",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0021",
+          "startSeconds": 612,
+          "endSeconds": 645,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0022",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Lagarde-Schuldspruch betrifft Fahrlässigkeit und die durch Dritte veruntreuten 45 Millionen; die größere Schiedssumme ist davon zu unterscheiden.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S013 trennt Anklageumfang und Tenor. Alfreds Differenzierung ist im Kern zutreffend; 403 Millionen sind nicht der im Tenor festgestellte Betrag eigener Veruntreuung Lagardes. Siehe R04.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0022 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0022",
+          "startSeconds": 645,
+          "endSeconds": 692,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0023",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Gericht berücksichtigte unter anderem Persönlichkeit und Ruf, befreite von Strafe und ordnete keinen Registereintrag an.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S013 Gründe und Tenor stützen diese Trennung. Keine nachträglich nicht vollstreckte Strafe. Die spätere Rechtsmittelhistorie wird hier nicht als zusätzlich geprüft ausgegeben.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0023 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0023",
+          "startSeconds": 659,
+          "endSeconds": 712,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0024",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Vier ausgewählte Sachkomplexe werden als wiederkehrendes Muster fehlerhafter Erklärungen zusammengefasst.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Meinung / Wertung. Übergreifende Bewertung, keine vollständige Fehlerstatistik des Interviews. Jeder Sachkomplex enthält zutreffende und eingeschränkte Teilbefunde.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0024 (Art: wertung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0024",
+          "startSeconds": 712,
+          "endSeconds": 746,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0025",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die Indexregel fasst widerlegte und nicht überprüfbare Aussagen zusammen; daneben werden andere subjektive Kategorien gebildet.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Meinung / Wertung. Offengelegte eigene Bewertungsregel. Unser Projekt übernimmt weder diese Gleichsetzung noch Personennoten. Ungeprüft, nicht überprüfbar und falsch müssen weiterhin getrennt bleiben.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0025 (Art: methodik) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0025",
+          "startSeconds": 729,
+          "endSeconds": 854,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0026",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die genannten Indexhäufigkeiten, Redezeit, Prozentabstände und Rangfolge seien aus dem ganzen Gespräch ermittelt.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: offen. Im gelesenen Text fehlen vollständige Codierliste, Nenner und Gewichtungsrechnung. Grafiken wurden nicht gesichtet. Die Zählung ist hier nicht reproduziert und nicht widerlegt. Zwei Nennungen in einer Indexkategorie sind nicht zwei Sachthemen.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0026 (Art: zaehlung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0026",
+          "startSeconds": 777,
+          "endSeconds": 874,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0027",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Alfred gibt einen persönlichen Gesprächseindruck und räumt Erklärungsbedarf bei der Messung ein.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: Meinung / Wertung. Subjektives Fazit; keine Personennote unsererseits. Die Ankündigung einer methodischen Weiterentwicklung ist kein Nachweis für falsche bisherige Zahlen.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0027 (Art: wertung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0027",
+          "startSeconds": 874,
+          "endSeconds": 922,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0028",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Für Langformat nennt Alfred 1.000 Abonnenten und 4.000 Wiedergabestunden innerhalb eines Jahres als Monetarisierungshürden.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: teilweise belegt. S014 bestätigt diese Schwelle für die Bewerbung: gültige öffentliche Wiedergabezeit der letzten zwölf Monate, weitere Bedingungen und Kanalprüfung erforderlich. Kein automatischer Zahlungsanspruch; andere Zugangswege existieren.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0028 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S014",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0028",
+          "startSeconds": 922,
+          "endSeconds": 952,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0029",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kanalinterne Fortschritte und Finanzierung werden im Schluss berichtet.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: offen. Historische Abonnentenschwelle, gültige Stunden und Finanzierung sind nicht aus öffentlichen aktuellen Kanalzahlen beweisbar. Kein Zugriff auf private Analytics; Satire nicht als Finanzierungsaudit behandelt.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0029 (Art: selbstauskunft) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0029",
+          "startSeconds": 937,
+          "endSeconds": 969,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "sLMyP0H7tSY-A0030",
+      "videoId": "sLMyP0H7tSY",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Fotoverbotsdialog wird mit Fragen und Reaktionen des Hosts wiedergegeben.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Vorläufiger Befund [Codex]: offen. Die relevanten Originaluntertitel sind in der Reaktion wiedererkennbar. Der Originalcheck A0142 behandelt eine Hostfrage und eine mögliche Zustimmung des Gasts. Ohne akustische Kontrolle keine abschließende Sprecher-/Schnittzuordnung; Ben wird nicht für unkommentierte Gastbehauptungen verantwortlich gemacht.",
+      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "migration": {
+        "changeType": "Aus Codex-Arbeitsstand übernommen",
+        "mapping": "Codex-Eintrag sLMyP0H7tSY-A0030 (Art: wiedergabe) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
+        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+      ],
+      "occurrences": [
+        {
+          "id": "sLMyP0H7tSY-O0030",
+          "startSeconds": 106,
+          "endSeconds": 164,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Textprüfung durch Codex am 18.11.2026 anhand der Untertitel; Sprecher Alfred textlich plausibel, Abgrenzung zu eingespielten Originalausschnitten nicht akustisch kontrolliert.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Im Text als eigene Aussage oder Wiedergabe Alfreds erkennbar; nicht akustisch kontrolliert.",
+          "note": "Ungefährer Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Alfred",
+      "videoRole": "Kanalbetreiber von „Alfred räumt auf“, Sprecher der Reaktion",
+      "identityBasis": "Kanalname und Selbstvorstellung im Video laut Codex-Textprüfung; nicht akustisch kontrolliert."
+    }
+  ]
+}

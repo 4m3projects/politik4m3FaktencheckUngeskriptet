@@ -98,7 +98,7 @@ function vcItem(entry, c, o, v, ctx) {
   </li>`;
 }
 
-async function pageVideoSync(id) {
+async function pageVideoSync(id, opts = {}) {
   const v = await loadVideo(id);
   const d = v.data;
   const ytId = d ? FactSync.youtubeId(d.scope.videoUrl) : null;
@@ -171,7 +171,7 @@ async function pageVideoSync(id) {
   const reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const itemEls = Object.fromEntries([...vc.querySelectorAll('.vc-item')].map(el => [el.dataset.key, el]));
 
-  let player = null, ready = false, pendingSeek = null, controller = null, lastUserScroll = 0, destroyed = false, expanded = false, lastFocus = null;
+  let player = null, ready = false, pendingSeek = null, controller = null, lastUserScroll = 0, destroyed = false, expanded = false, lastFocus = null, autoplay = false;
 
   /* ---------- Layout und Großansicht ---------- */
   const setLayout = layout => {
@@ -354,6 +354,7 @@ async function pageVideoSync(id) {
             if (iframe) { iframe.title = 'YouTube-Videoplayer: ' + v.title; iframe.setAttribute('allow', 'autoplay; encrypted-media; picture-in-picture; fullscreen'); }
             controller.setState('cued');
             if (pendingSeek != null) { const t = pendingSeek; pendingSeek = null; player.seekTo(t, true); player.playVideo(); controller.markSeek(t); }
+            else if (autoplay) player.playVideo();
           },
           onStateChange: e => { if (controller) controller.setState(FactSync.stateName(e.data)); },
           onError: e => showFallback(FactSync.errorText(e.data))
@@ -388,6 +389,16 @@ async function pageVideoSync(id) {
   }
 
   $('vc-load').addEventListener('click', startPlayer);
+
+  /* Knopf „Video mit Faktencheck hier abspielen“ auf der Detailseite: Der Klick dort ist die
+     ausdrückliche Zustimmung (Hinweis steht am Knopf). Gilt nur für diesen Aufruf; die Adresse wird
+     auf die normale Video-Ansicht zurückgesetzt, damit Neuladen nicht erneut automatisch startet. */
+  if (opts.autostart) {
+    history.replaceState(null, '', `#/video/${id}/video`);
+    autoplay = true;
+    vc.scrollIntoView({ block: 'start', behavior: reduceMotion ? 'auto' : 'smooth' });
+    startPlayer();
+  }
   vc.addEventListener('click', e => {
     const b = e.target.closest('.vc-seek');
     if (b) seekTo(entryByKey[b.dataset.key]);
