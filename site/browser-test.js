@@ -307,6 +307,26 @@ async function step(name, fn) {
     assert.equal(await page.evaluate(() => __yt.players[0].destroyed), true);
   });
 
+  await step('Knopf „hier abspielen“ auf der Detailseite: scrollt zum Video und startet es sofort', async () => {
+    const p3 = await ctx.newPage();
+    p3.on('pageerror', e => consoleErrors.push(e.message));
+    await p3.goto(base + `#/video/${VIDEO}`);
+    await p3.waitForSelector('#claims .claim');
+    assert.equal(await p3.evaluate(() => !!window.__yt), false, 'vor dem Klick nichts von YouTube geladen');
+    assert.match(await p3.locator('.btn-note').textContent(), /YouTube/);
+    await p3.click('a.btn:has-text("hier abspielen")');
+    await p3.waitForFunction(() => window.__yt && __yt.players.length === 1 && __yt.players[0].s === 1);
+    assert.equal(await p3.evaluate(() => location.hash), `#/video/${VIDEO}/video`, 'Adresse ohne Autostart, Neuladen startet nicht erneut');
+    assert.equal(await p3.evaluate(() => __yt.options.host), 'https://www.youtube-nocookie.com');
+    await p3.waitForTimeout(800);
+    const top = await p3.evaluate(() => document.getElementById('vc').getBoundingClientRect().top);
+    assert.ok(Math.abs(top) < 80, 'Video-Bereich oben im Blick, Abstand ' + top);
+    await p3.reload();
+    await p3.waitForSelector('#vc-load');
+    assert.equal(await p3.evaluate(() => !!window.__yt), false, 'nach Neuladen kein automatischer Start');
+    await p3.close();
+  });
+
   await step('Playerfehler (Einbettung verboten) zeigt Fallback-Link', async () => {
     await page.goto(base + `#/video/${VIDEO}/video`);
     await page.waitForSelector('#vc-load');
