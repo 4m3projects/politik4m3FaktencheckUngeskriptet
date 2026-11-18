@@ -39,7 +39,8 @@ function Assert-FactcheckPublicValue($Value) {
     if ($Value -is [array]) { foreach ($v in $Value) { Assert-FactcheckPublicValue $v } }
 }
 function ConvertFrom-FactcheckJson([string]$Text) {
-    if ([Text.Encoding]::UTF8.GetByteCount($Text) -gt 2MB) { throw 'Factcheck-JSON ist zu gross.' }
+    # Grenze gilt fuer den Inhalt, nicht fuer die Einrueckung (Windows PowerShell 5.1 serialisiert intern sehr breit).
+    if ([Text.Encoding]::UTF8.GetByteCount(($Text -replace '(?m)^[ \t]+','')) -gt 2MB) { throw 'Factcheck-JSON ist zu gross.' }
     try { $data = $Text | ConvertFrom-Json -ErrorAction Stop } catch { throw 'Factcheck-JSON ist nicht lesbar.' }
     return $data
 }

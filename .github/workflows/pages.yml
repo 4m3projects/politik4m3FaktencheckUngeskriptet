@@ -26,6 +26,11 @@ jobs:
         with:
           fetch-depth: 0
 
+      # Test-Factcheck.ps1 nutzt feste Referenzcommits aus der Historie des Schwesterprojekts, aus dem die Daten
+      # stammen. Nur Git-Objekte laden; Arbeitsbaum, Index und Branches bleiben unveraendert.
+      - name: Referenzstaende aus dem Schwesterprojekt laden
+        run: git fetch --no-tags https://github.com/4m3projects/politik4m3Facktencheck main
+
       - name: Publikationsprüfung
         shell: pwsh
         run: ./scripts/Test-Publication.ps1
