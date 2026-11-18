@@ -882,6 +882,8 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 - Interview identifizieren und Äußerung im Original prüfen.
 
+- Zwischenstand 18.11.2026: Der ZDF-Faktencheck zum Sommerinterview vom 19.07.2026 enthält keine solche Äußerung; die KAS-Umfrage (Mai 2026) nennt „jede und jeder Fünfte“ für alle Erwachsenen, nicht für junge Menschen. Weitere Sommerinterviews (z. B. ARD) prüfen.
+
 ## mlxFA9T88I0-A0318
 
 Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/07_abwanderung.md), Pruefpunkt 7 (C07-P07).

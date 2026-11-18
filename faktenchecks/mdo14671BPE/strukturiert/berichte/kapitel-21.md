@@ -93,7 +93,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Tommy Robinson sei zuletzt zum dritten Mal als Terrorist ohne tatsächlichen Grund festgenommen worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -112,22 +112,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Festnahmen einer öffentlich bekannten Person sind an Presse- und Gerichtsquellen prüfbar; die gemeinte letzte Festnahme wurde noch nicht recherchiert. Bisheriger Prüfstand: Zahl, Anlass und rechtlicher Status der angeblich letzten Festnahme sind unbestimmt. Das gelesene Urteil dokumentiert eine frühere Haft wegen Verstoßes gegen eine gerichtliche Anordnung und klärt nicht jede spätere Festnahme.
+Belegt ist ein Grenzstopp im Juli 2024 am Kanaltunnel nach Schedule 7 des britischen Terrorism Act. Angeklagt war Robinson danach nur, weil er die PIN seines Telefons nicht herausgab, nicht als Terrorist. Im November 2025 sprach ihn das Gericht frei und nannte den Stopp unrechtmäßig, weil er im Kern wegen seiner politischen Überzeugungen erfolgt sei. Insoweit ist „ohne tatsächlichen Grund“ gerichtlich gestützt. Nicht belegt sind „zum dritten Mal“ und eine Festnahme „als Terrorist“; die gelesenen Berichte nennen keine früheren Stopps dieser Art. Frühere Haft wegen Missachtung des Gerichts ist ein anderer Sachverhalt.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Zwei Presseberichte zu Verfahren und Urteil; Urteil selbst nicht gelesen. Aufnahmedatum des Interviews nicht bestätigt, deshalb keine Aussage, welche Festnahme mit „zuletzt“ gemeint ist.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Grenzstopp 2024 und Urteil 2025 recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
 - [HM Solicitor General v Yaxley-Lennon: Summary of reasons](https://www.judiciary.uk/wp-content/uploads/2024/10/Yaxley-Lennon-Summary-of-reasons-contempt-of-court-sanction.pdf) · Mr Justice Johnson; 28.10.2024.
   Quellenzugriff am 2026-11-17. Richterliche Begründung zu zehn eingeräumten Verstößen gegen eine Unterlassungsanordnung und 18 Monaten Haft gelesen. Kein Nachweis sämtlicher späteren Festnahmen oder Haftbedingungen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
+- [UK court clears far-right figure Tommy Robinson of terror-related offence](https://www.euronews.com/2025/11/04/uk-court-clears-far-right-figure-tommy-robinson-of-terror-related-offence) · Euronews, 04.11.2025; Bericht über das Urteil des Westminster Magistrates' Court zum Grenzstopp vom Juli 2024.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Urteil selbst nicht eingesehen. Keine Quellenkopie veröffentlicht. Freispruch und Einordnung des Stopps durch das Gericht.
+
+- [Why is Tommy Robinson being charged under the Terrorism Act?](https://www.newstatesman.com/politics/uk-politics/2025/10/tommy-robinson-terrorism-act) · New Statesman, 13.10.2025; Prozessbericht zum Vorwurf nach Schedule 7 Terrorism Act 2000.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Rechtsgrundlage und Gegenstand der Anklage (PIN-Verweigerung).
+
 ### Offene Fragen und Unsicherheiten
 
-- Gemeinte aktuelle Festnahme mit Datum und Ermittlungsgrund identifizieren; frühere Contempt-Haft nicht als Terrorismusurteil bezeichnen.
+- Gab es zwei weitere Festnahmen nach Terrorismusrecht? In den gelesenen Berichten nicht erwähnt.
 
 ## mdo14671BPE-A0211
 

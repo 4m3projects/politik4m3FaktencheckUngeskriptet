@@ -1030,6 +1030,22 @@
       "details": "Perlentaucher · Rezensionsnotizen zum Buch (erschienen 26.11.2024).",
       "accessedOn": "2026-11-18",
       "accessBasis": "Von Claude am 18.11.2026 gelesen; das Buch selbst nicht gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S128",
+      "title": "UK court clears far-right figure Tommy Robinson of terror-related offence",
+      "url": "https://www.euronews.com/2025/11/04/uk-court-clears-far-right-figure-tommy-robinson-of-terror-related-offence",
+      "details": "Euronews, 04.11.2025; Bericht über das Urteil des Westminster Magistrates' Court zum Grenzstopp vom Juli 2024.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Urteil selbst nicht eingesehen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S129",
+      "title": "Why is Tommy Robinson being charged under the Terrorism Act?",
+      "url": "https://www.newstatesman.com/politics/uk-politics/2025/10/tommy-robinson-terrorism-act",
+      "details": "New Statesman, 13.10.2025; Prozessbericht zum Vorwurf nach Schedule 7 Terrorism Act 2000.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -10862,23 +10878,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Tommy Robinson sei zuletzt zum dritten Mal als Terrorist ohne tatsächlichen Grund festgenommen worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Festnahmen einer öffentlich bekannten Person sind an Presse- und Gerichtsquellen prüfbar; die gemeinte letzte Festnahme wurde noch nicht recherchiert. Bisheriger Prüfstand: Zahl, Anlass und rechtlicher Status der angeblich letzten Festnahme sind unbestimmt. Das gelesene Urteil dokumentiert eine frühere Haft wegen Verstoßes gegen eine gerichtliche Anordnung und klärt nicht jede spätere Festnahme.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Belegt ist ein Grenzstopp im Juli 2024 am Kanaltunnel nach Schedule 7 des britischen Terrorism Act. Angeklagt war Robinson danach nur, weil er die PIN seines Telefons nicht herausgab, nicht als Terrorist. Im November 2025 sprach ihn das Gericht frei und nannte den Stopp unrechtmäßig, weil er im Kern wegen seiner politischen Überzeugungen erfolgt sei. Insoweit ist „ohne tatsächlichen Grund“ gerichtlich gestützt. Nicht belegt sind „zum dritten Mal“ und eine Festnahme „als Terrorist“; die gelesenen Berichte nennen keine früheren Stopps dieser Art. Frühere Haft wegen Missachtung des Gerichts ist ein anderer Sachverhalt.",
+      "assessmentBasis": "Zwei Presseberichte zu Verfahren und Urteil; Urteil selbst nicht gelesen. Aufnahmedatum des Interviews nicht bestätigt, deshalb keine Aussage, welche Festnahme mit „zuletzt“ gemeint ist.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Grenzstopp 2024 und Urteil 2025 recherchiert; von Offen auf Teilweise belegt."
       },
       "sourceRefs": [
         {
           "sourceId": "S034",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S128",
+          "note": "Freispruch und Einordnung des Stopps durch das Gericht."
+        },
+        {
+          "sourceId": "S129",
+          "note": "Rechtsgrundlage und Gegenstand der Anklage (PIN-Verweigerung)."
         }
       ],
       "openQuestions": [
-        "Gemeinte aktuelle Festnahme mit Datum und Ermittlungsgrund identifizieren; frühere Contempt-Haft nicht als Terrorismusurteil bezeichnen."
+        "Gab es zwei weitere Festnahmen nach Terrorismusrecht? In den gelesenen Berichten nicht erwähnt."
       ],
       "occurrences": [
         {
