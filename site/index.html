@@ -7,7 +7,7 @@
 <meta name="description" content="Offen entwickelte, quellengestützte Faktenchecks zu politischen und wirtschaftlichen Aussagen in YouTube-Videos, gegenseitig geprüft von mehreren KI-Systemen.">
 <meta name="color-scheme" content="light dark">
 <meta name="referrer" content="strict-origin-when-cross-origin">
-<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.youtube.com; frame-src https://www.youtube-nocookie.com; img-src 'self' data:; style-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.youtube.com; frame-src https://www.youtube-nocookie.com; img-src 'self' data: https://i.ytimg.com; style-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
 <link rel="icon" href="data:,">
 <link rel="stylesheet" href="style.css">
 <script src="sync.js" defer></script>
@@ -39,7 +39,8 @@
 <footer class="footer">
   <div class="wrap footer-inner">
     <p><strong>Politik4M3 Faktencheck Ungeskriptet</strong> ist ein unabhängiges, quellenorientiertes Projekt zu Interviews von ungeskriptet; keine offizielle Zusammenarbeit mit dem Kanal, Alfred oder Sinan. Die übertragenen Analysen sind Arbeitsstände und keine vollständig unabhängig verifizierten Endfassungen. Alle Texte sind eigene Beschreibungen und Einordnungen, keine Zitate. Quellen werden nur verlinkt. Originalvideos werden verlinkt und nur auf ausdrücklichen Klick in der Video-Ansicht über YouTube eingebettet.</p>
-    <p>Rechte an verlinkten Videos und Drittquellen bleiben unberührt; die Projektlizenz wird gesondert geprüft. Diese Seite lädt keine externen Schriften oder Tracker; externe Skripte nur den YouTube-Player nach deinem Klick auf „Video laden“.</p>
+    <p>Rechte an verlinkten Videos und Drittquellen bleiben unberührt; die Projektlizenz wird gesondert geprüft. Diese Seite lädt keine externen Schriften oder Tracker; externe Skripte nur den YouTube-Player nach deinem Klick auf „Video laden“ bzw. „hier abspielen“, Vorschaubilder von YouTube nur nach deiner Zustimmung.</p>
+    <p class="settings">Einstellungen: <button type="button" class="linkbtn" id="thumb-setting" aria-pressed="false">YouTube-Vorschaubilder: aus (einschalten)</button></p>
     <p class="build" id="build-info"></p>
   </div>
 </footer>

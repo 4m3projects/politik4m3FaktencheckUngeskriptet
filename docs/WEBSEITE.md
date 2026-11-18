@@ -105,8 +105,12 @@ Die Video-Ansicht kommt mit dem bestehenden Schema 2 aus. Optional hilfreich wä
 
 ## Originalinterviews und Reaktionen
 
-Erstellt von: Claude, Issue #4. Die Startseite zeigt nur Videos mit `role: original` aus `faktenchecks/<ID>/video.json`; Reaktionen erscheinen auf der Seite ihrer Originale, Videos ohne Einordnung unter „Noch nicht eingeordnet“. Der Workflow übernimmt `video.json` in `daten/index.json` (Feld `video`) und veröffentlicht `faktenchecks/beziehungen.json` als `daten/beziehungen.json`. Datenmodell, Konfliktregeln und Korrekturablauf: [REAKTIONSVIDEOS.md](REAKTIONSVIDEOS.md).
+Erstellt von: Claude, Issue #4. Die Startseite zeigt nur Videos mit `role: original` aus `faktenchecks/<ID>/video.json`; Reaktionen erscheinen auf der Seite ihrer Originale im eigenen Reiter „Reaktionen (n)“ (Route `#/video/<ID>/reaktionen`, Liste untereinander mit Gegenüberstellung verknüpfter Aussagen; bei einer Reaktion heißt der Reiter „Bezug zum Original“), Videos ohne Einordnung unter „Noch nicht eingeordnet“. Der Workflow übernimmt `video.json` in `daten/index.json` (Feld `video`) und veröffentlicht `faktenchecks/beziehungen.json` als `daten/beziehungen.json`. Datenmodell, Konfliktregeln und Korrekturablauf: [REAKTIONSVIDEOS.md](REAKTIONSVIDEOS.md).
 
 ## Knopf „Video mit Faktencheck hier abspielen“
 
 Auf der Detailseite eines Videos mit Video-Ansicht führt der Hauptknopf zu `#/video/<ID>/video/start`: Die Video-Ansicht scrollt in den Blick, lädt den YouTube-Player (youtube-nocookie.com) und startet die Wiedergabe sofort. Der Klick gilt als ausdrückliche Zustimmung; der Hinweis auf die Datenübertragung an YouTube steht direkt unter der Knopfreihe. Die Zustimmung gilt nur für diesen Aufruf: Die Adresse wird auf `#/video/<ID>/video` zurückgesetzt, Neuladen startet nichts automatisch. Direkt aufgerufen zeigt die Video-Ansicht weiterhin zuerst den Einwilligungsdialog.
+
+## YouTube-Vorschaubilder nur nach Zustimmung
+
+Erstellt von: Claude. Vorschaubilder (`https://i.ytimg.com/vi/<ID>/mqdefault.jpg`) auf der Startseite und im Reiter „Reaktionen“ werden erst geladen, wenn die Nutzerin oder der Nutzer zustimmt: über die Frage über den Karten bzw. der Reaktionsliste oder über „Einstellungen: YouTube-Vorschaubilder“ in der Fußzeile (jederzeit umschaltbar). Die Wahl (`ja`/`nein`) liegt nur im Browser unter `localStorage`-Schlüssel `p4m3.ytVorschaubilder`. Ohne Zustimmung gibt es keine Anfrage an `i.ytimg.com`; Bilder werden mit `referrerpolicy="no-referrer"` und `loading="lazy"` geladen. Die CSP erlaubt dafür `img-src https://i.ytimg.com`. Geprüft in `site/relations-browser-test.js`.
