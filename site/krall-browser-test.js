@@ -57,6 +57,7 @@ async function main() {
     page.on('pageerror', e => errors.push(e.message));
     page.on('response', r => { if (r.status() >= 400) errors.push(`${r.status()} ${r.url()}`); });
     async function open(hash) {
+      await page.goto('about:blank');
       await page.goto(base + hash);
       await page.waitForFunction(() => !/Daten werden geladen/.test(document.getElementById('inhalt').innerText));
     }
@@ -66,7 +67,7 @@ async function main() {
     assert.ok(!cards.some(h => h.includes(A) || h.includes(P)));
     console.log('ok Startseite: Krall-Original, beide Reaktionen ausschließlich zugeordnet');
     for (const id of [O, A, P]) {
-      await open('#/video/' + id);
+      await open('#/video/' + id + '/reaktionen');
       const link = page.locator('a.case-comparison');
       assert.equal(await link.count(), 1, id);
       assert.equal(await link.getAttribute('href'), `#/video/${O}/bericht/vergleich.md`);
@@ -97,7 +98,7 @@ async function main() {
     console.log('ok Nicht nachgewiesene Vollprüfungs-/Indexmethodik bleibt sichtbar offen');
     for (const width of [390, 760]) {
       await page.setViewportSize({ width, height: 850 });
-      for (const hash of [`#/video/${O}`, `#/video/${A}`, `#/video/${O}/bericht/vergleich.md`]) {
+      for (const hash of [`#/video/${O}`, `#/video/${O}/reaktionen`, `#/video/${A}/reaktionen`, `#/video/${O}/bericht/vergleich.md`]) {
         await open(hash);
         const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
         if (overflow > 0) {
