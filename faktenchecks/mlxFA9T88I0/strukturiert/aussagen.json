@@ -2158,6 +2158,30 @@
       "details": "Sonntagsblatt / epd, 06.03.2024; berichtet über eine Auswertung des Bundesverbands mittelständische Wirtschaft (BVMW), zuerst gemeldet von der Zeit.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Von Claude am 18.11.2026 gelesen. Die BVMW-Auswertung selbst wurde nicht eingesehen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S145",
+      "title": "Kleine Unternehmen in Deutschland geraten zunehmend unter Druck",
+      "url": "https://www.cash.ch/news/kleine-unternehmen-in-deutschland-geraten-zunehmend-unter-druck-906679",
+      "details": "AWP/cash.ch, 08.02.2026; berichtet über eine Datev-Studie mit Material des Statistischen Bundesamts, Bezugsjahre 2018–2023.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Die Datev-Studie selbst nicht eingesehen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S146",
+      "title": "Vor 70 Jahren: Lastenausgleich zugunsten von Millionen Kriegsopfern",
+      "url": "https://www.sonntagsblatt.de/artikel/gesellschaft/vor-70-jahren-lastenausgleich-zugunsten-von-millionen-kriegsopfern",
+      "details": "Sonntagsblatt / epd (Dirk Baas), 23.08.2022; Lastenausgleichsgesetz von 1952.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Gesetzestext nicht gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S147",
+      "title": "Informationen zur Branche „Baugewerbe“",
+      "url": "https://www.faire-mobilitaet.de/dgb-fm-fileadmin/dateien/Dokumente/Baugewerbe/Fachinformationen/Branchendossier_Baugewerbe_11_25.pdf",
+      "details": "Faire Mobilität (DGB), Branchendossier November 2025; Daten der Bundesagentur für Arbeit (Stand Juni 2024) und SOKA-BAU (2024).",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. BA-Tabellen selbst nicht eingesehen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -14217,19 +14241,22 @@
       "legacyId": "C04-P09",
       "kind": "Tatsachenbehauptung",
       "description": "Kleine und mittlere Unternehmen bilden den Kern der deutschen Wertschöpfung.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. An Unternehmensstatistik prüfbar (Anteil an Wertschöpfung und Beschäftigung); keine solche Quelle gelesen. Der Begriff Kern ist zudem wertend.",
-      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "KMU sind der größte Arbeitgeber, tragen aber weniger als die Hälfte der Wertschöpfung: Nach einer Datev-Studie mit Daten des Statistischen Bundesamts stellten sie 2023 gut 99 Prozent der Unternehmen, rund 53 Prozent der Beschäftigung, aber nur rund 41 Prozent der Bruttowertschöpfung und 26 Prozent des Umsatzes, jeweils mit sinkender Tendenz seit 2018. „Kern“ ist eine Wertung; für die Beschäftigung trifft sie zu, als größter Teil der Wertschöpfung nicht.",
+      "assessmentBasis": "Pressebericht über eine Datev-Studie; KMU-Abgrenzung laut Bericht in der Regel bis 500 Beschäftigte.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
         "mapping": "Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): KMU-Anteile recherchiert; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "KMU-Anteile an Bruttowertschöpfung und Beschäftigung (Destatis, IfM Bonn) lesen."
+      "sourceRefs": [
+        {
+          "sourceId": "S145",
+          "note": "KMU-Anteile an Unternehmen, Beschäftigung, Wertschöpfung und Umsatz 2023."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0243",
@@ -15470,19 +15497,22 @@
       "legacyId": "C05-P05",
       "kind": "Tatsachenbehauptung",
       "description": "Bauarbeitskräfte kommen überwiegend aus Tschechien, der Slowakei und Albanien.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. An Beschäftigungsstatistiken nach Staatsangehörigkeit prüfbar; keine solche Quelle gelesen.",
-      "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Als allgemeine Aussage über Deutschland trifft das nicht zu. Laut Bundesagentur für Arbeit (Juni 2024) hatten rund 21,5 Prozent der Beschäftigten in Bau- und Ausbauberufen keine deutsche Staatsangehörigkeit, mit Entsandten knapp ein Viertel. Die größten Herkunftsländer sind danach Rumänien, Polen und die Balkanstaaten; Tschechien und die Slowakei werden nicht als Hauptherkunft genannt. Eine örtliche Beobachtung des Sprechers auf bestimmten Baustellen kann davon abweichen, ist aber nicht prüfbar.",
+      "assessmentBasis": "Branchendossier mit BA- und SOKA-BAU-Daten; keine Länderzahlen je Staatsangehörigkeit gelesen.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
         "mapping": "Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Beschäftigtenstruktur recherchiert; von Offen auf Irreführend / Kontext fehlt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "BA-Beschäftigungsstatistik Bauhauptgewerbe nach Staatsangehörigkeit lesen."
+      "sourceRefs": [
+        {
+          "sourceId": "S147",
+          "note": "Ausländeranteil im Baugewerbe und größte Herkunftsländer."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0273",
@@ -21813,19 +21843,22 @@
       "legacyId": "C08-P12",
       "kind": "Tatsachenbehauptung",
       "description": "Der Staat habe in der Vergangenheit auf Immobilieneigentum zugegriffen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – zu unbestimmt. Gemeinte Fälle sind nicht genannt (etwa historische Sonderabgaben). Keine Quelle gelesen.",
-      "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Zutreffend jedenfalls für die Bundesrepublik: Mit dem Lastenausgleichsgesetz von 1952 mussten Eigentümer größerer erhaltener Vermögen, ausdrücklich auch von Häusern, die Hälfte des Werts als Vermögensabgabe in Raten über 30 Jahre abführen. Welche Fälle der Sprecher genau meint, sagt er nicht; die allgemeine Aussage ist damit gedeckt.",
+      "assessmentBasis": "Pressebericht zum 70. Jahrestag des Lastenausgleichs; Gesetzestext nicht gelesen.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
         "mapping": "Geld und Anleihen, Krisenfestigkeit, Einfrieren, Wegzugsbesteuerung, frühere Eingriffe und Eigentumsrat getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Lastenausgleich 1952 als Beispiel recherchiert; von Offen auf Belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche historischen Abgaben sind gemeint? Fachquelle lesen."
+      "sourceRefs": [
+        {
+          "sourceId": "S146",
+          "note": "Vermögensabgabe von 50 Prozent auf Immobilien und andere Vermögen, 1952–1979."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0411",

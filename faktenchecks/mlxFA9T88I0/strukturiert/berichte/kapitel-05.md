@@ -838,7 +838,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Bauarbeitskräfte kommen überwiegend aus Tschechien, der Slowakei und Albanien.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -861,21 +861,22 @@ Frueherer Suchbereich: [01:30:50–01:33:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. An Beschäftigungsstatistiken nach Staatsangehörigkeit prüfbar; keine solche Quelle gelesen.
+Als allgemeine Aussage über Deutschland trifft das nicht zu. Laut Bundesagentur für Arbeit (Juni 2024) hatten rund 21,5 Prozent der Beschäftigten in Bau- und Ausbauberufen keine deutsche Staatsangehörigkeit, mit Entsandten knapp ein Viertel. Die größten Herkunftsländer sind danach Rumänien, Polen und die Balkanstaaten; Tschechien und die Slowakei werden nicht als Hauptherkunft genannt. Eine örtliche Beobachtung des Sprechers auf bestimmten Baustellen kann davon abweichen, ist aber nicht prüfbar.
 
-Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Branchendossier mit BA- und SOKA-BAU-Daten; keine Länderzahlen je Staatsangehörigkeit gelesen.
 
 Uebernahme: Kölner Baustelle (Vorkommen von A0016), einzelne Brücken, Fertigstellungstermine, Zahlungsthese, Herkunft der Bauarbeiter und Regensburger Beispiel getrennt. Der ausdrücklich als Witz erzählte China-Satz ist keine Tatsachenbehauptung.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Beschäftigtenstruktur recherchiert; von Offen auf Irreführend / Kontext fehlt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Informationen zur Branche „Baugewerbe“](https://www.faire-mobilitaet.de/dgb-fm-fileadmin/dateien/Dokumente/Baugewerbe/Fachinformationen/Branchendossier_Baugewerbe_11_25.pdf) · Faire Mobilität (DGB), Branchendossier November 2025; Daten der Bundesagentur für Arbeit (Stand Juni 2024) und SOKA-BAU (2024).
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. BA-Tabellen selbst nicht eingesehen. Keine Quellenkopie veröffentlicht. Ausländeranteil im Baugewerbe und größte Herkunftsländer.
 
 ### Offene Fragen und Unsicherheiten
 
-- BA-Beschäftigungsstatistik Bauhauptgewerbe nach Staatsangehörigkeit lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0238
 
