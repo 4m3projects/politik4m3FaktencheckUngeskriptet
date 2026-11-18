@@ -26,7 +26,7 @@ Die deutschen automatischen Textfassungen beider Reaktionsvideos wurden über da
 
 ## Veröffentlichbarer Teilstand
 
-109 eigene Prüfdatensätze: 30 Originalreferenzen, 43 Alfred-Prüfgegenstände und 36 Politik4M3-Prüfgegenstände. Darunter 75 abgeschlossene Sachkern-/Meinungseinordnungen und 34 laufende Prüfungen. Diese Mengen sind keine Fehlerzahlen und erlauben keine Gesamtvideoquote. 51 Aussagebeziehungen in R1301/R1302; bestehende R0001 und R0010 einschließlich aller 60 Beziehungen aus den anderen Aufträgen erhalten.
+109 eigene Prüfdatensätze: 30 Originalreferenzen, 43 Alfred-Prüfgegenstände und 36 Politik4M3-Prüfgegenstände. Erster veröffentlichter Stand: 75 abgeschlossene Sachkern-/Meinungseinordnungen und 34 laufende Prüfungen. [Quellenfortsetzung](KRALL_QUELLEN_FORTSETZUNG.md): drei offene Alfred-Angaben zusätzlich bestätigt, damit 78 abgeschlossen und 31 laufend. Diese Mengen sind keine Fehlerzahlen und erlauben keine Gesamtvideoquote. 51 Aussagebeziehungen in R1301/R1302; bestehende R0001 und R0010 einschließlich aller 60 Beziehungen aus den anderen Aufträgen erhalten.
 
 Die gemeinsame [Vergleichsansicht](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/#/video/OQnvClWgN-g/bericht/vergleich.md) stellt Original, Alfred und Politik4M3 gegenüber. Jede eigene Analyse bleibt separat. Nur das Original erscheint auf der Startseite; beide Reaktionen und der gemeinsame Vergleich sind über den Reaktionen-Reiter erreichbar. Eine fehlende Zuordnung bedeutet keine Zustimmung oder Widerlegung.
 

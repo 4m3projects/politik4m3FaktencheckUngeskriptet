@@ -69,7 +69,7 @@
       "url": "https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20EnVentus%20V162-6.2.pdf.coredownload.inline.pdf",
       "details": "Mali/Garrett, Vestas, 31.01.2023; S. 3–4 und 67. Herstellerstudie mit externer Methodenprüfung; keine unabhängige Kontrolle sämtlicher Inventardaten.",
       "accessedOn": "2026-11-18",
-      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Fortsetzung 18.11.2026: Zusätzlich Tabelle 6/S. 42–43 zur Materialmenge gelesen und auf 16 Anlagen umgerechnet."
     },
     {
       "id": "S009",
@@ -126,6 +126,14 @@
       "details": "Finanzmarktwelt, 18.05.2020; Begleitbericht zu einem damaligen Interview, kein Primärbeleg für vollständigen Interviewwortlaut.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Datierter Begleittext gelesen. Er beschreibt erwartete Nichtverbuchung ausfallender Kredite; Originalinterview noch nicht unabhängig kontrolliert. Nicht gleichbedeutend mit Freigabe bestehender Kapitalpuffer."
+    },
+    {
+      "id": "S032",
+      "title": "Status des Windenergieausbaus an Land in Deutschland im Jahr 2025",
+      "url": "https://www.fachagentur-wind-solar.de/fileadmin/Veroeffentlichungen/Wind/Analysen/FA_Wind_Solar_Status_des_Windenergieausbaus_an_Land_Jahr_2025.pdf",
+      "details": "Jürgen Quentin, Fachagentur Wind und Solar, 15.01.2026; S. 10–11, Tabelle 4; Marktstammdatenregister/Anlagenregister, Stand der Auswertung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevanten Berichtstext und Tabelle 4 selbst gelesen. Registerauswertung einer Fachagentur im Auftrag von Branchenverbänden, keine eigene Vollerhebung oder unabhängige Einzelanlagenprüfung."
     }
   ],
   "speakers": [
@@ -640,24 +648,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die besprochene große Vestas-Anlage benötige fast 2.500 Tonnen Beton.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Materialliste des konkreten Modells noch nicht unabhängig nachgerechnet. Turbine, Fundament und gesamter Park dürfen nicht verwechselt werden.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Tabelle 6 weist für 16 Anlagen 39.257 Tonnen Fundamentbeton aus: 2.453,6 Tonnen je Anlage. Fast 2.500 ist damit für das untersuchte Modell nachvollziehbar; kein universeller Wert jeder Windanlage.",
+      "assessmentBasis": "[Codex] Fortgesetzte eigene Quellenprüfung am 18.11.2026 nach Veröffentlichung des ersten Text-Teilstands; konkrete Modell-/Registertabelle unabhängig vom Video gelesen und Mengen abgegrenzt. Keine audiovisuelle Stimm-/Schnittkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "18.11.2026 [Codex]: In Bearbeitung / ohne Endurteil → Belegt. Frühere Begründung: Materialliste des konkreten Modells noch nicht unabhängig nachgerechnet. Turbine, Fundament und gesamter Park dürfen nicht verwechselt werden. Neue Evidenz und Abgrenzung: Tabelle 6 weist für 16 Anlagen 39.257 Tonnen Fundamentbeton aus: 2.453,6 Tonnen je Anlage. Fast 2.500 ist damit für das untersuchte Modell nachvollziehbar; kein universeller Wert jeder Windanlage. Original-Windenergiebewertung und beide verknüpften Faktenchecks erneut auf Auswirkungen geprüft; kein geändertes Urteil erzwungen."
       },
       "sourceRefs": [
         {
           "sourceId": "S008",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Gelesene konkrete Tabellenstelle; Modell-/Erhebungsumfang wie in der Begründung. Keine allgemeine Zusage für alle Anlagen."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0012",
@@ -914,24 +920,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die 2025 stillgelegten deutschen Windanlagen seien im Mittel 23 Jahre und mindestens fast sieben Jahre betrieben worden.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Die verlinkte Stilllegungsanalyse ist noch nicht vollständig kontrolliert. Ausgeschiedene Anlagen sind zudem keine repräsentative Stichprobe aller künftigen Lebensdauern.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Fachagentur nennt 23 Betriebsjahre im Text, 23,2 in Tabelle 4 für 456 Anlagen und als kürzeste Betriebsphase knapp sieben Jahre. Das stützt Alfreds Angabe für die stillgelegte Kohorte 2025, nicht eine garantierte Mindestlebensdauer aller Windanlagen.",
+      "assessmentBasis": "[Codex] Fortgesetzte eigene Quellenprüfung am 18.11.2026 nach Veröffentlichung des ersten Text-Teilstands; konkrete Modell-/Registertabelle unabhängig vom Video gelesen und Mengen abgegrenzt. Keine audiovisuelle Stimm-/Schnittkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "18.11.2026 [Codex]: In Bearbeitung / ohne Endurteil → Belegt. Frühere Begründung: Die verlinkte Stilllegungsanalyse ist noch nicht vollständig kontrolliert. Ausgeschiedene Anlagen sind zudem keine repräsentative Stichprobe aller künftigen Lebensdauern. Neue Evidenz und Abgrenzung: Die Fachagentur nennt 23 Betriebsjahre im Text, 23,2 in Tabelle 4 für 456 Anlagen und als kürzeste Betriebsphase knapp sieben Jahre. Das stützt Alfreds Angabe für die stillgelegte Kohorte 2025, nicht eine garantierte Mindestlebensdauer aller Windanlagen. Original-Windenergiebewertung und beide verknüpften Faktenchecks erneut auf Auswirkungen geprüft; kein geändertes Urteil erzwungen."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S032",
+          "note": "Gelesene konkrete Tabellenstelle; Modell-/Erhebungsumfang wie in der Begründung. Keine allgemeine Zusage für alle Anlagen."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0018",
@@ -1782,24 +1786,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die besprochene Vestas-Anlage benötige gut 800 Tonnen Stahl und Eisen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Materialtabelle und Systemgrenzen noch nicht unabhängig nachgerechnet; nicht mit Parkgesamtmassen verwechseln.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Turbinen und Fundamente enthalten laut Tabelle 6 zusammen 13.108 Tonnen Stahl/Eisen für 16 Anlagen, also 819,25 Tonnen je Anlage. Weitere Parkkomponenten sind darin nicht enthalten. Die Größenordnung gut 800 stimmt für diese Abgrenzung.",
+      "assessmentBasis": "[Codex] Fortgesetzte eigene Quellenprüfung am 18.11.2026 nach Veröffentlichung des ersten Text-Teilstands; konkrete Modell-/Registertabelle unabhängig vom Video gelesen und Mengen abgegrenzt. Keine audiovisuelle Stimm-/Schnittkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "18.11.2026 [Codex]: In Bearbeitung / ohne Endurteil → Belegt. Frühere Begründung: Materialtabelle und Systemgrenzen noch nicht unabhängig nachgerechnet; nicht mit Parkgesamtmassen verwechseln. Neue Evidenz und Abgrenzung: Turbinen und Fundamente enthalten laut Tabelle 6 zusammen 13.108 Tonnen Stahl/Eisen für 16 Anlagen, also 819,25 Tonnen je Anlage. Weitere Parkkomponenten sind darin nicht enthalten. Die Größenordnung gut 800 stimmt für diese Abgrenzung. Original-Windenergiebewertung und beide verknüpften Faktenchecks erneut auf Auswirkungen geprüft; kein geändertes Urteil erzwungen."
       },
       "sourceRefs": [
         {
           "sourceId": "S008",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Gelesene konkrete Tabellenstelle; Modell-/Erhebungsumfang wie in der Begründung. Keine allgemeine Zusage für alle Anlagen."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0037",
