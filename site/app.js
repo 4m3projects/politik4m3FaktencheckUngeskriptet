@@ -1,0 +1,686 @@
+/*
+ * Politik4M3 Faktencheck – statische Webseite.
+ * Eigener Code ohne Fremdbibliotheken. Liest ausschließlich die vom Workflow
+ * bereitgestellten Projektdateien unter daten/ (Schema-2-JSON und eigene Markdown-Berichte).
+ * Keine externen Anfragen und keine Speicherung von Nutzerdaten. Einzige Ausnahme: In der
+ * Video-Ansicht wird der YouTube-Player erst nach ausdrücklichem Klick auf „Video laden“
+ * nachgeladen (youtube-nocookie.com). Lokal gemerkt werden nur Anzeigevorlieben (Layout, Mitscrollen).
+ */
+'use strict';
+
+const DATA = 'daten/';
+const VERDICTS = [
+  { name: 'Belegt', key: 'belegt', text: 'Die geprüfte Tatsachenbehauptung wird durch geeignete, gelesene Quellen gestützt.' },
+  { name: 'Teilweise belegt', key: 'teilweise', text: 'Ein wesentlicher Teil stimmt, ein anderer Teil ist ungenau, zu weit gefasst oder nicht gestützt.' },
+  { name: 'Irreführend / Kontext fehlt', key: 'irrefuehrend', text: 'Einzelangaben können stimmen, der entstehende Eindruck ist ohne fehlenden Kontext aber schief.' },
+  { name: 'Widerlegt', key: 'widerlegt', text: 'Geeignete Quellen sprechen klar gegen die Behauptung.' },
+  { name: 'Nicht ausreichend belegbar', key: 'unbelegbar', text: 'Begründetes Ergebnis nach Recherche: Mit zugänglichen Quellen weder bestätigt noch widerlegt. Das ist kein Urteil „falsch“.' },
+  { name: 'Meinung / Prognose', key: 'meinung', text: 'Wertung oder Vorhersage; nicht als wahr oder falsch bewertbar. Überprüfbare Voraussetzungen werden gesondert betrachtet.' }
+];
+const STATUS = [
+  { name: 'Nicht überprüfbar', key: 'nichtpruefbar', text: 'Abschließend eingeordnet: Mit öffentlich zugänglichen Quellen nicht überprüfbar, der Grund steht in der Begründung. Es wird keine Bewertung geraten; nicht überprüfbar heißt nicht falsch.' },
+  { name: 'In Bearbeitung', key: 'bearbeitung', text: 'Die Prüfung läuft; noch keine Endbewertung.' },
+  { name: 'Offen', key: 'offen', text: 'Erfasst, aber noch nicht abschließend recherchiert; noch keine Endbewertung.' }
+];
+const VKEY = Object.fromEntries(VERDICTS.map(v => [v.name, v.key]));
+
+const state = { index: null, videos: new Map(), md: new Map(), tip: null, cleanup: null };
+
+/* ---------- Hilfsfunktionen ---------- */
+
+function esc(s) {
+  return String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+}
+function safeUrl(u) {
+  return /^https:\/\//i.test(String(u || '')) ? String(u) : null;
+}
+function extLink(url, label) {
+  const u = safeUrl(url);
+  return u ? `<a href="${esc(u)}" rel="noopener noreferrer" target="_blank">${label}</a>` : label;
+}
+function hms(sec) {
+  const s = Math.max(0, Math.round(Number(sec) || 0));
+  const p = n => String(n).padStart(2, '0');
+  return `${p(Math.floor(s / 3600))}:${p(Math.floor(s / 60) % 60)}:${p(s % 60)}`;
+}
+function deDate(iso) {
+  const m = /^(\d{4})-(\d{2})-(\d{2})/.exec(iso || '');
+  return m ? `${m[3]}.${m[2]}.${m[1]}` : (iso || '');
+}
+function videoTimeUrl(url, sec) {
+  const u = safeUrl(url);
+  if (!u) return null;
+  return u + (u.includes('?') ? '&' : '?') + 't=' + Math.max(0, Math.floor(sec)) + 's';
+}
+function num(n) { return Number(n).toLocaleString('de-DE'); }
+function pct(n) { return n == null ? '–' : Number(n).toLocaleString('de-DE', { maximumFractionDigits: 1 }) + ' %'; }
+
+async function getJson(path) {
+  const r = await fetch(DATA + path, { cache: 'no-cache' });
+  if (!r.ok) throw new Error(path + ': HTTP ' + r.status);
+  return r.json();
+}
+async function getText(path) {
+  if (state.md.has(path)) return state.md.get(path);
+  const r = await fetch(DATA + path, { cache: 'no-cache' });
+  if (!r.ok) throw new Error(path + ': HTTP ' + r.status);
+  const t = await r.text();
+  state.md.set(path, t);
+  return t;
+}
+
+function repoUrl() { return 'https://github.com/' + (state.index?.repository || '4m3projects/politik4m3Facktencheck'); }
+function blobUrl(repoPath) {
+  const ref = state.index?.commit || 'main';
+  return repoUrl() + '/blob/' + ref + '/' + repoPath.split('/').map(encodeURIComponent).join('/');
+}
+
+/* Offene Aussagen, deren Begründung mit „Nicht überprüfbar“/„Nicht überprüft“ beginnt, sind nach
+   abgeschlossener Recherche bewusst ohne Bewertung eingeordnet und werden als solche angezeigt. */
+function isUnverifiable(c) {
+  return !!c && !c.verdict && c.status !== 'Abgeschlossen' && /^Nicht überprüf(bar|t)\b/.test(c.reason || '');
+}
+function verdictBadge(verdict, status, reason) {
+  if (verdict) {
+    return `<span class="badge"><i class="fill-${VKEY[verdict] || 'offen'}" aria-hidden="true"></i>${esc(verdict)}</span>`;
+  }
+  if (isUnverifiable({ verdict, status, reason })) {
+    return `<span class="badge"><i class="fill-nichtpruefbar" aria-hidden="true"></i>Nicht überprüfbar</span>`;
+  }
+  const key = status === 'In Bearbeitung' ? 'bearbeitung' : 'offen';
+  return `<span class="badge plain"><i class="fill-${key}" aria-hidden="true"></i>${esc(status || 'Offen')} · noch ohne Bewertung</span>`;
+}
+/* Abgeschlossene Recherche: coverageNote beginnt mit „Recherche abgeschlossen“. */
+function researchDone(scope) {
+  return /^Recherche abgeschlossen\b/.test(scope?.coverageNote || '');
+}
+function bucketOf(c) {
+  if (c.verdict) return VKEY[c.verdict] || 'offen';
+  if (isUnverifiable(c)) return 'nichtpruefbar';
+  return c.status === 'In Bearbeitung' ? 'bearbeitung' : 'offen';
+}
+
+/* Verteilung aller strukturierten Aussagen: Endbewertungen plus offene/laufende Prüfungen. */
+function distribution(claims) {
+  const buckets = [...VERDICTS, ...STATUS].map(b => ({ ...b, n: 0 }));
+  for (const c of claims) {
+    const b = buckets.find(x => x.key === bucketOf(c));
+    if (b) b.n++;
+  }
+  const total = claims.length || 1;
+  const bar = buckets.filter(b => b.n > 0).map(b =>
+    `<span class="fill-${b.key}" style="flex:${b.n}" data-tip="${esc(b.name)}: ${b.n} von ${claims.length} (${pct(b.n / total * 100)})"></span>`).join('');
+  const legend = buckets.filter(b => b.n > 0).map(b =>
+    `<li><i class="fill-${b.key}" aria-hidden="true"></i>${esc(b.name)} <b>${b.n}</b></li>`).join('');
+  const label = buckets.filter(b => b.n > 0).map(b => `${b.name}: ${b.n}`).join(', ');
+  return `<div class="dist" role="img" aria-label="Verteilung der ${claims.length} strukturierten Aussagen – ${esc(label)}">${bar}</div><ul class="legend">${legend}</ul>`;
+}
+
+function bindTips(root) {
+  root.querySelectorAll('[data-tip]').forEach(el => {
+    el.addEventListener('pointerenter', e => showTip(e, el.dataset.tip));
+    el.addEventListener('pointermove', e => moveTip(e));
+    el.addEventListener('pointerleave', hideTip);
+  });
+}
+function showTip(e, text) {
+  if (!state.tip) { state.tip = document.createElement('div'); state.tip.className = 'dist-tip'; document.body.appendChild(state.tip); }
+  state.tip.textContent = text; state.tip.hidden = false; moveTip(e);
+}
+function moveTip(e) {
+  if (!state.tip) return;
+  const w = state.tip.offsetWidth;
+  state.tip.style.left = Math.min(window.innerWidth - w - 8, Math.max(8, e.clientX - w / 2)) + 'px';
+  state.tip.style.top = (e.clientY - 40) + 'px';
+}
+function hideTip() { if (state.tip) state.tip.hidden = true; }
+
+/* ---------- Kleiner Markdown-Renderer für die eigenen Berichte ---------- */
+/* Unterstützt Überschriften, Absätze, Listen, Tabellen, Fett, Code und Links. HTML im Quelltext wird immer maskiert. */
+
+function resolvePath(baseDir, href) {
+  const parts = (baseDir ? baseDir.split('/') : []);
+  for (const seg of href.split('/')) {
+    if (seg === '' || seg === '.') continue;
+    if (seg === '..') parts.pop(); else parts.push(seg);
+  }
+  return parts.join('/');
+}
+
+function mdLink(text, href, ctx) {
+  const [path, frag] = href.split('#');
+  if (/^https:\/\//i.test(href)) return `<a href="${esc(href)}" rel="noopener noreferrer" target="_blank">${text}</a>`;
+  if (/^[a-z]+:/i.test(href)) return text; // andere Schemata werden nicht verlinkt
+  if (!path && frag) return `<a href="#/video/${esc(ctx.videoId)}/bericht/${esc(ctx.file)}">${text}</a>`;
+  // Repositorypfad relativ zur aktuellen Datei auflösen.
+  const fileDir = ctx.file.includes('/') ? ctx.file.slice(0, ctx.file.lastIndexOf('/')) : '';
+  const repoPath = resolvePath('faktenchecks/' + ctx.videoId + (fileDir ? '/' + fileDir : ''), decodeURIComponent(path));
+  const prefix = 'faktenchecks/' + ctx.videoId + '/';
+  if (repoPath.startsWith(prefix) && repoPath.endsWith('.md') && ctx.files.includes(repoPath.slice(prefix.length))) {
+    return `<a href="#/video/${esc(ctx.videoId)}/bericht/${esc(repoPath.slice(prefix.length))}">${text}</a>`;
+  }
+  if (repoPath.startsWith(prefix) && /strukturiert\/aussagen\.json$/.test(repoPath)) {
+    return `<a href="#/video/${esc(ctx.videoId)}">${text}</a>`;
+  }
+  return `<a href="${esc(blobUrl(repoPath))}" rel="noopener noreferrer" target="_blank">${text}</a>`;
+}
+
+function mdInline(src, ctx) {
+  const codes = [];
+  let s = esc(src).replace(/`([^`]+)`/g, (_, c) => { codes.push(c); return '\u0000' + (codes.length - 1) + '\u0000'; });
+  s = s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_, text, href) => mdLink(text, href.replace(/&amp;/g, '&'), ctx));
+  s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
+  s = s.replace(/(^|[\s(])_([^_]+)_(?=[\s).,;:]|$)/g, '$1<em>$2</em>');
+  s = s.replace(/\u0000(\d+)\u0000/g, (_, i) => `<code>${codes[i]}</code>`);
+  return s;
+}
+
+function slug(text) {
+  return 'h-' + text.toLowerCase().replace(/<[^>]+>/g, '').replace(/[^a-z0-9äöüß]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
+}
+
+function renderMarkdown(src, ctx) {
+  const lines = src.replace(/\r\n?/g, '\n').split('\n');
+  const out = [];
+  let i = 0;
+  const isBlockStart = l => /^(#{1,6}\s|\s*[-*]\s|\s*\d+\.\s|\||```)/.test(l);
+  while (i < lines.length) {
+    const line = lines[i];
+    if (!line.trim()) { i++; continue; }
+    let m;
+    if ((m = /^```/.exec(line))) {
+      const buf = []; i++;
+      while (i < lines.length && !/^```/.test(lines[i])) buf.push(lines[i++]);
+      i++;
+      out.push(`<pre><code>${esc(buf.join('\n'))}</code></pre>`);
+      continue;
+    }
+    if ((m = /^(#{1,6})\s+(.*)$/.exec(line))) {
+      const lvl = Math.min(m[1].length, 4);
+      const html = mdInline(m[2], ctx);
+      out.push(`<h${lvl} id="${esc(slug(m[2]))}">${html}</h${lvl}>`);
+      i++; continue;
+    }
+    if (/^\|/.test(line)) {
+      const rows = [];
+      while (i < lines.length && /^\|/.test(lines[i])) rows.push(lines[i++]);
+      const cells = r => r.replace(/^\||\|\s*$/g, '').split('|').map(c => c.trim());
+      const head = cells(rows[0]);
+      const align = rows[1] && /^\|?[\s:|-]+$/.test(rows[1]) ? cells(rows[1]).map(a => /:$/.test(a) ? 'r' : '') : null;
+      const body = rows.slice(align ? 2 : 1);
+      const cls = j => (align && align[j] ? ` class="${align[j]}"` : '');
+      out.push('<div class="table-wrap"><table><thead><tr>' + head.map((c, j) => `<th${cls(j)}>${mdInline(c, ctx)}</th>`).join('') +
+        '</tr></thead><tbody>' + body.map(r => '<tr>' + cells(r).map((c, j) => `<td${cls(j)}>${mdInline(c, ctx)}</td>`).join('') + '</tr>').join('') + '</tbody></table></div>');
+      continue;
+    }
+    if (/^\s*([-*]|\d+\.)\s/.test(line)) {
+      const ordered = /^\s*\d+\./.test(line);
+      const items = [];
+      while (i < lines.length && /^\s*([-*]|\d+\.)\s/.test(lines[i])) {
+        let item = lines[i].replace(/^\s*([-*]|\d+\.)\s+/, '');
+        const numMatch = /^\s*(\d+)\./.exec(lines[i]);
+        i++;
+        while (i < lines.length && lines[i].trim() && !isBlockStart(lines[i])) item += ' ' + lines[i++].trim();
+        items.push({ html: mdInline(item, ctx), n: numMatch ? numMatch[1] : null });
+      }
+      if (ordered) {
+        out.push('<ol>' + items.map(it => `<li value="${esc(parseInt(it.n, 10))}">${it.html}</li>`).join('') + '</ol>');
+      } else {
+        out.push('<ul>' + items.map(it => `<li>${it.html}</li>`).join('') + '</ul>');
+      }
+      continue;
+    }
+    const buf = [line.trim()]; i++;
+    while (i < lines.length && lines[i].trim() && !isBlockStart(lines[i])) buf.push(lines[i++].trim());
+    out.push(`<p>${mdInline(buf.join(' '), ctx)}</p>`);
+  }
+  return out.join('\n');
+}
+
+/* Kennzeichnet in Berichten Bewertungszeilen zusätzlich mit dem Farbabzeichen. */
+function decorateVerdicts(root) {
+  root.querySelectorAll('li').forEach(li => {
+    const strong = li.querySelector('strong');
+    if (!strong || !/^Bewertung:?$/.test(strong.textContent.trim())) return;
+    const txt = li.textContent.replace(/^\s*Bewertung:?\s*/, '').trim().toLowerCase();
+    const v = VERDICTS.find(x => txt.startsWith(x.name.toLowerCase()));
+    if (v) li.insertAdjacentHTML('beforeend', ` <i class="badge verdict-inline" aria-hidden="true"><i class="fill-${v.key}"></i></i>`);
+  });
+}
+
+/* README-Stichpunkte („- Kanal: …“) als Metadaten lesen; nur eigene Projektangaben. */
+function readmeMeta(md) {
+  const meta = {};
+  for (const line of md.split('\n')) {
+    if (/^##\s/.test(line)) break;
+    const m = /^-\s+([^:]{2,60}):\s+(.+)$/.exec(line.trim());
+    if (m) meta[m[1].trim()] = m[2].trim();
+  }
+  const status = /\*\*Status:\s*([^*]+)\*\*/.exec(md);
+  if (status) meta.Status = status[1].trim().replace(/\.$/, '');
+  return meta;
+}
+function stripMd(s) { return String(s || '').replace(/\[([^\]]+)\]\([^)]+\)/g, '$1').replace(/\*\*/g, ''); }
+
+/* ---------- Daten laden ---------- */
+
+async function loadVideo(id) {
+  if (state.videos.has(id)) return state.videos.get(id);
+  const entry = state.index.videos.find(v => v.id === id);
+  if (!entry) throw new Error('Unbekanntes Video: ' + id);
+  const [readme, data, stats] = await Promise.all([
+    getText(id + '/README.md').catch(() => ''),
+    entry.structured ? getJson(id + '/strukturiert/aussagen.json') : Promise.resolve(null),
+    entry.structured ? getJson(id + '/strukturiert/statistik.json').catch(() => null) : Promise.resolve(null)
+  ]);
+  const v = { ...entry, readme, meta: readmeMeta(readme), data, stats };
+  state.videos.set(id, v);
+  return v;
+}
+
+/* ---------- Seiten ---------- */
+
+const main = () => document.getElementById('inhalt');
+
+function setPage(html, nav) {
+  hideTip();
+  main().innerHTML = html;
+  document.querySelectorAll('.mainnav a[data-nav]').forEach(a => {
+    if (a.dataset.nav === nav) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
+  });
+  bindTips(main());
+}
+
+function videoFacts(v) {
+  const m = v.meta;
+  const items = [];
+  if (m.Kanal) items.push(`<li>Kanal: <strong>${esc(stripMd(m.Kanal))}</strong></li>`);
+  const pub = m['Veröffentlichung laut erfassten Metadaten'] || m['Veröffentlichung'];
+  if (pub) items.push(`<li>Veröffentlicht: <strong>${esc(stripMd(pub))}</strong></li>`);
+  if (m.Laufzeit) items.push(`<li>Laufzeit: <strong>${esc(stripMd(m.Laufzeit))}</strong></li>`);
+  if (v.data?.scope?.asOf) items.push(`<li>Datenstand: <strong>${esc(deDate(v.data.scope.asOf))}</strong></li>`);
+  return items.join('');
+}
+
+async function pageHome() {
+  const videos = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
+  const allClaims = videos.flatMap(v => v.data?.claims || []);
+  const done = allClaims.filter(c => c.status === 'Abgeschlossen').length;
+  const sources = videos.reduce((n, v) => n + (v.data?.sources?.length || 0), 0);
+
+  const cards = videos.map(v => {
+    const claims = v.data?.claims || [];
+    const scope = v.data?.scope;
+    return `<a class="card" href="#/video/${esc(v.id)}">
+      <div class="claim-top">${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
+      ${v.meta.Status ? `<span class="small">${esc(v.meta.Status)}</span>` : ''}</div>
+      <h3>${esc(v.title)}</h3>
+      <ul class="facts">${videoFacts(v)}</ul>
+      ${claims.length ? `<div>${distribution(claims)}</div>
+        <p class="meta">${claims.length} strukturierte Aussagen · ${claims.filter(c => c.status === 'Abgeschlossen').length} abgeschlossen${scope && scope.totalLegacyPoints ? ` · ${scope.totalLegacyPoints - scope.unmigratedLegacyPoints} von ${scope.totalLegacyPoints} Prüfpunkten des Erststands strukturiert` : ''}</p>`
+        : '<p class="meta">Noch keine strukturierten Aussagen; Berichte als Text verfügbar.</p>'}
+      <span class="more">Zum Faktencheck →</span>
+    </a>`;
+  }).join('');
+
+  setPage(`
+  <section class="hero">
+    <div class="wrap">
+      <p class="eyebrow">Offenes Lernprojekt · Quellen statt Schlagworte</p>
+      <h1>Was stimmt an den Aussagen – und was ist noch offen?</h1>
+      <p class="lead">Wir prüfen einzelne Tatsachenbehauptungen aus politischen und wirtschaftlichen YouTube-Gesprächen: in eigenen Worten, mit direkt verlinkten Quellen, Zeitmarken zum Original und ehrlich ausgewiesenen Grenzen. Jede Prüfung entsteht offen auf GitHub und wird von mehreren KI-Systemen gegenseitig kontrolliert.</p>
+      <ul class="hero-facts">
+        <li>${videos.length} ${videos.length === 1 ? 'Video' : 'Videos'}</li>
+        <li>${allClaims.length} strukturierte Aussagen</li>
+        <li>${done} abgeschlossen</li>
+        <li>${sources} verlinkte Quellen</li>
+      </ul>
+    </div>
+  </section>
+  <div class="wrap">
+    <section class="section" aria-labelledby="h-videos">
+      <div class="section-head"><h2 id="h-videos">Geprüfte Videos</h2><p>Neue Faktenchecks erscheinen hier automatisch, sobald sie in den Hauptstand übernommen wurden.</p></div>
+      <div class="cards">${cards || '<p class="muted">Noch keine Faktenchecks veröffentlicht.</p>'}</div>
+    </section>
+    <section class="section" aria-labelledby="h-team">
+      <div class="section-head"><h2 id="h-team">Wer prüft hier?</h2><p><a href="#/methodik">Ausführlich zur Methodik →</a></p></div>
+      <div class="roles">
+        <div class="role"><span class="tag">Erstellt</span><h3>Codex</h3><p>Erfasst Aussagen, recherchiert Quellen, formuliert Bewertungen und pflegt Daten und Werkzeuge. Entscheidet begründet über Hinweise.</p></div>
+        <div class="role"><span class="tag">Prüft unabhängig</span><h3>ChatGPT</h3><p>Hinterfragt Aussagen, Quellen, Bewertungen und Technik. Rückmeldungen öffentlich in GitHub-Issues und Reviews.</p></div>
+        <div class="role"><span class="tag">Prüft unabhängig</span><h3>Claude</h3><p>Zusätzliche Gegenprüfung: Was wurde übersehen, zu streng oder zu milde bewertet? Darf allen widersprechen.</p></div>
+        <div class="role"><span class="tag">Gibt frei</span><h3>Projektverantwortlicher</h3><p>Trifft die Grundsatzentscheidungen. Nur mit ausdrücklicher Freigabe gelangt eine Änderung in den veröffentlichten Stand.</p></div>
+      </div>
+      <ol class="flow">
+        <li>Codex erarbeitet einen Faktencheck auf einem eigenen Branch und öffnet einen Entwurfs-Pull-Request.</li>
+        <li>ChatGPT und Claude prüfen unabhängig voneinander und kommentieren öffentlich – Widerspruch ist ausdrücklich erwünscht.</li>
+        <li>Codex übernimmt, stellt zurück oder lehnt begründet ab; bei Bedarf wird erneut geprüft.</li>
+        <li>Erst nach Freigabe wird der Stand übernommen und diese Seite automatisch neu erzeugt.</li>
+      </ol>
+      <p class="small" style="margin-top:16px">Die gesamte Diskussion ist nachlesbar: <a href="${esc(repoUrl())}/issues?q=is%3Aissue" rel="noopener noreferrer" target="_blank">Issues</a> · <a href="${esc(repoUrl())}/pulls?q=is%3Apr" rel="noopener noreferrer" target="_blank">Pull Requests</a></p>
+    </section>
+  </div>`, 'start');
+  document.title = 'Politik4M3 Faktencheck';
+}
+
+function claimCard(c, v, chapterTitles) {
+  const d = v.data;
+  const speakers = Object.fromEntries((d.speakers || []).map(s => [s.id, s]));
+  const sources = Object.fromEntries((d.sources || []).map(s => [s.id, s]));
+  const shortId = c.id.replace(v.id + '-', '');
+  const color = c.verdict ? `var(--v-${VKEY[c.verdict]})` : isUnverifiable(c) ? 'var(--s-nichtpruefbar)' : (c.status === 'In Bearbeitung' ? 'var(--s-bearbeitung)' : 'var(--s-offen)');
+  const spk = id => (id && speakers[id] ? (speakers[id].name || 'Unbenannte Stimme ' + id) : id);
+
+  const occ = (c.occurrences || []).map(o => {
+    let who;
+    if (o.attributionStatus === 'Bestätigt') who = `<strong>${esc(spk(o.speakerId))}</strong> <span class="badge plain">Zuordnung bestätigt</span>`;
+    else if (o.attributionStatus === 'Plausibel') who = `vermutlich <strong>${esc(spk(o.candidateSpeakerId))}</strong> <span class="badge plain">Zuordnung plausibel, nicht bestätigt</span>`;
+    else who = `<span class="badge plain">Sprecher ungeklärt</span>`;
+    const url = videoTimeUrl(d.scope.videoUrl, o.startSeconds);
+    const hist = (o.timeHistory || []).map(h => `<li>${hms(h.startSeconds)}–${hms(h.endSeconds)} (${esc(h.precision)}): ${esc(h.basis)}</li>`).join('');
+    return `<div class="occ">
+      <div class="occ-top">${url ? extLink(url, `<span class="time">▶ ${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`) : `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`}
+        <span class="badge plain">Zeit ${esc(o.precision)}</span>${who}<span class="badge plain">${esc(o.role)} (${esc(o.roleStatus)})</span></div>
+      <dl class="kv">
+        ${o.note ? `<dt>Hinweis</dt><dd>${esc(o.note)}</dd>` : ''}
+        <dt>Sprecherzuordnung</dt><dd>${esc(o.attributionBasis)}</dd>
+        <dt>Aussagebezug</dt><dd>${esc(o.roleBasis)}</dd>
+        <dt>Zeitgrundlage</dt><dd>${esc(o.timeBasis)}</dd>
+        ${o.legacySpeaker ? `<dt>Frühere Angabe</dt><dd>${esc(o.legacySpeaker)}</dd>` : ''}
+        ${hist ? `<dt>Frühere Fundstellen</dt><dd><ul class="questions">${hist}</ul></dd>` : ''}
+      </dl></div>`;
+  }).join('');
+
+  const srcs = (c.sourceRefs || []).map(r => {
+    const s = sources[r.sourceId];
+    if (!s) return `<li><span class="src-title">${esc(r.sourceId)}</span><div class="src-note">${esc(r.note)}</div></li>`;
+    return `<li><div class="src-title">${extLink(s.url, esc(s.title))}</div>
+      <div class="src-meta">${esc(s.details)} · abgerufen ${esc(deDate(s.accessedOn))}</div>
+      <div class="src-meta">Zugriff: ${esc(s.accessBasis)}</div>
+      ${r.note ? `<div class="src-note">Bezug: ${esc(r.note)}</div>` : ''}</li>`;
+  }).join('');
+
+  const rel = (c.relations || []).map(r => `<li>${esc(r.type)} <a href="#/video/${esc(v.id)}/aussage/${esc(r.claimId)}">${esc(r.claimId.replace(v.id + '-', ''))}</a>: ${esc(r.note)}</li>`).join('');
+  const q = (c.openQuestions || []).map(x => `<li>${esc(x)}</li>`).join('');
+  const chapter = chapterTitles[c.chapter];
+
+  return `<article class="claim" id="${esc(c.id)}">
+    <div class="claim-head">
+      <span class="claim-stripe" style="background:${color}" aria-hidden="true"></span>
+      <div class="claim-main">
+        <div class="claim-top">${verdictBadge(c.verdict, c.status, c.reason)}
+          <span class="badge kind">${esc(c.kind)}</span>
+          <span class="badge kind">Kapitel ${esc(c.chapter)}${chapter ? ' · ' + esc(chapter) : ''}</span>
+          <a class="claim-id" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}" title="Direktlink zu dieser Aussage">${esc(shortId)}</a></div>
+        <div class="claim-desc-label">Prüfgegenstand – unsere Beschreibung, kein Zitat</div>
+        <p class="claim-desc">${esc(c.description)}</p>
+        <p class="claim-reason">${esc(c.reason)}</p>
+      </div>
+    </div>
+    <details>
+      <summary>Fundstellen, Quellen und Prüfgrundlage</summary>
+      <div class="claim-body">
+        <div><h4>Grundlage der Bewertung</h4><p class="small" style="color:var(--text-2)">${esc(c.assessmentBasis)}</p></div>
+        <div><h4>Fundstellen im Video (${(c.occurrences || []).length})</h4>${occ}</div>
+        <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind keine Sachquellen zugeordnet.</p>'}</div>
+        ${q ? `<div><h4>${isUnverifiable(c) ? 'Was für eine Prüfung fehlt' : 'Offene Fragen'}</h4><ul class="questions">${q}</ul></div>` : ''}
+        ${rel ? `<div><h4>Beziehungen</h4><ul class="questions">${rel}</ul></div>` : ''}
+        <div><h4>Herkunft</h4><dl class="kv">
+          <dt>Erfassung</dt><dd>${esc(c.migration?.changeType)}${c.legacyId ? ' · früherer Prüfpunkt ' + esc(c.legacyId) : ''}</dd>
+          <dt>Zuordnung</dt><dd>${esc(c.migration?.mapping)}</dd>
+          <dt>Bewertungsänderung</dt><dd>${esc(c.migration?.assessmentChange)}</dd>
+        </dl></div>
+      </div>
+    </details>
+  </article>`;
+}
+
+function chapterTitlesFor(v) {
+  const titles = {};
+  for (const f of v.files) {
+    const m = /^kapitel\/(\d+)_/.exec(f);
+    if (m) titles[parseInt(m[1], 10)] = null;
+  }
+  return titles;
+}
+
+async function fillChapterTitles(v, titles) {
+  const files = v.files.filter(f => /^kapitel\/\d+_.*\.md$/.test(f));
+  await Promise.all(files.map(async f => {
+    const t = await getText(v.id + '/' + f).catch(() => '');
+    const h = /^#\s+(?:\d+\s+)?(.+)$/m.exec(t);
+    titles[parseInt(/^kapitel\/(\d+)_/.exec(f)[1], 10)] = h ? h[1].trim() : null;
+  }));
+}
+
+function videoHeader(v, tab) {
+  const scope = v.data?.scope;
+  const tabs = [
+    v.data ? ['aussagen', `#/video/${v.id}`, 'Aussagen'] : null,
+    v.data && FactSync.youtubeId(scope?.videoUrl) ? ['video', `#/video/${v.id}/video`, 'Video mit Faktencheck'] : null,
+    ['berichte', `#/video/${v.id}/bericht/README.md`, 'Berichte'],
+  ].filter(Boolean);
+  return `<nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / ${esc(v.id)}</nav>
+  <header class="video-head">
+    <h1>${esc(v.title)}</h1>
+    <ul class="facts">${videoFacts(v)}</ul>
+    <div class="btn-row">
+      ${scope ? extLink(scope.videoUrl, '<span class="btn">▶ Originalvideo auf YouTube</span>') : ''}
+      <a class="btn ghost" href="${esc(blobUrl('faktenchecks/' + v.id))}" rel="noopener noreferrer" target="_blank">Daten auf GitHub</a>
+    </div>
+  </header>
+  <nav class="tabs" aria-label="Ansicht">${tabs.map(t => `<a href="${esc(t[1])}"${t[0] === tab ? ' aria-current="page"' : ''}>${t[2]}</a>`).join('')}</nav>`;
+}
+
+async function pageVideo(id, focusClaim) {
+  const v = await loadVideo(id);
+  if (!v.data) { location.replace(`#/video/${id}/bericht/README.md`); return; }
+  const d = v.data, s = v.stats, scope = d.scope;
+  const titles = chapterTitlesFor(v);
+  await fillChapterTitles(v, titles);
+  const chapters = [...new Set(d.claims.map(c => c.chapter))].sort((a, b) => a - b);
+
+  const nUnver = d.claims.filter(isUnverifiable).length;
+  const nWork = d.claims.filter(c => c.status === 'In Bearbeitung' && !isUnverifiable(c)).length;
+  const nOpen = d.claims.filter(c => c.status === 'Offen' && !isUnverifiable(c)).length;
+  const statBlock = s ? `
+    <dl class="stats">
+      <div class="stat"><dt>Eigenständige Aussagen</dt><dd>${num(s.uniqueStatements)}</dd></div>
+      <div class="stat"><dt>Bewertet oder Meinung</dt><dd>${num(s.statusCounts?.Abgeschlossen ?? 0)}</dd></div>
+      ${nUnver ? `<div class="stat"><dt>Nicht überprüfbar</dt><dd>${num(nUnver)}</dd></div>` : ''}
+      ${nWork ? `<div class="stat"><dt>In Bearbeitung</dt><dd>${num(nWork)}</dd></div>` : ''}
+      ${nOpen ? `<div class="stat"><dt>Offen</dt><dd>${num(nOpen)}</dd></div>` : ''}
+      <div class="stat"><dt>Quellen</dt><dd>${num(d.sources.length)}</dd></div>
+    </dl>` : '';
+
+  const catRows = s?.categories ? s.categories.map(cat =>
+    `<li><i class="fill-${VKEY[cat.category]}" aria-hidden="true"></i>${esc(cat.category)} <b>${cat.completedCount}</b>${cat.completedFactPercent != null ? ` <span class="muted">(${pct(cat.completedFactPercent)})</span>` : ''}</li>`).join('') : '';
+
+  const speakers = (d.speakers || []).map(sp => `<li><strong>${esc(sp.name || 'Unbenannte Stimme')}</strong> (${esc(sp.id)}, ${esc(sp.videoRole)})<br><span class="small">${esc(sp.identityBasis)}</span></li>`).join('');
+
+  setPage(`<div class="wrap">
+    ${videoHeader(v, 'aussagen')}
+    ${scope.kind === 'Teilbestand' && !researchDone(scope) ? `<p class="notice warn"><strong>Teilbestand – keine Bilanz des ganzen Videos.</strong> ${esc(scope.coverageNote)}</p>` : `<p class="notice"><strong>Umfang der Prüfung.</strong> ${esc(scope.coverageNote)}</p>`}
+    <div class="grid-2" style="margin-top:20px">
+      <div>
+        <section class="section" style="margin-bottom:28px">
+          ${statBlock}
+          <div style="margin-top:16px">${distribution(d.claims)}</div>
+        </section>
+        <div class="filters" role="search">
+          <label class="sr" for="f-q" hidden>Suche</label>
+          <input id="f-q" type="search" placeholder="Aussagen durchsuchen …" aria-label="Aussagen durchsuchen">
+          <select id="f-v" aria-label="Nach Bewertung filtern">
+            <option value="">Alle Bewertungen</option>
+            ${VERDICTS.map(x => `<option value="${x.key}">${esc(x.name)}</option>`).join('')}
+            ${STATUS.map(x => `<option value="${x.key}">${esc(x.name)}${x.key === 'nichtpruefbar' ? '' : ' (ohne Bewertung)'}</option>`).join('')}
+          </select>
+          <select id="f-c" aria-label="Nach Kapitel filtern">
+            <option value="">Alle Kapitel</option>
+            ${chapters.map(n => `<option value="${n}">Kapitel ${n}${titles[n] ? ' · ' + esc(titles[n]) : ''}</option>`).join('')}
+          </select>
+        </div>
+        <p class="result-count" id="count" aria-live="polite"></p>
+        <div class="claims" id="claims">${d.claims.map(c => claimCard(c, v, titles)).join('')}</div>
+      </div>
+      <aside class="aside">
+        ${catRows ? `<div class="panel"><h3>Ergebnisse der abgeschlossenen Prüfungen</h3><ul class="legend" style="flex-direction:column;align-items:flex-start">${catRows}</ul>
+          <p class="small" style="margin-top:10px">Prozente beziehen sich nur auf ${s.percentageDenominator} abgeschlossene Tatsachenbehauptungen; Meinungen, Prognosen und offene Prüfungen zählen nicht mit. Bei so kleinen Zahlen sind Anteile kaum aussagekräftig.</p></div>` : ''}
+        <div class="panel"><h3>Recherchegrundlage</h3><p>${esc(scope.researchNote)}</p></div>
+        ${speakers ? `<div class="panel"><h3>Personen im Video</h3><ul>${speakers}</ul><p class="small" style="margin-top:8px">Sprecherzuordnungen werden je Fundstelle als bestätigt, plausibel oder ungeklärt angegeben. Es gibt bewusst keine Glaubwürdigkeitsnoten oder Ranglisten von Personen.</p></div>` : ''}
+        <div class="panel"><h3>Prüfung und Diskussion</h3><p>Erstellt von Codex. ChatGPT und Claude prüfen unabhängig; ihre Hinweise, Widersprüche und Codex’ Entscheidungen stehen öffentlich auf GitHub. Nicht jede Aussage ist bereits gegengeprüft.</p>
+          <p style="margin:0"><a href="${esc(repoUrl())}/issues?q=${encodeURIComponent(v.id)}" rel="noopener noreferrer" target="_blank">Diskussionen zu diesem Video →</a></p></div>
+      </aside>
+    </div>
+  </div>`, 'start');
+  document.title = v.title + ' – Politik4M3 Faktencheck';
+
+  const q = document.getElementById('f-q'), fv = document.getElementById('f-v'), fc = document.getElementById('f-c');
+  const cards = [...document.querySelectorAll('#claims .claim')];
+  const byId = Object.fromEntries(d.claims.map(c => [c.id, c]));
+  const apply = () => {
+    const term = q.value.trim().toLowerCase();
+    let n = 0;
+    for (const el of cards) {
+      const c = byId[el.id];
+      const ok = (!fv.value || bucketOf(c) === fv.value) && (!fc.value || String(c.chapter) === fc.value) &&
+        (!term || el.textContent.toLowerCase().includes(term));
+      el.hidden = !ok; if (ok) n++;
+    }
+    document.getElementById('count').textContent = n === cards.length ? `${n} Aussagen` : `${n} von ${cards.length} Aussagen`;
+  };
+  [q, fv, fc].forEach(el => el.addEventListener('input', apply));
+  apply();
+
+  if (focusClaim) {
+    const el = document.getElementById(focusClaim);
+    if (el) {
+      el.classList.add('highlight');
+      el.querySelector('details').open = true;
+      requestAnimationFrame(() => el.scrollIntoView({ block: 'start' }));
+    }
+  } else {
+    window.scrollTo(0, 0);
+  }
+}
+
+function reportGroups(v) {
+  const label = f => ({
+    'README.md': 'Überblick', '01_kurz.md': 'Kurzbeschreibung', '02_analyse.md': 'Thematische Analyse',
+    '03_faktencheck.md': 'Faktencheck-Übersicht', 'strukturiert/README.md': 'Strukturierte Übersicht',
+    'strukturiert/migration.md': 'Herkunftsvergleich'
+  }[f]);
+  const main = v.files.filter(f => !f.includes('/') ).sort();
+  const kapitel = v.files.filter(f => /^kapitel\//.test(f)).sort();
+  const struct = v.files.filter(f => /^strukturiert\//.test(f)).sort();
+  const name = f => label(f) || f.replace(/^.*\//, '').replace(/\.md$/, '').replace(/^(\d+)_/, '$1 ').replace(/[-_]/g, ' ');
+  return [
+    ['Berichte', main.sort((a, b) => (a === 'README.md' ? -1 : b === 'README.md' ? 1 : a.localeCompare(b))), name],
+    ['Kapitelprüfungen', kapitel, name],
+    ['Aus Strukturdaten erzeugt', struct.sort((a, b) => (a === 'strukturiert/README.md' ? -1 : b === 'strukturiert/README.md' ? 1 : a.localeCompare(b))), name]
+  ].filter(g => g[1].length);
+}
+
+async function pageReport(id, file) {
+  const v = await loadVideo(id);
+  if (!v.files.includes(file)) throw new Error('Bericht nicht gefunden: ' + file);
+  const groups = reportGroups(v);
+  const kapTitle = async f => {
+    const t = await getText(v.id + '/' + f).catch(() => '');
+    const h = /^#\s+(.+)$/m.exec(t);
+    return h ? h[1] : null;
+  };
+  const navHtml = (await Promise.all(groups.map(async ([title, files, name]) => {
+    const items = await Promise.all(files.map(async f => {
+      const label = /^kapitel\//.test(f) ? (await kapTitle(f)) || name(f) : name(f);
+      return `<li><a href="#/video/${esc(v.id)}/bericht/${esc(f)}"${f === file ? ' aria-current="page"' : ''}>${esc(label)}</a></li>`;
+    }));
+    return `<h3>${esc(title)}</h3><ul>${items.join('')}</ul>`;
+  }))).join('');
+
+  const src = await getText(v.id + '/' + file);
+  const html = renderMarkdown(src, { videoId: v.id, file, files: v.files });
+  setPage(`<div class="wrap">
+    ${videoHeader(v, 'berichte')}
+    <div class="report-layout">
+      <nav class="report-nav" aria-label="Berichte">${navHtml}</nav>
+      <div>
+        <article class="prose">${html}</article>
+        <p class="small" style="margin-top:10px">Quelltext dieser Seite: <a href="${esc(blobUrl('faktenchecks/' + v.id + '/' + file))}" rel="noopener noreferrer" target="_blank">${esc('faktenchecks/' + v.id + '/' + file)}</a></p>
+      </div>
+    </div>
+  </div>`, 'start');
+  decorateVerdicts(main());
+  const h1 = /^#\s+(.+)$/m.exec(src);
+  document.title = (h1 ? stripMd(h1[1]) + ' – ' : '') + 'Politik4M3 Faktencheck';
+  window.scrollTo(0, 0);
+}
+
+function pageMethod() {
+  setPage(`<div class="wrap">
+    <nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / Methodik</nav>
+    <header class="video-head"><h1>So prüfen wir</h1>
+      <p class="lead" style="color:var(--text-2);max-width:70ch">Wir bewerten einzelne, überprüfbare Aussagen – nie ein ganzes Video pauschal. Entscheidend sind nachvollziehbare Quellen und die Trennung von Tatsachen, Meinungen und Prognosen.</p></header>
+
+    <section class="section"><h2>Sechs feste Bewertungen</h2>
+      <ul class="verdict-list">${VERDICTS.map(x => `<li><span class="badge"><i class="fill-${x.key}" aria-hidden="true"></i>${esc(x.name)}</span><p>${esc(x.text)}</p></li>`).join('')}</ul>
+      <p class="small">Solange eine Prüfung <strong>offen</strong> oder <strong>in Bearbeitung</strong> ist, gibt es bewusst keine Bewertung. Eine nicht belegte Aussage ist nicht automatisch falsch.</p>
+    </section>
+
+    <section class="section prose-plain"><h2>Grundsätze</h2>
+      <ul>
+        <li><strong>Eigene Worte statt Zitate.</strong> Jeder Prüfgegenstand ist unsere Beschreibung. Wir veröffentlichen keine Transkripte, Untertitel, Mitschnitte oder Ausschnitte – nur Zeitmarken mit Link zum Original.</li>
+        <li><strong>Quellen direkt zugeordnet.</strong> Jede Quelle steht bei der Aussage, die sie stützt, mit Abrufdatum und Angabe, ob sie tatsächlich gelesen wurde. Primärquellen wie amtliche Statistiken, Gesetzestexte und Originalstudien haben Vorrang.</li>
+        <li><strong>Zeitbezug.</strong> Wir trennen den Wissensstand zur Zeit der Aufnahme von späteren Daten.</li>
+        <li><strong>Vorsichtige Sprecherzuordnung.</strong> Je Fundstelle steht, ob die Person bestätigt, nur plausibel oder ungeklärt ist – und ob es eine eigene Behauptung, Zustimmung, Rückfrage oder Wiedergabe war.</li>
+        <li><strong>Keine Doppelzählung.</strong> Wiederholungen werden als weitere Fundstellen derselben Aussage geführt, nicht als neue Aussagen.</li>
+        <li><strong>Teilbestände ehrlich kennzeichnen.</strong> Wenn nur ein Teil eines Videos strukturiert geprüft ist, gibt es keine Gesamtbilanz.</li>
+        <li><strong>Keine Rankings.</strong> Wir vergeben keine Glaubwürdigkeitsnoten für Personen.</li>
+      </ul>
+    </section>
+
+    <section class="section prose-plain"><h2>Mehrere KI-Systeme, ein offener Prozess</h2>
+      <p>Codex erstellt die Faktenchecks. ChatGPT und Claude prüfen sie unabhängig und kommentieren öffentlich auf GitHub; sie dürfen einander und Codex widersprechen. Codex entscheidet begründet, was übernommen wird. Ein Mensch gibt jede Veröffentlichung frei. Alle Beiträge sind mit dem jeweiligen KI-System gekennzeichnet, auch wenn mehrere denselben GitHub-Account nutzen.</p>
+      <p>Auch mehrere KI-Systeme können irren. Wenn du einen Fehler findest, eröffne gern ein <a href="${esc(repoUrl())}/issues" rel="noopener noreferrer" target="_blank">Issue auf GitHub</a>.</p>
+      <p>Die verbindlichen Regeln stehen in <a href="${esc(blobUrl('AGENTS.md'))}" rel="noopener noreferrer" target="_blank">AGENTS.md</a>, das Datenmodell in <a href="${esc(blobUrl('docs/STRUKTURIERTE_DATEN.md'))}" rel="noopener noreferrer" target="_blank">docs/STRUKTURIERTE_DATEN.md</a>.</p>
+    </section>
+  </div>`, 'methodik');
+  document.title = 'Methodik – Politik4M3 Faktencheck';
+  window.scrollTo(0, 0);
+}
+
+function pageError(err) {
+  setPage(`<div class="wrap"><p class="notice warn" style="margin-top:32px"><strong>Diese Seite konnte nicht geladen werden.</strong> ${esc(err.message || err)}</p><p><a href="#/">Zur Übersicht</a></p></div>`, '');
+}
+
+/* ---------- Routing ---------- */
+
+async function route() {
+  const h = decodeURIComponent(location.hash.replace(/^#\/?/, ''));
+  const parts = h.split('/');
+  if (state.cleanup) { try { state.cleanup(); } catch (e) { console.error(e); } state.cleanup = null; }
+  try {
+    if (!state.index) {
+      state.index = await getJson('index.json');
+      const b = document.getElementById('build-info');
+      if (b && state.index.commit) {
+        b.innerHTML = `Erzeugt am ${esc(deDate(state.index.generated))} aus Commit <a href="${esc(repoUrl())}/commit/${esc(state.index.commit)}" rel="noopener noreferrer" target="_blank">${esc(state.index.commit.slice(0, 7))}</a>`;
+      }
+      document.getElementById('repo-link').href = repoUrl();
+      document.getElementById('license-link').href = blobUrl('LICENSE');
+    }
+    if (parts[0] === 'video' && parts[1]) {
+      if (parts[2] === 'video') return await pageVideoSync(parts[1]);
+      if (parts[2] === 'bericht') return await pageReport(parts[1], parts.slice(3).join('/'));
+      if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
+      return await pageVideo(parts[1]);
+    }
+    if (parts[0] === 'methodik') return pageMethod();
+    return await pageHome();
+  } catch (e) {
+    console.error(e);
+    pageError(e);
+  }
+}
+
+window.addEventListener('hashchange', route);
+document.addEventListener('DOMContentLoaded', route);
