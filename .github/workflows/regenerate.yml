@@ -1,0 +1,61 @@
+# Erzeugt die Faktencheck-Artefakte (Berichte, Statistik, README, migration.md) mit Build-Factcheck.ps1 neu
+# und committet sie auf denselben Branch zurück. Nur für Arbeitsbranches von Agenten ohne lokale PowerShell
+# (claude/**). Auslöser: ein Push, dessen letzte Commit-Nachricht "[regenerate]" enthält.
+# Vor dem Commit laufen Generator-Check, Faktencheck-Tests und Publikationsprüfung; schlägt etwas fehl,
+# wird nichts zurückgeschrieben. Pushes mit GITHUB_TOKEN lösen keine weiteren Workflows aus (keine Schleife).
+name: Artefakte erzeugen
+
+on:
+  push:
+    branches: ['claude/**']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: regenerate-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  regenerate:
+    if: contains(github.event.head_commit.message, '[regenerate]')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Artefakte je Video erzeugen
+        shell: pwsh
+        run: |
+          foreach ($dir in Get-ChildItem -Directory faktenchecks) {
+            if (Test-Path (Join-Path $dir.FullName 'strukturiert/aussagen.json')) {
+              Write-Host "Build-Factcheck: $($dir.Name)"
+              ./scripts/Build-Factcheck.ps1 -VideoId $dir.Name
+              ./scripts/Build-Factcheck.ps1 -VideoId $dir.Name -Check
+            }
+          }
+
+      # Test-Factcheck und Test-Publication prüfen auch den Git-Index, daher zuerst vormerken.
+      - name: Erzeugte Artefakte vormerken
+        run: git add -A faktenchecks
+
+      - name: Faktencheck-Tests
+        shell: pwsh
+        run: ./scripts/Test-Factcheck.ps1
+
+      - name: Publikationsprüfung
+        shell: pwsh
+        run: ./scripts/Test-Publication.ps1
+
+      - name: Zurückschreiben
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --cached --quiet; then
+            echo "Keine Artefaktänderung."
+          else
+            git diff --cached --stat
+            git commit -m "Artefakte mit Build-Factcheck.ps1 erzeugt (Workflow 'Artefakte erzeugen')"
+            git push origin "HEAD:${GITHUB_REF_NAME}"
+          fi
