@@ -209,7 +209,8 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
 .dist span:last-child { border-radius: 0 4px 4px 0; }
 .dist-tip {
   position: fixed; z-index: 20; pointer-events: none; background: var(--text); color: var(--bg);
-  font-size: .82rem; padding: 6px 10px; border-radius: 6px; white-space: nowrap; box-shadow: var(--shadow);
+  font-size: .82rem; line-height: 1.45; padding: 7px 10px; border-radius: 6px; white-space: normal; overflow-wrap: break-word;
+  max-width: min(340px, calc(100vw - 16px)); box-shadow: var(--shadow);
 }
 .legend { display: flex; flex-wrap: wrap; gap: 6px 14px; padding: 0; margin: 8px 0 0; list-style: none; font-size: .85rem; color: var(--text-2); }
 .legend li { display: flex; align-items: center; gap: 6px; }
@@ -555,7 +556,7 @@ button.rhet-chip:hover { background: var(--surface); }
 /* Faktenampel (site/ampel.js): Gesamteinschätzung je Video, Bedeutung steht immer zusätzlich als Text. */
 .ampel { display: flex; align-items: center; gap: 12px; border: 1px solid var(--line); border-radius: var(--radius-s); background: var(--surface-2); padding: 8px 12px; margin: 10px 0; }
 .ampel-lights { display: inline-flex; flex-direction: column; gap: 3px; background: #24231f; border-radius: 8px; padding: 4px; flex: none; }
-.ampel-lights i { display: block; width: 12px; height: 12px; border-radius: 50%; background: #4a4842; }
+.ampel-lights i { display: block; width: 15px; height: 15px; border-radius: 50%; background: #4a4842; }
 .ampel-rot .ampel-lights i:nth-child(1) { background: #e34948; box-shadow: 0 0 6px #e34948; }
 .ampel-gelb .ampel-lights i:nth-child(2) { background: #f2b300; box-shadow: 0 0 6px #f2b300; }
 .ampel-gruen .ampel-lights i:nth-child(3) { background: #1fa040; box-shadow: 0 0 6px #1fa040; }
@@ -576,3 +577,8 @@ button.rhet-chip:hover { background: var(--surface); }
 .ampel-big .ampel-title { font-size: 1.1rem; }
 .ampel-list { display: grid; gap: 10px; padding: 0; list-style: none; }
 .ampel-list li .ampel { margin: 0 0 4px; }
+.ampel-overview { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); }
+.ampel-row { display: flex; flex-direction: column; gap: 6px; height: 100%; padding: 12px; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); color: inherit; text-decoration: none; }
+.ampel-row:hover { border-color: var(--line-strong); }
+.ampel-row .ampel { margin: 0; }
+.ampel-row-title { display: flex; flex-direction: column; gap: 2px; }

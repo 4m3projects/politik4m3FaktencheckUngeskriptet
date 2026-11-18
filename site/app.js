@@ -131,7 +131,9 @@ function moveTip(e) {
   if (!state.tip) return;
   const w = state.tip.offsetWidth;
   state.tip.style.left = Math.min(window.innerWidth - w - 8, Math.max(8, e.clientX - w / 2)) + 'px';
-  state.tip.style.top = (e.clientY - 40) + 'px';
+  /* Mehrzeilige Hinweise: über dem Mauszeiger, bei zu wenig Platz darunter. */
+  const h = state.tip.offsetHeight;
+  state.tip.style.top = (e.clientY - h - 12 >= 8 ? e.clientY - h - 12 : Math.min(window.innerHeight - h - 8, e.clientY + 18)) + 'px';
 }
 function hideTip() { if (state.tip) state.tip.hidden = true; }
 
@@ -510,6 +512,21 @@ function ampelView(v, variant = '') {
   </div>`;
 }
 
+/* Übersicht auf der Startseite: alle Videos mit ihrer Faktenampel, Originale zuerst. */
+function ampelOverview(all) {
+  const list = all.filter(v => v.data).sort((a, b) => (a.video?.role === 'reaction') - (b.video?.role === 'reaction'));
+  if (!list.length) return '';
+  const item = v => {
+    const role = v.video?.role === 'reaction' ? `Reaktion von ${v.video.channel}` : (v.video?.channel || v.meta?.Kanal && stripMd(v.meta.Kanal) || 'Faktencheck');
+    return `<li><a class="ampel-row" href="#/video/${esc(v.id)}">${ampelView(v, 'big')}<span class="ampel-row-title"><strong>${esc(v.video?.title || v.title)}</strong><span class="small">${esc(role)}</span></span></a></li>`;
+  };
+  return `<section class="section" id="ampel-uebersicht" aria-labelledby="h-ampel">
+      <div class="section-head"><h2 id="h-ampel">Faktenampel: alle Interviews auf einen Blick</h2>
+      <p>Grün, Gelb oder Rot ergibt sich nur aus dem Anteil widerlegter oder irreführender Aussagen unter den bereits entschiedenen Tatsachenbehauptungen. Grau heißt: noch nicht bewertbar. Die Ampeln der Reaktionsvideos stehen auf der Seite des jeweiligen Interviews. <a href="#/methodik">So wird gerechnet</a></p></div>
+      <ul class="ampel-overview">${list.map(item).join('')}</ul>
+    </section>`;
+}
+
 async function pageHome() {
   const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   /* Hauptübersicht: nur Originalinterviews; Reaktionen erscheinen bei ihrem Original. */
@@ -527,10 +544,10 @@ async function pageHome() {
     const scope = v.data?.scope;
     return `<a class="card" href="#/video/${esc(v.id)}">
       ${thumbImg(v.id, v.video?.videoUrl || scope?.videoUrl, 'card-thumb')}
+      ${ampelView(v)}
       <div class="claim-top">${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
       ${v.meta.Status ? `<span class="small">${esc(v.meta.Status)}</span>` : ''}</div>
       <h3>${esc(v.title)}</h3>
-      ${ampelView(v)}
       <ul class="facts">${videoFacts(v)}</ul>
       ${claims.length ? `<div>${distribution(claims)}</div>
         <p class="meta">${claims.length} strukturierte Aussagen · ${claims.filter(c => c.status === 'Abgeschlossen').length} abgeschlossen${scope && scope.totalLegacyPoints ? ` · ${scope.totalLegacyPoints - scope.unmigratedLegacyPoints} von ${scope.totalLegacyPoints} Prüfpunkten des Erststands strukturiert` : ''}</p>`
@@ -560,6 +577,7 @@ async function pageHome() {
     </div>
   </section>
   <div class="wrap">
+    ${ampelOverview(shown)}
     <section class="section" aria-labelledby="h-hintergrund">
       <div class="section-head"><h2 id="h-hintergrund">Warum wir „ungeskriptet“ prüfen</h2></div>
       <p>Die Frage nach der Verantwortung für Tatsachenbehauptungen in Interviews wurde 2026 öffentlich diskutiert: Nach einem Interview mit Björn Höcke wies die Landesanstalt für Medien NRW in einem Hinweisschreiben darauf hin, dass eine nachweislich falsche Aussage über eine Losung der SA im Interview nicht eingeordnet worden war. Die Behörde ordnet „ungeskriptet by Ben“ als journalistisch-redaktionelles Angebot ein und verweist auf die journalistischen Sorgfaltspflichten.</p>
