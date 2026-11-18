@@ -683,7 +683,8 @@ async function route() {
         b.innerHTML = `Erzeugt am ${esc(deDate(state.index.generated))} aus Commit <a href="${esc(repoUrl())}/commit/${esc(state.index.commit)}" rel="noopener noreferrer" target="_blank">${esc(state.index.commit.slice(0, 7))}</a>`;
       }
       document.getElementById('repo-link').href = repoUrl();
-      document.getElementById('license-link').href = blobUrl('LICENSE');
+      const licenseLink = document.getElementById('license-link');
+      if (licenseLink) licenseLink.href = blobUrl('LICENSE');
     }
     if (parts[0] === 'video' && parts[1]) {
       if (parts[2] === 'video') return await pageVideoSync(parts[1]);
