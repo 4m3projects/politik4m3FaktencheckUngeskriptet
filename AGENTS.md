@@ -11,6 +11,10 @@ Baue eine eigenständige, möglichst neutrale, faktenorientierte Prüfumgebung f
 
 **Pflichtlektüre für alle Agenten:** [docs/AGENTEN_RHETORIK.md](docs/AGENTEN_RHETORIK.md). Die bestehende sachliche Faktenprüfung (einschließlich Meinung/Prognose und aller bisherigen Kategorien) bleibt unverändert. Zusätzlich können Aussagen mit begründeten Rhetorik-Hinweisen wie Abwertung, Ironie oder möglichem Tunnelblick versehen werden. Rhetorische Hinweise verändern weder Wahr/Falsch-Bewertungen noch bestehende Fehlerstatistiken und dürfen nicht automatisch als Fehlerpunkte zählen.
 
+## Prüfstatus: noch nicht geprüft ≠ nicht überprüfbar ≠ nicht belegbar
+
+**Pflichtlektüre für alle Agenten:** [docs/AGENTEN_PRUEFSTATUS.md](docs/AGENTEN_PRUEFSTATUS.md). `Offen` heißt ausschließlich „noch nicht geprüft“ und ist ein Arbeitsauftrag, der nachgearbeitet wird. `Nicht überprüfbar` ist ein eigener, abschließender Status nur für Aussagen ohne grundsätzlich öffentliche Prüfgrundlage. `Nicht ausreichend belegbar` ist ein Urteil nach tatsächlicher Recherche mit gelesenen Quellen. Fehlender Zugang, fehlende Zeit oder eine nicht kontrollierte Originalstelle sind nie ein Ergebnis: die Aussage bleibt `Offen`. Bei jeder Arbeit an einem Video zuerst die offenen Aussagen bearbeiten und bestehende Einstufungen ohne Urteil gegen die Regel prüfen.
+
 ## Faktenampel
 
 Die Gesamteinschätzung je Video (Ampel) wird **ausschließlich berechnet**, zentral in `site/ampel.js`, aus den vorhandenen Einzelbewertungen. Agenten setzen, speichern oder überschreiben keine Ampel und ändern keine Einzelbewertung, um eine Ampelfarbe zu erreichen. Änderungen an Schwellen oder Regel nur in `site/ampel.js` mit Tests und Dokumentation in [docs/AMPEL.md](docs/AMPEL.md) sowie in der Methodik der Webseite. Darstellungshinweise fließen nie ein; vorläufige Prüfungen bleiben „Noch in Prüfung“.

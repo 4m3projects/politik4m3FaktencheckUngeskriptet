@@ -1,6 +1,6 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
@@ -58,7 +58,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein Restaurantbesuch zu zweit mit Getränken ist kaum noch unter 60 Euro möglich.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -87,7 +87,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -103,7 +103,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Am Wohnort des Gastes haben zuletzt zwei Gaststätten geschlossen, weil Gäste wegen der Preise ausblieben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -132,7 +132,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -148,7 +148,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Moderator bekommt in den verbliebenen Restaurants häufig keinen Tisch, weil sie voll sind.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -177,7 +177,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -193,7 +193,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Gastronomen berichten, Gäste bestellten günstigere Gerichte und weniger Getränke; der Ertrag je Tisch sinke bei gleichen Kosten deutlich.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -222,7 +222,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -238,7 +238,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Auch beim Versandhändler habe sich der durchschnittliche Warenkorb vermutlich nicht positiv entwickelt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -267,7 +267,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Restaurantpreis, örtliche Schließungen, persönliche Tischerfahrung, berichtetes Bestellverhalten und vermutete Warenkorbentwicklung getrennt. Anekdoten werden nicht zu einer Branchenstatistik verallgemeinert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -374,7 +374,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** In schlechteren Zeiten verlagerten Konsumenten Ausgaben von Restaurantbesuchen hin zu Whisky für den Genuss zu Hause; das habe sich im Konjunkturzyklus wiederholt gezeigt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -403,7 +403,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Indikatorthese des Moderators, Trend zu weniger Alkohol, behauptetes Ausweichverhalten, Preisempfehlung und Konjunkturschluss getrennt. Wertungen und Schlussfolgerungen sind als Meinung geführt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -578,13 +578,13 @@ Frueherer Suchbereich: [01:17:29–01:18:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Mengenanteile nach Vertriebsweg stammen meist aus kommerziellen Handelspanels. Eine solche Quelle wurde nicht gelesen. Unklar bleibt außerdem, ob Spirituosen oder alle alkoholischen Getränke gemeint sind.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Mengenanteile nach Vertriebsweg stammen meist aus kommerziellen Handelspanels. Eine solche Quelle wurde nicht gelesen. Unklar bleibt außerdem, ob Spirituosen oder alle alkoholischen Getränke gemeint sind.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -623,13 +623,13 @@ Frueherer Suchbereich: [01:17:29–01:18:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Discounterpreise ändern sich laufend; ohne Datum und Produkt kann ein Einzelpreis nicht nachgeprüft werden. Der eigene Preisbereich des Händlers ist eine Sortimentsangabe. Keine Preisquelle gelesen.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Discounterpreise ändern sich laufend; ohne Datum und Produkt kann ein Einzelpreis nicht nachgeprüft werden. Der eigene Preisbereich des Händlers ist eine Sortimentsangabe. Keine Preisquelle gelesen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -690,7 +690,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Durch den Logistikdienstleister sind Lager- und Packkosten weitgehend variabel; die eigene Halle ist abbezahlt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -719,7 +719,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -735,7 +735,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Das Unternehmen reduzierte Personal bislang nur über natürliche Fluktuation wie Ruhestand und Wechsel und senkte so seine sprungfixen Kosten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -781,7 +781,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -865,13 +865,13 @@ Frueherer Suchbereich: [01:18:00–01:21:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Rechnerisch trifft zu: Bleibt der nominale Umsatz bei steigenden Kosten gleich, schrumpft die Marge. Der Gast schränkt selbst ein, dass ein Ausgleich aus der Marge kommen kann. Produktivität, Preisgestaltung und vorhandene Marge können Lohnerhöhungen dennoch ermöglichen; eine Definition schließt das nicht aus. Ohne gelesene Lohn- und Ertragsdaten keine Endbewertung der Verallgemeinerung.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Rechnerisch trifft zu: Bleibt der nominale Umsatz bei steigenden Kosten gleich, schrumpft die Marge. Der Gast schränkt selbst ein, dass ein Ausgleich aus der Marge kommen kann. Produktivität, Preisgestaltung und vorhandene Marge können Lohnerhöhungen dennoch ermöglichen; eine Definition schließt das nicht aus. Ohne gelesene Lohn- und Ertragsdaten keine Endbewertung der Verallgemeinerung.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -956,13 +956,13 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Allgemeine Standortbehauptung. Energiepreise und Sozialversicherungsbeiträge sind an amtlichen Daten prüfbar; dazu wurde in dieser Prüfung keine Quelle gelesen.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Allgemeine Standortbehauptung. Energiepreise und Sozialversicherungsbeiträge sind an amtlichen Daten prüfbar; dazu wurde in dieser Prüfung keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -1001,13 +1001,13 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Verallgemeinerung über Investitionsentscheidungen. Prüfbar wären Direktinvestitionsdaten der Bundesbank und Unternehmensbefragungen; keine solche Quelle gelesen.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Verallgemeinerung über Investitionsentscheidungen. Prüfbar wären Direktinvestitionsdaten der Bundesbank und Unternehmensbefragungen; keine solche Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -1095,13 +1095,13 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. STIHL fertigt Sägeketten bereits seit 1974 in Wil; laut eigener Zeitleiste wurde die Kettenfertigung damals aus Waiblingen verlagert und seither ausgebaut (zweites Werk 2008, Erweiterungen bis 2021). Das ist kein Beleg für einen neuen, krisenbedingten Wegzug. Eine jüngere Standortentscheidung zugunsten der Schweiz wurde auf den gelesenen Seiten nicht gefunden, ist damit aber nicht ausgeschlossen. Die Verallgemeinerung auf viele Unternehmen ist ungeprüft.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. STIHL fertigt Sägeketten bereits seit 1974 in Wil; laut eigener Zeitleiste wurde die Kettenfertigung damals aus Waiblingen verlagert und seither ausgebaut (zweites Werk 2008, Erweiterungen bis 2021). Das ist kein Beleg für einen neuen, krisenbedingten Wegzug. Eine jüngere Standortentscheidung zugunsten der Schweiz wurde auf den gelesenen Seiten nicht gefunden, ist damit aber nicht ausgeschlossen. Die Verallgemeinerung auf viele Unternehmen ist ungeprüft.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -1146,13 +1146,13 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Ein Produktivitätsvergleich hängt von Kennzahl (je Stunde oder je Beschäftigtem), Währungsumrechnung und Branche ab. Keine OECD- oder Eurostat-Daten gelesen; der Kausalschluss auf Rentabilität berücksichtigt Lohn- und Kostenniveau nicht.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Ein Produktivitätsvergleich hängt von Kennzahl (je Stunde oder je Beschäftigtem), Währungsumrechnung und Branche ab. Keine OECD- oder Eurostat-Daten gelesen; der Kausalschluss auf Rentabilität berücksichtigt Lohn- und Kostenniveau nicht.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -1213,7 +1213,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein schließender Unternehmer hat im Normalfall genug Geld für den Rest seines Lebens, seine Beschäftigten dagegen nicht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1242,7 +1242,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Wertende Gleichsetzung von Insolvenz und schlechter Unternehmensführung sowie die Verallgemeinerung zur Altersvorsorge von Unternehmern getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1470,13 +1470,13 @@ Frueherer Suchbereich: [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. An Verbraucherpreisdaten prüfbar; keine solche Quelle gelesen. Zeitraum und Vergleichsbasis fehlen.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. An Verbraucherpreisdaten prüfbar; keine solche Quelle gelesen. Zeitraum und Vergleichsbasis fehlen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Wahlergebnis, kausale Wahlmotivthese und Energiepreisbelastung getrennt. Leistungs- und Anreizaussagen sind weitere Vorkommen der bestehenden Aussagen A0012 und A0013.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -1492,7 +1492,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Jasmin Kosubek war kürzlich zu Besuch, gemeinsam wurde ein Video gedreht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1521,7 +1521,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1622,13 +1622,13 @@ Frueherer Suchbereich: [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Erinnertes Zitat mit ausdrücklich unsicherem Namen. Weder Person noch Äußerung wurden in einer Quelle gefunden oder gelesen. Keine Bewertung; die anschließende Kritik am Amtsträger ist eine Wertung.
+Noch nicht geprüft – Behauptung über Dritte oder Ursachen ohne Beleg. Erinnertes Zitat mit ausdrücklich unsicherem Namen. Weder Person noch Äußerung wurden in einer Quelle gefunden oder gelesen. Keine Bewertung; die anschließende Kritik am Amtsträger ist eine Wertung.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -1712,13 +1712,13 @@ Frueherer Suchbereich: [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. An Unternehmensstatistik prüfbar (Anteil an Wertschöpfung und Beschäftigung); keine solche Quelle gelesen. Der Begriff Kern ist zudem wertend.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. An Unternehmensstatistik prüfbar (Anteil an Wertschöpfung und Beschäftigung); keine solche Quelle gelesen. Der Begriff Kern ist zudem wertend.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -1757,13 +1757,13 @@ Frueherer Suchbereich: [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – Behauptung über Dritte oder Ursachen ohne Beleg. Allgemeine Beschreibung ohne benannten Zulieferer. Einzelne Abbaumeldungen wären prüfbar, belegen aber nicht den behaupteten Ursachenweg für alle Betriebe. Keine Quelle gelesen.
+Noch nicht geprüft – Behauptung über Dritte oder Ursachen ohne Beleg. Allgemeine Beschreibung ohne benannten Zulieferer. Einzelne Abbaumeldungen wären prüfbar, belegen aber nicht den behaupteten Ursachenweg für alle Betriebe. Keine Quelle gelesen.
 
 Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -1936,7 +1936,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Etwa ein Drittel des Umsatzes geht als Steuern an den Staat.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1965,7 +1965,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Abgeführte Steuerarten, behauptete Drittelquote und Moderatorrechnung auf geschätzter Umsatzbasis getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1985,7 +1985,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Bei geschätzten 25 Millionen Euro Umsatz wären das sieben bis acht Millionen Euro Steuern pro Jahr.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2014,7 +2014,7 @@ Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständi
 
 Uebernahme: Abgeführte Steuerarten, behauptete Drittelquote und Moderatorrechnung auf geschätzter Umsatzbasis getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 

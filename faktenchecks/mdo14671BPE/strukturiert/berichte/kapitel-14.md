@@ -1,6 +1,6 @@
 # Kapitel 14: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine schwere Erkrankung einer nahestehenden Person habe Seibts gesundheitlichen Abbau zusätzlich belastet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -35,7 +35,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -53,7 +53,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibts Gewicht sei bei 1,66 Metern Körpergröße zeitweise auf 27 Kilogramm gefallen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -78,7 +78,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -96,7 +96,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nach einer Bewusstlosigkeit habe ihre Mutter den Rettungsdienst gerufen und Seibt sei intensivmedizinisch aufgenommen worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -121,7 +121,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -139,7 +139,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein Arzt habe Seibt auf der Intensivstation eine unmittelbar negative Überlebensprognose mitgeteilt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -164,7 +164,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -182,7 +182,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein Teil des Klinikpersonals habe sie wegen ihrer politischen Tätigkeit abgelehnt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -207,7 +207,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -225,7 +225,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein behandelnder Chefarzt habe nach Kenntnis eines früheren Podcasts ihre politische Haltung verstanden und sie unterstützt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -250,7 +250,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -268,7 +268,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die schwere Erkrankung habe insgesamt acht Wochen Krankenhausbehandlung und erneutes Gehtraining erforderlich gemacht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -293,7 +293,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -359,7 +359,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Klinik habe sie in den ersten Tagen unzureichend ernährt und dadurch Proteinmangel mit schweren Wassereinlagerungen verursacht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -384,7 +384,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -403,7 +403,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe während der Behandlung wiederholt sehr niedrige Blutzuckerwerte und Ohnmachten gehabt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -428,7 +428,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -446,7 +446,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nach der Entlassung habe sie innerhalb etwa eines halben Jahres deutlich Gewicht und Funktion wiedergewonnen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -471,7 +471,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -489,7 +489,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Erkrankung habe ihre politische Tätigkeit ungefähr zwei Jahre unterbrochen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -514,7 +514,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -532,7 +532,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Deutsche Nachrichtendienste hätten über Jahre ihre Telefonate und Messenger-Kommunikation überwacht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -596,7 +596,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -614,7 +614,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine anwaltliche Auskunftsanfrage habe gezeigt, dass der Verfassungsschutz seit 2019 Daten zu ihr führe.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -639,7 +639,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -657,7 +657,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein früherer US-Militärnachrichtendienstmitarbeiter sei 2023 in Deutschland stationiert gewesen und habe dort ihren Namen in Datenbanken gesehen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -682,7 +682,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -700,7 +700,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Deutsche Dienste hätten bereits 2020 unter der Biden-Regierung nach Seibts MAGA-Kontakten gefragt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -738,7 +738,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -756,7 +756,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** In Deutschland biete keiner der genannten Messenger Schutz vor staatlichem Zugriff.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -781,7 +781,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -799,7 +799,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Wegen besonders schwachen deutschen Datenschutzes hätten US-Dienste sogar Ausnahmen benötigt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -824,7 +824,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -842,7 +842,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Informant habe Details privater Gespräche aus 2023 gekannt, die nur durch Überwachung zugänglich gewesen seien.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -867,7 +867,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -885,7 +885,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Informant habe seine Angaben unterschrieben bestätigt und dadurch persönliche Schwierigkeiten riskiert oder erlitten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -910,7 +910,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 

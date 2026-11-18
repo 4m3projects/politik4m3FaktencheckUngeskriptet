@@ -1,6 +1,6 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
@@ -70,7 +70,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein anderer Anbieter habe whisky.de etwa acht Wochen vor dem eigenen Registrierungsversuch angemeldet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -99,7 +99,7 @@ Grundlage der Bewertung: Redaktionelle Differenzierung des übernommenen Erststa
 
 Uebernahme: Übernommen: die Acht-Wochen-Angabe; zugeordnet: der bisher ausdrücklich nicht belegte Registrierungsabstand.
 
-Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -230,7 +230,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Kauf von whisky.com habe ungefähr Rang 18 unter den teuersten Domainverkäufen erreicht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -259,7 +259,7 @@ Grundlage der Bewertung: Redaktionelle Differenzierung des übernommenen Erststa
 
 Uebernahme: Übernommen: die ungefähre Rangposition; zugeordnet: die bisherigen Einschränkungen zu Rangdefinition und Stichtag.
 
-Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -276,7 +276,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Händler erreicht nach eigener Auswertung ungefähr ein Viertel des betrachteten Premiumsegments ab 50 Euro je Flasche.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -305,7 +305,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Segmentanteil und Anteil interessierter Einwohner getrennt; der begrifflich unklare Bevölkerungsbezug bleibt erhalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -321,7 +321,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Zielgruppe für solche hochwertigen Whiskys umfasst nach der Gesprächsschätzung rund 0,2 Prozent der Bevölkerung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -350,7 +350,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Segmentanteil und Anteil interessierter Einwohner getrennt; der begrifflich unklare Bevölkerungsbezug bleibt erhalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -366,7 +366,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die aktuell genutzte Lagerfläche liegt nach der Erinnerung ungefähr zwischen 600 und 800 Quadratmetern.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -395,7 +395,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -412,7 +412,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Warenbestand umfasst nach der Darstellung einige Hunderttausend Whiskyflaschen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -441,7 +441,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -457,7 +457,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Lagerwert wird im Gespräch grob mit fünf bis sechs Millionen angegeben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -486,7 +486,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -548,7 +548,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Moderator vermutet einen Jahresumsatz von ungefähr 25 Millionen Euro.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -577,7 +577,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -643,7 +643,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Zum Gesprächszeitpunkt wird das Unternehmen als etwa 32 Jahre alt beschrieben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -672,7 +672,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -735,7 +735,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der frühe Kundenaufbau erfolgte über Kleinanzeigen in mehreren überregionalen Zeitungen; eine Anzeige kostete der Erinnerung nach etwa 200 Euro.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -764,7 +764,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -780,7 +780,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Aus wiederkehrenden Bestellungen wurde früh ein Jahresumsatz von einer Million hochgerechnet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -809,7 +809,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -829,7 +829,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die erste eingestellte Mitarbeiterin verfügte nach der Erinnerung über gute Englischkenntnisse und erwies sich als wichtige Unterstützung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -858,7 +858,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -875,7 +875,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Gründerin war nach der Darstellung zur Industriekauffrau ausgebildet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -904,7 +904,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -920,7 +920,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Whisky wurde gegenüber Olivenöl nach der Erinnerung vor allem wegen geringerer Haltbarkeitsrisiken als Handelsware ausgewählt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -966,7 +966,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Gründung, Firmenalter, Startbestand, Anzeigen, frühe Umsatzrechnung, Sortimentsentscheidung und Personalgeschichte getrennt. Unnötige private Familiendetails der Mitarbeiterin werden nicht reproduziert.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1094,7 +1094,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Moderator beschreibt die Pflege chargenbezogener Haltbarkeitsangaben im Onlineshop als zusätzlichen Aufwand beim Olivenölhandel.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1117,13 +1117,13 @@ Frueherer Suchbereich: [00:42:09–00:43:12](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Die Textstelle lässt offen, ob eine gesetzliche Vorabpflicht oder eine selbst gewählte Shoporganisation gemeint ist. Artikel 14 nimmt das Datum nach Artikel 9 Absatz 1 Buchstabe f von der verpflichtenden Vorabinformation im Fernabsatz aus; bei Lieferung müssen die Pflichtangaben vorliegen. Deshalb wird dem Moderator keine eindeutige falsche Rechtsbehauptung unterstellt. Der tatsächliche betriebliche Aufwand bleibt ohne Prozessunterlagen offen.
+Nicht überprüfbar – mehrdeutige Aussage; Quellen gelesen, ohne eindeutige Lesart keine Bewertung. Die Textstelle lässt offen, ob eine gesetzliche Vorabpflicht oder eine selbst gewählte Shoporganisation gemeint ist. Artikel 14 nimmt das Datum nach Artikel 9 Absatz 1 Buchstabe f von der verpflichtenden Vorabinformation im Fernabsatz aus; bei Lieferung müssen die Pflichtangaben vorliegen. Deshalb wird dem Moderator keine eindeutige falsche Rechtsbehauptung unterstellt. Der tatsächliche betriebliche Aufwand bleibt ohne Prozessunterlagen offen.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Lagerfähigkeit, Kennzeichnung und behauptete Entsorgungspflicht getrennt. Mindesthaltbarkeit ist keine Garantie unveränderter Qualität und kein Verbrauchsdatum.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1284,7 +1284,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Von sechs bisherigen Lagerbeschäftigten konnten drei nach dem Logistikwechsel weiterbeschäftigt werden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1313,7 +1313,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1329,7 +1329,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der DHL-Standort sollte später aufgegeben werden; das war Anlass für die Suche nach Ersatzlogistik.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1358,7 +1358,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1424,7 +1424,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Am eigenen Wohnort gab es damals kaum geeignete Mietflächen; deshalb wurde vor Ort selbst gebaut.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1453,7 +1453,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1469,7 +1469,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Horst Lüning übernahm beim Hallenbau als Bauherr erhebliche Teile von Organisation und Bauüberwachung, unterstützt durch einen Architekten aus der Familie.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1498,7 +1498,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1560,7 +1560,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Heute arbeiten ungefähr zwanzig Personen in den eigenen Büroräumen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1589,7 +1589,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Bauten, Fremdlogistik, Personalwechsel, Standortfolge und Beschäftigtenzahl getrennt; abweichende Flächen und Datierungen nicht eingeebnet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1606,7 +1606,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Beim Geschäftsstart habe es noch kein Internet gegeben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1629,13 +1629,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. CERN dokumentiert das Web von 1989/90 und die öffentliche Softwarefreigabe 1993. Die verkürzte Gesprächsform kann jedoch auf den eigenen frühen Versand ohne Webshop zielen. Allgemeine technische Existenz und Nutzung durch diesen Betrieb sind verschieden. Ohne eindeutige Klärung der gemeinten Reichweite wird aus der Kurzform kein abgeschlossenes Falsch- oder Irreführungsurteil abgeleitet.
+Nicht überprüfbar – mehrdeutige Aussage; Quellen gelesen, ohne eindeutige Lesart keine Bewertung. CERN dokumentiert das Web von 1989/90 und die öffentliche Softwarefreigabe 1993. Die verkürzte Gesprächsform kann jedoch auf den eigenen frühen Versand ohne Webshop zielen. Allgemeine technische Existenz und Nutzung durch diesen Betrieb sind verschieden. Ohne eindeutige Klärung der gemeinten Reichweite wird aus der Kurzform kein abgeschlossenes Falsch- oder Irreführungsurteil abgeleitet.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1701,7 +1701,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die frühe Website wurde vom Gast selbst nach eigener Unix-Erfahrung auf einer Sun-Workstation erstellt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1730,7 +1730,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1770,13 +1770,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Ob Palettenreduktion bei der damaligen Implementierung wie geschildert wirkte, hängt vom Bildformat und Encoder ab. Eine Verringerung ähnlicher Farben allein beweist keine bestimmte Kompressionsrate. Das konkrete frühere Bildmaterial wurde nicht untersucht.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Ob Palettenreduktion bei der damaligen Implementierung wie geschildert wirkte, hängt vom Bildformat und Encoder ab. Eine Verringerung ähnlicher Farben allein beweist keine bestimmte Kompressionsrate. Das konkrete frühere Bildmaterial wurde nicht untersucht.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -1792,7 +1792,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der erste Provider berechnete in frühen Monaten ungefähr 500 DM für ausgeliefertes Datenvolumen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1821,7 +1821,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1837,7 +1837,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein späteres US-Hostingangebot umfasste eine Unteradresse und unbegrenzten Traffic für 60 US-Dollar monatlich.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1866,7 +1866,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1882,7 +1882,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein gemeinsam programmiertes frühes Shopsystem bestand aus ungefähr tausend Zeilen und nutzte Unix-Werkzeuge.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1911,7 +1911,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1974,7 +1974,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Unternehmensshop nutzte später Schlund+Partner und zuletzt ungefähr fünf bis sieben eigene gestaffelte Server.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2003,7 +2003,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2020,7 +2020,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Betrieb war nach eigener Erfahrung DDoS-Angriffen und einer Bitcoin-Lösegeldforderung ausgesetzt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2049,7 +2049,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2069,7 +2069,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Zusätzliche eigene Hardware führte im geschilderten Erpressungsfall schließlich zum Ende des Angriffs.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2098,7 +2098,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2161,7 +2161,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Angreifer können gemietete Botnetzleistung einsetzen; endet ihr Budget, bricht der Angriff typischerweise ab.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2184,13 +2184,13 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Der Gesprächsablauf verbindet eine allgemeine Möglichkeit mit einer konkreten wirtschaftlichen Erklärung des Endes. Die gelesenen Texte bestätigen Botnetzangriffe, aber nicht Budget oder Mietverhältnis in diesem Fall. Ein universeller Ablauf wird daraus nicht abgeleitet.
+Nicht überprüfbar – mehrdeutige Aussage; Quellen gelesen, ohne eindeutige Lesart keine Bewertung. Der Gesprächsablauf verbindet eine allgemeine Möglichkeit mit einer konkreten wirtschaftlichen Erklärung des Endes. Die gelesenen Texte bestätigen Botnetzangriffe, aber nicht Budget oder Mietverhältnis in diesem Fall. Ein universeller Ablauf wird daraus nicht abgeleitet.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2259,7 +2259,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Betrieb hat Cloudflare wegen zunehmender Angriffe vorgeschaltet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2305,7 +2305,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2325,7 +2325,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Kaufpreis von whisky.de ist nach Aussage des Gastes vertraglich vertraulich.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2354,7 +2354,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2370,7 +2370,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für whisky.com gab es nach der Erinnerung schon 1995 eine erste Kaufanfrage.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2399,7 +2399,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2419,7 +2419,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der frühere Eigentümer von whisky.com betrieb nach der Darstellung einen frühen Handel mit Stadt- und anderen wertvollen Domainnamen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2448,7 +2448,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2516,7 +2516,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** In der frühen Webphase konnten auch fremde Unternehmensmarken als noch freie Domainnamen registriert werden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2545,7 +2545,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2561,7 +2561,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Früher erschien whisky.de bei einer einfachen Produktsuche sehr weit oben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2590,7 +2590,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2607,7 +2607,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die durch den Domainnamen gewonnenen Besuche machten bezahlte Google-Suchwerbung für den Betrieb damals entbehrlich.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2636,7 +2636,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2653,7 +2653,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die generische Domain rentierte sich unmittelbar für den Betrieb.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2682,7 +2682,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2792,7 +2792,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Werbebuchungen großer Spirituosenunternehmen auf dem Portal tragen zur Rentabilität der Domain bei.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2821,7 +2821,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2928,7 +2928,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der geschilderte Wandel der Suche führte beim Unternehmen erst zu Stagnation, die durch den eigenen Informationsumfang aufgefangen werden konnte.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2957,7 +2957,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Historisches Suchranking, Werbeausgaben, Rentabilität, Internationalisierung und Werbevermarktung getrennt; heutige Google-Hilfe ist kein historisches Analytics-Archiv.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2974,7 +2974,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Gast besuchte und fotografierte insgesamt 167 Brennereien.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3003,7 +3003,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3020,7 +3020,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die eigene Brennerei-Fotodatenbank sei umfangreicher als Wikipedia.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3049,7 +3049,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3066,7 +3066,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Fotoreisen begannen 1994 zunächst mit dem Ziel einer später verworfenen CD-Veröffentlichung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3095,7 +3095,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3112,7 +3112,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Mitbewerber übernahmen nach der Darstellung unerlaubt Fotos; das Unternehmen ging anwaltlich dagegen vor.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3141,7 +3141,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Reiseumfang, Informationsbestand, Vermarktung, Rechtefälle und spätere Recherchearbeit getrennt; persönlicher Umfang wird nicht aus dem Vorhandensein einer Website abgeleitet.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3297,7 +3297,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für die besuchten Brennereien bestehen heute weitergehende Fotografiebeschränkungen als bei früheren Reisen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3326,7 +3326,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3409,7 +3409,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die beschriebenen Fotoeinschränkungen könnten auf EU-Vorschriften zurückgehen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3438,7 +3438,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3455,7 +3455,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Um das Jahr 2000 seien alle Brennereien zu Chemiewerken umklassifiziert worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3484,7 +3484,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3504,7 +3504,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die damalige Regulierung habe den Brennereien Investitionen von mehreren Millionen in den Brandschutz auferlegt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3533,7 +3533,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Technische Gefahr, mögliche betriebliche Fotoeinschränkung, pauschale Rechtsbehauptung und historische Regulierungsbehauptungen getrennt. Rückfrage des Moderators ist keine festgestellte EU-Regel.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3602,7 +3602,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein Regelungsvorhaben sollte den Transport von Whisky in Holzfässern wegen deren Brennbarkeit untersagen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3631,7 +3631,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3647,7 +3647,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Schottischer Protest verhinderte das behauptete Verbot; deshalb blieb der Fasstransport zulässig.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3676,7 +3676,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3692,7 +3692,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Bei früheren Brennereireisen erledigte der Gast häufig etwa drei Betriebsbesuche pro Tag und empfand die Reisen als arbeitsintensiv.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3738,7 +3738,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3754,7 +3754,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Bei den eigenen Besuchen 1994/95 standen Produktion und nicht touristische Verkostungsangebote im Vordergrund.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3783,7 +3783,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3800,7 +3800,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Steuerliche Kontrolle erfasste die Alkoholmengen so streng, dass freie Proben aus den kontrollierten Beständen damals kaum möglich waren.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3823,13 +3823,13 @@ Frueherer Suchbereich: [01:04:00–01:09:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. HMRC verlangt heute Aufzeichnungen zu Mengen und Proben, kennt aber zugleich Mess- und Abfülltoleranzen sowie versteuerte Verkostungen. Das stützt einen Kontrollkern, beweist jedoch weder millilitergenaue Einzelaufsicht noch die behauptete Besuchspraxis 1994/95. Der aktuelle Handbuchstand liegt teils nach dem angegebenen Aufnahmetag.
+Nicht überprüfbar – mehrdeutige Aussage; Quellen gelesen, ohne eindeutige Lesart keine Bewertung. HMRC verlangt heute Aufzeichnungen zu Mengen und Proben, kennt aber zugleich Mess- und Abfülltoleranzen sowie versteuerte Verkostungen. Das stützt einen Kontrollkern, beweist jedoch weder millilitergenaue Einzelaufsicht noch die behauptete Besuchspraxis 1994/95. Der aktuelle Handbuchstand liegt teils nach dem angegebenen Aufnahmetag.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3852,7 +3852,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** In einer Brennerei wurde nach eigener Erinnerung aus einem nicht kontrollierten Fass probiert.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3881,7 +3881,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3946,7 +3946,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Moderator erinnert sich an eine anstrengende Foto-Produktionsreise für eine eigene Marke auf Mauritius beziehungsweise den Malediven.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3975,7 +3975,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4037,7 +4037,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Gast produzierte und verbreitete ein Poster mit den unterschiedlichen Brennblasen der Brennereien.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4066,7 +4066,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4128,7 +4128,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Das eigene Poster hing bei Forsyths sowie in weiteren Brennereien und hängt dort nach der Erinnerung weiterhin.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4157,7 +4157,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Besuchserfahrungen, Tourismusentwicklung, Steuerkontrolle, Berufsausbildung, Poster und ausdrücklich vermutetes Verhalten von Beschäftigten getrennt. Keine Unterstellung nachgewiesener Verfehlungen.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4219,7 +4219,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Betrieb erwirtschaftete vom ersten Verkaufstag an einen positiven Deckungsbeitrag.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4248,7 +4248,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4264,7 +4264,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die wirtschaftlichen Ergebnisse nahmen danach regelmäßig zu; nur einmal blieb Wachstum aus.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4293,7 +4293,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4309,7 +4309,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der erste Spatenstich für die eigene Halle fand am 11. September 2001 statt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4338,7 +4338,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4358,7 +4358,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Nach den Anschlägen vom September 2001 stagnierte die eigene Nachfrage für ungefähr zwei Monate.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4387,7 +4387,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4403,7 +4403,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die vorübergehende Geschäftsschwäche beruhte auf Angst und zurückhaltender Kaufstimmung nach den Anschlägen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4432,7 +4432,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Deckungsbeitrag, Ergebnisentwicklung, Wachstumspause, Datum des Baubeginns und vermutete Nachfrageursache getrennt. Umsatz, Gewinn und Deckungsbeitrag nicht gleichgesetzt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4494,7 +4494,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Pandemiephase brachte dem Unternehmen einen Zuwachs von ungefähr 40 Prozent.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4540,7 +4540,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4557,7 +4557,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Während pandemiebedingter Einschränkungen konnten Versandhandel und Paketauslieferung grundsätzlich weiterarbeiten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4603,7 +4603,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4620,7 +4620,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Geschlossene Freizeitangebote und Reisebeschränkungen verlagerten Nachfrage zu Whiskyvideos und heimischen Bestellungen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4649,7 +4649,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4805,7 +4805,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Sohn war bereits in der Pandemie stark beteiligt; der Vater erschien danach nur noch etwa einmal wöchentlich in einem Firmenvideo und betreute intern weiterhin Computeraufgaben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4834,7 +4834,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4851,7 +4851,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Das Büroteam arbeitete während der Umstellung von zu Hause; Familienangehörige blieben vor Ort.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4880,7 +4880,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4896,7 +4896,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die pandemiebedingte Umstellung verursachte erheblichen Zusatzaufwand im Betrieb.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4942,7 +4942,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -4958,7 +4958,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Nach der Pandemie ging das Geschäft wieder ungefähr auf das frühere Niveau zurück und stabilisierte sich zuletzt mit leichtem Wachstum.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -4987,7 +4987,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Pandemiebedingte Veränderung, Bezugsgröße, späterer Verlauf, Zuständigkeiten und Arbeitsorganisation getrennt. 25 Prozent werden weder als gesicherter Eigentums- noch als Arbeitszeitanteil ausgegeben.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -5004,7 +5004,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Moderator benutzt eine Bevölkerung von ungefähr achtzig Millionen als groben Rahmen für die deutsche Whisky-Zielgruppe.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -5029,7 +5029,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Zusätzlich im vollständig gelesenen Kapitel erfasster Inhalt; im Altpunktverzeichnis nicht eigenständig enthalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -5045,7 +5045,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Lieferanten hielten nach der Erfahrung des Gastes aus Gründen der Kapitalbindung zeitweise zu wenig von bestimmten Produkten vor.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -5070,7 +5070,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Zusätzlich im vollständig gelesenen Kapitel erfasster Inhalt; im Altpunktverzeichnis nicht eigenständig enthalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -5086,7 +5086,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Händler hält langsam drehende Artikel nach eigener Darstellung zum Teil über mehrere Jahre und verkauft regelmäßig schwer absetzbare Bestände.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -5111,7 +5111,7 @@ Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automa
 
 Uebernahme: Zusätzlich im vollständig gelesenen Kapitel erfasster Inhalt; im Altpunktverzeichnis nicht eigenständig enthalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 

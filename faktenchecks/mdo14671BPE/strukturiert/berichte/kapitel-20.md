@@ -1,6 +1,6 @@
 # Kapitel 20: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -52,7 +52,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt sei politisch nicht mit russischen Funktionsträgern verbunden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -77,7 +77,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -114,13 +114,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Die Textstelle kann einen persönlichen Vorsatz und eine allgemeine Erwartung ausdrücken. Ob zusätzlich eine rechtliche Voraussetzung behauptet wird, ist ohne Originalkontrolle nicht eindeutig. Die gelesene Asylnorm enthält keinen Einbürgerungseid; das allein widerlegt den persönlichen Vorsatz nicht.
+Noch nicht geprüft – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Die Textstelle kann einen persönlichen Vorsatz und eine allgemeine Erwartung ausdrücken. Ob zusätzlich eine rechtliche Voraussetzung behauptet wird, ist ohne Originalkontrolle nicht eindeutig. Die gelesene Asylnorm enthält keinen Einbürgerungseid; das allein widerlegt den persönlichen Vorsatz nicht.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -130,8 +130,6 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Offene Fragen und Unsicherheiten
 
 - Persönlichen Vorsatz, politische Erwartung und behauptete rechtliche Voraussetzung an der Originalstelle sicher unterscheiden.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Originalstelle nicht kontrolliert gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0197
 
@@ -244,13 +242,13 @@ Zeitgrundlage: Vorläufiges gesamtes Lückenfenster der YouTube-Untertitel. Inha
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Nur eine ergänzende öffentliche Podcast-Transkription liefert diesen Inhalt im Anschlussbereich. Die Zeitachse ist gegenüber YouTube versetzt; Synchronisierung und akustische Kontrolle fehlen.
+Noch nicht geprüft – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Nur eine ergänzende öffentliche Podcast-Transkription liefert diesen Inhalt im Anschlussbereich. Die Zeitachse ist gegenüber YouTube versetzt; Synchronisierung und akustische Kontrolle fehlen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -260,8 +258,6 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Offene Fragen und Unsicherheiten
 
 - Originalkontrolle der YouTube-Textlücke und tatsächliche Antrags-/Einreisedaten nötig.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Originalstelle nicht kontrolliert gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0200
 
@@ -288,13 +284,13 @@ Zeitgrundlage: Vorläufiges YouTube-Lückenfenster; Inhalt aus Podcast-Anschluss
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Ergänzender Podcasttext beschreibt einen persönlichen Verfahrensablauf. Gerichtsanhörung, Verfahrensbeendigung, Zuständigkeitswechsel und Bearbeitungsstand sind nicht durch Akten belegt.
+Noch nicht geprüft – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Ergänzender Podcasttext beschreibt einen persönlichen Verfahrensablauf. Gerichtsanhörung, Verfahrensbeendigung, Zuständigkeitswechsel und Bearbeitungsstand sind nicht durch Akten belegt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -307,8 +303,6 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Offene Fragen und Unsicherheiten
 
 - Synchronisierung, Termin-/Verfahrensnachweis und konkrete Verfügungen fehlen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Originalstelle nicht kontrolliert gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0201
 
@@ -482,7 +476,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Anna Paulina Luna habe für Seibt ein Empfehlungsschreiben an Marco Rubio gerichtet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -507,7 +501,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 

@@ -1,6 +1,6 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -71,13 +71,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Werbeversprechen über Lernaufwand und praktische Umsetzbarkeit. Eine Strategiebeschreibung belegt keine Eignung für beliebige Anfänger.
+Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Werbeversprechen über Lernaufwand und praktische Umsetzbarkeit. Eine Strategiebeschreibung belegt keine Eignung für beliebige Anfänger.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -87,8 +87,6 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Offene Fragen und Unsicherheiten
 
 - Voraussetzungen, Transaktionskosten und belastbare Ergebnisse des beworbenen Lernkonzepts prüfen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0023
 
@@ -115,13 +113,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Konkrete Inhaltswerbung; das Buch wurde nicht eingesehen.
+Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Konkrete Inhaltswerbung; das Buch wurde nicht eingesehen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -131,8 +129,6 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Offene Fragen und Unsicherheiten
 
 - Buchinhalt und Vollständigkeit des Handelsprotokolls prüfen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0024
 
@@ -159,13 +155,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Das Erfolgsversprechen ist ohne Prüfung des Buchs und der vorausgesetzten Kenntnisse nicht bestätigt.
+Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Das Erfolgsversprechen ist ohne Prüfung des Buchs und der vorausgesetzten Kenntnisse nicht bestätigt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -175,8 +171,6 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Offene Fragen und Unsicherheiten
 
 - Lernvoraussetzungen, Risikodarstellung und Übungen im Buch prüfen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0025
 
@@ -203,13 +197,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Zwei angebotsbezogene Teilleistungen; Bedingungen und mögliche Zugangsbeschränkungen ungeprüft.
+Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Zwei angebotsbezogene Teilleistungen; Bedingungen und mögliche Zugangsbeschränkungen ungeprüft.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -219,8 +213,6 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Offene Fragen und Unsicherheiten
 
 - Für beide Leistungen Kosten, Zugang und zeitliche Bedingungen am Veröffentlichungsdatum sichern.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0026
 
@@ -247,13 +239,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Angebots- und Linkbehauptung; Shop und Signierbedingungen noch nicht geprüft.
+Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Angebots- und Linkbehauptung; Shop und Signierbedingungen noch nicht geprüft.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -263,8 +255,6 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Offene Fragen und Unsicherheiten
 
 - Zielseite, Verfügbarkeit und Signierbedingungen prüfen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0027
 

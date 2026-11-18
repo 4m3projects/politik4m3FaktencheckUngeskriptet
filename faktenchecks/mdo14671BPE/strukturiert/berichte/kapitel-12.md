@@ -1,6 +1,6 @@
 # Kapitel 12: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Einzelfallbericht ohne geprüfte Moderationsmitteilung; heutige allgemeine Einspruchsregeln bestätigen den damaligen Vorgang nicht.
+Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Einzelfallbericht ohne geprüfte Moderationsmitteilung; heutige allgemeine Einspruchsregeln bestätigen den damaligen Vorgang nicht.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -44,8 +44,6 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 ### Offene Fragen und Unsicherheiten
 
 - Entfernungsdatum, Grund und Wiederherstellung anhand zeitgenössischer Unterlagen bestätigen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0098
 
@@ -72,13 +70,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüft – keine ausreichende zugängliche Quelle. Grundsätzlich prüfbar, aber das Veranstaltungsprogramm war nicht zugänglich. Bisheriger Prüfstand: Der verdeckte Recherchebericht (S062) beschreibt die EIKE-Konferenz Ende November 2019 in München mit einem Vortrag von Heartland-Stratege James Taylor und legt nahe, dass eine nicht namentlich genannte junge YouTuberin dort anwesend war. Dass sie in München sprach oder dort erstmals mit Heartland in Kontakt kam, sagt der Bericht nicht. Dokumentiert ist erst ihr Auftritt beim Heartland-Forum in Madrid am 03.12.2019 und die dort besprochene Zusammenarbeit (S062, S041); Heartland bestätigt die Kooperation im Februar 2020 (S072).
+Noch nicht geprüft – keine ausreichende zugängliche Quelle. Grundsätzlich prüfbar, aber das Veranstaltungsprogramm war nicht zugänglich. Bisheriger Prüfstand: Der verdeckte Recherchebericht (S062) beschreibt die EIKE-Konferenz Ende November 2019 in München mit einem Vortrag von Heartland-Stratege James Taylor und legt nahe, dass eine nicht namentlich genannte junge YouTuberin dort anwesend war. Dass sie in München sprach oder dort erstmals mit Heartland in Kontakt kam, sagt der Bericht nicht. Dokumentiert ist erst ihr Auftritt beim Heartland-Forum in Madrid am 03.12.2019 und die dort besprochene Zusammenarbeit (S062, S041); Heartland bestätigt die Kooperation im Februar 2020 (S072).
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -95,15 +93,13 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 - Originalprogramm der Münchner Novemberkonferenz 2019 und unabhängige Bestätigung von Redebeitrag und erstem Kontaktweg finden.
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
-
 ## mdo14671BPE-A0099
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Christopher Monckton sei für die Vorstellung Seibts bei Heartland nicht bezahlt worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -128,7 +124,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -165,13 +161,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Erstverwendung und spätere institutionelle Vermarktung sind verschiedene Fragen; keine vollständige historische Erstrecherche erfolgt.
+Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Erstverwendung und spätere institutionelle Vermarktung sind verschiedene Fragen; keine vollständige historische Erstrecherche erfolgt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -181,8 +177,6 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Offene Fragen und Unsicherheiten
 
 - Frühesten datierten Mediengebrauch und damalige Selbst-/Heartland-Darstellung vergleichen.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 ## mdo14671BPE-A0101
 
@@ -331,7 +325,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe nach einer akuten Blinddarmerkrankung mit Bauchfellentzündung 2020 intensivmedizinische Behandlung benötigt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -356,7 +350,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -374,7 +368,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt führe spätere Unverträglichkeiten und weitere gesundheitliche Probleme auf diese Krankheitsphase zurück.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -399,7 +393,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -436,13 +430,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Eine Kanallöschung wegen COVID-19-Inhalten ist berichtet, nach dem gelesenen Bericht aber Anfang Mai 2021 und nicht 2020. Ob die beanstandeten Videos impfkritisch waren und ob die Abschaltung dauerhaft blieb, sagt die Quelle nicht; A0142 behauptet eine Wiederherstellung 2024.
+Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Eine Kanallöschung wegen COVID-19-Inhalten ist berichtet, nach dem gelesenen Bericht aber Anfang Mai 2021 und nicht 2020. Ob die beanstandeten Videos impfkritisch waren und ob die Abschaltung dauerhaft blieb, sagt die Quelle nicht; A0142 behauptet eine Wiederherstellung 2024.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -452,7 +446,5 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Offene Fragen und Unsicherheiten
 
 - Zeitpunkt (2020 oder 2021), Inhalt der beanstandeten Videos und Dauer der Sperre mit einer zweiten, möglichst neutralen Quelle klären; Zusammenhang mit A0142.
-
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüft – keine zugängliche Quelle gekennzeichnet; keine Bewertung geraten.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

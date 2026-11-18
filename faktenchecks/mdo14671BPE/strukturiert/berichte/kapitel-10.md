@@ -1,6 +1,6 @@
 # Kapitel 10: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
 Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein früherer Partner der Mutter habe Seibt über Jahre regelmäßig betreut, obwohl er nicht ihr leiblicher Vater war.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -35,7 +35,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -53,7 +53,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Elternbeziehung und die frühere Ehe der Mutter hätten sich zeitlich nicht in der von Ben unterstellten Weise überschnitten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -91,7 +91,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -109,7 +109,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibts leiblicher Vater sei im Jahr des Gesprächs gestorben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -134,7 +134,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -152,7 +152,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine Autobiografie des leiblichen Vaters erwähne Seibt und ihre Existenz als Tochter nicht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -177,7 +177,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -195,7 +195,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibts leiblicher Vater habe eine leitende Tätigkeit im Krupp-Umfeld und persönliche Nähe zu Berthold Beitz gehabt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -220,7 +220,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -238,7 +238,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein Gericht habe dem früheren Betreuer Sorge- oder Umgangsrechte eingeräumt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -263,7 +263,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -281,7 +281,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nach einer bedrohlich erlebten Telefonreaktion habe Seibt mit zehn Jahren bei Polizei und einer gerichtlichen Psychologin gegen weiteren Kontakt ausgesagt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -306,7 +306,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -324,7 +324,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibts Kontakt zum früheren Betreuer sei in der Jugend bis auf einen späteren E-Mail-Austausch beendet gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -349,7 +349,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -367,7 +367,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe als Kind durch starkes Passivrauchen Lungenprobleme entwickelt, die sich später gebessert hätten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -392,7 +392,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 

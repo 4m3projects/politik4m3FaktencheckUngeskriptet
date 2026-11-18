@@ -1,6 +1,10 @@
 ﻿# Gemeinsame Factcheckfunktionen; keine Netzwerkaufrufe und keine Dateischreibzugriffe.
 $script:FactcheckVerdicts = @('Belegt','Teilweise belegt','Irreführend / Kontext fehlt','Widerlegt','Nicht ausreichend belegbar','Meinung / Prognose')
-$script:FactcheckStatuses = @('Offen','In Bearbeitung','Abgeschlossen')
+$script:FactcheckStatuses = @('Offen','In Bearbeitung','Nicht überprüfbar','Abgeschlossen')
+# Pruefstatus siehe docs/AGENTEN_PRUEFSTATUS.md: Offen = noch nicht geprueft (Arbeitsauftrag), In Bearbeitung = Pruefung laeuft,
+# Nicht überprüfbar = abschliessend ohne Urteil, weil es grundsaetzlich keine oeffentliche Pruefgrundlage gibt,
+# Abgeschlossen = Urteil (einschliesslich Nicht ausreichend belegbar nach tatsaechlicher Recherche).
+$script:FactcheckUnverifiablePrefix = 'Nicht überprüfbar – '
 $script:FactcheckKinds = @('Tatsachenbehauptung','Meinung','Prognose')
 
 function Assert-FactcheckKeys($Object,[string[]]$Keys,[string]$Context) {
@@ -109,6 +113,10 @@ function Assert-FactcheckData($Data) {
             if ($script:FactcheckVerdicts -cnotcontains $c.verdict) { throw 'Abgeschlossene Aussage ohne gueltige Bewertung.' }
             if (($c.kind -ceq 'Tatsachenbehauptung') -eq ($c.verdict -ceq 'Meinung / Prognose')) { throw 'Bewertung passt nicht zur Aussageart.' }
         } elseif ($null -ne $c.verdict) { throw 'Offene/laufende Aussage darf keine Endbewertung erhalten.' }
+        if ($c.status -ceq 'Nicht überprüfbar') {
+            if ($c.kind -cne 'Tatsachenbehauptung') { throw 'Nur Tatsachenbehauptungen koennen nicht ueberpruefbar sein.' }
+            if (-not ([string]$c.reason).StartsWith($script:FactcheckUnverifiablePrefix)) { throw 'Nicht ueberpruefbare Aussage braucht Begruendung mit Nicht überprüfbar – Grund.' }
+        } elseif (([string]$c.reason) -cmatch '^Nicht überprüf') { throw 'Begruendung Nicht ueberpruefbar/ueberprueft nur mit Status Nicht überprüfbar; noch nicht gepruefte Aussagen bleiben Offen.' }
         foreach ($key in @('description','reason','assessmentBasis')) { Assert-FactcheckText $c.$key $key }
         Assert-FactcheckKeys $c.migration @('changeType','mapping','assessmentChange') 'Migrationszuordnung'
         foreach ($key in @('changeType','mapping','assessmentChange')) { Assert-FactcheckText $c.migration.$key $key }
@@ -210,6 +218,7 @@ function Get-FactcheckPersonStatistics($Data) {
             speakerId=$sp.id;name=$sp.name;uniqueFacts=$facts.Count;completedFacts=$done.Count
             openFacts=@($facts | Where-Object status -CEQ 'Offen').Count
             inProgressFacts=@($facts | Where-Object status -CEQ 'In Bearbeitung').Count
+            unverifiableFacts=@($facts | Where-Object status -CEQ 'Nicht überprüfbar').Count
             percentageDenominator=$done.Count;categories=$categories
         }
     }
@@ -275,8 +284,9 @@ function Get-FactcheckStatistics($Data) {
         statusCounts=[pscustomobject]$statuses;kindCounts=[pscustomobject]$kinds
         completedFacts=$doneFacts.Count;openFacts=@($facts | Where-Object status -CEQ 'Offen').Count
         inProgressFacts=@($facts | Where-Object status -CEQ 'In Bearbeitung').Count
+        unverifiableFacts=@($facts | Where-Object status -CEQ 'Nicht überprüfbar').Count
         percentageDenominator=$doneFacts.Count
-        percentageDenominatorDefinition='Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.'
+        percentageDenominatorDefinition='Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.'
         categories=$categories
         speakerStatistics=(Get-FactcheckPersonStatistics $Data)
     }
@@ -344,8 +354,9 @@ function Get-FactcheckArtifacts($Data) {
     $lines.Add('- Uebrige bisherige Pruefpunkte bleiben unveraendert: ' + $Data.scope.unmigratedLegacyPoints)
     $lines.Add('- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: ' + $stats.uniqueStatements)
     $lines.Add('- Abgeschlossen: ' + $stats.statusCounts.Abgeschlossen)
-    $lines.Add('- Offen: ' + $stats.statusCounts.Offen)
+    $lines.Add('- Offen (noch nicht geprueft): ' + $stats.statusCounts.Offen)
     $lines.Add('- In Bearbeitung: ' + $stats.statusCounts.'In Bearbeitung')
+    $lines.Add('- Nicht ueberpruefbar (abschliessend ohne Urteil): ' + $stats.statusCounts.'Nicht überprüfbar')
     $lines.Add('- Erfasste Behauptungsvorkommen: ' + $stats.assertionOccurrences)
     $lines.Add('- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: ' + $stats.additionalAssertionOccurrences)
     $lines.Add('- Davon bestaetigte Wiederholungen derselben Person: ' + $stats.sameSpeakerRepeatedAssertionOccurrences)
@@ -371,7 +382,7 @@ function Get-FactcheckArtifacts($Data) {
         $lines.Add('| ' + $row.category + ' | ' + $row.completedCount + ' | ' + $percentage + ' |')
     }
     $lines.Add('')
-    $lines.Add('Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.')
+    $lines.Add('Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.')
     $lines.Add('')
     $lines.Add('## Sprecherverzeichnis und Zuordnungsstand')
     $lines.Add('')
@@ -391,11 +402,11 @@ function Get-FactcheckArtifacts($Data) {
         $lines.Add('- ' + $st + ': Sprecherzuordnung ' + $ps.occurrenceAttributionCounts.$st + ', Aussagebezug ' + $ps.occurrenceRoleStatusCounts.$st + ' Vorkommen.')
     }
     $lines.Add('')
-    $lines.Add('| Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Prozentnenner |')
-    $lines.Add('| --- | ---: | ---: | ---: | ---: | ---: |')
+    $lines.Add('| Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |')
+    $lines.Add('| --- | ---: | ---: | ---: | ---: | ---: | ---: |')
     foreach ($person in $ps.persons) {
         $name = $person.name; if ($null -eq $name) { $name = $person.speakerId }
-        $lines.Add('| ' + $name + ' | ' + $person.uniqueFacts + ' | ' + $person.completedFacts + ' | ' + $person.openFacts + ' | ' + $person.inProgressFacts + ' | ' + $person.percentageDenominator + ' |')
+        $lines.Add('| ' + $name + ' | ' + $person.uniqueFacts + ' | ' + $person.completedFacts + ' | ' + $person.openFacts + ' | ' + $person.inProgressFacts + ' | ' + $person.unverifiableFacts + ' | ' + $person.percentageDenominator + ' |')
     }
     $lines.Add('')
     $lines.Add('Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswahl, nicht keine getaetigten Aussagen. Kategorieverteilungen stehen in statistik.json; bei Nenner null sind alle Tatsachenprozente null. Die Gesamtstatistik behaelt plausible eigene Bezuege bei und bestaetigt damit keine Sprecheridentitaet. Ungeklaerte eigene Bezuege gehen nicht in ihre Hauptzaehlung ein.')

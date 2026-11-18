@@ -150,6 +150,7 @@ main:focus { outline: none; }
   border-radius: var(--radius-s); padding: 14px 16px; color: var(--text-2);
 }
 .notice.warn { border-left-color: var(--v-irrefuehrend); }
+.notice.todo { border-left-style: dashed; border-left-color: var(--text-3); }
 .notice strong { color: var(--text); }
 
 /* Startseite */
@@ -235,6 +236,9 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
 }
 .badge i { width: 9px; height: 9px; border-radius: 50%; flex: none; }
 .badge.plain { font-weight: 500; color: var(--text-2); }
+/* Noch nicht geprüft: gestrichelt – ein Arbeitsauftrag, kein Ergebnis. */
+.badge.badge-todo { border-style: dashed; }
+.stat.stat-todo { border-style: dashed; }
 .badge.kind { background: var(--surface-2); border-color: transparent; color: var(--text-2); font-weight: 500; }
 
 /* Videoseite */

@@ -14,8 +14,9 @@ Stand: 2026-11-18 · Video: L7E04TJtRBU
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 36
 - Abgeschlossen: 34
-- Offen: 0
+- Offen (noch nicht geprueft): 0
 - In Bearbeitung: 2
+- Nicht ueberpruefbar (abschliessend ohne Urteil): 0
 - Erfasste Behauptungsvorkommen: 36
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0
@@ -31,7 +32,7 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 Nenner der folgenden Tatsachenprozente: 33 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
-Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
+Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
@@ -42,7 +43,7 @@ Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eig
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 1 | nicht anwendbar |
 
-Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
+Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
 ## Sprecherverzeichnis und Zuordnungsstand
 
@@ -58,9 +59,9 @@ Tatsachen mit unsicherer Sprecherzuordnung: 35; mit unsicherem eigenem Aussagebe
 - Plausibel: Sprecherzuordnung 36, Aussagebezug 36 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
-| Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Prozentnenner |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Politik4M3-Erzählstimme | 0 | 0 | 0 | 0 | 0 |
+| Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Politik4M3-Erzählstimme | 0 | 0 | 0 | 0 | 0 | 0 |
 
 Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswahl, nicht keine getaetigten Aussagen. Kategorieverteilungen stehen in statistik.json; bei Nenner null sind alle Tatsachenprozente null. Die Gesamtstatistik behaelt plausible eigene Bezuege bei und bestaetigt damit keine Sprecheridentitaet. Ungeklaerte eigene Bezuege gehen nicht in ihre Hauptzaehlung ein.
 

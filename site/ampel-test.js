@@ -13,10 +13,10 @@ const A = require('./ampel.js');
 const BASE = path.join(__dirname, '..', 'faktenchecks');
 
 /* Fiktive statistik.json mit den angegebenen abgeschlossenen Zahlen. */
-function stats({ belegt = 0, teilweise = 0, irre = 0, widerlegt = 0, unbelegbar = 0, meinung = 0, open = 0, work = 0 }) {
+function stats({ belegt = 0, teilweise = 0, irre = 0, widerlegt = 0, unbelegbar = 0, meinung = 0, open = 0, work = 0, unver = 0 }) {
   const completed = belegt + teilweise + irre + widerlegt + unbelegbar;
   return {
-    completedFacts: completed, openFacts: open, inProgressFacts: work,
+    completedFacts: completed, openFacts: open, inProgressFacts: work, unverifiableFacts: unver,
     categories: [
       { category: 'Belegt', completedCount: belegt },
       { category: 'Teilweise belegt', completedCount: teilweise },
@@ -35,6 +35,19 @@ test('Schwellen: grün unter 10 %, gelb ab 10 %, rot ab 25 %', () => {
   assert.equal(A.rate(stats({ belegt: 75, irre: 20, widerlegt: 5 })).key, 'rot');
 });
 
+test('Nicht überprüfbar zählt als erfasst, aber nie als entschieden oder Fehler', () => {
+  const r = A.rate(stats({ belegt: 12, unver: 30 }));
+  assert.equal(r.facts, 42);
+  assert.equal(r.decided, 12);
+  assert.equal(r.key, 'gruen');
+  assert.equal(A.rate(stats({ belegt: 12, unver: 60 })).key, 'nicht_bewertbar');
+});
+
+test('Noch nicht geprüfte Aussagen machen eine zu kleine Grundlage vorläufig statt endgültig nicht bewertbar', () => {
+  assert.equal(A.rate(stats({ belegt: 5, open: 20 })).key, 'vorlaeufig');
+  assert.equal(A.rate(stats({ belegt: 5, unver: 20 })).key, 'nicht_bewertbar');
+});
+
 test('Teilweise belegt zählt nicht als Fehler', () => {
   const r = A.rate(stats({ teilweise: 20 }));
   assert.equal(r.key, 'gruen');
@@ -51,9 +64,10 @@ test('Meinungen und „nicht ausreichend belegbar“ zählen nicht in die Grundl
 test('Zu wenige entschiedene Aussagen: nicht bewertbar, mit laufender Prüfung: vorläufig', () => {
   assert.equal(A.rate(stats({ belegt: 9 })).key, 'nicht_bewertbar');
   assert.equal(A.rate(stats({ belegt: 9, work: 3 })).key, 'vorlaeufig');
-  assert.equal(A.rate(stats({ belegt: 10, open: 41 })).key, 'nicht_bewertbar');
-  assert.equal(A.rate(stats({ belegt: 10, open: 40 })).key, 'gruen');
-  assert.equal(A.rate(stats({ meinung: 38, open: 132 })).key, 'nicht_bewertbar');
+  assert.equal(A.rate(stats({ belegt: 10, unver: 41 })).key, 'nicht_bewertbar');
+  assert.equal(A.rate(stats({ belegt: 10, open: 41 })).key, 'vorlaeufig');
+  assert.equal(A.rate(stats({ belegt: 10, unver: 40 })).key, 'gruen');
+  assert.equal(A.rate(stats({ meinung: 38, unver: 132 })).key, 'nicht_bewertbar');
   assert.equal(A.rate(null).key, 'nicht_bewertbar');
 });
 

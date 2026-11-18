@@ -13,8 +13,10 @@
  *  - Nicht bewertbar, wenn weniger als 10 Tatsachenbehauptungen entschieden sind, weniger als
  *    20 % aller erfassten Tatsachenbehauptungen oder wenn insgesamt weniger als 20 Tatsachenbehauptungen
  *    je Stunde Laufzeit erfasst sind (dann ist der Bestand eine gezielte Auswahl, kein Querschnitt).
+ *  - „Erfasste Tatsachenbehauptungen“ umfasst abgeschlossene, noch nicht geprüfte (Offen), laufende
+ *    und nicht überprüfbare Aussagen (docs/AGENTEN_PRUEFSTATUS.md).
  *  - Vorläufig (keine Ampel), solange die Analyse als „In Bearbeitung“ geführt wird oder bei zu
- *    kleiner Grundlage noch Prüfungen laufen.
+ *    kleiner Grundlage noch Prüfungen ausstehen (noch nicht geprüft oder in Bearbeitung).
  *  - Darstellungshinweise (Rhetorik) gehen nie ein. Die Ampel beschreibt den geprüften Bestand,
  *    nicht das ganze Video und keine Person.
  */
@@ -56,15 +58,17 @@
     const decided = DECIDED.reduce((s, k) => s + n[k], 0);
     const errors = ERRORS.reduce((s, k) => s + n[k], 0);
     const inProgress = Number(stats?.inProgressFacts) || 0;
-    const facts = (Number(stats?.completedFacts) || 0) + (Number(stats?.openFacts) || 0) + inProgress;
-    const base = { decided, errors, facts, counts: n, errorShare: decided ? errors / decided : null, rules: RULES };
+    const unchecked = Number(stats?.openFacts) || 0;
+    const unverifiable = Number(stats?.unverifiableFacts) || 0;
+    const facts = (Number(stats?.completedFacts) || 0) + unchecked + inProgress + unverifiable;
+    const base = { decided, errors, facts, unchecked, unverifiable, counts: n, errorShare: decided ? errors / decided : null, rules: RULES };
     const out = (key, reason) => ({ ...base, key, ...LEVELS[key], reason });
 
     if (video?.workStatus === 'In Bearbeitung') return out('vorlaeufig', 'Die Analyse dieses Videos ist als „In Bearbeitung“ gekennzeichnet.');
     if (!stats) return out('nicht_bewertbar', 'Für dieses Video liegen keine strukturierten Prüfdaten vor.');
     const tooFew = decided < RULES.minDecided || !facts || decided / facts < RULES.minShare;
     if (tooFew) {
-      if (inProgress > 0) return out('vorlaeufig', `Erst ${decided} Tatsachenbehauptungen entschieden, ${inProgress} noch in Bearbeitung.`);
+      if (inProgress + unchecked > 0) return out('vorlaeufig', `Erst ${decided} Tatsachenbehauptungen entschieden, ${inProgress + unchecked} noch nicht fertig geprüft.`);
       return out('nicht_bewertbar', `Nur ${decided} von ${facts} erfassten Tatsachenbehauptungen sind entschieden; nötig sind mindestens ${RULES.minDecided} und mindestens ${Math.round(RULES.minShare * 100)} %.`);
     }
     const hours = Number(durationSeconds) > 0 ? Number(durationSeconds) / 3600 : null;

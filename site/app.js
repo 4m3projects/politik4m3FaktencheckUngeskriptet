@@ -14,13 +14,16 @@ const VERDICTS = [
   { name: 'Teilweise belegt', key: 'teilweise', text: 'Ein wesentlicher Teil stimmt, ein anderer Teil ist ungenau, zu weit gefasst oder nicht gestützt.' },
   { name: 'Irreführend / Kontext fehlt', key: 'irrefuehrend', text: 'Einzelangaben können stimmen, der entstehende Eindruck ist ohne fehlenden Kontext aber schief.' },
   { name: 'Widerlegt', key: 'widerlegt', text: 'Geeignete Quellen sprechen klar gegen die Behauptung.' },
-  { name: 'Nicht ausreichend belegbar', key: 'unbelegbar', text: 'Begründetes Ergebnis nach Recherche: Mit zugänglichen Quellen weder bestätigt noch widerlegt. Das ist kein Urteil „falsch“.' },
+  { name: 'Nicht ausreichend belegbar', key: 'unbelegbar', text: 'Geprüft: Die Aussage ist grundsätzlich prüfbar, die Recherche ist erfolgt, aber die gelesenen Quellen reichen weder für eine Bestätigung noch für eine Widerlegung. Das ist kein Urteil „falsch“.' },
   { name: 'Meinung / Prognose', key: 'meinung', text: 'Wertung oder Vorhersage; nicht als wahr oder falsch bewertbar. Überprüfbare Voraussetzungen werden gesondert betrachtet.' }
 ];
+/* Prüfstatus ohne Bewertung. Verbindliche Abgrenzung: docs/AGENTEN_PRUEFSTATUS.md.
+   „Nicht überprüfbar“ ist abschließend (es gibt grundsätzlich keine öffentliche Prüfgrundlage),
+   „Noch nicht geprüft“ (Datenstatus Offen) ist ein Arbeitsauftrag und wird nachgearbeitet. */
 const STATUS = [
-  { name: 'Nicht überprüfbar', key: 'nichtpruefbar', text: 'Abschließend eingeordnet: Mit öffentlich zugänglichen Quellen nicht überprüfbar, der Grund steht in der Begründung. Es wird keine Bewertung geraten; nicht überprüfbar heißt nicht falsch.' },
+  { name: 'Nicht überprüfbar', key: 'nichtpruefbar', text: 'Abschließend eingeordnet: Für diese Aussage gibt es grundsätzlich keine öffentliche Prüfgrundlage (zum Beispiel private Erlebnisse, interne Vorgänge oder eine zu unbestimmte Behauptung). Der Grund steht in der Begründung. Keine Bewertung; nicht überprüfbar heißt nicht falsch.' },
   { name: 'In Bearbeitung', key: 'bearbeitung', text: 'Die Prüfung läuft; noch keine Endbewertung.' },
-  { name: 'Offen', key: 'offen', text: 'Erfasst, aber noch nicht abschließend recherchiert; noch keine Endbewertung.' }
+  { name: 'Noch nicht geprüft', key: 'offen', text: 'Erfasst und grundsätzlich prüfbar, aber noch nicht recherchiert. Steht auf unserer Prüfliste und wird nachgearbeitet; bis dahin keine Bewertung.' }
 ];
 const VKEY = Object.fromEntries(VERDICTS.map(v => [v.name, v.key]));
 
@@ -75,10 +78,13 @@ function blobUrl(repoPath) {
   return repoUrl() + '/blob/' + ref + '/' + repoPath.split('/').map(encodeURIComponent).join('/');
 }
 
-/* Offene Aussagen, deren Begründung mit „Nicht überprüfbar“/„Nicht überprüft“ beginnt, sind nach
-   abgeschlossener Recherche bewusst ohne Bewertung eingeordnet und werden als solche angezeigt. */
+/* Abschließend ohne Bewertung eingeordnet: eigener Datenstatus „Nicht überprüfbar“. */
 function isUnverifiable(c) {
-  return !!c && !c.verdict && c.status !== 'Abgeschlossen' && /^Nicht überprüf(bar|t)\b/.test(c.reason || '');
+  return !!c && !c.verdict && c.status === 'Nicht überprüfbar';
+}
+/* Noch nicht geprüft: Datenstatus „Offen“ – ein Arbeitsauftrag, kein Ergebnis. */
+function isUnchecked(c) {
+  return !!c && !c.verdict && c.status === 'Offen';
 }
 function verdictBadge(verdict, status, reason) {
   if (verdict) {
@@ -87,12 +93,13 @@ function verdictBadge(verdict, status, reason) {
   if (isUnverifiable({ verdict, status, reason })) {
     return `<span class="badge"><i class="fill-nichtpruefbar" aria-hidden="true"></i>Nicht überprüfbar</span>`;
   }
-  const key = status === 'In Bearbeitung' ? 'bearbeitung' : 'offen';
-  return `<span class="badge plain"><i class="fill-${key}" aria-hidden="true"></i>${esc(status || 'Offen')} · noch ohne Bewertung</span>`;
+  if (status === 'In Bearbeitung') return `<span class="badge plain"><i class="fill-bearbeitung" aria-hidden="true"></i>In Bearbeitung · noch ohne Bewertung</span>`;
+  return `<span class="badge plain badge-todo" data-tip="Grundsätzlich prüfbar, aber noch nicht recherchiert – wird nachgearbeitet."><i class="fill-offen" aria-hidden="true"></i>Noch nicht geprüft</span>`;
 }
-/* Abgeschlossene Recherche: coverageNote beginnt mit „Recherche abgeschlossen“. */
+/* Abgeschlossene Recherche: coverageNote beginnt mit „Recherche (weitgehend) abgeschlossen“.
+   Noch nicht geprüfte Aussagen werden zusätzlich ausdrücklich gezählt und angezeigt. */
 function researchDone(scope) {
-  return /^Recherche abgeschlossen\b/.test(scope?.coverageNote || '');
+  return /^Recherche (weitgehend )?abgeschlossen\b/.test(scope?.coverageNote || '');
 }
 function bucketOf(c) {
   if (c.verdict) return VKEY[c.verdict] || 'offen';
@@ -833,7 +840,7 @@ async function pageVideo(id, focusClaim) {
       <div class="stat"><dt>Bewertet oder Meinung</dt><dd>${num(s.statusCounts?.Abgeschlossen ?? 0)}</dd></div>
       ${nUnver ? `<div class="stat"><dt>Nicht überprüfbar</dt><dd>${num(nUnver)}</dd></div>` : ''}
       ${nWork ? `<div class="stat"><dt>In Bearbeitung</dt><dd>${num(nWork)}</dd></div>` : ''}
-      ${nOpen ? `<div class="stat"><dt>Offen</dt><dd>${num(nOpen)}</dd></div>` : ''}
+      ${nOpen ? `<div class="stat stat-todo"><dt>Noch nicht geprüft</dt><dd>${num(nOpen)}</dd></div>` : ''}
       <div class="stat"><dt>Quellen</dt><dd>${num(d.sources.length)}</dd></div>
     </dl>` : '';
 
@@ -847,6 +854,7 @@ async function pageVideo(id, focusClaim) {
   setPage(`<div class="wrap">
     ${videoHeader(v, 'aussagen')}
     ${scope.kind === 'Teilbestand' && !researchDone(scope) ? `<p class="notice warn"><strong>Teilbestand – keine Bilanz des ganzen Videos.</strong> ${esc(scope.coverageNote)}</p>` : `<p class="notice"><strong>Umfang der Prüfung.</strong> ${esc(scope.coverageNote)}</p>`}
+    ${nOpen ? `<p class="notice todo"><strong>${num(nOpen)} ${nOpen === 1 ? 'Aussage ist' : 'Aussagen sind'} noch nicht geprüft.</strong> Sie wären mit öffentlichen Quellen prüfbar, die Recherche steht aber noch aus; sie werden nachgearbeitet. Das ist etwas anderes als „nicht überprüfbar“ oder „nicht ausreichend belegbar“ – <a href="#/methodik#pruefstatus">zur Erklärung</a>.</p>` : ''}
     <div class="grid-2" style="margin-top:20px">
       <div>
         <section class="section" style="margin-bottom:28px">
@@ -1006,6 +1014,16 @@ function pageMethod() {
       <p class="small">Solange eine Prüfung <strong>offen</strong> oder <strong>in Bearbeitung</strong> ist, gibt es bewusst keine Bewertung. Eine nicht belegte Aussage ist nicht automatisch falsch.</p>
     </section>
 
+    <section class="section prose-plain" id="pruefstatus"><h2>Noch nicht geprüft, nicht überprüfbar oder nicht belegbar?</h2>
+      <p>Drei Fälle ohne Wahr/Falsch-Urteil sehen ähnlich aus, bedeuten aber Verschiedenes. Wir halten sie strikt auseinander:</p>
+      <ul class="verdict-list">
+        <li><span class="badge plain badge-todo"><i class="fill-offen" aria-hidden="true"></i>Noch nicht geprüft</span><p>Die Aussage ließe sich mit öffentlichen Quellen prüfen, wir haben es aber noch nicht getan. Das ist ein offener Arbeitsauftrag, kein Ergebnis – solche Aussagen werden nachgearbeitet.</p></li>
+        <li><span class="badge"><i class="fill-nichtpruefbar" aria-hidden="true"></i>Nicht überprüfbar</span><p>Es gibt grundsätzlich keine öffentliche Prüfgrundlage: private Erlebnisse, interne Vorgänge, unbenannte Personen oder eine zu unbestimmte Behauptung. Die Einordnung ist abgeschlossen; der Grund steht dabei.</p></li>
+        <li><span class="badge"><i class="fill-unbelegbar" aria-hidden="true"></i>Nicht ausreichend belegbar</span><p>Die Aussage ist prüfbar und wir haben recherchiert, die gelesenen Quellen reichen aber weder für eine Bestätigung noch für eine Widerlegung. Die Quellen sind angegeben.</p></li>
+      </ul>
+      <p class="small">Fehlt uns nur der Zugang zu einer Quelle oder die Zeit, steht eine Aussage als „Noch nicht geprüft“ – nie als „nicht überprüfbar“. Keiner der drei Fälle bedeutet „falsch“, und keiner zählt in der Faktenampel als Fehler.</p>
+    </section>
+
     <section class="section prose-plain" id="ampel"><h2>Faktenampel: das Video auf einen Blick</h2>
       <p>Jedes Video zeigt eine Ampel. Sie ist eine reine Rechnung aus den Einzelbewertungen oben und enthält keine zusätzliche Einschätzung.</p>
       <ul>
@@ -1162,7 +1180,12 @@ async function routePage() {
       if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
       return await pageVideo(parts[1]);
     }
-    if (parts[0] === 'methodik') return pageMethod();
+    if (parts[0].split('#')[0] === 'methodik') {
+      pageMethod();
+      const anchor = parts[0].split('#')[1];
+      if (anchor) document.getElementById(anchor)?.scrollIntoView();
+      return;
+    }
     if (parts[0] === 'jens') return pageJens();
     return await pageHome();
   } catch (e) {
