@@ -10,7 +10,7 @@ const ROOT = path.join(__dirname, '..');
 const O = 'OQnvClWgN-g', A = 'qQAcmDzd9O8', P = 'L7E04TJtRBU';
 function build() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-krall-'));
-  for (const f of ['index.html', 'app.js', 'style.css', 'sync.js', 'relations.js', 'video.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'app.js', 'style.css', 'sync.js', 'relations.js', 'video.js', 'rhetoric.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
   fs.mkdirSync(path.join(out, 'daten'));
@@ -22,7 +22,7 @@ function build() {
       for (const e of fs.readdirSync(path.join(source, rel), { withFileTypes: true })) {
         const r = rel ? rel + '/' + e.name : e.name;
         if (e.isDirectory()) copy(r);
-        else if (e.name.endsWith('.md') || /^strukturiert\/(aussagen|statistik)\.json$/.test(r)) {
+        else if (e.name.endsWith('.md') || r === 'rhetorik.json' || /^strukturiert\/(aussagen|statistik)\.json$/.test(r)) {
           fs.mkdirSync(path.dirname(path.join(out, 'daten', id, r)), { recursive: true });
           fs.copyFileSync(path.join(source, r), path.join(out, 'daten', id, r));
           if (e.name.endsWith('.md')) files.push(r);
@@ -31,7 +31,7 @@ function build() {
     }
     copy('');
     const video = JSON.parse(fs.readFileSync(path.join(source, 'video.json'), 'utf8'));
-    videos.push({ id, title: video.title, video, files: files.sort(), structured: fs.existsSync(path.join(source, 'strukturiert/aussagen.json')) });
+    videos.push({ id, title: video.title, video, files: files.sort(), structured: fs.existsSync(path.join(source, 'strukturiert/aussagen.json')), rhetoric: fs.existsSync(path.join(source, 'rhetorik.json')) });
   }
   fs.copyFileSync(path.join(base, 'beziehungen.json'), path.join(out, 'daten/beziehungen.json'));
   fs.writeFileSync(path.join(out, 'daten/index.json'), JSON.stringify({ videos, repository: '4m3projects/politik4m3FaktencheckUngeskriptet', commit: 'krall-test', generated: '2026-11-18T00:00:00Z' }));
@@ -125,6 +125,8 @@ async function main() {
   } finally {
     if (browser) await browser.close();
     await new Promise(r => server.close(r));
+    const expectedPrefix = path.resolve(os.tmpdir()) + path.sep + 'p4m3-krall-';
+    if (!path.resolve(out).startsWith(expectedPrefix)) throw new Error('Unerwarteter temporärer Pfad');
     fs.rmSync(out, { recursive: true, force: true });
   }
 }
