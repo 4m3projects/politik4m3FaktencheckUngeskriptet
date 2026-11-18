@@ -117,7 +117,7 @@ async function step(name, fn) {
     assert.match(t, /Originalinterview/);
     assert.match(t, /Reaktionen und weitere Faktenchecks/);
     assert.match(t, /Alfred räumt auf/);
-    assert.match(await open(urlOf(real), '#/video/mdo14671BPE'), /Noch keine Reaktionen zugeordnet/);
+    assert.match(await open(urlOf(real), '#/video/mdo14671BPE'), /Hank Loose/);
     await open(urlOf(real), '#/video/mdo14671BPE/aussage/mdo14671BPE-A0001');
     assert.ok(await page.$('#mdo14671BPE-A0001'));
     assert.match(await open(urlOf(real), '#/video/mlxFA9T88I0/bericht/README.md'), /Horst Lüning/);
@@ -127,6 +127,33 @@ async function step(name, fn) {
   });
 
   const B = urlOf(fix);
+  await step('Echte Reaktion: Hank unter Naomi mit Rücklink und begrenzter Gegenprüfung', async () => {
+    const t = await open(urlOf(real), '#/video/mdo14671BPE');
+    assert.match(t, /Hank Loose/);
+    assert.match(t, /Teilbestand geprüft/);
+    assert.ok(await page.$('a[href="#/video/zUnxDR5ttRU"]'));
+    const reaction = await open(urlOf(real), '#/video/zUnxDR5ttRU');
+    assert.match(reaction, /Bezüge auf Originalinterviews/);
+    assert.match(reaction, /Teilbestand – keine Bilanz des ganzen Videos/);
+    assert.ok(await page.$('.role-line a[href="#/video/mdo14671BPE"]'));
+    assert.match(reaction, /Sprecher und Ursprung sind ungeklärt/);
+    assert.match(reaction, /nicht nur als alleinigen Grund/);
+    assert.match(await open(urlOf(real), '#/video/zUnxDR5ttRU/bericht/03_faktencheck.md'), /7341daa/);
+    const home = await open(urlOf(real), '#/');
+    const cards = await page.$$eval('.cards a.card', a => a.map(x => x.getAttribute('href')));
+    assert.ok(!cards.some(h => h.includes('zUnxDR5ttRU')), 'Reaktion ist keine Originalkarte');
+    assert.match(home, /2 Originalinterviews/);
+  });
+
+  await step('Echte Reaktion mobil: Vergleich und Berichte bleiben ohne Überlauf erreichbar', async () => {
+    await page.setViewportSize({ width: 390, height: 800 });
+    await open(urlOf(real), '#/video/zUnxDR5ttRU');
+    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth));
+    await open(urlOf(real), '#/video/zUnxDR5ttRU/bericht/README.md');
+    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth));
+    await page.setViewportSize({ width: 1280, height: 900 });
+  });
+
   await step('Fixtures: Startseite listet nur Originale, Reaktionen nicht als Hauptvideos', async () => {
     const t = await open(B, '#/');
     assert.match(t, new RegExp(F.VIDEOS[F.O1].meta.title));

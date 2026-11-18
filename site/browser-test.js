@@ -110,7 +110,7 @@ async function step(name, fn) {
   const base = `http://127.0.0.1:${server.address().port}/`;
   const shots = process.env.SCREENSHOTS;
   const browser = await chromium.launch();
-  const ctx = await browser.newContext({ viewport: { width: 1360, height: 860 } });
+  const ctx = await browser.newContext({ viewport: { width: 1360, height: 860 }, reducedMotion: 'reduce' });
   const external = [];
   const consoleErrors = [];
   let apiMode = 'ok';
@@ -172,15 +172,18 @@ async function step(name, fn) {
 
   await step('Synchronisation: überlappende Aussagen gleichzeitig, neutrale Meldung ohne Zuordnung', async () => {
     // pausiert an eine Stelle mit zwei überlappenden Aussagen (A0012 1–5 s, A0013 4–14 s) ziehen
+    // Expliziter Seek: ein unerklärter Sprung an den Anfang wird absichtlich als mögliche Werbung gehalten.
+    await page.locator('#vc-mlxFA9T88I0-O0013 .vc-seek').click();
     await page.evaluate(() => { __yt.players[0].pauseVideo(); __yt.players[0].t = 4.5; });
     await page.waitForFunction(() => document.querySelectorAll('#vc-list .vc-item.is-current').length === 2);
     const cur = await page.locator('#vc-list .vc-item.is-current .vc-flag').allTextContents();
     assert.deepEqual(cur, ['Jetzt im Video', 'Jetzt im Video']);
     assert.ok(await page.locator('#vc-current li').count() >= 2);
-    await page.evaluate(() => { __yt.players[0].t = 1200; });
+    // Im erweiterten Bestand ist die frühere Testlücke bei 1200 s inzwischen mit Aussagen belegt.
+    await page.evaluate(() => { __yt.players[0].t = 61; });
     await page.waitForFunction(() => /keine geprüfte Aussage/.test(document.getElementById('vc-current').textContent));
     assert.equal(await page.locator('#vc-list .vc-item.is-current, #vc-list .vc-item.is-near').count(), 0);
-    assert.match(await page.locator('#vc-current').textContent(), /Nächste Fundstelle bei 00:56:28/);
+    assert.match(await page.locator('#vc-current').textContent(), /Nächste Fundstelle bei 00:02:18/);
   });
 
   await step('Ungenaue Zeitmarke: Eintrag kurz vor Beginn als „in der Nähe“', async () => {
@@ -190,12 +193,17 @@ async function step(name, fn) {
   });
 
   await step('Klick auf Fundstelle springt im Player; Wiederholung springt zur zweiten Stelle', async () => {
-    const rep = page.locator('#vc-list .vc-item', { hasText: 'Vorkommen 1 von 2' }).first();
+    // Stabile Fundstellen statt des ersten chronologischen Treffers: inzwischen gibt es frühere Wiederholungen.
+    const rep = page.locator('#vc-mlxFA9T88I0-O0007');
     await rep.locator('.vc-seek').click();
     const seeks = await page.evaluate(() => __yt.seeks);
     assert.equal(seeks[seeks.length - 1], 7385);
     await page.waitForFunction(() => document.querySelector('#vc-list .vc-item.is-current .vc-flag'));
     assert.match(await page.locator('#vc-list .vc-item.is-current').first().textContent(), /Vorkommen 1 von 2/);
+    await page.locator('#vc-mlxFA9T88I0-O0019 .vc-seek').click();
+    assert.equal(await page.evaluate(() => __yt.seeks.at(-1)), 30);
+    await page.waitForFunction(() => document.querySelector('#vc-mlxFA9T88I0-O0019.is-current'));
+    assert.match(await page.locator('#vc-mlxFA9T88I0-O0019').textContent(), /Vorkommen 2 von 2/);
   });
 
   await step('Werbung (eigene Dauer, Zähler ab 0): Anzeige hält, Hinweis, danach Fortsetzung', async () => {

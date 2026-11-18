@@ -376,6 +376,329 @@
           "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
         }
       ]
+    },
+    {
+      "id": "R0010",
+      "reactionVideoId": "zUnxDR5ttRU",
+      "originalVideoId": "mdo14671BPE",
+      "certainty": "Belegt",
+      "basis": "Beschreibung nennt und verlinkt das Original. Konkrete Ausschnitte zu Auskunft, Informant, Musk und Merkel sind textlich mit Originalstellen abgeglichen. Keine pauschale Übereinstimmung oder Ablehnung der Bewertungen angenommen.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "change": "[Codex] Erstaufnahme zu Issue #10, Vergleich mit main @ 7341daa; bestehende Originaldaten unverändert."
+        }
+      ],
+      "claimLinks": [
+        {
+          "id": "L0101",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0134",
+          "reactionClaimId": "zUnxDR5ttRU-A0006",
+          "reactionSeconds": 115,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 01:26:12–01:26:28: Überwachungsvorwurf bleibt offen; die Reaktion wird durch Wiederholung nicht zum eigenen Gewährsbericht.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0102",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0135",
+          "reactionClaimId": "zUnxDR5ttRU-A0007",
+          "reactionSeconds": 229,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 01:26:28–01:26:47: berichtete anwaltliche Auskunft, kein vorliegender Bescheid.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0103",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0134",
+          "reactionClaimId": "zUnxDR5ttRU-A0008",
+          "reactionSeconds": 287,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Datenspeicherung ist kein hinreichender Abhörnachweis. Fehlende Bestätigung ist keine Gegenbehauptung, dass nie überwacht wurde.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0104",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0136",
+          "reactionClaimId": "zUnxDR5ttRU-A0012",
+          "reactionSeconds": 249,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 01:26:47–01:27:06: anonymer Informant. Der ausgelassene Kontext um 01:29:00 nennt fehlende eigene Fallbeteiligung.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0105",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0139",
+          "reactionClaimId": "zUnxDR5ttRU-A0013",
+          "reactionSeconds": 581,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Historisch konkretisierte G10-Vereinbarungen von 1968/2013; nicht sicher die von Seibt gemeinte Regelung. Original bleibt offen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0106",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0140",
+          "reactionClaimId": "zUnxDR5ttRU-A0015",
+          "reactionSeconds": 620,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 01:28:04–01:29:02: behauptetes privates Detailwissen; tatsächliche Herkunft ungeklärt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0107",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0141",
+          "reactionClaimId": "zUnxDR5ttRU-A0015",
+          "reactionSeconds": 645,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 01:29:02–01:29:26: behauptete unterschriebene Erklärung; weder Echtheit noch Inhalt geprüft.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0108",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0141",
+          "reactionClaimId": "zUnxDR5ttRU-A0018",
+          "reactionSeconds": 880,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original ab 01:29:26 wechselt zum Musk-Thema; dokumentiert den Gesprächsablauf, keine Täuschungsabsicht und keine unbekannten Vorprüfungen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0109",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0153",
+          "reactionClaimId": "zUnxDR5ttRU-A0021",
+          "reactionSeconds": 972,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 01:37:12–01:37:27: private Musk-Warnung berichtet, Nachricht nicht eingesehen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0110",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0154",
+          "reactionClaimId": "zUnxDR5ttRU-A0022",
+          "reactionSeconds": 1011,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 01:37:41–01:37:58: damalige Unkenntnis und fehlender Asylplan laut Gespräch; bestätigt weder tatsächlichen Aufenthaltsstatus noch Musks Wissen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0111",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0153",
+          "reactionClaimId": "zUnxDR5ttRU-A0023",
+          "reactionSeconds": 1049,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 01:40:26–01:40:41: Bens eigene Wissenszuschreibung, im Originalinventar keine gesonderte Aussage-ID. Ergänzender Prüfhinweis; keine künstliche Zuordnung an den Gast.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0112",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0138",
+          "reactionClaimId": "zUnxDR5ttRU-A0027",
+          "reactionSeconds": 1211,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Technischer Kontext zu Messenger-Verschlüsselung; pauschaler Fremdhinweis im Original bleibt ohne konkretisierten Angriffsweg offen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0113",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0138",
+          "reactionClaimId": "zUnxDR5ttRU-A0029",
+          "reactionSeconds": 1250,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Befugnis, Kontozugriff und Verschlüsselungsbruch getrennt. Keine pauschale Widerlegung der Möglichkeit staatlicher Zugriffe.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0114",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0150",
+          "reactionClaimId": "zUnxDR5ttRU-A0030",
+          "reactionSeconds": 1317,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 01:33:44–01:34:29: politische Chance und Weitergabe als Selbstdarstellung; private Weitergabe und tägliche Uploads nicht unabhängig verifiziert.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0115",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0184",
+          "reactionClaimId": "zUnxDR5ttRU-A0033",
+          "reactionSeconds": 1427,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 02:03:07–02:03:35: anonymer Vance-naher Kontakt; seine Vermutung bleibt unbelegt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0116",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "mdo14671BPE-A0186",
+          "reactionClaimId": "zUnxDR5ttRU-A0035",
+          "reactionSeconds": 1536,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Schnurs IM-Tätigkeit in beiden Prüfungen gestützt; institutionellen Lexikoneintrag unabhängig erneut gelesen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0117",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "mdo14671BPE-A0187",
+          "reactionClaimId": "zUnxDR5ttRU-A0035",
+          "reactionSeconds": 1524,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Merkels Sprecherinnenrolle 1990 in beiden Prüfungen gestützt; Gerichtsmitteilung unabhängig erneut gelesen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0118",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0185",
+          "reactionClaimId": "zUnxDR5ttRU-A0036",
+          "reactionSeconds": 1539,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Historikerargument gegen Kontaktschuld; keine Umdeutung von Nicht ausreichend belegbar zu Widerlegt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0119",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0192",
+          "reactionClaimId": "zUnxDR5ttRU-A0037",
+          "reactionSeconds": 1593,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 02:05:20–02:05:54: angeblicher Nachteil für die Bundesregierung. Wiedergabe und externe Sachprüfung getrennt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0120",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0192",
+          "reactionClaimId": "zUnxDR5ttRU-A0038",
+          "reactionSeconds": 1631,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Gerichtsmitteilung bestätigt den anderen Ablehnungsgrund und keine gezielte Begünstigung. Kein Urteilsvolltext, anderes etwa gemeintes Verfahren offen; keine weitergehende Negativbehauptung.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0121",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0193",
+          "reactionClaimId": "zUnxDR5ttRU-A0039",
+          "reactionSeconds": 1686,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Original 02:05:55–02:06:24: vermutete Vernichtung und Auslandskopien, kein Dokumentennachweis.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        },
+        {
+          "id": "L0122",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0185",
+          "reactionClaimId": "zUnxDR5ttRU-A0040",
+          "reactionSeconds": 1740,
+          "note": "Vergleichsstand 7341daa (18.11.2026). Knabes Recherchebefund von 2019; kein Totalbeweis einer Nichttätigkeit. Kein automatischer Konflikt mit nicht ausreichend belegbarem Originalverdacht.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "[Codex] Erstzuordnung nach Textvergleich; keine Originalbewertung geändert."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

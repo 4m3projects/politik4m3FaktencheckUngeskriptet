@@ -1,0 +1,2098 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "zUnxDR5ttRU",
+    "videoUrl": "https://www.youtube.com/watch?v=zUnxDR5ttRU",
+    "durationSeconds": 2096,
+    "asOf": "2026-11-18",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "Codex: eigenständige Neuerfassung zu Issue #10. Gesamte verfügbare automatische deutsche Textfassung gelesen und relevante Originalpassagen separat verglichen. Geöffnete Primärquellen und ausdrücklich begrenzte Quellenwiedergaben; keine Übernahme der Originalbewertungen. Keine vollständige Audio-/Videosichtung oder unabhängige Zweitprüfung.",
+    "coverageNote": "Textprüfung über alle elf Themenabschnitte; 43 getrennte Prüfgegenstände einschließlich Fremdbezügen und Meinungen. Beide deutschen Spuren sind identisch und daher keine unabhängigen Quellen. Text beginnt bei 00:00:05,800; textfreie Intervalle 00:05:42,194–00:05:47,894 und 00:34:46,213–00:34:50,414; letzter Eintrag reicht rechnerisch über die Metadatenlaufzeit. Keine Garantie, dass alle Bild-, Ton- oder Nebenaussagen erfasst sind. Alle Personenzuordnungen und Zeiten nur plausibel bzw. ungefähr. Deshalb Teilbestand und keine Gesamtfehlerquote. Wiederholungen sind nicht lückenlos als einzelne Vorkommen vermessen."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Hank Loose: Naomi Seibt bei Ben (ungeskriptet): Musk, Merkel – wo sind die Belege?",
+      "url": "https://www.youtube.com/watch?v=zUnxDR5ttRU",
+      "details": "Veröffentlichung laut direktem Metadatenabruf 17.11.2026; Laufzeit 2096 Sekunden.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "YouTube-oEmbed und Projekt-Importskript erfolgreich. Gesamte verfügbare automatische deutsche Textfassung gelesen; beide Spuren identisch. Keine Hör-/Sichtkontrolle und keine Einsicht in private Behörden- oder Informantenunterlagen."
+    },
+    {
+      "id": "S002",
+      "title": "Naomi Seibt bei Ben: Originalinterview",
+      "url": "https://www.youtube.com/watch?v=mdo14671BPE",
+      "details": "Veröffentlichung laut vorhandenem Metadatenstand 16.11.2026; Laufzeit 10118 Sekunden.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Privat vorhandene automatische deutsche Originaluntertitel an den ausdrücklich genannten Vergleichsstellen erneut gelesen, einschließlich Kontext vor/nach den Ausschnitten. Sprecher nur plausibel; keine Kontrolle des Tons, Bildes oder unsichtbarer Vorprüfungen."
+    },
+    {
+      "id": "S003",
+      "title": "Bundesamt für Verfassungsschutz: Informationsbeschaffung",
+      "url": "https://www.verfassungsschutz.de/DE/verfassungsschutz/auftrag-und-arbeitsweise/informationsbeschaffung/informationsbeschaffung_artikel.html",
+      "details": "Undatierte Behördeninformation; Abrufstand 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Webabruf 403; direkter HTTPS-Abruf mit PowerShell erfolgreich. Abschnitte zu offenen Quellen, nachrichtendienstlichen Mitteln und Fernmeldeüberwachung gelesen. Beschreibt Befugnisse und Methoden, keinen konkreten Fall."
+    },
+    {
+      "id": "S004",
+      "title": "§ 15 Bundesverfassungsschutzgesetz: Auskunft an Betroffene",
+      "url": "https://www.gesetze-im-internet.de/bverfschg/__15.html",
+      "details": "Gelesene konsolidierte Fassung am 18.11.2026, Absätze 1–4.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Norm geöffnet und gelesen. Antrag, Voraussetzungen, Ausnahmen und begrenzte Auskunftspflicht; keine konkrete Auskunft an Seibt eingesehen. Der Beschreibungslink des Videos verwendet nur einen Unterstrich; hier steht die geprüfte Normadresse."
+    },
+    {
+      "id": "S005",
+      "title": "20 Minuten: Bericht über Seibts Verfolgungsbehauptungen",
+      "url": "https://www.20min.ch/story/rechtsextreme-aktivistin-naomi-seibt-sieht-sich-als-opfer-wird-sie-verfolgt-103452731",
+      "details": "Im Reaktionsvideo als Bericht vom November 2025 unter Bezug auf Welt am Sonntag genannt; Datum und Inhalt hier nicht unabhängig bestätigt.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Kein belastbar lesbarer Artikeltext: Webabruf gesperrt, direkte Abrufe mit TLS-Fehlern bzw. ohne auswertbaren Text. Kein Originaldokument des BfV und kein Originalartikel der Welt am Sonntag gelesen. Kein Beleg für eine Fallbewertung."
+    },
+    {
+      "id": "S006",
+      "title": "Bundesregierung: Antwort zu fortbestehenden Eingriffsmöglichkeiten anderer NATO-Staaten",
+      "url": "https://dserver.bundestag.de/btd/17/148/1714823.pdf",
+      "details": "Bundestagsdrucksache 17/14823, 14.10.2013; Antwort übermittelt am 07.10.2013.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Vierseitigen Text gelesen, besonders Antworten 1–6: aufgehobene G10-Verwaltungsvereinbarungen mit USA/Großbritannien, historische Rechtsauffassung und Reichweite. Kein Beweis, welche Vereinbarung Seibt meint, und kein Nachweis tatsächlicher Überwachungspraxis."
+    },
+    {
+      "id": "S007",
+      "title": "BSI: Messenger sicher nutzen",
+      "url": "https://www.bsi.bund.de/DE/Themen/Verbraucherinnen-und-Verbraucher/Informationen-und-Empfehlungen/Onlinekommunikation/Chat-Messenger/Messenger/messenger-sicher-nutzen.html",
+      "details": "Undatierter Verbraucherhinweis; Abrufstand 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Direkter HTTPS-Abruf erfolgreich, Webabruf 403. Abschnitte zu Verschlüsselung, Funktionen, Kontoschutz, Metadaten und Berechtigungen gelesen. Allgemeiner Sicherheitskontext, kein Gutachten zu Seibts Geräten."
+    },
+    {
+      "id": "S008",
+      "title": "BfV: Erkennen und Bewältigen von Phishing-Angriffen über Messengerdienste",
+      "url": "https://www.verfassungsschutz.de/SharedDocs/kurzmeldungen/DE/2026/2026-04-27-phishing-via-messenger-dienste.html",
+      "details": "Behördenmitteilung vom 27.04.2026, verweist auf gemeinsame Warnungen von BfV/BSI am 06.02. und 17.04.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Direkter HTTPS-Abruf erfolgreich, Meldung gelesen. Der verlinkte Leitfaden wurde nicht als eigene Quelle ausgewertet. Keine Zurechnung einer Attacke zu Seibt."
+    },
+    {
+      "id": "S009",
+      "title": "VG Berlin: Stasi-Unterlagen zu Angela Merkel – kein Herausgabeanspruch",
+      "url": "https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2026/pressemitteilung.1656474.php",
+      "details": "Pressemitteilung Nr. 19/2026 vom 26.03.2026; Urteil vom 12.03.2026, VG 1 K 297/23.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Vollständige Pressemitteilung gelesen. Kein Urteilsvolltext und keine Gerichtsakte; kein abschließender historischer Negativbeweis und kein überprüfter Rechtskraftstand."
+    },
+    {
+      "id": "S010",
+      "title": "Hubertus Knabe: IM Erika – eine Spurensuche",
+      "url": "https://hubertus-knabe.de/auf-den-spuren-von-im-erika/",
+      "details": "Eigener Recherchebericht des Historikers vom 09.08.2019.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Abschnitte zu Aktenzugang, Kollegen, Schnur und Fazit gelesen. Primärquelle für Knabes eigene Schlussfolgerung, keine eigene Einsicht in die von ihm erwähnten Stasi-Akten. Der historische Stand wird von der Gerichtsmitteilung 2026 getrennt."
+    },
+    {
+      "id": "S011",
+      "title": "Aufgeheizt: Verschwörungserzählungen rund um die Klimakrise",
+      "url": "https://www.bpb.de/system/files/dokument_pdf/bpb_002_SR_Verschwoerungserzaehlungen_online.pdf",
+      "details": "bpb-Schriftenreihe Band 10901, 2023; gedruckte S. 93 und Belegnoten S. 104.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Abschnitt über Seibt und zugehörige Fußnoten gelesen. Primärquelle dafür, was die Veröffentlichung sagt; aufgeführte frühere Medienauftritte nicht sämtlich am damaligen Original geprüft. Laut Impressum tragen die Autoren die inhaltliche Verantwortung."
+    },
+    {
+      "id": "S012",
+      "title": "Heartland: German YouTube Personality Naomi Seibt Joins The Heartland Institute",
+      "url": "https://heartland.org/opinion/press-release-german-youtube-personality-naomi-seibt-joins-the-heartland-institute/",
+      "details": "Pressemitteilung von Jim Lakely vom 14.02.2020.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Originale institutionelle Mitteilung zum Eintritt in das Klimazentrum und geplanter Öffentlichkeitsarbeit gelesen. Interessengebundene Selbstauskunft; keine unabhängige Wissenschaftsbewertung und kein vollständiger Zahlungsnachweis."
+    },
+    {
+      "id": "S013",
+      "title": "Chronik der Mauer: Wolfgang Schnur",
+      "url": "https://www.chronik-der-mauer.de/material/179927/schnur-wolfgang?letter=S",
+      "details": "Personenlexikon, undatiert; institutionelles Geschichtsangebot von ZZF/bpb/Deutschlandradio.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Eintrag mit IM-Erfassung 1965–1989 und DA-Vorsitz gelesen. Keine eigene Akteneinsicht."
+    },
+    {
+      "id": "S014",
+      "title": "Signal: Is it private? Can I trust it?",
+      "url": "https://support.signal.org/hc/en-us/articles/360007320391-Is-it-private-Can-I-trust-it",
+      "details": "Herstellerdokumentation, undatiert; Abrufstand 18.11.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Erklärung zur standardmäßigen Ende-zu-Ende-Verschlüsselung gelesen. Technische Selbstdokumentation, kein Penetrationstest und keine Garantie gegen kompromittierte Endgeräte."
+    }
+  ],
+  "claims": [
+    {
+      "id": "zUnxDR5ttRU-A0001",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Hank Loose bewertet den Gesprächseinstieg und Bens Moderation scharf abwertend.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Satire und redaktionelle Kritik, kein messbarer Personenbefund. Die Wortwahl begründet keine Fehlerzählung und keinen Nachweis bewusster Täuschung.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0001",
+          "startSeconds": 5,
+          "endSeconds": 115,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0002",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt ist als rechte politische Influencerin aus Münster und als Gegenfigur zu Greta Thunberg bekannt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die bpb-Veröffentlichung beschreibt die politische Vernetzung und die inszenierte Gegenrolle. Heartland bestätigt die öffentliche Klimakommunikation. Der Herkunftsteil Münster wurde hier nicht separat mit einem amtlichen Nachweis kontrolliert.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Beschreibung der öffentlichen Rolle, keine amtliche Personeneinstufung."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Institutionelle Zusammenarbeit und öffentliche Rolle."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0002",
+          "startSeconds": 138,
+          "endSeconds": 158,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0003",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Heartland Institute unterstützte Seibts öffentliche Klimakommunikation.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Heartland kündigte ihre Mitarbeit im eigenen Klimazentrum 2020 selbst an. Dies belegt die institutionelle Unterstützung, keine beliebige Zahlungsbehauptung.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Originale Mitteilung zur Zusammenarbeit."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0003",
+          "startSeconds": 158,
+          "endSeconds": 164,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0004",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine bpb-Veröffentlichung beschreibt Seibt als Netzwerkerin und Multiplikatorin und nennt AfD-Veranstaltungen sowie Medienkontakte.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die benannte Veröffentlichung enthält diese Beschreibung und Beispiele. Das ist eine korrekte Quellenwiedergabe; nicht jeder dort referierte Auftritt wurde neu am Original geprüft.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Gedruckte S. 93 sowie Fußnoten S. 104; Autorenbeitrag, keine amtliche Einstufung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0004",
+          "startSeconds": 164,
+          "endSeconds": 195,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0005",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In den von Hank Loose geprüften Quellen sei keine militante Führungsrolle Seibts belegt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die beschränkte Aussage über seinen Rechercheumfang ist keine universelle Behauptung, dass eine solche Rolle unmöglich sei. Seine vollständige Quellenauswahl ist nicht offengelegt.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Aussage als begrenzten Recherchebefund gelesen."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Beschreibt Vernetzung, keine militante Kommandofunktion."
+        }
+      ],
+      "openQuestions": [
+        "Welche vollständige Quellenauswahl meint der Kommentator?"
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0005",
+          "startSeconds": 195,
+          "endSeconds": 216,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0006",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt behauptet eine Überwachung ihrer Telefonate und Messenger-Kommunikation durch deutsche Dienste.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Behauptung ist im Originaltext wiederzufinden. Ob sie zutrifft, bleibt mangels Einzelfallunterlagen offen; eine Wiederholung ist keine Bestätigung.",
+      "assessmentBasis": "Im Reaktionsvideo wiedergegebene Interviewbehauptung; nicht Hank Loose als eigene Tatsachenbehauptung zugerechnet. Vergleich mit Originaltext und getrennte Sachprüfung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nachweis der Wiedergabe, kein Nachweis des behaupteten Ereignisses."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Originalkontext textlich verglichen; keine privaten Einzelfallunterlagen."
+        }
+      ],
+      "openQuestions": [
+        "Welche unabhängig kontrollierbaren Unterlagen oder Originalstellen klären den bezeichneten offenen Punkt?"
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0006",
+          "startSeconds": 115,
+          "endSeconds": 125,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eingespielte oder im Text ausdrücklich als fremde Behauptung gekennzeichnete Originalpassage.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0007",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt berichtet von einer anwaltlichen Auskunft über seit 2019 gespeicherte Daten beim Verfassungsschutz.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der konkrete Auskunftsbrief liegt nicht vor. Der Originaltext stützt die Wiedergabe ihres Berichts, nicht dessen tatsächlichen Inhalt.",
+      "assessmentBasis": "Im Reaktionsvideo wiedergegebene Interviewbehauptung; nicht Hank Loose als eigene Tatsachenbehauptung zugerechnet. Vergleich mit Originaltext und getrennte Sachprüfung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nachweis der Wiedergabe, kein Nachweis des behaupteten Ereignisses."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Originalkontext textlich verglichen; keine privaten Einzelfallunterlagen."
+        }
+      ],
+      "openQuestions": [
+        "Welche unabhängig kontrollierbaren Unterlagen oder Originalstellen klären den bezeichneten offenen Punkt?"
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0007",
+          "startSeconds": 229,
+          "endSeconds": 249,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eingespielte oder im Text ausdrücklich als fremde Behauptung gekennzeichnete Originalpassage.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0008",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Datenspeicherung oder Auswertung öffentlicher Aktivitäten beweist für sich keine Überwachung privater Gespräche.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Behördenbeschreibung unterscheidet offene Quellen und verdeckte Methoden. Aus einer gespeicherten Information lässt sich deren Beschaffungsweg nicht notwendig ableiten. Das schließt verdeckte Eingriffe im Einzelfall nicht aus.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Unterschiedliche Beschaffungswege; kein Seibt-Fallnachweis."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Auskunftspflicht erstreckt sich nicht generell auf Herkunft der Daten."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0008",
+          "startSeconds": 287,
+          "endSeconds": 336,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0009",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das BfV gewinnt einen großen Teil seiner Informationen aus allgemein zugänglichen Quellen und nutzt daneben verdeckte Methoden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die eigene Methodenbeschreibung des BfV nennt beide Wege und gesetzliche Schranken. Eine quantitative eigene Messung liegt nicht vor.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Behördliche Beschreibung des eigenen Vorgehens."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0009",
+          "startSeconds": 305,
+          "endSeconds": 318,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0010",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine Auskunft über beim BfV gespeicherte personenbezogene Daten ist gesetzlich vorgesehen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "§ 15 sieht eine beantragte Auskunft unter Voraussetzungen vor; Absatz 2 enthält Ausnahmen, Absatz 3 begrenzt Angaben zur Datenherkunft. Kein uneingeschränkter Zugang zu sämtlichen Akten.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Absätze 1–4; allgemeine Norm, kein konkreter Bescheid."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0010",
+          "startSeconds": 368,
+          "endSeconds": 388,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0011",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "20 Minuten habe im November 2025 über eine Welt-am-Sonntag-Recherche zu einem internen BfV-Dokument berichtet; Abhörmaßnahmen seien dadurch nicht bestätigt worden.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der im Video genannte Medienbericht war hier nicht zuverlässig lesbar. Datum, genaue Formulierung, Reichweite und zugrunde liegendes Dokument bleiben unkontrolliert. Hank Loose kennzeichnet die Abhängigkeit vom Medienbericht selbst. Keine zweite unabhängige Bestätigung aus dieser Kette ableiten.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Belegt die Kennzeichnung als Medienbericht."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Nicht lesbarer Verweis, nicht als Sachbeleg verwendet."
+        }
+      ],
+      "openQuestions": [
+        "Artikel und ursprüngliche Recherche zugänglich lesen; interne Akte nur prüfen, wenn rechtmäßig verfügbar."
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0011",
+          "startSeconds": 391,
+          "endSeconds": 478,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0012",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt beruft sich auf einen früheren US-Militärnachrichtendienstmitarbeiter mit Stationierung 2023 und Datenbankzugriff.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Identität, Stationierung und tatsächlicher Zugriff sind nicht unabhängig bestätigt. Der Originaltext enthält außerdem die Einschränkung, der Mann sei nicht an ihrem Fall beteiligt gewesen.",
+      "assessmentBasis": "Im Reaktionsvideo wiedergegebene Interviewbehauptung; nicht Hank Loose als eigene Tatsachenbehauptung zugerechnet. Vergleich mit Originaltext und getrennte Sachprüfung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nachweis der Wiedergabe, kein Nachweis des behaupteten Ereignisses."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Originalkontext textlich verglichen; keine privaten Einzelfallunterlagen."
+        }
+      ],
+      "openQuestions": [
+        "Welche unabhängig kontrollierbaren Unterlagen oder Originalstellen klären den bezeichneten offenen Punkt?"
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0012",
+          "startSeconds": 249,
+          "endSeconds": 269,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eingespielte oder im Text ausdrücklich als fremde Behauptung gekennzeichnete Originalpassage.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0013",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Historische G10-Verwaltungsvereinbarungen mit den USA und Großbritannien wurden 2013 aufgehoben.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Regierungsantwort bestätigt die Aufhebung dieser Vereinbarungen von 1968. Sie beschreibt sie als Verfahrensregeln ohne eigenständige Überwachungsbefugnisse. Kein Beweis, dass Seibt gerade diese meinte oder dass alle sonstigen Kooperationen endeten.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Antworten 1–6, historische Regierungsdarstellung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0013",
+          "startSeconds": 581,
+          "endSeconds": 594,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0014",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Hank Loose hält Seibts pauschalen Hinweis auf schlechte Datenschutzgesetze für erklärungsbedürftig.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Kritische Nachfrage nach konkreter Norm und Perspektive. Das unbenannte Sonderregelungsargument wird nicht als nachgewiesen oder vollständig widerlegt ausgegeben.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0014",
+          "startSeconds": 553,
+          "endSeconds": 605,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0015",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt sagt, der Informant habe private Gesprächsdetails gekannt und seine Angaben unterschrieben bestätigt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Gesprächsdetails, Informationsherkunft und unterzeichnete Erklärung liegen nicht zur unabhängigen Prüfung vor. Die im Original erwähnte fehlende Fallbeteiligung und weitere Zwischenerzählung sind im Ausschnitt gekürzt; der Sachkern bleibt im Text erkennbar.",
+      "assessmentBasis": "Im Reaktionsvideo wiedergegebene Interviewbehauptung; nicht Hank Loose als eigene Tatsachenbehauptung zugerechnet. Vergleich mit Originaltext und getrennte Sachprüfung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nachweis der Wiedergabe, kein Nachweis des behaupteten Ereignisses."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Originalkontext textlich verglichen; keine privaten Einzelfallunterlagen."
+        }
+      ],
+      "openQuestions": [
+        "Welche unabhängig kontrollierbaren Unterlagen oder Originalstellen klären den bezeichneten offenen Punkt?"
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0015",
+          "startSeconds": 620,
+          "endSeconds": 667,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eingespielte oder im Text ausdrücklich als fremde Behauptung gekennzeichnete Originalpassage.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0016",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine Unterschrift allein beweist weder den Wahrheitsgehalt einer Aussage noch die behauptete Herkunft privater Informationen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Methodische Schlussfolgerung: Eine zugerechnete Erklärung ersetzt keine Prüfung ihres Inhalts. Das ist keine Aussage über den Beweiswert konkreter Urkunden in einem Gerichtsverfahren; die angebliche Erklärung wurde nicht eingesehen.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Begrenztes Argument des Kommentators, kein gerichtliches Gutachten."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Original nennt Unterschrift, legt dem zugänglichen Text zufolge keine kontrollierbare Erklärung vor."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0016",
+          "startSeconds": 758,
+          "endSeconds": 815,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0017",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ben fragt nach dem Bekanntwerden der Überwachung, unterscheidet später BfV und BND und thematisiert die Bedeutung des Asylwegs.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Originalstellen um 01:26:18–01:26:28, 01:52:26–01:53:02 und 01:55:58–01:56:44 stützen diese Wiedergabe. Es wäre unzutreffend, daraus ein völliges Ausbleiben von Nachfragen zu machen.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Drei Kontextstellen erneut gelesen; Rollen nur plausibel."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0017",
+          "startSeconds": 843,
+          "endSeconds": 871,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0018",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach dem Bericht über die unterschriebene Erklärung wechselt Ben zum Thema Musk.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Originaltext geht bei 01:29:26–01:29:34 von der Erklärung zum Musk-Kontakt über. Ein außerhalb des Gesprächs erfolgter Dokumentencheck ist daraus weder belegt noch widerlegt.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Original 01:29:02–01:29:35 und Nahkontext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0018",
+          "startSeconds": 880,
+          "endSeconds": 924,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0019",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In der besprochenen Interviewpassage werde keine unabhängige Dokumentenprüfung nachvollziehbar gemacht.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Im gelesenen Text der Passage wird keine solche Prüfung dokumentiert. Ob Bildtafeln, Schnittmaterial oder eine außerhalb der Aufnahme erfolgte Prüfung existieren, wurde nicht kontrolliert. Hanks Einschränkung auf die sichtbare Gesprächsdarstellung bleibt erhalten.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Hank räumt unbekannte Vorgänge hinter den Kulissen ausdrücklich ein."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Textbefund der konkreten Passage; keine Sichtkontrolle."
+        }
+      ],
+      "openQuestions": [
+        "Bild und Ton der Passage sowie etwaige veröffentlichte Prüfhinweise kontrollieren."
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0019",
+          "startSeconds": 942,
+          "endSeconds": 958,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0020",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Hank Loose hält Bens Nachfragen bei schweren Vorwürfen für unzureichend.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Redaktioneller Maßstab und Wertung der Moderation. Fragen und Themaverlagerung sind separat geprüft; keine Zurechnung aller Gastbehauptungen an Ben.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0020",
+          "startSeconds": 908,
+          "endSeconds": 966,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0021",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt berichtet von einer privaten Musk-Nachricht, Europa sei gefährlich und sie solle einen Umzug in die USA erwägen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Originaltext bestätigt die Erzählung. Die Nachricht selbst und ihre Informationsgrundlage sind nicht zugänglich; öffentliche Musk-Interaktionen ersetzen sie nicht.",
+      "assessmentBasis": "Im Reaktionsvideo wiedergegebene Interviewbehauptung; nicht Hank Loose als eigene Tatsachenbehauptung zugerechnet. Vergleich mit Originaltext und getrennte Sachprüfung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nachweis der Wiedergabe, kein Nachweis des behaupteten Ereignisses."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Originalkontext textlich verglichen; keine privaten Einzelfallunterlagen."
+        }
+      ],
+      "openQuestions": [
+        "Welche unabhängig kontrollierbaren Unterlagen oder Originalstellen klären den bezeichneten offenen Punkt?"
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0021",
+          "startSeconds": 972,
+          "endSeconds": 994,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eingespielte oder im Text ausdrücklich als fremde Behauptung gekennzeichnete Originalpassage.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0022",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach Seibts eigener zeitlicher Darstellung kannte sie bei Musks angeblicher Warnung die behauptete Überwachung noch nicht und plante noch keinen Asylantrag.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Original 01:37:41–01:37:58 enthält Bens Nachfrage und Seibts Bestätigung. Belegt ist die Gesprächschronologie, nicht der tatsächliche Wissensstand Musks oder Seibts.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Originalstelle und Nahkontext erneut gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0022",
+          "startSeconds": 1011,
+          "endSeconds": 1048,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0023",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ben schreibt Musk in der betreffenden Passage besonderes Wissen zu.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Original 01:40:26–01:40:41 enthält diese persönliche Wissenszuschreibung. Das ist Bens eigener Beitrag, nicht bloß eine unkommentierte Gastbehauptung. Es bestätigt kein tatsächlich vorhandenes Insiderwissen.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Wissenszuschreibung im Originaltext, ohne Kenntnisbeweis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0023",
+          "startSeconds": 1049,
+          "endSeconds": 1075,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0024",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Reaktionstext wird Musks Wissen dem von Trump und einem weiteren US-Regierungsmitglied gleichgesetzt; Sprecher und Ursprung sind ungeklärt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Diese Stelle lässt sich bislang keiner sicheren Fundstelle im verfügbaren Originaltext zuordnen. Es könnte eine eigene oder fremde, ernst gemeinte oder satirische Äußerung sein. Ohne Hör-/Sichtkontrolle weder Seibt noch Ben noch Hank als eigene Überzeugung zurechnen. Auch die tatsächliche Kenntnislage ist nicht belegt.",
+      "assessmentBasis": "Ungeklärte Passage in der automatischen Reaktionstextfassung; kein sicherer Originalbezug und keine bestätigte eigene Behauptungsrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Textstelle vorhanden, Sprecher und Aussagefunktion nicht bestätigt."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Keine sichere Originalfundstelle gefunden; vorhandene Originalfassung hat eine dokumentierte Textlücke um 02:10:48–02:12:44, die keine positive Zuordnung erlaubt."
+        }
+      ],
+      "openQuestions": [
+        "Wer spricht hier und wie ist die Passage gemeint? Ursprung mit Bild/Ton prüfen; keine Zuordnung allein nach Wortwahl."
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0024",
+          "startSeconds": 1077,
+          "endSeconds": 1100,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Kein belastbarer Sprecherwechsel- oder Originalnachweis im Text.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Ungeklärt",
+          "roleBasis": "Ohne Audio-/Bildkontrolle ist eigene Behauptung, Fremdbezug oder Satire nicht trennbar.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0025",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Hank Loose sieht in der Berufung auf Musks Namen eine unbelegte Verstärkung der Glaubwürdigkeit.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Argumentationskritik. Vermögen und Bekanntheit sind kein Einzelfallbeleg; die Wirkung auf das Publikum wurde nicht gemessen.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0025",
+          "startSeconds": 1102,
+          "endSeconds": 1154,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0026",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "David Lee Roth habe sinngemäß Geld nicht mit Stil und Wissen gleichgesetzt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Für die beiläufige Zuschreibung wurde keine überprüfbare Erstveröffentlichung gefunden. Suchtreffer zu anderen Äußerungen bestätigen dieses Zitat nicht. Kein Einfluss auf die Geheimdienst- oder Merkel-Prüfung.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Nachweis, dass Hank die Zuschreibung macht."
+        }
+      ],
+      "openQuestions": [
+        "Erstveröffentlichung, Datum und genauer Kontext des zugeschriebenen Ausspruchs fehlen."
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0026",
+          "startSeconds": 1159,
+          "endSeconds": 1169,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0027",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ende-zu-Ende-Verschlüsselung und die Sicherheit von Konten, Geräten sowie einzelnen Messenger-Funktionen sind getrennt zu betrachten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "BSI unterscheidet Verschlüsselung und sichere Nutzung; Signal beschreibt standardmäßige Ende-zu-Ende-Verschlüsselung. Das schützt nicht automatisch ein kompromittiertes Endgerät oder Konto. Keine absolute Sicherheitsgarantie und keine Prüfung von Seibts Geräten.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Funktionsumfang und Kontoschutz."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Verschlüsselung laut Hersteller."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0027",
+          "startSeconds": 1211,
+          "endSeconds": 1231,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0028",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "BfV und BSI warnen ausdrücklich vor Phishing über Messenger.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die BfV-Meldung vom 27.04.2026 verweist auf gemeinsame Warnungen im Februar und April. Dies bestätigt das allgemeine Risiko, keinen Angriff auf Seibt.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Gelesene Behördenmeldung mit Datumsangaben."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0028",
+          "startSeconds": 1231,
+          "endSeconds": 1241,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0029",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Gesetzliche Zugriffsbefugnisse allein ermöglichen kein beliebiges Mitlesen verschlüsselter Messenger-Inhalte.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Technischer und rechtlicher Schluss: Eine Befugnis ersetzt keine Angriffsmethode. Kontozugriff und Verschlüsselungsbruch unterscheiden sich; das beweist weder die Unmöglichkeit noch das Stattfinden eines konkreten Eingriffs.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Sicherheitsvoraussetzungen unterscheiden sich."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Warnung vor Zugriff durch Phishing, kein pauschaler Entschlüsselungsnachweis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0029",
+          "startSeconds": 1250,
+          "endSeconds": 1288,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0030",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt schildert den Musk-Kontakt selbst als Chance für politische Vernetzung und die Weitergabe ihrer Inhalte.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Original 01:33:44–01:34:29 enthält diese Selbstdarstellung. Die tatsächlichen Privatnachrichten und ihre Reichweite werden damit nicht verifiziert.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Originaltext mit Kontext gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0030",
+          "startSeconds": 1317,
+          "endSeconds": 1334,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0031",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt habe die Aufmerksamkeit durch den Asylantrag eingeräumt und bestritten, dass sie der alleinige Grund gewesen sei.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Original 01:56:44–01:56:59 bestätigt ihr Bewusstsein der Aufmerksamkeit. Im Text verneint sie aber Aufmerksamkeit als Grund überhaupt, nicht nur als alleinigen Grund. Hanks Wiedergabe schwächt ihr Dementi ab; daraus folgt kein Nachweis tatsächlicher Motive.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Eigenständiger Abgleich mit dem Originalwortlaut, nicht aus dem vorhandenen Faktencheck übernommen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0031",
+          "startSeconds": 1335,
+          "endSeconds": 1354,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0032",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Hank Loose deutet die Erzählung als Aufwertung von Seibts eigener öffentlicher Rolle.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Subjektive Deutung der Selbstvermarktung; er schließt Gedankenlesen und den Nachweis bewussten Erfindens ausdrücklich aus. Keine gesicherte Motivbehauptung übernehmen.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0032",
+          "startSeconds": 1355,
+          "endSeconds": 1404,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0033",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt berichtet, ein anonymer Vance-naher Kontakt vermute eine Stasi-Tätigkeit Merkels.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Der Originaltext stützt die Wiedergabe eines anonymen Verdachts. Nähe zu Vance, Wissen des Kontakts und tatsächliche Tätigkeit Merkels werden dadurch nicht unabhängig belegt.",
+      "assessmentBasis": "Im Reaktionsvideo wiedergegebene Interviewbehauptung; nicht Hank Loose als eigene Tatsachenbehauptung zugerechnet. Vergleich mit Originaltext und getrennte Sachprüfung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nachweis der Wiedergabe, kein Nachweis des behaupteten Ereignisses."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Originalkontext textlich verglichen; keine privaten Einzelfallunterlagen."
+        }
+      ],
+      "openQuestions": [
+        "Welche unabhängig kontrollierbaren Unterlagen oder Originalstellen klären den bezeichneten offenen Punkt?"
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0033",
+          "startSeconds": 1427,
+          "endSeconds": 1459,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eingespielte oder im Text ausdrücklich als fremde Behauptung gekennzeichnete Originalpassage.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0034",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Hank Loose verbindet die Merkel-Vermutung mit satirischen Bemerkungen über CDU, AfD und eine fortbestehende Stasi.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Aus dem Textkontext als politische Spitze eingeordnet. Keine wörtliche Behauptung einer Mitgliedschaftsregel oder heutigen Stasi-Organisation; ohne Ton-/Bildkontrolle bleibt die Satirezuordnung plausibel.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0034",
+          "startSeconds": 1460,
+          "endSeconds": 1494,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0035",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Wolfgang Schnur war Stasi-Informant; Merkel arbeitete 1990 als Sprecherin des Demokratischen Aufbruchs.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der institutionelle Lexikoneintrag bestätigt Schnurs IM-Erfassung; die Gerichtsmitteilung nennt Merkels Sprecherinnenrolle ab Februar 1990.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "IM-Erfassung 1965–1989."
+        },
+        {
+          "sourceId": "S009",
+          "note": "Zeitliche Einordnung der Sprecherinnenfunktion."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0035",
+          "startSeconds": 1524,
+          "endSeconds": 1539,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0036",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Knabe unterscheidet Stasi-Kontakte im Umfeld von eigener Tätigkeit und berichtet über einen spitzelnden Kollegen Merkels.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Knabes eigener Text behandelt diese Unterscheidung und den Kollegen. Damit ist Hanks Quellenwiedergabe gestützt; die zugrunde liegenden Akten wurden hier nicht selbst geprüft.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Primärquelle für Knabes Argument, kein eigener Aktennachweis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0036",
+          "startSeconds": 1539,
+          "endSeconds": 1589,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0037",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt begründet die Nichtherausgabe von Merkel-Unterlagen mit einem angeblichen Nachteil für die Bundesregierung.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Wiedergabe passt zum Originaltext. Die konkret identifizierte Gerichtsmitteilung enthält eine andere Begründung; ein anderes gemeintes Verfahren bleibt unbenannt.",
+      "assessmentBasis": "Im Reaktionsvideo wiedergegebene Interviewbehauptung; nicht Hank Loose als eigene Tatsachenbehauptung zugerechnet. Vergleich mit Originaltext und getrennte Sachprüfung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nachweis der Wiedergabe, kein Nachweis des behaupteten Ereignisses."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Originalkontext textlich verglichen; keine privaten Einzelfallunterlagen."
+        }
+      ],
+      "openQuestions": [
+        "Welche unabhängig kontrollierbaren Unterlagen oder Originalstellen klären den bezeichneten offenen Punkt?"
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0037",
+          "startSeconds": 1593,
+          "endSeconds": 1626,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eingespielte oder im Text ausdrücklich als fremde Behauptung gekennzeichnete Originalpassage.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0038",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die VG-Berlin-Mitteilung begründet die Ablehnung mit Zugangsregeln und Persönlichkeitsrechten und nennt keine Anhaltspunkte zielgerichteter Stasi-Begünstigung Merkels.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Mitteilung zu VG 1 K 297/23 trägt diese Wiedergabe. Eine Schädigung der Bundesregierung nennt sie nicht. Nur die Mitteilung wurde gelesen; kein historischer Totalnachweis und keine Aussage zum gesamten Urteilswortlaut.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Gelesene Pressemitteilung, nicht Urteilsvolltext."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0038",
+          "startSeconds": 1631,
+          "endSeconds": 1673,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0039",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt vermutet vernichtete Merkel-Unterlagen und verbliebene Kopien in Russland oder den USA.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Spekulation steht im Originaltext. Weder konkrete belastende Dokumente noch Vernichtung oder Kopien sind damit nachgewiesen.",
+      "assessmentBasis": "Im Reaktionsvideo wiedergegebene Interviewbehauptung; nicht Hank Loose als eigene Tatsachenbehauptung zugerechnet. Vergleich mit Originaltext und getrennte Sachprüfung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nachweis der Wiedergabe, kein Nachweis des behaupteten Ereignisses."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Originalkontext textlich verglichen; keine privaten Einzelfallunterlagen."
+        }
+      ],
+      "openQuestions": [
+        "Welche unabhängig kontrollierbaren Unterlagen oder Originalstellen klären den bezeichneten offenen Punkt?"
+      ],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0039",
+          "startSeconds": 1686,
+          "endSeconds": 1706,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eingespielte oder im Text ausdrücklich als fremde Behauptung gekennzeichnete Originalpassage.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0040",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Knabes Recherche kommt zu dem Ergebnis, dass eine Tätigkeit Merkels unter dem Decknamen Erika nicht belegt ist, und lässt historische Fragen offen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Fazit seines Textes von 2019 entspricht der Wiedergabe. Es ist ein dokumentierter Recherchebefund und keine umfassende Widerlegung jeder denkbaren Geheimdienstverbindung.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Fazit und ausdrücklich benannte Aktenlücken."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0040",
+          "startSeconds": 1740,
+          "endSeconds": 1764,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0041",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Hank Loose kritisiert, dass vermutete Vernichtung und geheime Auslandskopien den Verdacht gegen Überprüfung abschirmen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Methodische Kritik an einem nicht belegten Schluss. Fehlende Akten belegen für sich weder Täterschaft noch gezielte Vernichtung. Allgemeine historische Aktenvernichtung ist kein Merkel-Einzelfallbeweis.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0041",
+          "startSeconds": 1707,
+          "endSeconds": 1738,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0042",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 11,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Hank Loose fordert belastbare Prüfungen schwerer Vorwürfe und kritisiert Bens Gesprächsführung, ohne ein Gesprächsverbot zu verlangen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Normative Schlussfolgerung aus den diskutierten Passagen. Kein objektiver Gesamtwert für Ben oder Seibt und keine empirisch gemessene Publikumswirkung. Kritik an der Moderation bleibt von den fremden Behauptungen getrennt.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0042",
+          "startSeconds": 1819,
+          "endSeconds": 2067,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "zUnxDR5ttRU-A0043",
+      "videoId": "zUnxDR5ttRU",
+      "chapter": 11,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die abschließenden Fragen bitten um Meinungen zu Fluchtgründen und Musk.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Publikumsaufforderung, keine weitere überprüfbare Sachbehauptung. Kurze Textlücke im Ausklang ist nicht durch erfundenen Inhalt ergänzt.",
+      "assessmentBasis": "Eigene Paraphrase nach vollständiger Lektüre des verfügbaren Reaktionstextes; eigene Quellenprüfung im jeweils genannten Umfang. Keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige Analyse zu Issue #10; keine Übernahme einer Bewertung aus dem Originalcheck.",
+        "assessmentChange": "Erstbewertung am 18.11.2026 durch Codex; offene Grenzen ausdrücklich erhalten."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "zUnxDR5ttRU-O0043",
+          "startSeconds": 2068,
+          "endSeconds": 2096,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Rollenwechsel und Gesprächskontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich erschlossene eigene Aussage bzw. Einordnung; automatische Erkennung bleibt unsicher.",
+          "note": "Keine Ton-, Bild- oder Schnittkontrolle; Sekunden aus automatischer Textfassung eingegrenzt.",
+          "timeBasis": "Deutsche automatische YouTube-Untertitel; keine manuelle Synchronisierung.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Hank Loose",
+      "videoRole": "Kommentator des Reaktionsvideos",
+      "identityBasis": "Kanalmetadaten und Kommentarstruktur im Text; keine bestätigte Stimme."
+    },
+    {
+      "id": "SP02",
+      "name": "Naomi Seibt",
+      "videoRole": "Gast im eingeblendeten oder referierten Originalinterview",
+      "identityBasis": "Textlicher Abgleich mit dem Original; keine bestätigte Stimme."
+    },
+    {
+      "id": "SP03",
+      "name": "Ben",
+      "videoRole": "Host des Originalinterviews",
+      "identityBasis": "Gesprächsrolle und Textabgleich; keine bestätigte Stimme."
+    }
+  ]
+}
