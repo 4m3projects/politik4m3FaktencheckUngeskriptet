@@ -2263,7 +2263,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** In der Weimarer Republik halbierte ein Gesetz die Angestellten und sogar die Beamten im öffentlichen Dienst.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2286,21 +2286,22 @@ Frueherer Suchbereich: [01:43:00–01:47:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Gemeint ist vermutlich die Personal-Abbau-Verordnung von 1923. Auf den gelesenen Seiten des Deutschen Historischen Museums wurde sie nicht behandelt; keine Zahlen gelesen.
+Ein wahrer Kern besteht: Mit der Personalabbauverordnung vom 27. Oktober 1923 wurden in den folgenden Monaten rund 400.000 Beamte, Angestellte und Arbeiter des öffentlichen Dienstes entlassen. Das war nach den Wissenschaftlichen Diensten des Bundestages rund ein Viertel der Beschäftigten, nicht die Hälfte. Zudem war es eine Verordnung, kein Gesetz; Gehälter wurden zugleich gekürzt.
 
-Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Darstellung der Wissenschaftlichen Dienste des Bundestages (10/2023) gelesen; Zahlen für einzelne Verwaltungen nicht geprüft.
 
 Uebernahme: Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Personalabbauverordnung 1923 recherchiert; von Offen auf Teilweise belegt (Umfang etwa ein Viertel statt Hälfte).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Hyperinflation in Deutschland 1923](https://www.bundestag.de/parlament/geschichte/100-jahre-weimar/hyperinflation-970722) · Deutscher Bundestag, Wissenschaftliche Dienste, 12.10.2023; Personalabbauverordnung vom 27.10.1923.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Personalabbauverordnung 27.10.1923, rund 400.000 Entlassene, etwa ein Viertel des öffentlichen Dienstes.
 
 ### Offene Fragen und Unsicherheiten
 
-- Umfang des Personalabbaus 1923/24 anhand einer historischen Fachquelle belegen.
+- Abbauquoten je Verwaltung (Reich, Länder, Reichsbahn, Post) aus einer historischen Fachquelle.
 
 ## mlxFA9T88I0-A0268
 
@@ -2491,7 +2492,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** In der DDR hatten die Menschen viel Geld, aber kaum Waren; nach der Währungsumstellung konnten sie damit plötzlich Autos kaufen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2514,20 +2515,24 @@ Frueherer Suchbereich: [01:47:10–01:48:29](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Historische Aussage zu Kaufkraftüberhang und Währungsunion 1990; keine Quelle gelesen.
+Ein Kaufkraftüberhang in der DDR ist belegt: Haushalte hielten mehr Geld, als sie mangels Warenangebot ausgeben konnten (zurückgestaute Inflation). Bei der Währungsunion am 1. Juli 1990 wurden Guthaben nach Alter bis 2.000, 4.000 oder 6.000 Mark 1:1 umgestellt, darüber 2:1. Dass die Menschen damit plötzlich Autos kauften, ist in den gelesenen Quellen nicht belegt; die Leipziger Zeitung beschreibt eher, dass ein Kaufrausch ausblieb.
 
-Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Fachbeitrag in APuZ (1998) und Rückblick der Leipziger Zeitung (2020) gelesen; keine Zulassungs- oder Absatzstatistik für Autos 1990 gelesen.
 
 Uebernahme: Funktionen des digitalen Euro laut veröffentlichtem Entwurf, unterstellte Motive und DDR-Vergleich getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Kaufkraftüberhang und Umtauschkurse recherchiert; von Offen auf Teilweise belegt (Autokäufe nicht belegt).
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Die Währungsreform in Ostdeutschland und die Entwicklung des Geld- und Bankenwesens in der DDR](https://www.bpb.de/shop/zeitschriften/apuz/archiv/538532/die-waehrungsreform-in-ostdeutschland-und-die-entwicklung-des-geld-und-bankenwesens-in-der-ddr/) · Gernot Gutmann, Aus Politik und Zeitgeschichte, bpb, 05.06.1998; Kaufkraftüberhang und zurückgestaute Inflation in der DDR.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Kaufkraftüberhang und zurückgestaute Inflation in der DDR.
+
+- [Das letzte, verrückte Jahr der DDR und der Weg zur Einheit (4): Die Währungsunion am 1. Juli 1990](https://www.l-iz.de/bildung/zeitreise/2020/07/Das-letzte-verrueckte-Jahr-der-DDR-und-der-Weg-zur-Einheit-4-Die-Waehrungsunion-am-1-Juli-1990-339601) · Leipziger Zeitung, Lucas Böhme, 19.07.2020; Umtauschkurse 1990, Kaufkraftüberhang, ausbleibender Kaufrausch.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Umtauschkurse 1990; ausbleibender Kaufrausch.
 
 ### Offene Fragen und Unsicherheiten
 
-- Fachquelle zu Sparguthaben und Umtauschkursen 1990 lesen.
+- Pkw-Neuzulassungen bzw. Gebrauchtwagenkäufe in Ostdeutschland 1990 (KBA, Statistisches Bundesamt).
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

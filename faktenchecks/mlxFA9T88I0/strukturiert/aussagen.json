@@ -2222,6 +2222,38 @@
       "details": "European Pravda, 13.08.2025; deutscher Beitrag zur NATO-Initiative PURL.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S153",
+      "title": "Hyperinflation in Deutschland 1923",
+      "url": "https://www.bundestag.de/parlament/geschichte/100-jahre-weimar/hyperinflation-970722",
+      "details": "Deutscher Bundestag, Wissenschaftliche Dienste, 12.10.2023; Personalabbauverordnung vom 27.10.1923.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S154",
+      "title": "Bildformate: GIF",
+      "url": "https://web.dev/learn/images/gif?hl=de",
+      "details": "web.dev (Google Chrome), aktualisiert 01.02.2023; Palette mit höchstens 256 Farben, kleinere Palette verkleinert die Kodierung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S155",
+      "title": "Die Währungsreform in Ostdeutschland und die Entwicklung des Geld- und Bankenwesens in der DDR",
+      "url": "https://www.bpb.de/shop/zeitschriften/apuz/archiv/538532/die-waehrungsreform-in-ostdeutschland-und-die-entwicklung-des-geld-und-bankenwesens-in-der-ddr/",
+      "details": "Gernot Gutmann, Aus Politik und Zeitgeschichte, bpb, 05.06.1998; Kaufkraftüberhang und zurückgestaute Inflation in der DDR.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S156",
+      "title": "Das letzte, verrückte Jahr der DDR und der Weg zur Einheit (4): Die Währungsunion am 1. Juli 1990",
+      "url": "https://www.l-iz.de/bildung/zeitreise/2020/07/Das-letzte-verrueckte-Jahr-der-DDR-und-der-Weg-zur-Einheit-4-Die-Waehrungsunion-am-1-Juli-1990-339601",
+      "details": "Leipziger Zeitung, Lucas Böhme, 19.07.2020; Umtauschkurse 1990, Kaufkraftüberhang, ausbleibender Kaufrausch.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -8710,19 +8742,22 @@
       "legacyId": "C03-P06",
       "kind": "Tatsachenbehauptung",
       "description": "Eine verringerte Farbvielfalt wurde bei frühen Webbildern zur Verringerung der Dateigröße genutzt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Ob Palettenreduktion bei der damaligen Implementierung wie geschildert wirkte, hängt vom Bildformat und Encoder ab. Eine Verringerung ähnlicher Farben allein beweist keine bestimmte Kompressionsrate. Das konkrete frühere Bildmaterial wurde nicht untersucht.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "GIF, das ältere Bildformat im Web, speichert je Bild höchstens 256 Farben in einer Palette. Eine kleinere Palette verringert die Kodierungsgröße deutlich, auf Kosten der Bildtreue. Die Reduktion der Farbvielfalt zur Verkleinerung von Webbildern ist damit als Mechanismus belegt; das konkrete frühere Bildmaterial des Sprechers wurde nicht untersucht.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
         "mapping": "Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): GIF-Palette recherchiert; von Offen auf Belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Bildformat und damalige Beispieldateien zur Prüfung des konkreten Kompressionsschritts bestimmen."
+      "sourceRefs": [
+        {
+          "sourceId": "S154",
+          "note": "Palette höchstens 256 Farben; kleinere Palette verkleinert die Kodierung."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0128",
@@ -17119,18 +17154,23 @@
       "legacyId": "C05-P12",
       "kind": "Tatsachenbehauptung",
       "description": "In der Weimarer Republik halbierte ein Gesetz die Angestellten und sogar die Beamten im öffentlichen Dienst.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Gemeint ist vermutlich die Personal-Abbau-Verordnung von 1923. Auf den gelesenen Seiten des Deutschen Historischen Museums wurde sie nicht behandelt; keine Zahlen gelesen.",
-      "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Ein wahrer Kern besteht: Mit der Personalabbauverordnung vom 27. Oktober 1923 wurden in den folgenden Monaten rund 400.000 Beamte, Angestellte und Arbeiter des öffentlichen Dienstes entlassen. Das war nach den Wissenschaftlichen Diensten des Bundestages rund ein Viertel der Beschäftigten, nicht die Hälfte. Zudem war es eine Verordnung, kein Gesetz; Gehälter wurden zugleich gekürzt.",
+      "assessmentBasis": "Darstellung der Wissenschaftlichen Dienste des Bundestages (10/2023) gelesen; Zahlen für einzelne Verwaltungen nicht geprüft.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
         "mapping": "Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Personalabbauverordnung 1923 recherchiert; von Offen auf Teilweise belegt (Umfang etwa ein Viertel statt Hälfte)."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S153",
+          "note": "Personalabbauverordnung 27.10.1923, rund 400.000 Entlassene, etwa ein Viertel des öffentlichen Dienstes."
+        }
+      ],
       "openQuestions": [
-        "Umfang des Personalabbaus 1923/24 anhand einer historischen Fachquelle belegen."
+        "Abbauquoten je Verwaltung (Reich, Länder, Reichsbahn, Post) aus einer historischen Fachquelle."
       ],
       "occurrences": [
         {
@@ -17368,18 +17408,27 @@
       "legacyId": "C05-P13",
       "kind": "Tatsachenbehauptung",
       "description": "In der DDR hatten die Menschen viel Geld, aber kaum Waren; nach der Währungsumstellung konnten sie damit plötzlich Autos kaufen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Historische Aussage zu Kaufkraftüberhang und Währungsunion 1990; keine Quelle gelesen.",
-      "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Ein Kaufkraftüberhang in der DDR ist belegt: Haushalte hielten mehr Geld, als sie mangels Warenangebot ausgeben konnten (zurückgestaute Inflation). Bei der Währungsunion am 1. Juli 1990 wurden Guthaben nach Alter bis 2.000, 4.000 oder 6.000 Mark 1:1 umgestellt, darüber 2:1. Dass die Menschen damit plötzlich Autos kauften, ist in den gelesenen Quellen nicht belegt; die Leipziger Zeitung beschreibt eher, dass ein Kaufrausch ausblieb.",
+      "assessmentBasis": "Fachbeitrag in APuZ (1998) und Rückblick der Leipziger Zeitung (2020) gelesen; keine Zulassungs- oder Absatzstatistik für Autos 1990 gelesen.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
         "mapping": "Funktionen des digitalen Euro laut veröffentlichtem Entwurf, unterstellte Motive und DDR-Vergleich getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Kaufkraftüberhang und Umtauschkurse recherchiert; von Offen auf Teilweise belegt (Autokäufe nicht belegt)."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S155",
+          "note": "Kaufkraftüberhang und zurückgestaute Inflation in der DDR."
+        },
+        {
+          "sourceId": "S156",
+          "note": "Umtauschkurse 1990; ausbleibender Kaufrausch."
+        }
+      ],
       "openQuestions": [
-        "Fachquelle zu Sparguthaben und Umtauschkursen 1990 lesen."
+        "Pkw-Neuzulassungen bzw. Gebrauchtwagenkäufe in Ostdeutschland 1990 (KBA, Statistisches Bundesamt)."
       ],
       "occurrences": [
         {
