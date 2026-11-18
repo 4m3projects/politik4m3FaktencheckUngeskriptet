@@ -475,7 +475,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die besprochene große Vestas-Anlage benötige fast 2.500 Tonnen Beton.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -494,22 +494,22 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Materialliste des konkreten Modells noch nicht unabhängig nachgerechnet. Turbine, Fundament und gesamter Park dürfen nicht verwechselt werden.
+Tabelle 6 weist für 16 Anlagen 39.257 Tonnen Fundamentbeton aus: 2.453,6 Tonnen je Anlage. Fast 2.500 ist damit für das untersuchte Modell nachvollziehbar; kein universeller Wert jeder Windanlage.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Fortgesetzte eigene Quellenprüfung am 18.11.2026 nach Veröffentlichung des ersten Text-Teilstands; konkrete Modell-/Registertabelle unabhängig vom Video gelesen und Mengen abgegrenzt. Keine audiovisuelle Stimm-/Schnittkontrolle.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: 18.11.2026 [Codex]: In Bearbeitung / ohne Endurteil → Belegt. Frühere Begründung: Materialliste des konkreten Modells noch nicht unabhängig nachgerechnet. Turbine, Fundament und gesamter Park dürfen nicht verwechselt werden. Neue Evidenz und Abgrenzung: Tabelle 6 weist für 16 Anlagen 39.257 Tonnen Fundamentbeton aus: 2.453,6 Tonnen je Anlage. Fast 2.500 ist damit für das untersuchte Modell nachvollziehbar; kein universeller Wert jeder Windanlage. Original-Windenergiebewertung und beide verknüpften Faktenchecks erneut auf Auswirkungen geprüft; kein geändertes Urteil erzwungen.
 
 ### Zugeordnete Quellen
 
 - [LCA: EnVentus V162-6.2 MW](https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20EnVentus%20V162-6.2.pdf.coredownload.inline.pdf) · Mali/Garrett, Vestas, 31.01.2023; S. 3–4 und 67. Herstellerstudie mit externer Methodenprüfung; keine unabhängige Kontrolle sämtlicher Inventardaten.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Fortsetzung 18.11.2026: Zusätzlich Tabelle 6/S. 42–43 zur Materialmenge gelesen und auf 16 Anlagen umgerechnet. Gelesene konkrete Tabellenstelle; Modell-/Erhebungsumfang wie in der Begründung. Keine allgemeine Zusage für alle Anlagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## qQAcmDzd9O8-A0013
 
@@ -547,7 +547,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [LCA: EnVentus V162-6.2 MW](https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20EnVentus%20V162-6.2.pdf.coredownload.inline.pdf) · Mali/Garrett, Vestas, 31.01.2023; S. 3–4 und 67. Herstellerstudie mit externer Methodenprüfung; keine unabhängige Kontrolle sämtlicher Inventardaten.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Fortsetzung 18.11.2026: Zusätzlich Tabelle 6/S. 42–43 zur Materialmenge gelesen und auf 16 Anlagen umgerechnet. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -589,7 +589,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [LCA: EnVentus V162-6.2 MW](https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20EnVentus%20V162-6.2.pdf.coredownload.inline.pdf) · Mali/Garrett, Vestas, 31.01.2023; S. 3–4 und 67. Herstellerstudie mit externer Methodenprüfung; keine unabhängige Kontrolle sämtlicher Inventardaten.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Fortsetzung 18.11.2026: Zusätzlich Tabelle 6/S. 42–43 zur Materialmenge gelesen und auf 16 Anlagen umgerechnet. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -631,7 +631,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [LCA: EnVentus V162-6.2 MW](https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20EnVentus%20V162-6.2.pdf.coredownload.inline.pdf) · Mali/Garrett, Vestas, 31.01.2023; S. 3–4 und 67. Herstellerstudie mit externer Methodenprüfung; keine unabhängige Kontrolle sämtlicher Inventardaten.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Fortsetzung 18.11.2026: Zusätzlich Tabelle 6/S. 42–43 zur Materialmenge gelesen und auf 16 Anlagen umgerechnet. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -730,7 +730,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die 2025 stillgelegten deutschen Windanlagen seien im Mittel 23 Jahre und mindestens fast sieben Jahre betrieben worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -749,22 +749,22 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die verlinkte Stilllegungsanalyse ist noch nicht vollständig kontrolliert. Ausgeschiedene Anlagen sind zudem keine repräsentative Stichprobe aller künftigen Lebensdauern.
+Die Fachagentur nennt 23 Betriebsjahre im Text, 23,2 in Tabelle 4 für 456 Anlagen und als kürzeste Betriebsphase knapp sieben Jahre. Das stützt Alfreds Angabe für die stillgelegte Kohorte 2025, nicht eine garantierte Mindestlebensdauer aller Windanlagen.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Fortgesetzte eigene Quellenprüfung am 18.11.2026 nach Veröffentlichung des ersten Text-Teilstands; konkrete Modell-/Registertabelle unabhängig vom Video gelesen und Mengen abgegrenzt. Keine audiovisuelle Stimm-/Schnittkontrolle.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: 18.11.2026 [Codex]: In Bearbeitung / ohne Endurteil → Belegt. Frühere Begründung: Die verlinkte Stilllegungsanalyse ist noch nicht vollständig kontrolliert. Ausgeschiedene Anlagen sind zudem keine repräsentative Stichprobe aller künftigen Lebensdauern. Neue Evidenz und Abgrenzung: Die Fachagentur nennt 23 Betriebsjahre im Text, 23,2 in Tabelle 4 für 456 Anlagen und als kürzeste Betriebsphase knapp sieben Jahre. Das stützt Alfreds Angabe für die stillgelegte Kohorte 2025, nicht eine garantierte Mindestlebensdauer aller Windanlagen. Original-Windenergiebewertung und beide verknüpften Faktenchecks erneut auf Auswirkungen geprüft; kein geändertes Urteil erzwungen.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Status des Windenergieausbaus an Land in Deutschland im Jahr 2025](https://www.fachagentur-wind-solar.de/fileadmin/Veroeffentlichungen/Wind/Analysen/FA_Wind_Solar_Status_des_Windenergieausbaus_an_Land_Jahr_2025.pdf) · Jürgen Quentin, Fachagentur Wind und Solar, 15.01.2026; S. 10–11, Tabelle 4; Marktstammdatenregister/Anlagenregister, Stand der Auswertung.
+  Quellenzugriff am 2026-11-18. Relevanten Berichtstext und Tabelle 4 selbst gelesen. Registerauswertung einer Fachagentur im Auftrag von Branchenverbänden, keine eigene Vollerhebung oder unabhängige Einzelanlagenprüfung. Gelesene konkrete Tabellenstelle; Modell-/Erhebungsumfang wie in der Begründung. Keine allgemeine Zusage für alle Anlagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## qQAcmDzd9O8-A0019
 
@@ -802,7 +802,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [LCA: EnVentus V162-6.2 MW](https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20EnVentus%20V162-6.2.pdf.coredownload.inline.pdf) · Mali/Garrett, Vestas, 31.01.2023; S. 3–4 und 67. Herstellerstudie mit externer Methodenprüfung; keine unabhängige Kontrolle sämtlicher Inventardaten.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Fortsetzung 18.11.2026: Zusätzlich Tabelle 6/S. 42–43 zur Materialmenge gelesen und auf 16 Anlagen umgerechnet. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -1534,7 +1534,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die besprochene Vestas-Anlage benötige gut 800 Tonnen Stahl und Eisen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1553,22 +1553,22 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Materialtabelle und Systemgrenzen noch nicht unabhängig nachgerechnet; nicht mit Parkgesamtmassen verwechseln.
+Turbinen und Fundamente enthalten laut Tabelle 6 zusammen 13.108 Tonnen Stahl/Eisen für 16 Anlagen, also 819,25 Tonnen je Anlage. Weitere Parkkomponenten sind darin nicht enthalten. Die Größenordnung gut 800 stimmt für diese Abgrenzung.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Fortgesetzte eigene Quellenprüfung am 18.11.2026 nach Veröffentlichung des ersten Text-Teilstands; konkrete Modell-/Registertabelle unabhängig vom Video gelesen und Mengen abgegrenzt. Keine audiovisuelle Stimm-/Schnittkontrolle.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: 18.11.2026 [Codex]: In Bearbeitung / ohne Endurteil → Belegt. Frühere Begründung: Materialtabelle und Systemgrenzen noch nicht unabhängig nachgerechnet; nicht mit Parkgesamtmassen verwechseln. Neue Evidenz und Abgrenzung: Turbinen und Fundamente enthalten laut Tabelle 6 zusammen 13.108 Tonnen Stahl/Eisen für 16 Anlagen, also 819,25 Tonnen je Anlage. Weitere Parkkomponenten sind darin nicht enthalten. Die Größenordnung gut 800 stimmt für diese Abgrenzung. Original-Windenergiebewertung und beide verknüpften Faktenchecks erneut auf Auswirkungen geprüft; kein geändertes Urteil erzwungen.
 
 ### Zugeordnete Quellen
 
 - [LCA: EnVentus V162-6.2 MW](https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20EnVentus%20V162-6.2.pdf.coredownload.inline.pdf) · Mali/Garrett, Vestas, 31.01.2023; S. 3–4 und 67. Herstellerstudie mit externer Methodenprüfung; keine unabhängige Kontrolle sämtlicher Inventardaten.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Fortsetzung 18.11.2026: Zusätzlich Tabelle 6/S. 42–43 zur Materialmenge gelesen und auf 16 Anlagen umgerechnet. Gelesene konkrete Tabellenstelle; Modell-/Erhebungsumfang wie in der Begründung. Keine allgemeine Zusage für alle Anlagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## qQAcmDzd9O8-A0038
 
