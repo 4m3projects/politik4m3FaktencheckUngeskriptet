@@ -26,7 +26,7 @@ Lokal ausgeführt und bestanden:
 
 Browserprüfungen verwenden Playwright mit extern bereitgestelltem lokalem Chrome. Der erste Start ohne expliziten Chrome-Pfad scheiterte am fehlenden Playwright-Browser; der erfolgreiche Lauf verwendete den vorhandenen Chrome. Alle fremden Browseranfragen sind im Test abgefangen. Dies ist keine Sichtung des echten YouTube-Videos.
 
-Weitere Generator-, Faktencheck-, Browser- und CI-Ergebnisse werden vor dem Merge im PR dokumentiert. Nicht ausgeführte oder noch laufende Prüfungen gelten hier nicht als bestanden.
+Zusätzlich bestanden: 106 Faktencheck-Regressionen und Generator-Prüfmodus für beide Originalinterviews sowie die Hank-Gegenprüfung. Nach Integration von `main` @ `c914aa3` wurden Alfreds 38 Beziehungen unverändert erhalten; Hank verwendet `R0010` und `L0101`–`L0122`. Zwei veraltete Erwartungen des Player-Browsertests wurden korrigiert: Ein Sprung an den Anfang benötigt eine ausdrückliche Auswahl, und wiederholte Aussagen werden anhand stabiler Vorkommens-IDs statt des ersten Listentreffers ausgewählt. Keine Änderung der Playerlogik. Der erneute Browserlauf und die abschließenden CI-Ergebnisse werden im PR dokumentiert. Nicht ausgeführte oder noch laufende Prüfungen gelten nicht als bestanden.
 
 ## Noch erforderlich für eine Vollprüfung
 

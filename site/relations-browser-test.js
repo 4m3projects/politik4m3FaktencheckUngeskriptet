@@ -117,7 +117,7 @@ async function step(name, fn) {
     assert.match(t, /Originalinterview/);
     assert.match(t, /Reaktionen und weitere Faktenchecks/);
     assert.match(t, /Alfred räumt auf/);
-    assert.match(await open(urlOf(real), '#/video/mdo14671BPE'), /Noch keine Reaktionen zugeordnet/);
+    assert.match(await open(urlOf(real), '#/video/mdo14671BPE'), /Hank Loose/);
     await open(urlOf(real), '#/video/mdo14671BPE/aussage/mdo14671BPE-A0001');
     assert.ok(await page.$('#mdo14671BPE-A0001'));
     assert.match(await open(urlOf(real), '#/video/mlxFA9T88I0/bericht/README.md'), /Horst Lüning/);
