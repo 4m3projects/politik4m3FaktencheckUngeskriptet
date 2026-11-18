@@ -441,6 +441,7 @@ const main = () => document.getElementById('inhalt');
 
 function setPage(html, nav) {
   hideTip();
+  main().style.minHeight = '';
   main().innerHTML = html;
   document.querySelectorAll('.mainnav a[data-nav]').forEach(a => {
     if (a.dataset.nav === nav) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
@@ -884,7 +885,34 @@ function pageError(err) {
 
 /* ---------- Routing ---------- */
 
+/* Reiterwechsel: Die Reiterleiste bleibt an derselben Stelle im Fenster, statt nach oben zu springen. */
+document.addEventListener('click', e => {
+  const a = e.target.closest('.tabs a');
+  if (!a || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+  if (a.getAttribute('href') === location.hash) return;
+  state.tabJump = { top: a.closest('.tabs').getBoundingClientRect().top, at: Date.now() };
+});
+function keepTabsInView(jump) {
+  const t = main().querySelector('.tabs');
+  if (!t) return;
+  const bar = document.querySelector('.topbar');
+  const min = (bar ? bar.getBoundingClientRect().height : 0) + 8;
+  const want = Math.min(Math.max(jump.top, min), window.innerHeight * 0.6);
+  const y = window.scrollY + t.getBoundingClientRect().top - want;
+  /* Kurzer Reiterinhalt: Seite so weit verlängern, dass die Leiste trotzdem stehen bleibt. */
+  const missing = y + window.innerHeight - document.documentElement.scrollHeight;
+  if (missing > 0) main().style.minHeight = (main().offsetHeight + missing) + 'px';
+  window.scrollTo(0, y);
+}
+
 async function route() {
+  const jump = state.tabJump && Date.now() - state.tabJump.at < 2000 ? state.tabJump : null;
+  state.tabJump = null;
+  await routePage();
+  if (jump) keepTabsInView(jump);
+}
+
+async function routePage() {
   const h = decodeURIComponent(location.hash.replace(/^#\/?/, ''));
   const parts = h.split('/');
   if (state.cleanup) { try { state.cleanup(); } catch (e) { console.error(e); } state.cleanup = null; }
