@@ -51,7 +51,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe im November 2019 bei einer EIKE-Veranstaltung gesprochen und sei dort mit Heartland in Kontakt gekommen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -70,13 +70,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine ausreichende zugängliche Quelle. Grundsätzlich prüfbar, aber das Veranstaltungsprogramm war nicht zugänglich. Bisheriger Prüfstand: Der verdeckte Recherchebericht (S062) beschreibt die EIKE-Konferenz Ende November 2019 in München mit einem Vortrag von Heartland-Stratege James Taylor und legt nahe, dass eine nicht namentlich genannte junge YouTuberin dort anwesend war. Dass sie in München sprach oder dort erstmals mit Heartland in Kontakt kam, sagt der Bericht nicht. Dokumentiert ist erst ihr Auftritt beim Heartland-Forum in Madrid am 03.12.2019 und die dort besprochene Zusammenarbeit (S062, S041); Heartland bestätigt die Kooperation im Februar 2020 (S072).
+Der Auftritt ist belegt: Nach Wikipedia unter Berufung auf die Süddeutsche Zeitung vom 04.11.2019 sprach Seibt auf der Münchner Klima- und Energiekonferenz von EIKE im November 2019. Dass sie dort mit Heartland in Kontakt kam, ist nicht belegt: CORRECTIV/Frontal21 beschreiben dieselbe Konferenz mit einem Heartland-Redner, dokumentiert ist die Zusammenarbeit aber erst ab dem Heartland-Auftritt in Madrid am 03.12.2019; Heartland bestätigte sie im Februar 2020.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Wikipedia als Sekundärquelle mit SZ-Beleg, dazu die bereits gelesenen Rechercheberichte; das Konferenzprogramm wurde nicht gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): EIKE-Auftritt über Wikipedia/SZ belegt, Kontaktweg nicht; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
@@ -89,9 +89,12 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 - [Die Heartland-Lobby](https://correctiv.org/top-stories/2020/02/04/die-heartland-lobby-2/) · CORRECTIV und Frontal21; 04.02.2020.
   Quellenzugriff am 2026-11-18. Originalen Recherchebericht zu verdeckter Teilnahme in München und Madrid sowie Gesprächen über die geplante Zusammenarbeit gelesen. Eigendarstellung der beteiligten Reporter; nicht sämtliche heimlichen Aufnahmen oder Finanzunterlagen eigenständig geprüft. Gelesen am 18.11.2026: Münchner EIKE-Konferenz Ende November 2019 mit Heartland-Vortrag; YouTuberin nicht namentlich genannt, kein Redebeitrag in München berichtet; Kontakt und Zusammenarbeitsgespräch in Madrid.
 
+- [Naomi Seibt (englischsprachige Wikipedia)](https://en.wikipedia.org/wiki/Naomi_Seibt) · Wikipedia-Artikel, Stand beim Abruf; verweist für den EIKE-Auftritt auf die Süddeutsche Zeitung vom 04.11.2019.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen; Sekundärquelle, der zitierte SZ-Artikel selbst wurde nicht gelesen. Keine Quellenkopie veröffentlicht. EIKE-Auftritt im November 2019 mit SZ-Beleg.
+
 ### Offene Fragen und Unsicherheiten
 
-- Originalprogramm der Münchner Novemberkonferenz 2019 und unabhängige Bestätigung von Redebeitrag und erstem Kontaktweg finden.
+- Erster Kontakt zu Heartland bleibt offen; Konferenzprogramm nicht eingesehen.
 
 ## mdo14671BPE-A0099
 
@@ -411,7 +414,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibts YouTube-Kanal sei 2020 wegen impfkritischer Inhalte dauerhaft abgeschaltet worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -430,13 +433,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Eine Kanallöschung wegen COVID-19-Inhalten ist berichtet, nach dem gelesenen Bericht aber Anfang Mai 2021 und nicht 2020. Ob die beanstandeten Videos impfkritisch waren und ob die Abschaltung dauerhaft blieb, sagt die Quelle nicht; A0142 behauptet eine Wiederherstellung 2024.
+Eine Löschung des Kanals wegen Corona-bezogener Inhalte ist berichtet, allerdings Anfang Mai 2021 und nicht 2020. „Dauerhaft“ wird von Seibt selbst relativiert, die eine Wiederherstellung 2024 nennt (A0142). Ob die beanstandeten Videos impfkritisch waren, sagt der gelesene Bericht nicht. Einschränkung: Der Bericht stammt von einer Seite mit eigener Ausrichtung und stützt sich auf Seibts eigene Angaben.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Ein gelesener Bericht vom 03.05.2021; keine zweite unabhängige Quelle gefunden.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Zeitpunkt 2021 statt 2020 aus vorhandener Quelle bewertet; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
@@ -445,6 +448,6 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 ### Offene Fragen und Unsicherheiten
 
-- Zeitpunkt (2020 oder 2021), Inhalt der beanstandeten Videos und Dauer der Sperre mit einer zweiten, möglichst neutralen Quelle klären; Zusammenhang mit A0142.
+- Zweite, neutrale Quelle zu Grund und Dauer der Sperre.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
