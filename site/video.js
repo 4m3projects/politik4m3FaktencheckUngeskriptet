@@ -57,6 +57,7 @@ function vcItem(entry, c, o, v, ctx) {
   const shortId = c.id.replace(v.id + '-', '');
   const range = `${hms(entry.start)}–${hms(entry.end)}`;
   const ext = entry.untimed ? null : videoTimeUrl(d.scope.videoUrl, entry.start);
+  const rhetList = (ctx.rhet && ctx.rhet.get(c.id)) || [];
   const issues = entry.issues.map(k => `<span class="badge plain warn-badge">${esc(FactSync.ISSUE_TEXT[k] || k)}</span>`).join('');
   const srcs = (c.sourceRefs || []).map(r => {
     const s = ctx.sources[r.sourceId];
@@ -78,6 +79,7 @@ function vcItem(entry, c, o, v, ctx) {
       <span class="badge kind">Kapitel ${esc(c.chapter)}</span>
       <span class="badge kind">${esc(c.kind)}</span>
       ${issues}
+      ${vcRhetFlags(rhetList)}
     </div>
     <details class="vc-details">
       <summary>Einordnung, Quellen und Zuordnung</summary>
@@ -90,12 +92,18 @@ function vcItem(entry, c, o, v, ctx) {
           <dt>Zeitgrundlage</dt><dd>${esc(o.timeBasis)}</dd>
           ${o.note ? `<dt>Hinweis</dt><dd>${esc(o.note)}</dd>` : ''}
         </dl>
+        ${rhetBlock(rhetList, v)}
         <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind keine Sachquellen zugeordnet.</p>'}</div>
         ${q ? `<div><h4>${isUnverifiable(c) ? 'Was für eine Prüfung fehlt' : 'Offene Fragen'}</h4><ul class="questions">${q}</ul></div>` : ''}
         <p class="small"><a href="#/video/${esc(v.id)}/aussage/${esc(c.id)}">Vollständige Prüfung ${esc(shortId)}</a>${ext ? ` · ${extLink(ext, 'Stelle auf YouTube öffnen')}` : ''}</p>
       </div>
     </details>
   </li>`;
+}
+
+/* Kurze Darstellungs-Merkmale (KI-Hinweise, zweite Ebene) als Badges; per Einstellung ausblendbar (.hide-rhet). */
+function vcRhetFlags(list) {
+  return [...new Set(list.map(a => a.feature))].map(k => `<span class="badge rhet-badge rhet-flag" title="Darstellungshinweis (KI), getrennt von der Faktenbewertung">Darstellung: ${esc(FactRhetoric.FEATURES[k]?.name || k)}</span>`).join('');
 }
 
 async function pageVideoSync(id, opts = {}) {
@@ -107,8 +115,11 @@ async function pageVideoSync(id, opts = {}) {
   const byClaim = Object.fromEntries(d.claims.map(c => [c.id, c]));
   const ctx = {
     speakers: Object.fromEntries((d.speakers || []).map(s => [s.id, s])),
-    sources: Object.fromEntries((d.sources || []).map(s => [s.id, s]))
+    sources: Object.fromEntries((d.sources || []).map(s => [s.id, s])),
+    /* Darstellungshinweise (zweite Ebene) je Aussage; fehlen sie, bleibt die Liste unverändert. */
+    rhet: FactRhetoric.byClaim(v.rhet)
   };
+  const rhetFlags = id => vcRhetFlags(ctx.rhet.get(id) || []);
   const timeline = FactSync.buildTimeline(d.claims, { durationSeconds: d.scope.durationSeconds });
   const occOf = e => (byClaim[e.claimId].occurrences || [])[e.index - 1];
   const entryByKey = Object.fromEntries([...timeline.entries, ...timeline.untimed].map(e => [e.key, e]));
@@ -271,7 +282,7 @@ async function pageVideoSync(id, opts = {}) {
         info.matches.map(m => {
           const c = byClaim[m.entry.claimId];
           return `<li class="${m.match === 'genau' ? 'is-current' : 'is-near'}"><button type="button" class="linkish" data-goto="${esc(m.entry.key)}">${esc(c.description)}</button>
-            <span class="vc-now-badges">${verdictBadge(c.verdict, c.status, c.reason)}${m.match === 'nahe' ? '<span class="badge plain">in der Nähe</span>' : ''}</span></li>`;
+            <span class="vc-now-badges">${verdictBadge(c.verdict, c.status, c.reason)}${m.match === 'nahe' ? '<span class="badge plain">in der Nähe</span>' : ''}${rhetFlags(c.id)}</span></li>`;
         }).join('') + '</ul>';
     } else {
       const n = info.next;
