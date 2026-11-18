@@ -12,11 +12,11 @@ Stand: 2026-11-18 · Video: qQAcmDzd9O8
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 41
-- Abgeschlossen: 19
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 43
+- Abgeschlossen: 21
 - Offen: 0
 - In Bearbeitung: 22
-- Erfasste Behauptungsvorkommen: 41
+- Erfasste Behauptungsvorkommen: 43
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 0
@@ -29,15 +29,15 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 18 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 20 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 14 | 77.8 % |
-| Teilweise belegt | 3 | 16.7 % |
-| Irreführend / Kontext fehlt | 1 | 5.6 % |
+| Belegt | 16 | 80.0 % |
+| Teilweise belegt | 3 | 15.0 % |
+| Irreführend / Kontext fehlt | 1 | 5.0 % |
 | Widerlegt | 0 | 0.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 1 | nicht anwendbar |
@@ -50,12 +50,12 @@ Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachen
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 40. Ohne verlaessliche Personenzuordnung: 40.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 42. Ohne verlaessliche Personenzuordnung: 42.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 40; mit unsicherem eigenem Aussagebezug: 40. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 42; mit unsicherem eigenem Aussagebezug: 42. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 41, Aussagebezug 41 Vorkommen.
+- Plausibel: Sprecherzuordnung 43, Aussagebezug 43 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Prozentnenner |

@@ -12,11 +12,11 @@ Stand: 2026-11-18 · Video: OQnvClWgN-g
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 27
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 29
 - Abgeschlossen: 19
 - Offen: 0
-- In Bearbeitung: 8
-- Erfasste Behauptungsvorkommen: 27
+- In Bearbeitung: 10
+- Erfasste Behauptungsvorkommen: 29
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 1
@@ -51,12 +51,12 @@ Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachen
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 25. Ohne verlaessliche Personenzuordnung: 25.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 27. Ohne verlaessliche Personenzuordnung: 27.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 25; mit unsicherem eigenem Aussagebezug: 25. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 27; mit unsicherem eigenem Aussagebezug: 27. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 28, Aussagebezug 28 Vorkommen.
+- Plausibel: Sprecherzuordnung 30, Aussagebezug 30 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Prozentnenner |
@@ -75,6 +75,7 @@ Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswa
 - [Kapitel 13](berichte/kapitel-13.md)
 - [Kapitel 14](berichte/kapitel-14.md)
 - [Kapitel 15](berichte/kapitel-15.md)
+- [Kapitel 16](berichte/kapitel-16.md)
 - [Kapitel 18](berichte/kapitel-18.md)
 - [Kapitel 21](berichte/kapitel-21.md)
 - [Kapitel 24](berichte/kapitel-24.md)

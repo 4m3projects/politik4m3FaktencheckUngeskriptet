@@ -1738,4 +1738,88 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
+## qQAcmDzd9O8-A0042
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Krall bezeichnet die Corona-Zeit pauschal als Lügenkonstrukt.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:13:15–00:13:27](https://www.youtube.com/watch?v=qQAcmDzd9O8&t=795s) · nicht bestaetigt; Kandidat: Alfred (KI-Figur) · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.
+
+Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+
+Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die abgeglichene Originalstelle 01:50:36–01:50:44 enthält diese Rahmung. Bestätigt wird die Textwiedergabe, nicht die unterliegende globale Behauptung.
+
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+
+Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
+
+Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [Originalinterview: Krall bei ungeskriptet](https://www.youtube.com/watch?v=OQnvClWgN-g) · {ungeskriptet} by Ben; Aufnahme laut Beschreibung 15.09.2026; Upload 17.10.2026; 03:21:01.
+  Quellenzugriff am 2026-11-18. oEmbed und gespeicherte Uploadmetadaten identifiziert. Nur die jeweils angegebenen deutschen automatischen Textstellen erneut gelesen; keine vollständige audiovisuelle Kontrolle. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## qQAcmDzd9O8-A0043
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Krall stelle einen Intelligenzdurchschnitt für Politiker unterhalb des deutschen Durchschnitts dar, ohne an der Stelle eine Messung zu nennen.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:14:23–00:14:38](https://www.youtube.com/watch?v=qQAcmDzd9O8&t=863s) · nicht bestaetigt; Kandidat: Alfred (KI-Figur) · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.
+
+Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+
+Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Originalstelle 01:34:34–01:34:51 enthält die pauschale Vergleichsbehauptung; dort wird keine Erhebung identifiziert. Keine eigene Behauptung über tatsächliche Intelligenzwerte.
+
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+
+Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
+
+Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [Originalinterview: Krall bei ungeskriptet](https://www.youtube.com/watch?v=OQnvClWgN-g) · {ungeskriptet} by Ben; Aufnahme laut Beschreibung 15.09.2026; Upload 17.10.2026; 03:21:01.
+  Quellenzugriff am 2026-11-18. oEmbed und gespeicherte Uploadmetadaten identifiziert. Nur die jeweils angegebenen deutschen automatischen Textstellen erneut gelesen; keine vollständige audiovisuelle Kontrolle. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

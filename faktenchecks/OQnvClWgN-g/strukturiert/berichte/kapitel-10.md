@@ -23,7 +23,7 @@ Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne best
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:07:40; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.
 
 Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
 
@@ -35,7 +35,7 @@ Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-10.01; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand.
+Bewertungsuebergang: Historische Gruppenbewertung V14-10.01: Widerlegt. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
 
 ### Zugeordnete Quellen
 
@@ -65,7 +65,7 @@ Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne best
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Keine ausdrückliche Aussage, dass das Recht Regierungsweisungen gestatte; ältere Vorarbeit formulierte dies zu stark.
+Fundstellenhinweis: Keine ausdrückliche Aussage, dass das Recht Regierungsweisungen gestatte; ältere Vorarbeit formulierte dies zu stark. Historischer Suchlokator: 01:08:00; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.
 
 Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
 
@@ -77,7 +77,7 @@ Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-10.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand.
+Bewertungsuebergang: Historische Gruppenbewertung V14-10.02: Widerlegt als Rechtsbeschreibung; tatsächlicher Einfluss offen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
 
 ### Zugeordnete Quellen
 
@@ -107,7 +107,7 @@ Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne best
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:08:50; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.
 
 Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
 
@@ -119,7 +119,7 @@ Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-10.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand.
+Bewertungsuebergang: Historische Gruppenbewertung V14-10.04: Teilweise belegt / überdehnt. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
 
 ### Zugeordnete Quellen
 
@@ -149,7 +149,7 @@ Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne best
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:11:23; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.
 
 Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
 
@@ -161,7 +161,7 @@ Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-10.06; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand.
+Bewertungsuebergang: Historische Gruppenbewertung V14-10.06: Irreführend / teilweise widerlegt. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
 
 ### Zugeordnete Quellen
 
@@ -191,7 +191,7 @@ Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne best
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:14:30; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.
 
 Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
 
@@ -203,7 +203,7 @@ Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-10.09; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand.
+Bewertungsuebergang: Historische Gruppenbewertung V14-10.09: Nicht ausreichend belegbar / ausschließliche Zweckbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
 
 ### Zugeordnete Quellen
 

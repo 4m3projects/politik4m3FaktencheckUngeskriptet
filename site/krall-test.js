@@ -74,6 +74,18 @@ test('Krall: regionale und globale Korallenfragen nicht zu künstlichem Konflikt
   assert.equal(link.type, 'ergaenzt', 'regionaler Beleg hat anderen Prüfumfang');
 });
 
+test('Krall: über Alfred neu identifizierte Originalbehauptungen bleiben offene Kandidaten', () => {
+  for (const re of [/gesamte Corona-Zeit/, /Politiker seien im Durchschnitt/]) {
+    const original = byText(O, re);
+    assert.equal(original.status, 'In Bearbeitung');
+    assert.equal(original.verdict, null);
+    assert.ok(original.openQuestions.length);
+    const links = relations.relations.find(r => r.reactionVideoId === A).claimLinks.filter(l => l.originalClaimId === original.id);
+    assert.ok(links.length > 0);
+    assert.ok(links.every(l => l.type === 'gibt_wieder'));
+  }
+});
+
 test('Krall: Index-Selbstauskunft und gesperrte Sachbelege bleiben offen', () => {
   for (const re of [/Jeder Satz/, /alle zehn Minuten/, /alle acht Minuten/, /1.360 Punkten/, /Rekordkapitalpolster/]) {
     const c = byText(A, re);

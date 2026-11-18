@@ -221,7 +221,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-02.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-02.04: Irreführend / Kontext fehlt. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -244,7 +244,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 00:08:06; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -265,7 +265,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-02.05; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-02.05: Teilweise belegt. Aktuelle abgegrenzte Prüfung: Teilweise belegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -288,7 +288,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 00:07:30; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -309,7 +309,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-03.08; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-03.08: Widerlegt – Rechenlogik; Ausgangsbestände offen. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -332,7 +332,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 00:19:16; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -353,7 +353,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-10.01; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-10.01: Widerlegt. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -376,7 +376,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:07:40; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -397,7 +397,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-10.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-10.02: Widerlegt als Rechtsbeschreibung; tatsächlicher Einfluss offen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -422,7 +422,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Keine ausdrückliche Aussage, dass das Recht Regierungsweisungen gestatte; ältere Vorarbeit formulierte dies zu stark.",
+          "note": "Keine ausdrückliche Aussage, dass das Recht Regierungsweisungen gestatte; ältere Vorarbeit formulierte dies zu stark. Historischer Suchlokator: 01:08:00; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -443,7 +443,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-10.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-10.04: Teilweise belegt / überdehnt. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -468,7 +468,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:08:50; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -489,7 +489,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-10.06; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-10.06: Irreführend / teilweise widerlegt. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -512,7 +512,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:11:23; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -533,7 +533,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-10.09; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-10.09: Nicht ausreichend belegbar / ausschließliche Zweckbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -562,7 +562,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:14:30; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -583,7 +583,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-11.01; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-11.01: Widerlegt als allgemeine Aussage. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -610,7 +610,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:17:15; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -631,7 +631,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-11.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-11.02: Nicht ausreichend belegbar / unterschiedliche Fragen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -656,7 +656,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:17:34; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -677,7 +677,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-13.07; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-13.07: Nichtfinanzierung widerlegt; Bereicherungsvorwurf unbelegt. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -700,7 +700,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:32:53; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -721,7 +721,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-13.10; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-13.10: Nicht ausreichend belegbar. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -746,7 +746,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:35:15; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -767,7 +767,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-15.01; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-15.01: Widerlegt. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -790,7 +790,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:45:25; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -811,7 +811,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-15.06; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-15.06: Widerlegt für die Eisschildmasse; Meereis-Aussage unklar. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -842,7 +842,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:47:24; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -863,7 +863,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-15.06; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-15.06: Widerlegt für die Eisschildmasse; Meereis-Aussage unklar. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -886,7 +886,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:47:24; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -907,7 +907,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-15.08; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-15.08: Widerlegt als pauschale Gegenwartsbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -932,7 +932,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:47:48; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -953,7 +953,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-14.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-14.02: Nicht ausreichend belegbar / Motivbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -978,7 +978,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:41:00; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -999,7 +999,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-14.03; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-14.03: Prognose. Aktuelle abgegrenzte Prüfung: Meinung / Prognose. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1022,7 +1022,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 01:42:00; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -1043,7 +1043,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-18.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-18.04: Rechnerisch belegt unter den Eingaben; Kursstand offen. Aktuelle abgegrenzte Prüfung: Belegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1066,7 +1066,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 02:13:34; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -1087,7 +1087,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-18.03; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-18.03: Widerlegt für den Verbraucherpreisindex. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1110,7 +1110,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 02:13:22; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -1131,7 +1131,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-18.06; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-18.06: Einordnung: Gegenfrage berechtigt, Zahlenkorrektur unzureichend. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1154,7 +1154,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 02:15:00; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -1175,7 +1175,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-18.06; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-18.06: Einordnung: Gegenfrage berechtigt, Zahlenkorrektur unzureichend. Aktuelle abgegrenzte Prüfung: Meinung / Prognose. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1198,7 +1198,7 @@
           "role": "Rückfrage",
           "roleStatus": "Plausibel",
           "roleBasis": "Prüfende Einwendung, keine Übernahme der Gastbehauptung.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 02:15:00; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -1219,7 +1219,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-21.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-21.02: Widerlegt für die erläuterte Regel des § 6 AStG. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1242,7 +1242,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 02:42:10; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -1263,7 +1263,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-21.03; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-21.03: Widerlegt / historische Gleichsetzung falsch. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1286,7 +1286,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 02:42:36; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -1307,7 +1307,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-25.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-25.04: Teilweise belegt, zentrale Vergleichszahl irreführend. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1330,7 +1330,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 03:17:17; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -1351,7 +1351,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-25.01; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-25.01: Prognose / derzeit nicht verifizierbar. Aktuelle abgegrenzte Prüfung: Meinung / Prognose. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1374,7 +1374,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 03:13:36; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -1395,7 +1395,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-25.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Historische Gruppenbewertung V14-25.02: Nicht ausreichend belegbar / Prognosebilanz offen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1424,7 +1424,7 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
-          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 03:15:00; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
           "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
           "timeHistory": []
         }
@@ -1445,7 +1445,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-24.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt."
+        "assessmentChange": "Historische Gruppenbewertung V14-24.02: Widerlegt – Kategorienfehler. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
       },
       "sourceRefs": [
         {
@@ -1459,6 +1459,98 @@
           "id": "OQnvClWgN-g-O0028",
           "startSeconds": 11013,
           "endSeconds": 11029,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 03:03:35; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "OQnvClWgN-g-A0029",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 16,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die gesamte Corona-Zeit sei ein riesiges Lügenkonstrukt.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Neu über Alfreds Wiedergabe identifizierter Original-Prüfkandidat. Die globale Formulierung benennt keine einzeln falsifizierbare Maßnahme oder Lüge. Erst konkretisieren; nicht aus rhetorischer Schärfe einen nachgewiesenen Faktenfehler machen.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [
+        "Welche konkrete Tatsachenbehauptung, Entscheidung oder Täuschung ist gemeint? Kontext und Originalton kontrollieren."
+      ],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0029",
+          "startSeconds": 6636,
+          "endSeconds": 6644,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "OQnvClWgN-g-A0030",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 13,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Politiker seien im Durchschnitt weniger intelligent als durchschnittliche Deutsche.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Neu über Alfreds Beispiel konkretisierter Original-Prüfkandidat. Grundgesamtheit, Intelligenzmaß und Erhebung fehlen. Die pauschale Herabsetzung ersetzt keine Messung; sachliche Prüfung bleibt unabhängig von rhetorischer Bewertung offen.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [
+        "Welche Grundgesamtheit, Messung und Vergleichsstichprobe sollen den behaupteten Durchschnitt belegen?"
+      ],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0030",
+          "startSeconds": 5674,
+          "endSeconds": 5691,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",

@@ -23,7 +23,7 @@ Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne best
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 03:03:35; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.
 
 Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
 
@@ -35,7 +35,7 @@ Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-24.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt.
+Bewertungsuebergang: Historische Gruppenbewertung V14-24.02: Widerlegt – Kategorienfehler. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
 
 ### Zugeordnete Quellen
 

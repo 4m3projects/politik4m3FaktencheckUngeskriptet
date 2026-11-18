@@ -2002,6 +2002,94 @@
         }
       ],
       "relations": []
+    },
+    {
+      "id": "qQAcmDzd9O8-A0042",
+      "videoId": "qQAcmDzd9O8",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Krall bezeichnet die Corona-Zeit pauschal als Lügenkonstrukt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die abgeglichene Originalstelle 01:50:36–01:50:44 enthält diese Rahmung. Bestätigt wird die Textwiedergabe, nicht die unterliegende globale Behauptung.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "qQAcmDzd9O8-O0042",
+          "startSeconds": 795,
+          "endSeconds": 807,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "qQAcmDzd9O8-A0043",
+      "videoId": "qQAcmDzd9O8",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Krall stelle einen Intelligenzdurchschnitt für Politiker unterhalb des deutschen Durchschnitts dar, ohne an der Stelle eine Messung zu nennen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Originalstelle 01:34:34–01:34:51 enthält die pauschale Vergleichsbehauptung; dort wird keine Erhebung identifiziert. Keine eigene Behauptung über tatsächliche Intelligenzwerte.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "qQAcmDzd9O8-O0043",
+          "startSeconds": 863,
+          "endSeconds": 878,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
     }
   ]
 }

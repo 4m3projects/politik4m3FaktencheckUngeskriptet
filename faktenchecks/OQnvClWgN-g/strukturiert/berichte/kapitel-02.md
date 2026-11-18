@@ -23,7 +23,7 @@ Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne best
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 00:08:06; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.
 
 Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
 
@@ -35,7 +35,7 @@ Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-02.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand.
+Bewertungsuebergang: Historische Gruppenbewertung V14-02.04: Irreführend / Kontext fehlt. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
 
 ### Zugeordnete Quellen
 
@@ -65,7 +65,7 @@ Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne best
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle. Historischer Suchlokator: 00:07:30; heutiger Bereich erneut am Text abgeglichen. Alte Punktmarke bleibt im historischen Register erhalten.
 
 Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
 
@@ -77,7 +77,7 @@ Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-02.05; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand.
+Bewertungsuebergang: Historische Gruppenbewertung V14-02.05: Teilweise belegt. Aktuelle abgegrenzte Prüfung: Teilweise belegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
 
 ### Zugeordnete Quellen
 

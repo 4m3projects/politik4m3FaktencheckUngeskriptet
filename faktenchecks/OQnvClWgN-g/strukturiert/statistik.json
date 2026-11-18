@@ -5,28 +5,28 @@
   "videoId": "OQnvClWgN-g",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 28,
-  "uniqueStatements": 27,
+  "statementRecords": 30,
+  "uniqueStatements": 29,
   "referenceOnlyStatements": 1,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 27,
+  "assertionOccurrences": 29,
   "additionalAssertionOccurrences": 0,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 1,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
     "Offen": 0,
-    "In Bearbeitung": 8,
+    "In Bearbeitung": 10,
     "Abgeschlossen": 19
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 25,
+    "Tatsachenbehauptung": 27,
     "Meinung": 0,
     "Prognose": 2
   },
   "completedFacts": 17,
   "openFacts": 0,
-  "inProgressFacts": 8,
+  "inProgressFacts": 10,
   "percentageDenominator": 17,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
@@ -147,19 +147,19 @@
         ]
       }
     ],
-    "eligibleFacts": 25,
+    "eligibleFacts": 27,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 25,
-    "factsWithUncertainAttribution": 25,
-    "factsWithUncertainOwnRole": 25,
+    "factsWithoutReliablePerson": 27,
+    "factsWithUncertainAttribution": 27,
+    "factsWithUncertainOwnRole": 27,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 28,
+      "Plausibel": 30,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 28,
+      "Plausibel": 30,
       "Ungeklärt": 0
     }
   }

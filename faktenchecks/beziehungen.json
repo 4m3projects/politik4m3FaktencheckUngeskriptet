@@ -926,6 +926,34 @@
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
             }
           ]
+        },
+        {
+          "id": "L1350",
+          "type": "gibt_wieder",
+          "originalClaimId": "OQnvClWgN-g-A0029",
+          "reactionClaimId": "qQAcmDzd9O8-A0042",
+          "reactionSeconds": 795,
+          "note": "Neue konkrete Originalstelle als offener Prüfkandidat; richtige Wiedergabe beweist den behaupteten Sachinhalt nicht.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1351",
+          "type": "gibt_wieder",
+          "originalClaimId": "OQnvClWgN-g-A0030",
+          "reactionClaimId": "qQAcmDzd9O8-A0043",
+          "reactionSeconds": 863,
+          "note": "Neu identifizierte quantifizierte Originalbehauptung; sachliche Prüfung und pauschalisierender Ton getrennt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
         }
       ]
     },
