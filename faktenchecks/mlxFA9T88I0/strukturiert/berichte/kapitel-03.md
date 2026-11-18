@@ -1747,7 +1747,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Eine verringerte Farbvielfalt wurde bei frühen Webbildern zur Verringerung der Dateigröße genutzt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1770,21 +1770,22 @@ Frueherer Suchbereich: [00:50:00–00:56:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Ob Palettenreduktion bei der damaligen Implementierung wie geschildert wirkte, hängt vom Bildformat und Encoder ab. Eine Verringerung ähnlicher Farben allein beweist keine bestimmte Kompressionsrate. Das konkrete frühere Bildmaterial wurde nicht untersucht.
+GIF, das ältere Bildformat im Web, speichert je Bild höchstens 256 Farben in einer Palette. Eine kleinere Palette verringert die Kodierungsgröße deutlich, auf Kosten der Bildtreue. Die Reduktion der Farbvielfalt zur Verkleinerung von Webbildern ist damit als Mechanismus belegt; das konkrete frühere Bildmaterial des Sprechers wurde nicht untersucht.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Onlinebeginn, Programmierung, Hostingkosten, Infrastruktur und eigener Sicherheitsfall von allgemeinen technischen Mechanismen getrennt. Keine Sicherheitsprüfung am Live-System.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): GIF-Palette recherchiert; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Bildformate: GIF](https://web.dev/learn/images/gif?hl=de) · web.dev (Google Chrome), aktualisiert 01.02.2023; Palette mit höchstens 256 Farben, kleinere Palette verkleinert die Kodierung.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Palette höchstens 256 Farben; kleinere Palette verkleinert die Kodierung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Bildformat und damalige Beispieldateien zur Prüfung des konkreten Kompressionsschritts bestimmen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0109
 
