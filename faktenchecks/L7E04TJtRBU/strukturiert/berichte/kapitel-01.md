@@ -35,12 +35,12 @@ Grundlage der Bewertung: Eigene Vorarbeit vom 14.11.2026 vollständig strukturel
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt.
 
 ### Zugeordnete Quellen
 
-- [Politik4M3: Markus Krall bei ungeskriptet](https://www.youtube.com/watch?v=L7E04TJtRBU) · Politik4m3; Upload laut Metadaten 14.11.2026; 30:11.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Englische Spur HTTP 429, nicht verwendet. Keine vollständige audiovisuelle Kontrolle. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Eigene historische Krall-Arbeitsgrundlage](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/blob/d87c59f/docs/arbeitsstaende/krall/vorarbeit-2026-11-14.md) · Eigene redaktionelle Daten vom 14.11.2026; Übernahme mit SHA-256, 178 Gruppenpositionen in 26 Kapiteln.
+  Quellenzugriff am 2026-11-18. Lokale Herkunftsdaten und übernommenen Registerumfang strukturell gezählt. Kein unabhängiger Sachbeleg für die Richtigkeit der alten Urteile. Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -601,7 +601,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Staatsanleihekäufe am Sekundärmarkt sind unter Bedingungen möglich, ein garantierter sofortiger Weiterverkauf ist nicht vorgesehen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -620,25 +620,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die PSPP-FAQ beschreibt Sekundärmarktkäufe, Marktneutralität und Emittentenlimits. Den konkreten Ausschluss eines garantierten sofortigen Weiterverkaufs muss der maßgebliche Rechtstext tragen; dessen Abruf blieb gesperrt.
+Die amtliche OMT-Urteilserläuterung bestätigt bedingte Sekundärmarktkäufe und Sicherungen gegen sicheren Durchverkauf. Das ist keine Freigabe jedes Programms; der verbindliche Volltext blieb separat unzugänglich.
 
 Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt.
 
 ### Zugeordnete Quellen
 
+- [EuGH: Pressemitteilung zum Urteil C-62/14](https://curia.europa.eu/jcms/upload/docs/application/pdf/2015-06/cp150070en.pdf) · Gerichtshof der Europäischen Union, 16.06.2015, S. 3–4; OMT-Programm und Sicherungen. Amtliche Erläuterung, kein verbindlicher Volltext des Urteils.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation.
+
 - [FAQ on the public sector purchase programme](https://www.ecb.europa.eu/mopo/implement/app/html/ecb.faq_pspp.en.html) · EZB, Stand 09.08.2023; operative Regeln, Emissionssperrfrist. Keine vollständige Rechtmäßigkeitsprüfung aller Programme.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation.
 
 - [EuGH C-62/14, Gauweiler](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62014CJ0062) · EuGH, 16.06.2015; Bedingungen des Anleihekaufprogramms.
   Quellenzugriff am 2026-11-18. Abruf lieferte ausschließlich JavaScript-/Roboterprüfung, keinen lesbaren Urteilstext. Als offener Recherchehinweis geführt, nicht als gelesener Sachbeleg. Erfolgloser Abrufversuch – kein Sachbeleg.
 
 ### Offene Fragen und Unsicherheiten
 
-- Maßgebliche rechtliche Sicherungen gegen garantierten unmittelbaren Weiterverkauf aus lesbarem Primärtext nachweisen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## L7E04TJtRBU-A0016
 
@@ -688,7 +691,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Aus einer Staatsquote von 60 Prozent folgen nicht automatisch 60 Prozent Unternehmensaufträge des Staates.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -707,22 +710,22 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Einwand verschiedener Größen ist plausibel. Vollständige amtliche Staatsausgaben-/Transferabgrenzung noch zu ergänzen; die genaue Staatsquote nicht mitgeprüft.
+Eurostats Ausgabenabgrenzung enthält Transfers und Löhne. Staatsquote ist deshalb kein Anteil von Staatsaufträgen am Unternehmensumsatz; die genaue Quote 60 Prozent wird nicht bestätigt.
 
 Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt.
 
 ### Zugeordnete Quellen
 
-- [Finanzierung der gesetzlichen Krankenversicherung](https://www.bundesgesundheitsministerium.de/finanzierung-gkv) · Bundesgesundheitsministerium; Stand 26.05.2026; Bundeszuschuss und Gesundheitsfonds.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Government finance statistics: Ausgabenbestandteile](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Government_finance_statistics) · Eurostat, Datenstand 21.10.2026; ESA-2010-Abgrenzung von Gesamtausgaben und sozialen Transfers. Methodenbezug, keine rückwirkende exakte Quote für 15.09.2026.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## L7E04TJtRBU-A0018
 
@@ -1433,12 +1436,12 @@ Grundlage der Bewertung: Eigene Prüfung des übernommenen Registers und der Zä
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt.
 
 ### Zugeordnete Quellen
 
-- [Politik4M3: Markus Krall bei ungeskriptet](https://www.youtube.com/watch?v=L7E04TJtRBU) · Politik4m3; Upload laut Metadaten 14.11.2026; 30:11.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Englische Spur HTTP 429, nicht verwendet. Keine vollständige audiovisuelle Kontrolle. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Eigene historische Krall-Arbeitsgrundlage](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/blob/d87c59f/docs/arbeitsstaende/krall/vorarbeit-2026-11-14.md) · Eigene redaktionelle Daten vom 14.11.2026; Übernahme mit SHA-256, 178 Gruppenpositionen in 26 Kapiteln.
+  Quellenzugriff am 2026-11-18. Lokale Herkunftsdaten und übernommenen Registerumfang strukturell gezählt. Kein unabhängiger Sachbeleg für die Richtigkeit der alten Urteile. Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation.
 
 ### Offene Fragen und Unsicherheiten
 

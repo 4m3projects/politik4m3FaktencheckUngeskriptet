@@ -16,39 +16,39 @@
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
     "Offen": 0,
-    "In Bearbeitung": 9,
-    "Abgeschlossen": 18
+    "In Bearbeitung": 8,
+    "Abgeschlossen": 19
   },
   "kindCounts": {
     "Tatsachenbehauptung": 25,
     "Meinung": 0,
     "Prognose": 2
   },
-  "completedFacts": 16,
+  "completedFacts": 17,
   "openFacts": 0,
-  "inProgressFacts": 9,
-  "percentageDenominator": 16,
+  "inProgressFacts": 8,
+  "percentageDenominator": 17,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
       "completedCount": 1,
-      "completedFactPercent": 6.2
+      "completedFactPercent": 5.9
     },
     {
       "category": "Teilweise belegt",
       "completedCount": 1,
-      "completedFactPercent": 6.2
+      "completedFactPercent": 5.9
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 5,
-      "completedFactPercent": 31.2
+      "completedCount": 6,
+      "completedFactPercent": 35.3
     },
     {
       "category": "Widerlegt",
       "completedCount": 9,
-      "completedFactPercent": 56.2
+      "completedFactPercent": 52.9
     },
     {
       "category": "Nicht ausreichend belegbar",

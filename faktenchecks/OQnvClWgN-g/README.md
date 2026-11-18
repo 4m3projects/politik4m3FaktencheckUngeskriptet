@@ -2,7 +2,7 @@
 
 [Codex] Stand 2026-11-18 · {ungeskriptet} by Ben · Upload 2026-10-17 · **Teilbestand geprüft**.
 
-[Video auf YouTube](https://www.youtube.com/watch?v=OQnvClWgN-g) · [Gemeinsamer Vergleich](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/#/video/OQnvClWgN-g/bericht/vergleich.md) · [Prüfbericht](strukturiert/README.md)
+[Video auf YouTube](https://www.youtube.com/watch?v=OQnvClWgN-g) · [Gemeinsamer Vergleich](#/video/OQnvClWgN-g/bericht/vergleich.md) · [Prüfbericht](strukturiert/README.md)
 
 Gezielte atomare Auswahl als Referenz für zwei Reaktionsvideos. Nicht das gesamte 3:21-Stunden-Interview geprüft. 178 frühere Gruppenpositionen separat als historischer Arbeitsstand erhalten; keine Hochrechnung und keine Video-Fehlerquote.
 

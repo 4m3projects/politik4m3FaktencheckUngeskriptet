@@ -109,7 +109,12 @@ async function step(name, fn) {
     assert.match(t, /Naomi Seibt/);
     assert.match(t, /Horst Lüning/);
     assert.doesNotMatch(t, /Noch nicht eingeordnet/);
-    assert.match(t, /2 Originalinterviews/);
+    const base = path.join(ROOT, 'faktenchecks');
+    const count = fs.readdirSync(base).filter(id => {
+      const p = path.join(base, id, 'video.json');
+      return fs.existsSync(p) && JSON.parse(fs.readFileSync(p, 'utf8')).role === 'original';
+    }).length;
+    assert.match(t, new RegExp(count + ' Originalinterviews'));
   });
 
   await step('Echte Daten: Detailseite zeigt Rolle und Reaktionsabschnitt, Direktlinks funktionieren', async () => {

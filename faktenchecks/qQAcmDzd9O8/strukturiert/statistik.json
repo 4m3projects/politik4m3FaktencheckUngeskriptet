@@ -5,45 +5,45 @@
   "videoId": "qQAcmDzd9O8",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 35,
-  "uniqueStatements": 35,
+  "statementRecords": 41,
+  "uniqueStatements": 41,
   "referenceOnlyStatements": 0,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 35,
+  "assertionOccurrences": 41,
   "additionalAssertionOccurrences": 0,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 0,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
     "Offen": 0,
-    "In Bearbeitung": 18,
-    "Abgeschlossen": 17
+    "In Bearbeitung": 22,
+    "Abgeschlossen": 19
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 34,
+    "Tatsachenbehauptung": 40,
     "Meinung": 1,
     "Prognose": 0
   },
-  "completedFacts": 16,
+  "completedFacts": 18,
   "openFacts": 0,
-  "inProgressFacts": 18,
-  "percentageDenominator": 16,
+  "inProgressFacts": 22,
+  "percentageDenominator": 18,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 13,
-      "completedFactPercent": 81.2
+      "completedCount": 14,
+      "completedFactPercent": 77.8
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 2,
-      "completedFactPercent": 12.5
+      "completedCount": 3,
+      "completedFactPercent": 16.7
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 1,
-      "completedFactPercent": 6.2
+      "completedFactPercent": 5.6
     },
     {
       "category": "Widerlegt",
@@ -106,19 +106,19 @@
         ]
       }
     ],
-    "eligibleFacts": 34,
+    "eligibleFacts": 40,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 34,
-    "factsWithUncertainAttribution": 34,
-    "factsWithUncertainOwnRole": 34,
+    "factsWithoutReliablePerson": 40,
+    "factsWithUncertainAttribution": 40,
+    "factsWithUncertainOwnRole": 40,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 35,
+      "Plausibel": 41,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 35,
+      "Plausibel": 41,
       "Ungeklärt": 0
     }
   }

@@ -143,7 +143,7 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Das Original erschien am 17. Oktober 2026 und dauert ungefähr 3 Stunden 21 Minuten.",
+      "description": "Das Originalinterview erschien am 17. Oktober 2026.",
       "status": "Abgeschlossen",
       "verdict": "Belegt",
       "reason": "Passt zu den unabhängig gelesenen Originalmetadaten (12.061 Sekunden). Aufnahme und Upload bleiben getrennt.",
@@ -639,7 +639,7 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Die besprochene große Vestas-Anlage benötige fast 2.500 Tonnen Beton sowie gut 800 Tonnen Stahl und Eisen.",
+      "description": "Die besprochene große Vestas-Anlage benötige fast 2.500 Tonnen Beton.",
       "status": "In Bearbeitung",
       "verdict": null,
       "reason": "Materialliste des konkreten Modells noch nicht unabhängig nachgerechnet. Turbine, Fundament und gesamter Park dürfen nicht verwechselt werden.",
@@ -1003,10 +1003,10 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Growian habe 87 Millionen Mark gekostet und zwischen 1983 und dem Abriss 1988 nur rund 420 Stunden Betrieb erreicht.",
+      "description": "Growian habe 87 Millionen Mark gekostet.",
       "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Mehrere historische Detailzahlen in einer Anekdote; Kostenbegriff und Betriebszeit benötigen Originalbelege. Alfred kennzeichnet die negative Energiebilanz selbst nur als Möglichkeit.",
+      "reason": "Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1020,7 +1020,7 @@
         }
       ],
       "openQuestions": [
-        "Growian-Projektbericht lesen; Kosten und Betriebsstunden separat prüfen. Keine bestätigte Energiebilanz aus geringer Laufzeit ableiten."
+        "Originalen Projekt-/Kostenbericht für die genannte Summe lesen."
       ],
       "occurrences": [
         {
@@ -1715,6 +1715,278 @@
           "id": "qQAcmDzd9O8-O0035",
           "startSeconds": 879,
           "endSeconds": 908,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "qQAcmDzd9O8-A0036",
+      "videoId": "qQAcmDzd9O8",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Originalinterview dauert ungefähr drei Stunden und 21 Minuten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Originalmetadaten: 12.061 Sekunden, gerundet korrekt.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "qQAcmDzd9O8-O0036",
+          "startSeconds": 50,
+          "endSeconds": 55,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "qQAcmDzd9O8-A0037",
+      "videoId": "qQAcmDzd9O8",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die besprochene Vestas-Anlage benötige gut 800 Tonnen Stahl und Eisen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Materialtabelle und Systemgrenzen noch nicht unabhängig nachgerechnet; nicht mit Parkgesamtmassen verwechseln.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [
+        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+      ],
+      "occurrences": [
+        {
+          "id": "qQAcmDzd9O8-O0037",
+          "startSeconds": 328,
+          "endSeconds": 338,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "qQAcmDzd9O8-A0038",
+      "videoId": "qQAcmDzd9O8",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Growian habe insgesamt ungefähr 420 Betriebsstunden erreicht.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Originaler Betriebsbericht fehlt in dieser Gegenprüfung. Daraus wird keine bestätigte negative Lebenszyklusbilanz abgeleitet.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [
+        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+      ],
+      "occurrences": [
+        {
+          "id": "qQAcmDzd9O8-O0038",
+          "startSeconds": 455,
+          "endSeconds": 463,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "qQAcmDzd9O8-A0039",
+      "videoId": "qQAcmDzd9O8",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Growian sei 1983 in Betrieb gegangen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Datierung der Inbetriebnahme am ursprünglichen Projektbericht noch zu kontrollieren.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [
+        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+      ],
+      "occurrences": [
+        {
+          "id": "qQAcmDzd9O8-O0039",
+          "startSeconds": 443,
+          "endSeconds": 451,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "qQAcmDzd9O8-A0040",
+      "videoId": "qQAcmDzd9O8",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Growian sei 1988 abgerissen worden.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Abrissdatum und die zeitliche Abgrenzung zum vorherigen Ende des Testbetriebs noch primär zu prüfen.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [
+        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+      ],
+      "occurrences": [
+        {
+          "id": "qQAcmDzd9O8-O0040",
+          "startSeconds": 463,
+          "endSeconds": 474,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "qQAcmDzd9O8-A0041",
+      "videoId": "qQAcmDzd9O8",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "An einem schwachen Standort könne die energetische Amortisation ungefähr ein Jahr dauern.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die UBA-Modellbandbreite reicht ungefähr bis ein Jahr; sie hängt zusätzlich zum Standort vom Referenzstrommix ab. Schwachwind allein erklärt die längste Dauer nicht.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "qQAcmDzd9O8-O0041",
+          "startSeconds": 389,
+          "endSeconds": 394,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",

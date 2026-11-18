@@ -13,9 +13,9 @@ Stand: 2026-11-18 · Video: OQnvClWgN-g
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 27
-- Abgeschlossen: 18
+- Abgeschlossen: 19
 - Offen: 0
-- In Bearbeitung: 9
+- In Bearbeitung: 8
 - Erfasste Behauptungsvorkommen: 27
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0
@@ -29,16 +29,16 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 16 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 17 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 1 | 6.2 % |
-| Teilweise belegt | 1 | 6.2 % |
-| Irreführend / Kontext fehlt | 5 | 31.2 % |
-| Widerlegt | 9 | 56.2 % |
+| Belegt | 1 | 5.9 % |
+| Teilweise belegt | 1 | 5.9 % |
+| Irreführend / Kontext fehlt | 6 | 35.3 % |
+| Widerlegt | 9 | 52.9 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 2 | nicht anwendbar |
 

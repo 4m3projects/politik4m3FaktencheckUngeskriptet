@@ -8,7 +8,7 @@ Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte verfügba
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Das Original erschien am 17. Oktober 2026 und dauert ungefähr 3 Stunden 21 Minuten.
+**Eigene Beschreibung:** Das Originalinterview erschien am 17. Oktober 2026.
 
 Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
@@ -473,7 +473,7 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Die besprochene große Vestas-Anlage benötige fast 2.500 Tonnen Beton sowie gut 800 Tonnen Stahl und Eisen.
+**Eigene Beschreibung:** Die besprochene große Vestas-Anlage benötige fast 2.500 Tonnen Beton.
 
 Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
@@ -812,7 +812,7 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Growian habe 87 Millionen Mark gekostet und zwischen 1983 und dem Abriss 1988 nur rund 420 Stunden Betrieb erreicht.
+**Eigene Beschreibung:** Growian habe 87 Millionen Mark gekostet.
 
 Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
@@ -833,7 +833,7 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Mehrere historische Detailzahlen in einer Anekdote; Kostenbegriff und Betriebszeit benötigen Originalbelege. Alfred kennzeichnet die negative Energiebilanz selbst nur als Möglichkeit.
+Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.
 
 Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
 
@@ -848,7 +848,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Growian-Projektbericht lesen; Kosten und Betriebsstunden separat prüfen. Keine bestätigte Energiebilanz aus geringer Laufzeit ableiten.
+- Originalen Projekt-/Kostenbericht für die genannte Summe lesen.
 
 ## qQAcmDzd9O8-A0021
 
@@ -1485,5 +1485,257 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Offene Fragen und Unsicherheiten
 
 - Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+
+## qQAcmDzd9O8-A0036
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Das Originalinterview dauert ungefähr drei Stunden und 21 Minuten.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:00:50–00:00:55](https://www.youtube.com/watch?v=qQAcmDzd9O8&t=50s) · nicht bestaetigt; Kandidat: Alfred (KI-Figur) · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.
+
+Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+
+Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Originalmetadaten: 12.061 Sekunden, gerundet korrekt.
+
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+
+Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
+
+Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [Originalinterview: Krall bei ungeskriptet](https://www.youtube.com/watch?v=OQnvClWgN-g) · {ungeskriptet} by Ben; Aufnahme laut Beschreibung 15.09.2026; Upload 17.10.2026; 03:21:01.
+  Quellenzugriff am 2026-11-18. oEmbed und gespeicherte Uploadmetadaten identifiziert. Nur die jeweils angegebenen deutschen automatischen Textstellen erneut gelesen; keine vollständige audiovisuelle Kontrolle. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## qQAcmDzd9O8-A0037
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die besprochene Vestas-Anlage benötige gut 800 Tonnen Stahl und Eisen.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:05:28–00:05:38](https://www.youtube.com/watch?v=qQAcmDzd9O8&t=328s) · nicht bestaetigt; Kandidat: Alfred (KI-Figur) · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.
+
+Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+
+Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Materialtabelle und Systemgrenzen noch nicht unabhängig nachgerechnet; nicht mit Parkgesamtmassen verwechseln.
+
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+
+Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
+
+Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [LCA: EnVentus V162-6.2 MW](https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20EnVentus%20V162-6.2.pdf.coredownload.inline.pdf) · Mali/Garrett, Vestas, 31.01.2023; S. 3–4 und 67. Herstellerstudie mit externer Methodenprüfung; keine unabhängige Kontrolle sämtlicher Inventardaten.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+
+## qQAcmDzd9O8-A0038
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Growian habe insgesamt ungefähr 420 Betriebsstunden erreicht.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:07:35–00:07:43](https://www.youtube.com/watch?v=qQAcmDzd9O8&t=455s) · nicht bestaetigt; Kandidat: Alfred (KI-Figur) · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.
+
+Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+
+Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Originaler Betriebsbericht fehlt in dieser Gegenprüfung. Daraus wird keine bestätigte negative Lebenszyklusbilanz abgeleitet.
+
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+
+Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
+
+Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
+  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+
+## qQAcmDzd9O8-A0039
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Growian sei 1983 in Betrieb gegangen.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:07:23–00:07:31](https://www.youtube.com/watch?v=qQAcmDzd9O8&t=443s) · nicht bestaetigt; Kandidat: Alfred (KI-Figur) · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.
+
+Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+
+Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Datierung der Inbetriebnahme am ursprünglichen Projektbericht noch zu kontrollieren.
+
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+
+Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
+
+Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
+  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+
+## qQAcmDzd9O8-A0040
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Growian sei 1988 abgerissen worden.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:07:43–00:07:54](https://www.youtube.com/watch?v=qQAcmDzd9O8&t=463s) · nicht bestaetigt; Kandidat: Alfred (KI-Figur) · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.
+
+Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+
+Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Abrissdatum und die zeitliche Abgrenzung zum vorherigen Ende des Testbetriebs noch primär zu prüfen.
+
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+
+Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
+
+Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
+  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+
+## qQAcmDzd9O8-A0041
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** An einem schwachen Standort könne die energetische Amortisation ungefähr ein Jahr dauern.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:06:29–00:06:34](https://www.youtube.com/watch?v=qQAcmDzd9O8&t=389s) · nicht bestaetigt; Kandidat: Alfred (KI-Figur) · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.
+
+Grundlage des Aussagebezugs: Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.
+
+Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die UBA-Modellbandbreite reicht ungefähr bis ein Jahr; sie hängt zusätzlich zum Standort vom Referenzstrommix ab. Schwachwind allein erklärt die längste Dauer nicht.
+
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+
+Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
+
+Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+
+### Zugeordnete Quellen
+
+- [Ökobilanzen von Windenergie- und Photovoltaikanlagen](https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf) · Hengstler et al., UBA Climate Change 35/2021; S. 35 und 307; Primärenergie-/Referenzstrommixabhängigkeit.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

@@ -144,3 +144,6 @@ test('Echte Projektdaten: jedes Video eingeordnet, bestehende Interviews als Ori
   assert.deepEqual(R.validateRelations(rel, videos), []);
   assert.ok(!/FIKTIV|Fiktive Testdaten/.test(JSON.stringify(rel)), 'keine Testdaten in beziehungen.json');
 });
+
+// [Codex] Der reale Drei-Video-Fall aus #13 läuft auch im bestehenden CI-Einstieg.
+require('./krall-test.js');

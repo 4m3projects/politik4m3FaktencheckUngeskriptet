@@ -182,6 +182,30 @@
       "details": "EZB, Stand 09.08.2023; operative Regeln, Emissionssperrfrist. Keine vollständige Rechtmäßigkeitsprüfung aller Programme.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S029",
+      "title": "EuGH: Pressemitteilung zum Urteil C-62/14",
+      "url": "https://curia.europa.eu/jcms/upload/docs/application/pdf/2015-06/cp150070en.pdf",
+      "details": "Gerichtshof der Europäischen Union, 16.06.2015, S. 3–4; OMT-Programm und Sicherungen. Amtliche Erläuterung, kein verbindlicher Volltext des Urteils.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S030",
+      "title": "Government finance statistics: Ausgabenbestandteile",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Government_finance_statistics",
+      "details": "Eurostat, Datenstand 21.10.2026; ESA-2010-Abgrenzung von Gesamtausgaben und sozialen Transfers. Methodenbezug, keine rückwirkende exakte Quote für 15.09.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S031",
+      "title": "Eigene historische Krall-Arbeitsgrundlage",
+      "url": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/blob/d87c59f/docs/arbeitsstaende/krall/vorarbeit-2026-11-14.md",
+      "details": "Eigene redaktionelle Daten vom 14.11.2026; Übernahme mit SHA-256, 178 Gruppenpositionen in 26 Kapiteln.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Lokale Herkunftsdaten und übernommenen Registerumfang strukturell gezählt. Kein unabhängiger Sachbeleg für die Richtigkeit der alten Urteile."
     }
   ],
   "speakers": [
@@ -207,12 +231,12 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt."
       },
       "sourceRefs": [
         {
-          "sourceId": "S003",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S031",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation."
         }
       ],
       "openQuestions": [],
@@ -820,28 +844,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Staatsanleihekäufe am Sekundärmarkt sind unter Bedingungen möglich, ein garantierter sofortiger Weiterverkauf ist nicht vorgesehen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Die PSPP-FAQ beschreibt Sekundärmarktkäufe, Marktneutralität und Emittentenlimits. Den konkreten Ausschluss eines garantierten sofortigen Weiterverkaufs muss der maßgebliche Rechtstext tragen; dessen Abruf blieb gesperrt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die amtliche OMT-Urteilserläuterung bestätigt bedingte Sekundärmarktkäufe und Sicherungen gegen sicheren Durchverkauf. Das ist keine Freigabe jedes Programms; der verbindliche Volltext blieb separat unzugänglich.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt."
       },
       "sourceRefs": [
         {
+          "sourceId": "S029",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation."
+        },
+        {
           "sourceId": "S028",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation."
         },
         {
           "sourceId": "S027",
           "note": "Erfolgloser Abrufversuch – kein Sachbeleg."
         }
       ],
-      "openQuestions": [
-        "Maßgebliche rechtliche Sicherungen gegen garantierten unmittelbaren Weiterverkauf aus lesbarem Primärtext nachweisen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "L7E04TJtRBU-O0015",
@@ -914,24 +940,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Aus einer Staatsquote von 60 Prozent folgen nicht automatisch 60 Prozent Unternehmensaufträge des Staates.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Der Einwand verschiedener Größen ist plausibel. Vollständige amtliche Staatsausgaben-/Transferabgrenzung noch zu ergänzen; die genaue Staatsquote nicht mitgeprüft.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Eurostats Ausgabenabgrenzung enthält Transfers und Löhne. Staatsquote ist deshalb kein Anteil von Staatsaufträgen am Unternehmensumsatz; die genaue Quote 60 Prozent wird nicht bestätigt.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt."
       },
       "sourceRefs": [
         {
-          "sourceId": "S021",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S030",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "L7E04TJtRBU-O0017",
@@ -1683,12 +1707,12 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt."
       },
       "sourceRefs": [
         {
-          "sourceId": "S003",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S031",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation."
         }
       ],
       "openQuestions": [],

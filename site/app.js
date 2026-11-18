@@ -148,6 +148,8 @@ function resolvePath(baseDir, href) {
 }
 
 function mdLink(text, href, ctx) {
+  const route = /^#\/video\/([A-Za-z0-9_-]{11})(?:\/(?:aussage\/[A-Za-z0-9_-]+|bericht\/[A-Za-z0-9_./-]+\.md))?$/.exec(href);
+  if (route && entryOf(route[1])) return `<a href="${esc(href)}">${text}</a>`;
   const [path, frag] = href.split('#');
   if (/^https:\/\//i.test(href)) return `<a href="${esc(href)}" rel="noopener noreferrer" target="_blank">${text}</a>`;
   if (/^[a-z]+:/i.test(href)) return text; // andere Schemata werden nicht verlinkt

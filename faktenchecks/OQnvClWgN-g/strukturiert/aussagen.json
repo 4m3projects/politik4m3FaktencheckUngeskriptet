@@ -182,6 +182,14 @@
       "details": "EuGH, 16.06.2015; Bedingungen des Anleihekaufprogramms.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Abruf lieferte ausschließlich JavaScript-/Roboterprüfung, keinen lesbaren Urteilstext. Als offener Recherchehinweis geführt, nicht als gelesener Sachbeleg."
+    },
+    {
+      "id": "S030",
+      "title": "Government finance statistics: Ausgabenbestandteile",
+      "url": "https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Government_finance_statistics",
+      "details": "Eurostat, Datenstand 21.10.2026; ESA-2010-Abgrenzung von Gesamtausgaben und sozialen Transfers. Methodenbezug, keine rückwirkende exakte Quote für 15.09.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
     }
   ],
   "speakers": [
@@ -1430,24 +1438,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine Staatsquote von 60 Prozent bedeute 60 Prozent Staatsaufträge an große Unternehmen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Ausgaben im Verhältnis zum BIP und Aufträge im Verhältnis zu Unternehmensumsätzen haben verschiedene Nenner. Für das Sachurteil muss die amtliche Abgrenzung der Staatsausgaben konkret belegt werden; die Zahl 60 bleibt separat offen.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Staatsausgaben/BIP und Aufträge/Unternehmensumsatz haben andere Nenner. Die Ausgaben umfassen auch Transfers und Löhne. Die behauptete Identität folgt daraus nicht; die genaue Staatsquote bleibt hier ungeprüft.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-24.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand."
+        "assessmentChange": "Frühere Gruppenbewertung nicht blind übernommen; vorliegende Begründung und offener/abgeschlossener Status gelten nur für diesen abgegrenzten Gegenstand. Quellenprüfung ergänzt am 18.11.2026; vorherigen Arbeitsstatus nicht als Endbewertung behandelt."
       },
       "sourceRefs": [
         {
-          "sourceId": "S021",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S030",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Stimmidentifizierung oder weitergehende Verifikation."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0028",
