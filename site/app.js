@@ -278,6 +278,48 @@ async function loadVideo(id) {
   return v;
 }
 
+/* ---------- YouTube-Vorschaubilder nur nach Zustimmung ---------- */
+/* Ohne Zustimmung lädt die Seite keine Bilder von YouTube. Die Wahl wird nur im eigenen Browser
+   gespeichert und lässt sich in der Fußzeile jederzeit ändern. */
+const THUMB_KEY = 'p4m3.ytVorschaubilder';
+function thumbChoice() {
+  try { const v = localStorage.getItem(THUMB_KEY); return v === 'ja' || v === 'nein' ? v : null; } catch (e) { return state.thumbChoice || null; }
+}
+function setThumbChoice(v) {
+  state.thumbChoice = v;
+  try { localStorage.setItem(THUMB_KEY, v); } catch (e) { /* ohne Speicher gilt die Wahl nur für diesen Aufruf */ }
+  updateThumbSetting();
+  route();
+}
+function ytIdOf(videoId, url) {
+  const fromUrl = FactSync.youtubeId(url);
+  return fromUrl || (/^[A-Za-z0-9_-]{11}$/.test(videoId || '') ? videoId : null);
+}
+function thumbImg(videoId, url, cls = 'thumb') {
+  if (thumbChoice() !== 'ja') return '';
+  const id = ytIdOf(videoId, url);
+  return id ? `<img class="${cls}" src="https://i.ytimg.com/vi/${esc(id)}/mqdefault.jpg" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="320" height="180">` : '';
+}
+function thumbPrompt() {
+  if (thumbChoice()) return '';
+  return `<div class="notice thumb-ask" role="region" aria-label="Vorschaubilder von YouTube">
+    <p><strong>Vorschaubilder von YouTube anzeigen?</strong> Dann lädt dein Browser die Bilder direkt von YouTube (i.ytimg.com, Google); dabei werden mindestens deine IP-Adresse und technische Gerätedaten übertragen. Ohne Zustimmung lädt diese Seite nichts von YouTube. Die Wahl wird nur in deinem Browser gespeichert und lässt sich unten in der Fußzeile ändern.</p>
+    <div class="btn-row"><button type="button" class="btn" data-thumbs="ja">Vorschaubilder anzeigen</button><button type="button" class="btn ghost" data-thumbs="nein">Nein, danke</button></div>
+  </div>`;
+}
+function updateThumbSetting() {
+  const b = document.getElementById('thumb-setting');
+  if (!b) return;
+  const on = thumbChoice() === 'ja';
+  b.textContent = on ? 'YouTube-Vorschaubilder: an (ausschalten)' : 'YouTube-Vorschaubilder: aus (einschalten)';
+  b.setAttribute('aria-pressed', on ? 'true' : 'false');
+}
+document.addEventListener('click', e => {
+  const b = e.target.closest('[data-thumbs]');
+  if (b) { setThumbChoice(b.dataset.thumbs); return; }
+  if (e.target.closest('#thumb-setting')) setThumbChoice(thumbChoice() === 'ja' ? 'nein' : 'ja');
+});
+
 /* ---------- Originale, Reaktionen und Beziehungen (site/relations.js) ---------- */
 
 function roleOf(id) { return state.index.videos.find(v => v.id === id)?.video?.role || null; }
@@ -341,11 +383,15 @@ function relationSummary(r, videos, side) {
   const other = side === 'original' ? r.reactionVideoId : r.originalVideoId;
   const e = entryOf(other);
   const conflicts = (r.claimLinks || []).filter(l => linkView(r, l, videos).cmp.state === 'konflikt').length;
-  return `<li class="rel-item">
+  const thumb = thumbImg(other, e?.video?.videoUrl, 'rel-thumb');
+  return `<li class="rel-item${thumb ? ' has-thumb' : ''}">
+    ${thumb ? `<a href="#/video/${esc(other)}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}
+    <div class="rel-body">
     <a href="#/video/${esc(other)}"><strong>${esc(videoName(other))}</strong></a>
     <div class="small">${esc(e?.video?.channel || '')}${side === 'original' && e?.video?.reactionType ? ' · ' + esc(reactionTypeName(e.video.reactionType)) : ''} · Analyse: ${esc(e?.video?.workStatus || 'unbekannt')} · Zuordnung ${esc(r.certainty.toLowerCase())}</div>
     <div class="small">${esc(r.basis)}</div>
     <div class="small">${(r.claimLinks || []).length} verknüpfte Aussagen${conflicts ? ` · <span class="rel-conflict-text">⚠ ${conflicts} offene${conflicts === 1 ? 'r' : ''} Prüfkonflikt${conflicts === 1 ? '' : 'e'}</span>` : ''}</div>
+    </div>
   </li>`;
 }
 
@@ -359,7 +405,7 @@ async function relationsSection(v) {
     return `<section class="section" id="reaktionen" aria-labelledby="h-reaktionen">
       <div class="section-head"><h2 id="h-reaktionen">Reaktionen und weitere Faktenchecks</h2>
       <p>Videos anderer Kanäle, die sich nachweislich auf dieses Interview beziehen. Ihre Aussagen werden eigenständig geprüft; der Faktencheck dieses Interviews ist dafür Kontext, kein Wahrheitsmaßstab.</p></div>
-      ${rels.length ? `<ul class="rel-list">${rels.map(r => relationSummary(r, videos, 'original')).join('')}</ul>` : '<p class="muted">Noch keine Reaktionen zugeordnet.</p>'}
+      ${rels.length ? `${thumbPrompt()}<ul class="rel-list">${rels.map(r => relationSummary(r, videos, 'original')).join('')}</ul>` : '<p class="muted">Noch keine Reaktionen zugeordnet.</p>'}
       ${links ? `<h3 style="margin-top:20px">Gegenüberstellung verknüpfter Aussagen</h3><div class="cmp-list">${links}</div>` : ''}
     </section>`;
   }
@@ -370,7 +416,7 @@ async function relationsSection(v) {
     return `<section class="section" id="bezuege" aria-labelledby="h-bezuege">
       <div class="section-head"><h2 id="h-bezuege">Bezüge auf Originalinterviews</h2>
       <p>Wiedergaben und eigene Behauptungen dieser Reaktion, verknüpft mit den geprüften Aussagen des Originals.</p></div>
-      ${rels.length ? `<ul class="rel-list">${rels.map(r => relationSummary(r, videos, 'reaction')).join('')}</ul>` : '<p class="muted">Noch keinem Original zugeordnet.</p>'}
+      ${rels.length ? `${thumbPrompt()}<ul class="rel-list">${rels.map(r => relationSummary(r, videos, 'reaction')).join('')}</ul>` : '<p class="muted">Noch keinem Original zugeordnet.</p>'}
       ${links ? `<div class="cmp-list">${links}</div>` : ''}
     </section>`;
   }
@@ -383,7 +429,7 @@ function roleLine(v) {
   if (!m) return '<p class="role-line small">Noch nicht als Original oder Reaktion eingeordnet.</p>';
   if (m.role === 'original') {
     const n = (state.rel.byOriginal.get(v.id) || []).length;
-    return `<p class="role-line"><span class="badge kind">Originalinterview</span>${n ? ` <a href="#/video/${esc(v.id)}">${n} zugeordnete Reaktion${n === 1 ? '' : 'en'}</a>` : ''}</p>`;
+    return `<p class="role-line"><span class="badge kind">Originalinterview</span>${n ? ` <a href="#/video/${esc(v.id)}/reaktionen">${n} zugeordnete Reaktion${n === 1 ? '' : 'en'}</a>` : ''}</p>`;
   }
   const origs = (state.rel.byReaction.get(v.id) || []).map(r => `<a href="#/video/${esc(r.originalVideoId)}">${esc(videoName(r.originalVideoId))}</a>`);
   return `<p class="role-line"><span class="badge kind">${esc(reactionTypeName(m.reactionType))}</span> von ${esc(m.channel)}${origs.length ? ` · bezieht sich auf: ${origs.join(', ')}` : ''}</p>`;
@@ -428,6 +474,7 @@ async function pageHome() {
     const nReact = (state.rel.byOriginal.get(v.id) || []).length;
     const scope = v.data?.scope;
     return `<a class="card" href="#/video/${esc(v.id)}">
+      ${thumbImg(v.id, v.video?.videoUrl || scope?.videoUrl, 'card-thumb')}
       <div class="claim-top">${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
       ${v.meta.Status ? `<span class="small">${esc(v.meta.Status)}</span>` : ''}</div>
       <h3>${esc(v.title)}</h3>
@@ -467,6 +514,7 @@ async function pageHome() {
     </section>
     <section class="section" aria-labelledby="h-videos">
       <div class="section-head"><h2 id="h-videos">Geprüfte Originalinterviews</h2><p>Interviews des Kanals „ungeskriptet“. Reaktionen und Faktenchecks anderer Kanäle stehen jeweils auf der Seite des Interviews, auf das sie sich beziehen.</p></div>
+      ${cards ? thumbPrompt() : ''}
       <div class="cards">${cards || '<p class="muted">Noch keine Faktenchecks veröffentlicht.</p>'}</div>
     </section>
     ${otherCards ? `<section class="section" aria-labelledby="h-other">
@@ -595,6 +643,8 @@ function videoHeader(v, tab) {
     v.data ? ['aussagen', `#/video/${v.id}`, 'Aussagen'] : null,
     v.data && FactSync.youtubeId(scope?.videoUrl) ? ['video', `#/video/${v.id}/video`, 'Video mit Faktencheck'] : null,
     ['berichte', `#/video/${v.id}/bericht/README.md`, 'Berichte'],
+    v.video?.role === 'original' ? ['reaktionen', `#/video/${v.id}/reaktionen`, `Reaktionen (${(state.rel.byOriginal.get(v.id) || []).length})`] : null,
+    v.video?.role === 'reaction' ? ['reaktionen', `#/video/${v.id}/reaktionen`, 'Bezug zum Original'] : null,
   ].filter(Boolean);
   return `<nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / ${esc(v.id)}</nav>
   <header class="video-head">
@@ -635,13 +685,11 @@ async function pageVideo(id, focusClaim) {
   const catRows = s?.categories ? s.categories.map(cat =>
     `<li><i class="fill-${VKEY[cat.category]}" aria-hidden="true"></i>${esc(cat.category)} <b>${cat.completedCount}</b>${cat.completedFactPercent != null ? ` <span class="muted">(${pct(cat.completedFactPercent)})</span>` : ''}</li>`).join('') : '';
 
-  const relHtml = await relationsSection(v);
   const linkedVideos = await loadLinked([...(state.rel.byOriginal.get(v.id) || []), ...(state.rel.byReaction.get(v.id) || [])]);
   const speakers = (d.speakers || []).map(sp => `<li><strong>${esc(sp.name || 'Unbenannte Stimme')}</strong> (${esc(sp.id)}, ${esc(sp.videoRole)})<br><span class="small">${esc(sp.identityBasis)}</span></li>`).join('');
 
   setPage(`<div class="wrap">
     ${videoHeader(v, 'aussagen')}
-    ${v.video?.role === 'reaction' ? relHtml : ''}
     ${scope.kind === 'Teilbestand' && !researchDone(scope) ? `<p class="notice warn"><strong>Teilbestand – keine Bilanz des ganzen Videos.</strong> ${esc(scope.coverageNote)}</p>` : `<p class="notice"><strong>Umfang der Prüfung.</strong> ${esc(scope.coverageNote)}</p>`}
     <div class="grid-2" style="margin-top:20px">
       <div>
@@ -674,7 +722,6 @@ async function pageVideo(id, focusClaim) {
           <p style="margin:0"><a href="${esc(repoUrl())}/issues?q=${encodeURIComponent(v.id)}" rel="noopener noreferrer" target="_blank">Diskussionen zu diesem Video →</a></p></div>
       </aside>
     </div>
-    ${v.video?.role === 'original' ? relHtml : ''}
   </div>`, 'start');
   document.title = v.title + ' – Politik4M3 Faktencheck Ungeskriptet';
 
@@ -743,11 +790,8 @@ async function pageReport(id, file) {
 
   const src = await getText(v.id + '/' + file);
   const html = renderMarkdown(src, { videoId: v.id, file, files: v.files });
-  /* Ohne strukturierte Daten gibt es keine Aussagenansicht; Zuordnungen stehen dann hier. */
-  const relHtml = v.data ? '' : await relationsSection(v);
   setPage(`<div class="wrap">
     ${videoHeader(v, 'berichte')}
-    ${relHtml}
     <div class="report-layout">
       <nav class="report-nav" aria-label="Berichte">${navHtml}</nav>
       <div>
@@ -759,6 +803,19 @@ async function pageReport(id, file) {
   decorateVerdicts(main());
   const h1 = /^#\s+(.+)$/m.exec(src);
   document.title = (h1 ? stripMd(h1[1]) + ' – ' : '') + 'Politik4M3 Faktencheck Ungeskriptet';
+  window.scrollTo(0, 0);
+}
+
+/* Reiter „Reaktionen“ (Original) bzw. „Bezug zum Original“ (Reaktion). */
+async function pageRelations(id) {
+  const v = await loadVideo(id);
+  if (!v.video) { location.replace(`#/video/${id}`); return; }
+  const html = await relationsSection(v);
+  setPage(`<div class="wrap">
+    ${videoHeader(v, 'reaktionen')}
+    ${html}
+  </div>`, 'start');
+  document.title = (v.video.role === 'original' ? 'Reaktionen: ' : 'Bezug zum Original: ') + v.title + ' – Politik4M3 Faktencheck Ungeskriptet';
   window.scrollTo(0, 0);
 }
 
@@ -844,10 +901,12 @@ async function route() {
       /* Fehlende Beziehungsdatei ist kein Fehler: dann gibt es schlicht keine Zuordnungen. */
       state.relations = await getJson('beziehungen.json').catch(() => ({ schemaVersion: 1, relations: [] }));
       state.rel = FactRelations.buildIndex(state.relations);
+      updateThumbSetting();
     }
     if (parts[0] === 'video' && parts[1]) {
       if (parts[2] === 'video') return await pageVideoSync(parts[1], { autostart: parts[3] === 'start' });
       if (parts[2] === 'bericht') return await pageReport(parts[1], parts.slice(3).join('/'));
+      if (parts[2] === 'reaktionen') return await pageRelations(parts[1]);
       if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
       return await pageVideo(parts[1]);
     }

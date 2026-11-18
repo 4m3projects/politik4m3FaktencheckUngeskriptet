@@ -2,7 +2,7 @@
 
 Erstellt von: Claude, Auftrag aus Issue #4. Grundlage: [REAKTIONSVIDEOS_KONZEPT.md](REAKTIONSVIDEOS_KONZEPT.md).
 
-Die Hauptübersicht der Webseite zeigt nur **Originalinterviews** des Kanals „ungeskriptet“. Videos anderer Kanäle, die sich nachweislich auf ein Original beziehen (Reaktionen, Kommentare, Analysen, eigene Faktenchecks, journalistische Einordnungen), erscheinen auf der Seite des jeweiligen Originals. Eine Reaktion kann sich auf mehrere Originale beziehen. Es gibt keine feste Kanalliste und keine Sonderbehandlung bestimmter Personen.
+Die Hauptübersicht der Webseite zeigt nur **Originalinterviews** des Kanals „ungeskriptet“. Videos anderer Kanäle, die sich nachweislich auf ein Original beziehen (Reaktionen, Kommentare, Analysen, eigene Faktenchecks, journalistische Einordnungen), erscheinen auf der Seite des jeweiligen Originals im Reiter „Reaktionen (n)“ (`#/video/<ID>/reaktionen`). Eine Reaktion kann sich auf mehrere Originale beziehen. Es gibt keine feste Kanalliste und keine Sonderbehandlung bestimmter Personen.
 
 ## Dateien
 

@@ -113,11 +113,13 @@ async function step(name, fn) {
   });
 
   await step('Echte Daten: Detailseite zeigt Rolle und Reaktionsabschnitt, Direktlinks funktionieren', async () => {
-    const t = await open(urlOf(real), '#/video/mlxFA9T88I0');
-    assert.match(t, /Originalinterview/);
+    assert.match(await open(urlOf(real), '#/video/mlxFA9T88I0'), /Originalinterview/);
+    const tabs = await page.$$eval('.tabs a', a => a.map(x => [x.innerText, x.getAttribute('href')]));
+    assert.deepEqual(tabs.find(x => /^Reaktionen/.test(x[0])), ['Reaktionen (1)', '#/video/mlxFA9T88I0/reaktionen'], 'Reiter Reaktionen in der Reiterleiste');
+    const t = await open(urlOf(real), '#/video/mlxFA9T88I0/reaktionen');
     assert.match(t, /Reaktionen und weitere Faktenchecks/);
     assert.match(t, /Alfred räumt auf/);
-    assert.match(await open(urlOf(real), '#/video/mdo14671BPE'), /Hank Loose/);
+    assert.match(await open(urlOf(real), '#/video/mdo14671BPE/reaktionen'), /Hank Loose/);
     await open(urlOf(real), '#/video/mdo14671BPE/aussage/mdo14671BPE-A0001');
     assert.ok(await page.$('#mdo14671BPE-A0001'));
     assert.match(await open(urlOf(real), '#/video/mlxFA9T88I0/bericht/README.md'), /Horst Lüning/);
@@ -128,11 +130,11 @@ async function step(name, fn) {
 
   const B = urlOf(fix);
   await step('Echte Reaktion: Hank unter Naomi mit Rücklink und begrenzter Gegenprüfung', async () => {
-    const t = await open(urlOf(real), '#/video/mdo14671BPE');
+    const t = await open(urlOf(real), '#/video/mdo14671BPE/reaktionen');
     assert.match(t, /Hank Loose/);
     assert.match(t, /Teilbestand geprüft/);
     assert.ok(await page.$('a[href="#/video/zUnxDR5ttRU"]'));
-    const reaction = await open(urlOf(real), '#/video/zUnxDR5ttRU');
+    const reaction = (await open(urlOf(real), '#/video/zUnxDR5ttRU')) + (await open(urlOf(real), '#/video/zUnxDR5ttRU/reaktionen'));
     assert.match(reaction, /Bezüge auf Originalinterviews/);
     assert.match(reaction, /Teilbestand – keine Bilanz des ganzen Videos/);
     assert.ok(await page.$('.role-line a[href="#/video/mdo14671BPE"]'));
@@ -166,7 +168,7 @@ async function step(name, fn) {
   });
 
   await step('Fixtures: Original zeigt beide Reaktionen mit Kanal, Typ, Status und Konflikthinweis', async () => {
-    const t = await open(B, '#/video/' + F.O1);
+    const t = await open(B, '#/video/' + F.O1 + '/reaktionen');
     assert.match(t, /Reaktionen und weitere Faktenchecks/);
     assert.match(t, /Fiktiver Kanal A · Kritische Reaktion/);
     assert.match(t, /Fiktiver Kanal B · Zustimmende Reaktion/);
@@ -176,16 +178,18 @@ async function step(name, fn) {
     assert.match(t, /Prüfkonflikt offen/);
     assert.match(t, /Abweichung begründet geklärt/);
     assert.match(t, /Unterschiedlicher Bezugszeitpunkt oder Geltungsbereich/);
-    const badge = await page.$eval(`#${F.O1}-A0001 .claim-top`, e => e.innerText);
-    assert.match(badge, /Prüfkonflikt mit verknüpfter Aussage/);
     const review = await page.$eval('#L0001', e => e.innerText);
     assert.match(review, /Review-Aufgabe/);
     assert.match(review, /Widerlegt/);
     assert.match(review, /Belegt/);
+    await open(B, '#/video/' + F.O1);
+    const badge = await page.$eval(`#${F.O1}-A0001 .claim-top`, e => e.innerText);
+    assert.match(badge, /Prüfkonflikt mit verknüpfter Aussage/);
   });
 
   await step('Fixtures: Reaktion verlinkt auf beide Originale und stellt Aussagen gegenüber', async () => {
-    const t = await open(B, '#/video/' + F.RA);
+    const t = await open(B, '#/video/' + F.RA + '/reaktionen');
+    assert.ok(await page.$('.tabs a[aria-current="page"][href="#/video/' + F.RA + '/reaktionen"]'), 'Reiter „Bezug zum Original“ aktiv');
     assert.match(t, /Kritische Reaktion von Fiktiver Kanal A/);
     assert.match(t, /Bezüge auf Originalinterviews/);
     const back = await page.$$eval('.role-line a', a => a.map(x => x.getAttribute('href')));
@@ -205,10 +209,35 @@ async function step(name, fn) {
 
   await step('Mobil (390 px): Gegenüberstellung ohne horizontales Scrollen', async () => {
     await page.setViewportSize({ width: 390, height: 800 });
-    await open(B, '#/video/' + F.O1);
+    await open(B, '#/video/' + F.O1 + '/reaktionen');
     const over = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
     assert.ok(over <= 0, 'horizontal verschoben um ' + over + ' px');
     await page.setViewportSize({ width: 1280, height: 900 });
+  });
+
+  await step('YouTube-Vorschaubilder: ohne Zustimmung keine Anfrage, nach Zustimmung angezeigt, abschaltbar', async () => {
+    const thumbs = [];
+    page.on('request', r => { if (r.url().startsWith('https://i.ytimg.com/')) thumbs.push(r.url()); });
+    await page.evaluate(() => localStorage.clear());
+    await open(urlOf(real), '#/');
+    assert.equal(await page.$$eval('img.card-thumb', x => x.length), 0);
+    assert.ok(await page.$('.thumb-ask'), 'Abfrage sichtbar');
+    assert.deepEqual(thumbs, [], 'ohne Zustimmung nichts von YouTube');
+    await page.click('[data-thumbs="ja"]');
+    await page.waitForSelector('img.card-thumb');
+    const srcs = await page.$$eval('img.card-thumb', x => x.map(i => i.getAttribute('src')));
+    assert.deepEqual(srcs.sort(), ['https://i.ytimg.com/vi/mdo14671BPE/mqdefault.jpg', 'https://i.ytimg.com/vi/mlxFA9T88I0/mqdefault.jpg']);
+    assert.equal(await page.$('.thumb-ask'), null, 'Abfrage nach Wahl verschwunden');
+    assert.match(await page.innerText('#thumb-setting'), /an/);
+    await open(urlOf(real), '#/video/mlxFA9T88I0/reaktionen');
+    assert.equal(await page.$eval('img.rel-thumb', i => i.getAttribute('src')), 'https://i.ytimg.com/vi/sLMyP0H7tSY/mqdefault.jpg');
+    await page.click('#thumb-setting');
+    await page.waitForFunction(() => !document.querySelector('img.rel-thumb'));
+    assert.match(await page.innerText('#thumb-setting'), /aus/);
+    await open(urlOf(real), '#/');
+    assert.equal(await page.$('.thumb-ask'), null, 'Ablehnung wird gemerkt');
+    assert.equal(await page.$$eval('img.card-thumb', x => x.length), 0);
+    await page.evaluate(() => localStorage.clear());
   });
 
   await step('Keine Skriptfehler in der Konsole', async () => {
