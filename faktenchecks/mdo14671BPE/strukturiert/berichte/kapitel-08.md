@@ -1,0 +1,261 @@
+# Kapitel 08: strukturierte Faktenprüfung
+
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
+
+## mdo14671BPE-A0076
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Seibt berichte von sexualisierter Gewalt in ihrer Kindheit durch einen damaligen familiären Betreuer.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:38:47–00:40:46](https://www.youtube.com/watch?v=mdo14671BPE&t=2327s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+- [00:51:43–00:51:50](https://www.youtube.com/watch?v=mdo14671BPE&t=3103s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Moderierende Zusammenfassung, nicht zusätzliche unabhängige Evidenz.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+- [00:51:49–00:51:50](https://www.youtube.com/watch?v=mdo14671BPE&t=3109s) · nicht bestaetigt; Kandidat: Naomi Seibt · Ausdrückliche Zustimmung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlicher unmittelbarer Übernahmekontext; Stimme und genaue Bezugsspanne unkontrolliert.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Persönlicher Missbrauchsbericht, kein öffentlich überprüfter Tatnachweis. Die Prüfung veröffentlicht keine zusätzlichen Identifizierungsdetails und zieht aus fehlender externer Bestätigung keinen Gegenbeweis.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Eine unabhängige Prüfung würde freiwillig zugängliche belastbare Einzelfallbelege voraussetzen; keine Recherche in privaten Daten unbeteiligter Angehöriger.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
+
+## mdo14671BPE-A0077
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Seibt habe das Erlebte erst als junge Erwachsene als Missbrauch eingeordnet und erstmals mit 18 darüber gesprochen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:39:11–00:40:39](https://www.youtube.com/watch?v=mdo14671BPE&t=2351s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+- [00:55:54–00:56:14](https://www.youtube.com/watch?v=mdo14671BPE&t=3354s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Zeitpunkt des Erinnerns, Einordnens und Mitteilens sind verschiedene Unterbehauptungen. Der persönliche Bericht lässt sich aus der Textfassung nicht unabhängig bestätigen oder widerlegen.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Erinnerungsentwicklung und erste Mitteilung nicht aus nachträglichen Formulierungsunterschieden als Falschaussage bewerten.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
+
+## mdo14671BPE-A0078
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Seibts Mutter sei durch ihren früheren Ehemann mit erheblichen Schulden zurückgelassen worden.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:38:51–00:38:59](https://www.youtube.com/watch?v=mdo14671BPE&t=2331s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Privater finanzieller Vorgang ohne geprüfte Unterlagen; keine Schuldzuweisung als festgestellte Tatsache.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Freiwillig zugängliche Belege wären nötig; keine privaten Vermögensverhältnisse Dritter ausforschen.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
+
+## mdo14671BPE-A0079
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der betreffende frühere Betreuer sei etwa anderthalb Jahre vor dem Gespräch gestorben.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:40:53–00:41:06](https://www.youtube.com/watch?v=mdo14671BPE&t=2453s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Persönliche Angabe; Person und Todesdatum nicht unabhängig geprüft.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Keine Identität oder Todesursache aus ungesicherten Namensähnlichkeiten ableiten.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
+
+## mdo14671BPE-A0080
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Seibt habe ihren Familiennamen von diesem früheren Betreuer.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:41:00–00:41:06](https://www.youtube.com/watch?v=mdo14671BPE&t=2460s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+
+Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Privater familienrechtlicher Sachverhalt; kein Nachweis eines Adoptions- oder Namensverfahrens gelesen.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
+
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Bei notwendiger Fortführung datenschutzgerecht zwischen Namensführung und Abstammung unterscheiden.
+
+- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten.
+
+[Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

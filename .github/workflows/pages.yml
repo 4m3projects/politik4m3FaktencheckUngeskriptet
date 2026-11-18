@@ -1,0 +1,111 @@
+# Erzeugt die statische Webseite aus den Faktencheck-Daten und veröffentlicht sie über GitHub Pages.
+# Pull Requests: nur Prüfung und Testaufbau, keine Veröffentlichung.
+# Push auf main: Prüfung, Aufbau und Veröffentlichung.
+# Es werden ausschließlich die Seitendateien aus site/ (ohne *-test.js), eigene Markdown-Berichte und die beiden
+# strukturierten JSON-Dateien je Video übernommen – keine anderen Dateien aus dem Repository.
+name: Webseite
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: pages-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Publikationsprüfung
+        shell: pwsh
+        run: ./scripts/Test-Publication.ps1
+
+      - name: Faktencheck-Regressionstests (PowerShell 7)
+        shell: pwsh
+        run: ./scripts/Test-Factcheck.ps1
+
+      - name: Generator-Prüfmodus je Video
+        shell: pwsh
+        run: |
+          foreach ($dir in Get-ChildItem -Directory faktenchecks) {
+            if (Test-Path (Join-Path $dir.FullName 'strukturiert/aussagen.json')) {
+              Write-Host "Build-Factcheck -Check: $($dir.Name)"
+              ./scripts/Build-Factcheck.ps1 -VideoId $dir.Name -Check
+            }
+          }
+
+      - name: Synchronisationslogik testen
+        run: node --test site/sync-test.js
+
+      - name: Webseite zusammenstellen
+        env:
+          OUT: ${{ runner.temp }}/site
+        run: |
+          set -euo pipefail
+          rm -rf "$OUT"
+          mkdir -p "$OUT/daten"
+          cp site/index.html site/style.css site/app.js site/sync.js site/video.js "$OUT/"
+          videos='[]'
+          for dir in faktenchecks/*/; do
+            id=$(basename "$dir")
+            [[ "$id" =~ ^[A-Za-z0-9_-]{11}$ ]] || continue
+            [[ -f "$dir/README.md" ]] || continue
+            mkdir -p "$OUT/daten/$id"
+            files=$(cd "$dir" && find . -type f -name '*.md' | sed 's|^\./||' | LC_ALL=C sort)
+            while IFS= read -r f; do
+              [[ -n "$f" ]] || continue
+              mkdir -p "$OUT/daten/$id/$(dirname "$f")"
+              cp "$dir/$f" "$OUT/daten/$id/$f"
+            done <<< "$files"
+            structured=false
+            if [[ -f "$dir/strukturiert/aussagen.json" ]]; then
+              structured=true
+              mkdir -p "$OUT/daten/$id/strukturiert"
+              jq -c . "$dir/strukturiert/aussagen.json" > "$OUT/daten/$id/strukturiert/aussagen.json"
+              if [[ -f "$dir/strukturiert/statistik.json" ]]; then
+                jq -c . "$dir/strukturiert/statistik.json" > "$OUT/daten/$id/strukturiert/statistik.json"
+              fi
+            fi
+            title=$(grep -m1 '^# ' "$dir/README.md" | sed 's/^# //')
+            videos=$(jq -c --arg id "$id" --arg title "${title:-$id}" --argjson structured "$structured" \
+              --argjson files "$(printf '%s\n' "$files" | jq -R . | jq -sc 'map(select(length > 0))')" \
+              '. + [{id: $id, title: $title, structured: $structured, files: $files}]' <<< "$videos")
+          done
+          jq -n --argjson videos "$videos" \
+            --arg commit "${GITHUB_SHA}" \
+            --arg repository "${GITHUB_REPOSITORY}" \
+            --arg generated "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            '{generated: $generated, commit: $commit, repository: $repository, videos: $videos}' > "$OUT/daten/index.json"
+          echo "Videos: $(jq '.videos | length' "$OUT/daten/index.json")"
+          find "$OUT" -type f | sort
+
+      - name: Seitenartefakt hochladen
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ${{ runner.temp }}/site
+
+  deploy:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Auf GitHub Pages veröffentlichen
+        id: deployment
+        uses: actions/deploy-pages@v4
