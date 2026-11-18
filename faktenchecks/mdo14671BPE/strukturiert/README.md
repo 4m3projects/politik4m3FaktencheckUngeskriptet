@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Recherche abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+**Abdeckung: Teilbestand.** Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
 Stand: 2026-11-18 · Video: mdo14671BPE
 
@@ -14,8 +14,9 @@ Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete P
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 247
 - Abgeschlossen: 118
-- Offen: 129
+- Offen (noch nicht geprueft): 25
 - In Bearbeitung: 0
+- Nicht ueberpruefbar (abschliessend ohne Urteil): 104
 - Erfasste Behauptungsvorkommen: 277
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 30
 - Davon bestaetigte Wiederholungen derselben Person: 0
@@ -31,7 +32,7 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 Nenner der folgenden Tatsachenprozente: 81 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
-Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
+Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
@@ -42,7 +43,7 @@ Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eig
 | Nicht ausreichend belegbar | 4 | 4.9 % |
 | Meinung / Prognose | 37 | nicht anwendbar |
 
-Keine Endbewertung fuer offene/laufende Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
+Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
 ## Sprecherverzeichnis und Zuordnungsstand
 
@@ -59,10 +60,10 @@ Tatsachen mit unsicherer Sprecherzuordnung: 210; mit unsicherem eigenem Aussageb
 - Plausibel: Sprecherzuordnung 282, Aussagebezug 281 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 1 Vorkommen.
 
-| Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Prozentnenner |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| Naomi Seibt | 0 | 0 | 0 | 0 | 0 |
-| Ben | 0 | 0 | 0 | 0 | 0 |
+| Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
+| --- | ---: | ---: | ---: | ---: | ---: | ---: |
+| Naomi Seibt | 0 | 0 | 0 | 0 | 0 | 0 |
+| Ben | 0 | 0 | 0 | 0 | 0 | 0 |
 
 Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswahl, nicht keine getaetigten Aussagen. Kategorieverteilungen stehen in statistik.json; bei Nenner null sind alle Tatsachenprozente null. Die Gesamtstatistik behaelt plausible eigene Bezuege bei und bestaetigt damit keine Sprecheridentitaet. Ungeklaerte eigene Bezuege gehen nicht in ihre Hauptzaehlung ein.
 

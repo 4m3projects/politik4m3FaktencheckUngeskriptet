@@ -1,6 +1,6 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
@@ -95,7 +95,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für Arbeitslose würden Unterkunfts- und Heizkosten übernommen; der gemeinte Kreis der Leistungsberechtigten ist in der Passage nicht eindeutig abgegrenzt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -135,13 +135,13 @@ Frueherer Suchbereich: [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Redaktionelle Nachprüfung am 17.11.2026: Teaser und Hauptgespräch um 01:23:20–01:24:12 stellen Arbeitsplatzverlust, Transferleistungen und steigende Kosten Erwerbstätiger gegenüber. Die Passage erläutert keine Anspruchsvoraussetzungen. Sie behauptet aber auch nicht ausdrücklich einen voraussetzungslosen Anspruch ausnahmslos aller Arbeitslosen. Eine verkürzte Bezugnahme auf bereits leistungsberechtigte Personen ist mit dem verfügbaren Text vereinbar. Die gelesenen §§ 7, 9 und 22 SGB II sowie die BA-Information belegen die rechtlichen Bedingungen und die mögliche Kostenübernahme; sie beweisen keine irreführende Äußerung des Sprechers. Ohne eindeutige Abgrenzung des gemeinten Personenkreises und ohne Hörkontrolle ist die zuvor angenommene pauschale Lesart nicht hinreichend abgesichert. Deshalb wird Irreführend / Kontext fehlt zurückgenommen und keine Endbewertung vergeben. Eine engere, auf berechtigte Personen bezogene Lesart darf nicht nachträglich als wörtlich so erklärt ausgegeben werden.
+Nicht überprüfbar – mehrdeutige Aussage; Quellen gelesen, ohne eindeutige Lesart keine Bewertung. Redaktionelle Nachprüfung am 17.11.2026: Teaser und Hauptgespräch um 01:23:20–01:24:12 stellen Arbeitsplatzverlust, Transferleistungen und steigende Kosten Erwerbstätiger gegenüber. Die Passage erläutert keine Anspruchsvoraussetzungen. Sie behauptet aber auch nicht ausdrücklich einen voraussetzungslosen Anspruch ausnahmslos aller Arbeitslosen. Eine verkürzte Bezugnahme auf bereits leistungsberechtigte Personen ist mit dem verfügbaren Text vereinbar. Die gelesenen §§ 7, 9 und 22 SGB II sowie die BA-Information belegen die rechtlichen Bedingungen und die mögliche Kostenübernahme; sie beweisen keine irreführende Äußerung des Sprechers. Ohne eindeutige Abgrenzung des gemeinten Personenkreises und ohne Hörkontrolle ist die zuvor angenommene pauschale Lesart nicht hinreichend abgesichert. Deshalb wird Irreführend / Kontext fehlt zurückgenommen und keine Endbewertung vergeben. Eine engere, auf berechtigte Personen bezogene Lesart darf nicht nachträglich als wörtlich so erklärt ausgegeben werden.
 
 Grundlage der Bewertung: Redaktionelle Textprüfung von Teaser 00:00:00–00:00:14 und Hauptgespräch 01:23:20–01:24:12. Vorhandene juristische Recherche unverändert; keine neue individuelle Leistungsrechnung, keine Hör- oder Videokontrolle.
 
 Uebernahme: Die in der Anreizargumentation enthaltene Leistungsannahme separat ausgewiesen; Wohn- und Heizkosten bleiben ein zusammenhängender Prüfgegenstand.
 
-Bewertungsuebergang: Nach Kontextprüfung von Abgeschlossen / Irreführend / Kontext fehlt auf In Bearbeitung / null geändert. Die gesetzliche Einordnung bleibt erhalten; die zuvor angenommene pauschale Auslegung wird nicht als gesichert behandelt. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Nach Kontextprüfung von Abgeschlossen / Irreführend / Kontext fehlt auf In Bearbeitung / null geändert. Die gesetzliche Einordnung bleibt erhalten; die zuvor angenommene pauschale Auslegung wird nicht als gesichert behandelt. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -171,7 +171,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für einzelne Beschäftigte könne Grundsicherungsbezug gegenüber der Weiterarbeit attraktiver werden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -211,13 +211,13 @@ Frueherer Suchbereich: [01:23:20–01:24:20](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Die Passage illustriert eine mögliche individuelle Abwägung, nennt aber weder einen überprüfbaren Haushalt noch Lohn, Miete, Fahrtkosten oder tatsächlich beobachtete Arbeitsaufgabe. Das neu gelesene IAB-Papier 2025 diskutiert anreizdämpfende Wohnkosten und Hinzuverdienstregeln, beschreibt zugleich finanzielle Anreize zur Arbeitsaufnahme. Es ist kein Nachweis einer konkreten Verhaltenswirkung unter dem Regelstand September 2026. Die neu gelesene BA-Seite zeigt außerdem, dass auch Erwerbstätige ergänzende Leistungen erhalten können. Ihr Rechenbeispiel enthält uneinheitliche Beträge und wird deshalb nicht nachgerechnet oder als Beleg übernommen. Ein positiver Lohnabstand, ein geringer Zugewinn und persönliche Motivation sind verschiedene Fragen. Die Tatsachenannahme bleibt in Bearbeitung; daraus wird weder ein pauschales Urteil über Leistungsbeziehende noch eine dokumentierte Kündigung konstruiert.
+Nicht überprüfbar – mehrdeutige Aussage; Quellen gelesen, ohne eindeutige Lesart keine Bewertung. Die Passage illustriert eine mögliche individuelle Abwägung, nennt aber weder einen überprüfbaren Haushalt noch Lohn, Miete, Fahrtkosten oder tatsächlich beobachtete Arbeitsaufgabe. Das neu gelesene IAB-Papier 2025 diskutiert anreizdämpfende Wohnkosten und Hinzuverdienstregeln, beschreibt zugleich finanzielle Anreize zur Arbeitsaufnahme. Es ist kein Nachweis einer konkreten Verhaltenswirkung unter dem Regelstand September 2026. Die neu gelesene BA-Seite zeigt außerdem, dass auch Erwerbstätige ergänzende Leistungen erhalten können. Ihr Rechenbeispiel enthält uneinheitliche Beträge und wird deshalb nicht nachgerechnet oder als Beleg übernommen. Ein positiver Lohnabstand, ein geringer Zugewinn und persönliche Motivation sind verschiedene Fragen. Die Tatsachenannahme bleibt in Bearbeitung; daraus wird weder ein pauschales Urteil über Leistungsbeziehende noch eine dokumentierte Kündigung konstruiert.
 
 Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
 
 Uebernahme: Die mögliche Anreizwirkung wird weder mit der Existenz von Sozialleistungen gleichgesetzt noch als pauschale Überlegenheit von Nichtarbeit bewertet.
 
-Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -323,7 +323,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Fortzüge Deutscher in der genannten Größenordnung wiederholten sich jährlich.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -363,13 +363,13 @@ Frueherer Suchbereich: [02:09:35–02:10:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Die unmittelbar anschließende jährliche Verallgemeinerung kann wiederkehrende Fortzüge, ungefähr gleiche Größenordnungen oder einen gleichbleibenden dauerhaften Verlust meinen. Die erneut gelesene Regierungsantwort belegt relevante Fortzüge für 2024 und 2025, aber keinen konstanten jährlichen Wert und keine Dauerhaftigkeit. Eine längere amtliche Reihe wurde gesucht; die Destatis-Tabelle ließ sich wegen HTTP 403 nicht öffnen. Suchausschnitte ersetzen die Prüfung nicht. Wegen der offenen Lesart und fehlenden gelesenen Langzeitreihe bleibt die Aussage ohne Endbewertung. Die konkrete Zahl 2025 ist separat A0014.
+Nicht überprüfbar – mehrdeutige Aussage; Quellen gelesen, ohne eindeutige Lesart keine Bewertung. Die unmittelbar anschließende jährliche Verallgemeinerung kann wiederkehrende Fortzüge, ungefähr gleiche Größenordnungen oder einen gleichbleibenden dauerhaften Verlust meinen. Die erneut gelesene Regierungsantwort belegt relevante Fortzüge für 2024 und 2025, aber keinen konstanten jährlichen Wert und keine Dauerhaftigkeit. Eine längere amtliche Reihe wurde gesucht; die Destatis-Tabelle ließ sich wegen HTTP 403 nicht öffnen. Suchausschnitte ersetzen die Prüfung nicht. Wegen der offenen Lesart und fehlenden gelesenen Langzeitreihe bleibt die Aussage ohne Endbewertung. Die konkrete Zahl 2025 ist separat A0014.
 
 Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.
 
 Uebernahme: Jährliche Verallgemeinerung von der Jahreszahl getrennt; keine implizite Behauptung eines exakt konstanten Wertes oder einer bestimmten Auswanderungsmotivation ergänzt.
 
-Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -393,7 +393,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** An einer Baustelle am südlichen Kölner Autobahnring sei über längere Zeit kein Baufortschritt erkennbar gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -439,7 +439,7 @@ Grundlage der Bewertung: Migration am 17.11.2026 nach Textkontrolle und den ausd
 
 Uebernahme: Baustellenbeobachtung separat; Produktivitätsstagnation desselben Altprüfpunkts wird als O0019 der vorhandenen A0007 zugerechnet, nicht erneut angelegt.
 
-Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Die neue Einzelentscheidung ist in Status, Bewertung und Begründung ausgewiesen. Der bisherige eigene Prüfpunkttext und seine Sammelbewertung bleiben im Herkunftsdatensatz erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 

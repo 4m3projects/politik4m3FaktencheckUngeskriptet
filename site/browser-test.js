@@ -133,6 +133,11 @@ async function step(name, fn) {
     await page.goto(base + `#/video/${VIDEO}`);
     await page.waitForSelector('#claims .claim');
     assert.ok(await page.locator('.tabs a', { hasText: 'Video mit Faktencheck' }).count() === 1);
+    assert.match(await page.locator('.notice.todo').textContent(), /noch nicht geprüft/);
+    assert.ok(await page.locator('.stat-todo').count() === 1, 'Zahl noch nicht geprüfter Aussagen sichtbar');
+    await page.locator('.notice.todo a').click();
+    await page.waitForSelector('#pruefstatus');
+    assert.match(await page.locator('#pruefstatus').textContent(), /Nicht ausreichend belegbar/);
   });
 
   await step('Video-Ansicht ohne YouTube: Liste vollständig lesbar, keine externen Anfragen', async () => {
@@ -145,7 +150,9 @@ async function step(name, fn) {
     assert.equal(await page.locator('#vc-consent').isVisible(), true);
     assert.ok(await page.locator('.vc-item', { hasText: 'Vorkommen 2 von 2' }).count() >= 1, 'Wiederholung gekennzeichnet');
     assert.ok(await page.locator('.vc-item .badge', { hasText: 'Nicht überprüfbar' }).count() > 0, 'nicht überprüfbare Aussagen gekennzeichnet');
-    assert.equal(await page.locator('.vc-item .badge', { hasText: 'noch ohne Bewertung' }).count(), 0, 'keine Aussage wirkt unbearbeitet');
+    const unchecked = data.claims.filter(c => c.status === 'Offen').reduce((s, c) => s + c.occurrences.length, 0);
+    assert.ok(unchecked > 0, 'Testdaten enthalten noch nicht geprüfte Aussagen');
+    assert.equal(await page.locator('.vc-item .badge-todo', { hasText: 'Noch nicht geprüft' }).count(), unchecked, 'noch nicht geprüfte Aussagen ausdrücklich gekennzeichnet');
     await page.waitForTimeout(300);
     assert.deepEqual(external, [], 'externe Anfragen vor dem Klick: ' + external.join(', '));
     if (shots) await page.screenshot({ path: path.join(shots, 'vor-dem-laden.png') });

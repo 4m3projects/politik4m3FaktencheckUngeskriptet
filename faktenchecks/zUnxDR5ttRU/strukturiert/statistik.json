@@ -17,6 +17,7 @@
   "statusCounts": {
     "Offen": 3,
     "In Bearbeitung": 1,
+    "Nicht überprüfbar": 0,
     "Abgeschlossen": 30
   },
   "kindCounts": {
@@ -27,8 +28,9 @@
   "completedFacts": 21,
   "openFacts": 3,
   "inProgressFacts": 1,
+  "unverifiableFacts": 0,
   "percentageDenominator": 21,
-  "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
+  "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
@@ -71,6 +73,7 @@
         "completedFacts": 0,
         "openFacts": 0,
         "inProgressFacts": 0,
+        "unverifiableFacts": 0,
         "percentageDenominator": 0,
         "categories": [
           {
@@ -112,6 +115,7 @@
         "completedFacts": 0,
         "openFacts": 0,
         "inProgressFacts": 0,
+        "unverifiableFacts": 0,
         "percentageDenominator": 0,
         "categories": [
           {
@@ -153,6 +157,7 @@
         "completedFacts": 0,
         "openFacts": 0,
         "inProgressFacts": 0,
+        "unverifiableFacts": 0,
         "percentageDenominator": 0,
         "categories": [
           {

@@ -1,6 +1,6 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
 
 A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten.
 
@@ -162,7 +162,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein regelmäßiger eigener Videobetrieb begann nach der geschilderten Pause 2010.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -191,7 +191,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und frühere Vortragspraxis getrennt. Unternehmenschronik bleibt Selbstauskunft.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -208,7 +208,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Vor dem Videoblog hielt der Gast berufliche Vorträge vor mehreren Hundert bis ungefähr tausend Menschen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -254,7 +254,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und frühere Vortragspraxis getrennt. Unternehmenschronik bleibt Selbstauskunft.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -379,7 +379,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Gast erhielt im Studium eine Ausbildung im Direktmarketing.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -410,7 +410,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -426,7 +426,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein früherer privater E-Mail-Verteiler erreichte ungefähr tausend Teilnehmer und hohen Nachrichtenverkehr.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -457,7 +457,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -473,7 +473,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Politische Diskussionen wurden aus dem geschäftlichen Whisky-Umfeld in ein getrenntes Forum beziehungsweise Angebot ausgelagert.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -523,7 +523,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -540,7 +540,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der eigenständige UnterBlog begann nach der Erinnerung des Gasts im Oktober 2012.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -571,7 +571,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -588,7 +588,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Gast unternahm mit einem Tesla Reisen zum Nordkap und nach Afrika.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -619,7 +619,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -635,7 +635,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Reiseberichterstattung verursachte besonders starke Werbe- und Reichweiteneffekte.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -666,7 +666,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Ausbildung, Verteiler, Forumsauslagerung, Kanalbeginn, Reisen und behaupteter Werbeerfolg getrennt. Wiederholte Forumserzählung wird derselben Aussage zugeordnet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -682,7 +682,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Whisky-Verkostungen werden nach persönlicher Qualitätsauswahl veröffentlicht; als misslungen empfundene Produkte bleiben unveröffentlicht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -711,7 +711,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Die selbst berichtete Auswahlpraxis ist kein objektiver Qualitätsbeweis und keine unabhängig geprüfte vollständige Archivbeschreibung.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -727,7 +727,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der eigene YouTube-Kanal war ungefähr dreieinhalb Tage gesperrt und wurde anschließend wieder freigeschaltet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -796,7 +796,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -813,7 +813,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Drei Sanktionsmitteilungen gingen in kurzen Abständen von ungefähr drei Minuten ein und führten zur Sperre.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -844,7 +844,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -861,7 +861,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Insgesamt erhielt der Kanal ungefähr sechs Strikes.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -892,7 +892,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -908,7 +908,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Betreiber entfernte vorsorglich etwa 2.200 eigene Videos.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -939,7 +939,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -955,7 +955,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Eine YouTube-Mitarbeiterin bot dem Betreiber nach der Sperre per E-Mail Hilfe an.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1005,7 +1005,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1021,7 +1021,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Mehr als tausend frühere Videos wurden zusätzlich auf Odysee gesichert.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1052,7 +1052,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1068,7 +1068,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Öffentlicher Druck anderer Kanäle verursachte die schnelle Wiederfreischaltung.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1118,7 +1118,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigener Sperrverlauf, Zahl und Taktung von Sanktionen, Löschungen, Hilfemail und Sicherung getrennt. Vermutete Freischaltungsursache bleibt unbestätigt; die ausdrückliche Zurückweisung einer gesicherten Ursache wird als Vorkommen erhalten.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1223,7 +1223,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** YouTube könne sichtbare Whisky-Bezüge auch außerhalb direkter Verkaufswerbung als unzulässige Alkoholwerbung behandeln.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1286,13 +1286,13 @@ Frueherer Suchbereich: [00:17:59–00:19:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Das Gespräch beschreibt eine mögliche weite Auslegung mit hypothetischen Beispielen; es behauptet nicht eindeutig ein ausnahmsloses Verbot jedes Flaschenbilds. Die gelesene heutige Regel betrifft Verkauf beziehungsweise Zugangsvermittlung. Ob ein bestimmtes historisches Video darunter fiel, lässt sich ohne damalige Entscheidung nicht klären.
+Nicht überprüfbar – mehrdeutige Aussage; Quellen gelesen, ohne eindeutige Lesart keine Bewertung. Das Gespräch beschreibt eine mögliche weite Auslegung mit hypothetischen Beispielen; es behauptet nicht eindeutig ein ausnahmsloses Verbot jedes Flaschenbilds. Die gelesene heutige Regel betrifft Verkauf beziehungsweise Zugangsvermittlung. Ob ein bestimmtes historisches Video darunter fiel, lässt sich ohne damalige Entscheidung nicht klären.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegung der Alkoholregeln. Das Urheberrechtsbeispiel ist eine Rückfrage, keine gesicherte Behauptung gleicher Verfahren.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1309,7 +1309,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Verweise auf wissenschaftliche Studien führten zur Entfernung oder Sanktionierung eigener Beiträge.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1340,7 +1340,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung und vermutete Wortfilter getrennt. Ein zugespitztes Rückfragebeispiel des Moderators wird nicht als eigene medizinische Behauptung erfasst.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1356,7 +1356,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Eine damals noch wenig zuverlässige automatisierte Moderation verursachte die schnellen Strikes.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1387,7 +1387,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung und vermutete Wortfilter getrennt. Ein zugespitztes Rückfragebeispiel des Moderators wird nicht als eigene medizinische Behauptung erfasst.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1404,7 +1404,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Bestimmte Impfbegriffe im Videotitel führten automatisch zu Reichweitenverlust oder Löschung, während Ersatzwörter dies vermieden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1454,7 +1454,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Nicht näher bezeichnete Studienfälle, vermutete automatische Sanktionierung und vermutete Wortfilter getrennt. Ein zugespitztes Rückfragebeispiel des Moderators wird nicht als eigene medizinische Behauptung erfasst.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1519,7 +1519,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Instagram bestritt gegenüber Kreativen verdeckte Reichweitenbeschränkungen, obwohl solche Einschränkungen eingesetzt wurden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1548,7 +1548,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1565,7 +1565,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Reichweite des eigenen Instagram-Angebots fiel plötzlich von mehreren Tausend auf wenige Hundert.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1594,7 +1594,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1610,7 +1610,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die persönliche Instagram-Reichweitenabnahme wurde durch eine verdeckte Moderationsmaßnahme verursacht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1639,7 +1639,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Allgemeiner politischer Druck, behauptetes Leugnen von Reichweitenbeschränkungen sowie persönliche Reichweitenbeobachtung und Ursachenvermutung getrennt. Allgemeine Meta-Erklärungen bestätigen keinen individuellen Fall.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1702,7 +1702,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die angesprochenen Plattformbeschränkungen werden konkret durch ein Zusammenwirken von EU-Vorgaben und US-Unternehmen gesteuert.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1731,7 +1731,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Politische Bezeichnung als Meinung getrennt von der überprüfbaren Annahme einer konkreten gemeinsamen Steuerung durch EU und Unternehmen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1892,7 +1892,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Automatisierung ersetzte nach der Übernahme einen erheblichen Teil der bisherigen Twitter-Arbeit.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1921,7 +1921,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -1938,7 +1938,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Twitter wuchs trotz des starken Personalabbaus weiter.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1967,7 +1967,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2079,7 +2079,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Gast erstellt und verbreitet seine Videos weitgehend allein und erzielt damit hohe Abrufzahlen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2108,7 +2108,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2124,7 +2124,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Das Podcast-Studio erreicht mit zwei Personen und mehreren Kameras ein großes Publikum.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2170,7 +2170,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2231,7 +2231,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Tabletverkäufe stagnieren als Hinweis auf einen gesättigten Bildschirmmarkt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2260,7 +2260,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2277,7 +2277,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die übliche Zuschauerbindung normaler YouTube-Kanäle liege nur bei ungefähr 25 bis 30 Prozent.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2306,7 +2306,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2322,7 +2322,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Für YouTube-Aufrufe habe bis vor Kurzem allgemein eine Mindestwiedergabe von 30 Sekunden gegolten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2345,13 +2345,13 @@ Frueherer Suchbereich: [00:27:50–00:31:35](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Der Kontext enthält ausdrücklich einen historischen Vorbehalt, keine klare Behauptung zur heutigen Regel. Der gelesene Hilfetext ordnet 30 Sekunden bestimmten Werbeformaten zu und unterscheidet diese von öffentlichen Aufrufen. Eine solche Werberegel belegt keine frühere universelle Grenze für organische Langvideos. Ohne präzisen früheren Stichtag bleibt die historische Behauptung offen.
+Nicht überprüfbar – mehrdeutige Aussage; Quellen gelesen, ohne eindeutige Lesart keine Bewertung. Der Kontext enthält ausdrücklich einen historischen Vorbehalt, keine klare Behauptung zur heutigen Regel. Der gelesene Hilfetext ordnet 30 Sekunden bestimmten Werbeformaten zu und unterscheidet diese von öffentlichen Aufrufen. Eine solche Werberegel belegt keine frühere universelle Grenze für organische Langvideos. Ohne präzisen früheren Stichtag bleibt die historische Behauptung offen.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Jeweilige Produktionspraxis, Zeitbudget, Tabletmarkt, Retentionsbehauptung und Aufrufdefinition getrennt. Keine Gleichsetzung von Werbemessung mit organischen Aufrufen.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2368,7 +2368,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die eigenen Podcasts erreichen im Mittel ungefähr 28 Minuten Wiedergabedauer, einzelne nahezu eine Stunde.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2397,7 +2397,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2413,7 +2413,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein deutschsprachiges Interview erreichte im damaligen Vergleich ungefähr ein Drittel der Aufrufe großer internationaler Putin- und Trump-Interviews.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2442,7 +2442,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2459,7 +2459,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die damaligen Abonnentenzahlen des eigenen Podcasts und Joe Rogans werden mit ungefähr 1,28 beziehungsweise 21 Millionen verglichen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2505,7 +2505,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2521,7 +2521,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die deutsch- und englischsprachigen Zielmärkte werden auf ungefähr 120 Millionen und zwei Milliarden Menschen geschätzt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2550,7 +2550,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2628,7 +2628,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Persönliche Begegnungen im Alltag und auf Reisen bestätigen den Sprechern eine breite öffentliche Bekanntheit.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2674,7 +2674,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2690,7 +2690,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Gast verzichtet seit 2015 auf die Nutzung öffentlich-rechtlicher Programme.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2719,7 +2719,7 @@ Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatis
 
 Uebernahme: Eigene Analytics, historische Videovergleiche, Abonnenten- und Sprachraumvergleich, politische Interpretation sowie persönliche Erfahrungen getrennt. Dynamische Zahlen nicht aus heutigen Zählern rückdatiert. Die 30-Sekunden-Anmerkung gehört inhaltlich zu P11 und wird dort geführt.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -2804,13 +2804,13 @@ Frueherer Suchbereich: [00:09:34–00:11:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Ob sofortige Fertigstellung zugesagt oder nur ein verkürzter Arbeitsablauf gezeigt wird, ist ohne Hör- und Bildkontrolle nicht sicher. Aufzeichnung, Übertragung und Verarbeitung werden nicht als identischer technischer Schritt behandelt.
+Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Ob sofortige Fertigstellung zugesagt oder nur ein verkürzter Arbeitsablauf gezeigt wird, ist ohne Hör- und Bildkontrolle nicht sicher. Aufzeichnung, Übertragung und Verarbeitung werden nicht als identischer technischer Schritt behandelt.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
 
 ### Zugeordnete Quellen
 
@@ -2965,7 +2965,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Das beworbene Plaud-Angebot sei datenschutzrechtlich DSGVO-konform.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2988,13 +2988,13 @@ Frueherer Suchbereich: [00:10:33–00:11:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Der Anbieter erklärt Konformität. Daraus folgt keine pauschale Erlaubnis jeder Aufnahme oder jeder Verarbeitung. Rechtsgrundlage, Zweck, Aufbewahrung und mögliche Drittlandübermittlung hängen von Nutzung und tatsächlichen Prozessen ab. Der Werbekontext ist hinsichtlich der Reichweite der Zusage unklar; ohne Prozessprüfung keine abschließende Bewertung und keine Unterstellung eines festgestellten Rechtsverstoßes.
+Nicht überprüfbar – mehrdeutige Aussage; Quellen gelesen, ohne eindeutige Lesart keine Bewertung. Der Anbieter erklärt Konformität. Daraus folgt keine pauschale Erlaubnis jeder Aufnahme oder jeder Verarbeitung. Rechtsgrundlage, Zweck, Aufbewahrung und mögliche Drittlandübermittlung hängen von Nutzung und tatsächlichen Prozessen ab. Der Werbekontext ist hinsichtlich der Reichweite der Zusage unklar; ohne Prozessprüfung keine abschließende Bewertung und keine Unterstellung eines festgestellten Rechtsverstoßes.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Datenschutzbehauptung und Rabattaktion getrennt. Weder universelle Rechtmäßigkeit noch tatsächlicher Checkout-Rabatt werden aus Werbung abgeleitet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
 
 ### Zugeordnete Quellen
 
@@ -3014,7 +3014,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein Rabattcode BEN soll während einer Novemberaktion bis zu 22 Prozent Preisnachlass ermöglichen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3054,13 +3054,13 @@ Frueherer Suchbereich: [00:10:33–00:11:08](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – keine zugängliche Quelle in dieser Prüfung. Die Werbung nennt den Code und den Zeitraum 14.–30. November. Ein tatsächlicher Warenkorb, Bezugsprodukt, Region und Preisbasis wurden nicht geprüft. Coupon-Suchtreffer sind keine verifizierten Anbieterbedingungen. Die Werbeaufnahme kann zeitlich vom Hauptgespräch abweichen; kein Rückdatieren der Aktion auf den Aufnahmetag.
+Nicht überprüfbar – zeitlich begrenzte Werbeaktion ohne nachträglich prüfbaren Anbieterstand. Die Werbung nennt den Code und den Zeitraum 14.–30. November. Ein tatsächlicher Warenkorb, Bezugsprodukt, Region und Preisbasis wurden nicht geprüft. Coupon-Suchtreffer sind keine verifizierten Anbieterbedingungen. Die Werbeaufnahme kann zeitlich vom Hauptgespräch abweichen; kein Rückdatieren der Aktion auf den Aufnahmetag.
 
 Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
 
 Uebernahme: Datenschutzbehauptung und Rabattaktion getrennt. Weder universelle Rechtmäßigkeit noch tatsächlicher Checkout-Rabatt werden aus Werbung abgeleitet.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Zeitlich begrenzte Werbeaktion; nachträglich ohne damaligen Anbieterstand nicht prüfbar, deshalb Nicht überprüfbar statt Offen.
 
 ### Zugeordnete Quellen
 
