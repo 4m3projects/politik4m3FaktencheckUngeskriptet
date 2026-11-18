@@ -462,10 +462,24 @@ function videoFacts(v) {
   return items.join('');
 }
 
-function rhetHomeLine(v) {
+/* Übersicht der Darstellungshinweise eines Videos: Anzahl je Merkmal, getrennt von der Faktenstatistik.
+   interactive: Merkmale als Filterknöpfe (Detailseite); sonst reine Anzeige (Startseitenkarte). */
+function rhetSummary(v, interactive) {
   const st = FactRhetoric.reviewState(v.rhet);
-  if (!v.rhet) return 'Darstellung (Rhetorik): noch nicht geprüft';
-  return `Darstellung (Rhetorik): ${esc(st.status.toLowerCase())} · ${st.annotations} KI-Hinweis${st.annotations === 1 ? '' : 'e'}`;
+  if (!v.rhet) return `<div class="rhet-sum"><div class="rhet-label">Darstellung · KI-Hinweise</div><p class="small">Noch nicht geprüft</p></div>`;
+  const counts = Object.entries(FactRhetoric.featureCounts(v.rhet)).filter(([, n]) => n > 0);
+  const chip = ([k, n]) => {
+    const f = FactRhetoric.FEATURES[k];
+    const inner = `${esc(f.name)} <b>${n}</b>`;
+    return interactive
+      ? `<li><button type="button" class="badge rhet-badge rhet-chip" data-rhet-filter="${esc(k)}" data-tip="${esc(f.hint)}">${inner}</button></li>`
+      : `<li><span class="badge rhet-badge" data-tip="${esc(f.hint)}">${inner}</span></li>`;
+  };
+  return `<div class="rhet-sum" aria-label="Darstellungshinweise">
+    <div class="rhet-label">Darstellung · ${st.annotations} KI-Hinweis${st.annotations === 1 ? '' : 'e'} zu ${st.claims} Aussage${st.claims === 1 ? '' : 'n'}</div>
+    ${counts.length ? `<ul class="rhet-chips">${counts.map(chip).join('')}</ul>` : '<p class="small">Keine Hinweise erfasst.</p>'}
+    <p class="small">${esc(st.status)}. Wie etwas gesagt wird, getrennt von richtig/falsch; keine Fehlerpunkte.</p>
+  </div>`;
 }
 
 async function pageHome() {
@@ -477,6 +491,7 @@ async function pageHome() {
   const allClaims = shown.flatMap(v => v.data?.claims || []);
   const done = allClaims.filter(c => c.status === 'Abgeschlossen').length;
   const sources = shown.reduce((n, v) => n + (v.data?.sources?.length || 0), 0);
+  const rhetTotal = shown.reduce((n, v) => n + FactRhetoric.reviewState(v.rhet).annotations, 0);
 
   const card = v => {
     const claims = v.data?.claims || [];
@@ -491,7 +506,7 @@ async function pageHome() {
       ${claims.length ? `<div>${distribution(claims)}</div>
         <p class="meta">${claims.length} strukturierte Aussagen · ${claims.filter(c => c.status === 'Abgeschlossen').length} abgeschlossen${scope && scope.totalLegacyPoints ? ` · ${scope.totalLegacyPoints - scope.unmigratedLegacyPoints} von ${scope.totalLegacyPoints} Prüfpunkten des Erststands strukturiert` : ''}</p>`
         : '<p class="meta">Noch keine strukturierten Aussagen; Berichte als Text verfügbar.</p>'}
-      <p class="meta">${rhetHomeLine(v)}</p>
+      ${rhetSummary(v, false)}
       ${v.video?.role === 'original' ? `<p class="meta">${nReact ? `${nReact} zugeordnete Reaktion${nReact === 1 ? '' : 'en'} und weitere Faktenchecks` : 'Noch keine Reaktionen zugeordnet'}</p>` : ''}
       <span class="more">Zum Faktencheck →</span>
     </a>`;
@@ -511,6 +526,7 @@ async function pageHome() {
         <li>${allClaims.length} strukturierte Aussagen</li>
         <li>${done} abgeschlossen</li>
         <li>${sources} verlinkte Quellen</li>
+        ${rhetTotal ? `<li>${rhetTotal} Darstellungshinweise (KI)</li>` : ''}
       </ul>
     </div>
   </section>
@@ -674,7 +690,8 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList) {
           <span class="badge kind">${esc(c.kind)}</span>
           <span class="badge kind">Kapitel ${esc(c.chapter)}${chapter ? ' · ' + esc(chapter) : ''}</span>
           <a class="claim-id" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}" title="Direktlink zu dieser Aussage">${esc(shortId)}</a>
-          ${hasConflict ? '<span class="badge rel-state rel-conflict">⚠ Prüfkonflikt mit verknüpfter Aussage</span>' : ''}</div>
+          ${hasConflict ? '<span class="badge rel-state rel-conflict">⚠ Prüfkonflikt mit verknüpfter Aussage</span>' : ''}
+          ${[...new Set((rhetList || []).map(a => a.feature))].map(k => `<span class="badge rhet-badge rhet-flag" data-tip="Darstellungshinweis (KI), getrennt von der Faktenbewertung">Darstellung: ${esc(FactRhetoric.FEATURES[k]?.name || k)}</span>`).join('')}</div>
         <div class="claim-desc-label">Prüfgegenstand – unsere Beschreibung, kein Zitat</div>
         <p class="claim-desc">${esc(c.description)}</p>
         <p class="claim-reason">${esc(c.reason)}</p>
@@ -778,6 +795,7 @@ async function pageVideo(id, focusClaim) {
         <section class="section" style="margin-bottom:28px">
           ${statBlock}
           <div style="margin-top:16px">${distribution(d.claims)}</div>
+          <div style="margin-top:16px">${rhetSummary(v, true)}</div>
         </section>
         <div class="filters" role="search">
           <label class="sr" for="f-q" hidden>Suche</label>
@@ -834,6 +852,12 @@ async function pageVideo(id, focusClaim) {
     document.getElementById('count').textContent = n === cards.length ? `${n} Aussagen` : `${n} von ${cards.length} Aussagen`;
   };
   [q, fv, fc, fr].filter(Boolean).forEach(el => el.addEventListener('input', apply));
+  document.querySelectorAll('[data-rhet-filter]').forEach(b => b.addEventListener('click', () => {
+    if (!fr) return;
+    fr.value = fr.value === b.dataset.rhetFilter ? '' : b.dataset.rhetFilter;
+    fr.dispatchEvent(new Event('input'));
+    document.getElementById('count').scrollIntoView({ block: 'start', behavior: 'smooth' });
+  }));
   if (fr) fr.addEventListener('input', () => { if (fr.value && frs && !frs.checked) { frs.checked = true; setRhetShown(true); } });
   apply();
 

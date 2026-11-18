@@ -90,11 +90,34 @@ async function step(name, fn) {
   const W = urlOf(withR), O = urlOf(without);
   const V = 'zUnxDR5ttRU';
 
-  await step('Startseite: Prüfstand der Rhetorik-Ebene je Interview sichtbar', async () => {
-    const t = await open(W, '#/');
-    assert.match(t, /Darstellung \(Rhetorik\): teilweise geprüft · 8 KI-Hinweise/);
-    assert.match(t, /Darstellung \(Rhetorik\): teilweise geprüft · 10 KI-Hinweise/);
-    assert.match(await open(O, '#/'), /Darstellung \(Rhetorik\): noch nicht geprüft/);
+  const R = require('./rhetoric.js');
+  const rhetOf = id => JSON.parse(fs.readFileSync(path.join(ROOT, 'faktenchecks', id, 'rhetorik.json'), 'utf8'));
+  await step('Startseite: Darstellungshinweise je Interview mit Anzahl je Merkmal sichtbar', async () => {
+    await open(W, '#/');
+    let total = 0;
+    for (const id of ['mdo14671BPE', 'mlxFA9T88I0']) {
+      const r = rhetOf(id), st = R.reviewState(r);
+      total += st.annotations;
+      const box = (await page.locator(`a.card[href="#/video/${id}"] .rhet-sum`).innerText()).replace(/\s+/g, ' ');
+      assert.match(box, new RegExp(`Darstellung · ${st.annotations} KI-Hinweise`, 'i'));
+      for (const [k, n] of Object.entries(R.featureCounts(r)).filter(([, n]) => n > 0)) {
+        assert.ok(box.includes(`${R.FEATURES[k].name} ${n}`), id + ': ' + R.FEATURES[k].name + ' ' + n + ' fehlt in: ' + box);
+      }
+    }
+    assert.match(await page.innerText('.hero-facts'), new RegExp(total + ' Darstellungshinweise \\(KI\\)'));
+    const t = await open(O, '#/');
+    assert.match(t, /Noch nicht geprüft/);
+    assert.doesNotMatch(await page.innerText('.hero-facts'), /Darstellungshinweise/);
+  });
+
+  await step('Detailseite: Übersicht zeigt Darstellungshinweise, Klick filtert nach Merkmal', async () => {
+    await open(W, '#/video/' + V);
+    const box = (await page.locator('.section .rhet-sum').innerText()).replace(/\s+/g, ' ');
+    assert.match(box, /Abwertende Sprache 1/);
+    await page.click('.section .rhet-sum [data-rhet-filter="abwertung"]');
+    assert.match(await page.innerText('#count'), /^1 von 43 Aussagen$/);
+    await page.click('.section .rhet-sum [data-rhet-filter="abwertung"]');
+    assert.match(await page.innerText('#count'), /^43 Aussagen$/);
   });
 
   await step('„Meinung / Prognose“ + Ironie + Abwertung: beide Ebenen getrennt an derselben Aussage', async () => {
@@ -104,7 +127,9 @@ async function step(name, fn) {
     const badges = await card.locator('.rhet .rhet-badge').allInnerTexts();
     assert.deepEqual(badges.sort(), ['Abwertende Sprache', 'Ironie / Satire']);
     assert.match(await card.locator('.rhet-label').innerText(), /KI-Hinweis, getrennt von der Faktenbewertung/i);
-    assert.equal(await card.locator('.claim-top .rhet-badge').count(), 0, 'kein Rhetorik-Abzeichen bei der Faktenbewertung');
+    const flags = await card.locator('.claim-top .rhet-flag').allInnerTexts();
+    assert.deepEqual(flags.sort(), ['Darstellung: Abwertende Sprache', 'Darstellung: Ironie / Satire'], 'Kennzeichnung im Kopf, klar als Darstellung benannt');
+    assert.equal(await card.locator('.claim-top .badge:not(.rhet-flag)').first().innerText(), 'Meinung / Prognose', 'Faktenbewertung bleibt das erste Abzeichen');
     assert.match(await page.innerText('.rhet-panel'), /Teilweise geprüft/);
     assert.match(await page.innerText('.rhet-panel'), /zählen nicht als Fehler/);
   });
@@ -135,6 +160,7 @@ async function step(name, fn) {
     assert.equal(await shown(), true);
     await page.uncheck('#f-rs');
     assert.equal(await shown(), false);
+    assert.equal(await page.locator('.rhet-flag').first().isVisible(), false, 'Kopf-Kennzeichnung ebenfalls ausgeblendet');
     await open(W, '#/video/' + V);
     assert.equal(await page.isChecked('#f-rs'), false);
     assert.equal(await shown(), false);
