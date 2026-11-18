@@ -1072,7 +1072,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Viele Unternehmen sind in die Schweiz gegangen; STIHL gehe ebenfalls dorthin.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1095,13 +1095,13 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. STIHL fertigt Sägeketten bereits seit 1974 in Wil; laut eigener Zeitleiste wurde die Kettenfertigung damals aus Waiblingen verlagert und seither ausgebaut (zweites Werk 2008, Erweiterungen bis 2021). Das ist kein Beleg für einen neuen, krisenbedingten Wegzug. Eine jüngere Standortentscheidung zugunsten der Schweiz wurde auf den gelesenen Seiten nicht gefunden, ist damit aber nicht ausgeschlossen. Die Verallgemeinerung auf viele Unternehmen ist ungeprüft.
+Ein wahrer Kern besteht: STIHL stoppte im Februar 2024 die Planung eines neuen Werks für Führungsschienen in Ludwigsburg, nannte Kosten, Energiepreise und Arbeitszeitforderungen als Gründe und wollte die Schweiz als Vergleichsstandort prüfen; der Beiratsvorsitzende sagte, dort sei die Produktion inzwischen günstiger. Eine Entscheidung zur Verlagerung war das nicht; die Schienenfertigung in Waiblingen ist bis 2030 gesichert, und STIHL nennt Deutschland 2025 weiter einen strategischen Pfeiler. Neu investiert wird vor allem in Rumänien. Sägeketten werden schon seit 1974 in der Schweiz gefertigt. Dass „viele Unternehmen“ in die Schweiz gegangen seien, ist nicht belegt.
 
-Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Regionalzeitung 02/2024, STIHL-Pressemitteilung 04/2025 und die bereits gelesenen STIHL-Seiten; eine spätere Standortentscheidung wurde nicht gefunden.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): STIHL-Standortprüfung 2024 recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
@@ -1111,11 +1111,15 @@ Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile n
 - [STIHL Schweiz: Produktion und Vertrieb](https://corporate.stihl.ch/de/ueber-stihl/produktion-vertrieb/stihl-schweiz) · STIHL Schweiz · undatierte Unternehmensseite zu den Schweizer Kettenwerken. Keine Angabe zu einer neueren Verlagerung aus Deutschland.
   Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Aktuelle Schweizer Werke; keine Verlagerungsangabe.
 
+- [Stihl prüft Verlagerung der Schienenproduktion in die Schweiz](https://www.schwaebische.de/wirtschaft/stihl-prueft-verlagerung-der-schienenproduktion-in-die-schweiz-2271015) · Schwäbische Zeitung (Eva Stoss), 13.02.2024.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Planungsstopp Werk Ludwigsburg, Schweiz als Vergleichsstandort, keine Entscheidung.
+
+- [Pressemitteilung STIHL Bilanzpressekonferenz 2025](https://corporate.stihl.com/en/press/press-release-company/2025/financial-pressconference-2025) · STIHL, Waiblingen, 29.04.2025; Investitionen 2024 und Standorte.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Investitionen 2024, neues Werk in Rumänien, Deutschland als strategischer Pfeiler.
+
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es eine STIHL-Mitteilung 2023–2026 zu Investitionen in der Schweiz statt in Deutschland?
-
-- Welche Daten stützen eine verbreitete Verlagerung in die Schweiz?
+- Spätere STIHL-Entscheidung zum Standort der Schienenfertigung; Daten zu Unternehmensverlagerungen in die Schweiz.
 
 ## mlxFA9T88I0-A0202
 

@@ -2182,6 +2182,46 @@
       "details": "Faire Mobilität (DGB), Branchendossier November 2025; Daten der Bundesagentur für Arbeit (Stand Juni 2024) und SOKA-BAU (2024).",
       "accessedOn": "2026-11-18",
       "accessBasis": "Von Claude am 18.11.2026 gelesen. BA-Tabellen selbst nicht eingesehen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S148",
+      "title": "Stihl prüft Verlagerung der Schienenproduktion in die Schweiz",
+      "url": "https://www.schwaebische.de/wirtschaft/stihl-prueft-verlagerung-der-schienenproduktion-in-die-schweiz-2271015",
+      "details": "Schwäbische Zeitung (Eva Stoss), 13.02.2024.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S149",
+      "title": "Pressemitteilung STIHL Bilanzpressekonferenz 2025",
+      "url": "https://corporate.stihl.com/en/press/press-release-company/2025/financial-pressconference-2025",
+      "details": "STIHL, Waiblingen, 29.04.2025; Investitionen 2024 und Standorte.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S150",
+      "title": "Zahlungen an die Vereinten Nationen (hib 657/2026)",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1205734",
+      "details": "Deutscher Bundestag, heute im bundestag, 24.08.2026, zur Unterrichtung 21/7580; Zahlungen 2024 und 2025.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen; Drucksache selbst nicht gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S151",
+      "title": "Wadephul dreht Geldhahn zu: 914 Millionen Euro weniger für die UN",
+      "url": "https://www.echo24.de/welt/wadephul-dreht-geldhahn-zu-914-millionen-euro-weniger-fuer-die-un-zr-94456758.html",
+      "details": "echo24, 27.08.2026; Aufschlüsselung der Unterrichtung 21/7580 nach Pflicht- und freiwilligen Beiträgen.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S152",
+      "title": "Germany to contribute US$500m to NATO initiative to supply US weapons to Ukraine",
+      "url": "https://www.pravda.com.ua/eng/news/2025/08/13/7526040",
+      "details": "European Pravda, 13.08.2025; deutscher Beitrag zur NATO-Initiative PURL.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -13566,14 +13606,14 @@
       "legacyId": "C04-P05",
       "kind": "Tatsachenbehauptung",
       "description": "Viele Unternehmen sind in die Schweiz gegangen; STIHL gehe ebenfalls dorthin.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. STIHL fertigt Sägeketten bereits seit 1974 in Wil; laut eigener Zeitleiste wurde die Kettenfertigung damals aus Waiblingen verlagert und seither ausgebaut (zweites Werk 2008, Erweiterungen bis 2021). Das ist kein Beleg für einen neuen, krisenbedingten Wegzug. Eine jüngere Standortentscheidung zugunsten der Schweiz wurde auf den gelesenen Seiten nicht gefunden, ist damit aber nicht ausgeschlossen. Die Verallgemeinerung auf viele Unternehmen ist ungeprüft.",
-      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Ein wahrer Kern besteht: STIHL stoppte im Februar 2024 die Planung eines neuen Werks für Führungsschienen in Ludwigsburg, nannte Kosten, Energiepreise und Arbeitszeitforderungen als Gründe und wollte die Schweiz als Vergleichsstandort prüfen; der Beiratsvorsitzende sagte, dort sei die Produktion inzwischen günstiger. Eine Entscheidung zur Verlagerung war das nicht; die Schienenfertigung in Waiblingen ist bis 2030 gesichert, und STIHL nennt Deutschland 2025 weiter einen strategischen Pfeiler. Neu investiert wird vor allem in Rumänien. Sägeketten werden schon seit 1974 in der Schweiz gefertigt. Dass „viele Unternehmen“ in die Schweiz gegangen seien, ist nicht belegt.",
+      "assessmentBasis": "Regionalzeitung 02/2024, STIHL-Pressemitteilung 04/2025 und die bereits gelesenen STIHL-Seiten; eine spätere Standortentscheidung wurde nicht gefunden.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
         "mapping": "Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): STIHL-Standortprüfung 2024 recherchiert; von Offen auf Teilweise belegt."
       },
       "sourceRefs": [
         {
@@ -13583,11 +13623,18 @@
         {
           "sourceId": "S067",
           "note": "Aktuelle Schweizer Werke; keine Verlagerungsangabe."
+        },
+        {
+          "sourceId": "S148",
+          "note": "Planungsstopp Werk Ludwigsburg, Schweiz als Vergleichsstandort, keine Entscheidung."
+        },
+        {
+          "sourceId": "S149",
+          "note": "Investitionen 2024, neues Werk in Rumänien, Deutschland als strategischer Pfeiler."
         }
       ],
       "openQuestions": [
-        "Gibt es eine STIHL-Mitteilung 2023–2026 zu Investitionen in der Schweiz statt in Deutschland?",
-        "Welche Daten stützen eine verbreitete Verlagerung in die Schweiz?"
+        "Spätere STIHL-Entscheidung zum Standort der Schienenfertigung; Daten zu Unternehmensverlagerungen in die Schweiz."
       ],
       "occurrences": [
         {
@@ -15896,24 +15943,30 @@
       "legacyId": "C05-P07",
       "kind": "Tatsachenbehauptung",
       "description": "Deutschland sei an die UN vertraglich zu etwa 0,5 bis 1 Milliarde verpflichtet, zahle aber freiwillig ein Vielfaches, etwa fünf Milliarden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Laut Auswärtigem Amt trägt Deutschland 5,69 Prozent des regulären UN-Haushalts von knapp 3,75 Milliarden US-Dollar (2025), also rund 0,2 Milliarden, dazu 5,69 Prozent der Friedensmissionen. Pflicht- und freiwillige Beiträge sind verschiedene Kategorien. Die Höhe der freiwilligen Beiträge nennt die Seite nicht; die Größenordnung von fünf Milliarden ist damit nicht geprüft.",
-      "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Größenordnung der Pflichtbeiträge stimmt: rund 0,59 Milliarden Euro 2024 und gut 0,8 Milliarden 2025. Freiwillige Beiträge sind tatsächlich ein Vielfaches davon. Insgesamt zahlte der Bund aber 4,16 Milliarden Euro (2024) und 3,24 Milliarden (2025), also nicht „etwa fünf Milliarden“ freiwillig; die freiwilligen Anteile lagen bei rund 3,6 beziehungsweise 2,4 Milliarden.",
+      "assessmentBasis": "Bundestagsmeldung zur Unterrichtung 21/7580 und Presseaufschlüsselung derselben Zahlen; dazu die bereits gelesene Seite des Auswärtigen Amts.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
         "mapping": "USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): UN-Zahlungen 2024/2025 recherchiert; von Offen auf Teilweise belegt."
       },
       "sourceRefs": [
         {
           "sourceId": "S080",
           "note": "Pflichtanteil 5,69 Prozent; freiwillige Beiträge ohne Betrag."
+        },
+        {
+          "sourceId": "S150",
+          "note": "Gesamtzahlungen an die UN 2024 und 2025."
+        },
+        {
+          "sourceId": "S151",
+          "note": "Aufschlüsselung nach Pflicht- und freiwilligen Beiträgen."
         }
       ],
-      "openQuestions": [
-        "Gesamtsumme freiwilliger deutscher Beiträge an UN-Organisationen für 2025/2026 lesen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0281",
@@ -18738,10 +18791,15 @@
         {
           "sourceId": "S092",
           "note": "Umfang deutscher Militärhilfe; keine Angabe zu Zuschuss oder Darlehen."
+        },
+        {
+          "sourceId": "S152",
+          "note": "Deutscher PURL-Beitrag zum Kauf von US-Waffen für die Ukraine."
         }
       ],
       "openQuestions": [
-        "Kiel Policy Brief 10/2026 zur Form der deutschen Hilfe lesen; europäische Finanzierung von US-Waffenkäufen prüfen."
+        "Kiel Policy Brief 10/2026 zur Form der deutschen Hilfe lesen; europäische Finanzierung von US-Waffenkäufen prüfen.",
+        "Zwischenstand 18.11.2026: Deutschland finanziert über die NATO-Initiative PURL selbst US-Waffen für die Ukraine (500 Mio. US-Dollar, 08/2025, S152); das ist Geld der Verbündeten, nicht der Ukraine. Form der deutschen Hilfe (Zuschuss oder Darlehen) noch zu prüfen."
       ],
       "occurrences": [
         {
