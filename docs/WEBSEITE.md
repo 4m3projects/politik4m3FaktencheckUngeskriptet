@@ -118,3 +118,7 @@ Erstellt von: Claude. Vorschaubilder (`https://i.ytimg.com/vi/<ID>/mqdefault.jpg
 ## Reiterwechsel ohne Sprung nach oben
 
 Erstellt von: Claude. Ein Klick auf einen Reiter der Detailseite (Aussagen, Video mit Faktencheck, Berichte, Reaktionen) lässt die Reiterleiste an ihrer Stelle im Fenster stehen (mindestens unter der Kopfleiste, höchstens bei 60 % der Fensterhöhe); ist der neue Inhalt kürzer, wird die Seite dafür unten verlängert. Direktaufrufe, Neuladen und andere Links beginnen weiterhin oben. Geprüft in `site/relations-browser-test.js`.
+
+## Video-Ansicht: Fundstellenliste auf Höhe des Videos
+
+Erstellt von: Claude. Überschrift „Fundstellen im Zeitverlauf“, Genauigkeitshinweis und Liste liegen gemeinsam im scrollenden Bereich `#vc-scroll`. Der Bereich beginnt auf Höhe des Videos; beim automatischen Mitscrollen verschwinden Überschrift und Hinweis aus dem Blick. Geprüft in `site/browser-test.js` (Schritt „Layout umschalten“).

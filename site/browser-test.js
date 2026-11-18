@@ -258,7 +258,7 @@ async function step(name, fn) {
     await page.check('#vc-auto');
     await page.evaluate(() => { __yt.players[0].state(1); __yt.players[0].t = 8390; });
     await page.waitForFunction(() => {
-      const l = document.getElementById('vc-list'), el = l.querySelector('.vc-item.is-current');
+      const l = document.getElementById('vc-scroll'), el = l.querySelector('.vc-item.is-current');
       if (!el) return false;
       const lr = l.getBoundingClientRect(), r = el.getBoundingClientRect();
       return r.top >= lr.top - 1 && r.top < lr.bottom;
@@ -272,6 +272,12 @@ async function step(name, fn) {
     });
     await page.click('.seg button[data-layout="side"]');
     assert.equal((await box()).side, true);
+    const align = await page.evaluate(() => {
+      const sc = document.getElementById('vc-scroll');
+      return { inside: sc.contains(document.getElementById('vc-list-h')), dy: Math.abs(sc.getBoundingClientRect().top - document.getElementById('vc-frame').getBoundingClientRect().top) };
+    });
+    assert.ok(align.inside, 'Überschrift „Fundstellen im Zeitverlauf“ scrollt mit der Liste');
+    assert.ok(align.dy <= 2, 'Listenbereich beginnt auf Höhe des Videos, Abstand ' + align.dy + ' px');
     if (shots) await page.screenshot({ path: path.join(shots, 'nebeneinander.png') });
     await page.click('.seg button[data-layout="stack"]');
     assert.equal((await box()).below, true);
