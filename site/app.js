@@ -942,9 +942,9 @@ function pageMethod() {
   setPage(`<div class="wrap">
     <nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / Methodik</nav>
     <header class="video-head"><h1>So prüfen wir</h1>
-      <p class="lead" style="color:var(--text-2);max-width:70ch">Wir bewerten einzelne, überprüfbare Aussagen – nie ein ganzes Video pauschal. Entscheidend sind nachvollziehbare Quellen und die Trennung von Tatsachen, Meinungen und Prognosen.</p></header>
+      <p class="lead" style="color:var(--text-2);max-width:70ch">Wir bewerten einzelne, überprüfbare Aussagen – nie ein ganzes Video pauschal. Entscheidend sind nachvollziehbare Quellen und die Trennung von Tatsachen, Meinungen und Prognosen. Dafür gibt es zwei getrennte Maßstäbe: die <strong>Faktenbewertung</strong> (stimmt die Aussage?) und die <strong>Darstellung</strong> (wie wird sie gesagt?).</p></header>
 
-    <section class="section"><h2>Sechs feste Bewertungen</h2>
+    <section class="section" id="bewertung"><h2>Maßstab 1 – Faktenbewertung: sechs feste Bewertungen</h2>
       <ul class="verdict-list">${VERDICTS.map(x => `<li><span class="badge"><i class="fill-${x.key}" aria-hidden="true"></i>${esc(x.name)}</span><p>${esc(x.text)}</p></li>`).join('')}</ul>
       <p class="small">Solange eine Prüfung <strong>offen</strong> oder <strong>in Bearbeitung</strong> ist, gibt es bewusst keine Bewertung. Eine nicht belegte Aussage ist nicht automatisch falsch.</p>
     </section>
@@ -961,8 +961,10 @@ function pageMethod() {
       </ul>
     </section>
 
-    <section class="section prose-plain"><h2>Zweite Ebene: Wie etwas gesagt wird</h2>
-      <p>Getrennt von der Frage, ob eine Aussage stimmt, kann eine Stelle einen <strong>Hinweis zur Darstellung</strong> erhalten: ${Object.values(FactRhetoric.FEATURES).map(f => esc(f.name)).join(', ')}. Eine sachlich richtige Aussage kann abwertend formuliert sein, eine falsche Aussage höflich.</p>
+    <section class="section prose-plain" id="darstellung"><h2>Maßstab 2 – Darstellung: wie etwas gesagt wird</h2>
+      <p>Getrennt von der Frage, ob eine Aussage stimmt, kann eine Stelle einen <strong>Hinweis zur Darstellung</strong> erhalten. Eine sachlich richtige Aussage kann abwertend formuliert sein, eine falsche Aussage höflich. Dafür gibt es sechs feste Merkmale:</p>
+      <ul class="verdict-list">${Object.values(FactRhetoric.FEATURES).map(f => `<li><span class="badge rhet-badge">${esc(f.name)}</span><p>${esc(f.hint)}</p></li>`).join('')}</ul>
+      <p class="small">Je Hinweis steht, wie deutlich das Merkmal ist (${FactRhetoric.ASSESSMENTS.map(esc).join(', ')}), wie belastbar die Einschätzung ist und ob sie redaktionell bestätigt wurde.</p>
       <ul>
         <li><strong>Getrennt und ausblendbar.</strong> Die Hinweise stehen unter der Faktenbewertung, sind als KI-Einschätzung gekennzeichnet und lassen sich ausblenden.</li>
         <li><strong>Keine Fehlerpunkte.</strong> Rhetorik-Hinweise ändern keine Bewertung, fließen in keine Statistik ein und ergeben keine Note für Personen.</li>
