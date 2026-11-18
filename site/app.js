@@ -468,7 +468,8 @@ function videoHeader(v, tab) {
     <h1>${esc(v.title)}</h1>
     <ul class="facts">${videoFacts(v)}</ul>
     <div class="btn-row">
-      ${scope ? extLink(scope.videoUrl, '<span class="btn">▶ Originalvideo auf YouTube</span>') : ''}
+      ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video">▶ Video mit Faktencheck auf dieser Seite</a>` : ''}
+      ${scope ? extLink(scope.videoUrl, '<span class="btn ghost">Originalvideo auf YouTube</span>') : ''}
       <a class="btn ghost" href="${esc(blobUrl('faktenchecks/' + v.id))}" rel="noopener noreferrer" target="_blank">Daten auf GitHub</a>
     </div>
   </header>
