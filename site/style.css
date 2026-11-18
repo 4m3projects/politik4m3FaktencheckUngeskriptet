@@ -244,6 +244,10 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
 :root[data-theme="dark"] .btn { color: #0b1630; }
 @media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .btn { color: #0b1630; } }
 .btn.ghost { background: transparent; color: var(--accent); border: 1px solid var(--line-strong); }
+/* Dunkles Design: die dunkle Schrift der gefüllten Knöpfe gilt nicht für transparente Knöpfe. */
+:root[data-theme="dark"] .btn.ghost { color: var(--accent); }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .btn.ghost { color: var(--accent); } }
+:root .vc-consent .btn.ghost { color: #fff; }
 .btn-row { display: flex; gap: 10px; flex-wrap: wrap; margin-top: 8px; }
 
 .tabs { display: flex; gap: 4px; border-bottom: 1px solid var(--line); margin: 0 0 24px; overflow-x: auto; scrollbar-width: none; }
