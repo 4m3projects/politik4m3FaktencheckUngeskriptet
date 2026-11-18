@@ -544,10 +544,10 @@ async function pageHome() {
     const scope = v.data?.scope;
     return `<a class="card" href="#/video/${esc(v.id)}">
       ${thumbImg(v.id, v.video?.videoUrl || scope?.videoUrl, 'card-thumb')}
+      ${ampelView(v)}
       <div class="claim-top">${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
       ${v.meta.Status ? `<span class="small">${esc(v.meta.Status)}</span>` : ''}</div>
       <h3>${esc(v.title)}</h3>
-      ${ampelView(v)}
       <ul class="facts">${videoFacts(v)}</ul>
       ${claims.length ? `<div>${distribution(claims)}</div>
         <p class="meta">${claims.length} strukturierte Aussagen · ${claims.filter(c => c.status === 'Abgeschlossen').length} abgeschlossen${scope && scope.totalLegacyPoints ? ` · ${scope.totalLegacyPoints - scope.unmigratedLegacyPoints} von ${scope.totalLegacyPoints} Prüfpunkten des Erststands strukturiert` : ''}</p>`
