@@ -1,0 +1,1809 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "L7E04TJtRBU",
+    "videoUrl": "https://www.youtube.com/watch?v=L7E04TJtRBU",
+    "durationSeconds": 1811,
+    "asOf": "2026-11-18",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.",
+    "coverageNote": "Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Originalinterview: Krall bei ungeskriptet",
+      "url": "https://www.youtube.com/watch?v=OQnvClWgN-g",
+      "details": "{ungeskriptet} by Ben; Aufnahme laut Beschreibung 15.09.2026; Upload 17.10.2026; 03:21:01.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "oEmbed und gespeicherte Uploadmetadaten identifiziert. Nur die jeweils angegebenen deutschen automatischen Textstellen erneut gelesen; keine vollständige audiovisuelle Kontrolle."
+    },
+    {
+      "id": "S002",
+      "title": "Alfred: Wächst das Eis am Südpol?",
+      "url": "https://www.youtube.com/watch?v=qQAcmDzd9O8",
+      "details": "Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen."
+    },
+    {
+      "id": "S003",
+      "title": "Politik4M3: Markus Krall bei ungeskriptet",
+      "url": "https://www.youtube.com/watch?v=L7E04TJtRBU",
+      "details": "Politik4m3; Upload laut Metadaten 14.11.2026; 30:11.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Englische Spur HTTP 429, nicht verwendet. Keine vollständige audiovisuelle Kontrolle."
+    },
+    {
+      "id": "S004",
+      "title": "NASA: Ice Sheets",
+      "url": "https://science.nasa.gov/earth/explore/earth-indicators/ice-sheets/",
+      "details": "NASA, GRACE/GRACE-FO; explizite Animation 2002–2025. Die Seite enthält leicht unterschiedliche gerundete Werte; maßgeblich ist die ausdrücklich bezeichnete Zeitreihe.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S005",
+      "title": "Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020",
+      "url": "https://essd.copernicus.org/articles/15/1597/2023/",
+      "details": "Otosaka et al., Earth System Science Data 15, 1597–1616 (2023), DOI 10.5194/essd-15-1597-2023; Abstract und Methodik.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S008",
+      "title": "LCA: EnVentus V162-6.2 MW",
+      "url": "https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20EnVentus%20V162-6.2.pdf.coredownload.inline.pdf",
+      "details": "Mali/Garrett, Vestas, 31.01.2023; S. 3–4 und 67. Herstellerstudie mit externer Methodenprüfung; keine unabhängige Kontrolle sämtlicher Inventardaten.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S009",
+      "title": "Ökobilanzen von Windenergie- und Photovoltaikanlagen",
+      "url": "https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf",
+      "details": "Hengstler et al., UBA Climate Change 35/2021; S. 35 und 307; Primärenergie-/Referenzstrommixabhängigkeit.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S010",
+      "title": "Windenergie an Land",
+      "url": "https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien/windenergie-an-land",
+      "details": "Umweltbundesamt; Seitenstand 09.10.2026, nach Aufnahme des Interviews.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Verlinkte Seite geöffnet; im auslesbaren Text keine Angabe 3–5 Monate gefunden. Der separate Bericht UBA 35/2021 wurde ebenfalls gelesen. Fehlende Fundstelle ist kein Beweis, dass die Zahl nie auf der Seite stand."
+    },
+    {
+      "id": "S016",
+      "title": "The rise of zombie firms: causes and consequences",
+      "url": "https://www.bis.org/publications/rise-zombie-firms-causes-and-consequences",
+      "details": "Banerjee/Hofmann, BIS Quarterly Review, September 2018; Definition und Zusammenhänge mit Zinsen, keine aktuelle Deutschlandquote.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S017",
+      "title": "Consumer Price Index, 1913–",
+      "url": "https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1913-",
+      "details": "Federal Reserve Bank of Minneapolis auf BLS-Basis; Jahresmittel CPI-U 1971: 40,5; 2025: 321,9. 2026-Schätzung nicht verwendet.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S018",
+      "title": "Wie Geld entsteht",
+      "url": "https://www.bundesbank.de/de/aufgaben/themen/wie-geld-entsteht-665288",
+      "details": "Deutsche Bundesbank, 25.04.2017; Buchgeldschöpfung und Grenzen.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S019",
+      "title": "Isabel Schnabel: Curriculum vitae",
+      "url": "https://www.ecb.europa.eu/ecb/decisions/html/cvschnabel.en.html",
+      "details": "EZB; akademischer Lebenslauf, Direktoriumsmitglied seit 2020; Bezug auf Aufnahme 15.09.2026.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S020",
+      "title": "Independence",
+      "url": "https://www.ecb.europa.eu/ecb/our-values/independence/html/index.en.html",
+      "details": "EZB; Artikel 130 AEUV und institutionelle Weisungsfreiheit. Kein Nachweis vollständiger praktischer Einflussfreiheit.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S021",
+      "title": "Finanzierung der gesetzlichen Krankenversicherung",
+      "url": "https://www.bundesgesundheitsministerium.de/finanzierung-gkv",
+      "details": "Bundesgesundheitsministerium; Stand 26.05.2026; Bundeszuschuss und Gesundheitsfonds.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S022",
+      "title": "AR6-Synthesebericht: Hauptaussagen",
+      "url": "https://www.de-ipcc.de/media/content/Hauptaussagen_AR6-SYR.pdf",
+      "details": "IPCC, 2023; deutsche Übersetzung der Koordinierungsstelle; A.1, beobachtete Erwärmung und menschliche Verursachung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S023",
+      "title": "Annual Summary Report of Coral Reef Condition 2024/25",
+      "url": "https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2024-25",
+      "details": "AIMS, 06.08.2025; 124 Riffe, Erhebungen August 2024–Mai 2025; Hartkorallenbedeckung, keine weltweite Korallenbiomasse.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S024",
+      "title": "Außensteuergesetz § 6",
+      "url": "https://www.gesetze-im-internet.de/astg/__6.html",
+      "details": "Bundesministerium der Justiz/Bundesamt für Justiz; konsolidierte Fassung beim Abruf; Vermögenszuwachs von Anteilen.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Web-Abruf nicht erfolgreich; anschließend Direktabruf per PowerShell erfolgreich und Normtext gelesen. Keine individuelle steuerliche Beratung oder historische Vollrekonstruktion."
+    },
+    {
+      "id": "S025",
+      "title": "Reichsfluchtsteuer und Judenvermögensabgabe",
+      "url": "https://www.berlin.de/sen/finanzen/ueber-uns/architektur-geschichte/artikel.5183.php",
+      "details": "Senatsverwaltung für Finanzen Berlin; historische Darstellung zu Einführung 1931 und späterer NS-Verfolgung.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S026",
+      "title": "Pobreza e indigencia, segundo semestre de 2025",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_03_269225CA3217.pdf",
+      "details": "INDEC, 31.03.2026, Tabelle 1/S. 5; 31 städtische Ballungsräume; Haushalte und Personen getrennt.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "PDF erfolgreich geöffnet; relevante Zahlen und Erhebungsumfang gelesen. Spätere erneute Abrufe teilweise Timeout; keine Behauptung eines dauerhaft zuverlässigen Zugangs."
+    },
+    {
+      "id": "S027",
+      "title": "EuGH C-62/14, Gauweiler",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62014CJ0062",
+      "details": "EuGH, 16.06.2015; Bedingungen des Anleihekaufprogramms.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Abruf lieferte ausschließlich JavaScript-/Roboterprüfung, keinen lesbaren Urteilstext. Als offener Recherchehinweis geführt, nicht als gelesener Sachbeleg."
+    },
+    {
+      "id": "S028",
+      "title": "FAQ on the public sector purchase programme",
+      "url": "https://www.ecb.europa.eu/mopo/implement/app/html/ecb.faq_pspp.en.html",
+      "details": "EZB, Stand 09.08.2023; operative Regeln, Emissionssperrfrist. Keine vollständige Rechtmäßigkeitsprüfung aller Programme.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Politik4M3-Erzählstimme",
+      "videoRole": "Kommentar / Faktencheck",
+      "identityBasis": "Kanal und zusammenhängender Textkontext; keine Stimmverifikation oder Bestätigung der natürlichen Sprecherperson."
+    }
+  ],
+  "claims": [
+    {
+      "id": "L7E04TJtRBU-A0001",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die eigene KI-Auswertung umfasse 178 Prüfpositionen in 26 Kapiteln.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die vorhandenen eigenen redaktionellen Daten enthalten diese Gruppen-/Kapitelzahl. Das bestätigt deren Existenz, nicht die Richtigkeit der darin stehenden Bewertungen oder die Vollständigkeit des Interviews.",
+      "assessmentBasis": "Eigene Vorarbeit vom 14.11.2026 vollständig strukturell gezählt; Hash und Gruppentexte im historischen Arbeitsstand erhalten.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0001",
+          "startSeconds": 34,
+          "endSeconds": 69,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0002",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Krall warne vor einem sehr großen Zusammenbruch innerhalb von zwei bis vier Jahren.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die getrennten Schlussstellen des Originals enthalten Frist und Krisenrahmung. Richtige Wiedergabe einer Prognose ist kein Nachweis ihres Eintretens.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0002",
+          "startSeconds": 248,
+          "endSeconds": 267,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0003",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Zombie-Unternehmen werden wissenschaftlich untersucht.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die BIS-Studie belegt diesen Forschungsgegenstand; keine heutige deutsche Quote daraus abgeleitet.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0003",
+          "startSeconds": 294,
+          "endSeconds": 303,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0004",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kralls Schätzung von ungefähr 15 Prozent Zombie-Unternehmen lasse sich nicht einfach aus ausgebliebenen Insolvenzen bestimmen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der methodische Einwand ist berechtigt. Krall verwendet im Original die Reihe 5, 10, 15 Prozent illustrativ; keine präzise empirische 15-Prozent-Messung im Original belegt.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S016",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0004",
+          "startSeconds": 288,
+          "endSeconds": 320,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0005",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Frist von zwei bis vier Jahren ab Aufnahme September 2026 entspreche ungefähr 2028 bis 2030.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Kalenderrechnung unter dem angegebenen Aufnahmebezug; kein beobachteter Kollaps.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0005",
+          "startSeconds": 355,
+          "endSeconds": 369,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0006",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Krall behaupte ausdrücklich, bei 22 Prozent Inflation sinke das Geldvermögen um 22 Prozent.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der falsche Rechenkern ist erfasst, die Wiedergabe präzisiert aber zu stark: Im Original stehen sechs, 4,8 und 1,2 Billionen; 1,2/6 entspricht 20 Prozent. Die direkte 22-Prozent-Verlustformulierung ist so im abgeglichenen Text nicht enthalten.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0006",
+          "startSeconds": 407,
+          "endSeconds": 418,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0007",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei einer Preissteigerung von 100 auf 122 fällt die Kaufkraft unveränderten Geldes um ungefähr 18 Prozent.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "1−100/122 = 18,0328 Prozent. Keine Bestätigung tatsächlicher Vermögensbestände.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S017",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0007",
+          "startSeconds": 423,
+          "endSeconds": 445,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0008",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kralls angenommene Goldpreise ergeben einen Dollarverlust gegenüber Gold von über 99 Prozent.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Eigene bedingte Rechnung mit 35 und 4.400: 99,2045 Prozent. Der Endpreis selbst ist hier nicht unabhängig bestätigt.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0008",
+          "startSeconds": 463,
+          "endSeconds": 479,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0009",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Gemessen am amerikanischen Verbraucherpreisindex habe der Dollar 1971–2025 ungefähr 87 Prozent Kaufkraft verloren.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Mit den gelesenen Jahresmitteln ergibt sich 87,4185 Prozent. Andere Zeitfenster und Vermögenspreise sind getrennt zu halten.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S017",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0009",
+          "startSeconds": 485,
+          "endSeconds": 502,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0010",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ben frage selbst kritisch nach der Eignung des Goldpreises als allgemeinem Kaufkraftmaß.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Originalstelle 02:14:46–02:15:32 trägt den Einwand. Die Rückfrage ist keine Übernahme von Kralls Zahl.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0010",
+          "startSeconds": 506,
+          "endSeconds": 518,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0011",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Isabel Schnabel war Professorin und keine frühere Finanzministerin.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der amtliche Lebenslauf stützt das Gegenbeispiel für den Aufnahmezeitpunkt.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S019",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0011",
+          "startSeconds": 558,
+          "endSeconds": 569,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0012",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Regierungen dürfen der EZB rechtlich keine Weisungen erteilen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der institutionelle Rechtsrahmen bestätigt das Weisungsverbot; Politik4M3 trennt informellen Einfluss ausdrücklich davon.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S020",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0012",
+          "startSeconds": 570,
+          "endSeconds": 582,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0013",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine Geschäftsbank kann bei Kreditvergabe neues Buchgeld schaffen, ohne vorher dieselbe Summe als Kundeneinlage erhalten zu haben.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Bundesbank erläutert genau diesen Buchungsmechanismus.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S018",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0013",
+          "startSeconds": 604,
+          "endSeconds": 616,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0014",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kapital- und Liquiditätsanforderungen begrenzen die Buchgeldschöpfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Regulierung und Refinanzierung sind reale Grenzen, trotz Schöpfung bei Kreditvergabe.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S018",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0014",
+          "startSeconds": 617,
+          "endSeconds": 628,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0015",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Staatsanleihekäufe am Sekundärmarkt sind unter Bedingungen möglich, ein garantierter sofortiger Weiterverkauf ist nicht vorgesehen.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Die PSPP-FAQ beschreibt Sekundärmarktkäufe, Marktneutralität und Emittentenlimits. Den konkreten Ausschluss eines garantierten sofortigen Weiterverkaufs muss der maßgebliche Rechtstext tragen; dessen Abruf blieb gesperrt.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S028",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S027",
+          "note": "Erfolgloser Abrufversuch – kein Sachbeleg."
+        }
+      ],
+      "openQuestions": [
+        "Maßgebliche rechtliche Sicherungen gegen garantierten unmittelbaren Weiterverkauf aus lesbarem Primärtext nachweisen."
+      ],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0015",
+          "startSeconds": 629,
+          "endSeconds": 653,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0016",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "2026 waren 14,5 Milliarden Euro regulärer Bundeszuschuss für den Gesundheitsfonds vorgesehen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Betrag und die Finanzierungsfunktion sind durch das BMG belegt. Zuschüsse und direkte Erbringung von Medizin sind zu unterscheiden.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S021",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0016",
+          "startSeconds": 731,
+          "endSeconds": 752,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0017",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Aus einer Staatsquote von 60 Prozent folgen nicht automatisch 60 Prozent Unternehmensaufträge des Staates.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Der Einwand verschiedener Größen ist plausibel. Vollständige amtliche Staatsausgaben-/Transferabgrenzung noch zu ergänzen; die genaue Staatsquote nicht mitgeprüft.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S021",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [
+        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+      ],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0017",
+          "startSeconds": 771,
+          "endSeconds": 798,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0018",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kralls Kürzungsprogramm sei in der gezeigten Darstellung keine nachvollziehbar durchgerechnete Haushaltsalternative.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "In der abgeglichenen Passage werden grobe Streichungen genannt, aber keine vollständige Titel-/Folgenrechnung. Ein außerhalb des Interviews existierender Plan ist damit nicht ausgeschlossen.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0018",
+          "startSeconds": 799,
+          "endSeconds": 811,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0019",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Moderne Windanlagen benötigten laut UBA ungefähr drei bis fünf Monate für Herstellung und weitere Lebenszyklusenergie.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Gerundet mit deutschem Referenzmix gestützt, bei anderen Referenzmixen längere Zeiten. Die Bezugsgröße ist Primärenergieersatz, nicht identisch mit dem Vestas-Nettorücklauf. Die Kurzfassung nennt diese Bedingung nicht.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0019",
+          "startSeconds": 838,
+          "endSeconds": 858,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0020",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Windanlagen liefern über ihre Nutzungsdauer einen deutlichen Energieüberschuss.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die untersuchten Modelle liefern positiven Rücklauf. Keine Zusage für jede einzelne Anlage oder finanzielle Rentabilität.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0020",
+          "startSeconds": 859,
+          "endSeconds": 873,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0021",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Energetischer Rücklauf und wirtschaftliche Rentabilität müssen getrennt geprüft werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das technische Verhältnis allein bestimmt keine Geldrendite. Baukosten, Standort und Preise sind zusätzliche Größen.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0021",
+          "startSeconds": 875,
+          "endSeconds": 912,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0022",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der IPCC führt die beobachtete globale Erwärmung auf menschliche Aktivitäten, besonders Treibhausgasemissionen, zurück.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "A.1 der Synthese trägt den Sachkern. Dies beantwortet nicht automatisch jede konkrete Politikmaßnahme.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S022",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0022",
+          "startSeconds": 968,
+          "endSeconds": 998,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0023",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Grönland verlor zwischen 2002 und 2025 im Jahresmittel rund 264 Milliarden Tonnen Eis.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die zeitlich ausdrücklich bezeichnete NASA-Animation nennt diesen Wert. Die Webseite zeigt daneben geringfügig andere Rundungen; daher kein universeller exakter Konstantwert.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0023",
+          "startSeconds": 1006,
+          "endSeconds": 1031,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0024",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Auch der antarktische Eisschild verliert langfristig Masse.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Negativer Gesamtbefund; nicht jede Region oder jedes Einzeljahr muss negativ sein.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S005",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0024",
+          "startSeconds": 1032,
+          "endSeconds": 1038,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0025",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "AIMS dokumentiere für den Bericht 2024/25 Rückgänge der Korallenbedeckung in allen drei Great-Barrier-Reef-Regionen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Belegt für die 2025 berichteten Erhebungen gegenüber 2024. Die Formulierung darf nicht als Rückgang in beiden einzelnen Jahren gelesen werden: 2024 waren regionale hohe Werte vorhanden.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S023",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0025",
+          "startSeconds": 1050,
+          "endSeconds": 1067,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0026",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die regionale AIMS-Reihe widerlege damit einen weltweiten aktuellen Korallenrekord.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Politik4M3 begrenzt die Aussage zunächst regional, zieht dann einen pauschalen Rekordschluss. Eine weltweite Flächen-/Volumenreihe fehlt; 2026 ist nicht dasselbe wie Erhebungen bis Mai 2025.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S023",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [
+        "Originalaussage auf Region und Zeitpunkt präzisieren; globale Daten statt eines einzelnen Riffgebiets prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0026",
+          "startSeconds": 1068,
+          "endSeconds": 1081,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0027",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Wirtschaftlicher Nutzen einer Entscheidung beweist für sich keine Bestechung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Ein Nutznießer und ein Bestechungsnachweis sind unterschiedliche Beweistatsachen; die konkrete Originalstelle ersetzt Letzteren nicht. Keine Behauptung, es gebe niemals Korruption.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0027",
+          "startSeconds": 1176,
+          "endSeconds": 1186,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0028",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Krall lege für die behauptete Kriegsverlängerung durch Bestechung in der einschlägigen Passage keine konkreten Zahlungsbelege vor.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Stelle verweist auf erst künftig erwartete Enthüllungen. Beschränkt auf die kontrollierte Passage, keine Prüfung sämtlicher weltweit vorliegender Ermittlungsakten.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0028",
+          "startSeconds": 1187,
+          "endSeconds": 1226,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0029",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "§ 6 AStG betrifft unter Voraussetzungen unrealisierte Wertzuwächse von Anteilen und nicht automatisch sämtliches künftiges Arbeitseinkommen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Normtext trägt diese begrenzte Abgrenzung. Keine Aussage, dass Unternehmensbewertungen ohne künftige Ertragserwartungen auskommen.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S024",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0029",
+          "startSeconds": 1310,
+          "endSeconds": 1334,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0030",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Krall sage, jeder wegziehende Mensch müsse sein gesamtes künftiges Einkommen versteuern.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Rede über künftiges Lebenseinkommen ist vorhanden; im Original steht sie im Kontext einer Unternehmensgründung. Die Erweiterung auf jeden Auswanderer ist im abgeglichenen Text nicht ausdrücklich enthalten.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0030",
+          "startSeconds": 1293,
+          "endSeconds": 1307,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0031",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Reichsfluchtsteuer wurde 1931 unter Brüning eingeführt und später von Nationalsozialisten zur Verfolgung genutzt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die historische Darstellung bestätigt die Abfolge. Daraus folgt keine Rechtsidentität mit der heutigen Wegzugsbesteuerung.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S025",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0031",
+          "startSeconds": 1335,
+          "endSeconds": 1360,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0032",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im zweiten Halbjahr 2025 betrug die Armutsquote in der INDEC-Erhebung 28,2 Prozent der Personen und 21,0 Prozent der Haushalte.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Personen-/Haushaltsunterscheidung und Zeitraum stimmen; die Erhebung umfasst 31 städtische Ballungsräume.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S026",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0032",
+          "startSeconds": 1387,
+          "endSeconds": 1406,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0033",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Personenarmutswert von 52,9 Prozent lag nach Mileis Amtsantritt.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Für die genaue Zeitfolge werden der frühere INDEC-Bericht und ein unabhängiger Amtsantrittsbeleg noch gezielt gelesen; nicht allein aus Politik4M3 übernehmen.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S026",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [
+        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+      ],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0033",
+          "startSeconds": 1407,
+          "endSeconds": 1415,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0034",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die 178 Gruppenpositionen erlauben keine Quote falscher Sätze des Gesamtinterviews.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Unterschiedliche Gruppengrößen und die Mischung aus Meinungen, Prognosen und offenen Prüfungen ergeben keinen einheitlichen Satznenner. Der gegenwärtige strukturierte Teilbestand ist ebenfalls keine Vollstatistik.",
+      "assessmentBasis": "Eigene Prüfung des übernommenen Registers und der Zähleinheiten, keine Sachwahrheit aus einer Video-Selbstauskunft abgeleitet.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0034",
+          "startSeconds": 1547,
+          "endSeconds": 1585,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0035",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Alfred habe dasselbe Markus-Krall-Interview bei Ben behandelt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Alfreds Beschreibung und abgeglichene Ausschnitte nennen und treffen OQnvClWgN-g. Keine Behauptung einer bereits existierenden Kooperation.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S001",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0035",
+          "startSeconds": 1621,
+          "endSeconds": 1638,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "L7E04TJtRBU-A0036",
+      "videoId": "L7E04TJtRBU",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Ein künftiges Netzwerk mit gegenseitiger Kontrolle und möglicher Zusammenarbeit mit Sinan sei wünschenswert.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Vorschlag und Einladung, kein Nachweis eines schon bestehenden Netzwerks oder einer Kooperation.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
+        "assessmentChange": "Keine frühere Endbewertung übernommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "L7E04TJtRBU-O0036",
+          "startSeconds": 1690,
+          "endSeconds": 1805,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zuordnung nach Gesprächs- und Textkontext; keine akustische Bestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sprachlicher Aussagebezug im Textkontext, ohne bestätigte Stimm-/Schnittkontrolle.",
+          "note": "Eigenständige Paraphrase; ungefähre Textfundstelle, keine audiovisuelle Vollkontrolle.",
+          "timeBasis": "Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt, keine bildgenaue Kontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}

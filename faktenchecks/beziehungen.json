@@ -376,6 +376,738 @@
           "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
         }
       ]
+    },
+    {
+      "id": "R1301",
+      "reactionVideoId": "qQAcmDzd9O8",
+      "originalVideoId": "OQnvClWgN-g",
+      "certainty": "Belegt",
+      "basis": "Videoidentität, ausdrücklicher Originallink in der Uploadbeschreibung und erneut abgeglichene Textstellen; keine Vollständigkeitszusage.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "change": "[Codex] Neuer Krall-Fall, Issue #13; Zuordnung und abgegrenzte Gegenprüfung."
+        }
+      ],
+      "claimLinks": [
+        {
+          "id": "L1301",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0015",
+          "reactionClaimId": "qQAcmDzd9O8-A0002",
+          "reactionSeconds": 171,
+          "note": "Gleiche langfristige Gesamtmassenfrage, entgegengesetzte Behauptung.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1302",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0014",
+          "reactionClaimId": "qQAcmDzd9O8-A0002",
+          "reactionSeconds": 171,
+          "note": "Gesamtmasse ist vom unscharfen aktuellen Rekord zu unterscheiden; der Einwand betrifft den Langzeitkern.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1303",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0014",
+          "reactionClaimId": "qQAcmDzd9O8-A0007",
+          "reactionSeconds": 204,
+          "note": "Historischer Meereisrekord, anderer Zeitraum und Indikator; kein Widerspruch zum langfristigen Landeisverlust.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1304",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0014",
+          "reactionClaimId": "qQAcmDzd9O8-A0010",
+          "reactionSeconds": 238,
+          "note": "Regionale Ostantarktisbilanz statt gesamter antarktischer Masse.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1305",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0014",
+          "reactionClaimId": "qQAcmDzd9O8-A0011",
+          "reactionSeconds": 253,
+          "note": "Meereismaximum 2023 als datierter Vergleich.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1306",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0009",
+          "reactionClaimId": "qQAcmDzd9O8-A0014",
+          "reactionSeconds": 364,
+          "note": "Positive Modellenergiebilanz kontra pauschal negative Anlagenbilanz; Modellgrenzen sichtbar.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1307",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0009",
+          "reactionClaimId": "qQAcmDzd9O8-A0016",
+          "reactionSeconds": 382,
+          "note": "Kern der positiven Energiebilanz; 3–5 Monate nur teilweise gestützt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1308",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0009",
+          "reactionClaimId": "qQAcmDzd9O8-A0019",
+          "reactionSeconds": 418,
+          "note": "Modellbezogener positiver Rücklauf, keine Zählung sämtlicher realer Anlagen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1309",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0009",
+          "reactionClaimId": "qQAcmDzd9O8-A0022",
+          "reactionSeconds": 483,
+          "note": "Anderer Prüfumfang: Anlagenbilanz versus System mit Speicher. Kein automatisch identischer Vergleich.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1310",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0010",
+          "reactionClaimId": "qQAcmDzd9O8-A0023",
+          "reactionSeconds": 502,
+          "note": "Geldrentabilität und Energie getrennt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1311",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0027",
+          "reactionClaimId": "qQAcmDzd9O8-A0024",
+          "reactionSeconds": 572,
+          "note": "2019-Vorhersage als nötiger Kontext; Primärwortlaut offen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1312",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0027",
+          "reactionClaimId": "qQAcmDzd9O8-A0028",
+          "reactionSeconds": 676,
+          "note": "Neue Zeitfolge und abweichende Maßnahme; offene Reviewlücke.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/13",
+            "note": "Mai-Originalinterview und tatsächlich nachfolgende Maßnahme inhaltlich vergleichen. März-Pufferfreigabe liegt vor Mai."
+          },
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1313",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0008",
+          "reactionClaimId": "qQAcmDzd9O8-A0026",
+          "reactionSeconds": 660,
+          "note": "Stärkere Ausgangsbilanz ist nicht dasselbe wie Abwesenheit sämtlicher Bankenrisiken.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1314",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0027",
+          "reactionClaimId": "qQAcmDzd9O8-A0030",
+          "reactionSeconds": 697,
+          "note": "2023 und Zinsanstieg sind anderer Zeitpunkt/Mechanismus als die behauptete Vorhersage.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1315",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0027",
+          "reactionClaimId": "qQAcmDzd9O8-A0025",
+          "reactionSeconds": 633,
+          "note": "Kapitalrekord noch nicht unabhängig verifiziert.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "R1302",
+      "reactionVideoId": "L7E04TJtRBU",
+      "originalVideoId": "OQnvClWgN-g",
+      "certainty": "Belegt",
+      "basis": "Videoidentität, ausdrücklicher Originallink in der Uploadbeschreibung und erneut abgeglichene Textstellen; keine Vollständigkeitszusage.",
+      "history": [
+        {
+          "date": "2026-11-18",
+          "change": "[Codex] Neuer Krall-Fall, Issue #13; Zuordnung und abgegrenzte Gegenprüfung."
+        }
+      ],
+      "claimLinks": [
+        {
+          "id": "L1316",
+          "type": "gibt_wieder",
+          "originalClaimId": "OQnvClWgN-g-A0026",
+          "reactionClaimId": "L7E04TJtRBU-A0002",
+          "reactionSeconds": 248,
+          "note": "Wiedergabe der Prognose, keine faktische Bestätigung ihres zukünftigen Eintretens.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1317",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0026",
+          "reactionClaimId": "L7E04TJtRBU-A0005",
+          "reactionSeconds": 355,
+          "note": "Kalenderbezug 2028–2030; andere Aussageart als Prognosewahrheit.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1318",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0001",
+          "reactionClaimId": "L7E04TJtRBU-A0004",
+          "reactionSeconds": 288,
+          "note": "Methodischer Einwand gegen Bestandsableitung, kein eigener gemessener Gegenanteil.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1319",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0002",
+          "reactionClaimId": "L7E04TJtRBU-A0003",
+          "reactionSeconds": 294,
+          "note": "Existenz des Forschungsgegenstands stützt keine exakte aktuelle Quote.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1320",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0003",
+          "reactionClaimId": "L7E04TJtRBU-A0007",
+          "reactionSeconds": 423,
+          "note": "Dieselben bedingten Eingaben, inverse Kaufkraftrechnung.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1321",
+          "type": "gibt_wieder",
+          "originalClaimId": "OQnvClWgN-g-A0003",
+          "reactionClaimId": "L7E04TJtRBU-A0006",
+          "reactionSeconds": 407,
+          "note": "Rechenkern richtig kritisiert, direkte 22-Prozent-Verlustwiedergabe zu stark.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/13",
+            "note": "Original nennt 6, 4,8 und 1,2 Billionen; das entspricht 20 Prozent. Keine wortgleiche 22-Prozent-Verlustaussage belegt."
+          },
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1322",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "OQnvClWgN-g-A0019",
+          "reactionClaimId": "L7E04TJtRBU-A0008",
+          "reactionSeconds": 463,
+          "note": "Bedingte Goldverhältnisrechnung, keine Verifikation des Endpreises.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1323",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0020",
+          "reactionClaimId": "L7E04TJtRBU-A0009",
+          "reactionSeconds": 485,
+          "note": "Allgemeiner Verbraucherwarenkorb statt Goldverhältnis.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1324",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0021",
+          "reactionClaimId": "L7E04TJtRBU-A0009",
+          "reactionSeconds": 485,
+          "note": "Spätere 95-Prozent-Angabe separat mit gleicher Jahresreihe prüfen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1325",
+          "type": "gibt_wieder",
+          "originalClaimId": "OQnvClWgN-g-A0022",
+          "reactionClaimId": "L7E04TJtRBU-A0010",
+          "reactionSeconds": 506,
+          "note": "Hosteinwand, keine Übernahme der Gastzahl.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1326",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0004",
+          "reactionClaimId": "L7E04TJtRBU-A0011",
+          "reactionSeconds": 558,
+          "note": "Konkretes Gegenbeispiel zur universellen Ministerbehauptung.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1327",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0005",
+          "reactionClaimId": "L7E04TJtRBU-A0012",
+          "reactionSeconds": 570,
+          "note": "Praktische Einflussbehauptung und gesetzlicher Rahmen sind verschiedene Prüffragen; kein automatisches Wahrheitsurteil über praktische Unabhängigkeit.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1328",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0007",
+          "reactionClaimId": "L7E04TJtRBU-A0013",
+          "reactionSeconds": 604,
+          "note": "Kreditbuchung versus mechanisches Weiterverleihmodell.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1329",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0007",
+          "reactionClaimId": "L7E04TJtRBU-A0014",
+          "reactionSeconds": 617,
+          "note": "Regulatorische Grenzen ergänzen die Schöpfungserklärung.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1330",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0006",
+          "reactionClaimId": "L7E04TJtRBU-A0015",
+          "reactionSeconds": 629,
+          "note": "Programmbedingungen; Einschränkung im Original beachten, Primärurteilzugang offen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1331",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0011",
+          "reactionClaimId": "L7E04TJtRBU-A0016",
+          "reactionSeconds": 731,
+          "note": "Indirekte GKV-Finanzierung kontra keinerlei medizinische Finanzierung.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1332",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0012",
+          "reactionClaimId": "L7E04TJtRBU-A0018",
+          "reactionSeconds": 799,
+          "note": "Nachvollziehbarkeit im Interview; keine Behauptung, dass außerhalb kein Plan existiert.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1333",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0028",
+          "reactionClaimId": "L7E04TJtRBU-A0017",
+          "reactionSeconds": 771,
+          "note": "Unterschiedliche Nenner und Transfers; abschließender amtlicher Definitionsbeleg offen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1334",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0009",
+          "reactionClaimId": "L7E04TJtRBU-A0020",
+          "reactionSeconds": 859,
+          "note": "Positiver Rücklauf in untersuchten Modellen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1335",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0009",
+          "reactionClaimId": "L7E04TJtRBU-A0019",
+          "reactionSeconds": 838,
+          "note": "Positive Monatsgrößenordnung, enge Bandbreite nur teilweise bestätigt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1336",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0010",
+          "reactionClaimId": "L7E04TJtRBU-A0021",
+          "reactionSeconds": 875,
+          "note": "Energie- und Geldbewertung getrennt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1337",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0013",
+          "reactionClaimId": "L7E04TJtRBU-A0022",
+          "reactionSeconds": 968,
+          "note": "Unabhängig gelesene Forschungssynthese gegen behauptete fehlende Grundlage.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1338",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0015",
+          "reactionClaimId": "L7E04TJtRBU-A0023",
+          "reactionSeconds": 1006,
+          "note": "Langfristige Gesamtmasse und expliziter NASA-Messzeitraum.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1339",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0014",
+          "reactionClaimId": "L7E04TJtRBU-A0024",
+          "reactionSeconds": 1032,
+          "note": "Langfristiger Gesamtmassenbefund; kein Einzeljahres-/Teilregionsurteil.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1340",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0016",
+          "reactionClaimId": "L7E04TJtRBU-A0025",
+          "reactionSeconds": 1050,
+          "note": "Abweichender Prüfumfang: GBR-Hartkorallenbedeckung statt weltweitem Volumen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1341",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0016",
+          "reactionClaimId": "L7E04TJtRBU-A0026",
+          "reactionSeconds": 1068,
+          "note": "Ungeklärte globale Reichweite und anderer Endzeitpunkt.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/13",
+            "note": "Globaler Messbereich, Originalintention und Zeitbezug 2026 gegenüber AIMS bis Mai 2025 abklären."
+          },
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1342",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0017",
+          "reactionClaimId": "L7E04TJtRBU-A0028",
+          "reactionSeconds": 1187,
+          "note": "Fehlende Belege in betrachteter Passage, kein Beweis für Unmöglichkeit von Korruption.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1343",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0017",
+          "reactionClaimId": "L7E04TJtRBU-A0027",
+          "reactionSeconds": 1176,
+          "note": "Profiteur und Bestechungsnachweis nicht gleichsetzen.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1344",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0018",
+          "reactionClaimId": "L7E04TJtRBU-A0028",
+          "reactionSeconds": 1187,
+          "note": "Künftig erwartete Enthüllung ist kein heute gelieferter Nachweis.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1345",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0023",
+          "reactionClaimId": "L7E04TJtRBU-A0029",
+          "reactionSeconds": 1310,
+          "note": "Rechtsgrundlage und Gewinnabgrenzung; zukünftige Unternehmensbewertung nicht mit gesamtem Lebenseinkommen verwechseln.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1346",
+          "type": "gibt_wieder",
+          "originalClaimId": "OQnvClWgN-g-A0023",
+          "reactionClaimId": "L7E04TJtRBU-A0030",
+          "reactionSeconds": 1293,
+          "note": "Unternehmerkontext im Original enger als pauschale Formulierung für alle Auswanderer.",
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/13",
+            "note": "Unternehmenskontext bei der Wiedergabe erhalten."
+          },
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1347",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0024",
+          "reactionClaimId": "L7E04TJtRBU-A0031",
+          "reactionSeconds": 1335,
+          "note": "Einführung vor NS-Machtübernahme und spätere Verfolgung getrennt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1348",
+          "type": "gegenbehauptung",
+          "originalClaimId": "OQnvClWgN-g-A0025",
+          "reactionClaimId": "L7E04TJtRBU-A0032",
+          "reactionSeconds": 1387,
+          "note": "Personen und Haushalte sowie Messgebiet getrennt.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        },
+        {
+          "id": "L1349",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0025",
+          "reactionClaimId": "L7E04TJtRBU-A0033",
+          "reactionSeconds": 1407,
+          "note": "Historischer Ausgangszeitpunkt zusätzlich zu klären.",
+          "history": [
+            {
+              "date": "2026-11-18",
+              "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            }
+          ]
+        }
+      ]
     }
   ]
 }

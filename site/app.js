@@ -359,6 +359,7 @@ async function relationsSection(v) {
     return `<section class="section" id="reaktionen" aria-labelledby="h-reaktionen">
       <div class="section-head"><h2 id="h-reaktionen">Reaktionen und weitere Faktenchecks</h2>
       <p>Videos anderer Kanäle, die sich nachweislich auf dieses Interview beziehen. Ihre Aussagen werden eigenständig geprüft; der Faktencheck dieses Interviews ist dafür Kontext, kein Wahrheitsmaßstab.</p></div>
+      ${v.files.includes('vergleich.md') ? `<p><a class="case-comparison" href="#/video/${esc(v.id)}/bericht/vergleich.md">Gemeinsamer Vergleich der Prüfungen</a></p>` : ''}
       ${rels.length ? `<ul class="rel-list">${rels.map(r => relationSummary(r, videos, 'original')).join('')}</ul>` : '<p class="muted">Noch keine Reaktionen zugeordnet.</p>'}
       ${links ? `<h3 style="margin-top:20px">Gegenüberstellung verknüpfter Aussagen</h3><div class="cmp-list">${links}</div>` : ''}
     </section>`;
@@ -370,6 +371,7 @@ async function relationsSection(v) {
     return `<section class="section" id="bezuege" aria-labelledby="h-bezuege">
       <div class="section-head"><h2 id="h-bezuege">Bezüge auf Originalinterviews</h2>
       <p>Wiedergaben und eigene Behauptungen dieser Reaktion, verknüpft mit den geprüften Aussagen des Originals.</p></div>
+      ${rels.filter(r => videos.get(r.originalVideoId)?.files?.includes('vergleich.md')).map(r => `<p><a class="case-comparison" href="#/video/${esc(r.originalVideoId)}/bericht/vergleich.md">Gemeinsamer Vergleich: ${esc(videoName(r.originalVideoId))}</a></p>`).join('')}
       ${rels.length ? `<ul class="rel-list">${rels.map(r => relationSummary(r, videos, 'reaction')).join('')}</ul>` : '<p class="muted">Noch keinem Original zugeordnet.</p>'}
       ${links ? `<div class="cmp-list">${links}</div>` : ''}
     </section>`;
