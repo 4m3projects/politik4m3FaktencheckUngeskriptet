@@ -1,5 +1,5 @@
 /*
- * Politik4M3 Faktencheck – statische Webseite.
+ * Politik4M3 Faktencheck Ungeskriptet – statische Webseite.
  * Eigener Code ohne Fremdbibliotheken. Liest ausschließlich die vom Workflow
  * bereitgestellten Projektdateien unter daten/ (Schema-2-JSON und eigene Markdown-Berichte).
  * Keine externen Anfragen und keine Speicherung von Nutzerdaten. Einzige Ausnahme: In der
@@ -69,7 +69,7 @@ async function getText(path) {
   return t;
 }
 
-function repoUrl() { return 'https://github.com/' + (state.index?.repository || '4m3projects/politik4m3Facktencheck'); }
+function repoUrl() { return 'https://github.com/' + (state.index?.repository || '4m3projects/politik4m3FaktencheckUngeskriptet'); }
 function blobUrl(repoPath) {
   const ref = state.index?.commit || 'main';
   return repoUrl() + '/blob/' + ref + '/' + repoPath.split('/').map(encodeURIComponent).join('/');
@@ -359,7 +359,7 @@ async function pageHome() {
       <p class="small" style="margin-top:16px">Die gesamte Diskussion ist nachlesbar: <a href="${esc(repoUrl())}/issues?q=is%3Aissue" rel="noopener noreferrer" target="_blank">Issues</a> · <a href="${esc(repoUrl())}/pulls?q=is%3Apr" rel="noopener noreferrer" target="_blank">Pull Requests</a></p>
     </section>
   </div>`, 'start');
-  document.title = 'Politik4M3 Faktencheck';
+  document.title = 'Politik4M3 Faktencheck Ungeskriptet';
 }
 
 function claimCard(c, v, chapterTitles) {
@@ -532,7 +532,7 @@ async function pageVideo(id, focusClaim) {
       </aside>
     </div>
   </div>`, 'start');
-  document.title = v.title + ' – Politik4M3 Faktencheck';
+  document.title = v.title + ' – Politik4M3 Faktencheck Ungeskriptet';
 
   const q = document.getElementById('f-q'), fv = document.getElementById('f-v'), fc = document.getElementById('f-c');
   const cards = [...document.querySelectorAll('#claims .claim')];
@@ -611,7 +611,7 @@ async function pageReport(id, file) {
   </div>`, 'start');
   decorateVerdicts(main());
   const h1 = /^#\s+(.+)$/m.exec(src);
-  document.title = (h1 ? stripMd(h1[1]) + ' – ' : '') + 'Politik4M3 Faktencheck';
+  document.title = (h1 ? stripMd(h1[1]) + ' – ' : '') + 'Politik4M3 Faktencheck Ungeskriptet';
   window.scrollTo(0, 0);
 }
 
@@ -644,7 +644,7 @@ function pageMethod() {
       <p>Die verbindlichen Regeln stehen in <a href="${esc(blobUrl('AGENTS.md'))}" rel="noopener noreferrer" target="_blank">AGENTS.md</a>, das Datenmodell in <a href="${esc(blobUrl('docs/STRUKTURIERTE_DATEN.md'))}" rel="noopener noreferrer" target="_blank">docs/STRUKTURIERTE_DATEN.md</a>.</p>
     </section>
   </div>`, 'methodik');
-  document.title = 'Methodik – Politik4M3 Faktencheck';
+  document.title = 'Methodik – Politik4M3 Faktencheck Ungeskriptet';
   window.scrollTo(0, 0);
 }
 
