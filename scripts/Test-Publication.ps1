@@ -17,7 +17,9 @@ function Test-PublicFile([string]$RelativePath,[string]$Content,[string]$Origin)
         $name -match '^scripts/[A-Za-z0-9_-]+\.ps1$' -or
         $name -match '^site/[A-Za-z0-9_-]+\.(html|css|js)$' -or
         $name -match '^\.github/workflows/[A-Za-z0-9_-]+\.yml$' -or
-        $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/strukturiert/(aussagen|statistik)\.json$'
+        $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/strukturiert/(aussagen|statistik)\.json$' -or
+        $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/video\.json$' -or
+        $name -ceq 'faktenchecks/beziehungen.json'
     if (-not $allowed -or $name -match '(^|/)\.\.(/|$)') {
         $problems.Add($Origin + ': nicht zugelassener Pfad ' + $name)
         return

@@ -1,8 +1,9 @@
 # Erzeugt die statische Webseite aus den Faktencheck-Daten und veröffentlicht sie über GitHub Pages.
 # Pull Requests: nur Prüfung und Testaufbau, keine Veröffentlichung.
 # Push auf main: Prüfung, Aufbau und Veröffentlichung.
-# Es werden ausschließlich die Seitendateien aus site/ (ohne *-test.js), eigene Markdown-Berichte und die beiden
-# strukturierten JSON-Dateien je Video übernommen – keine anderen Dateien aus dem Repository.
+# Es werden ausschließlich die Seitendateien aus site/ (ohne *-test.js), eigene Markdown-Berichte, die beiden
+# strukturierten JSON-Dateien und video.json je Video sowie faktenchecks/beziehungen.json übernommen –
+# keine anderen Dateien aus dem Repository.
 name: Webseite
 
 on:
@@ -52,6 +53,9 @@ jobs:
       - name: Synchronisationslogik testen
         run: node --test site/sync-test.js
 
+      - name: Originale, Reaktionen und Beziehungen prüfen
+        run: node --test site/relations-test.js
+
       - name: Webseite zusammenstellen
         env:
           OUT: ${{ runner.temp }}/site
@@ -59,7 +63,8 @@ jobs:
           set -euo pipefail
           rm -rf "$OUT"
           mkdir -p "$OUT/daten"
-          cp site/index.html site/style.css site/app.js site/sync.js site/video.js "$OUT/"
+          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js "$OUT/"
+          if [[ -f faktenchecks/beziehungen.json ]]; then jq -c . faktenchecks/beziehungen.json > "$OUT/daten/beziehungen.json"; else echo '{"schemaVersion":1,"relations":[]}' > "$OUT/daten/beziehungen.json"; fi
           videos='[]'
           for dir in faktenchecks/*/; do
             id=$(basename "$dir")
@@ -81,10 +86,12 @@ jobs:
                 jq -c . "$dir/strukturiert/statistik.json" > "$OUT/daten/$id/strukturiert/statistik.json"
               fi
             fi
+            meta=null
+            if [[ -f "$dir/video.json" ]]; then meta=$(jq -c . "$dir/video.json"); fi
             title=$(grep -m1 '^# ' "$dir/README.md" | sed 's/^# //')
-            videos=$(jq -c --arg id "$id" --arg title "${title:-$id}" --argjson structured "$structured" \
+            videos=$(jq -c --arg id "$id" --arg title "${title:-$id}" --argjson structured "$structured" --argjson meta "$meta" \
               --argjson files "$(printf '%s\n' "$files" | jq -R . | jq -sc 'map(select(length > 0))')" \
-              '. + [{id: $id, title: $title, structured: $structured, files: $files}]' <<< "$videos")
+              '. + [{id: $id, title: $title, structured: $structured, files: $files, video: $meta}]' <<< "$videos")
           done
           jq -n --argjson videos "$videos" \
             --arg commit "${GITHUB_SHA}" \

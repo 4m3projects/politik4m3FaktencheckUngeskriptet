@@ -1,6 +1,6 @@
 # Konzept: Originalinterviews, Reaktionen und Meta-Faktenchecks
 
-Status: Konzept, noch keine Implementierung. Stand: 18.11.2026.
+Status: Konzept vom 18.11.2026. Umgesetzter Stand (Issue #4): [REAKTIONSVIDEOS.md](REAKTIONSVIDEOS.md).
 
 ## Ziel
 Die Plattform prüft unabhängig und nachvollziehbar sowohl Aussagen in Interviews bei ungeskriptet als auch deren Behandlung durch externe Reaktionsvideos, journalistische Analysen und Faktenchecks. Zustimmung und Kritik werden mit demselben Verfahren geprüft. Kein offizielles Projekt von Ben, Alfred oder Sinan.
