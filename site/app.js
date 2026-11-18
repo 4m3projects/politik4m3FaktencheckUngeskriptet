@@ -1034,11 +1034,31 @@ function keepTabsInView(jump) {
   window.scrollTo(0, y);
 }
 
+/* Berichtswechsel: direkt zum Anfang des gewählten Berichts scrollen statt an den Seitenanfang. */
+document.addEventListener('click', e => {
+  const a = e.target.closest('a[href*="/bericht/"]');
+  if (!a || !main().contains(a) || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+  if (a.getAttribute('href') === location.hash) return;
+  const nav = main().querySelector('.report-nav');
+  state.reportJump = { at: Date.now(), navScroll: nav ? nav.scrollTop : 0 };
+});
+function showReportStart(jump) {
+  const art = main().querySelector('.report-layout .prose');
+  if (!art) return;
+  const nav = main().querySelector('.report-nav');
+  if (nav) nav.scrollTop = jump.navScroll;
+  const bar = document.querySelector('.topbar');
+  const offset = (bar ? bar.getBoundingClientRect().height : 0) + 16;
+  window.scrollTo(0, Math.max(0, window.scrollY + art.getBoundingClientRect().top - offset));
+}
+
 async function route() {
-  const jump = state.tabJump && Date.now() - state.tabJump.at < 2000 ? state.tabJump : null;
-  state.tabJump = null;
+  const fresh = j => (j && Date.now() - j.at < 2000 ? j : null);
+  const jump = fresh(state.tabJump), rjump = fresh(state.reportJump);
+  state.tabJump = null; state.reportJump = null;
   await routePage();
   if (jump) keepTabsInView(jump);
+  else if (rjump) showReportStart(rjump);
 }
 
 async function routePage() {

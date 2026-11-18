@@ -147,6 +147,27 @@ async function step(name, fn) {
     assert.equal(await page.evaluate(() => window.scrollY), 0, 'Direktaufruf beginnt oben');
   });
 
+  await step('Berichtswechsel: springt zum Anfang des gewählten Berichts statt nach oben', async () => {
+    for (const w of [1280, 390]) {
+      await page.setViewportSize({ width: w, height: 800 });
+      await open(urlOf(real), '#/video/mlxFA9T88I0/bericht/README.md');
+      const links = await page.$$eval('#inhalt .report-nav a', a => a.map(x => x.getAttribute('href')));
+      assert.ok(links.length >= 2, 'mehrere Berichte vorhanden');
+      const target = links.find(h => !h.endsWith('/README.md'));
+      await page.$eval('#inhalt .report-nav', el => el.scrollIntoView());
+      await page.click(`#inhalt .report-nav a[href="${target}"]`);
+      await page.waitForFunction(h => location.hash === h && document.querySelector('#inhalt .report-nav a[aria-current="page"]')?.getAttribute('href') === h, target);
+      await page.waitForTimeout(100);
+      const top = await page.$eval('#inhalt .report-layout .prose', el => Math.round(el.getBoundingClientRect().top));
+      const bar = await page.$eval('.topbar', el => Math.round(el.getBoundingClientRect().height));
+      assert.ok(Math.abs(top - bar - 16) <= 3, `${w}px: Berichtsanfang bei ${top} px, erwartet ${bar + 16} px`);
+      assert.ok(await page.evaluate(() => window.scrollY) > 0, w + 'px: nicht nach oben gesprungen');
+    }
+    await page.setViewportSize({ width: 1280, height: 900 });
+    await open(urlOf(real), '#/video/mlxFA9T88I0/bericht/README.md');
+    assert.equal(await page.evaluate(() => window.scrollY), 0, 'Direktaufruf beginnt oben');
+  });
+
   await step('Echte Reaktion: Hank unter Naomi mit Rücklink und begrenzter Gegenprüfung', async () => {
     const t = await open(urlOf(real), '#/video/mdo14671BPE/reaktionen');
     assert.match(t, /Hank Loose/);
