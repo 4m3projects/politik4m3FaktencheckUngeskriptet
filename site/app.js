@@ -510,6 +510,21 @@ function ampelView(v, variant = '') {
   </div>`;
 }
 
+/* Übersicht auf der Startseite: alle Videos mit ihrer Faktenampel, Originale zuerst. */
+function ampelOverview(all) {
+  const list = all.filter(v => v.data).sort((a, b) => (a.video?.role === 'reaction') - (b.video?.role === 'reaction'));
+  if (!list.length) return '';
+  const item = v => {
+    const role = v.video?.role === 'reaction' ? `Reaktion von ${v.video.channel}` : (v.video?.channel || v.meta?.Kanal && stripMd(v.meta.Kanal) || 'Faktencheck');
+    return `<li><a class="ampel-row" href="#/video/${esc(v.id)}">${ampelView(v, 'big')}<span class="ampel-row-title"><strong>${esc(v.video?.title || v.title)}</strong><span class="small">${esc(role)}</span></span></a></li>`;
+  };
+  return `<section class="section" id="ampel-uebersicht" aria-labelledby="h-ampel">
+      <div class="section-head"><h2 id="h-ampel">Faktenampel: alle Interviews auf einen Blick</h2>
+      <p>Grün, Gelb oder Rot ergibt sich nur aus dem Anteil widerlegter oder irreführender Aussagen unter den bereits entschiedenen Tatsachenbehauptungen. Grau heißt: noch nicht bewertbar. Die Ampeln der Reaktionsvideos stehen auf der Seite des jeweiligen Interviews. <a href="#/methodik">So wird gerechnet</a></p></div>
+      <ul class="ampel-overview">${list.map(item).join('')}</ul>
+    </section>`;
+}
+
 async function pageHome() {
   const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   /* Hauptübersicht: nur Originalinterviews; Reaktionen erscheinen bei ihrem Original. */
@@ -560,6 +575,7 @@ async function pageHome() {
     </div>
   </section>
   <div class="wrap">
+    ${ampelOverview(shown)}
     <section class="section" aria-labelledby="h-hintergrund">
       <div class="section-head"><h2 id="h-hintergrund">Warum wir „ungeskriptet“ prüfen</h2></div>
       <p>Die Frage nach der Verantwortung für Tatsachenbehauptungen in Interviews wurde 2026 öffentlich diskutiert: Nach einem Interview mit Björn Höcke wies die Landesanstalt für Medien NRW in einem Hinweisschreiben darauf hin, dass eine nachweislich falsche Aussage über eine Losung der SA im Interview nicht eingeordnet worden war. Die Behörde ordnet „ungeskriptet by Ben“ als journalistisch-redaktionelles Angebot ein und verweist auf die journalistischen Sorgfaltspflichten.</p>
