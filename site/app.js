@@ -735,6 +735,14 @@ async function fillChapterTitles(v, titles) {
   }));
 }
 
+/* Brotkrumen mit Videotiteln statt IDs; bei Reaktionen steht das geprüfte Original dazwischen. */
+function videoCrumbs(v) {
+  const origs = v.video?.role === 'reaction'
+    ? (state.rel.byReaction.get(v.id) || []).map(r => `<a href="#/video/${esc(r.originalVideoId)}">${esc(entryOf(r.originalVideoId)?.title || videoName(r.originalVideoId))}</a>`)
+    : [];
+  return `<nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / ${origs.length ? origs.join(' · ') + ' / ' : ''}<span aria-current="page">${esc(v.title || v.id)}</span></nav>`;
+}
+
 function videoHeader(v, tab) {
   const scope = v.data?.scope;
   const tabs = [
@@ -744,7 +752,7 @@ function videoHeader(v, tab) {
     v.video?.role === 'original' ? ['reaktionen', `#/video/${v.id}/reaktionen`, `Reaktionen (${(state.rel.byOriginal.get(v.id) || []).length})`] : null,
     v.video?.role === 'reaction' ? ['reaktionen', `#/video/${v.id}/reaktionen`, 'Bezug zum Original'] : null,
   ].filter(Boolean);
-  return `<nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / ${esc(v.id)}</nav>
+  return `${videoCrumbs(v)}
   <header class="video-head">
     <h1>${esc(v.title)}</h1>
     ${roleLine(v)}

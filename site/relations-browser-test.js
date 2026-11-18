@@ -168,6 +168,19 @@ async function step(name, fn) {
     assert.equal(await page.evaluate(() => window.scrollY), 0, 'Direktaufruf beginnt oben');
   });
 
+  await step('Brotkrumen: Titel statt Video-ID, bei Reaktionen mit Original dazwischen', async () => {
+    await open(urlOf(real), '#/video/mlxFA9T88I0');
+    let c = await page.innerText('.crumbs');
+    assert.match(c, /^Faktenchecks \/ Horst Lüning bei Ben/);
+    assert.doesNotMatch(c, /mlxFA9T88I0/);
+    await open(urlOf(real), '#/video/sLMyP0H7tSY/reaktionen');
+    c = await page.innerText('.crumbs');
+    const links = await page.$$eval('.crumbs a', a => a.map(x => x.getAttribute('href')));
+    assert.deepEqual(links, ['#/', '#/video/mlxFA9T88I0'], 'Übersicht und Original verlinkt');
+    assert.match(c, /^Faktenchecks \/ Horst Lüning bei Ben.* \/ .+/);
+    assert.doesNotMatch(c, /sLMyP0H7tSY|mlxFA9T88I0/);
+  });
+
   await step('Echte Reaktion: Hank unter Naomi mit Rücklink und begrenzter Gegenprüfung', async () => {
     const t = await open(urlOf(real), '#/video/mdo14671BPE/reaktionen');
     assert.match(t, /Hank Loose/);
