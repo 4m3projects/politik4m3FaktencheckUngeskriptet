@@ -122,3 +122,7 @@ Erstellt von: Claude. Ein Klick auf einen Reiter der Detailseite (Aussagen, Vide
 ## Video-Ansicht: Fundstellenliste auf Höhe des Videos
 
 Erstellt von: Claude. Überschrift „Fundstellen im Zeitverlauf“, Genauigkeitshinweis und Liste liegen gemeinsam im scrollenden Bereich `#vc-scroll`. Der Bereich beginnt auf Höhe des Videos; beim automatischen Mitscrollen verschwinden Überschrift und Hinweis aus dem Blick. Geprüft in `site/browser-test.js` (Schritt „Layout umschalten“).
+
+## Berichtswechsel ohne Sprung nach oben
+
+Erstellt von: Claude. Ein Klick auf einen Bericht (Berichtsnavigation oder Link im Berichtstext) scrollt direkt zum Anfang des gewählten Berichts, knapp unter der Kopfleiste; die Scrollposition der Berichtsnavigation bleibt erhalten. Direktaufrufe und Neuladen beginnen oben. Geprüft in `site/relations-browser-test.js` (Desktop und 390 px).

@@ -187,7 +187,8 @@ async function step(name, fn) {
 
   await step('Methodik erklärt die zweite Ebene', async () => {
     const t = await open(W, '#/methodik');
-    assert.match(t, /Zweite Ebene: Wie etwas gesagt wird/);
+    assert.match(t, /Maßstab 2 – Darstellung: wie etwas gesagt wird/);
+    assert.equal(await page.locator('#darstellung .verdict-list li').count(), 6, 'sechs Darstellungsmerkmale aufgezählt');
     assert.match(t, /Keine Fehlerpunkte/);
   });
 
