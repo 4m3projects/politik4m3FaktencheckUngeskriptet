@@ -1,27 +1,24 @@
 # Politik4M3 Faktencheck – Ungeskriptet
 
-Unabhängiges, quellenorientiertes Faktencheck-Projekt zu öffentlich zugänglichen Interviews des YouTube-Kanals **ungeskriptet**. Dies ist ein eigenständiges Projekt von Politik4M3, keine offizielle Zusammenarbeit mit Ben, ungeskriptet, Alfred oder Sinan.
+**Unabhängige, quellenorientierte Faktenchecks zu Interviews bei „ungeskriptet“ und den dazugehörigen Reaktionen.**
 
-## Ziel
-Wir prüfen nachprüfbare Tatsachenbehauptungen möglichst fair und nachvollziehbar. Richtige Aussagen werden genauso dokumentiert wie falsche, irreführende, unbelegte oder nicht entscheidbare Aussagen. Meinungen und Werturteile sind keine Tatsachenbehauptungen. Gastgeber, Gäste und zitierte Dritte werden getrennt zugeordnet. Eine Aussage darf nicht allein wegen ihres Sprechers abgewertet werden.
+## Zur Webseite
 
-## Status
-Technisches Grundgerüst aus [Politik4M3 Faktencheck](https://github.com/4m3projects/politik4m3Facktencheck) übernommen. **Noch keine Videos oder Auswertungen importiert.** Skripte und Dokumentation stammen aus dem Schwesterprojekt und müssen vor produktivem Einsatz auf Altpfade, feste Video-IDs, Abhängigkeiten und Testannahmen geprüft werden. Kein erfolgreich durchgeführter Test wird behauptet.
+### **[Faktenchecks ansehen →](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/)**
 
-## Technik
-- `scripts/Import-YouTubeTranscript.ps1`: private Arbeitsgrundlage außerhalb des Repositories erfassen
-- `scripts/Build-Factcheck.ps1`: strukturierte Daten zu Berichten/Statistik aufbereiten
-- `scripts/Test-Factcheck.ps1`, `scripts/Test-Publication.ps1`: Prüfungen
-- `docs/STRUKTURIERTE_DATEN.md`: Datenmodell
-- `docs/VEROEFFENTLICHUNG.md`: Publikationsgrenzen
+Die Webseite ist der zentrale Zugang zu den Videoanalysen, Aussagen, Quellen und Kapitelberichten.
 
-Es werden keine fremden Transkripte, Untertitel, Medien oder Rohdaten öffentlich eingecheckt.
+## Projektstand
 
-## Nächste Schritte
-1. Codex/Claude prüfen die übernommenen Skripte auf allgemeine Nutzbarkeit ohne bestehende Videodaten.
-2. Tests auf einem separaten Branch ausführen und fehlende Tests ergänzen.
-3. Statische Startseite für GitHub Pages mit dem Hinweis „Noch keine Faktenchecks veröffentlicht“ vorbereiten.
-4. Später einen **fertiggestellten und freigegebenen** Faktencheck aus dem Schwesterprojekt anhand der strukturierten Daten kontrolliert migrieren. Nicht die Rohtranskripte oder ungesicherten Arbeitsstände übernehmen.
-5. Perspektivisch Mehrpersonen-Review, transparenten Korrekturprozess und exportierbare Rechercheübersichten für Videos ergänzen.
+- **2 Videoanalysen** als übernommene Arbeitsstände im Repository vorhanden.
+- Webseite und GitHub-Pages-Workflow eingerichtet; die erfolgreiche Veröffentlichung wird noch geprüft.
+- Geplant: Verknüpfte Analysen von Reaktionsvideos und anderen Faktenchecks sowie transparente Gegenprüfungen.
+- Bewertungen und Berichte können überarbeitet und korrigiert werden.
 
-Siehe [AGENTS.md](AGENTS.md) und [Projektplan](docs/PROJEKTPLAN.md).
+## Mitwirken und Technik
+
+Fehlerhinweise und Verbesserungsvorschläge sind über [GitHub Issues](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues) willkommen.
+
+[Methodik und Projektplan](docs/PROJEKTPLAN.md) · [Agentenanweisungen](AGENTS.md) · [Datenmodell](docs/STRUKTURIERTE_DATEN.md)
+
+*Ein unabhängiges Projekt von Politik4M3; keine offizielle Zusammenarbeit mit dem Kanal „ungeskriptet“ oder den besprochenen Personen.*
