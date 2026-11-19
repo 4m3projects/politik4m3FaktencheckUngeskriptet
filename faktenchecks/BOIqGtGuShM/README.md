@@ -35,6 +35,6 @@ Alle verfügbaren automatischen deutschen Originaluntertitel wurden gelesen (ers
 
 Nur eigene Paraphrasen, Zeitmarken und Quellenlinks werden veröffentlicht. Rohuntertitel und Medien liegen nicht im Repository. Es werden keine Kooperationen mit Alfred/SinansWoche, ungeskriptet oder Naomi Seibt behauptet.
 
-Folgeabgleich 19.11.2026: Die [Originalnachprüfung](../mdo14671BPE/05_nachpruefung.md) übernimmt Alfreds Hinweis zum fehlenden allgemeinen Statistikverbot nach eigener Normlektüre in A0228. Alfreds A0021 bleibt belegt; die vermutete Kaiser-Zuordnung A0017 bleibt davon getrennt offen. [Details](review.md#folgeabgleich-nach-der-originalnachprüfung).
+Folgeabgleich 19.11.2026: Die [Originalnachprüfung](../mdo14671BPE/05_nachpruefung.md) übernimmt Alfreds Hinweis zum fehlenden allgemeinen Statistikverbot nach eigener Normlektüre in A0228. Alfreds A0021 bleibt belegt; die vermutete Kaiser-Zuordnung A0017 bleibt davon getrennt offen. [Details](review.md).
 
 Koordination und offene Nacharbeit: [Issue #71](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/71).
