@@ -1062,6 +1062,22 @@
       "details": "DeSmog, Personenprofil, zuletzt geändert 29.11.2023; Heartland-Zusammenarbeit ab Dezember 2019, Schulabschluss 2017 laut Westfälischen Nachrichten vom 09.07.2017.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen (erste Hälfte im Wortlaut, Rest nur zusammengefasst); klimapolitisch engagierte Rechercheplattform. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S132",
+      "title": "Typisch Merkel",
+      "url": "https://www.kas.de/de/web/die-politische-meinung/artikel/detail/-/content/typisch-merkel",
+      "details": "Michael Borchard, Die Politische Meinung (Konrad-Adenauer-Stiftung), 27.02.2025; Rezension der Memoiren „Freiheit“.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S133",
+      "title": "Angela Merkel: Freiheit. Erinnerungen 1954–2021 (Rezensionsnotizen)",
+      "url": "https://www.perlentaucher.de/buch/angela-merkel/freiheit.html",
+      "details": "Perlentaucher, Zusammenfassung von Rezensionen (u. a. Die Zeit, 28.11.2024; Süddeutsche Zeitung, 26.11.2024).",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -10023,24 +10039,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Merkel habe in ihren Erinnerungen persönliches Glück in einer unfreien Gesellschaft als möglich beschrieben.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Buchpassage und Kontext wurden nicht gelesen. Eine Aussage über individuelles Glück wäre kein Beweis der Zustimmung zu Diktatur oder Geheimdiensttätigkeit.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Rezensionen der Memoiren „Freiheit“ (2024) bestätigen den Kern: Merkel schildert ihre Kindheit und Jugend in der DDR im persönlichen Umfeld als angenehm, ja glücklich, und stellt dem Szenen der Bedrohung durch das Regime gegenüber (Borchard, KAS 2025; Kermani in der Zeit laut Perlentaucher). Das Buch selbst wurde nicht gelesen; die Aussage stützt sich auf übereinstimmende Rezensionen.",
+      "assessmentBasis": "Zwei Rezensionsquellen (KAS 02/2025, Perlentaucher-Rezensionsnotizen 11/2024) gelesen; Memoiren nicht selbst gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Rezensionen der Merkel-Memoiren gelesen; von Offen auf Belegt."
       },
       "sourceRefs": [
         {
           "sourceId": "S127",
           "note": "Rezensionsnotizen: schöne Kindheit trotz Hindernissen durch das Regime; keine Aussage zu Glück in unfreier Gesellschaft."
+        },
+        {
+          "sourceId": "S132",
+          "note": "Kindheit und Jugend in der DDR im persönlichen Umfeld glücklich geschildert."
+        },
+        {
+          "sourceId": "S133",
+          "note": "Schöne Kindheit trotz Schwierigkeiten durch das Regime (Kermani, Die Zeit)."
         }
       ],
-      "openQuestions": [
-        "Betroffene Passage im Original mit Kontext prüfen; keine fremden Textpassagen veröffentlichen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0221",
