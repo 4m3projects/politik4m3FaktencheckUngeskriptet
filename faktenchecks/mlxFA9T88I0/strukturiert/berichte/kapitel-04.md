@@ -933,7 +933,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Industrie leidet besonders unter hohen Energiepreisen und steigenden Lohnnebenkosten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -956,21 +956,31 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Allgemeine Standortbehauptung. Energiepreise und Sozialversicherungsbeiträge sind an amtlichen Daten prüfbar; dazu wurde in dieser Prüfung keine Quelle gelesen.
+Die Sozialversicherungsbeiträge sind gestiegen: Der Gesamtbeitrag liegt 2026 bei 42,3 Prozent des Bruttolohns, nach rund 42,1 Prozent 2025 und 35,6 Prozent 1990; der Sachverständigenrat erwartet bis 2030 rund 45 Prozent. Dieser Teil ist belegt. Bei den Energiepreisen ist das Bild gemischt: Der Industriestrompreis liegt laut BDEW 2026 mit rund 17,9 ct/kWh wieder etwa auf dem Niveau von 2019/2020, weit unter dem Krisenwert 2022 (43,2 ct/kWh). Im internationalen Vergleich ist er deutlich höher als in Frankreich, Nordeuropa, den USA oder China, aber ähnlich wie in mehreren EU-Ländern. Dass die Industrie „besonders“ leide, ist daher nur gegenüber bestimmten Konkurrenzstandorten gestützt.
 
-Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: BDEW-Strompreisanalyse 10/2026, Avenir-Suisse-Vergleich 04/2026, Frühjahrsgutachten 2026 des Sachverständigenrats (Kapitel 2) und Beitragsübersicht 2026 gelesen. Keine Gaspreise und keine Branchenkostenstruktur gelesen.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Strompreis- und Beitragssatzdaten gelesen; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [BDEW-Strompreisanalyse Haushalte und Industrie (Oktober 2026)](https://www.bdew.de/media/documents/BDEW_Strompreisanalyse_102026_1.pdf) · BDEW, Datenstand 10/2026; Industriestrompreis (Neuabschlüsse, 160 MWh–20 GWh) 2019 18,4, 2022 43,2, 2026 bisher 17,9 ct/kWh; Niveau ähnlich wie Polen, Tschechien, Österreich, Italien, deutlich über Frankreich, Spanien und Nordeuropa.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Industriestrom 2026 bisher 17,9 ct/kWh, ähnlich 2019/2020; im EU-Vergleich mittleres bis hohes Niveau.
+
+- [Weshalb die Schweizer Industrie für Strom mehr bezahlt als (fast) alle in Europa](https://cdn.avenir-suisse.ch/production/uploads/2026/04/2026-04_industriestrompreise_de.pdf) · Avenir Suisse, Eisenring/Stocker, 24.04.2026; internationaler Vergleich der Industriestrompreise; China, USA, Kanada 2024 rund 8–9 Euro-Cent/kWh.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. USA, China, Kanada rund 8–9 Euro-Cent/kWh.
+
+- [Frühjahrsgutachten 2026, Kapitel 2: Sozialversicherungen unter Reformdruck](https://www.sachverstaendigenrat-wirtschaft.de/fileadmin/dateiablage/gutachten/fg2026/FG2026_Kapitel_2.pdf) · Sachverständigenrat Wirtschaft, 2026; Gesamtsozialversicherungsbeitrag von 35,6 % (1990) auf 42,3 % (2026), Projektion 45,4 % (2030).
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Gesamtbeitrag 35,6 % (1990) auf 42,3 % (2026).
+
+- [Sozialversicherungsbeiträge 2026](https://lohn-info.de/sozialversicherungsbeitraege2026.html) · Lohn-Info, André Liebig; Beitragssätze 2026 je Versicherungszweig, Summe 42,3 %.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Beitragssätze 2026, Summe 42,3 %.
 
 ### Offene Fragen und Unsicherheiten
 
-- Industriestrompreise im Zeitvergleich und Entwicklung der Beitragssätze zur Sozialversicherung bis 2026 lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0199
 
