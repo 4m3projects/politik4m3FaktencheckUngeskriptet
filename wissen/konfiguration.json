@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "namespace": "UG",
+  "publicTopics": { "minVideos": 2, "minClaimsPerVideo": 2, "relevances": ["Schwerpunkt", "Behandelt"] },
+  "recommendations": { "minDecidedFacts": 3, "maxErrorShare": 0.25 },
+  "review": { "maxAgeDays": 365 },
+  "corrections": { "maxClaimsWithoutApproval": 3, "lockMaxAgeDays": 7 },
+  "knowledgeSources": [
+    { "namespace": "HP", "name": "Politik4M3 Faktencheck (Hauptprojekt)", "type": "Projekt", "repo": "4m3projects/politik4m3Facktencheck", "topics": [] }
+  ]
+}

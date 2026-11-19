@@ -14,12 +14,17 @@ function Test-PublicFile([string]$RelativePath,[string]$Content,[string]$Origin)
     # site/: statische Webseite aus eigenem Code ohne Fremdbibliotheken; .github/workflows/: deren Deployment.
     $allowed = $name -match '^(README\.md|AGENTS\.md|CLAUDE\.md|LICENSE|\.gitignore|\.gitattributes)$' -or
         $name -match '^(docs|faktenchecks)/[A-Za-z0-9_./-]+\.md$' -or
-        $name -match '^scripts/[A-Za-z0-9_-]+\.ps1$' -or
+        $name -match '^scripts/[A-Za-z0-9_-]+\.(ps1|js)$' -or
         $name -match '^site/[A-Za-z0-9_-]+\.(html|css|js)$' -or
         $name -match '^\.github/workflows/[A-Za-z0-9_-]+\.yml$' -or
         $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/strukturiert/(aussagen|statistik)\.json$' -or
         $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/video\.json$' -or
         $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/rhetorik\.json$' -or
+        $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/themen\.json$' -or
+        # Themen-Wissensdatenbank (docs/WISSENSDATENBANK.md): Konfiguration, Themen, Einträge, Korrekturvorgänge.
+        $name -cmatch '^wissen/(konfiguration|themen)\.json$' -or
+        $name -cmatch '^wissen/eintraege/[A-Z][A-Z0-9]{1,5}-K[0-9]{4,}\.json$' -or
+        $name -cmatch '^wissen/korrekturen/[A-Z][A-Z0-9]{1,5}-C[0-9]{4,}\.json$' -or
         $name -ceq 'faktenchecks/beziehungen.json'
     if (-not $allowed -or $name -match '(^|/)\.\.(/|$)') {
         $problems.Add($Origin + ': nicht zugelassener Pfad ' + $name)
@@ -28,7 +33,7 @@ function Test-PublicFile([string]$RelativePath,[string]$Content,[string]$Origin)
     if (($name -like 'faktenchecks/*') -and $name -match '(^|/)(media|source)[.]|transcript|transkript|subtitle|untertitel|cookies|credentials|(^|/)\.env') {
         $problems.Add($Origin + ': verdaechtiger Dateiname ' + $name)
     }
-    if ($name -like 'faktenchecks/*') {
+    if ($name -like 'faktenchecks/*' -or $name -like 'wissen/*') {
         $patterns = @{
             'typische Transkriptzeile' = '(?m)^\s*\[\d{2}:\d{2}:\d{2}\]\s+\S'
             'SRT-Zeitcode' = '\d{2}:\d{2}:\d{2},\d{3}\s*-->'
