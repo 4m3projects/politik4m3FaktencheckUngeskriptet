@@ -1,0 +1,471 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "QxMuH1bjMwo",
+    "videoUrl": "https://www.youtube.com/watch?v=QxMuH1bjMwo",
+    "durationSeconds": 12053,
+    "asOf": "2026-11-19",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "[Codex] Erster Prüfabschnitt. Deutsches automatisches YouTube-Transkript im Browser und angegebene Sachquellen gelesen. Die Sprecherzuordnung wurde aus dem Gesprächskontext abgeleitet.",
+    "coverageNote": "Gezielte Stichprobe aus dem gut dreistündigen Interview. Weitere Aussagen und der Hör- und Sichtabgleich stehen aus. Persönliche Quoten und eine Gesamtampel lassen sich aus diesem Arbeitsstand nicht ableiten."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "{ungeskriptet} by Ben: Originalinterview",
+      "url": "https://www.youtube.com/watch?v=QxMuH1bjMwo",
+      "details": "Deutschsprachiges Interview mit Hamed Abdel-Samad, YouTube-Laufzeit 03:20:53.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Titel, Kanal, Laufzeit und ausgewählte Stellen im automatisch erzeugten deutschen YouTube-Transkript im Browser eingesehen."
+    },
+    {
+      "id": "S002",
+      "title": "Deutsche Islam Konferenz: Broschüre zur zweiten Phase",
+      "url": "https://www.deutsche-islam-konferenz.de/SharedDocs/Anlagen/DE/Downloads/LenkungsausschussPlenum/2012_flyer%20_dik.pdf?__blob=publicationFile&v=3",
+      "details": "Amtliche Broschüre, S. 23.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Liste der muslimischen Einzelpersonen gelesen."
+    },
+    {
+      "id": "S003",
+      "title": "Hamed Abdel-Samad: Offener Brief zum Rücktritt",
+      "url": "https://hpd.de/artikel/hamed-abdel-samad-zieht-sich-deutscher-islamkonferenz-zurueck-18677",
+      "details": "Im Humanistischen Pressedienst am 11.11.2020 veröffentlicht.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Brief mit eigener Angabe zur Einladung rund zehn Jahre davor und zur Beendigung der Teilnahme gelesen."
+    },
+    {
+      "id": "S004",
+      "title": "dtv: Autorenporträt Hamed Abdel-Samad",
+      "url": "https://www.dtv.de/autor/hamed-abdel-samad-12555",
+      "details": "Biografisches Profil des Verlags.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Passage zur Fatwa 2013 und zur Dauer des Polizeischutzes gelesen."
+    },
+    {
+      "id": "S005",
+      "title": "Deutschlandfunk: Die Demontage des Propheten",
+      "url": "https://www.deutschlandfunk.de/neues-buch-von-abdel-samad-die-demontage-des-propheten-100.html",
+      "details": "Interviewbericht vom 18.10.2016.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Die Autorin beschreibt die beim Gespräch anwesenden Personenschützer und datiert den Beginn auf 2013."
+    },
+    {
+      "id": "S006",
+      "title": "Landtag Nordrhein-Westfalen: Schlussbericht zur Kölner Silvesternacht",
+      "url": "https://www.landtag.nrw.de/Dokumentenservice/portal/WWW/dokumentenarchiv/Dokument/MMD16-14450.pdf",
+      "details": "Drucksache 16/14450, S. 354, 507 und 543–544.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Originalmeldung der Kölner Polizei, spätere Richtigstellung und Bewertung der Pressearbeit im Ausschussbericht gelesen."
+    },
+    {
+      "id": "S007",
+      "title": "Grundgesetz, Artikel 2",
+      "url": "https://www.gesetze-im-internet.de/gg/art_2.html",
+      "details": "Amtlicher Gesetzestext.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Absatz 1 gelesen."
+    },
+    {
+      "id": "S008",
+      "title": "Grundgesetz, Artikel 4",
+      "url": "https://www.gesetze-im-internet.de/gg/art_4.html",
+      "details": "Amtlicher Gesetzestext.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Absätze 1 und 2 gelesen."
+    },
+    {
+      "id": "S009",
+      "title": "Ägyptischer State Information Service: Studies in Human Rights",
+      "url": "https://sis.gov.eg/media/634205/english-2-1.pdf",
+      "details": "Ausgabe 13 (April 2024), S. 17 und 19–20, amtliche Darstellung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitte zu Richterinnen an ordentlichen Gerichten und zur Ernennung am Staatsrat gelesen."
+    },
+    {
+      "id": "S010",
+      "title": "Bundesamt für Verfassungsschutz: Verfassungsschutzbericht 2020",
+      "url": "https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2021-06-verfassungsschutzbericht-2020-startseitenmodul.pdf?__blob=publicationFile&v=13",
+      "details": "Abschnitt VI zum legalistischen Spektrum in Deutschland.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Beschreibung der Ziele einzelner Organisationen und der Einschätzung zur Deutschen Muslimischen Gemeinschaft gelesen."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Ben Berndt",
+      "videoRole": "Host",
+      "identityBasis": "Kanal und Moderationskontext der Originalfolge."
+    },
+    {
+      "id": "SP02",
+      "name": "Hamed Abdel-Samad",
+      "videoRole": "Gast",
+      "identityBasis": "Folgenbeschreibung und Antworten im Gesprächskontext."
+    }
+  ],
+  "claims": [
+    {
+      "id": "QxMuH1bjMwo-A0001",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bestimmte islamistische Akteure verfolgen in Deutschland langfristige Ziele zur gesellschaftlichen Veränderung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das Bundesamt für Verfassungsschutz beschreibt langfristige gesellschaftspolitische Ziele für konkret benannte Organisationen, unter anderem im Umfeld der Muslimbruderschaft. Der Befund betrifft bestimmte Organisationen. Er erlaubt keine Aussage über Musliminnen und Muslime insgesamt und belegt keine koordinierte demografische Strategie. Die Frage nach einem Eroberungskrieg stellt der Moderator.",
+      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Behördliche Einordnung bestimmter Organisationen und ihrer Ziele, mit Stand 2020."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0001",
+          "startSeconds": 66,
+          "endSeconds": 83,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächs- und Textkontext im YouTube-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussagebezug im Textkontext.",
+          "note": "Antwort des Gastes auf eine Frage des Moderators. Die sich anschließende demografische Deutung ist eine eigene Prüffrage.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0002",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Prognose",
+      "description": "Abdel-Samad warnt vor einer Rückkehr vormoderner Herrschaftsverhältnisse und dem Verlust politischer Selbstbestimmung.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Passage formuliert eine Befürchtung über die Zukunft und verwendet das Mittelalter als politischen Vergleich.",
+      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0002",
+          "startSeconds": 90,
+          "endSeconds": 102,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächs- und Textkontext im YouTube-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussagebezug im Textkontext.",
+          "note": "Vorschau mit einer zugespitzten Passage des Gastes.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0003",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die freie Entfaltung der Persönlichkeit steht in Artikel 2 des Grundgesetzes und die Glaubensfreiheit in Artikel 4.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Artikel 2 Absatz 1 schützt die freie Entfaltung der Persönlichkeit. Artikel 4 Absätze 1 und 2 schützen Glauben, Bekenntnis und Religionsausübung. Die Bewertung betrifft diese Zuordnung von Grundrechten. Ob in einer konkreten Situation Rechte verletzt werden und wie sie gegeneinander abzuwägen sind, erfordert eine eigenständige Prüfung.",
+      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Wortlaut zum Persönlichkeitsentfaltungsrecht."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Wortlaut zu Glauben und Religionsausübung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0003",
+          "startSeconds": 1722,
+          "endSeconds": 1739,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächs- und Textkontext im YouTube-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussagebezug im Textkontext.",
+          "note": "Der Gast führt beide Artikel in seiner Argumentation über Kinder und religiöse Erziehung an.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0004",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Hamed Abdel-Samad nahm rund zehn Jahre an der Deutschen Islam Konferenz teil.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die offizielle Broschüre nennt ihn als Teilnehmer der zweiten Phase. Im November 2020 erklärte er seinen Rücktritt und datierte seine Einladung auf rund zehn Jahre zuvor. Die Quellen stützen den ungefähren Zeitraum seiner Teilnahme.",
+      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Amtlicher Nachweis der Teilnahme in der zweiten Phase."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Direkte Erklärung des Rücktritts und Selbstauskunft zur Einladung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0004",
+          "startSeconds": 1976,
+          "endSeconds": 1982,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächs- und Textkontext im YouTube-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussagebezug im Textkontext.",
+          "note": "Der Gast berichtet aus seiner Zeit in der Deutschen Islam Konferenz.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0005",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach der Kölner Silvesternacht 2015/16 hieß es zunächst, es habe keine Zwischenfälle gegeben.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die erste Meldung der Kölner Polizei stellte die Feier als weitgehend friedlich dar und ließ das Ausmaß der Sexualdelikte unerwähnt. Sie nannte jedoch bereits unter anderem Körperverletzungsdelikte und Ruhestörungen. Der Untersuchungsausschuss dokumentiert weitere Meldungen und die spätere Richtigstellung.",
+      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Gibt den Wortlaut der ersten Meldung und die spätere Aufarbeitung wieder."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0005",
+          "startSeconds": 2909,
+          "endSeconds": 2925,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächs- und Textkontext im YouTube-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussagebezug im Textkontext.",
+          "note": "Einordnung durch den Moderator beim Wechsel zum Gespräch über die Silvesternacht.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0006",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Polizeischutz für Hamed Abdel-Samad begann 2013.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Deutschlandfunk datierte den Beginn in seinem Bericht von 2016 auf das Jahr des Kairoer Vortrags und dokumentierte die Anwesenheit von Personenschützern beim Interview. Der Verlag nennt ebenfalls 2013. Geprüft wurde der Beginn des Schutzes.",
+      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Biografische Angabe zum Beginn."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Zeitnähere Berichterstattung mit eigener Beobachtung und Jahresbezug."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0006",
+          "startSeconds": 6230,
+          "endSeconds": 6236,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächs- und Textkontext im YouTube-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussagebezug im Textkontext.",
+          "note": "Der Gast antwortet auf die Frage, wann der Schutz begonnen hat.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0007",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Muslimische Frauen könnten in der islamischen Welt keine Richterinnen werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die pauschale Aussage scheitert bereits am Gegenbeispiel Ägypten. Der ägyptische State Information Service dokumentiert Richterinnen an ordentlichen Gerichten und die Ernennung von 98 Frauen am ägyptischen Staatsrat im Jahr 2021. Die Ernennung folgte auf eine lange Phase der Ausschlüsse und belegt unterschiedliche Zugangsbedingungen je nach Gericht und Zeitraum.",
+      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Amtlich dokumentierte Ernennungen in einem mehrheitlich muslimischen Land."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0007",
+          "startSeconds": 10247,
+          "endSeconds": 10261,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächs- und Textkontext im YouTube-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussagebezug im Textkontext.",
+          "note": "Die Aussage fällt beim Vergleich österreichischer und anderer Gerichte. Das Urteil bezieht sich auf die tatsächliche Möglichkeit eines Richteramts.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0008",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In der islamischen Welt müsse eine Frau für eine Zeugenaussage vor Gericht eine zweite Frau zur Bestätigung hinzuziehen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – für die pauschale Aussage fehlt der Vergleich nach Staaten und Verfahrensarten.",
+      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Originalton abgleichen. Anschließend staatliche Beweis- und Verfahrensregeln nach Land, Gerichtsbarkeit und Verfahren vergleichen."
+      ],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0008",
+          "startSeconds": 10287,
+          "endSeconds": 10304,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächs- und Textkontext im YouTube-Transkript.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussagebezug im Textkontext.",
+          "note": "Abdel-Samad unterscheidet hier zwischen der Zeugenaussage von Frauen und Männern.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    }
+  ]
+}
