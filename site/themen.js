@@ -88,6 +88,25 @@ function kbSection(id, title, intro, items) {
     <p class="small kb-intro">${intro}</p><ul class="kb-list">${html}</ul></section>`;
 }
 
+/* Öffentliches Korrekturprotokoll: umgesetzte Korrekturen mit vorher/nachher, Grund, Quellen und Datum. */
+function correctionSection(list, intro) {
+  if (!list || !list.length) return '';
+  const target = id => {
+    const vid = id.slice(0, 11);
+    return /^[A-Za-z0-9_-]{11}-A\d{4,}$/.test(id) ? `<a href="#/video/${esc(vid)}/aussage/${esc(id)}">${esc(videoName(vid))} · ${esc(shortClaim(id, vid))}</a>` : `Wissenseintrag ${esc(id)}`;
+  };
+  const val = v => esc(typeof v === 'string' ? v : JSON.stringify(v));
+  const items = list.map(c => `<li class="kb-item kb-correction">
+    <div class="claim-top"><span class="badge kind">Korrektur ${esc(c.id)}</span> <span class="badge plain">${esc(c.kind)}</span></div>
+    <p class="claim-desc">${esc(c.description)}</p>
+    <ul class="kb-changes">${c.changes.map(ch => `<li>${target(ch.target)}: ${ch.field === 'verdict' ? 'Bewertung' : esc(ch.field)} <s>${val(ch.before)}</s> → <strong>${val(ch.after)}</strong></li>`).join('')}</ul>
+    <p class="small">Entschieden am ${esc(deDate(c.date))} (${esc(c.decidedBy)}): ${esc(c.basis)}</p>
+    ${c.evidence.length ? `<details class="kb-src"><summary>Quellen der Korrektur (${c.evidence.length})</summary><ul>${c.evidence.map(v => `<li>${extLink(v.url, esc(v.title))} <span class="small">abgerufen ${esc(deDate(v.accessedOn))}: ${esc(v.finding)}</span></li>`).join('')}</ul></details>` : ''}
+  </li>`).join('');
+  return `<section class="section" id="korrekturen"><div class="section-head"><h2>Korrekturen <span class="count">${list.length}</span></h2></div>
+    <p class="small kb-intro">${intro}</p><ul class="kb-list">${items}</ul></section>`;
+}
+
 async function pageTopics() {
   const w = await loadKnowledge();
   if (!w) {
@@ -119,6 +138,7 @@ async function pageTopics() {
     <section class="section"><div class="cards">${pub.map(card).join('')}</div></section>
     ${others.length ? `<section class="section"><div class="section-head"><h2>Weitere Themen</h2><p>Noch in zu wenigen Videos behandelt für eine eigene Kategorie.</p></div>
       <p class="topic-others">${others.map(t => `<a class="badge kind topic-chip topic-internal" href="${esc(topicHref(t.id))}">${esc(topicPath(t.id))}</a>`).join(' ')}</p></section>` : ''}
+    ${correctionSection(w.raw.corrections, 'Wenn wir einen Fehler in einer früheren Bewertung finden, korrigieren wir ihn überall, wo er vorkommt, und dokumentieren hier die alte und neue Bewertung, den Grund und die Quellen.')}
   </div>`, 'themen');
   document.title = 'Themen – Politik4M3 Faktencheck Ungeskriptet';
   const q = document.getElementById('kb-q');
@@ -178,6 +198,7 @@ async function pageTopic(id) {
     ${recs ? `<section class="section" id="empfehlungen"><div class="section-head"><h2>Passende Videos</h2></div>
       <p class="small kb-intro">Videos, deren Aussagen zu diesem Thema überwiegend belegt sind. Gezählt werden nur Aussagen zu diesem Thema, nicht das ganze Video und nicht die Person. <a href="#/methodik#themen">Regel</a></p>
       <ul class="kb-list">${recs}</ul></section>` : ''}
+    ${correctionSection((w.raw.corrections || []).filter(c => c.topics.some(x => FactKnowledge.withAncestors(x).includes(t.id))), 'Korrigierte frühere Bewertungen zu diesem Thema, mit alter und neuer Bewertung, Grund und Quellen.')}
   </div>`, 'themen');
   document.title = t.name + ' – Themen – Politik4M3 Faktencheck Ungeskriptet';
   window.scrollTo(0, 0);

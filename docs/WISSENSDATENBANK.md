@@ -1,6 +1,6 @@
 # Themen-Wissensdatenbank mit gemeinsamer Recherche und Fehlerkorrektur
 
-Erstellt von: Claude, auf Auftrag von Jens (19.11.2026). Status: Schritte 1–5 umgesetzt (Datenmodell und Werkzeug, Themen der vorhandenen Videos, öffentliche Themenseiten, erste drei Wissenseinträge, Agentenregel `AGENTEN_WISSEN.md`); Schritte 6 und 7 folgen.
+Erstellt von: Claude, auf Auftrag von Jens (19.11.2026). Status: Schritte 1–6 umgesetzt (Datenmodell und Werkzeug, Themen der vorhandenen Videos, öffentliche Themenseiten, erste drei Wissenseinträge, Agentenregel `AGENTEN_WISSEN.md`, Korrekturablauf mit Vorlage, Bericht und öffentlichem Protokoll); Schritt 7 folgt.
 
 ## 1. Ausgangslage (Bestandsaufnahme)
 
@@ -192,6 +192,14 @@ Koordination: Vor Änderungen an einem Eintrag `lock` setzen (eigener PR), offen
 5. **Freigabe:** Mehr als `maxClaimsWithoutApproval` betroffene Aussagen, Art `Fehlbewertung` mit geändertem Urteil eines Eintrags oder unklare Beweislage → `decision.by` muss ein Mensch sein (Jens). Kleine, eindeutige Fälle darf eine benannte Regel entscheiden.
 6. **Faktenlage geändert:** Die alte Aussage bleibt richtig für ihren Zeitpunkt. Der Eintrag erhält `validity.validUntil` und `status: Abgelöst` mit Nachfolger. Der Validator verbietet bei dieser Art Urteilsänderungen an Videoaussagen.
 
+### 6.1 Werkzeuge und Schutzmechanismen (Schritt 6)
+
+- **Melden:** Issue mit der Vorlage „Korrekturvorgang“ (`.github/ISSUE_TEMPLATE/korrektur.md`, auch für Leserinnen und Leser, verlinkt in der Methodik). Agenten erzeugen den Vorgang mit `node scripts/wissen.js korrektur --aussage <ID> | --quelle <URL> | --eintrag <ID> --art "<Art>" --beschreibung "<Text>" --agent <Name>`: ohne `--anlegen` nur Entwurf zur Ansicht, mit `--anlegen` als `wissen/korrekturen/<Kürzel>-C<n>.json` (nächste freie Nummer, Status `Gemeldet`, `affected` vorausgefüllt aus `betroffen`). Der Agent kürzt `affected` auf tatsächlich Betroffenes.
+- **Bericht:** `node scripts/wissen.js korrekturen` zeigt alle Vorgänge mit Status, Zahl der Betroffenen, Freigabebedarf (Mensch nötig / Regel möglich) und nächstem Schritt. Der Workflow schreibt diesen Bericht bei jedem Lauf in die Zusammenfassung des Laufs.
+- **Umsetzung nachweisbar:** Bei `Umgesetzt` muss jede Änderung in `changes` im Datenstand stehen, und jede geänderte Videoaussage trägt in `migration.assessmentChange` einen Vermerk mit der Korrektur-ID. Sonst schlägt `pruefen` fehl.
+- **Schutz vor Massenänderung:** `node scripts/wissen.js aenderung` meldet in jedem PR Urteilsänderungen an bereits abgeschlossenen Aussagen, die kein umgesetzter Korrekturvorgang erfasst (`HINWEIS`). Sind es mehr als `maxClaimsWithoutApproval`, erscheint eine sichtbare Warnung im PR. Das ist bewusst kein Fehler, weil Faktenchecks nach den bestehenden Regeln (zum Beispiel Kapitelprüfungen) fortgeschrieben werden dürfen; die Warnung macht stille Massenänderungen sichtbar. Erstbewertungen offener Aussagen zählen nicht.
+- **Öffentliches Protokoll:** Umgesetzte Vorgänge erscheinen auf `#/themen` unter „Korrekturen“ und auf den Themenseiten der geänderten Aussagen mit alter und neuer Bewertung, Grund, Entscheidung (wer, wann) und Quellen. Gemeldete oder verworfene Vorgänge bleiben intern im Repo nachvollziehbar.
+
 ## 7. Arbeitsschritte (je ein PR, unabhängig prüfbar)
 
 | Schritt | Inhalt | Tests |
@@ -201,7 +209,7 @@ Koordination: Vor Änderungen an einem Eintrag `lock` setzen (eigener PR), offen
 | 3 | Webseite: `#/themen`, `#/thema/<id>`, Themen am Video, Suche; Export `daten/wissen.json` im Build | Browser-Test, Bestandstests |
 | 4 | Erste Wissenseinträge für Behauptungen, die mehrfach vorkommen (aus Schritt 2 gefundene Kandidaten) | Verknüpfung, Unabhängigkeit der Quellen |
 | 5 | Pflichtregel `docs/AGENTEN_WISSEN.md`, Verweis in `AGENTS.md`, Ergänzung in `AGENTEN_RECHERCHE.md` | – |
-| 6 | Korrekturablauf scharf schalten (Vorlage, Konsistenzbericht im Workflow als Hinweis, Freigaberegeln) | Korrekturweitergabe, Schutz vor Massenänderung |
+| 6 | Korrekturablauf scharf schalten: Vorlage, `korrektur`/`korrekturen`, Bericht im Workflow, Vermerkpflicht, Hinweis auf Urteilsänderungen ohne Vorgang, öffentliches Protokoll (umgesetzt, siehe 6.1) | Korrekturentwurf, Bericht, Urteilsänderungen, Protokoll; Browsertest |
 | 7 | Übertragung ins Hauptprojekt (gleiches Format, Kürzel `HP`) | dieselben Tests |
 
 Nach jedem Schritt laufen alle bisherigen Tests (Publikation, Faktencheck, Sync, Beziehungen, Rhetorik, Ampel) unverändert.

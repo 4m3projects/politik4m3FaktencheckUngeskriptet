@@ -11,6 +11,10 @@
  *   node scripts/wissen.js aenderung --basis origin/main       Schutz vor Überschreiben geänderter Einträge
  *   node scripts/wissen.js export <Datei>                      kompaktes Verzeichnis für die Webseite
  *   node scripts/wissen.js quellen [--thema ID]                eingetragene weitere Wissensdatenbanken
+ *   node scripts/wissen.js korrektur --aussage ID | --quelle URL | --eintrag ID [--art ART] [--beschreibung TEXT]
+ *        [--agent NAME] [--anlegen]                            Korrekturvorgang (Gemeldet) mit allen Betroffenen entwerfen;
+ *                                                              ohne --anlegen nur anzeigen, mit --anlegen unter wissen/korrekturen/ speichern
+ *   node scripts/wissen.js korrekturen [--bericht DATEI]        Stand aller Korrekturvorgänge mit Freigabebedarf (Markdown)
  *
  * --repo PFAD bzw. --repo KÜRZEL=PFAD darf mehrfach angegeben werden: lokale Klone weiterer Wissensdatenbanken (anderes Projekt,
  * zentrale oder themenspezifische Wissensdatenbank). Welche es gibt, steht in wissen/konfiguration.json
@@ -178,8 +182,57 @@ function main(argv) {
       errors.push(...K.validateEntryChange(before, after));
     }
     for (const e of errors) log('FEHLER: ' + e);
+    // Urteilsänderungen an abgeschlossenen Videoaussagen ohne Korrekturvorgang: Hinweis, kein Fehler.
+    const show = file => { try { return JSON.parse(execFileSync('git', ['-C', here, 'show', base + ':' + file], { encoding: 'utf8', stdio: ['ignore', 'pipe', 'ignore'], maxBuffer: 64 * 1024 * 1024 })); } catch (_) { return null; } };
+    const changed = [];
+    for (const v of own.videos) {
+      if (!v.facts) continue;
+      const old = show('faktenchecks/' + v.id + '/strukturiert/aussagen.json');
+      if (!old) continue;
+      changed.push(...K.uncoveredVerdictChanges(new Map(old.claims.map(c => [c.id, c])), new Map(v.facts.claims.map(c => [c.id, c])), own.corrections));
+    }
+    const limit = K.config(own.config).corrections.maxClaimsWithoutApproval;
+    for (const c of changed) log('HINWEIS: ' + c.id + ' von „' + c.before + '“ zu „' + c.after + '“ ohne Korrekturvorgang.');
+    if (changed.length > limit) {
+      const msg = changed.length + ' abgeschlossene Aussagen ändern ihr Urteil ohne Korrekturvorgang. Bei Fehlerkorrekturen über mehrere Aussagen gilt docs/AGENTEN_WISSEN.md Abschnitt 4 (Freigabe durch Jens).';
+      log('WARNUNG: ' + msg);
+      if (process.env.GITHUB_ACTIONS) log('::warning title=Viele Urteilsänderungen::' + msg);
+    }
     log(errors.length ? 'Änderungsprüfung fehlgeschlagen.' : 'OK: keine Einträge überschrieben (Basis ' + base + ').');
     return errors.length ? 1 : 0;
+  }
+  if (cmd === 'korrektur') {
+    const opts = {
+      claimId: typeof a.aussage === 'string' ? a.aussage : null,
+      entryId: typeof a.eintrag === 'string' ? a.eintrag : null,
+      sourceUrl: typeof a.quelle === 'string' ? a.quelle : null,
+      kind: typeof a.art === 'string' ? a.art : undefined,
+      description: typeof a.beschreibung === 'string' ? a.beschreibung : undefined,
+      agent: typeof a.agent === 'string' ? a.agent : undefined,
+      date: typeof a.heute === 'string' ? a.heute : undefined
+    };
+    if (!opts.claimId && !opts.entryId && !opts.sourceUrl) { log('Bitte --aussage, --eintrag oder --quelle angeben.'); return 2; }
+    if (opts.kind && !K.CORRECTION_KINDS.includes(opts.kind)) { log('--art muss eine von: ' + K.CORRECTION_KINDS.join(', ') + ' sein.'); return 2; }
+    const draft = K.draftCorrection(strip(own), opts);
+    const json = JSON.stringify(draft, null, 2) + '\n';
+    if (!a.anlegen) {
+      log(json);
+      log('Entwurf, nicht gespeichert. Betroffene prüfen und mit --anlegen speichern. Freigabe durch Jens nötig: ' + (K.needsHumanApproval(draft, own.config) ? 'ja, wenn bestätigt' : 'nein, sofern eindeutig') + '.');
+      return 0;
+    }
+    const dir = path.join(here, 'wissen', 'korrekturen');
+    fs.mkdirSync(dir, { recursive: true });
+    const file = path.join(dir, draft.id + '.json');
+    if (fs.existsSync(file)) { log('Datei existiert schon: ' + file); return 1; }
+    fs.writeFileSync(file, json);
+    log('Angelegt: ' + path.relative(here, file) + ' (' + draft.affected.length + ' Betroffene). Als Nächstes ein Issue anlegen (Vorlage „Korrekturvorgang“) und node scripts/wissen.js pruefen.');
+    return 0;
+  }
+  if (cmd === 'korrekturen') {
+    const md = K.correctionReport(strip(own));
+    log(md);
+    if (typeof a.bericht === 'string') fs.appendFileSync(a.bericht, md + '\n');
+    return 0;
   }
   if (cmd === 'export') {
     const out = a._[1];
@@ -190,7 +243,7 @@ function main(argv) {
     log('Geschrieben: ' + out);
     return 0;
   }
-  log('Befehle: pruefen, suche, betroffen, kandidaten, themen, aenderung, export (Details im Dateikopf).');
+  log('Befehle: pruefen, suche, betroffen, kandidaten, themen, aenderung, export, quellen, korrektur, korrekturen (Details im Dateikopf).');
   return cmd ? 2 : 0;
 }
 

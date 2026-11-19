@@ -17,6 +17,8 @@ function Test-PublicFile([string]$RelativePath,[string]$Content,[string]$Origin)
         $name -match '^scripts/[A-Za-z0-9_-]+\.(ps1|js)$' -or
         $name -match '^site/[A-Za-z0-9_-]+\.(html|css|js)$' -or
         $name -match '^\.github/workflows/[A-Za-z0-9_-]+\.yml$' -or
+        # Vorlage für Korrekturvorgänge (docs/AGENTEN_WISSEN.md).
+        $name -cmatch '^\.github/ISSUE_TEMPLATE/[a-z0-9-]+\.md$' -or
         $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/strukturiert/(aussagen|statistik)\.json$' -or
         $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/video\.json$' -or
         $name -cmatch '^faktenchecks/[A-Za-z0-9_-]{11}/rhetorik\.json$' -or

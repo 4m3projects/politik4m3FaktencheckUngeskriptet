@@ -530,8 +530,94 @@
         // Spätere Korrekturen dürfen denselben Wert erneut ändern; dann muss es eine jüngere Korrektur geben.
         if (!(ctx.laterChanges && ctx.laterChanges(corr.id, ch.target, ch.field))) e.push(at + ': ' + ch.target + '.' + ch.field + ' steht nicht auf dem umgesetzten Wert.');
       }
+      // Geänderte Videoaussagen tragen den Vermerk mit Korrektur-ID in migration.assessmentChange (alte Bewertung bleibt nachvollziehbar).
+      const claim = ctx.claims && ctx.claims.get(ch.target);
+      if (claim && !(isObj(claim.migration) && String(claim.migration.assessmentChange || '').includes(corr.id))) {
+        e.push(at + ': ' + ch.target + ' braucht in migration.assessmentChange einen Vermerk mit ' + corr.id + ' (Datum, Agent, vorheriges Urteil).');
+      }
     }
     return e;
+  }
+
+  /* Nächste freie ID (art 'K' Eintrag, 'C' Korrektur) im eigenen Namensraum. */
+  function nextId(namespace, kind, existing) {
+    const re = new RegExp('^' + namespace + '-' + kind + '(\\d{4,})$');
+    let max = 0;
+    for (const id of existing || []) { const m = re.exec(String(id)); if (m) max = Math.max(max, Number(m[1])); }
+    return namespace + '-' + kind + String(max + 1).padStart(4, '0');
+  }
+
+  /*
+   * Entwurf eines Korrekturvorgangs (Status Gemeldet) mit vorausgefüllten Betroffenen aus impact().
+   * Ändert nichts am Bestand; der Agent prüft und kürzt affected, bevor er die Datei anlegt.
+   */
+  function draftCorrection(bundle, opts) {
+    const c = config(bundle.config);
+    const q = opts.claimId ? { claimId: opts.claimId } : opts.entryId ? { entryId: opts.entryId } : opts.sourceUrl ? { sourceUrl: opts.sourceUrl } : null;
+    if (!q) throw new Error('Auslöser fehlt: Aussage, Eintrag oder Quelle angeben.');
+    const r = impact(q, bundle);
+    const date = opts.date || new Date().toISOString().slice(0, 10);
+    const agent = opts.agent || 'Agent';
+    return {
+      schemaVersion: 1,
+      id: nextId(c.namespace, 'C', (bundle.corrections || []).map(x => x.id)),
+      kind: opts.kind || 'Fehlbewertung',
+      status: 'Gemeldet',
+      reportedOn: date,
+      reportedBy: agent,
+      trigger: { claimId: opts.claimId || null, entryId: opts.entryId || null, description: opts.description || (opts.sourceUrl ? 'Quelle ' + opts.sourceUrl + ' möglicherweise falsch gelesen.' : 'Bewertung möglicherweise falsch.') },
+      evidence: [],
+      affected: r.claims.map(x => ({ target: x.id, reason: x.reason })).concat(r.entries.map(x => ({ target: x.id, reason: x.reason }))),
+      decision: null,
+      changes: [],
+      history: [{ date, agent, change: 'Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt.' }]
+    };
+  }
+
+  /* Nächster Schritt eines Korrekturvorgangs, für Bericht und Agenten. */
+  function correctionNextStep(corr, cfg) {
+    const human = needsHumanApproval(corr, cfg);
+    switch (corr.status) {
+      case 'Gemeldet': return 'Betroffene prüfen, Originalquellen neu lesen (Status In Prüfung).';
+      case 'In Prüfung': return human ? 'Beweislage dokumentieren; Entscheidung durch Jens nötig (mehr als ' + config(cfg).corrections.maxClaimsWithoutApproval + ' Aussagen oder Urteil eines Eintrags).' : 'Beweislage dokumentieren und entscheiden (Bestätigt/Verworfen).';
+      case 'Bestätigt': return 'Änderungen umsetzen, mit vorher/nachher in changes dokumentieren (Status Umgesetzt).';
+      default: return null;
+    }
+  }
+
+  /*
+   * Bericht über alle Korrekturvorgänge (Markdown), für die Zusammenfassung im Workflow und für Agenten.
+   * Ohne Vorgänge eine kurze Zeile.
+   */
+  function correctionReport(bundle) {
+    const c = config(bundle.config);
+    const list = (bundle.corrections || []).slice().sort((a, b) => String(a.id).localeCompare(String(b.id)));
+    const lines = ['### Korrekturvorgänge (' + c.namespace + ')', ''];
+    if (!list.length) return lines.concat(['Keine Korrekturvorgänge.']).join('\n');
+    lines.push('| ID | Art | Status | Betroffen | Freigabe | Nächster Schritt |', '|---|---|---|---|---|---|');
+    for (const x of list) {
+      const human = needsHumanApproval(x, c);
+      const by = x.decision && x.decision.by ? x.decision.by : '–';
+      lines.push('| ' + [x.id, x.kind, x.status, String((x.affected || []).length), (human ? 'Mensch nötig' : 'Regel möglich') + (by !== '–' ? ' (' + by + ')' : ''), correctionNextStep(x, c) || '–'].map(v => String(v).replace(/\|/g, '/')).join(' | ') + ' |');
+    }
+    return lines.join('\n');
+  }
+
+  /*
+   * Urteilsänderungen an bereits abgeschlossenen Videoaussagen zwischen zwei Ständen, die kein
+   * umgesetzter Korrekturvorgang erfasst. Nur Hinweis: Faktenchecks dürfen nach den bestehenden
+   * Regeln fortgeschrieben werden; viele solcher Änderungen in einem PR sollen aber auffallen.
+   */
+  function uncoveredVerdictChanges(beforeClaims, afterClaims, corrections) {
+    const covered = new Set();
+    for (const x of corrections || []) if (x && x.status === 'Umgesetzt') for (const ch of x.changes || []) if (ch && ch.field === 'verdict') covered.add(ch.target);
+    const out = [];
+    for (const [id, b] of beforeClaims) {
+      const a = afterClaims.get(id);
+      if (!a || b.status !== 'Abgeschlossen' || a.status !== 'Abgeschlossen' || a.verdict === b.verdict || covered.has(id)) continue;
+      out.push({ id, before: b.verdict, after: a.verdict });
+    }
+    return out;
   }
 
   function needsHumanApproval(corr, cfg) {
@@ -947,6 +1033,27 @@
   /* ---------------------------------------------------------------- Öffentliches Verzeichnis */
 
   /*
+   * Öffentliches Korrekturprotokoll: nur umgesetzte Vorgänge, mit vorher/nachher, Grund, Quellen und
+   * Datum sowie den Themen der geänderten Aussagen und Einträge (für die Themenseiten).
+   */
+  function publicCorrections(bundle) {
+    const claimTopics = new Map();
+    for (const v of bundle.videos || []) for (const a of ((v.topics && v.topics.claims) || [])) claimTopics.set(a.claimId, a.topics);
+    const entryTopics = new Map((bundle.entries || []).map(x => [x.id, x.topics || []]));
+    return (bundle.corrections || []).filter(x => x && x.status === 'Umgesetzt').map(x => {
+      const topics = new Set();
+      for (const ch of x.changes || []) for (const t of (claimTopics.get(ch.target) || entryTopics.get(ch.target) || [])) topics.add(t);
+      return {
+        id: x.id, kind: x.kind, date: x.decision && x.decision.date, decidedBy: x.decision && x.decision.by, basis: x.decision && x.decision.basis,
+        description: x.trigger.description,
+        evidence: (x.evidence || []).map(v => ({ title: v.title, url: v.url, accessedOn: v.accessedOn, finding: v.finding })),
+        changes: (x.changes || []).map(ch => ({ target: ch.target, field: ch.field, before: ch.before, after: ch.after })),
+        topics: [...topics].sort()
+      };
+    }).sort((a, b) => String(b.date).localeCompare(String(a.date)) || String(b.id).localeCompare(String(a.id)));
+  }
+
+  /*
    * Kompaktes Verzeichnis für die Webseite (daten/wissen.json): nur Aussagen mit Themen, nur die
    * Felder, die die Themenseiten brauchen. So muss die Seite nicht alle Videos laden.
    */
@@ -979,6 +1086,7 @@
       topics: (bundle.topics && bundle.topics.topics) || [],
       topicStats: [...stats.values()].map(s => ({ id: s.topic.id, videos: s.videos, claims: s.claims, public: s.public, reason: s.reason })),
       entries: bundle.entries || [],
+      corrections: publicCorrections(bundle),
       videos
     };
   }
@@ -988,6 +1096,7 @@
     CORRECTION_KINDS, CORRECTION_STATUS, DEFAULT_CONFIG, SOURCE_TYPES, knowledgeSourcesFor,
     config, validateConfig, validateTopics, validateVideoTopics, validateEntry, validateEntryChange, validateCorrection,
     validateAll, needsHumanApproval, topicIndex, resolveTopic, withAncestors, topicStats, topicPage, recommendations,
-    tokens, similarity, search, searchItems, duplicateCandidates, normUrl, independentSources, impact, consistency, exportIndex
+    tokens, similarity, search, searchItems, duplicateCandidates, normUrl, independentSources, impact, consistency, exportIndex,
+    nextId, draftCorrection, correctionNextStep, correctionReport, uncoveredVerdictChanges, publicCorrections
   };
 });

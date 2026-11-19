@@ -33,14 +33,14 @@ Im Feld `research.rounds[].strategy` einer Aussage vermerken, welche Einträge o
 
 Stellt ein Agent fest, dass eine frühere Bewertung möglicherweise falsch ist, eine Quelle falsch gelesen wurde oder neue Erkenntnisse widersprechen, wird das **nicht ignoriert**:
 
-1. **Melden.** Korrekturvorgang `wissen/korrekturen/<Kürzel>-C0001.json` mit Status `Gemeldet` anlegen (Auslöser, erste Hinweise) und in einem Issue sichtbar machen.
+1. **Melden.** Korrekturvorgang mit `node scripts/wissen.js korrektur --aussage <ID> --art "<Art>" --beschreibung "<Text>" --agent <Name>` entwerfen und mit `--anlegen` als `wissen/korrekturen/<Kürzel>-C….json` (Status `Gemeldet`) speichern. In einem Issue mit der Vorlage „Korrekturvorgang“ sichtbar machen. `node scripts/wissen.js korrekturen` zeigt den Stand aller Vorgänge und wo Jens entscheiden muss.
 2. **Betroffene finden.** `node scripts/wissen.js betroffen --aussage <ID>` bzw. `--quelle <URL>` oder `--eintrag <ID>`. Das findet Aussagen mit derselben Quelle in allen Videos, verknüpfte Aussagen und Einträge, die über `dependsOn` auf derselben Annahme beruhen. Ergebnis in `affected` übernehmen; nicht Betroffenes nicht anfassen.
 3. **Prüfen.** Originalquellen neu lesen, neue Beweislage dokumentieren (`evidence`). Ein bloßer Widerspruch zwischen zwei KI-Ergebnissen reicht nicht.
 4. **Entscheiden.** `Bestätigt` oder `Verworfen` mit `decision`. **Menschliche Freigabe durch Jens** ist nötig, wenn mehr als `corrections.maxClaimsWithoutApproval` (derzeit 3) Aussagen betroffen sind, das Urteil eines Wissenseintrags geändert wird oder die Beweislage unklar ist. Kleine, eindeutige Fälle (zum Beispiel ein nachweislicher Rechen- oder Zuordnungsfehler) darf eine benannte Regel entscheiden (`decision.by = "Regel:<Name>"`).
-5. **Umsetzen.** Aussagen in `aussagen.json` korrigieren (stabile IDs, Vermerk in `migration.assessmentChange` mit Datum, Agent und Korrektur-ID), Einträge mit neuer Revision und `previous` in der Historie. In `changes` jede Änderung mit vorher/nachher eintragen, Status `Umgesetzt`. Artefakte neu erzeugen (`[regenerate]`). Statistik, Ampel, Themenseiten und Empfehlungen folgen automatisch.
+5. **Umsetzen.** Aussagen in `aussagen.json` korrigieren (stabile IDs, Vermerk in `migration.assessmentChange` mit Datum, Agent, vorherigem Urteil und Korrektur-ID; ohne Korrektur-ID schlägt `pruefen` fehl), Einträge mit neuer Revision und `previous` in der Historie. In `changes` jede Änderung mit vorher/nachher eintragen, Status `Umgesetzt`. Artefakte neu erzeugen (`[regenerate]`). Statistik, Ampel, Themenseiten und Empfehlungen folgen automatisch.
 6. **Faktenlage geändert ≠ Fehler.** War eine Aussage zu ihrem Zeitpunkt richtig, bleibt ihre Bewertung. Der Eintrag erhält `validity.validUntil`, Status `Abgelöst` und einen Nachfolger; der Validator verbietet Urteilsänderungen an Videoaussagen bei dieser Art.
 
-**Keine massenhafte Änderung produktiver Bewertungen ohne Freigabe.** Alte Bewertungen werden nie spurlos überschrieben.
+**Keine massenhafte Änderung produktiver Bewertungen ohne Freigabe.** Alte Bewertungen werden nie spurlos überschrieben. `aenderung` meldet im PR jede Urteilsänderung an einer abgeschlossenen Aussage ohne umgesetzten Korrekturvorgang; bei mehr als drei erscheint eine Warnung. Umgesetzte Korrekturen erscheinen öffentlich im Korrekturprotokoll.
 
 ## 5. Zusammenarbeit mehrerer Agenten
 

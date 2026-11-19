@@ -605,4 +605,6 @@ button.rhet-chip:hover { background: var(--surface); }
 .kb-intro { color: var(--text-2); max-width: 70ch; }
 .kb-src summary { cursor: pointer; color: var(--text-2); font-size: .9rem; }
 .kb-src ul { margin: 6px 0 0; padding-left: 18px; }
+.kb-changes { margin: 6px 0; padding-left: 18px; }
+.kb-changes s { color: var(--text-2); }
 .section-head .count { color: var(--text-3); font-weight: 500; font-size: .8em; }

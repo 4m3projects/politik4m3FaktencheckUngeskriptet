@@ -67,6 +67,7 @@ jobs:
         run: |
           node --test site/wissen-test.js
           node scripts/wissen.js pruefen
+          node scripts/wissen.js korrekturen --bericht "$GITHUB_STEP_SUMMARY"
           if [[ "${{ github.event_name }}" == "pull_request" ]]; then
             git fetch --no-tags origin "${{ github.base_ref }}"
             node scripts/wissen.js aenderung --basis FETCH_HEAD
