@@ -3,7 +3,8 @@
 # Push auf main: Prüfung, Aufbau und Veröffentlichung.
 # Es werden ausschließlich die Seitendateien aus site/ (ohne *-test.js), eigene Markdown-Berichte, die beiden
 # strukturierten JSON-Dateien, video.json und rhetorik.json je Video, faktenchecks/beziehungen.json sowie das
-# kompakte Wissensverzeichnis daten/wissen.json (aus wissen/ und themen.json, siehe docs/WISSENSDATENBANK.md) übernommen –
+# kompakte Wissensverzeichnis daten/wissen.json (aus wissen/ und themen.json, siehe docs/WISSENSDATENBANK.md) sowie der
+# aus der Git-Historie berechnete Verlauf daten/verlauf.json (siehe docs/VERLAUF.md) übernommen –
 # keine anderen Dateien aus dem Repository.
 name: Webseite
 
@@ -66,6 +67,9 @@ jobs:
       - name: Gegendarstellungen prüfen (nur belegte Gegenaussagen zu kritischen Aussagen)
         run: node --test site/gegendarstellung-test.js
 
+      - name: Verlauf prüfen (aus der Git-Historie berechnet)
+        run: node --test site/verlauf-test.js
+
       - name: Themen-Wissensdatenbank prüfen (Daten, Korrekturregeln, Schutz vor Überschreiben)
         run: |
           node --test site/wissen-test.js
@@ -91,6 +95,8 @@ jobs:
           test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 10
           # Kompaktes Verzeichnis der Wissensdatenbank (Themen, Einträge, Aussagen mit Themen) für die Themenseiten.
           node scripts/wissen.js export "$OUT/daten/wissen.json"
+          # Verlauf je Video (Seite „Verlauf“), berechnet aus der Git-Historie von faktenchecks/ (fetch-depth: 0).
+          node scripts/verlauf.js export "$OUT/daten/verlauf.json"
           if [[ -f faktenchecks/beziehungen.json ]]; then jq -c . faktenchecks/beziehungen.json > "$OUT/daten/beziehungen.json"; else echo '{"schemaVersion":1,"relations":[]}' > "$OUT/daten/beziehungen.json"; fi
           videos='[]'
           for dir in faktenchecks/*/; do
