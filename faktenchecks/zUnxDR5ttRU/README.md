@@ -2,7 +2,9 @@
 
 **Status: Teilbestand geprüft – gesamte verfügbare Textfassung gelesen, Hör-/Sichtkontrolle und einzelne Sachprüfungen offen**
 
-Stand: 18.11.2026. Bearbeitet von: Codex, [Issue #10](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/10).
+Stand: 18.11.2026, Folgeabgleich 19.11.2026. Bearbeitet von: Codex, [Issue #10](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/10).
+
+Folgeabgleich [Issue #75](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/75), Basis `8205fdccb78cf2a267aa84e7b943f2ef601cae91`: Die [Originalnachprüfung](../mdo14671BPE/05_nachpruefung.md) hat im vorhandenen Hank-Beziehungsbestand keine direkten Links zu den korrigierten Original-IDs A0036, A0228, A0230 oder A0204 beziehungsweise A0199/A0200. Hanks Bewertungen werden dadurch nicht geändert. Das ist eine Prüfung bestehender Verknüpfungen, kein vollständiger neuer Hör-/Sichtdurchgang dieser Reaktion.
 
 - Original: [Reaktionsvideo auf YouTube](https://www.youtube.com/watch?v=zUnxDR5ttRU)
 - Kanal: Hank Loose

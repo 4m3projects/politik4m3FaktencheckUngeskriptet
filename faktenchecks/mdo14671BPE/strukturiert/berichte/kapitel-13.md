@@ -1,8 +1,8 @@
 # Kapitel 13: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Keine menschliche Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Zwei Buchaussagen bleiben wegen fehlender Vollbuchprüfung ausdrücklich offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge.
 
 ## mdo14671BPE-A0107
 
@@ -592,7 +592,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Aufzeichnung ihrer PCR-Präsentation habe mindestens eine halbe Million Aufrufe erreicht und sei mehrfach gelöscht und neu hochgeladen worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -611,21 +611,32 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Reichweite und Moderationsvorgänge sind eigenständige Unterbehauptungen; konkrete Uploads und Zeitstände fehlen.
+Der zeitgenössisch verlinkte Originalupload ist beim direkten Abruf öffentlich und zeigt 27190 Aufrufe. Ein solcher Einzelzähler widerlegt keine frühere oder über mehrere Kopien verteilte Reichweite. Die Recherche mit deutschen und englischen Titel-/Reichweiten-/Löschbegriffen sowie der direkte Uploadabgleich ergaben keinen belastbaren historischen Gesamtnachweis für mindestens 500000 Aufrufe und wiederholte Löschungen. Die genaue Zahl und die Moderationsfolge bleiben unbelegt; das ist keine Widerlegung.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Abgeschlossen / Nicht ausreichend belegbar.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [AfD-Fraktion: Naomi Seibt – Junge Blogger und die Freien Medien](https://www.youtube.com/watch?v=Aq7ryGkapuE) · Originalupload vom 13.10.2020; am 19.11.2026 öffentlich abrufbar, 27190 angezeigte Aufrufe.
+  Quellenzugriff am 2026-11-19. Den von Correctiv zeitgenössisch verlinkten Originalupload direkt per Metadatenabfrage geprüft. Zähler ist ein aktueller Einzelstand, kein historischer Gesamtzähler aller Kopien; keine Löschprotokolle. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wortlautkontrolle 19.11.2026: Seibt spricht von Uploads „überall auf YouTube“, nicht von ihrem eigenen Kanal; dort gibt es kein PCR-Video. Fremd-Uploads und deren Aufrufzahlen wurden nicht gefunden.
+- Konkrete weitere Upload-IDs, datierte Zähler und öffentliche Löschmitteilungen zuordnen; Aufrufe verschiedener Fassungen nicht ohne Methode addieren.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Konkrete weitere Upload-IDs, datierte Zähler und öffentliche Löschmitteilungen zuordnen; Aufrufe verschiedener Fassungen nicht ohne Methode addieren.
+
+- Durchgang 1 am 2026-11-19 (Codex): Titel-, Reichweiten- und Löschvarianten zum Vortrag sowie zeitgenössische Berichte statt nur den heutigen eigenen Kanal durchsucht. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Kein belastbarer historischer Reichweiten- und Löschverlauf gefunden; fehlende Treffer sind kein Negativbeweis.
+
+- Durchgang 2 am 2026-11-19 (Codex): Zeitgenössischen Originalverweis zum AfD-Upload verfolgt und öffentlich zugängliche Metadaten direkt abgerufen. Gepruefte Quellen: S148. Ergebnis: Einzelupload vorhanden; aktueller Einzelzähler löst historischen Gesamtanspruch nicht.
 
 ## mdo14671BPE-A0121
 

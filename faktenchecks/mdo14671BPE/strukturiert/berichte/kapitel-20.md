@@ -1,8 +1,8 @@
 # Kapitel 20: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Keine menschliche Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Zwei Buchaussagen bleiben wegen fehlender Vollbuchprüfung ausdrücklich offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge.
 
 ## mdo14671BPE-A0194
 
@@ -125,10 +125,10 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Zugeordnete Quellen
 
 - [8 USC 1158: Asylum](https://uscode.house.gov/us/usc/t8/s1158/) · Office of the Law Revision Counsel; geltender Online-Stand am Prüfdatum.
-  Quellenzugriff am 2026-11-17. Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-17. Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich. [Codex] 19.11.2026: Absatz (a)(1) mit Statusunabhängigkeit und Absatz (a)(2) mit Einjahresfrist, weiteren Grenzen und Ausnahmen direkt erneut gelesen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
 - [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahme laut am 19.11.2026 erneut direkt abgerufener Originalbeschreibung: 30.09.2026. Frühere Angabe Aufnahmezeitpunkt ungeklärt korrigiert.
-  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle. Wortlaut an der Originalstelle kontrolliert.
+  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle. [Codex] 19.11.2026: Untertitel erneut abgerufen, identische Lücke bestätigt. Originalton-Ausschnitt um 02:10:30–02:13:00 privat lokal mit whisper.cpp 1.8.4 / Whisper small und base (Deutsch) automatisch transkribiert. Beide Fassungen am Text miteinander und mit angrenzenden Originaluntertiteln sowie ergänzendem Podcasttext verglichen. Keine menschliche Hör-/Sichtkontrolle; alle Medien und Arbeitstexte außerhalb Git. Wortlaut an der Originalstelle kontrolliert.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -226,11 +226,11 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibts Asylantrag sei erst nach Ende ihres Besuchsaufenthalts eingereicht worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
-- [02:10:48–02:12:43](https://www.youtube.com/watch?v=mdo14671BPE&t=7848s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+- [02:10:54–02:11:27](https://www.youtube.com/watch?v=mdo14671BPE&t=7854s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
@@ -239,28 +239,43 @@ Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherh
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Keine gesicherte enge YouTube-Fundstelle; nicht als kontrollierte Wiedergabe behandeln.
+Fundstellenhinweis: Ungefähres Suchfenster aus zwei automatischen Arbeitstexten; keine bestätigte Wortlaut- oder Stimmenkontrolle.
 
-Zeitgrundlage: Vorläufiges gesamtes Lückenfenster der YouTube-Untertitel. Inhalt nur aus ergänzender Podcast-Transkription; genaue Übertragung ihrer abweichenden Zeitachse ungeprüft.
+Zeitgrundlage: Lokale automatische Whisper-small-/base-Transkriptionen der Originaltonpassage; Ankervergleich vor/nach der YouTube-Untertitellücke, keine schnittgenaue Hörkontrolle.
+
+Frueherer Suchbereich: [02:10:48–02:12:43](https://www.youtube.com/watch?v=mdo14671BPE&t=7848s), Ungefähr. Bisher nur unsynchronisierter ergänzender Podcasttext; pauschales YouTube-Lückenfenster.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Nur eine ergänzende öffentliche Podcast-Transkription liefert diesen Inhalt im Anschlussbereich. Die Zeitachse ist gegenüber YouTube versetzt; Synchronisierung und akustische Kontrolle fehlen.
+Nicht überprüfbar – nicht öffentliche individuelle Verfahrensdaten. Der Wortinhalt einer Antragstellung nach Ende des Besuchsaufenthalts wird von zwei lokalen automatischen Transkriptionen der Originaltonspur gestützt. Das schließt die frühere reine Textzugangslücke für diesen Sachkern, bestätigt aber weder Antragsdatum noch Aktenlauf oder rechtliche Einordnung. Eine persönliche Verfahrensschilderung wird nicht durch allgemeine US-Regeln wahr oder falsch. Keine menschliche Hör-/Sichtkontrolle.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Nicht überprüfbar.
 
 ### Zugeordnete Quellen
 
+- [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahme laut am 19.11.2026 erneut direkt abgerufener Originalbeschreibung: 30.09.2026. Frühere Angabe Aufnahmezeitpunkt ungeklärt korrigiert.
+  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle. [Codex] 19.11.2026: Untertitel erneut abgerufen, identische Lücke bestätigt. Originalton-Ausschnitt um 02:10:30–02:13:00 privat lokal mit whisper.cpp 1.8.4 / Whisper small und base (Deutsch) automatisch transkribiert. Beide Fassungen am Text miteinander und mit angrenzenden Originaluntertiteln sowie ergänzendem Podcasttext verglichen. Keine menschliche Hör-/Sichtkontrolle; alle Medien und Arbeitstexte außerhalb Git. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
+
 - [Interviewepisode 353: öffentliche Podcast-Transkription](https://podcasts.happyscribe.com/de/ungeskriptet-der-meinungsfreiheit-verpflichtet/353-ich-kenne-merkels-grosstes-geheimnis-naomi-seibt) · Happy Scribe, Podcastfassung; abrufbar am Prüfdatum; eigenständige, gegenüber YouTube versetzte Zeitachse.
-  Quellenzugriff am 2026-11-17. Nur Anschlussbereich zu Verfahrensstand und Antragszeitpunkt ergänzend gelesen. Fremdtranskription mit unkontrollierten Namensetiketten; keine akustisch bestätigte Sprecherquelle und kein verifizierter Ersatz für die YouTube-Lücke. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-17. Nur Anschlussbereich zu Verfahrensstand und Antragszeitpunkt ergänzend gelesen. Fremdtranskription mit unkontrollierten Namensetiketten; keine akustisch bestätigte Sprecherquelle und kein verifizierter Ersatz für die YouTube-Lücke. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wortlautkontrolle 19.11.2026: Die automatischen Untertitel haben bei 02:10:45–02:12:43 eine echte Lücke von rund zwei Minuten; die Aussage lässt sich nur durch Anhören dieser Stelle prüfen. Im Umfeld erwähnt Seibt einen zweiwöchigen Aufenthalt in Mexiko 2024, um ihren ESTA-Aufenthalt neu zu beginnen.
+- Nur freiwillig veröffentlichte, eindeutig zugeordnete Bescheide oder Verfahrensdokumente könnten den individuellen Ablauf bestätigen; keine privaten Akten oder Gesundheitsdaten beschaffen.
+
+### Recherchedokumentation
+
+Einordnung: Derzeit nicht überprüfbar. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Nur freiwillig veröffentlichte, eindeutig zugeordnete Bescheide oder Verfahrensdokumente könnten den individuellen Ablauf bestätigen; keine privaten Akten oder Gesundheitsdaten beschaffen.
+
+- Durchgang 1 am 2026-11-19 (Codex): Originaluntertitel neu abgerufen; identische Lücke erkannt. Rechtmäßig privat vorliegende Originaltonpassage mit Whisper small und base (Deutsch) lokal automatisch transkribiert, beide Textfassungen miteinander und an den Randstellen mit YouTube-Text verglichen. Gepruefte Quellen: S001. Ergebnis: Gleicher Sachkern in beiden Arbeitstranskriptionen; Sprecher nur kontextuell plausibel, Zeitgrenzen ungefähr.
+
+- Durchgang 2 am 2026-11-19 (Codex): Ergänzenden Podcasttext und bei A0200 die Trennung zu allgemeinen Asylregeln abgeglichen. Gepruefte Quellen: S039. Ergebnis: Kein unabhängig belegter individueller Behördenvorgang.
 
 ## mdo14671BPE-A0200
 
@@ -268,11 +283,11 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das individuelle Asylverfahren sei nach einem Gerichtstermin vom DOJ wieder an DHS zurückgegangen und dort vorerst liegen geblieben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
-- [02:10:48–02:12:43](https://www.youtube.com/watch?v=mdo14671BPE&t=7848s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+- [02:11:24–02:12:18](https://www.youtube.com/watch?v=mdo14671BPE&t=7884s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
@@ -281,31 +296,46 @@ Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherh
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Zeitliche Einordnung bleibt eine offen bezeichnete Arbeitshypothese.
+Fundstellenhinweis: Ungefähres Suchfenster aus zwei automatischen Arbeitstexten; keine bestätigte Wortlaut- oder Stimmenkontrolle.
 
-Zeitgrundlage: Vorläufiges YouTube-Lückenfenster; Inhalt aus Podcast-Anschlussmaterial mit abweichender Zeitachse, nicht synchronisiert.
+Zeitgrundlage: Lokale automatische Whisper-small-/base-Transkriptionen der Originaltonpassage; Ankervergleich vor/nach der YouTube-Untertitellücke, keine schnittgenaue Hörkontrolle.
+
+Frueherer Suchbereich: [02:10:48–02:12:43](https://www.youtube.com/watch?v=mdo14671BPE&t=7848s), Ungefähr. Bisher nur unsynchronisierter ergänzender Podcasttext; pauschales YouTube-Lückenfenster.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Ergänzender Podcasttext beschreibt einen persönlichen Verfahrensablauf. Gerichtsanhörung, Verfahrensbeendigung, Zuständigkeitswechsel und Bearbeitungsstand sind nicht durch Akten belegt.
+Nicht überprüfbar – nicht öffentliche individuelle Verfahrensdaten. Zwei lokale automatische Transkriptionen der Originaltonspur geben übereinstimmend die Schilderung eines Gerichtstermins und einer anschließenden Rückgabe an DHS wieder. Das schließt die frühere reine Textzugangslücke für diesen Sachkern, bestätigt aber weder Antragsdatum noch Aktenlauf oder rechtliche Einordnung. Eine persönliche Verfahrensschilderung wird nicht durch allgemeine US-Regeln wahr oder falsch. Keine menschliche Hör-/Sichtkontrolle.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Nicht überprüfbar.
 
 ### Zugeordnete Quellen
 
+- [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahme laut am 19.11.2026 erneut direkt abgerufener Originalbeschreibung: 30.09.2026. Frühere Angabe Aufnahmezeitpunkt ungeklärt korrigiert.
+  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle. [Codex] 19.11.2026: Untertitel erneut abgerufen, identische Lücke bestätigt. Originalton-Ausschnitt um 02:10:30–02:13:00 privat lokal mit whisper.cpp 1.8.4 / Whisper small und base (Deutsch) automatisch transkribiert. Beide Fassungen am Text miteinander und mit angrenzenden Originaluntertiteln sowie ergänzendem Podcasttext verglichen. Keine menschliche Hör-/Sichtkontrolle; alle Medien und Arbeitstexte außerhalb Git. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
+
 - [Interviewepisode 353: öffentliche Podcast-Transkription](https://podcasts.happyscribe.com/de/ungeskriptet-der-meinungsfreiheit-verpflichtet/353-ich-kenne-merkels-grosstes-geheimnis-naomi-seibt) · Happy Scribe, Podcastfassung; abrufbar am Prüfdatum; eigenständige, gegenüber YouTube versetzte Zeitachse.
-  Quellenzugriff am 2026-11-17. Nur Anschlussbereich zu Verfahrensstand und Antragszeitpunkt ergänzend gelesen. Fremdtranskription mit unkontrollierten Namensetiketten; keine akustisch bestätigte Sprecherquelle und kein verifizierter Ersatz für die YouTube-Lücke. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-17. Nur Anschlussbereich zu Verfahrensstand und Antragszeitpunkt ergänzend gelesen. Fremdtranskription mit unkontrollierten Namensetiketten; keine akustisch bestätigte Sprecherquelle und kein verifizierter Ersatz für die YouTube-Lücke. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 - [8 USC 1158: Asylum](https://uscode.house.gov/us/usc/t8/s1158/) · Office of the Law Revision Counsel; geltender Online-Stand am Prüfdatum.
-  Quellenzugriff am 2026-11-17. Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-17. Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich. [Codex] 19.11.2026: Absatz (a)(1) mit Statusunabhängigkeit und Absatz (a)(2) mit Einjahresfrist, weiteren Grenzen und Ausnahmen direkt erneut gelesen. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Wortlautkontrolle 19.11.2026: Die automatischen Untertitel haben bei 02:10:45–02:12:43 eine echte Lücke; danach sagt Seibt, die Entscheidung liege bei DHS und ihr Fall sei derzeit nicht beim DOJ. Einen Gerichtstermin nennt der lesbare Teil nicht; die Stelle muss angehört werden.
+- Nur freiwillig veröffentlichte, eindeutig zugeordnete Bescheide oder Verfahrensdokumente könnten den individuellen Ablauf bestätigen; keine privaten Akten oder Gesundheitsdaten beschaffen.
+
+### Recherchedokumentation
+
+Einordnung: Derzeit nicht überprüfbar. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Nur freiwillig veröffentlichte, eindeutig zugeordnete Bescheide oder Verfahrensdokumente könnten den individuellen Ablauf bestätigen; keine privaten Akten oder Gesundheitsdaten beschaffen.
+
+- Durchgang 1 am 2026-11-19 (Codex): Originaluntertitel neu abgerufen; identische Lücke erkannt. Rechtmäßig privat vorliegende Originaltonpassage mit Whisper small und base (Deutsch) lokal automatisch transkribiert, beide Textfassungen miteinander und an den Randstellen mit YouTube-Text verglichen. Gepruefte Quellen: S001. Ergebnis: Gleicher Sachkern in beiden Arbeitstranskriptionen; Sprecher nur kontextuell plausibel, Zeitgrenzen ungefähr.
+
+- Durchgang 2 am 2026-11-19 (Codex): Ergänzenden Podcasttext und bei A0200 die Trennung zu allgemeinen Asylregeln abgeglichen. Gepruefte Quellen: S039, S022. Ergebnis: Kein unabhängig belegter individueller Behördenvorgang.
 
 ## mdo14671BPE-A0201
 
@@ -384,7 +414,7 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
 ### Zugeordnete Quellen
 
 - [8 USC 1158: Asylum](https://uscode.house.gov/us/usc/t8/s1158/) · Office of the Law Revision Counsel; geltender Online-Stand am Prüfdatum.
-  Quellenzugriff am 2026-11-17. Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-17. Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich. [Codex] 19.11.2026: Absatz (a)(1) mit Statusunabhängigkeit und Absatz (a)(2) mit Einjahresfrist, weiteren Grenzen und Ausnahmen direkt erneut gelesen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -437,7 +467,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Todd Blanche sei zum Gesprächszeitpunkt Attorney General der USA.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -456,22 +486,31 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das aktuelle offizielle Profil dokumentiert die Vereidigung am 10.08.2026. Für den Veröffentlichungsmonat passt die Amtsangabe; der genaue Aufnahmezeitpunkt bleibt unbekannt.
+Das erneut gelesene amtliche DOJ-Profil datiert Blanches Vereidigung als Attorney General auf den 10.08.2026. Das liegt vor dem in der Originalbeschreibung genannten Aufnahmetag 30.09.2026. Die Amtsangabe passt damit auch zum Gesprächszeitpunkt; die frühere Einschränkung wegen angeblich unbekannten Aufnahmetermins entfällt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Abgeschlossen / Teilweise belegt, jetzt Abgeschlossen / Belegt. Korrektur UG-C0003.
 
 ### Zugeordnete Quellen
 
 - [Meet the Attorney General](https://www.justice.gov/ag/staff-profile/meet-attorney-general) · U.S. Department of Justice; aktualisiert 06.10.2026.
-  Quellenzugriff am 2026-11-18. Offizielles Amtsprofil gelesen: Ernennung Todd Blanches zum Attorney General am 10.08.2026 nach kommissarischer Tätigkeit. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-18. Offizielles Amtsprofil gelesen: Ernennung Todd Blanches zum Attorney General am 10.08.2026 nach kommissarischer Tätigkeit. [Codex] 19.11.2026: amtliches Profil erneut geöffnet; Vereidigung als Attorney General am 10.08.2026 bestätigt, damit vor dem angegebenen Aufnahmetag 30.09.2026. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
+
+- [Naomi Seibt bei Ben: Originalinterview](https://www.youtube.com/watch?v=mdo14671BPE) · Direkter neuer Metadatenabruf am 19.11.2026; Beschreibung nennt Aufnahmedatum 30. September 2026.
+  Quellenzugriff am 2026-11-19. Aktuelle Uploadbeschreibung direkt abgerufen; private deutsche Originaluntertitel an 00:31:10–00:32:05, 01:13:50–01:15:50, 02:16:25–02:17:10 und 02:30:45–02:32:15 erneut gelesen. Personen nur textlich plausibel. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Aufnahmedatum sichern.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-19 (Codex): Amtliches Amtsprofil und direkt abgerufene Aufnahmeangabe miteinander verglichen. Gepruefte Quellen: S055, S136. Ergebnis: Beide Datumsangaben sind vereinbar; Teilweise belegt war nach geklärtem Aufnahmezeitpunkt zu restriktiv.
 
 ## mdo14671BPE-A0205
 
@@ -604,5 +643,104 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen. [Codex] 19.11.2026
 ### Offene Fragen und Unsicherheiten
 
 - Falls ausschließlich eine engere Untergruppe unter einer bestimmten Regierung gemeint ist, Originalstelle präzisieren.
+
+## mdo14671BPE-A0250
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Nach einer ESTA-Einreise und einem Asylantrag nach Ablauf des erlaubten Besuchsaufenthalts sei das Einwanderungsgericht statt nur DHS zuständig.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:11:24–02:11:44](https://www.youtube.com/watch?v=mdo14671BPE&t=7884s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster aus zwei automatischen Arbeitstexten; keine bestätigte Wortlaut- oder Stimmenkontrolle.
+
+Zeitgrundlage: Lokale automatische Whisper-small-/base-Transkriptionen der Originaltonpassage; Ankervergleich vor/nach der YouTube-Untertitellücke, keine schnittgenaue Hörkontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Für den im Gespräch zuvor beschriebenen Visa-Waiver-/ESTA-Kontext bestätigt 8 CFR 208.2(c)(1)(iv) die ausschließliche Asylzuständigkeit des Einwanderungsrichters bei überzogenem Aufenthalt, sobald das bezeichnete Verweisungsdokument beim Gericht eingereicht ist. Das ist eine allgemeine Regel mit Verfahrensvoraussetzungen, kein Beleg des tatsächlichen Aktenlaufs oder einer späteren Rückgabe an DHS. Eine zunächst pauschale Lesart für beliebige Touristenvisa wird dem Original nicht unterstellt.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Neu entdeckter allgemeiner Sachkern im nachtranskribierten Lückenfenster, keine Fremdbewertung übernommen.
+
+Bewertungsuebergang: [Codex] 19.11.2026: von persönlichem Verfahrensbericht A0199/A0200 getrennt neu erfasst.
+
+### Zugeordnete Quellen
+
+- [8 CFR 208.2: Jurisdiction, Stand 30.09.2026](https://www.ecfr.gov/on/2026-09-30/title-8/chapter-I/subchapter-B/part-208/subpart-A/section-208.2) · Historische eCFR-Fassung zum angegebenen Aufnahmetag; direkt geöffnet.
+  Quellenzugriff am 2026-11-19. Absätze a bis c gelesen: USCIS-Grundzuständigkeit und gerichtliche Zuständigkeit nach Einreichung der bezeichneten Verfahrensdokumente, einschließlich Visa-Waiver-Program-Fällen. Allgemeine Regel, kein Nachweis des individuellen Falls.
+
+- [8 CFR 208.14: Approval, denial, referral, or dismissal, Stand 30.09.2026](https://www.ecfr.gov/on/2026-09-30/title-8/chapter-I/subchapter-B/part-208/subpart-A/section-208.14) · Historische eCFR-Fassung zum angegebenen Aufnahmetag; direkt geöffnet.
+  Quellenzugriff am 2026-11-19. Absätze a bis c gelesen; Weiterleitung, Ablehnung und Aufenthaltsstatus sind differenziert geregelt. Kein Nachweis individueller Verfahrensakten. Allgemeine Regel, kein Nachweis des individuellen Falls.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-19 (Codex): Wissensdatenbank und vorhandene Asylaussagen auf Doppelung geprüft; zwei lokale automatische Originalton-Arbeitstexte abgeglichen, allgemeine Regel an den konkret bezeichneten amtlichen Normen geprüft. Gepruefte Quellen: S152, S153. Ergebnis: Für den im Gespräch zuvor beschriebenen Visa-Waiver-/ESTA-Kontext bestätigt 8 CFR 208.2(c)(1)(iv) die ausschließliche Asylzuständigkeit des Einwanderungsrichters bei überzogenem Aufenthalt, sobald das bezeichnete Verweisungsdokument beim Gericht eingereicht ist. Das ist eine allgemeine Regel mit Verfahrensvoraussetzungen, kein Beleg des tatsächlichen Aktenlaufs oder einer späteren Rückgabe an DHS. Eine zunächst pauschale Lesart für beliebige Touristenvisa wird dem Original nicht unterstellt.
+
+## mdo14671BPE-A0251
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Ein Asylantrag könne grundsätzlich auch nach Ende eines erlaubten Besuchsaufenthalts gestellt werden.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:10:54–02:11:27](https://www.youtube.com/watch?v=mdo14671BPE&t=7854s) · nicht bestaetigt; Kandidat: Naomi Seibt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster aus zwei automatischen Arbeitstexten; keine bestätigte Wortlaut- oder Stimmenkontrolle.
+
+Zeitgrundlage: Lokale automatische Whisper-small-/base-Transkriptionen der Originaltonpassage; Ankervergleich vor/nach der YouTube-Untertitellücke, keine schnittgenaue Hörkontrolle.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+8 USC 1158(a)(1) ermöglicht einen Antrag grundsätzlich unabhängig vom Aufenthaltsstatus; Absatz a(2) enthält unter anderem die Einjahresfrist und weitere Grenzen mit Ausnahmen. Die Möglichkeit eines Asylantrags macht eine vorherige Aufenthaltsüberschreitung nicht rückwirkend rechtmäßig und beweist keine Zulässigkeit oder Bewilligung im konkreten Fall.
+
+Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+
+Uebernahme: Neu entdeckter allgemeiner Sachkern im nachtranskribierten Lückenfenster, keine Fremdbewertung übernommen.
+
+Bewertungsuebergang: [Codex] 19.11.2026: von persönlichem Verfahrensbericht A0199/A0200 getrennt neu erfasst.
+
+### Zugeordnete Quellen
+
+- [8 USC 1158: Asylum](https://uscode.house.gov/us/usc/t8/s1158/) · Office of the Law Revision Counsel; geltender Online-Stand am Prüfdatum.
+  Quellenzugriff am 2026-11-17. Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich. [Codex] 19.11.2026: Absatz (a)(1) mit Statusunabhängigkeit und Absatz (a)(2) mit Einjahresfrist, weiteren Grenzen und Ausnahmen direkt erneut gelesen. Allgemeine Regel, kein Nachweis des individuellen Falls.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-19 (Codex): Wissensdatenbank und vorhandene Asylaussagen auf Doppelung geprüft; zwei lokale automatische Originalton-Arbeitstexte abgeglichen, allgemeine Regel an den konkret bezeichneten amtlichen Normen geprüft. Gepruefte Quellen: S022. Ergebnis: 8 USC 1158(a)(1) ermöglicht einen Antrag grundsätzlich unabhängig vom Aufenthaltsstatus; Absatz a(2) enthält unter anderem die Einjahresfrist und weitere Grenzen mit Ausnahmen. Die Möglichkeit eines Asylantrags macht eine vorherige Aufenthaltsüberschreitung nicht rückwirkend rechtmäßig und beweist keine Zulässigkeit oder Bewilligung im konkreten Fall.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

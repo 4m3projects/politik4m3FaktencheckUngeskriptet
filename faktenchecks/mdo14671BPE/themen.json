@@ -6,31 +6,31 @@
     {
       "topic": "stasi",
       "relevance": "Behandelt",
-      "basis": "14 von 249 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "14 von 251 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
       "segments": []
     },
     {
       "topic": "meinungsfreiheit",
       "relevance": "Behandelt",
-      "basis": "13 von 249 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "13 von 251 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
       "segments": []
     },
     {
       "topic": "asyl",
       "relevance": "Behandelt",
-      "basis": "11 von 249 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "13 von 251 erfassten Aussagen behandeln Asyl einschließlich zweier neu getrennter allgemeiner Verfahrensregeln; persönliche Angaben werden nicht damit gleichgesetzt.",
       "segments": []
     },
     {
       "topic": "corona",
       "relevance": "Behandelt",
-      "basis": "9 von 249 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "9 von 251 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
       "segments": []
     },
     {
       "topic": "geheimdienste",
       "relevance": "Behandelt",
-      "basis": "9 von 249 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "9 von 251 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
       "segments": []
     }
   ],
@@ -370,6 +370,18 @@
       "topics": [
         "meinungsfreiheit/strafrecht"
       ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0250",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0251",
+      "topics": [
+        "asyl"
+      ]
     }
   ],
   "history": [
@@ -377,6 +389,11 @@
       "date": "2026-11-19",
       "agent": "Claude",
       "change": "Erstzuordnung von 56 Aussagen zu Themen; keine Bewertung geändert."
+    },
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Zwei neu getrennte Asylregeln zugeordnet, Bestandsgröße angepasst; Themen aus Aussageinhalt."
     }
   ]
 }

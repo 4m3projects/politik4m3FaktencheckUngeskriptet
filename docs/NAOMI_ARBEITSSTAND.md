@@ -1,5 +1,15 @@
 # Übernahme und Arbeitsstand: Naomi-Seibt-Interview
 
+## Aktuelle Fortsetzung auf Nutzerauftrag, 19.11.2026
+
+[Codex] Der Nutzer hat ausdrücklich die Wiederaufnahme und Abschlussnachprüfung des Originals beauftragt. Die frühere Übergabe ist damit kein Verbot weiterer Arbeit. Koordination: [Issue #75](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/75), Branch `codex/naomi-abschlusspruefung`, Ausgangsbasis `8205fdccb78cf2a267aa84e7b943f2ef601cae91`; beim Beginn keine offenen konkurrierenden PRs. Nur freie Quellen, keine vidIQ-Credits.
+
+Maßgeblicher aktueller Prüfstand: [Nachprüfung am Original](../faktenchecks/mdo14671BPE/05_nachpruefung.md) und generierte Statistik. 251 Prüfgegenstände, 212 eigene Tatsachen: 107 mit Rechercheurteil, 103 begründet nicht überprüfbar, zwei offen; 37 Meinungen/Prognosen. Alle zwölf zuvor offenen Einträge nachbearbeitet, zwei vollständige Buchprüfungen bleiben offen. Drei öffentliche Sachkerne und eine veraltete Amtszeitbegründung mit Korrekturverlauf verbessert. Zwei allgemeine Asylbehauptungen aus dem zuvor textfreien Fenster zusätzlich erfasst.
+
+Zwei private lokale Whisper-Arbeitstexte der Originaltonpassage ergänzen die Untertitellücke; keine menschliche Hör-/Sichtkontrolle und keine bestätigten Sprecher. Keine vollständige Gesamtabdeckung behaupten. Der Stand ist für einen eigenen Draft-PR bestimmt; die Freigaben für PR #72/#74 ersetzen keine konkrete Mergefreigabe dieses neuen PRs.
+
+## Historischer Übergabestand
+
 Bearbeitet von: Codex. Aktualisierung: 18.11.2026. **Teilprüfung; vollständige Projektverantwortung an Claude übergeben. Keine fertige Gesamtprüfung.**
 
 Die aktuelle Nutzeranweisung zur vollständigen Übergabe wurde aus dem parallelen Codex-Chat übermittelt. Codex sichert den begonnenen Abschnitt und stellt anschließend die fachliche Weiterbearbeitung sowie eigene Merges ein. Claude übernimmt Recherche, Integration und weitere Veröffentlichungen nach den dokumentierten Nutzerfreigaben. Letzten geprüften Commit und Freigabe des Worktrees im Abschlusskommentar von Issue #3 prüfen. Kein automatischer Neustart dieses Codex-Arbeitsstrangs.

@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.",
-    "coverageNote": "Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext."
+    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge.",
+    "coverageNote": "Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Keine menschliche Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Zwei Buchaussagen bleiben wegen fehlender Vollbuchprüfung ausdrücklich offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9."
   },
   "legacyPoints": [],
   "sources": [
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/watch?v=mdo14671BPE",
       "details": "{ungeskriptet} by Ben; veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahme laut am 19.11.2026 erneut direkt abgerufener Originalbeschreibung: 30.09.2026. Frühere Angabe Aufnahmezeitpunkt ungeklärt korrigiert.",
       "accessedOn": "2026-11-19",
-      "accessBasis": "Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle."
+      "accessBasis": "Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle. [Codex] 19.11.2026: Untertitel erneut abgerufen, identische Lücke bestätigt. Originalton-Ausschnitt um 02:10:30–02:13:00 privat lokal mit whisper.cpp 1.8.4 / Whisper small und base (Deutsch) automatisch transkribiert. Beide Fassungen am Text miteinander und mit angrenzenden Originaluntertiteln sowie ergänzendem Podcasttext verglichen. Keine menschliche Hör-/Sichtkontrolle; alle Medien und Arbeitstexte außerhalb Git."
     },
     {
       "id": "S002",
@@ -189,7 +189,7 @@
       "url": "https://uscode.house.gov/us/usc/t8/s1158/",
       "details": "Office of the Law Revision Counsel; geltender Online-Stand am Prüfdatum.",
       "accessedOn": "2026-11-17",
-      "accessBasis": "Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich."
+      "accessBasis": "Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich. [Codex] 19.11.2026: Absatz (a)(1) mit Statusunabhängigkeit und Absatz (a)(2) mit Einjahresfrist, weiteren Grenzen und Ausnahmen direkt erneut gelesen."
     },
     {
       "id": "S023",
@@ -237,7 +237,7 @@
       "url": "https://www.gesetze-im-internet.de/stgb/__130.html",
       "details": "Bundesrecht; Abruffassung 17.11.2026.",
       "accessedOn": "2026-11-17",
-      "accessBasis": "Tatbestandsvoraussetzungen der Volksverhetzung gelesen; keine Prüfung eines unbenannten Einzelfalls."
+      "accessBasis": "Tatbestandsvoraussetzungen der Volksverhetzung gelesen; keine Prüfung eines unbenannten Einzelfalls. [Codex] 19.11.2026: § 130 Absätze 1–8 erneut direkt gelesen; Inhalt und Kontext sind Tatbestandsmerkmale, Statistiken nicht als Gattung verboten."
     },
     {
       "id": "S029",
@@ -453,7 +453,7 @@
       "url": "https://www.justice.gov/ag/staff-profile/meet-attorney-general",
       "details": "U.S. Department of Justice; aktualisiert 06.10.2026.",
       "accessedOn": "2026-11-18",
-      "accessBasis": "Offizielles Amtsprofil gelesen: Ernennung Todd Blanches zum Attorney General am 10.08.2026 nach kommissarischer Tätigkeit."
+      "accessBasis": "Offizielles Amtsprofil gelesen: Ernennung Todd Blanches zum Attorney General am 10.08.2026 nach kommissarischer Tätigkeit. [Codex] 19.11.2026: amtliches Profil erneut geöffnet; Vereidigung als Attorney General am 10.08.2026 bestätigt, damit vor dem angegebenen Aufnahmetag 30.09.2026."
     },
     {
       "id": "S056",
@@ -1118,6 +1118,126 @@
       "details": "Daten erstellt 10.10.2024; PDF-Seite 2, GERMANY.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Tabellenkopf, Fußnoten und Deutschlandzeile gelesen: 5 Grants. Initial case completions in den bezeichneten Gerichtsverfahren; keine vollständige Statistik aller Asylwege und keine aus diesen Daten berechnete persönliche Erfolgsquote."
+    },
+    {
+      "id": "S139",
+      "title": "YouTube-Hilfe: Kanäle abonnieren",
+      "url": "https://support.google.com/youtube/answer/4489286?hl=de",
+      "details": "Offizielle Funktionsbeschreibung, Abruf 19.11.2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Anmelden, Abonnieren und Abofeed gelesen; Abgrenzung zu kostenpflichtiger Mitgliedschaft."
+    },
+    {
+      "id": "S140",
+      "title": "Spotify Support: Podcasts und Shows",
+      "url": "https://support.spotify.com/de/article/podcasts-and-shows/",
+      "details": "Offizielle Funktionsbeschreibung, Abruf 19.11.2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Folgen als Speichern in der Bibliothek und Nutzung von Podcasts im kostenlosen Dienst gelesen."
+    },
+    {
+      "id": "S141",
+      "title": "arcticbear: Angebot für Hörer von Ben",
+      "url": "https://arcticbear.academy/ben/",
+      "details": "Am 19.11.2026 direkt geöffnet; arcticbear.de/ben leitet hierhin weiter. Anbieterwerbung, kein unabhängiger Lernerfolgstest.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Weiterleitung und öffentliche Angebotsseite gelesen: Beatrice-Beispiel über 16 Wochen, Telegram-Gruppe, monatliche Live-Calls, Amazon-Link und signierte Direktbestellung. Keine Bestellung, keine Prüfung des ausgelieferten Vollbuchs oder der Leistungserfüllung."
+    },
+    {
+      "id": "S142",
+      "title": "arcticbear: Zusatzinhalte zum Buch",
+      "url": "https://arcticbear.academy/danke-fuers-lesen/",
+      "details": "Öffentliche Anbieterbeschreibung, Abruf 19.11.2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Kostenlose Registrierung und Telegram-Zugang für Buchleser gelesen; Alumni-Leistungen des kostenpflichtigen Seminars davon getrennt."
+    },
+    {
+      "id": "S143",
+      "title": "Book of Finance: 5 Buchtipps von Claus Weibrecht",
+      "url": "https://bookoffinance.de/finanztipp/5-buchtipps-claus-weibrecht/",
+      "details": "Celine Nadolny, 08.11.2026; ausdrücklich als Anzeige gekennzeichnet.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Buchabschnitt mit 16-Wochen-Praxisbeispiel gelesen. Keine unabhängige Vollständigkeits- oder Leistungsprüfung."
+    },
+    {
+      "id": "S144",
+      "title": "Freedomain: Featured Interviews",
+      "url": "https://freedomain.com/featured-interviews/",
+      "details": "Eigene Interviewübersicht des Herausgebers.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Einträge zu Jordan Peterson und Milo Yiannopoulos gelesen. Eine Episodenseite zu Peterson zeigt im Webreader nur eine leere Metadatenmaske und wird nicht als zusätzlicher Inhaltsbeleg verwendet."
+    },
+    {
+      "id": "S145",
+      "title": "Freedomain: Interview Category Milo Yiannopoulos",
+      "url": "https://freedomain.com/interviewcategory/milo-yiannopoulos/",
+      "details": "Eigene Kategorie des Herausgebers, Abruf 19.11.2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Beschreibung der Interviews mit Molyneux gelesen; kein unabhängiger Qualitätsbeleg für diese Gespräche."
+    },
+    {
+      "id": "S146",
+      "title": "Guardian: Anti-Greta bei CPAC",
+      "url": "https://www.theguardian.com/us-news/2020/feb/25/anti-greta-teen-activist-cpac-conference-climate-sceptic",
+      "details": "25.02.2020, David Smith.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zeitgenössischer Bericht nennt Seibts Mutter Anwältin; kein Registerabgleich."
+    },
+    {
+      "id": "S147",
+      "title": "Teen Vogue / Nexus Media: Climate Change Deniers Are Embracing QAnon to Gain Followers",
+      "url": "https://www.teenvogue.com/story/climate-change-denial-qanon",
+      "details": "Jeremy Deaton, 29.09.2020; Nachdruck von Nexus Media, keine zweite unabhängige Recherche.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Seibt-Absätze gelesen: Berichte über verbreitete QAnon-Themen und ihre eigene Abgrenzung von aktiver Beteiligung. Kein Beleg eines formalen Zusammenschlusses."
+    },
+    {
+      "id": "S148",
+      "title": "AfD-Fraktion: Naomi Seibt – Junge Blogger und die Freien Medien",
+      "url": "https://www.youtube.com/watch?v=Aq7ryGkapuE",
+      "details": "Originalupload vom 13.10.2020; am 19.11.2026 öffentlich abrufbar, 27190 angezeigte Aufrufe.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Den von Correctiv zeitgenössisch verlinkten Originalupload direkt per Metadatenabfrage geprüft. Zähler ist ein aktueller Einzelstand, kein historischer Gesamtzähler aller Kopien; keine Löschprotokolle."
+    },
+    {
+      "id": "S149",
+      "title": "§ 5 StGB: Auslandstaten mit besonderem Inlandsbezug",
+      "url": "https://www.gesetze-im-internet.de/stgb/__5.html",
+      "details": "Amtliche konsolidierte Fassung, Abruf 19.11.2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Insbesondere Nummer 3 Buchstaben a/b und Nummer 5a Buchstabe c direkt gelesen. Regeln können unter ihren Voraussetzungen unabhängig von Strafbarkeit am ausländischen Tatort gelten."
+    },
+    {
+      "id": "S150",
+      "title": "§ 7 StGB: Geltung für Auslandstaten in anderen Fällen",
+      "url": "https://www.gesetze-im-internet.de/stgb/__7.html",
+      "details": "Amtliche konsolidierte Fassung, Abruf 19.11.2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Beiderseitige Strafbarkeit und persönliche Anknüpfungspunkte gelesen; kein Ersatz für die Sonderregeln des § 5."
+    },
+    {
+      "id": "S151",
+      "title": "§ 9 StGB: Ort der Tat",
+      "url": "https://www.gesetze-im-internet.de/stgb/__9.html",
+      "details": "Amtliche konsolidierte Fassung, Abruf 19.11.2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Handlungs-, Erfolgs- und Teilnahmeort gelesen; bloße Abrufbarkeit nicht pauschal mit tatbestandlichem Erfolg gleichgesetzt."
+    },
+    {
+      "id": "S152",
+      "title": "8 CFR 208.2: Jurisdiction, Stand 30.09.2026",
+      "url": "https://www.ecfr.gov/on/2026-09-30/title-8/chapter-I/subchapter-B/part-208/subpart-A/section-208.2",
+      "details": "Historische eCFR-Fassung zum angegebenen Aufnahmetag; direkt geöffnet.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Absätze a bis c gelesen: USCIS-Grundzuständigkeit und gerichtliche Zuständigkeit nach Einreichung der bezeichneten Verfahrensdokumente, einschließlich Visa-Waiver-Program-Fällen."
+    },
+    {
+      "id": "S153",
+      "title": "8 CFR 208.14: Approval, denial, referral, or dismissal, Stand 30.09.2026",
+      "url": "https://www.ecfr.gov/on/2026-09-30/title-8/chapter-I/subchapter-B/part-208/subpart-A/section-208.14",
+      "details": "Historische eCFR-Fassung zum angegebenen Aufnahmetag; direkt geöffnet.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Absätze a bis c gelesen; Weiterleitung, Ablehnung und Aufenthaltsstatus sind differenziert geregelt. Kein Nachweis individueller Verfahrensakten."
     }
   ],
   "speakers": [
@@ -1406,19 +1526,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein reguläres Folgen des Podcasts auf YouTube oder Spotify koste kein Geld.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Gemeint ist offenbar das kostenlose Folgen, nicht Bezahlabonnements oder Datenkosten. Plattformbedingungen sind für diese konkrete Aussage noch zu prüfen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die offiziellen Hilfeseiten beschreiben das normale Abonnieren beziehungsweise Folgen als Bibliotheks-/Abofeed-Funktion, auch bei kostenloser Nutzung. Kostenpflichtige Mitgliedschaften oder Premiumangebote sind andere Funktionen. Das stützt den im Nahkontext gemeinten kostenlosen Follow-Aufruf.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Abgeschlossen / Belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Kostenfreie Follow-Funktionen zum Veröffentlichungszeitpunkt belegen."
+      "sourceRefs": [
+        {
+          "sourceId": "S139",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S140",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0006",
@@ -1438,7 +1565,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originalaufruf und offizielle Plattformhilfen statt Bezahlangebote verglichen.",
+            "sourceIds": [
+              "S139",
+              "S140"
+            ],
+            "result": "Kostenfreies Folgen ist vom Kauf einer Mitgliedschaft zu unterscheiden."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0006",
@@ -2256,23 +2401,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die beworbene Optionsstrategie lasse sich leicht lernen und zuverlässig wiederholen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Werbeversprechen über Lernaufwand und praktische Umsetzbarkeit. Eine Strategiebeschreibung belegt keine Eignung für beliebige Anfänger.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Ein regelbasiertes Vorgehen lässt sich beschreiben und wiederholen. Daraus folgt weder leichte Erlernbarkeit für jeden Anfänger noch zuverlässiger Anlageerfolg. Die gelesene OIC-Erklärung behandelt Regeln und erhebliche Risiken; die öffentliche Anbieterseite wirbt für das Lernkonzept, liefert aber keinen belastbaren Lernerfolgsvergleich. Das weitergehende Lernversprechen ist mit diesen Quellen weder bestätigt noch widerlegt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Abgeschlossen / Nicht ausreichend belegbar."
       },
       "sourceRefs": [
         {
           "sourceId": "S003",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S141",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
       "openQuestions": [
-        "Voraussetzungen, Transaktionskosten und belastbare Ergebnisse des beworbenen Lernkonzepts prüfen."
+        "Unabhängige Erhebung zu Lernerfolg, Voraussetzungen und praktischer Fehlerquote des konkreten Konzepts vorlegen."
       ],
       "occurrences": [
         {
@@ -2293,7 +2442,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Erster Prüfweg: OIC-Strategieerklärung zu Regeln, Zuordnung und Verlustmöglichkeiten erneut gelesen.",
+            "sourceIds": [
+              "S003"
+            ],
+            "result": "Strategie ist beschreibbar; keine Untersuchung dieses Lernkonzepts."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Zweiter Prüfweg: beworbenen Link bis zur aktuellen Anbieter-Landingpage verfolgt und dort Leistungsdarstellung auf konkrete Erfolgsnachweise geprüft.",
+            "sourceIds": [
+              "S141"
+            ],
+            "result": "Anbieterbeschreibung, kein belastbarer Nachweis allgemeiner leichter Erlernbarkeit."
+          }
+        ],
+        "missingInformation": "Unabhängige Erhebung zu Lernerfolg, Voraussetzungen und praktischer Fehlerquote des konkreten Konzepts vorlegen.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0023",
@@ -2304,21 +2479,25 @@
       "description": "Das beworbene Buch begleite eine Anfängerin durch 16 Wochen mit sämtlichen Transaktionen einschließlich Verlustfällen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Konkrete Inhaltswerbung; das Buch wurde nicht eingesehen.",
+      "reason": "Noch nicht geprüft – die Vollständigkeit des Buchbeispiels ist noch am Buch selbst zu kontrollieren. Die jetzt zugängliche Anbieterseite beschreibt Beatrice über 16 Wochen und auch ungünstige Wochen; eine als Anzeige gekennzeichnete Buchvorstellung nennt ebenfalls das 16-Wochen-Beispiel. Das belegt die Inhaltsankündigung, aber noch nicht sämtliche Transaktionen und Verlustfälle im ausgelieferten Buch.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Offen."
       },
       "sourceRefs": [
         {
-          "sourceId": "S051",
-          "note": "Erfolgloser Abrufversuch – kein Sachbeleg. Keine gelesene Ersatzquelle für konkrete Buch- oder Zusatzleistungswerbung."
+          "sourceId": "S141",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S143",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
       "openQuestions": [
-        "Buchinhalt und Vollständigkeit des Handelsprotokolls prüfen."
+        "Vollständiges Praxisbeispiel in einer rechtmäßig verfügbaren Buchfassung prüfen; Angebotsbeschreibung nicht als Prüfung jeder Transaktion ausgeben."
       ],
       "occurrences": [
         {
@@ -2339,7 +2518,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Weiterleitung der beworbenen Adresse direkt geöffnet; alternative Buchvorstellung auf Interessenkonflikte und konkrete Inhaltsangaben geprüft.",
+            "sourceIds": [
+              "S141",
+              "S143"
+            ],
+            "result": "16-Wochen-Inhaltsankündigung gefunden; kein Vollbuch geprüft."
+          }
+        ],
+        "missingInformation": "Vollständiges Praxisbeispiel in einer rechtmäßig verfügbaren Buchfassung prüfen; Angebotsbeschreibung nicht als Prüfung jeder Transaktion ausgeben.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0024",
@@ -2350,21 +2547,29 @@
       "description": "Nach der Lektüre könne man die Handelsstrategie konkret umsetzen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Das Erfolgsversprechen ist ohne Prüfung des Buchs und der vorausgesetzten Kenntnisse nicht bestätigt.",
+      "reason": "Noch nicht geprüft – die konkrete praktische Umsetzbarkeit nach alleiniger Lektüre ist weiter zu prüfen. Anbieterbeschreibung und Zusatzinhalte sind jetzt zugänglich; sie ersetzen keine Durchsicht der Anleitung, Voraussetzungen und Risikodarstellung im vollständigen Buch. Aus einer beschriebenen Strategie folgt kein individueller Lernerfolg.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Offen."
       },
       "sourceRefs": [
         {
-          "sourceId": "S051",
-          "note": "Erfolgloser Abrufversuch – kein Sachbeleg. Keine gelesene Ersatzquelle für konkrete Buch- oder Zusatzleistungswerbung."
+          "sourceId": "S141",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S142",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
       "openQuestions": [
-        "Lernvoraussetzungen, Risikodarstellung und Übungen im Buch prüfen."
+        "Vollständige Anleitung und notwendige Vorkenntnisse prüfen; Buchleistung von zusätzlichen Videos, Community und Seminar unterscheiden."
       ],
       "occurrences": [
         {
@@ -2385,7 +2590,26 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Öffentliche Produkt- und Zusatzleistungsbeschreibung gegen die unabhängige OIC-Strategieerklärung gelesen.",
+            "sourceIds": [
+              "S141",
+              "S142",
+              "S003"
+            ],
+            "result": "Angebotstext zugänglich, vollständige praktische Anleitung nicht geprüft."
+          }
+        ],
+        "missingInformation": "Vollständige Anleitung und notwendige Vorkenntnisse prüfen; Buchleistung von zusätzlichen Videos, Community und Seminar unterscheiden.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0025",
@@ -2394,24 +2618,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Zum Buchangebot gehörten eine kostenlose Telegram-Community und kostenlose Livegespräche mit dem Autor.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Zwei angebotsbezogene Teilleistungen; Bedingungen und mögliche Zugangsbeschränkungen ungeprüft.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die konkret beworbene Adresse leitet inzwischen auf eine zugängliche Anbieter-Landingpage weiter. Dort werden Telegram-Community und monatliche Live-Calls mit dem Autor als kostenlose Zusatzleistungen zum Buch angeboten. Die gesonderte Buchleser-Seite stützt den kostenlosen Community-Zugang. Bestätigt ist das veröffentlichte Angebot beim Abruf, nicht tatsächliche Durchführung jedes Termins oder ein unveränderter Angebotsstand am Aufnahmetag.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Abgeschlossen / Belegt."
       },
       "sourceRefs": [
         {
-          "sourceId": "S051",
-          "note": "Erfolgloser Abrufversuch – kein Sachbeleg. Keine gelesene Ersatzquelle für konkrete Buch- oder Zusatzleistungswerbung."
+          "sourceId": "S141",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S142",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
-      "openQuestions": [
-        "Für beide Leistungen Kosten, Zugang und zeitliche Bedingungen am Veröffentlichungsdatum sichern."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0032",
@@ -2431,7 +2657,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Beworbenen Link direkt einschließlich Weiterleitung sowie Buchleser-Zusatzseite geprüft; kostenpflichtiges Seminar getrennt.",
+            "sourceIds": [
+              "S141",
+              "S142"
+            ],
+            "result": "Beide im Video genannten Leistungen stehen im Buchangebot."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0026",
@@ -2440,24 +2684,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Über die beworbene Adresse könne man das Buch beim Autor handsigniert oder über Amazon beziehen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Angebots- und Linkbehauptung; Shop und Signierbedingungen noch nicht geprüft.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die beworbene Adresse führt beim Abruf zur Anbieter-Landingpage mit einem Amazon-Bestelllink und einer ausdrücklich als signiert bezeichneten Direktbestellung. Damit ist die beschriebene Bestellmöglichkeit im veröffentlichten Angebot gestützt. Es wurde nichts gekauft; Lieferung, individuelle Unterschrift und historisch unveränderte Bedingungen sind damit nicht unabhängig nachgewiesen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Abgeschlossen / Belegt."
       },
       "sourceRefs": [
         {
-          "sourceId": "S051",
-          "note": "Erfolgloser Abrufversuch – kein Sachbeleg. Keine gelesene Ersatzquelle für konkrete Buch- oder Zusatzleistungswerbung."
+          "sourceId": "S141",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
-      "openQuestions": [
-        "Zielseite, Verfügbarkeit und Signierbedingungen prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0033",
@@ -2477,7 +2719,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Konkrete Zieladresse und die beiden unterschiedlichen Bestellwege auf der öffentlichen Landingpage direkt geprüft.",
+            "sourceIds": [
+              "S141"
+            ],
+            "result": "Amazon-Verweis und signierte Direktbestellung vorhanden."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0027",
@@ -2904,25 +3163,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibts Mutter sei Rechtsanwältin.",
-      "status": "Nicht überprüfbar",
-      "verdict": null,
-      "reason": "Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Familienberuf als biografische Angabe; kein Berufsregistereintrag unabhängig zugeordnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Ein zeitgenössischer Guardian-Bericht nennt ihre Mutter Anwältin; ein Registerabgleich fehlt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Nicht überprüfbar, jetzt Abgeschlossen / Belegt. Korrektur UG-C0002."
       },
       "sourceRefs": [
         {
-          "sourceId": "S112",
-          "note": "Mutter Rechtsanwältin laut Tertiärquelle (Fußnote Guardian 25.02.2020, nicht selbst gelesen)."
+          "sourceId": "S146",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
-      "openQuestions": [
-        "Berufsstatus nur mit öffentlich zulässiger, eindeutig zugeordneter Quelle prüfen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – persönliche Darstellung gekennzeichnet; keine Bewertung geraten."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0045",
@@ -2942,7 +3198,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Tertiärverweis zur ursprünglichen zeitgenössischen Berichterstattung zurückverfolgt und betreffende Passage selbst gelesen.",
+            "sourceIds": [
+              "S146"
+            ],
+            "result": "Öffentliche Berufsangabe ist vorhanden; frühere pauschale Behauptung fehlender öffentlicher Grundlage korrigiert."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0037",
@@ -3827,23 +4100,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt habe sich niemals mit QAnon zusammengeschlossen, obwohl Medien dies behauptet hätten.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Formal ist kein Zusammenschluss belegt; Seibt erklärte 2020 selbst, keine aktive Teilnehmerin zu sein. Zugleich behandelte sie 2020 QAnon-Themen in eigenen Videos und bewertete die Bewegung positiv. Der gelesene Bericht spricht von Annäherung, nicht von einem Beitritt. Ob „Medien“ einen Zusammenschluss behaupteten, ist mit den bisher gelesenen Quellen nicht belegt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die gelesenen zeitgenössischen Berichte dokumentieren QAnon-bezogene Inhalte und Seibts eigene Abgrenzung von aktiver Beteiligung. Das belegt weder einen formalen Zusammenschluss noch die absolute Aussage, es habe niemals eine Zusammenarbeit gegeben. Im Original wird kein konkreter Artikel benannt; mediale Annäherungsbeschreibungen sind nicht mit einem Beitrittsvorwurf gleichzusetzen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Abgeschlossen / Nicht ausreichend belegbar."
       },
       "sourceRefs": [
         {
           "sourceId": "S100",
-          "note": "Seibt 2020: keine aktive Teilnehmerin, Bewegung aber positiv bewertet; Bericht spricht von Annäherung, nicht von Beitritt."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S147",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
       "openQuestions": [
-        "Welche Medienberichte sind gemeint? Weitere zeitgenössische Berichte (z. B. Teen Vogue, 24.09.2020) lesen, bevor die Medienbehauptung bewertet wird."
+        "Gemeinten Medienartikel und konkrete Form der behaupteten Zusammenarbeit benennen; dann Bericht und dokumentierte Kontakte getrennt prüfen."
       ],
       "occurrences": [
         {
@@ -3864,7 +4141,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Vorarbeit von Claude: zeitgenössischen DeSmog-Bericht zu Seibts QAnon-Verhältnis recherchiert und gelesen.",
+            "sourceIds": [
+              "S100"
+            ],
+            "result": "Öffentliche Distanzierung von aktiver Beteiligung, zugleich positive Einordnung dokumentiert."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Zweiter Prüfweg: Nahkontext der Originaluntertitel erneut gelesen und Nexus-Nachdruck bei Teen Vogue auf den tatsächlich erhobenen Vorwurf geprüft.",
+            "sourceIds": [
+              "S147"
+            ],
+            "result": "Kein Beleg eines formalen Zusammenschlusses; unbenannter Artikel verhindert ein Gesamturteil über sämtliche Medienberichte."
+          }
+        ],
+        "missingInformation": "Gemeinten Medienartikel und konkrete Form der behaupteten Zusammenarbeit benennen; dann Bericht und dokumentierte Kontakte getrennt prüfen.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0057",
@@ -3965,31 +4268,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Q-Anhänger hätten Trumps Wahlerfolg als Erfüllung einer Vorhersage Qs gedeutet.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Die erneute Lektüre des Nahkontexts zeigt eine Beschreibung der Deutung durch Anhänger, verbunden mit einem Vergleich zu unbestimmten Vorhersagen. Das ist keine eindeutige eigene Bestätigung einer zutreffenden Prophezeiung. Die Forschung datiert erste Q-Beiträge auf Oktober 2017. Ohne genanntes Wahljahr und konkrete Fundstelle lässt sich damit die tatsächliche Zuschreibung nicht abschließend prüfen.",
+      "reason": "Nicht überprüfbar – Bezug im Original nicht eindeutig bestimmt. Erneut gelesener Nahkontext beschreibt eine Deutung durch Anhänger und vergleicht Q-Beiträge mit Horoskopen. Er nennt weder Wahljahr noch konkreten Beitrag. Berichte über die Zeitfolge können diese fehlende Zuordnung nicht ersetzen. Eine eigene Bestätigung einer zutreffenden Prophezeiung wird hier nicht unterstellt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Nicht überprüfbar."
       },
       "sourceRefs": [
         {
           "sourceId": "S069",
-          "note": "Herkunft seit 2017, kein Nachweis einer zutreffenden Wahlvorhersage."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         },
         {
           "sourceId": "S101",
-          "note": "Keine Q-Beiträge mehr seit der Wahl 2020."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         },
         {
           "sourceId": "S102",
-          "note": "Q aktiv Oktober 2017 bis Dezember 2020, danach nur vereinzelt 2022."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
       "openQuestions": [
-        "Welche Wahl und welcher konkrete Beitrag sind gemeint? Zeitgenössische Belege für die beschriebene Anhängerdeutung fehlen."
+        "Wahljahr, konkreten Q-Beitrag und zeitgenössische Reaktionen zuordnen; ohne diese Angaben keine nachträgliche Auswahl eines passenden Wahlerfolgs."
       ],
       "occurrences": [
         {
@@ -4010,7 +4313,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originalnahkontext von etwa 00:27–00:29 erneut auf Wahljahr und eigene Zustimmungsrolle gelesen.",
+            "sourceIds": [],
+            "result": "Kein Wahljahr und kein bestimmter Q-Beitrag genannt; Anhängerdeutung statt eigener Tatsachenbestätigung."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Vorhandene Chronologiequellen mit Herkunft und Aktivitätszeiträumen verglichen.",
+            "sourceIds": [
+              "S069",
+              "S101",
+              "S102"
+            ],
+            "result": "Chronologie identifiziert den unbenannten Bezug nicht."
+          }
+        ],
+        "missingInformation": "Wahljahr, konkreten Q-Beitrag und zeitgenössische Reaktionen zuordnen; ohne diese Angaben keine nachträgliche Auswahl eines passenden Wahlerfolgs.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0060",
@@ -4624,23 +4953,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Molyneux habe Peterson, Milo Yiannopoulos und Alex Jones interviewt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Eine Verbindung zu Alex Jones ist belegt, allerdings als Auftritt Molyneux' in Jones' Sendung ab 2011, nicht ausdrücklich als von Molyneux geführtes Interview. Für Gespräche mit Jordan Peterson und Milo Yiannopoulos liegt bisher keine gelesene Quelle vor; die gelesene Interview-Zeitleiste 2015–2017 nennt beide nicht.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die eigene Freedomain-Übersicht nennt Interviews mit Jordan Peterson und Milo Yiannopoulos; für Milo gibt es zusätzlich eine eigene Interviewkategorie. Damit sind zwei zuvor offene Teilangaben gestützt. Der bisher gelesene Alex-Jones-Nachweis beschreibt dagegen Molyneux als Gast bei Jones. Er belegt nicht die im Original zusätzlich behauptete umgekehrte Gastrolle. Die erfolglose Suche nach einem passenden Jones-Auftritt bei Molyneux ist kein Beweis, dass es ihn nie gab.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Abgeschlossen / Teilweise belegt."
       },
       "sourceRefs": [
         {
           "sourceId": "S106",
-          "note": "Erster Auftritt bei Alex Jones 2011 (umgekehrte Richtung: Molyneux als Gast); Peterson und Yiannopoulos nicht genannt."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S144",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S145",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
       "openQuestions": [
-        "Primär- oder Sekundärnachweise für Molyneux-Gespräche mit Peterson und Yiannopoulos (Episodenlisten, zeitgenössische Berichte) suchen."
+        "Für die Richtung Alex Jones als Gast bei Molyneux eine konkrete Episode zuordnen."
       ],
       "occurrences": [
         {
@@ -4661,7 +4998,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Eigene Herausgeberübersicht und Interviewkategorien statt bloßer politischer Netzwerkprofile recherchiert und gelesen.",
+            "sourceIds": [
+              "S144",
+              "S145"
+            ],
+            "result": "Peterson und Milo als Interviewpartner ausdrücklich genannt."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originalnahkontext erneut gelesen und Alex-Jones-Gastrolle gegen den bisherigen biografischen Nachweis sowie gezielte Episodensuche abgegrenzt.",
+            "sourceIds": [
+              "S106"
+            ],
+            "result": "Gastauftritt bei Jones belegt die umgekehrte Interviewrichtung nicht."
+          }
+        ],
+        "missingInformation": "Für die Richtung Alex Jones als Gast bei Molyneux eine konkrete Episode zuordnen.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0074",
@@ -6891,18 +7255,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Aufzeichnung ihrer PCR-Präsentation habe mindestens eine halbe Million Aufrufe erreicht und sei mehrfach gelöscht und neu hochgeladen worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Reichweite und Moderationsvorgänge sind eigenständige Unterbehauptungen; konkrete Uploads und Zeitstände fehlen.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Der zeitgenössisch verlinkte Originalupload ist beim direkten Abruf öffentlich und zeigt 27190 Aufrufe. Ein solcher Einzelzähler widerlegt keine frühere oder über mehrere Kopien verteilte Reichweite. Die Recherche mit deutschen und englischen Titel-/Reichweiten-/Löschbegriffen sowie der direkte Uploadabgleich ergaben keinen belastbaren historischen Gesamtnachweis für mindestens 500000 Aufrufe und wiederholte Löschungen. Die genaue Zahl und die Moderationsfolge bleiben unbelegt; das ist keine Widerlegung.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Abgeschlossen / Nicht ausreichend belegbar."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S148",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        }
+      ],
       "openQuestions": [
-        "Wortlautkontrolle 19.11.2026: Seibt spricht von Uploads „überall auf YouTube“, nicht von ihrem eigenen Kanal; dort gibt es kein PCR-Video. Fremd-Uploads und deren Aufrufzahlen wurden nicht gefunden."
+        "Konkrete weitere Upload-IDs, datierte Zähler und öffentliche Löschmitteilungen zuordnen; Aufrufe verschiedener Fassungen nicht ohne Methode addieren."
       ],
       "occurrences": [
         {
@@ -6923,7 +7292,31 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Titel-, Reichweiten- und Löschvarianten zum Vortrag sowie zeitgenössische Berichte statt nur den heutigen eigenen Kanal durchsucht.",
+            "sourceIds": [],
+            "result": "Kein belastbarer historischer Reichweiten- und Löschverlauf gefunden; fehlende Treffer sind kein Negativbeweis."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Zeitgenössischen Originalverweis zum AfD-Upload verfolgt und öffentlich zugängliche Metadaten direkt abgerufen.",
+            "sourceIds": [
+              "S148"
+            ],
+            "result": "Einzelupload vorhanden; aktueller Einzelzähler löst historischen Gesamtanspruch nicht."
+          }
+        ],
+        "missingInformation": "Konkrete weitere Upload-IDs, datierte Zähler und öffentliche Löschmitteilungen zuordnen; Aufrufe verschiedener Fassungen nicht ohne Methode addieren.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0121",
@@ -10725,29 +11118,33 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibts Asylantrag sei erst nach Ende ihres Besuchsaufenthalts eingereicht worden.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
-      "reason": "Noch nicht geprüft – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Nur eine ergänzende öffentliche Podcast-Transkription liefert diesen Inhalt im Anschlussbereich. Die Zeitachse ist gegenüber YouTube versetzt; Synchronisierung und akustische Kontrolle fehlen.",
+      "reason": "Nicht überprüfbar – nicht öffentliche individuelle Verfahrensdaten. Der Wortinhalt einer Antragstellung nach Ende des Besuchsaufenthalts wird von zwei lokalen automatischen Transkriptionen der Originaltonspur gestützt. Das schließt die frühere reine Textzugangslücke für diesen Sachkern, bestätigt aber weder Antragsdatum noch Aktenlauf oder rechtliche Einordnung. Eine persönliche Verfahrensschilderung wird nicht durch allgemeine US-Regeln wahr oder falsch. Keine menschliche Hör-/Sichtkontrolle.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Nicht überprüfbar."
       },
       "sourceRefs": [
         {
+          "sourceId": "S001",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
           "sourceId": "S039",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
       "openQuestions": [
-        "Wortlautkontrolle 19.11.2026: Die automatischen Untertitel haben bei 02:10:45–02:12:43 eine echte Lücke von rund zwei Minuten; die Aussage lässt sich nur durch Anhören dieser Stelle prüfen. Im Umfeld erwähnt Seibt einen zweiwöchigen Aufenthalt in Mexiko 2024, um ihren ESTA-Aufenthalt neu zu beginnen."
+        "Nur freiwillig veröffentlichte, eindeutig zugeordnete Bescheide oder Verfahrensdokumente könnten den individuellen Ablauf bestätigen; keine privaten Akten oder Gesundheitsdaten beschaffen."
       ],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0230",
-          "startSeconds": 7848,
-          "endSeconds": 7963,
+          "startSeconds": 7854,
+          "endSeconds": 7887,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
@@ -10757,12 +11154,45 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
-          "note": "Keine gesicherte enge YouTube-Fundstelle; nicht als kontrollierte Wiedergabe behandeln.",
-          "timeBasis": "Vorläufiges gesamtes Lückenfenster der YouTube-Untertitel. Inhalt nur aus ergänzender Podcast-Transkription; genaue Übertragung ihrer abweichenden Zeitachse ungeprüft.",
-          "timeHistory": []
+          "note": "Ungefähres Suchfenster aus zwei automatischen Arbeitstexten; keine bestätigte Wortlaut- oder Stimmenkontrolle.",
+          "timeBasis": "Lokale automatische Whisper-small-/base-Transkriptionen der Originaltonpassage; Ankervergleich vor/nach der YouTube-Untertitellücke, keine schnittgenaue Hörkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7848,
+              "endSeconds": 7963,
+              "precision": "Ungefähr",
+              "basis": "Bisher nur unsynchronisierter ergänzender Podcasttext; pauschales YouTube-Lückenfenster."
+            }
+          ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originaluntertitel neu abgerufen; identische Lücke erkannt. Rechtmäßig privat vorliegende Originaltonpassage mit Whisper small und base (Deutsch) lokal automatisch transkribiert, beide Textfassungen miteinander und an den Randstellen mit YouTube-Text verglichen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Gleicher Sachkern in beiden Arbeitstranskriptionen; Sprecher nur kontextuell plausibel, Zeitgrenzen ungefähr."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Ergänzenden Podcasttext und bei A0200 die Trennung zu allgemeinen Asylregeln abgeglichen.",
+            "sourceIds": [
+              "S039"
+            ],
+            "result": "Kein unabhängig belegter individueller Behördenvorgang."
+          }
+        ],
+        "missingInformation": "Nur freiwillig veröffentlichte, eindeutig zugeordnete Bescheide oder Verfahrensdokumente könnten den individuellen Ablauf bestätigen; keine privaten Akten oder Gesundheitsdaten beschaffen.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0200",
@@ -10771,33 +11201,37 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das individuelle Asylverfahren sei nach einem Gerichtstermin vom DOJ wieder an DHS zurückgegangen und dort vorerst liegen geblieben.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
-      "reason": "Noch nicht geprüft – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Ergänzender Podcasttext beschreibt einen persönlichen Verfahrensablauf. Gerichtsanhörung, Verfahrensbeendigung, Zuständigkeitswechsel und Bearbeitungsstand sind nicht durch Akten belegt.",
+      "reason": "Nicht überprüfbar – nicht öffentliche individuelle Verfahrensdaten. Zwei lokale automatische Transkriptionen der Originaltonspur geben übereinstimmend die Schilderung eines Gerichtstermins und einer anschließenden Rückgabe an DHS wieder. Das schließt die frühere reine Textzugangslücke für diesen Sachkern, bestätigt aber weder Antragsdatum noch Aktenlauf oder rechtliche Einordnung. Eine persönliche Verfahrensschilderung wird nicht durch allgemeine US-Regeln wahr oder falsch. Keine menschliche Hör-/Sichtkontrolle.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Nicht überprüfbar."
       },
       "sourceRefs": [
         {
+          "sourceId": "S001",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
           "sourceId": "S039",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         },
         {
           "sourceId": "S022",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
       "openQuestions": [
-        "Wortlautkontrolle 19.11.2026: Die automatischen Untertitel haben bei 02:10:45–02:12:43 eine echte Lücke; danach sagt Seibt, die Entscheidung liege bei DHS und ihr Fall sei derzeit nicht beim DOJ. Einen Gerichtstermin nennt der lesbare Teil nicht; die Stelle muss angehört werden."
+        "Nur freiwillig veröffentlichte, eindeutig zugeordnete Bescheide oder Verfahrensdokumente könnten den individuellen Ablauf bestätigen; keine privaten Akten oder Gesundheitsdaten beschaffen."
       ],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0231",
-          "startSeconds": 7848,
-          "endSeconds": 7963,
+          "startSeconds": 7884,
+          "endSeconds": 7938,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP01",
@@ -10807,12 +11241,46 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
-          "note": "Zeitliche Einordnung bleibt eine offen bezeichnete Arbeitshypothese.",
-          "timeBasis": "Vorläufiges YouTube-Lückenfenster; Inhalt aus Podcast-Anschlussmaterial mit abweichender Zeitachse, nicht synchronisiert.",
-          "timeHistory": []
+          "note": "Ungefähres Suchfenster aus zwei automatischen Arbeitstexten; keine bestätigte Wortlaut- oder Stimmenkontrolle.",
+          "timeBasis": "Lokale automatische Whisper-small-/base-Transkriptionen der Originaltonpassage; Ankervergleich vor/nach der YouTube-Untertitellücke, keine schnittgenaue Hörkontrolle.",
+          "timeHistory": [
+            {
+              "startSeconds": 7848,
+              "endSeconds": 7963,
+              "precision": "Ungefähr",
+              "basis": "Bisher nur unsynchronisierter ergänzender Podcasttext; pauschales YouTube-Lückenfenster."
+            }
+          ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originaluntertitel neu abgerufen; identische Lücke erkannt. Rechtmäßig privat vorliegende Originaltonpassage mit Whisper small und base (Deutsch) lokal automatisch transkribiert, beide Textfassungen miteinander und an den Randstellen mit YouTube-Text verglichen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Gleicher Sachkern in beiden Arbeitstranskriptionen; Sprecher nur kontextuell plausibel, Zeitgrenzen ungefähr."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Ergänzenden Podcasttext und bei A0200 die Trennung zu allgemeinen Asylregeln abgeglichen.",
+            "sourceIds": [
+              "S039",
+              "S022"
+            ],
+            "result": "Kein unabhängig belegter individueller Behördenvorgang."
+          }
+        ],
+        "missingInformation": "Nur freiwillig veröffentlichte, eindeutig zugeordnete Bescheide oder Verfahrensdokumente könnten den individuellen Ablauf bestätigen; keine privaten Akten oder Gesundheitsdaten beschaffen.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0201",
@@ -10948,23 +11416,25 @@
       "kind": "Tatsachenbehauptung",
       "description": "Todd Blanche sei zum Gesprächszeitpunkt Attorney General der USA.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Das aktuelle offizielle Profil dokumentiert die Vereidigung am 10.08.2026. Für den Veröffentlichungsmonat passt die Amtsangabe; der genaue Aufnahmezeitpunkt bleibt unbekannt.",
+      "verdict": "Belegt",
+      "reason": "Das erneut gelesene amtliche DOJ-Profil datiert Blanches Vereidigung als Attorney General auf den 10.08.2026. Das liegt vor dem in der Originalbeschreibung genannten Aufnahmetag 30.09.2026. Die Amtsangabe passt damit auch zum Gesprächszeitpunkt; die frühere Einschränkung wegen angeblich unbekannten Aufnahmetermins entfällt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Abgeschlossen / Teilweise belegt, jetzt Abgeschlossen / Belegt. Korrektur UG-C0003."
       },
       "sourceRefs": [
         {
           "sourceId": "S055",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S136",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
-      "openQuestions": [
-        "Aufnahmedatum sichern."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0235",
@@ -10984,7 +11454,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Amtliches Amtsprofil und direkt abgerufene Aufnahmeangabe miteinander verglichen.",
+            "sourceIds": [
+              "S055",
+              "S136"
+            ],
+            "result": "Beide Datumsangaben sind vereinbar; Teilweise belegt war nach geklärtem Aufnahmezeitpunkt zu restriktiv."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0205",
@@ -12040,24 +12528,23 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das Wiedergeben von Kriminalitätsstatistiken könne in Deutschland bereits als solches nicht erlaubt sein.",
-      "status": "Nicht überprüfbar",
-      "verdict": null,
-      "reason": "Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Der benannte Einzelfall ist nicht identifiziert. § 130 knüpft an Tatbestandsvoraussetzungen und Kontext an, nicht an ein abstraktes Verbot jeder Statistik.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "§ 130 verbietet nicht das Auflisten von Kriminalstatistiken als solches. Entscheidend sind die gesetzlichen Inhalts- und Kontextmerkmale, etwa Hassaufstachelung oder Menschenwürdeangriffe unter den jeweiligen Voraussetzungen. Auch eine richtige Zahl kann Bestandteil eines strafbaren Gesamtzusammenhangs sein; aus einem solchen Fall folgt kein allgemeines Statistikverbot. Die pauschale Aussage lässt diese Unterscheidung aus. Welchen unbenannten Fall Seibt meint, bleibt getrennt ungeklärt; Kaiser wird ihr nicht als sicherer Bezug zugeschrieben.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Nicht überprüfbar, jetzt Abgeschlossen / Irreführend / Kontext fehlt. Korrektur UG-C0002."
       },
       "sourceRefs": [
         {
           "sourceId": "S028",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
       "openQuestions": [
-        "Konkreten Fall, vollständige Darstellung, Kontext und Gerichtsentscheidung identifizieren.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten."
+        "Unbenannten Einzelfall nur nach eindeutiger Identifikation und Prüfung der vollständigen Entscheidung beurteilen."
       ],
       "occurrences": [
         {
@@ -12078,7 +12565,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Alfreds Hinweis und Originalstelle erneut gelesen; Wissensdatenbank-/Abhängigkeitsprüfung zu A0228, A0225 und Alfred A0021, anschließend amtlichen Normtext selbst direkt gelesen.",
+            "sourceIds": [
+              "S028"
+            ],
+            "result": "Allgemeine Rechtsbehauptung unabhängig vom unbenannten Beispiel prüfbar; kein Gattungsverbot von Statistiken."
+          }
+        ],
+        "missingInformation": "Unbenannten Einzelfall nur nach eindeutiger Identifikation und Prüfung der vollständigen Entscheidung beurteilen.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0229",
@@ -12135,28 +12639,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine Äußerung aus den USA falle grundsätzlich erst durch Bens deutschen Upload in den Anwendungsbereich deutschen Strafrechts.",
-      "status": "Nicht überprüfbar",
-      "verdict": null,
-      "reason": "Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Auslandsäußerung, Staatsangehörigkeit, Tatort und Weiterverbreitung haben jeweils eigene Anknüpfungen. Die gelesenen Normen rechtfertigen kein abschließendes Urteil über die konkrete Aufnahme.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Ein deutscher Upload kann eigene rechtliche Anknüpfungen begründen. Die vorgelagerte Vorstellung einer allein wegen des US-Aufenthalts außerhalb deutschen Strafrechts liegenden Äußerung ist jedoch zu weit: § 5 nennt für die hier besprochenen Kennzeichen- und bestimmten Volksverhetzungsdelikte besondere Auslandsanknüpfungen, unter anderem deutsche Täterschaft oder inländische Lebensgrundlage und inländische Verbreitung/Zugänglichkeit. § 7 und § 9 enthalten weitere, jeweils eigene Voraussetzungen. Keine pauschale US-Immunität und keine automatische Strafbarkeit jeder Veröffentlichung; der konkrete Mitschnitt wird damit nicht strafrechtlich entschieden.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Nicht überprüfbar, jetzt Abgeschlossen / Irreführend / Kontext fehlt. Korrektur UG-C0002."
       },
       "sourceRefs": [
         {
-          "sourceId": "S036",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "sourceId": "S149",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         },
         {
-          "sourceId": "S037",
-          "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+          "sourceId": "S150",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S151",
+          "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
         }
       ],
       "openQuestions": [
-        "Weitere Anwendungsnormen und Rechtsprechung zum konkreten Delikt prüfen; keine pauschale US-Immunität oder automatische Upload-Strafbarkeit annehmen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten."
+        "Für einen konkreten Strafbarkeitsvorwurf Inhalt, Beteiligung, Staatsangehörigkeit, Veröffentlichung und einschlägigen Tatbestand vollständig feststellen."
       ],
       "occurrences": [
         {
@@ -12177,7 +12684,26 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originalnachfrage des Hosts von Gastbehauptungen getrennt; allgemeine Rechtsregel gegen §§ 5, 7 und 9 StGB direkt geprüft.",
+            "sourceIds": [
+              "S149",
+              "S150",
+              "S151"
+            ],
+            "result": "Auslandsort allein entscheidet die Strafanwendung nicht; Sonderregeln wurden im bisherigen Prüfstand übersehen."
+          }
+        ],
+        "missingInformation": "Für einen konkreten Strafbarkeitsvorwurf Inhalt, Beteiligung, Staatsangehörigkeit, Veröffentlichung und einschlägigen Tatbestand vollständig feststellen.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0231",
@@ -13062,6 +13588,133 @@
         }
       ],
       "relations": []
+    },
+    {
+      "id": "mdo14671BPE-A0250",
+      "videoId": "mdo14671BPE",
+      "chapter": 20,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach einer ESTA-Einreise und einem Asylantrag nach Ablauf des erlaubten Besuchsaufenthalts sei das Einwanderungsgericht statt nur DHS zuständig.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Für den im Gespräch zuvor beschriebenen Visa-Waiver-/ESTA-Kontext bestätigt 8 CFR 208.2(c)(1)(iv) die ausschließliche Asylzuständigkeit des Einwanderungsrichters bei überzogenem Aufenthalt, sobald das bezeichnete Verweisungsdokument beim Gericht eingereicht ist. Das ist eine allgemeine Regel mit Verfahrensvoraussetzungen, kein Beleg des tatsächlichen Aktenlaufs oder einer späteren Rückgabe an DHS. Eine zunächst pauschale Lesart für beliebige Touristenvisa wird dem Original nicht unterstellt.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neu entdeckter allgemeiner Sachkern im nachtranskribierten Lückenfenster, keine Fremdbewertung übernommen.",
+        "assessmentChange": "[Codex] 19.11.2026: von persönlichem Verfahrensbericht A0199/A0200 getrennt neu erfasst."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S152",
+          "note": "Allgemeine Regel, kein Nachweis des individuellen Falls."
+        },
+        {
+          "sourceId": "S153",
+          "note": "Allgemeine Regel, kein Nachweis des individuellen Falls."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0283",
+          "startSeconds": 7884,
+          "endSeconds": 7904,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Ungefähres Suchfenster aus zwei automatischen Arbeitstexten; keine bestätigte Wortlaut- oder Stimmenkontrolle.",
+          "timeBasis": "Lokale automatische Whisper-small-/base-Transkriptionen der Originaltonpassage; Ankervergleich vor/nach der YouTube-Untertitellücke, keine schnittgenaue Hörkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbank und vorhandene Asylaussagen auf Doppelung geprüft; zwei lokale automatische Originalton-Arbeitstexte abgeglichen, allgemeine Regel an den konkret bezeichneten amtlichen Normen geprüft.",
+            "sourceIds": [
+              "S152",
+              "S153"
+            ],
+            "result": "Für den im Gespräch zuvor beschriebenen Visa-Waiver-/ESTA-Kontext bestätigt 8 CFR 208.2(c)(1)(iv) die ausschließliche Asylzuständigkeit des Einwanderungsrichters bei überzogenem Aufenthalt, sobald das bezeichnete Verweisungsdokument beim Gericht eingereicht ist. Das ist eine allgemeine Regel mit Verfahrensvoraussetzungen, kein Beleg des tatsächlichen Aktenlaufs oder einer späteren Rückgabe an DHS. Eine zunächst pauschale Lesart für beliebige Touristenvisa wird dem Original nicht unterstellt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mdo14671BPE-A0251",
+      "videoId": "mdo14671BPE",
+      "chapter": 20,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Asylantrag könne grundsätzlich auch nach Ende eines erlaubten Besuchsaufenthalts gestellt werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "8 USC 1158(a)(1) ermöglicht einen Antrag grundsätzlich unabhängig vom Aufenthaltsstatus; Absatz a(2) enthält unter anderem die Einjahresfrist und weitere Grenzen mit Ausnahmen. Die Möglichkeit eines Asylantrags macht eine vorherige Aufenthaltsüberschreitung nicht rückwirkend rechtmäßig und beweist keine Zulässigkeit oder Bewilligung im konkreten Fall.",
+      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neu entdeckter allgemeiner Sachkern im nachtranskribierten Lückenfenster, keine Fremdbewertung übernommen.",
+        "assessmentChange": "[Codex] 19.11.2026: von persönlichem Verfahrensbericht A0199/A0200 getrennt neu erfasst."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S022",
+          "note": "Allgemeine Regel, kein Nachweis des individuellen Falls."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0284",
+          "startSeconds": 7854,
+          "endSeconds": 7887,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Ungefähres Suchfenster aus zwei automatischen Arbeitstexten; keine bestätigte Wortlaut- oder Stimmenkontrolle.",
+          "timeBasis": "Lokale automatische Whisper-small-/base-Transkriptionen der Originaltonpassage; Ankervergleich vor/nach der YouTube-Untertitellücke, keine schnittgenaue Hörkontrolle.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbank und vorhandene Asylaussagen auf Doppelung geprüft; zwei lokale automatische Originalton-Arbeitstexte abgeglichen, allgemeine Regel an den konkret bezeichneten amtlichen Normen geprüft.",
+            "sourceIds": [
+              "S022"
+            ],
+            "result": "8 USC 1158(a)(1) ermöglicht einen Antrag grundsätzlich unabhängig vom Aufenthaltsstatus; Absatz a(2) enthält unter anderem die Einjahresfrist und weitere Grenzen mit Ausnahmen. Die Möglichkeit eines Asylantrags macht eine vorherige Aufenthaltsüberschreitung nicht rückwirkend rechtmäßig und beweist keine Zulässigkeit oder Bewilligung im konkreten Fall."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     }
   ]
 }

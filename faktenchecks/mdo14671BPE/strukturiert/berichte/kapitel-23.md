@@ -1,8 +1,8 @@
 # Kapitel 23: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Keine menschliche Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Zwei Buchaussagen bleiben wegen fehlender Vollbuchprüfung ausdrücklich offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge.
 
 ## mdo14671BPE-A0225
 
@@ -43,7 +43,7 @@ Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
   Quellenzugriff am 2026-11-17. Wortlaut zu Beleidigung, übler Nachrede und Verleumdung gegen politische Personen gelesen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
 - [§ 130 StGB](https://www.gesetze-im-internet.de/stgb/__130.html) · Bundesrecht; Abruffassung 17.11.2026.
-  Quellenzugriff am 2026-11-17. Tatbestandsvoraussetzungen der Volksverhetzung gelesen; keine Prüfung eines unbenannten Einzelfalls. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-17. Tatbestandsvoraussetzungen der Volksverhetzung gelesen; keine Prüfung eines unbenannten Einzelfalls. [Codex] 19.11.2026: § 130 Absätze 1–8 erneut direkt gelesen; Inhalt und Kontext sind Tatbestandsmerkmale, Statistiken nicht als Gattung verboten. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -148,7 +148,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das Wiedergeben von Kriminalitätsstatistiken könne in Deutschland bereits als solches nicht erlaubt sein.
 
-Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -167,24 +167,30 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Der benannte Einzelfall ist nicht identifiziert. § 130 knüpft an Tatbestandsvoraussetzungen und Kontext an, nicht an ein abstraktes Verbot jeder Statistik.
+§ 130 verbietet nicht das Auflisten von Kriminalstatistiken als solches. Entscheidend sind die gesetzlichen Inhalts- und Kontextmerkmale, etwa Hassaufstachelung oder Menschenwürdeangriffe unter den jeweiligen Voraussetzungen. Auch eine richtige Zahl kann Bestandteil eines strafbaren Gesamtzusammenhangs sein; aus einem solchen Fall folgt kein allgemeines Statistikverbot. Die pauschale Aussage lässt diese Unterscheidung aus. Welchen unbenannten Fall Seibt meint, bleibt getrennt ungeklärt; Kaiser wird ihr nicht als sicherer Bezug zugeschrieben.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Nicht überprüfbar, jetzt Abgeschlossen / Irreführend / Kontext fehlt. Korrektur UG-C0002.
 
 ### Zugeordnete Quellen
 
 - [§ 130 StGB](https://www.gesetze-im-internet.de/stgb/__130.html) · Bundesrecht; Abruffassung 17.11.2026.
-  Quellenzugriff am 2026-11-17. Tatbestandsvoraussetzungen der Volksverhetzung gelesen; keine Prüfung eines unbenannten Einzelfalls. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+  Quellenzugriff am 2026-11-17. Tatbestandsvoraussetzungen der Volksverhetzung gelesen; keine Prüfung eines unbenannten Einzelfalls. [Codex] 19.11.2026: § 130 Absätze 1–8 erneut direkt gelesen; Inhalt und Kontext sind Tatbestandsmerkmale, Statistiken nicht als Gattung verboten. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Konkreten Fall, vollständige Darstellung, Kontext und Gerichtsentscheidung identifizieren.
+- Unbenannten Einzelfall nur nach eindeutiger Identifikation und Prüfung der vollständigen Entscheidung beurteilen.
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Unbenannten Einzelfall nur nach eindeutiger Identifikation und Prüfung der vollständigen Entscheidung beurteilen.
+
+- Durchgang 1 am 2026-11-19 (Codex): Alfreds Hinweis und Originalstelle erneut gelesen; Wissensdatenbank-/Abhängigkeitsprüfung zu A0228, A0225 und Alfred A0021, anschließend amtlichen Normtext selbst direkt gelesen. Gepruefte Quellen: S028. Ergebnis: Allgemeine Rechtsbehauptung unabhängig vom unbenannten Beispiel prüfbar; kein Gattungsverbot von Statistiken.
 
 ## mdo14671BPE-A0229
 
@@ -237,7 +243,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine Äußerung aus den USA falle grundsätzlich erst durch Bens deutschen Upload in den Anwendungsbereich deutschen Strafrechts.
 
-Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -256,27 +262,36 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Auslandsäußerung, Staatsangehörigkeit, Tatort und Weiterverbreitung haben jeweils eigene Anknüpfungen. Die gelesenen Normen rechtfertigen kein abschließendes Urteil über die konkrete Aufnahme.
+Ein deutscher Upload kann eigene rechtliche Anknüpfungen begründen. Die vorgelagerte Vorstellung einer allein wegen des US-Aufenthalts außerhalb deutschen Strafrechts liegenden Äußerung ist jedoch zu weit: § 5 nennt für die hier besprochenen Kennzeichen- und bestimmten Volksverhetzungsdelikte besondere Auslandsanknüpfungen, unter anderem deutsche Täterschaft oder inländische Lebensgrundlage und inländische Verbreitung/Zugänglichkeit. § 7 und § 9 enthalten weitere, jeweils eigene Voraussetzungen. Keine pauschale US-Immunität und keine automatische Strafbarkeit jeder Veröffentlichung; der konkrete Mitschnitt wird damit nicht strafrechtlich entschieden.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Nicht überprüfbar, jetzt Abgeschlossen / Irreführend / Kontext fehlt. Korrektur UG-C0002.
 
 ### Zugeordnete Quellen
 
-- [§ 7 StGB](https://www.gesetze-im-internet.de/stgb/__7.html) · Bundesrecht; Abruffassung 17.11.2026.
-  Quellenzugriff am 2026-11-17. Anwendungsregeln für Auslandstaten geöffnet; keine abschließende Subsumtion der konkreten Veröffentlichung. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+- [§ 5 StGB: Auslandstaten mit besonderem Inlandsbezug](https://www.gesetze-im-internet.de/stgb/__5.html) · Amtliche konsolidierte Fassung, Abruf 19.11.2026.
+  Quellenzugriff am 2026-11-19. Insbesondere Nummer 3 Buchstaben a/b und Nummer 5a Buchstabe c direkt gelesen. Regeln können unter ihren Voraussetzungen unabhängig von Strafbarkeit am ausländischen Tatort gelten. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
-- [§ 9 StGB](https://www.gesetze-im-internet.de/stgb/__9.html) · Bundesrecht; Abruffassung 17.11.2026.
-  Quellenzugriff am 2026-11-17. Tatortregeln geöffnet; internetbezogene Einzelanwendung nicht durch diese Norm allein geklärt. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+- [§ 7 StGB: Geltung für Auslandstaten in anderen Fällen](https://www.gesetze-im-internet.de/stgb/__7.html) · Amtliche konsolidierte Fassung, Abruf 19.11.2026.
+  Quellenzugriff am 2026-11-19. Beiderseitige Strafbarkeit und persönliche Anknüpfungspunkte gelesen; kein Ersatz für die Sonderregeln des § 5. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
+
+- [§ 9 StGB: Ort der Tat](https://www.gesetze-im-internet.de/stgb/__9.html) · Amtliche konsolidierte Fassung, Abruf 19.11.2026.
+  Quellenzugriff am 2026-11-19. Handlungs-, Erfolgs- und Teilnahmeort gelesen; bloße Abrufbarkeit nicht pauschal mit tatbestandlichem Erfolg gleichgesetzt. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Weitere Anwendungsnormen und Rechtsprechung zum konkreten Delikt prüfen; keine pauschale US-Immunität oder automatische Upload-Strafbarkeit annehmen.
+- Für einen konkreten Strafbarkeitsvorwurf Inhalt, Beteiligung, Staatsangehörigkeit, Veröffentlichung und einschlägigen Tatbestand vollständig feststellen.
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – zu unbestimmt gekennzeichnet; keine Bewertung geraten.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Für einen konkreten Strafbarkeitsvorwurf Inhalt, Beteiligung, Staatsangehörigkeit, Veröffentlichung und einschlägigen Tatbestand vollständig feststellen.
+
+- Durchgang 1 am 2026-11-19 (Codex): Originalnachfrage des Hosts von Gastbehauptungen getrennt; allgemeine Rechtsregel gegen §§ 5, 7 und 9 StGB direkt geprüft. Gepruefte Quellen: S149, S150, S151. Ergebnis: Auslandsort allein entscheidet die Strafanwendung nicht; Sonderregeln wurden im bisherigen Prüfstand übersehen.
 
 ## mdo14671BPE-A0231
 
