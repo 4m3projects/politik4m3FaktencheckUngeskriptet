@@ -22,6 +22,6 @@ Die Zeitmarken stammen aus dem automatischen deutschen YouTube-Transkript. Die S
 | 6 | [01:21:32](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=4892s) | Verbreitung islamistischer Einstellungen | 5 |
 | 7 | [01:43:50](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=6230s) | Drohungen und Polizeischutz | 6 |
 | 8 | [02:05:46](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=7546s) | Integration und Islam Konferenz | 4 |
-| 9 | [02:33:41](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=9221s) | Religion und Justiz | 5 |
+| 9 | [02:33:41](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=9221s) | Religion und Justiz | 8 |
 | 10 | [02:53:11](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=10391s) | Kopftuch, Rechtsstaat und Dubai | 5 |
 | 11 | [03:10:57](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=11457s) | Abschlussfrage | 1 |

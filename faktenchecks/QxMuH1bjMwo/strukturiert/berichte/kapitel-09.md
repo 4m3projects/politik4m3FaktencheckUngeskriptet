@@ -184,7 +184,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein österreichisches Gesetz verbiete Richterinnen das Tragen eines Kopftuchs oder anderer religiöser Symbole.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -203,13 +203,13 @@ Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – § 70 regelt die Amtskleidung der Richter und das Gesetz von 2017 die Verhüllung des Gesichts. Die damaligen parlamentarischen Unterlagen dokumentieren eine separate Debatte über Richterinnen. Für ein allgemeines gerichtliches Symbolverbot sowie für die genaue Rechtslage zur Zeit der beschriebenen Kundgebung fehlt ein belastbarer Nachweis.
+Das im Gespräch wiedergegebene Motto passt sehr deutlich zur von einer Mitorganisatorin dokumentierten Wiener Demonstration am 4. Februar 2017. Zu diesem Zeitpunkt war das Anti-Gesichtsverhüllungsgesetz erst in Vorbereitung. Der Nationalrat nahm das Paket im Mai an. Der beschlossene § 2 betrifft die Verhüllung des Gesichts an öffentlichen Orten und in öffentlichen Gebäuden. § 70 des Richterdienstrechts regelt die Amtskleidung. Das Gespräch stellt eine rechtspolitische Debatte als Protest gegen ein bereits erlassenes allgemeines Verbot religiöser Symbole für Richterinnen dar.
 
 Grundlage der Bewertung: [Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
 
 Uebernahme: Direkt aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: [Codex] 19.11.2026: Quellen zur Sachfrage ergänzt. Rechtsnorm und Datum der beschriebenen Kundgebung bleiben zu klären.
+Bewertungsuebergang: [Codex] 19.11.2026: Von Offen auf Irreführend / Kontext fehlt umgestellt, nachdem Veranstalterdokumentation und Gesetzgebungsablauf abgeglichen wurden.
 
 ### Zugeordnete Quellen
 
@@ -225,8 +225,140 @@ Bewertungsuebergang: [Codex] 19.11.2026: Quellen zur Sachfrage ergänzt. Rechtsn
 - [Österreichisches Parlament: Integrationsgesetz und Anti-Gesichtsverhüllungsgesetz, 1586 d.B.](https://www.parlament.gv.at/gegenstand/XXV/I/1586) · Verfahrensdokumentation zur Regierungsvorlage im Jahr 2017.
   Quellenzugriff am 2026-11-19. Gesetzgebungsvorgang und Bestandteile des Pakets nachgesehen. Parlamentarisches Verfahren zum 2017 eingebrachten Paket.
 
+- [Dokustelle Österreich: Report 2017](https://dokustelle.at/fileadmin/Dokuments/Reports/Report_2017/Report-2017.pdf) · Veranstaltungschronik einer Mitorganisatorin, Abschnitt Events.
+  Quellenzugriff am 2026-11-19. Eintrag zum 4. Februar 2017 mit Motto und mitorganisierenden Gruppen gelesen. Kundgebung vom 4. Februar 2017 mit dem im Gespräch wiedergegebenen Motto.
+
 ### Offene Fragen und Unsicherheiten
 
-- Kann die erwähnte Demonstration anhand von Datum, Organisatoren oder Aufzeichnung eindeutig identifiziert werden? Welche gerichtliche Bestimmung wurde ihr damals zugeordnet?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0049
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die Linke setze sich in Berlin dafür ein, die geltenden Neutralitätsvorschriften für Schulen und Justiz aufzuheben.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:49:41–02:49:56](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=10181s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Gesetzentwurf der Fraktion Die Linke von 2025 fordert die Aufhebung des Berliner Neutralitätsgesetzes. Er nennt in seiner Begründung ausdrücklich Lehrkräfte sowie Richter, Staatsanwälte und Rechtsreferendare. Das verfassungsrechtliche Neutralitätsgebot, das der Senat aus dem Grundgesetz ableitet, ist davon zu unterscheiden und würde durch diesen Gesetzentwurf nicht aufgehoben.
+
+Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Abgeordnetenhaus von Berlin: Gesetzentwurf 19/2554](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-2554.pdf) · Gesetzentwurf der Fraktion Die Linke vom Juli 2025.
+  Quellenzugriff am 2026-11-19. Aufhebungsvorschrift, Begründung und darin genannte Berufsgruppen gelesen. Gesetzentwurf und betroffene Berufsgruppen.
+
+- [Land Berlin: Religionsverfassungsrecht und staatliches Neutralitätsgebot](https://www.berlin.de/sen/kultgz/religion-und-weltanschauung/religionsverfassungsrecht/artikel.21593.php) · Rechtsgrundlagen der Berliner Senatsverwaltung für Kultur.
+  Quellenzugriff am 2026-11-19. Abschnitt zum verfassungsrechtlichen Neutralitätsgebot gelesen. Verfassungsrechtliches Neutralitätsgebot.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0050
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** In Wien organisierten muslimische Organisationen eine Demonstration unter dem vom Gast sinngemäß wiedergegebenen Motto über körperliche Selbstbestimmung.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:50:02–02:50:39](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=10202s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die beteiligte Dokustelle dokumentiert eine Wiener Kundgebung am 4. Februar 2017 mit diesem Motto und nennt als Mitorganisatoren das Netzwerk Muslimische Zivilgesellschaft sowie den Jugendrat der Islamischen Glaubensgemeinschaft. Geprüft sind Veranstaltung, Motto und Organisation. Das Alter einzelner Teilnehmender ist damit nicht belegt.
+
+Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Dokustelle Österreich: Report 2017](https://dokustelle.at/fileadmin/Dokuments/Reports/Report_2017/Report-2017.pdf) · Veranstaltungschronik einer Mitorganisatorin, Abschnitt Events.
+  Quellenzugriff am 2026-11-19. Eintrag zum 4. Februar 2017 mit Motto und mitorganisierenden Gruppen gelesen. Selbstdokumentation zu Datum, Motto und Organisation der Kundgebung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0051
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Nach den in der Diskussion angesprochenen Erbregeln erhalten Frauen nur halb so viel wie Männer.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:51:51–02:52:00](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=10311s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+In Ägypten etwa erhalten Töchter neben Söhnen nach dem dortigen Erbrecht pro Person einen halb so großen Anteil. Der Bericht knüpft die Aufteilung an das jeweilige Verwandtschaftsverhältnis. Aus dem Verhältnis zwischen Töchtern und Söhnen folgt keine allgemeine Quote für alle weiblichen und männlichen Erben oder für alle Staaten.
+
+Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Women’s Economic Empowerment in Egypt: Erbrecht](https://mcit.gov.eg/Upcont/Documents/Reports%20and%20Documents_2152026000_ar_Women%E2%80%99s_Economic_Empowerment_in_Egypt_21052026.pdf) · Auf dem ägyptischen Regierungsportal bereitgestellter Bericht.
+  Quellenzugriff am 2026-11-19. Abschnitt zu Gesetz Nr. 77 von 1943 und den Erbanteilen von Töchtern und Söhnen gelesen. Ägyptisches Erbrecht und Beispiel der Töchter und Söhne.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

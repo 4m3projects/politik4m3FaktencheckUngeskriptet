@@ -526,6 +526,38 @@
       "details": "Verfahrensdokumentation zur Regierungsvorlage im Jahr 2017.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Gesetzgebungsvorgang und Bestandteile des Pakets nachgesehen."
+    },
+    {
+      "id": "S065",
+      "title": "Dokustelle Österreich: Report 2017",
+      "url": "https://dokustelle.at/fileadmin/Dokuments/Reports/Report_2017/Report-2017.pdf",
+      "details": "Veranstaltungschronik einer Mitorganisatorin, Abschnitt Events.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Eintrag zum 4. Februar 2017 mit Motto und mitorganisierenden Gruppen gelesen."
+    },
+    {
+      "id": "S066",
+      "title": "Abgeordnetenhaus von Berlin: Gesetzentwurf 19/2554",
+      "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-2554.pdf",
+      "details": "Gesetzentwurf der Fraktion Die Linke vom Juli 2025.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Aufhebungsvorschrift, Begründung und darin genannte Berufsgruppen gelesen."
+    },
+    {
+      "id": "S067",
+      "title": "Land Berlin: Religionsverfassungsrecht und staatliches Neutralitätsgebot",
+      "url": "https://www.berlin.de/sen/kultgz/religion-und-weltanschauung/religionsverfassungsrecht/artikel.21593.php",
+      "details": "Rechtsgrundlagen der Berliner Senatsverwaltung für Kultur.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitt zum verfassungsrechtlichen Neutralitätsgebot gelesen."
+    },
+    {
+      "id": "S068",
+      "title": "Women’s Economic Empowerment in Egypt: Erbrecht",
+      "url": "https://mcit.gov.eg/Upcont/Documents/Reports%20and%20Documents_2152026000_ar_Women%E2%80%99s_Economic_Empowerment_in_Egypt_21052026.pdf",
+      "details": "Auf dem ägyptischen Regierungsportal bereitgestellter Bericht.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitt zu Gesetz Nr. 77 von 1943 und den Erbanteilen von Töchtern und Söhnen gelesen."
     }
   ],
   "speakers": [
@@ -2195,14 +2227,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein österreichisches Gesetz verbiete Richterinnen das Tragen eines Kopftuchs oder anderer religiöser Symbole.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – § 70 regelt die Amtskleidung der Richter und das Gesetz von 2017 die Verhüllung des Gesichts. Die damaligen parlamentarischen Unterlagen dokumentieren eine separate Debatte über Richterinnen. Für ein allgemeines gerichtliches Symbolverbot sowie für die genaue Rechtslage zur Zeit der beschriebenen Kundgebung fehlt ein belastbarer Nachweis.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Das im Gespräch wiedergegebene Motto passt sehr deutlich zur von einer Mitorganisatorin dokumentierten Wiener Demonstration am 4. Februar 2017. Zu diesem Zeitpunkt war das Anti-Gesichtsverhüllungsgesetz erst in Vorbereitung. Der Nationalrat nahm das Paket im Mai an. Der beschlossene § 2 betrifft die Verhüllung des Gesichts an öffentlichen Orten und in öffentlichen Gebäuden. § 70 des Richterdienstrechts regelt die Amtskleidung. Das Gespräch stellt eine rechtspolitische Debatte als Protest gegen ein bereits erlassenes allgemeines Verbot religiöser Symbole für Richterinnen dar.",
       "assessmentBasis": "[Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "[Codex] 19.11.2026: Quellen zur Sachfrage ergänzt. Rechtsnorm und Datum der beschriebenen Kundgebung bleiben zu klären."
+        "assessmentChange": "[Codex] 19.11.2026: Von Offen auf Irreführend / Kontext fehlt umgestellt, nachdem Veranstalterdokumentation und Gesetzgebungsablauf abgeglichen wurden."
       },
       "sourceRefs": [
         {
@@ -2220,11 +2252,13 @@
         {
           "sourceId": "S064",
           "note": "Parlamentarisches Verfahren zum 2017 eingebrachten Paket."
+        },
+        {
+          "sourceId": "S065",
+          "note": "Kundgebung vom 4. Februar 2017 mit dem im Gespräch wiedergegebenen Motto."
         }
       ],
-      "openQuestions": [
-        "Kann die erwähnte Demonstration anhand von Datum, Organisatoren oder Aufzeichnung eindeutig identifiziert werden? Welche gerichtliche Bestimmung wurde ihr damals zugeordnet?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "QxMuH1bjMwo-O0036",
@@ -2837,6 +2871,142 @@
           "id": "QxMuH1bjMwo-O0048",
           "startSeconds": 6438,
           "endSeconds": 6448,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0049",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Linke setze sich in Berlin dafür ein, die geltenden Neutralitätsvorschriften für Schulen und Justiz aufzuheben.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der Gesetzentwurf der Fraktion Die Linke von 2025 fordert die Aufhebung des Berliner Neutralitätsgesetzes. Er nennt in seiner Begründung ausdrücklich Lehrkräfte sowie Richter, Staatsanwälte und Rechtsreferendare. Das verfassungsrechtliche Neutralitätsgebot, das der Senat aus dem Grundgesetz ableitet, ist davon zu unterscheiden und würde durch diesen Gesetzentwurf nicht aufgehoben.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S066",
+          "note": "Gesetzentwurf und betroffene Berufsgruppen."
+        },
+        {
+          "sourceId": "S067",
+          "note": "Verfassungsrechtliches Neutralitätsgebot."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0049",
+          "startSeconds": 10181,
+          "endSeconds": 10196,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0050",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In Wien organisierten muslimische Organisationen eine Demonstration unter dem vom Gast sinngemäß wiedergegebenen Motto über körperliche Selbstbestimmung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die beteiligte Dokustelle dokumentiert eine Wiener Kundgebung am 4. Februar 2017 mit diesem Motto und nennt als Mitorganisatoren das Netzwerk Muslimische Zivilgesellschaft sowie den Jugendrat der Islamischen Glaubensgemeinschaft. Geprüft sind Veranstaltung, Motto und Organisation. Das Alter einzelner Teilnehmender ist damit nicht belegt.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S065",
+          "note": "Selbstdokumentation zu Datum, Motto und Organisation der Kundgebung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0050",
+          "startSeconds": 10202,
+          "endSeconds": 10239,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0051",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach den in der Diskussion angesprochenen Erbregeln erhalten Frauen nur halb so viel wie Männer.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "In Ägypten etwa erhalten Töchter neben Söhnen nach dem dortigen Erbrecht pro Person einen halb so großen Anteil. Der Bericht knüpft die Aufteilung an das jeweilige Verwandtschaftsverhältnis. Aus dem Verhältnis zwischen Töchtern und Söhnen folgt keine allgemeine Quote für alle weiblichen und männlichen Erben oder für alle Staaten.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S068",
+          "note": "Ägyptisches Erbrecht und Beispiel der Töchter und Söhne."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0051",
+          "startSeconds": 10311,
+          "endSeconds": 10320,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP02",
