@@ -2,46 +2,46 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Gezielte Stichprobe aus dem gut dreistündigen Interview. Weitere Aussagen und der Hör- und Sichtabgleich stehen aus. Persönliche Quoten und eine Gesamtampel lassen sich aus diesem Arbeitsstand nicht ableiten.
+**Abdeckung: Teilbestand.** Gezielter Teilbestand aus allen elf Originalkapiteln. Alle Kapitel sind im Prüfbericht vertreten. Die vollständige Sachprüfung der gut dreistündigen Folge und der durchgängige Hör- und Sichtabgleich stehen aus.
 
 Stand: 2026-11-19 · Video: QxMuH1bjMwo
 
-[Codex] Erster Prüfabschnitt. Deutsches automatisches YouTube-Transkript im Browser und angegebene Sachquellen gelesen. Die Sprecherzuordnung wurde aus dem Gesprächskontext abgeleitet.
+[Codex] Offizielles Kapitelverzeichnis und ausgewählte zeitmarkierte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Die Sachquellen stehen bei den jeweiligen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 8
-- Abgeschlossen: 7
-- Offen (noch nicht geprueft): 1
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 18
+- Abgeschlossen: 18
+- Offen (noch nicht geprueft): 0
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
-- Erfasste Behauptungsvorkommen: 8
+- Erfasste Behauptungsvorkommen: 18
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 0
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
 - Nur referenzierte Aussagen ohne eigene Behauptung: 0
-- Meinungen: 0; Prognosen: 1
+- Meinungen: 1; Prognosen: 1
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 6 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 16 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 3 | 50.0 % |
-| Teilweise belegt | 2 | 33.3 % |
+| Belegt | 9 | 56.2 % |
+| Teilweise belegt | 3 | 18.8 % |
 | Irreführend / Kontext fehlt | 0 | 0.0 % |
-| Widerlegt | 1 | 16.7 % |
-| Nicht ausreichend belegbar | 0 | 0.0 % |
-| Meinung / Prognose | 1 | nicht anwendbar |
+| Widerlegt | 3 | 18.8 % |
+| Nicht ausreichend belegbar | 1 | 6.2 % |
+| Meinung / Prognose | 2 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
@@ -52,12 +52,12 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 7. Ohne verlaessliche Personenzuordnung: 7.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 16. Ohne verlaessliche Personenzuordnung: 16.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 7; mit unsicherem eigenem Aussagebezug: 7. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 16; mit unsicherem eigenem Aussagebezug: 16. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 8, Aussagebezug 8 Vorkommen.
+- Plausibel: Sprecherzuordnung 18, Aussagebezug 18 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
@@ -70,9 +70,15 @@ Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswa
 ## Kapitelberichte
 
 - [Kapitel 1](berichte/kapitel-01.md)
+- [Kapitel 2](berichte/kapitel-02.md)
 - [Kapitel 3](berichte/kapitel-03.md)
+- [Kapitel 4](berichte/kapitel-04.md)
 - [Kapitel 5](berichte/kapitel-05.md)
+- [Kapitel 6](berichte/kapitel-06.md)
 - [Kapitel 7](berichte/kapitel-07.md)
+- [Kapitel 8](berichte/kapitel-08.md)
 - [Kapitel 9](berichte/kapitel-09.md)
+- [Kapitel 10](berichte/kapitel-10.md)
+- [Kapitel 11](berichte/kapitel-11.md)
 - [Vorher/Nachher und vollstaendige eigene Alttexte](migration.md)
 - [Zentrale JSON-Daten](aussagen.json) · [Maschinenlesbare Statistik](statistik.json)

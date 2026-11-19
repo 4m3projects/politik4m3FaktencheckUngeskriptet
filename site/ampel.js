@@ -61,17 +61,22 @@
     const unchecked = Number(stats?.openFacts) || 0;
     const unverifiable = Number(stats?.unverifiableFacts) || 0;
     const facts = (Number(stats?.completedFacts) || 0) + unchecked + inProgress + unverifiable;
+    const hours = Number(durationSeconds) > 0 ? Number(durationSeconds) / 3600 : null;
     const base = { decided, errors, facts, unchecked, unverifiable, counts: n, errorShare: decided ? errors / decided : null, rules: RULES };
     const out = (key, reason) => ({ ...base, key, ...LEVELS[key], reason });
 
-    if (video?.workStatus === 'In Bearbeitung') return out('vorlaeufig', 'Die Analyse dieses Videos ist als „In Bearbeitung“ gekennzeichnet.');
+    if (video?.workStatus === 'In Bearbeitung') {
+      const progress = stats ? ` ${decided} von ${facts} erfassten Tatsachenbehauptungen entschieden.` : '';
+      const minimum = hours && facts / hours < RULES.minPerHour
+        ? ` Bei dieser Laufzeit müssen mindestens ${Math.ceil(hours * RULES.minPerHour)} Tatsachenbehauptungen erfasst sein.` : '';
+      return out('vorlaeufig', 'Die Analyse läuft noch.' + progress + minimum);
+    }
     if (!stats) return out('nicht_bewertbar', 'Für dieses Video liegen keine strukturierten Prüfdaten vor.');
     const tooFew = decided < RULES.minDecided || !facts || decided / facts < RULES.minShare;
     if (tooFew) {
       if (inProgress + unchecked > 0) return out('vorlaeufig', `Erst ${decided} Tatsachenbehauptungen entschieden, ${inProgress + unchecked} noch nicht fertig geprüft.`);
       return out('nicht_bewertbar', `Nur ${decided} von ${facts} erfassten Tatsachenbehauptungen sind entschieden; nötig sind mindestens ${RULES.minDecided} und mindestens ${Math.round(RULES.minShare * 100)} %.`);
     }
-    const hours = Number(durationSeconds) > 0 ? Number(durationSeconds) / 3600 : null;
     if (hours && facts / hours < RULES.minPerHour) {
       return out('nicht_bewertbar', `Nur ${facts} Tatsachenbehauptungen bei ${hours.toLocaleString('de-DE', { maximumFractionDigits: 1 })} Stunden Laufzeit erfasst – eine kleine Auswahl, kein Querschnitt des Videos; nötig sind mindestens ${RULES.minPerHour} je Stunde.`);
     }

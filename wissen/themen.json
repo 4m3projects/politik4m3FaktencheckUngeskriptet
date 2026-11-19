@@ -637,6 +637,40 @@
           "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
         }
       ]
+    },
+    {
+      "id": "religion",
+      "name": "Religion",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Aussagen zu Religion, religiösen Institutionen und ihrem Verhältnis zu Staat und Gesellschaft.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Codex",
+          "change": "Aus den konkreten Aussagen der Nachprüfung zu Hamed Abdel-Samad angelegt."
+        }
+      ]
+    },
+    {
+      "id": "migration",
+      "name": "Migration",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Aussagen zu Zuwanderung, Bevölkerung und Staatsangehörigkeit.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Codex",
+          "change": "Aus den konkreten Aussagen der Nachprüfung zu Hamed Abdel-Samad angelegt."
+        }
+      ]
     }
   ]
 }

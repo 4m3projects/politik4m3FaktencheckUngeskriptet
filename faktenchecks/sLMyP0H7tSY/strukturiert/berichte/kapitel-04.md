@@ -1,8 +1,8 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamtes verfügbares Untertitelmaterial gelesen (Segmentbeginn 00:00 bis 16:25). Keine direkte Audio-/Videosichtung, keine redaktionelle Zweitprüfung. Ausgewählte Aussagen, keine vollständige Erfassung aller Aussagen des Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Unabhängige Teilprüfung der Reaktion. Fünfzehn Sachbewertungen sind nach Abgleich mit dem Original und den Sachquellen abgeschlossen. Weitere erfasste Aussagen, der durchgängige Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus.
 
-Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung.
+Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft.
 
 ## sLMyP0H7tSY-A0016
 

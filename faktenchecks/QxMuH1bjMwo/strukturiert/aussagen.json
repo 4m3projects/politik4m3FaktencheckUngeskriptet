@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Erster Prüfabschnitt. Deutsches automatisches YouTube-Transkript im Browser und angegebene Sachquellen gelesen. Die Sprecherzuordnung wurde aus dem Gesprächskontext abgeleitet.",
-    "coverageNote": "Gezielte Stichprobe aus dem gut dreistündigen Interview. Weitere Aussagen und der Hör- und Sichtabgleich stehen aus. Persönliche Quoten und eine Gesamtampel lassen sich aus diesem Arbeitsstand nicht ableiten."
+    "researchNote": "[Codex] Offizielles Kapitelverzeichnis und ausgewählte zeitmarkierte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Die Sachquellen stehen bei den jeweiligen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.",
+    "coverageNote": "Gezielter Teilbestand aus allen elf Originalkapiteln. Alle Kapitel sind im Prüfbericht vertreten. Die vollständige Sachprüfung der gut dreistündigen Folge und der durchgängige Hör- und Sichtabgleich stehen aus."
   },
   "legacyPoints": [],
   "sources": [
@@ -94,6 +94,118 @@
       "details": "Abschnitt VI zum legalistischen Spektrum in Deutschland.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Beschreibung der Ziele einzelner Organisationen und der Einschätzung zur Deutschen Muslimischen Gemeinschaft gelesen."
+    },
+    {
+      "id": "S011",
+      "title": "OECD: SIGI 2023, Länderprofil Ägypten",
+      "url": "https://webfs.oecd.org/devsigi/SIGI%202023%20Country%20Profiles/MENA/country_profile_EGY_Egypt.pdf",
+      "details": "Abschnitt zur Beweiswürdigung, Rechtsstand 31.08.2022.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tabelle und begleitenden Text gelesen. Für Zivil- und Strafgerichte nennt die Tabelle gleiches Gewicht. Für Familiengerichte unterscheiden sich Tabelle zum formellen Recht und Text zur Anwendung religiöser Regeln."
+    },
+    {
+      "id": "S012",
+      "title": "Library of Congress: Iran, A Country Study",
+      "url": "https://tile.loc.gov/storage-services/master/frd/frdcstdy/ir/irancountrystudy00curt_0/irancountrystudy00curt_0.pdf",
+      "details": "Abschnitt The New Constitution.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Verlauf im Frühjahr 1979 und Ausrufung der Islamischen Republik gelesen."
+    },
+    {
+      "id": "S013",
+      "title": "ARD Das Erste: Programmankündigung zu hart aber fair",
+      "url": "https://www.presseportal.de/pm/6694/3131681",
+      "details": "Ankündigung vom 25.09.2015 zur Sendung am 28.09.2015.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Original-Pressemitteilung der ARD in der ausgelesenen Suchfassung mit Titel, Datum und Gästeliste gelesen."
+    },
+    {
+      "id": "S014",
+      "title": "Haus der Geschichte: Deutschland schafft sich ab",
+      "url": "https://www.hdg.de/lemo/bestand/objekt/druckgut-sarrazin-cover.html",
+      "details": "Museumsdatensatz zur 2010 erschienenen Ausgabe.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Objektbeschriftung mit Autor, Verlag und Jahr gelesen."
+    },
+    {
+      "id": "S015",
+      "title": "BAMF: Muslimisches Leben in Deutschland 2020",
+      "url": "https://www.bamf.de/SharedDocs/Anlagen/DE/Forschung/Forschungsberichte/fb38-muslimisches-leben.pdf?__blob=publicationFile&v=12",
+      "details": "Forschungsbericht 38, Kapitel 7.1.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Erhebungsrahmen und Hochrechnung gelesen. Der Bevölkerungsbezug liefert keine Prävalenz des Islamismus."
+    },
+    {
+      "id": "S016",
+      "title": "Bundesamt für Verfassungsschutz: Verfassungsschutzbericht 2024",
+      "url": "https://www.verfassungsschutz.de/SharedDocs/publikationen/DE/verfassungsschutzberichte/2025-06-10-verfassungsschutzbericht-2024.pdf?__blob=publicationFile&v=4",
+      "details": "Abschnitt Islamismus, Personenpotenzial.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Die Schätzung von 28.280 zugeordneten Personen für 2024 und ihre Bezugsgruppen gelesen."
+    },
+    {
+      "id": "S017",
+      "title": "Ruud Koopmans: Religious Fundamentalism and Out-Group Hostility",
+      "url": "https://bibliothek.wzb.eu/pdf/2014/vi14-101.pdf",
+      "details": "WZB Discussion Paper SP VI 2014-101, Stichprobe und Abb. 1.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Operationalisierung über drei Aussagen und Befragungsrahmen aus sechs Ländern gelesen."
+    },
+    {
+      "id": "S018",
+      "title": "BAMF: Muslimisches Leben in Deutschland",
+      "url": "https://www.bamf.de/SharedDocs/Anlagen/DE/Forschung/Forschungsberichte/fb06-muslimisches-leben.pdf?__blob=publicationFile&v=12",
+      "details": "Forschungsbericht 6, Einleitung zur früheren Untersuchung von Brettfeld und Wetzels.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Passage zu begrenzter Übertragbarkeit und zur Unterscheidung zwischen Fundamentalismus und politischem Islamismus gelesen."
+    },
+    {
+      "id": "S019",
+      "title": "Deutsche Islam Konferenz: Berufe und Ausbildungsgänge religiösen Personals",
+      "url": "https://www.deutsche-islam-konferenz.de/SharedDocs/Anlagen/DE/Publikationen/dik-handreichung-2024.pdf?__blob=publicationFile&v=7",
+      "details": "Handreichung, S. 24.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Trennung von Hochschulstudium und praktischer Ausbildung sowie Münster, Tübingen und Islamkolleg gelesen."
+    },
+    {
+      "id": "S020",
+      "title": "UN-Untersuchungsmission: Frauen und Mädchen bei den Protesten im Iran",
+      "url": "https://www.ohchr.org/sites/default/files/documents/hrbodies/hrcouncil/ffmi-iran/FFM-Iran-Update-13-September-2024.pdf",
+      "details": "Bericht vom 13.09.2024.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Einleitung zu den landesweiten Protesten gegen Diskriminierung sowie Abschnitt zu Frauenrechtsaktivistinnen gelesen."
+    },
+    {
+      "id": "S021",
+      "title": "Digital Dubai: Bevölkerung nach Staatsangehörigkeit 2021–2023",
+      "url": "https://www.dsc.gov.ae/Report/DSC_SYB_2023_01_03.pdf",
+      "details": "Amtliche Tabelle, Stand 2023.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Für 2023 wurden 292.200 emiratische und 3.362.800 nicht-emiratische Einwohnerinnen und Einwohner ausgewiesen."
+    },
+    {
+      "id": "S022",
+      "title": "Jumeirah: The Gift of Togetherness Across Cultures",
+      "url": "https://mediahub.jumeirah.com/the-gift-of-togetherness-across-cultures/?lang=eng",
+      "details": "Veranstalterinformation vom Dezember 2025.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitt zum Festmarkt in Madinat Jumeirah gelesen."
+    },
+    {
+      "id": "S023",
+      "title": "Jumeirah: Madinat Jumeirah Festive Market",
+      "url": "https://www.jumeirah.com/en/stay/dubai/madinat-jumeirah/experiences/madinat-jumeirah-festive-market",
+      "details": "Veranstalterankündigung für Dezember 2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Programm mit Weihnachtsbaum und Verkaufsständen gelesen. Die Ausgabe 2026 liegt nach der Videoveröffentlichung."
+    },
+    {
+      "id": "S024",
+      "title": "Mitschnitt: hart aber fair vom 28.09.2015",
+      "url": "https://www.youtube.com/watch?v=KxBVTkAe-aI&t=492s",
+      "details": "Aufzeichnung beim YouTube-Kanal von Hamed Abdel-Samad, etwa 08:12–08:59.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Automatische deutsche Untertitel der Wortmeldung und des Anschlusses an Sylvia Löhrmann im Player gelesen."
     }
   ],
   "speakers": [
@@ -433,19 +545,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In der islamischen Welt müsse eine Frau für eine Zeugenaussage vor Gericht eine zweite Frau zur Bestätigung hinzuziehen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – für die pauschale Aussage fehlt der Vergleich nach Staaten und Verfahrensarten.",
-      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die pauschale Regel gilt bereits in Ägypten nicht für alle Verfahren. Die OECD weist für Zivil- und Strafgerichte gleiches Gewicht für Aussagen von Männern und Frauen aus. Zugleich beschreibt die OECD eine abweichende religiöse Beweisregel im Familienrecht. Eine familienrechtliche Sonderregel trägt kein allgemeines Urteil über Gerichte in muslimisch geprägten Staaten.",
+      "assessmentBasis": "[Codex] Originaltranskript bei 02:51:27–02:51:44 erneut im Player im Gesprächskontext gelesen und mit der OECD-Rechtsübersicht verglichen. Die Zuordnung zum Gast ist plausibel.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Nachrecherche 2026-11-19 (Codex): vorher Offen, weil die Rechtslage nach Gerichtsbarkeit nicht verglichen war. Jetzt Widerlegt für die pauschale Fassung, weil selbst in Ägypten Zivil- und Strafgerichte ein konkretes Gegenbeispiel sind."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Originalton abgleichen. Anschließend staatliche Beweis- und Verfahrensregeln nach Land, Gerichtsbarkeit und Verfahren vergleichen."
+      "sourceRefs": [
+        {
+          "sourceId": "S011",
+          "note": "Vergleich formeller Regeln für Zivil-, Straf- und Familiengerichte mit dem Hinweis auf abweichende religiöse Regeln."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "QxMuH1bjMwo-O0008",
@@ -461,6 +576,508 @@
           "roleStatus": "Plausibel",
           "roleBasis": "Aussagebezug im Textkontext.",
           "note": "Abdel-Samad unterscheidet hier zwischen der Zeugenaussage von Frauen und Männern.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken nach Zeugenaussage und Beweisgewicht durchsucht; danach OECD-Länderprofil mit getrennten Aussagen zu Gerichtsarten gelesen.",
+            "sourceIds": [
+              "S011"
+            ],
+            "result": "Pauschale Regel durch den Befund zu ägyptischen Zivil- und Strafgerichten widerlegt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0009",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Islamische Revolution im Iran führte 1979 unter Ajatollah Chomeini zur Islamischen Republik.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Länderstudie der Library of Congress dokumentiert, dass Chomeini nach dem Referendum vom März 1979 am 1. April die Islamische Republik ausrief. Die vergleichende Bewertung moderner und vormoderner Machtformen geht über diesen historischen Sachkern hinaus.",
+      "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Chronologie der Revolution und Ausrufung der Republik."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0009",
+          "startSeconds": 379,
+          "endSeconds": 393,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussage des Gastes im Textkontext.",
+          "note": "Der Gast führt den Iran als historisches Beispiel für die politische Rolle der Religion an.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0010",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Abdel-Samad war 2015 bei hart aber fair zu Gast. Zur Runde zählte eine Grünen-Politikerin.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die ARD kündigte für den 28. September 2015 Abdel-Samad und die grüne NRW-Ministerin Sylvia Löhrmann an. Die Quelle bestätigt die Besetzung. Welche Warnung er in der Sendung in welchem Wortlaut aussprach, ist ein eigener Prüfpunkt.",
+      "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Datum, Sendung und Namen der angekündigten Gäste."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0010",
+          "startSeconds": 2539,
+          "endSeconds": 2561,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussage des Gastes im Textkontext.",
+          "note": "Der Gast schildert eine frühere Talkshow in der Diskussion über die Flüchtlingspolitik.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0011",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Abdel-Samad habe drei Monate vor der Kölner Silvesternacht in hart aber fair sexuelle Übergriffe im Zusammenhang mit der Migration thematisiert.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "In der Aufzeichnung spricht Abdel-Samad im Kontext der Flüchtlingspolitik von Beschwerden über Angriffe und unerwünschte Berührungen in Flüchtlingsunterkünften. Die Sendung war am 28. September und damit ungefähr drei Monate vor der Kölner Silvesternacht. Damit ist belegt, dass er das Thema damals angesprochen hat. Aus dem Mitschnitt ergibt sich keine konkrete Vorhersage der späteren Kölner Ereignisse.",
+      "assessmentBasis": "[Codex] Rückblick im Interview und die zeitmarkierte Wortmeldung der damaligen Aufzeichnung im Originaltranskript abgeglichen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Nachrecherche 2026-11-19 (Codex): von Offen zu Belegt. Die damalige Aufzeichnung enthält die einschlägige Wortmeldung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Belegt Termin und Besetzung, enthält keinen Mitschnitt der Äußerung."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Belegt den Inhalt der Wortmeldung. Die berichteten Vorfälle wären separat zu prüfen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0011",
+          "startSeconds": 2578,
+          "endSeconds": 2607,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussage des Gastes im Textkontext.",
+          "note": "Der Gast gibt den Inhalt seiner eigenen damaligen Wortmeldung wieder.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0012",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Gast schätzt den Anteil islamistisch eingestellter Musliminnen und Muslime in Deutschland auf etwa die Hälfte.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Der Gast nennt mehrere Kriterien, legt aber weder eine einheitliche Messregel noch eine Quelle für die Hälfte vor. Die amtliche Zahl beobachteter Personen und die Bevölkerungsstudie erfassen unterschiedliche Sachverhalte. Die Befragungsstudien zu Fundamentalismus messen andere Kriterien und decken die deutsche muslimische Gesamtbevölkerung zum Gesprächszeitpunkt nicht ab.",
+      "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S015",
+          "note": "Beschreibt Bevölkerung und Stichprobe, misst den behaupteten Anteil nicht."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Schätzt das bekannte Personenpotenzial extremistischer Bestrebungen, keine Befragungsquote der Bevölkerung."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Untersuchung unter anderem zu Fundamentalismus, mit älteren Daten und einer anders definierten Stichprobe."
+        },
+        {
+          "sourceId": "S018",
+          "note": "Diskutiert den begrifflichen Unterschied und die Repräsentativitätsgrenzen."
+        }
+      ],
+      "openQuestions": [
+        "Eine aktuelle, repräsentative Befragung der Zielbevölkerung mit offengelegter Definition und passenden Fragen suchen."
+      ],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0012",
+          "startSeconds": 4907,
+          "endSeconds": 4978,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussage des Gastes im Textkontext.",
+          "note": "Die erste Schätzung wird im weiteren Gespräch durch Beispiele und einen eigenen Kriterienmix erläutert.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken nach Islamismus und Bevölkerungsanteil durchsucht. Anschließend amtliches Personenpotenzial und Bevölkerungsstichprobe mit der Schätzung verglichen.",
+            "sourceIds": [
+              "S015",
+              "S016"
+            ],
+            "result": "Amtliche Schätzungen erfassen unterschiedliche Gegenstände und erlauben keine vergleichbare Quote."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Mit alternativen Begriffen nach empirischen Befragungen zu politischem Islamismus, Fundamentalismus und Vorrang religiöser Regeln gesucht.",
+            "sourceIds": [
+              "S017",
+              "S018"
+            ],
+            "result": "Methodisch verwandte Befragungen mit abweichenden Definitionen, älteren Daten und begrenztem Bevölkerungsbezug gefunden."
+          }
+        ],
+        "missingInformation": "Eine repräsentative Messung der klar definierten Einstellungen in der deutschen muslimischen Bevölkerung zum Gesprächszeitpunkt.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0013",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das in der Debatte erwähnte Buch von Thilo Sarrazin erschien 2010.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Haus der Geschichte weist für die Ausgabe von Deutschland schafft sich ab das Erscheinungsjahr 2010 aus. Die behauptete Wirkung des Buches auf die politische Debatte wird damit nicht bewertet.",
+      "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S014",
+          "note": "Museumsnachweis der Ausgabe aus dem Jahr 2010."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0013",
+          "startSeconds": 5973,
+          "endSeconds": 5981,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussage des Gastes im Textkontext.",
+          "note": "Der Gast verortet eine Veränderung der öffentlichen Debatte zeitlich anhand eines Buches.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0014",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Zu den frühen Standorten islamisch-theologischer Studien gehörten Münster und Tübingen. Der Gast bringt das mit der Ausbildung von Imamen und Religionslehrkräften in Verbindung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Beide Universitäten bieten islamisch-theologische Qualifikation und berufsbezogene Studien an. Die praktische Ausbildung für das Imamamt ist nach der Handreichung der Deutschen Islam Konferenz keine Aufgabe dieser Hochschulstandorte. Für die deutschsprachige praktische Ausbildung nennt die Handreichung unter anderem das eigenständige Islamkolleg Deutschland.",
+      "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S019",
+          "note": "Unterscheidet akademische Studien von praktischer Ausbildung und nennt Angebote beider Standorte."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0014",
+          "startSeconds": 8451,
+          "endSeconds": 8475,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussage des Gastes im Textkontext.",
+          "note": "Der Gast beschreibt mehrere Ausbildungswege in einem zusammenhängenden Beispiel aus der Islam Konferenz.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0015",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Gast behauptet, im Iran seien Frauen nicht gegen ihre Unterdrückung auf die Straße gegangen.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die UN-Untersuchungsmission dokumentiert landesweite Proteste ab September 2022 gegen Diskriminierung und für Gleichberechtigung sowie die Beteiligung von Frauen und Mädchen. Damit ist für den ausdrücklich genannten Iran ein Gegenbeispiel dokumentiert. Die Aussage über die konkrete Wiener Demonstration wurde davon getrennt.",
+      "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S020",
+          "note": "Dokumentiert Anlass, Ziele und Beteiligte der Proteste im Iran."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0015",
+          "startSeconds": 10331,
+          "endSeconds": 10347,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussage des Gastes im Textkontext.",
+          "note": "Der Gast kontrastiert die Wiener Demonstration mit angeblich unterbliebenem Protest in verschiedenen Ländern.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0016",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Rund neun von zehn Menschen in Dubai besitzen keine Staatsangehörigkeit der Vereinigten Arabischen Emirate.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Für das Emirat Dubai nennt die amtliche Tabelle Ende 2023 3.362.800 nicht-emiratische Einwohnerinnen und Einwohner unter 3.655.000 Einwohnern. Das sind rund 92 Prozent. Die Tabelle zählt Staatsangehörigkeit und belegt weder den Geburtsort noch die Religion einzelner Gruppen.",
+      "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S021",
+          "note": "Bevölkerung des Emirats nach Staatsangehörigkeit."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0016",
+          "startSeconds": 11109,
+          "endSeconds": 11126,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussage des Gastes im Textkontext.",
+          "note": "Im Vergleich mit Deutschland wechselt die Passage zwischen der Stadt, dem Emirat und dem Begriff Migration. Bewertet ist der ausdrücklich benannte Anteil ohne emiratische Staatsangehörigkeit.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0017",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In Dubai gibt es Weihnachtsmärkte.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Jumeirah beschrieb im Dezember 2025 seinen Festmarkt in Madinat Jumeirah. Für Dezember 2026 kündigt der Veranstalter den Markt mit Weihnachtsbaum und Verkaufsständen erneut an. Die Aussage über Sicherheitsvorkehrungen an einzelnen Märkten folgt daraus nicht.",
+      "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S022",
+          "note": "Zeitlich vor dem Gespräch dokumentierter Markt des Veranstalters."
+        },
+        {
+          "sourceId": "S023",
+          "note": "Bestätigt Ort und Charakter anhand der späteren Ausgabe."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0017",
+          "startSeconds": 11132,
+          "endSeconds": 11140,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussage des Gastes im Textkontext.",
+          "note": "Der Gast nennt die Märkte als Beispiel im Vergleich zwischen Dubai und Deutschland.",
+          "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0018",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 11,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Abdel-Samad würde sich in der hypothetischen Situation eher Hilfen zum eigenen Denken als Anweisungen eines Führers wünschen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Antwort auf das Gedankenexperiment drückt eine persönliche Präferenz aus.",
+      "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0018",
+          "startSeconds": 11518,
+          "endSeconds": 11534,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Aussage des Gastes im Textkontext.",
+          "note": "Antwort auf die Abschlussfrage des Moderators.",
           "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
           "timeHistory": []
         }

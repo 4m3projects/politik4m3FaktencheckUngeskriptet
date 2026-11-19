@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamtes verfügbares Untertitelmaterial gelesen (Segmentbeginn 00:00 bis 16:25). Keine direkte Audio-/Videosichtung, keine redaktionelle Zweitprüfung. Ausgewählte Aussagen, keine vollständige Erfassung aller Aussagen des Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Unabhängige Teilprüfung der Reaktion. Fünfzehn Sachbewertungen sind nach Abgleich mit dem Original und den Sachquellen abgeschlossen. Weitere erfasste Aussagen, der durchgängige Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus.
 
-Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung.
+Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft.
 
 ## sLMyP0H7tSY-A0011
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die historischen Zinsausgaben werden mit knapp vier Milliarden 2021 und rund 39 Milliarden 2023 angegeben.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,25 +29,22 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. Zahlen passen gerundet zur saldierten Reihe S007 Tabelle 7. Abweichende Kernhaushaltsreihe S008 ist eine andere Abgrenzung, kein automatischer Gegenbeweis; siehe R02.
+Der Kreditaufnahmebericht weist saldierte Zinsausgaben von 3,8 Milliarden Euro für 2021 und 39,2 Milliarden Euro für 2023 aus. Beide Werte gehören derselben haushalterischen Reihe an.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0011 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. Zahlen passen gerundet zur saldierten Reihe S007 Tabelle 7. Abweichende Kernhaushaltsreihe S008 ist eine andere Abgrenzung, kein automatischer Gegenbeweis; siehe R02.
 
 ### Zugeordnete Quellen
 
 - [BMF: Kreditaufnahmebericht des Bundes 2025](https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Finanzagentur/pdf/kreditaufnahmeberichte/Kreditaufnahmebericht_2025.pdf) · Text relevanter Abschnitte geprüft: Tabelle 7 (Druckseite 27), Tabelle 17 (55), Anhang 4.6 (83). Keine vollständige Prüfung der 96 PDF-Seiten; keine visuelle Tabellenkontrolle als Nachweis verwendet.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
-
-- [Wissenschaftliche Dienste: WD 4-3000-009/26, 19.02.2026](https://www.bundestag.de/resource/blob/1157946/WD-4-009-26.pdf) · Text Tabelle 6 und Abgrenzung auf Druckseite 20 sowie Planung auf Seite 22 geprüft; amtliche Zusammenstellung, keine Primärbuchführung.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## sLMyP0H7tSY-A0012
 
@@ -97,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Agio-/Disagiobuchungen erklären einen wesentlichen Teil des ausgewiesenen Zinssprungs; ohne diese etwa 15 bzw. 22 Milliarden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -116,22 +113,22 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. Eigene Rechnung aus S007 Tabelle 7: 3,8−(−11,1)=14,9; 39,2−17,6=21,6. Dies isoliert die genannten Buchungen, liefert keine vollständige periodengerechte historische Zinsreihe und keine alleinige Kausalerklärung.
+Nach Tabelle 7 senkten Agien den Buchungswert 2021 um 11,1 Milliarden Euro. Disagien erhöhten ihn 2023 um 17,6 Milliarden. Ohne diese Anteile bleiben rechnerisch 14,9 beziehungsweise 21,6 Milliarden.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0013 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. Eigene Rechnung aus S007 Tabelle 7: 3,8−(−11,1)=14,9; 39,2−17,6=21,6. Dies isoliert die genannten Buchungen, liefert keine vollständige periodengerechte historische Zinsreihe und keine alleinige Kausalerklärung.
 
 ### Zugeordnete Quellen
 
 - [BMF: Kreditaufnahmebericht des Bundes 2025](https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Finanzagentur/pdf/kreditaufnahmeberichte/Kreditaufnahmebericht_2025.pdf) · Text relevanter Abschnitte geprüft: Tabelle 7 (Druckseite 27), Tabelle 17 (55), Anhang 4.6 (83). Keine vollständige Prüfung der 96 PDF-Seiten; keine visuelle Tabellenkontrolle als Nachweis verwendet.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## sLMyP0H7tSY-A0014
 
@@ -139,7 +136,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Regierungsplanung sieht etwa 68 Milliarden Zinsen für 2029 und über 80 Milliarden für 2030 vor.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -158,22 +155,22 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. S009 enthält die entsprechenden Planwerte. Ausgabenpläne sind keine realisierten Zahlen.
+Der Finanzplan nennt 68,1 Milliarden Euro für 2029 und 80,7 Milliarden für 2030. Die Zahlen sind Planwerte im Kernhaushalt.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0014 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S009 enthält die entsprechenden Planwerte. Ausgabenpläne sind keine realisierten Zahlen.
 
 ### Zugeordnete Quellen
 
 - [Bundestag: Finanzplan 2026–2030, 14.08.2026](https://www.bundestag.de/presse/hib/kurzmeldungen-1205072) · Absatz zu Zinsplanwerten und deren Einbeziehung von Sondervermögen; hib-Zusammenfassung der Regierungsvorlage, vollständige Vorlage nicht geprüft.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## sLMyP0H7tSY-A0015
 
@@ -181,7 +178,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Lünings 80-Milliarden-Prognose liege nahe an der Regierungsplanung.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -200,24 +197,27 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: teilweise belegt. Die Größenordnung passt zu 2030, aber der Original-Vergleichsstand erfasst als Bezug das Ende der laufenden Koalition. Ein Jahresversatz darf nicht stillschweigend als Übereinstimmung gelten; siehe R03.
+Lüning projiziert rund 80 Milliarden Euro am Ende der laufenden Koalition. Die Finanzplanung erreicht diesen Betrag mit 80,7 Milliarden für 2030. Im regulären Wahljahr 2029 sind 68,1 Milliarden vorgesehen. Die ähnliche Größenordnung gilt für ein späteres Bezugsjahr und Planwerte statt tatsächlicher Ausgaben.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0015 (Art: schlussfolgerung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. Die Größenordnung passt zu 2030, aber der Original-Vergleichsstand erfasst als Bezug das Ende der laufenden Koalition. Ein Jahresversatz darf nicht stillschweigend als Übereinstimmung gelten; siehe R03.
 
 ### Zugeordnete Quellen
 
 - [Bundestag: Finanzplan 2026–2030, 14.08.2026](https://www.bundestag.de/presse/hib/kurzmeldungen-1205072) · Absatz zu Zinsplanwerten und deren Einbeziehung von Sondervermögen; hib-Zusammenfassung der Regierungsvorlage, vollständige Vorlage nicht geprüft.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 - [Originalinterview](https://www.youtube.com/watch?v=mlxFA9T88I0) · Relevante Original-Untertitelpassagen erneut gelesen; keine direkte akustische Sprecherkontrolle und keine neue Vollprüfung des dreistündigen Interviews.
-  Quellenzugriff am 2026-11-18. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. Originalstelle 01:29:38–01:29:49.
+
+- [Bundeswahlleiterin: Bundestagswahl 2029](https://www.bundeswahlleiterin.de/bundestagswahlen/2029.html) · Reguläre Wahlzeitspanne Anfang 2029 gemäß Art. 39 GG.
+  Quellenzugriff am 2026-11-19. Beginn der Wahlperiode und den regulären Wahlzeitraum gelesen. Amtlicher zeitlicher Bezug für das reguläre Wahljahr.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

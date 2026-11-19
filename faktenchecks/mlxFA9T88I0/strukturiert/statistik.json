@@ -15,9 +15,9 @@
   "referenceOccurrences": 11,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 17,
+    "Offen": 19,
     "In Bearbeitung": 0,
-    "Nicht überprüfbar": 150,
+    "Nicht überprüfbar": 148,
     "Abgeschlossen": 225
   },
   "kindCounts": {
@@ -26,9 +26,9 @@
     "Prognose": 17
   },
   "completedFacts": 145,
-  "openFacts": 17,
+  "openFacts": 19,
   "inProgressFacts": 0,
-  "unverifiableFacts": 150,
+  "unverifiableFacts": 148,
   "percentageDenominator": 145,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [

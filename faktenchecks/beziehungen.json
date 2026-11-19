@@ -129,7 +129,13 @@
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
             "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
-          }
+          },
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Reaktion und Original mit Hansard abgeglichen. Das Vorhaben von 1994 ist dokumentiert. Seine Zuordnung zur von Lüning gemeinten Regelung bleibt offen."
+            }
+          ]
         },
         {
           "id": "L0015",
@@ -141,7 +147,13 @@
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
             "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
-          }
+          },
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Reaktion und Original mit Hansard abgeglichen. Das Vorhaben von 1994 ist dokumentiert. Seine Zuordnung zur von Lüning gemeinten Regelung bleibt offen."
+            }
+          ]
         },
         {
           "id": "L0016",
@@ -153,7 +165,13 @@
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
             "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
-          }
+          },
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Reaktion und Original mit Hansard abgeglichen. Das Vorhaben von 1994 ist dokumentiert. Seine Zuordnung zur von Lüning gemeinten Regelung bleibt offen."
+            }
+          ]
         },
         {
           "id": "L0017",
@@ -165,7 +183,13 @@
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
             "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
-          }
+          },
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Reaktion und Original mit Hansard abgeglichen. Das Vorhaben von 1994 ist dokumentiert. Seine Zuordnung zur von Lüning gemeinten Regelung bleibt offen."
+            }
+          ]
         },
         {
           "id": "L0018",
@@ -1176,11 +1200,15 @@
           "originalClaimId": "OQnvClWgN-g-A0006",
           "reactionClaimId": "L7E04TJtRBU-A0015",
           "reactionSeconds": 629,
-          "note": "Programmbedingungen; Einschränkung im Original beachten, Primärurteilzugang offen.",
+          "note": "Programmbedingungen ergänzen Kralls Aussage. Der nachgelesene EuGH-Volltext zum PSPP bestätigt die Emissionssperrfrist. Kralls anschließende Einschränkung ist berücksichtigt.",
           "history": [
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Nach Neubewertung des Originals abgeglichen. Der Reaktionsbefund zu möglichen Sekundärmarktkäufen und Grenzen des unmittelbaren Weiterverkaufs passt weiterhin."
             }
           ]
         },

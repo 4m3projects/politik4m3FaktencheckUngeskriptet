@@ -5,7 +5,7 @@
     "videoId": "OQnvClWgN-g",
     "videoUrl": "https://www.youtube.com/watch?v=OQnvClWgN-g",
     "durationSeconds": 12061,
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-19",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
@@ -190,6 +190,14 @@
       "details": "Eurostat, Datenstand 21.10.2026; ESA-2010-Abgrenzung von Gesamtausgaben und sozialen Transfers. Methodenbezug, keine rückwirkende exakte Quote für 15.09.2026.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+    },
+    {
+      "id": "S031",
+      "title": "EuGH: Weiss u. a., C‑493/17",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62017CJ0493",
+      "details": "Urteil vom 11.12.2018, Rn. 104–117, zum PSPP.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Urteilsvolltext als PDF geöffnet und die Randnummern zu Sekundärmarkt, Emissionssperrfrist und faktischer Vermittlung gelesen."
     }
   ],
   "speakers": [
@@ -436,24 +444,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Intermediäre könnten neu emittierte Staatsanleihen mit Zuschlag an die EZB durchreichen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Zu prüfen sind Programm, Sperrfrist, Marktbedingungen und Gewissheit des Weiterverkaufs. Krall schränkt unmittelbar danach ein, dass Käufe nicht regelmäßig sofort bei Emission erfolgen. Nicht pauschal als rechtliche Aussage oder garantierter Gewinn behandeln.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das Eurosystem kann Staatsanleihen am Sekundärmarkt kaufen. Für das PSPP beschreibt der EuGH eine Sperrfrist nach der Emission und weitere Sicherungen gegen einen vorhersehbaren, dem unmittelbaren Kauf gleichkommenden Weiterverkauf. Ein feststehender Aufschlag oder eine Umgehung per Buchung allein folgt daraus nicht. Das Urteil betrifft das PSPP. Kralls Einschränkung, dass Anleihen regelmäßig nicht sofort bei Emission durchgereicht würden, ist Teil des Kontexts.",
+      "assessmentBasis": "[Codex] Originalstelle 01:08:48–01:09:48 im YouTube-Transkript und die Randnummern 104–117 im Urteil Weiss geprüft.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-10.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-10.04: Teilweise belegt / überdehnt. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-10.04: Teilweise belegt / überdehnt. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Sekundärmarktkäufe sind möglich; ein unmittelbar sicherer Durchverkauf mit feststehendem Zuschlag ist daraus nicht ableitbar."
       },
       "sourceRefs": [
         {
           "sourceId": "S027",
           "note": "Erfolgloser Abrufversuch – kein Sachbeleg."
+        },
+        {
+          "sourceId": "S031",
+          "note": "Primärurteil zu den Sicherungen des PSPP. Kein Beleg zu konkreten Gewinnen oder anderen Programmen."
         }
       ],
-      "openQuestions": [
-        "Lesbaren maßgeblichen Urteilstext und genau gemeintes Ankaufprogramm gegen die Einschränkung 01:09:32–01:09:41 prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0006",

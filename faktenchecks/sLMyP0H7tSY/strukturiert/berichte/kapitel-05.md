@@ -1,8 +1,8 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamtes verfügbares Untertitelmaterial gelesen (Segmentbeginn 00:00 bis 16:25). Keine direkte Audio-/Videosichtung, keine redaktionelle Zweitprüfung. Ausgewählte Aussagen, keine vollständige Erfassung aller Aussagen des Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Unabhängige Teilprüfung der Reaktion. Fünfzehn Sachbewertungen sind nach Abgleich mit dem Original und den Sachquellen abgeschlossen. Weitere erfasste Aussagen, der durchgängige Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus.
 
-Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung.
+Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft.
 
 ## sLMyP0H7tSY-A0017
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der digitale Euro soll Bargeld ergänzen; das Gesetzgebungsverfahren ist noch nicht abgeschlossen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,25 +29,25 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. S010 beschreibt das Projekt, S011 zeigt ein offenes Verfahren. Keine Aussage über den endgültigen Rechtsakt oder ein festes Einführungsdatum.
+Der digitale Euro soll laut EZB Bargeld ergänzen. Das Europäische Parlament führt das Gesetzgebungsverfahren weiterhin als vor dem Abschluss der ersten Lesung.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0017 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S010 beschreibt das Projekt, S011 zeigt ein offenes Verfahren. Keine Aussage über den endgültigen Rechtsakt oder ein festes Einführungsdatum.
 
 ### Zugeordnete Quellen
 
 - [EZB: FAQs on the digital euro, Seitenkopf 17.08.2026](https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html) · Relevante Projektbeschreibungen, besonders Fragen 20 und 24. Dynamische Seite; angezeigtes Aktualisierungsdatum ist kein Nachweis unveränderter historischer Fassung.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 - [Europäisches Parlament: Verfahren 2023/0212(COD)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2023%2F0212%28COD%29) · Status und Ereignisliste beim Abruf: noch keine erste Parlamentsposition; kein abgeschlossener Rechtsakt.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## sLMyP0H7tSY-A0018
 
@@ -55,7 +55,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Haltegrenzen und verknüpfte Bankkonten sollen große Zahlungsbeträge trotz begrenzten digitalen Guthabens ermöglichen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -74,22 +74,22 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. S010 erläutert hypothetische getestete Grenzen bis 3.000 Euro und Kontoverknüpfung. Das ist keine bereits beschlossene allgemeine Abhebe- oder Kaufobergrenze.
+Die EZB beschreibt ein Guthabenlimit und die Kopplung an ein Bankkonto. Bei ausreichender Deckung des verbundenen Kontos sollen Zahlungen oberhalb des Guthabenlimits möglich sein.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0018 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S010 erläutert hypothetische getestete Grenzen bis 3.000 Euro und Kontoverknüpfung. Das ist keine bereits beschlossene allgemeine Abhebe- oder Kaufobergrenze.
 
 ### Zugeordnete Quellen
 
 - [EZB: FAQs on the digital euro, Seitenkopf 17.08.2026](https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html) · Relevante Projektbeschreibungen, besonders Fragen 20 und 24. Dynamische Seite; angezeigtes Aktualisierungsdatum ist kein Nachweis unveränderter historischer Fassung.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## sLMyP0H7tSY-A0019
 
@@ -97,7 +97,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Programmierbare Verwendungsbeschränkungen passen nicht zum veröffentlichten Euro-Konzept.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -116,22 +116,22 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. S010 grenzt sie ausdrücklich von bedingten Zahlungen ab. Künftige Änderungen und allgemeine Kauf-/Sanktionsgesetze sind damit nicht ausgeschlossen; deren Missbrauch ist hier nicht festgestellt.
+Das veröffentlichte EZB-Konzept sieht keine Beschränkung der Ausgabe nach Produkt, Zeitpunkt oder Empfänger vor. Bedingte Zahlungen wie Zahlung bei Lieferung betreffen den Zahlungsauftrag. Damit ist das veröffentlichte Konzept beschrieben. Eine spätere Änderung bleibt eine Prognose.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0019 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S010 grenzt sie ausdrücklich von bedingten Zahlungen ab. Künftige Änderungen und allgemeine Kauf-/Sanktionsgesetze sind damit nicht ausgeschlossen; deren Missbrauch ist hier nicht festgestellt.
 
 ### Zugeordnete Quellen
 
 - [EZB: FAQs on the digital euro, Seitenkopf 17.08.2026](https://www.ecb.europa.eu/euro/digital_euro/faqs/html/ecb.faq_digital_euro.en.html) · Relevante Projektbeschreibungen, besonders Fragen 20 und 24. Dynamische Seite; angezeigtes Aktualisierungsdatum ist kein Nachweis unveränderter historischer Fassung.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## sLMyP0H7tSY-A0020
 

@@ -74,6 +74,10 @@ test('Zu wenige entschiedene Aussagen: nicht bewertbar, mit laufender Prüfung: 
 test('Analyse „In Bearbeitung“ ist immer vorläufig', () => {
   assert.equal(A.rate(stats({ widerlegt: 50 }), { workStatus: 'In Bearbeitung' }).key, 'vorlaeufig');
   assert.equal(A.rate(stats({ widerlegt: 50 }), { workStatus: 'Teilbestand geprüft' }).key, 'rot');
+  const pending = A.rate(stats({ belegt: 6 }), { workStatus: 'In Bearbeitung' }, 12053);
+  assert.equal(pending.key, 'vorlaeufig');
+  assert.match(pending.reason, /6 von 6 erfassten Tatsachenbehauptungen entschieden/);
+  assert.match(pending.reason, /mindestens 67 Tatsachenbehauptungen/);
 });
 
 test('Rhetorik-Daten haben keinen Einfluss (Signatur nimmt sie gar nicht an)', () => {
