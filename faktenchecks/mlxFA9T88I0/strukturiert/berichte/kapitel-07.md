@@ -497,22 +497,35 @@ Frueherer Suchbereich: [02:09:35–02:10:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gelesene Befragung (2015) bestätigt, dass Hochqualifizierte unter Auswandernden überrepräsentiert sind, sieht aber eine „Brain Circulation“ ohne Anzeichen eines dauerhaften Weggangs. Eine Zeitreihe, die eine zunehmende Auslandsorientierung von Absolventen wegen schwieriger Jobsuche für die Zeit um 2026 zeigt, wurde nicht gefunden.
+Die gelesene Befragung (2015) bestätigt, dass Hochqualifizierte unter Auswandernden überrepräsentiert sind, sieht aber eine „Brain Circulation“ ohne Anzeichen eines dauerhaften Weggangs. Eine Zeitreihe, die eine zunehmende Auslandsorientierung von Absolventen wegen schwieriger Jobsuche für die Zeit um 2026 zeigt, wurde nicht gefunden. Eine zweite Recherche zeigt 2025 eine Rekordzahl deutscher Fortzüge und einen hohen Akademikeranteil unter Auswandernden; dass Absolventen zunehmend wegen schwieriger Jobsuche gehen, wird darin nicht belegt, sondern nur als Risiko genannt.
 
 Grundlage der Bewertung: Pressemitteilung und Studienseite zur Befragung von 2015 gelesen; keine aktuellen Absolventenbefragungen.
 
 Uebernahme: Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wanderungsbefragung 2015 gelesen; von Offen auf Nicht ausreichend belegbar.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wanderungsbefragung 2015 gelesen; von Offen auf Nicht ausreichend belegbar. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
 - [Auswanderung aus Deutschland überwiegend auf Zeit](https://www.uni-due.de/de/presse/meldung.php?id=8874) · Universität Duisburg-Essen, Pressemitteilung 10.03.2015; gemeinsame Studie mit SVR und BiB, nicht repräsentativ.
   Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Hochqualifizierte überrepräsentiert, keine Anzeichen dauerhaften Weggangs (2015).
 
+- [Rekord-Auswanderung: Akademiker verlassen Deutschland](https://web.de/magazine/politik/rekord-auswanderung-akademiker-verlassen-deutschland-42535082) · web.de, Dominik Bardow, aktualisiert 30.07.2026; Destatis-Wanderungszahlen 2025, GERPS-Befragung (rund 70 % mit akademischem Abschluss), IW-Einschätzung: ob Akademiker verstärkt gehen, ist offen.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Auswanderung insgesamt auf Rekordniveau; stärkerer Weggang von Akademikern laut IW offen.
+
 ### Offene Fragen und Unsicherheiten
 
 - Aktuelle Absolventen- oder Wanderungsstatistik zur Auswanderung von Hochschulabsolventen.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Eine Zeitreihe zur Auswanderung von Hochschulabsolventen mit erfassten Gründen.
+
+- Durchgang 1 am 2026-11-19 (Claude): Befragungsstudie zur Auswanderung aus Deutschland gelesen. Gepruefte Quellen: S168. Ergebnis: Hochqualifizierte überrepräsentiert, Daten von 2015.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: aktuelle Wanderungsstatistik, Auswandererbefragung GERPS und Experteneinschätzungen gesucht. Gepruefte Quellen: S199. Ergebnis: Rekordzahl deutscher Fortzüge 2025, rund 70 % der Befragten mit Hochschulabschluss; ob Akademiker verstärkt gehen, gilt als offen, schwierige Jobsuche wird nur als Risiko genannt.
 
 ## mlxFA9T88I0-A0310
 

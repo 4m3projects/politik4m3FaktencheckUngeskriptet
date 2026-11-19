@@ -35,7 +35,7 @@ Grundlage der Bewertung: Wortlautkontrolle 19.11.2026 (Claude) anhand der automa
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
@@ -44,7 +44,17 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Eigene datierte Beiträge Seibts vom Herbst 2024 sichten (nur auf Jens' Rechner möglich).
+
+### Recherchedokumentation
+
+Einordnung: Recherche ohne ausreichendes Ergebnis. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Ein unabhängiger, datierter Beleg für ihre Anwesenheit bei den genannten Kundgebungen.
+
+- Durchgang 1 am 2026-11-19 (Claude): Websuche nach Berichten über ihre Teilnahme; Wortlautkontrolle der Videostelle. Gepruefte Quellen: S001. Ergebnis: Nur ihre eigene Schilderung im Interview.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang mit englischen Begriffen: Berichte über die Kundgebung im Madison Square Garden (27.10.2024) und die zweite Butler-Kundgebung durchsucht. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Berichte zu den Kundgebungen gefunden, aber keine Erwähnung Seibts.
 
 ## mdo14671BPE-A0163
 

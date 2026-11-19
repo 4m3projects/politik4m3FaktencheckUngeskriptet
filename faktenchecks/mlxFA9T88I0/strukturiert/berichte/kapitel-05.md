@@ -1181,13 +1181,13 @@ Frueherer Suchbereich: [01:33:30–01:34:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-In den gelesenen Quellen findet sich keine allgemeine Übernahme früher von USAID finanzierter Programme durch Deutschland. Die SWP beschreibt im April 2025 erwartete Kürzungen auch bei europäischen Gebern und fordert lediglich, Folgen abzufedern; Deutschland sagte im Oktober 2025 trotz Haushaltskürzungen 1 Mrd. Euro für den Globalen Fonds 2026–2028 zu, ohne dass dies als Ersatz für US-Mittel ausgewiesen ist. Ob einzelne frühere USAID-Projekte von Deutschland weitergeführt werden, bleibt ohne konkrete Programme und Beträge offen.
+In den gelesenen Quellen findet sich keine allgemeine Übernahme früher von USAID finanzierter Programme durch Deutschland. Die SWP beschreibt im April 2025 erwartete Kürzungen auch bei europäischen Gebern und fordert lediglich, Folgen abzufedern; Deutschland sagte im Oktober 2025 trotz Haushaltskürzungen 1 Mrd. Euro für den Globalen Fonds 2026–2028 zu, ohne dass dies als Ersatz für US-Mittel ausgewiesen ist. Ob einzelne frühere USAID-Projekte von Deutschland weitergeführt werden, bleibt ohne konkrete Programme und Beträge offen. Eine zweite Recherche (BMZ-Reformstrategie laut Devex, Januar 2026) nennt ebenfalls keine Übernahme konkreter USAID-Programme.
 
 Grundlage der Bewertung: SWP-Analyse (04/2025) und dpa-Bericht zur Zusage an den Globalen Fonds (10/2025) gelesen; keine Haushaltstitel des BMZ geprüft.
 
 Uebernahme: USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): USAID-Folgen und deutsche Zusagen recherchiert; von Offen auf Nicht ausreichend belegbar.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): USAID-Folgen und deutsche Zusagen recherchiert; von Offen auf Nicht ausreichend belegbar. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
@@ -1197,9 +1197,22 @@ Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile n
 - [Germany steps up global health funding with €1b as US cancels support](https://www.ghanabusinessnews.com/2025/10/12/germany-steps-up-global-health-funding-with-e1b-as-us-cancels-support/) · Ghana Business News mit dpa, 12.10.2025; deutsche Zusage von 1 Mrd. Euro an den Globalen Fonds für 2026–2028.
   Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. 1 Mrd. Euro an den Globalen Fonds trotz Haushaltskürzungen.
 
+- [Germany charts a new course for global aid](https://www.devex.com/news/germany-charts-a-new-course-for-global-aid-111678) · Devex, Jesse Chase-Lubitz, 14.01.2026; BMZ-Reformstrategie mit Kürzungen und Schwerpunktsetzung, keine Übernahme konkreter früherer USAID-Programme genannt.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Keine Übernahme konkreter USAID-Programme genannt; Reformstrategie unter Kürzungsdruck.
+
 ### Offene Fragen und Unsicherheiten
 
 - Konkrete Programme, die nach dem USAID-Stopp aus dem BMZ- oder AA-Haushalt weiterfinanziert werden.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Eine Aufstellung konkreter, früher von USAID finanzierter Programme, die aus dem BMZ- oder AA-Haushalt weiterfinanziert werden.
+
+- Durchgang 1 am 2026-11-19 (Claude): Analysen und Berichte zu den Folgen des USAID-Stopps und deutschen Zusagen gesucht und gelesen. Gepruefte Quellen: S170, S171. Ergebnis: Kürzungen auch bei europäischen Gebern, eine Zusage an den Globalen Fonds; keine Übernahme früherer USAID-Programme.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang mit anderen Begriffen: BMZ-Strategie, Bundestagsdokumente zur Entwicklungszusammenarbeit 2025, Fachmedium Devex. Gepruefte Quellen: S198. Ergebnis: BMZ beschreibt sich nach Auflösung von USAID als größte Entwicklungsagentur, nennt aber keine Übernahme konkreter USAID-Programme oder Beträge.
 
 ## mlxFA9T88I0-A0245
 
@@ -1865,13 +1878,13 @@ Frueherer Suchbereich: [01:41:00–01:42:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gelesenen Einzelberichte ergeben kein klares Bild: 2019 war eine zehnjährige Bundesanleihe 2,4-fach gedeckt, 2012 und 2020 gab es aber auch unterdeckte Bund-Auktionen. 2026 liegen die Deckungsquoten bei Bundesanleihen meist zwischen 1,0 und 1,8. Eine Zeitreihe, die eine frühere regelmäßige zwei- bis dreifache Überzeichnung belegt oder widerlegt, wurde nicht gefunden.
+Die gelesenen Einzelberichte ergeben kein klares Bild: 2019 war eine zehnjährige Bundesanleihe 2,4-fach gedeckt, 2012 und 2020 gab es aber auch unterdeckte Bund-Auktionen. 2026 liegen die Deckungsquoten bei Bundesanleihen meist zwischen 1,0 und 1,8. Eine Zeitreihe, die eine frühere regelmäßige zwei- bis dreifache Überzeichnung belegt oder widerlegt, wurde nicht gefunden. Eine zweite Recherche mit Primärdaten der Bundesbank ergab für zehnjährige Bund-Auktionen 2011, 2015 und 2016 Deckungsquoten von 1,2 bis 1,9. Diese Stichproben sprechen eher gegen eine regelmäßige zwei- bis dreifache Überzeichnung, ersetzen aber keine vollständige Zeitreihe.
 
 Grundlage der Bewertung: Auktionsliste 2026 der Finanzagentur sowie Marktberichte von 2012, 2019 und 2020 gelesen; keine durchgehende Zeitreihe.
 
 Uebernahme: Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Auktionsberichte 2012–2020 gelesen; von Offen auf Nicht ausreichend belegbar.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Auktionsberichte 2012–2020 gelesen; von Offen auf Nicht ausreichend belegbar. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
@@ -1887,9 +1900,31 @@ Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile n
 - [Unterdeckung bei Bund-Auktion](https://www.boersen-zeitung.de/kapitalmaerkte/unterdeckung-bei-bund-auktion) · Börsen-Zeitung, 24.03.2020; Unterdeckung bei zweijährigen Schatzanweisungen, Deckung 1,2.
   Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. 2020: Unterdeckung, Deckung 1,2.
 
+- [Tenderergebnis 10-jährige Bundesanleihe, Aufstockung 05.01.2011](https://bundesbank.de/resource/blob/684750/b0b0ce3cd38d515be736321cae4a9bd8/472B63F073F071307366337C94F8C870/2011-01-05-tenderergebnis-download.pdf) · Deutsche Bundesbank, Pressenotiz; 2,50 % Bund 2010 (2021): Gebote 6.290 Mio. €, Zuteilung 3.916 Mio. €, Deckung 1,6.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. 2011: Deckung 1,6.
+
+- [Tenderergebnis 10-jährige Bundesanleihe, Aufstockung 16.02.2011](https://bundesbank.de/resource/blob/684826/1cea68df92e9677414dacdf94cf807da/472B63F073F071307366337C94F8C870/2011-02-16-tenderergebnis-download.pdf) · Deutsche Bundesbank, Pressenotiz; 2,50 % Bund 2010 (2021): Gebote 6.492 Mio. €, Zuteilung 3.373,5 Mio. €, Deckung 1,9.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. 2011: Deckung 1,9.
+
+- [Tenderergebnis 10-jährige Bundesanleihe 18.02.2015](https://www.bundesbank.de/resource/blob/686926/a3a2d1a376e4a2ab4c39f1424005a1f7/472B63F073F071307366337C94F8C870/2015-02-18-tenderergebnis-329998-download.pdf) · Deutsche Bundesbank, Pressenotiz; 0,50 % Bund 2015 (2025): Gebote 4.800 Mio. €, Zuteilung 3.335 Mio. €, Deckung 1,4.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. 2015: Deckung 1,4.
+
+- [Tenderergebnis 10-jährige Bundesanleihe 17.02.2016](https://www.bundesbank.de/resource/blob/687426/acb2ebdf41d79854a8f9f1495a8ae4e3/472B63F073F071307366337C94F8C870/2016-02-17-tenderergebnis-362794-download.pdf) · Deutsche Bundesbank, Pressenotiz; 0,50 % Bund 2016 (2026): Gebote 4.933 Mio. €, Zuteilung 4.047,5 Mio. €, Deckung 1,2.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. 2016: Deckung 1,2.
+
 ### Offene Fragen und Unsicherheiten
 
 - Durchgehende Zeitreihe der Bid-to-Cover-Werte von Bundesanleihen (Finanzagentur-Jahresberichte).
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Eine durchgehende Zeitreihe der Deckungsquoten zehnjähriger Bund-Auktionen, etwa aus der Jahreshistorie der Finanzagentur.
+
+- Durchgang 1 am 2026-11-19 (Claude): Auktionsliste 2026 der Finanzagentur und Marktberichte zu einzelnen Auktionen gelesen. Gepruefte Quellen: S073, S163, S164, S165. Ergebnis: Einzelwerte zwischen Unterdeckung und 2,4; keine Zeitreihe.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Primärdaten der Bundesbank zu einzelnen zehnjährigen Bund-Auktionen 2011, 2015 und 2016; Jahreshistorie der Finanzagentur gesucht (nur als Tabellendatei, nicht auswertbar). Gepruefte Quellen: S194, S195, S196, S197. Ergebnis: Deckung 1,6, 1,9, 1,4 und 1,2; die gefundenen Stichproben liegen unter einer zwei- bis dreifachen Überzeichnung, eine vollständige Zeitreihe fehlt weiterhin.
 
 ## mlxFA9T88I0-A0259
 
