@@ -84,9 +84,12 @@ test('Rhetorik-Daten haben keinen Einfluss (Signatur nimmt sie gar nicht an)', (
   assert.equal(A.rate.length, 3);
 });
 
-test('Gezielte Kleinauswahl aus langem Video: nicht bewertbar', () => {
+test('Zu geringe Abdeckung: offene und abgeschlossene Teilbestände', () => {
   const s = stats({ belegt: 2, irre: 6, widerlegt: 9, work: 10 });
-  assert.equal(A.rate(s, null, 3 * 3600).key, 'nicht_bewertbar', '27 Tatsachen bei 3 Stunden < 20 je Stunde');
+  const shortfall = A.rate(s, { workStatus: 'Teilbestand geprüft' }, 3 * 3600);
+  assert.equal(shortfall.key, 'vorlaeufig');
+  assert.match(shortfall.reason, /10 noch nicht fertig geprüft.*mindestens 60 Tatsachenbehauptungen/);
+  assert.equal(A.rate(stats({ belegt: 2, irre: 6, widerlegt: 9, unver: 10 }), null, 3 * 3600).key, 'nicht_bewertbar');
   assert.equal(A.rate(s, null, 3600).key, 'rot', '27 Tatsachen bei 1 Stunde reichen');
   assert.equal(A.rate(s).key, 'rot', 'ohne Laufzeit keine Dichteprüfung');
 });

@@ -78,6 +78,9 @@
       return out('nicht_bewertbar', `Nur ${decided} von ${facts} erfassten Tatsachenbehauptungen sind entschieden; nötig sind mindestens ${RULES.minDecided} und mindestens ${Math.round(RULES.minShare * 100)} %.`);
     }
     if (hours && facts / hours < RULES.minPerHour) {
+      if (inProgress + unchecked > 0) {
+        return out('vorlaeufig', `${decided} von ${facts} erfassten Tatsachenbehauptungen entschieden, ${inProgress + unchecked} noch nicht fertig geprüft. Bei dieser Laufzeit müssen mindestens ${Math.ceil(hours * RULES.minPerHour)} Tatsachenbehauptungen erfasst sein.`);
+      }
       return out('nicht_bewertbar', `Nur ${facts} Tatsachenbehauptungen bei ${hours.toLocaleString('de-DE', { maximumFractionDigits: 1 })} Stunden Laufzeit erfasst – eine kleine Auswahl, kein Querschnitt des Videos; nötig sind mindestens ${RULES.minPerHour} je Stunde.`);
     }
     const share = errors / decided;
