@@ -6,25 +6,25 @@
     {
       "topic": "religion",
       "relevance": "Schwerpunkt",
-      "basis": "11 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "basis": "29 erfasste Aussagen mit ausdrücklichem Sachbezug.",
       "segments": []
     },
     {
       "topic": "asyl",
       "relevance": "Behandelt",
-      "basis": "2 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "basis": "3 erfasste Aussagen mit ausdrücklichem Sachbezug.",
       "segments": []
     },
     {
       "topic": "meinungsfreiheit",
       "relevance": "Erwähnt",
-      "basis": "1 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "basis": "4 erfasste Aussagen mit ausdrücklichem Sachbezug.",
       "segments": []
     },
     {
       "topic": "migration",
       "relevance": "Erwähnt",
-      "basis": "1 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "basis": "5 erfasste Aussagen mit ausdrücklichem Sachbezug.",
       "segments": []
     }
   ],
@@ -118,6 +118,127 @@
       "topics": [
         "religion"
       ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0019",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0020",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0021",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0022",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0023",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0024",
+      "topics": [
+        "religion",
+        "migration"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0025",
+      "topics": [
+        "asyl",
+        "migration"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0026",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0027",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0028",
+      "topics": [
+        "religion",
+        "migration"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0029",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0030",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0031",
+      "topics": [
+        "meinungsfreiheit",
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0032",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0033",
+      "topics": [
+        "religion",
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0034",
+      "topics": [
+        "migration",
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0035",
+      "topics": [
+        "religion",
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0036",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0037",
+      "topics": [
+        "religion"
+      ]
     }
   ],
   "history": [
@@ -125,6 +246,11 @@
       "date": "2026-11-19",
       "agent": "Codex",
       "change": "Aussagen aus der erweiterten Teilprüfung fachlich zugeordnet."
+    },
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Aussagen aus der zweiten Quellenprüfung und weiter zu prüfende Aussagen verknüpft."
     }
   ]
 }

@@ -1,8 +1,8 @@
 # Kapitel 08: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gezielter Teilbestand aus allen elf Originalkapiteln. Alle Kapitel sind im Prüfbericht vertreten. Die vollständige Sachprüfung der gut dreistündigen Folge und der durchgängige Hör- und Sichtabgleich stehen aus.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst.
 
-[Codex] Offizielles Kapitelverzeichnis und ausgewählte zeitmarkierte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Die Sachquellen stehen bei den jeweiligen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
 
 ## QxMuH1bjMwo-A0014
 
@@ -45,5 +45,46 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0034
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Recep Tayyip Erdoğan habe in der Türkei um 48 Prozent oder weniger und in den Wahlbereichen Münster und Köln um 73 Prozent oder mehr erreicht.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:25:00–02:25:12](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=8700s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur weiteren Sachprüfung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Noch nicht geprüft – in der Passage fehlen Wahljahr und Wahlgang. Ein Vergleich setzt außerdem dieselbe Wahlrunde und den jeweiligen Bezugsraum voraus.
+
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Zur weiteren Prüfung erfasst.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche Wahl und welcher Wahlgang sind gemeint, und welche amtlichen Ergebnisse weist der türkische Wahlrat für das Inland und die beiden Konsularwahlbereiche aus?
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

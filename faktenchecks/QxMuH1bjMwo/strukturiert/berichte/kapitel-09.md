@@ -1,8 +1,8 @@
 # Kapitel 09: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gezielter Teilbestand aus allen elf Originalkapiteln. Alle Kapitel sind im Prüfbericht vertreten. Die vollständige Sachprüfung der gut dreistündigen Folge und der durchgängige Hör- und Sichtabgleich stehen aus.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst.
 
-[Codex] Offizielles Kapitelverzeichnis und ausgewählte zeitmarkierte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Die Sachquellen stehen bei den jeweiligen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
 
 ## QxMuH1bjMwo-A0007
 
@@ -135,5 +135,88 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0035
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Religion sei in der DDR verboten gewesen.
+
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:42:41–02:42:49](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=9761s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Artikel 39 der DDR-Verfassung garantierte formal Glaubensbekenntnis und Religionsausübung und erkannte die Tätigkeit von Religionsgemeinschaften an. Die Verfassung widerlegt ein generelles gesetzliches Verbot. Die tatsächliche Benachteiligung und staatliche Kontrolle religiöser Menschen ist davon getrennt zu betrachten.
+
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Verfassung der DDR, Fassung von 1974: Artikel 39](https://www.gvoon.de/artikel-39-verfassung-deutsche-demokratische-republik-ddr-1968-fassung-1974-kommentar-1982-nachtrag-1997.html) · Verfassungstext mit separatem verfassungsrechtlichen Kommentar.
+  Quellenzugriff am 2026-11-19. Absätze zur Bekenntnisfreiheit, Religionsausübung und Tätigkeit der Religionsgemeinschaften gelesen. Wortlaut des Artikels 39 zur Religionsausübung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0036
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Ein österreichisches Gesetz verbiete Richterinnen das Tragen eines Kopftuchs oder anderer religiöser Symbole.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:50:14–02:50:24](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=10214s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur weiteren Sachprüfung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Noch nicht geprüft – der Gast nennt keine Vorschrift oder Jahreszahl. Zu klären sind besondere Dienst- oder Verfahrensregeln für Richter und der zeitliche Bezug der im Anschluss beschriebenen Demonstration.
+
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Zur weiteren Prüfung erfasst.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche österreichische Rechtsvorschrift oder Dienstregel lag zur gemeinten Zeit für Richterinnen vor, und auf welche Kundgebung bezieht sich die Aussage?
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
