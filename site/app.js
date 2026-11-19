@@ -1184,6 +1184,51 @@ function pageJens() {
   window.scrollTo(0, 0);
 }
 
+/* Verlauf: jedes Video genau einmal, nach seiner letzten Änderung sortiert. Die Ereignisse werden beim Aufbau der
+   Webseite aus der Git-Historie berechnet (scripts/verlauf.js, daten/verlauf.json), nicht von Hand gepflegt. */
+function verlaufDate(iso) {
+  const d = new Date(iso);
+  if (isNaN(d)) return deDate(iso);
+  return d.toLocaleString('de-DE', { timeZone: 'Europe/Berlin', day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' }) + ' Uhr';
+}
+function verlaufItems(items) {
+  return items.slice(1).map(i => esc(i.text)).join(' · ');
+}
+async function pageVerlauf() {
+  if (!state.verlauf) state.verlauf = await getJson('verlauf.json').catch(() => null);
+  const h = state.verlauf;
+  const byId = new Map(state.index.videos.map(v => [v.id, v]));
+  const list = (h?.videos || []).filter(v => byId.has(v.id) && v.events?.length);
+  const commitLink = sha => `<a href="${esc(repoUrl())}/commit/${esc(sha)}" rel="noopener noreferrer" target="_blank">Änderung ansehen</a>`;
+  const row = v => {
+    const meta = byId.get(v.id);
+    const name = meta.video?.title || meta.title || v.id;
+    const role = meta.video?.role === 'reaction' ? `Reaktion von ${meta.video.channel}` : meta.video?.role === 'original' ? 'Originalinterview' : 'Faktencheck';
+    const [last, ...older] = v.events;
+    const rest = verlaufItems(last.items);
+    return `<li class="verlauf-item" id="verlauf-${esc(v.id)}">
+      <div class="verlauf-when"><time datetime="${esc(last.date)}">${esc(verlaufDate(last.date))}</time></div>
+      <div class="verlauf-body">
+        <p class="verlauf-event"><span class="badge verlauf-kind verlauf-${esc(last.items[0].kind)}">${esc(last.items[0].text)}</span></p>
+        <h2 class="verlauf-title"><a href="#/video/${esc(v.id)}">${esc(name)}</a></h2>
+        <p class="small muted">${esc(role)}${rest ? ' · ' + rest : ''} · ${commitLink(last.commit)}</p>
+        ${older.length ? `<details class="verlauf-older"><summary>Früherer Verlauf (${older.length})</summary><ol>${older.map(e => `<li><time datetime="${esc(e.date)}">${esc(verlaufDate(e.date))}</time>: ${e.items.map(i => esc(i.text)).join(' · ')} · ${commitLink(e.commit)}</li>`).join('')}</ol></details>` : ''}
+      </div>
+    </li>`;
+  };
+  setPage(`<div class="wrap">
+    <nav class="crumbs" aria-label="Brotkrumennavigation"><a href="#/">Faktenchecks</a> / Verlauf</nav>
+    <section class="section">
+      <div class="section-head"><h1>Verlauf</h1>
+      <p>Was sich zuletzt getan hat: Jedes Video steht hier genau einmal. Sobald es aufgenommen, die Prüfung begonnen, ein Faktencheck veröffentlicht oder später eine Aussage oder Bewertung geändert wird, rutscht es nach oben. Angezeigt wird jeweils die letzte Änderung; ältere stehen darunter zum Aufklappen.</p>
+      <p class="small">Die Einträge werden automatisch aus der öffentlichen Versionsgeschichte auf GitHub berechnet und nicht von Hand gepflegt.${h?.start ? ` Die Versionsgeschichte beginnt am ${esc(verlaufDate(h.start.date))}; was davor geschah, ist dort als „bereits vorhanden“ zusammengefasst.` : ''}</p></div>
+      ${list.length ? `<ol class="verlauf">${list.map(row).join('')}</ol>` : '<p class="muted">Noch kein Verlauf vorhanden.</p>'}
+    </section>
+  </div>`, 'verlauf');
+  document.title = 'Verlauf – Politik4M3 Faktencheck Ungeskriptet';
+  window.scrollTo(0, 0);
+}
+
 function pageError(err) {
   setPage(`<div class="wrap"><p class="notice warn" style="margin-top:32px"><strong>Diese Seite konnte nicht geladen werden.</strong> ${esc(err.message || err)}</p><p><a href="#/">Zur Übersicht</a></p></div>`, '');
 }
@@ -1274,6 +1319,7 @@ async function routePage() {
       return;
     }
     if (parts[0] === 'jens') return pageJens();
+    if (parts[0] === 'verlauf') return await pageVerlauf();
     if (parts[0] === 'themen') return await pageTopics();
     if (parts[0] === 'thema' && parts[1]) return await pageTopic(parts.slice(1).join('/'));
     return await pageHome();
