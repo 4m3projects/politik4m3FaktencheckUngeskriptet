@@ -95,7 +95,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt verbindet eine mögliche Asylbewilligung mit einem künftigen Loyalitätsbekenntnis gegenüber den USA.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -114,22 +114,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Die Textstelle kann einen persönlichen Vorsatz und eine allgemeine Erwartung ausdrücken. Ob zusätzlich eine rechtliche Voraussetzung behauptet wird, ist ohne Originalkontrolle nicht eindeutig. Die gelesene Asylnorm enthält keinen Einbürgerungseid; das allein widerlegt den persönlichen Vorsatz nicht.
+Die Originalstelle bestätigt die Zusammenfassung: Auf die Frage nach ihrer Abhängigkeit von den USA sagt Seibt, sie werde sich nach einer Asylbewilligung selbstverständlich zu Amerika bekennen, so funktioniere das, und dasselbe erwarte sie von Asylsuchenden in Deutschland; ihre journalistische Freiheit sehe sie dadurch nicht eingeschränkt. Das ist eine eigene Absichtserklärung mit einer allgemeinen Erwartung, keine Angabe zu einer rechtlichen Voraussetzung des Asylverfahrens.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Originalstelle mit 60 Sekunden Kontext gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
 - [8 USC 1158: Asylum](https://uscode.house.gov/us/usc/t8/s1158/) · Office of the Law Revision Counsel; geltender Online-Stand am Prüfdatum.
   Quellenzugriff am 2026-11-17. Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
+- [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; Metadatenabruf: veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahmezeitpunkt ungeklärt.
+  Quellenzugriff am 2026-11-17. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. Wortlaut an der Originalstelle kontrolliert.
+
 ### Offene Fragen und Unsicherheiten
 
-- Persönlichen Vorsatz, politische Erwartung und behauptete rechtliche Voraussetzung an der Originalstelle sicher unterscheiden.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0197
 
@@ -257,7 +260,7 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 ### Offene Fragen und Unsicherheiten
 
-- Originalkontrolle der YouTube-Textlücke und tatsächliche Antrags-/Einreisedaten nötig.
+- Wortlautkontrolle 19.11.2026: Die automatischen Untertitel haben bei 02:10:45–02:12:43 eine echte Lücke von rund zwei Minuten; die Aussage lässt sich nur durch Anhören dieser Stelle prüfen. Im Umfeld erwähnt Seibt einen zweiwöchigen Aufenthalt in Mexiko 2024, um ihren ESTA-Aufenthalt neu zu beginnen.
 
 ## mdo14671BPE-A0200
 
@@ -302,7 +305,7 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 ### Offene Fragen und Unsicherheiten
 
-- Synchronisierung, Termin-/Verfahrensnachweis und konkrete Verfügungen fehlen.
+- Wortlautkontrolle 19.11.2026: Die automatischen Untertitel haben bei 02:10:45–02:12:43 eine echte Lücke; danach sagt Seibt, die Entscheidung liege bei DHS und ihr Fall sei derzeit nicht beim DOJ. Einen Gerichtstermin nennt der lesbare Teil nicht; die Stelle muss angehört werden.
 
 ## mdo14671BPE-A0201
 
