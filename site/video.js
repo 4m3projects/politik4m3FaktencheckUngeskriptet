@@ -137,7 +137,7 @@ async function pageVideoSync(id, opts = {}) {
     ${videoHeader(v, 'video')}
     ${d.scope.kind === 'Teilbestand' && !researchDone(d.scope) ? `<p class="notice warn"><strong>Teilbestand:</strong> Nur ein Teil der Aussagen dieses Videos ist strukturiert geprüft. Stellen ohne Eintrag sind nicht automatisch unproblematisch.</p>` : ''}
   </div>
-  <section class="vc" id="vc" data-layout="${prefs.layout === 'stack' ? 'stack' : 'side'}" aria-label="Video mit Faktencheck">
+  <section class="vc" id="vc" data-layout="${prefs.layout === 'stack' ? 'stack' : 'side'}" data-format="${FactRelations.isShort(v.video, d.scope.videoUrl) ? 'short' : 'video'}" aria-label="Video mit Faktencheck">
     <div class="vc-shell">
       <div class="vc-toolbar">
         <div class="seg" role="group" aria-label="Anordnung von Video und Aussagen">
