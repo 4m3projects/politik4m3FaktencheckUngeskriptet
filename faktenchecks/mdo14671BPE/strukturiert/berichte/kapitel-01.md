@@ -35,7 +35,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
@@ -47,7 +47,17 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Aufnahmedatum beim Kanal oder in Begleitangaben zur Folge erfragen oder ermitteln.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Hoch.
+
+Fehlende Information: Das Aufnahmedatum des Gesprächs (Altersangabe stimmt nur bei Aufnahme ab 18.08.2026).
+
+- Durchgang 1 am 2026-11-18 (Claude): Geburtsdatum und datierte Altersangaben in Lexikon und Presse gesucht. Gepruefte Quellen: S112, S113. Ergebnis: Geburtsdatum 18.08.2000; Alter 26 erst ab 18.08.2026.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Aufnahmedatum der Folge über Podcastverzeichnisse, Transkriptdienste und Presseberichte zur Folge gesucht. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Kein Aufnahmedatum gefunden; nur das Veröffentlichungsdatum 16.11.2026 ist bekannt.
 
 ## mdo14671BPE-A0002
 
@@ -93,7 +103,7 @@ Grundlage der Bewertung: Wortlautkontrolle 19.11.2026 (Claude) anhand der automa
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
@@ -102,7 +112,17 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Eigene datierte Beiträge Seibts vom Januar 2025 auf ihren Kanälen sichten (nur auf Jens' Rechner möglich).
+
+### Recherchedokumentation
+
+Einordnung: Recherche ohne ausreichendes Ergebnis. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Ein unabhängiger, datierter Beleg (Gästeliste, Bericht, Foto) für ihre Teilnahme.
+
+- Durchgang 1 am 2026-11-19 (Claude): Websuche nach Berichten über ihre Teilnahme an Veranstaltungen zur Amtseinführung; Wortlautkontrolle der Videostelle. Gepruefte Quellen: S001. Ergebnis: Nur ihre eigene Schilderung im Interview.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang mit englischen Begriffen und Namen der Bälle, Fotostrecken und Gästeberichte zu den Inaugural Balls 2025 durchsucht. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Keine unabhängige Erwähnung gefunden.
 
 ## mdo14671BPE-A0003
 

@@ -786,7 +786,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Was man von Hand schreibt, merkt man sich besser.
 
-Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -809,22 +809,35 @@ Frueherer Suchbereich: [02:25:30–02:30:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Eine direkte Replikation der bekanntesten Studie mit kleiner Metaanalyse fand keinen Vorteil handschriftlicher Mitschriften für das unmittelbare Lernen. Eine allgemeine Gedächtnisregel lässt sich damit nicht belegen; andere Lernsituationen sind nicht geprüft.
+Für Vorlesungsmitschriften von Studierenden gibt es Belege für einen kleinen Vorteil der Handschrift: Eine Metaanalyse von 2024 über 24 Studien fand bessere Testleistungen (kleiner Effekt). Eine direkte Replikation der bekanntesten Studie fand dagegen keinen Vorteil. Als allgemeine Gedächtnisregel ist die Aussage damit zu weit; im Kern der Mitschriften-Forschung ist sie teilweise gestützt.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Buchempfehlung, Listenmethode, Handschrift, Schwarzenegger-Beispiel und Krimi-Statistik getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Nicht ausreichend belegbar).
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Nicht ausreichend belegbar). Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite Recherche fand belastbare Quellen; vorher Nicht ausreichend belegbar, jetzt Teilweise belegt.
 
 ### Zugeordnete Quellen
 
 - [Don't Ditch the Laptop Just Yet](https://www.psychologicalscience.org/journals/psychological-science/0956797620965541/) · Psychological Science, direkte Replikation von Mueller und Oppenheimer (2014) mit Mini-Metaanalysen, nur Zusammenfassung gelesen; kein Vorteil handschriftlicher Mitschrift beim unmittelbaren Lernen.
   Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Replikation und Metaanalyse.
 
+- [Typed Versus Handwritten Lecture Notes and College Student Achievement: A Meta-Analysis](https://doi.org/10.1007/s10648-024-09914-w) · Flanigan, Wheeler, Colliot, Lu, Kiewra, Educational Psychology Review 36 (2024), Art. 78; 24 Studien, 3.005 Studierende, kleiner Vorteil handschriftlicher Mitschriften bei Testleistung (g = 0,25).
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Kleiner Vorteil (g = 0,25) bei Testleistungen, nur Vorlesungsmitschriften von Studierenden.
+
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Ob sich der kleine Vorteil auch außerhalb von Vorlesungsmitschriften (Schule, Alltag) zeigt.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+Widersprueche zwischen Quellen: Die Replikation (S142) fand keinen Vorteil handschriftlicher Mitschriften, die umfassendere Metaanalyse (S200) einen kleinen Vorteil bei Testleistungen. Beide betreffen nur Vorlesungsmitschriften von Studierenden, nicht das Gedächtnis allgemein.
+
+- Durchgang 1 am 2026-11-18 (Claude): Direkte Replikation mit kleiner Metaanalyse zu Mitschriften gelesen. Gepruefte Quellen: S142. Ergebnis: Kein Vorteil handschriftlicher Mitschriften für unmittelbares Lernen.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang mit anderen Begriffen: neuere Metaanalysen und Hirnstudien zu Handschrift und Tippen gesucht. Gepruefte Quellen: S200. Ergebnis: Metaanalyse 2024 mit 24 Studien: kleiner Vorteil handschriftlicher Mitschriften bei Testleistungen von Studierenden. Eine EEG-Studie von 2024 maß nur Hirnaktivität, nicht Gedächtnis, und wurde deshalb nicht als Beleg gewertet.
 
 ## mlxFA9T88I0-A0339
 
@@ -2146,7 +2159,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Kanzler habe in seiner letzten Regierungserklärung gesagt, Suppenküchen und Tafeln machten Deutschland aus.
 
-Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2169,13 +2182,13 @@ Frueherer Suchbereich: [02:49:00–02:50:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Zusammenfassung der Regierungserklärung vom 9. Juli 2026 und ein Bericht darüber erwähnen Tafeln oder Suppenküchen nicht. Das Plenarprotokoll im Wortlaut wurde nicht gelesen; das behauptete Zitat lässt sich damit nicht belegen.
+Teilweise zutreffend: Merz hat Tafeln kurz vor der Aufnahme im Bundestag positiv erwähnt, allerdings nicht in einer Regierungserklärung, sondern in der Haushaltsrede vom 9. September 2026, und nicht in eigenen Worten: Er zitierte einen Brief, der Tafeln neben Vereinen und Nachbarschaftshilfe als Beispiel für Deutschlands Chancen nennt. Suppenküchen kommen dort nicht vor; die Regierungserklärung vom 9. Juli 2026 erwähnt weder Tafeln noch Suppenküchen.
 
 Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Behauptetes Kanzlerzitat zu Tafeln getrennt erfasst.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Nicht ausreichend belegbar).
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Nicht ausreichend belegbar). Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite Recherche fand belastbare Quellen; vorher Nicht ausreichend belegbar, jetzt Teilweise belegt.
 
 ### Zugeordnete Quellen
 
@@ -2185,9 +2198,23 @@ Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile n
 - [Merz erklärt sich im Bundestag – die wichtigsten Erkenntnisse](https://www.zdfheute.de/politik/regierungserklaerung-kanzler-merz-bundestag-reformen-100.html) · ZDFheute · 09.07.2026; Bericht über dieselbe Regierungserklärung.
   Quellenzugriff am 2026-11-18. Relevante Textstellen am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Claude); keine Quellenkopie veröffentlicht. Bericht über die Rede.
 
+- [Regierungserklärung von Bundeskanzler Friedrich Merz vom 9. Juli 2026 (Volltext)](https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/bk-regierungserklaerung-2446604) · Bundesregierung, Bulletin 71-1, Volltext der Regierungserklärung vor dem Bundestag am 09.07.2026; Tafeln, Suppenküchen und Ehrenamt kommen nicht vor.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Volltext: keine Tafeln, Suppenküchen oder Ehrenamt.
+
+- [Rede von Bundeskanzler Friedrich Merz zum Haushaltsgesetz 2027](https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/bulletin/bk-haushaltsgesetz-2027-2452202) · Bundesregierung, Bulletin 82-1, Rede in der Haushaltsdebatte des Bundestags am 09.09.2026 (keine Regierungserklärung); zitiert einen Brief, der unter anderem Tafeln als Beispiel für Deutschlands Chancen nennt.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. Zitierter Brief nennt Tafeln als Beispiel für Deutschlands Chancen; Haushaltsrede, keine Regierungserklärung.
+
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Wortlautkontrolle der Videostelle: Wie genau gibt der Sprecher die Äußerung wieder?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-18 (Claude): Bundestagszusammenfassung und Medienbericht zur Regierungserklärung vom 9. Juli 2026 gelesen. Gepruefte Quellen: S128, S129. Ergebnis: Keine Erwähnung von Tafeln oder Suppenküchen.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Volltexte der Kanzlerreden vor dem Bundestag vor der Aufnahme am 23.09.2026 gesucht, also Regierungserklärung 9. Juli und Haushaltsrede 9. September 2026. Gepruefte Quellen: S201, S202. Ergebnis: Regierungserklärung ohne Tafeln. In der Haushaltsrede zitiert Merz einen Brief, der Tafeln neben Vereinen und Nachbarschaftshilfe als Beispiel für Deutschlands Chancen nennt; Suppenküchen kommen nicht vor.
 
 ## mlxFA9T88I0-A0368
 

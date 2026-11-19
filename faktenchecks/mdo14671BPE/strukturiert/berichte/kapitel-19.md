@@ -161,7 +161,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
@@ -176,7 +176,17 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Biografien Merkels mit Quellenangaben zu Kasners Umzugsmotiv auswerten.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Eine biografische Fachquelle zu Kasners eigenen Motiven für den Umzug 1954.
+
+- Durchgang 1 am 2026-11-18 (Claude): Biografie Merkels, Lexikoneintrag zu Kasner und Fachbeitrag zu Theologen in der DDR gelesen. Gepruefte Quellen: S053, S105, S118. Ergebnis: Kirchlicher Anlass belegt, kein Beleg für sozialistische Überzeugung oder erwartete Privilegien.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Deutsche Biographie und Nachrufe auf Kasner gesucht. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Deutsche Biographie nur mit Registereintrag ohne Motiv; Nachruf des Tagesspiegels nur teilweise lesbar (Bezahlschranke), Motiv im lesbaren Teil nicht genannt.
 
 ## mdo14671BPE-A0183
 
@@ -306,7 +316,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
@@ -321,7 +331,17 @@ Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.1
 
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Weitere Entwicklung im Verfahren um die Herausgabe der Unterlagen verfolgen.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Herausgabefähige Stasi-Unterlagen oder eine wissenschaftliche Aktenauswertung.
+
+- Durchgang 1 am 2026-11-18 (Claude): Gerichtsmitteilung, Bericht zum Urteil und Merkels Selbstauskunft gelesen. Gepruefte Quellen: S025, S087, S088. Ergebnis: Keine Akten- oder Gerichtsbelege für eine MfS-Tätigkeit.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Faktenchecks und Presseberichte zu Merkels Stasi-Unterlagen und zum Urteil gesucht. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Keine neuen Belege für oder gegen eine MfS-Tätigkeit.
 
 ## mdo14671BPE-A0186
 
@@ -676,7 +696,7 @@ Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend k
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
 
 ### Zugeordnete Quellen
 
@@ -688,6 +708,16 @@ Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.1
 
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Nachfrage beim Bundesarchiv zum Bestand und zu bekannten Verlusten von Unterlagen.
+
+### Recherchedokumentation
+
+Einordnung: Recherche ohne ausreichendes Ergebnis. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Eine überprüfbare Quelle für die Existenz, Vernichtung oder Kopien belastender Merkel-Unterlagen.
+
+- Durchgang 1 am 2026-11-18 (Claude): Bundesarchiv-Beitrag zu den Rosenholz-Dateien und Bericht zum Urteil gelesen. Gepruefte Quellen: S052, S087. Ergebnis: Kein Merkel-Bestand, keine Angaben zu Vernichtung oder Kopien.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Suche nach Berichten über Kopien von Merkel-Unterlagen in Russland oder den USA und nach Faktenchecks dazu. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Nur unbelegte Spekulationen ohne Quellenangabe gefunden; keine geeignete Quelle.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

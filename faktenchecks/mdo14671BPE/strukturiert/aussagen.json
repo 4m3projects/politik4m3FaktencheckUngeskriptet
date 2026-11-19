@@ -1117,7 +1117,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
       },
       "sourceRefs": [
         {
@@ -1129,7 +1129,9 @@
           "note": "Altersangabe 25 am 29.10.2025."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Aufnahmedatum beim Kanal oder in Begleitangaben zur Folge erfragen oder ermitteln."
+      ],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0001",
@@ -1149,7 +1151,32 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Geburtsdatum und datierte Altersangaben in Lexikon und Presse gesucht.",
+            "sourceIds": [
+              "S112",
+              "S113"
+            ],
+            "result": "Geburtsdatum 18.08.2000; Alter 26 erst ab 18.08.2026."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang: Aufnahmedatum der Folge über Podcastverzeichnisse, Transkriptdienste und Presseberichte zur Folge gesucht.",
+            "sourceIds": [],
+            "result": "Kein Aufnahmedatum gefunden; nur das Veröffentlichungsdatum 16.11.2026 ist bekannt."
+          }
+        ],
+        "missingInformation": "Das Aufnahmedatum des Gesprächs (Altersangabe stimmt nur bei Aufnahme ab 18.08.2026).",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0002",
@@ -1165,7 +1192,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
       },
       "sourceRefs": [
         {
@@ -1173,7 +1200,9 @@
           "note": "Gastgeber nennt Vereidigungszeremonie, Seibt selbst den Inauguration Ball."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Eigene datierte Beiträge Seibts vom Januar 2025 auf ihren Kanälen sichten (nur auf Jens' Rechner möglich)."
+      ],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0002",
@@ -1210,7 +1239,31 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Recherche ohne ausreichendes Ergebnis",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Websuche nach Berichten über ihre Teilnahme an Veranstaltungen zur Amtseinführung; Wortlautkontrolle der Videostelle.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Nur ihre eigene Schilderung im Interview."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang mit englischen Begriffen und Namen der Bälle, Fotostrecken und Gästeberichte zu den Inaugural Balls 2025 durchsucht.",
+            "sourceIds": [],
+            "result": "Keine unabhängige Erwähnung gefunden."
+          }
+        ],
+        "missingInformation": "Ein unabhängiger, datierter Beleg (Gästeliste, Bericht, Foto) für ihre Teilnahme.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0003",
@@ -8718,7 +8771,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
       },
       "sourceRefs": [
         {
@@ -8726,7 +8779,9 @@
           "note": "Eigene Schilderung der Teilnahme an Butler und Madison Square Garden."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Eigene datierte Beiträge Seibts vom Herbst 2024 sichten (nur auf Jens' Rechner möglich)."
+      ],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0189",
@@ -8746,7 +8801,31 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Recherche ohne ausreichendes Ergebnis",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Websuche nach Berichten über ihre Teilnahme; Wortlautkontrolle der Videostelle.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Nur ihre eigene Schilderung im Interview."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang mit englischen Begriffen: Berichte über die Kundgebung im Madison Square Garden (27.10.2024) und die zweite Butler-Kundgebung durchsucht.",
+            "sourceIds": [],
+            "result": "Berichte zu den Kundgebungen gefunden, aber keine Erwähnung Seibts."
+          }
+        ],
+        "missingInformation": "Ein unabhängiger, datierter Beleg für ihre Anwesenheit bei den genannten Kundgebungen.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0163",
@@ -9671,7 +9750,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
       },
       "sourceRefs": [
         {
@@ -9687,7 +9766,9 @@
           "note": "Umzug auf Wunsch Wölbers wegen Pfarrermangels (ohne Fußnote); spätere Privilegien."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Biografien Merkels mit Quellenangaben zu Kasners Umzugsmotiv auswerten."
+      ],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0212",
@@ -9707,7 +9788,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Biografie Merkels, Lexikoneintrag zu Kasner und Fachbeitrag zu Theologen in der DDR gelesen.",
+            "sourceIds": [
+              "S053",
+              "S105",
+              "S118"
+            ],
+            "result": "Kirchlicher Anlass belegt, kein Beleg für sozialistische Überzeugung oder erwartete Privilegien."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang: Deutsche Biographie und Nachrufe auf Kasner gesucht.",
+            "sourceIds": [],
+            "result": "Deutsche Biographie nur mit Registereintrag ohne Motiv; Nachruf des Tagesspiegels nur teilweise lesbar (Bezahlschranke), Motiv im lesbaren Teil nicht genannt."
+          }
+        ],
+        "missingInformation": "Eine biografische Fachquelle zu Kasners eigenen Motiven für den Umzug 1954.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0183",
@@ -9823,7 +9930,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
       },
       "sourceRefs": [
         {
@@ -9839,7 +9946,9 @@
           "note": "Merkels eigene Schilderung einer abgelehnten Anwerbung; Selbstauskunft, kein Aktenbeleg."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Weitere Entwicklung im Verfahren um die Herausgabe der Unterlagen verfolgen."
+      ],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0216",
@@ -9859,7 +9968,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Gerichtsmitteilung, Bericht zum Urteil und Merkels Selbstauskunft gelesen.",
+            "sourceIds": [
+              "S025",
+              "S087",
+              "S088"
+            ],
+            "result": "Keine Akten- oder Gerichtsbelege für eine MfS-Tätigkeit."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang: Faktenchecks und Presseberichte zu Merkels Stasi-Unterlagen und zum Urteil gesucht.",
+            "sourceIds": [],
+            "result": "Keine neuen Belege für oder gegen eine MfS-Tätigkeit."
+          }
+        ],
+        "missingInformation": "Herausgabefähige Stasi-Unterlagen oder eine wissenschaftliche Aktenauswertung.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0186",
@@ -10219,7 +10354,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
       },
       "sourceRefs": [
         {
@@ -10231,7 +10366,9 @@
           "note": "Keine herausgabefähigen Unterlagen; keine Angaben zu Vernichtung oder Kopien."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Nachfrage beim Bundesarchiv zum Bestand und zu bekannten Verlusten von Unterlagen."
+      ],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0224",
@@ -10251,7 +10388,32 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Recherche ohne ausreichendes Ergebnis",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Bundesarchiv-Beitrag zu den Rosenholz-Dateien und Bericht zum Urteil gelesen.",
+            "sourceIds": [
+              "S052",
+              "S087"
+            ],
+            "result": "Kein Merkel-Bestand, keine Angaben zu Vernichtung oder Kopien."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang: Suche nach Berichten über Kopien von Merkel-Unterlagen in Russland oder den USA und nach Faktenchecks dazu.",
+            "sourceIds": [],
+            "result": "Nur unbelegte Spekulationen ohne Quellenangabe gefunden; keine geeignete Quelle."
+          }
+        ],
+        "missingInformation": "Eine überprüfbare Quelle für die Existenz, Vernichtung oder Kopien belastender Merkel-Unterlagen.",
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0194",

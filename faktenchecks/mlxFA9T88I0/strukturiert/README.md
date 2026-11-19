@@ -37,10 +37,10 @@ Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eig
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
 | Belegt | 36 | 24.8 % |
-| Teilweise belegt | 76 | 52.4 % |
+| Teilweise belegt | 78 | 53.8 % |
 | Irreführend / Kontext fehlt | 21 | 14.5 % |
 | Widerlegt | 7 | 4.8 % |
-| Nicht ausreichend belegbar | 5 | 3.4 % |
+| Nicht ausreichend belegbar | 3 | 2.1 % |
 | Meinung / Prognose | 80 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
