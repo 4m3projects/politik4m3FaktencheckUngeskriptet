@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gezielter Teilbestand aus allen elf Originalkapiteln. Alle Kapitel sind im Prüfbericht vertreten. Die vollständige Sachprüfung der gut dreistündigen Folge und der durchgängige Hör- und Sichtabgleich stehen aus.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst.
 
-[Codex] Offizielles Kapitelverzeichnis und ausgewählte zeitmarkierte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Die Sachquellen stehen bei den jeweiligen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
 
 ## QxMuH1bjMwo-A0003
 
@@ -89,6 +89,180 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 
 - [Hamed Abdel-Samad: Offener Brief zum Rücktritt](https://hpd.de/artikel/hamed-abdel-samad-zieht-sich-deutscher-islamkonferenz-zurueck-18677) · Im Humanistischen Pressedienst am 11.11.2020 veröffentlicht.
   Quellenzugriff am 2026-11-19. Brief mit eigener Angabe zur Einladung rund zehn Jahre davor und zur Beendigung der Teilnahme gelesen. Direkte Erklärung des Rücktritts und Selbstauskunft zur Einladung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0021
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die ersten islamischen Kalifate entstanden im 7. Jahrhundert.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:19:33–00:19:46](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=1173s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Chronologie des Metropolitan Museum of Art verzeichnet die ersten vier Kalifen für 632 bis 661 und das umayyadische Kalifat ab 661. Die Datierung ist der hier geprüfte Teil der Aussage.
+
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Metropolitan Museum of Art: Arabian Peninsula, 500–1000 A.D.](https://www.metmuseum.org/fr/toah/ht/06/wap.html) · Heilbrunn Timeline of Art History, Abschnitte zu den frühen Kalifen und Umayyaden.
+  Quellenzugriff am 2026-11-19. Chronologie zu den Nachfolgern Muhammads ab 632 und zum umayyadischen Kalifat ab 661 gelesen. Chronologie der frühen Kalifate.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0022
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Das christliche Kaisertum habe als Vorbild für die Entstehung des islamischen Kalifats gedient.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:19:25–00:19:46](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=1165s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur weiteren Sachprüfung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Noch nicht geprüft – die Chronologie bestätigt das zeitliche Nebeneinander, klärt aber einen konkreten institutionellen Einfluss nicht.
+
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Zur weiteren Prüfung erfasst.
+
+### Zugeordnete Quellen
+
+- [Metropolitan Museum of Art: Arabian Peninsula, 500–1000 A.D.](https://www.metmuseum.org/fr/toah/ht/06/wap.html) · Heilbrunn Timeline of Art History, Abschnitte zu den frühen Kalifen und Umayyaden.
+  Quellenzugriff am 2026-11-19. Chronologie zu den Nachfolgern Muhammads ab 632 und zum umayyadischen Kalifat ab 661 gelesen. Chronologie und historische Berührungspunkte mit dem Byzantinischen Reich.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche konkreten byzantinischen Institutionen oder Herrschaftsvorstellungen lassen sich laut Fachliteratur im frühen Kalifat nachweisen?
+
+## QxMuH1bjMwo-A0023
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Kaiser Konstantin habe das Christentum zu einer offiziellen Religion des Römischen Reiches erklärt.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:26:41–00:26:57](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=1601s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Kirche erhielt unter Konstantin staatliche Förderung und das Christentum wurde 313 geduldet. Die reichsweite Vorschrift, das nizänische Christentum anzunehmen, erließen Theodosius I. und seine Mitkaiser 380. Die Gleichsetzung von Duldung und Förderung mit dieser späteren Rechtsstellung verkürzt die Entwicklung.
+
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Orthodox Church in America: Constantine](https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/fourth-century/constantine) · Kirchengeschichtlicher Überblick zu Konstantin.
+  Quellenzugriff am 2026-11-19. Abschnitt zur Religionsfreiheit und Begünstigung der Kirche unter Konstantin gelesen. Duldung, Förderung und Konstantins Verhältnis zur Kirche.
+
+- [Codex Theodosianus: De Fide Catholica](https://sourcebooks.fordham.edu/source/codex-theod1.asp) · Englische Quellenedition der Fordham University, Codex Theodosianus 16.1.2.
+  Quellenzugriff am 2026-11-19. Edikt der Kaiser Gratian, Valentinian und Theodosius von 380 gelesen. Wortlaut des Edikts von 380.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0024
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der Innenminister habe etwa zehn muslimische Intellektuelle neben den Verbänden zur Deutschen Islam Konferenz eingeladen.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:33:01–00:33:09](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=1981s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die amtliche Broschüre für die zweite Phase führt zehn muslimische Einzelpersonen und gesondert die Organisationsvertreter auf. Einzelperson ist die offizielle Bezeichnung. Die Broschüre belegt weder eine einheitliche Berufsgruppe noch für jede Person eine persönlich ausgesprochene Einladung des Ministers.
+
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Deutsche Islam Konferenz: Broschüre zur zweiten Phase](https://www.deutsche-islam-konferenz.de/SharedDocs/Anlagen/DE/Downloads/LenkungsausschussPlenum/2012_flyer%20_dik.pdf?__blob=publicationFile&v=3) · Amtliche Broschüre, S. 23.
+  Quellenzugriff am 2026-11-19. Liste der muslimischen Einzelpersonen gelesen. Offizielle Teilnehmerübersicht der zweiten Phase.
+
+- [Hamed Abdel-Samad: Offener Brief zum Rücktritt](https://hpd.de/artikel/hamed-abdel-samad-zieht-sich-deutscher-islamkonferenz-zurueck-18677) · Im Humanistischen Pressedienst am 11.11.2020 veröffentlicht.
+  Quellenzugriff am 2026-11-19. Brief mit eigener Angabe zur Einladung rund zehn Jahre davor und zur Beendigung der Teilnahme gelesen. Eigene Darstellung von Abdel-Samads Einladung.
 
 ### Offene Fragen und Unsicherheiten
 

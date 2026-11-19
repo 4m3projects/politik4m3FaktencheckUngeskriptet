@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Offizielles Kapitelverzeichnis und ausgewählte zeitmarkierte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Die Sachquellen stehen bei den jeweiligen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.",
-    "coverageNote": "Gezielter Teilbestand aus allen elf Originalkapiteln. Alle Kapitel sind im Prüfbericht vertreten. Die vollständige Sachprüfung der gut dreistündigen Folge und der durchgängige Hör- und Sichtabgleich stehen aus."
+    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.",
+    "coverageNote": "Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst."
   },
   "legacyPoints": [],
   "sources": [
@@ -206,6 +206,150 @@
       "details": "Aufzeichnung beim YouTube-Kanal von Hamed Abdel-Samad, etwa 08:12–08:59.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Automatische deutsche Untertitel der Wortmeldung und des Anschlusses an Sylvia Löhrmann im Player gelesen."
+    },
+    {
+      "id": "S025",
+      "title": "dtv: With God on their Side",
+      "url": "https://www.dtv.de/buch/with-god-on-their-side-45027",
+      "details": "Katalog des veröffentlichenden Verlags, E-Book.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Titel, Autor, Untertitel und Erscheinungsdatum im Katalog gelesen."
+    },
+    {
+      "id": "S026",
+      "title": "Bob Dylan: With God on Our Side",
+      "url": "https://www.bobdylan.com/songs/god-our-side/",
+      "details": "Offizielles Werkverzeichnis des Künstlers.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Titel und Vermerk zur Originalveröffentlichung auf dem Album von 1964 gelesen."
+    },
+    {
+      "id": "S027",
+      "title": "Metropolitan Museum of Art: Arabian Peninsula, 500–1000 A.D.",
+      "url": "https://www.metmuseum.org/fr/toah/ht/06/wap.html",
+      "details": "Heilbrunn Timeline of Art History, Abschnitte zu den frühen Kalifen und Umayyaden.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Chronologie zu den Nachfolgern Muhammads ab 632 und zum umayyadischen Kalifat ab 661 gelesen."
+    },
+    {
+      "id": "S028",
+      "title": "Orthodox Church in America: Constantine",
+      "url": "https://www.oca.org/orthodoxy/the-orthodox-faith/church-history/fourth-century/constantine",
+      "details": "Kirchengeschichtlicher Überblick zu Konstantin.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitt zur Religionsfreiheit und Begünstigung der Kirche unter Konstantin gelesen."
+    },
+    {
+      "id": "S029",
+      "title": "Codex Theodosianus: De Fide Catholica",
+      "url": "https://sourcebooks.fordham.edu/source/codex-theod1.asp",
+      "details": "Englische Quellenedition der Fordham University, Codex Theodosianus 16.1.2.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Edikt der Kaiser Gratian, Valentinian und Theodosius von 380 gelesen."
+    },
+    {
+      "id": "S030",
+      "title": "Deutscher Bundestag: Antwort der Bundesregierung, Drucksache 18/7311",
+      "url": "https://dserver.bundestag.de/btd/18/073/1807311.pdf",
+      "details": "Regierungsantwort vom 20. Januar 2016 zu den Binnengrenzkontrollen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Vorbemerkung zur Wiedereinführung der Grenzkontrollen am 13. September 2015 sowie Antworten zur Durchführung gelesen."
+    },
+    {
+      "id": "S031",
+      "title": "UK Parliament: Government of the Raj 1858–1914",
+      "url": "https://www.parliament.uk/about/living-heritage/evolutionofparliament/legislativescrutiny/parliament-and-empire/parliament-and-the-american-colonies-before-1765/government-of-the-raj-1858-1914/",
+      "details": "Parlamentsdarstellung zum Government of India Act 1858.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitt zur Übernahme der Herrschaft von der East India Company durch die Krone gelesen."
+    },
+    {
+      "id": "S032",
+      "title": "National Army Museum: Independence and Partition, 1947",
+      "url": "https://www.nam.ac.uk/explore/independence-and-partition-1947",
+      "details": "Museumsdarstellung mit Archivmaterial zur Teilung Britisch-Indiens.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitte zu Teilung, Flucht und Gewalt im Umfeld der Unabhängigkeit gelesen."
+    },
+    {
+      "id": "S033",
+      "title": "Metropolitan Museum of Art: The Five Pillars of Islam",
+      "url": "https://www.metmuseum.org/es/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam",
+      "details": "Lehrmaterial zur Kunst und Religion der islamischen Welt.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Alle fünf Glaubenspflichten einschließlich Fasten im Ramadan gelesen."
+    },
+    {
+      "id": "S034",
+      "title": "Land Berlin: Amtlich festgestelltes Ergebnis der Abgeordnetenhauswahl 2026",
+      "url": "https://www.berlin.de/aktuelles/10692677-958090-wahlergebnis-amtlich-festgestellt-153-si.html",
+      "details": "Bekanntgabe des amtlichen Endergebnisses vom 12. Oktober 2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitt zu den Zweitstimmenanteilen und zur stärksten Kraft gelesen."
+    },
+    {
+      "id": "S035",
+      "title": "Forschungsgruppe Wahlen: Berliner Wahltagsbefragung, Tabelle in der Wahlanalyse der KAS",
+      "url": "https://www.kas.de/documents/252038/40211523/Wahlanalyse%2Bder%2BAbgeordnetenhauswahl%2Bin%2BBerlin%2Bam%2B20.%2BSeptember%2B2026.pdf/ead0e1ed-a7d0-5949-60a9-1938fe16c0db?t=1793601261023&version=1.3",
+      "details": "Erhebungsdaten der Forschungsgruppe Wahlen, veröffentlicht in einer Tabelle der Konrad-Adenauer-Stiftung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zeile Muslimisch, Anteil für Die Linke und Gesamtfallzahl der Wahltagsbefragung gelesen."
+    },
+    {
+      "id": "S036",
+      "title": "Auswärtiges Amt: Verurteilung des Mordaufrufs gegen Hamed Abdel-Samad",
+      "url": "https://www.auswaertiges-amt.de/de/newsroom/130613-bm-abdelsamad-256308",
+      "details": "Erklärung des Bundesaußenministers vom 13. Juni 2013.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zeitgenössische amtliche Erklärung zum öffentlich bekannt gewordenen Mordaufruf gelesen."
+    },
+    {
+      "id": "S037",
+      "title": "Congressional Research Service: Congress and the Middle East, 2011–2020",
+      "url": "https://www.congress.gov/crs_external_products/R/PDF/R46796/R46796.5.pdf",
+      "details": "CRS-Bericht R46796, Abschnitt The Morsi Presidency: 2012–2013.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitte zur Präsidentschaft Morsis, zur Muslimbruderschaft und zur Machtkonkurrenz mit dem Militär gelesen."
+    },
+    {
+      "id": "S038",
+      "title": "Droemer Knaur: Mohamed. Eine Abrechnung",
+      "url": "https://www.droemer-knaur.de/buch/hamed-abdel-samad-mohamed-9783426433539",
+      "details": "Katalog des veröffentlichenden Verlags.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Titel, Autor, Veröffentlichungsangaben und Verlagsbeschreibung gelesen."
+    },
+    {
+      "id": "S039",
+      "title": "Verfassung der DDR, Fassung von 1974: Artikel 39",
+      "url": "https://www.gvoon.de/artikel-39-verfassung-deutsche-demokratische-republik-ddr-1968-fassung-1974-kommentar-1982-nachtrag-1997.html",
+      "details": "Verfassungstext mit separatem verfassungsrechtlichen Kommentar.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Absätze zur Bekenntnisfreiheit, Religionsausübung und Tätigkeit der Religionsgemeinschaften gelesen."
+    },
+    {
+      "id": "S040",
+      "title": "Vereinigte Arabische Emirate: Verfassung",
+      "url": "https://u.ae/en/about-the-uae/the-constitution-of-the-uae",
+      "details": "Verfassungsübersicht auf dem offiziellen Regierungsportal.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Angaben zur Föderation der sieben Emirate und zur Stellung des Islam gelesen."
+    },
+    {
+      "id": "S041",
+      "title": "Vereinigte Arabische Emirate: Bundesstrafgesetz, Art. 363",
+      "url": "https://www.uaelegislation.gov.ae/en/legislations/1529/download",
+      "details": "Amtliche englische Fassung von Federal Decree-Law No. 31 of 2021.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Regeln zu erlaubtem Alkoholkonsum, öffentlichem Trinken und störendem Verhalten in betrunkenem Zustand gelesen."
+    },
+    {
+      "id": "S042",
+      "title": "Bußgeldkatalog-Verordnung: Anhang, Tabelle 1",
+      "url": "https://www.gesetze-im-internet.de/bkatv_2013/anhang.html",
+      "details": "Amtlicher Bußgeldkatalog, Nummer 11.3.1.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Regelsätze für Geschwindigkeitsüberschreitungen eines gewöhnlichen Pkw bis 10 km/h verglichen."
     }
   ],
   "speakers": [
@@ -1079,6 +1223,943 @@
           "roleBasis": "Aussage des Gastes im Textkontext.",
           "note": "Antwort auf die Abschlussfrage des Moderators.",
           "timeBasis": "Ungefähres Zeitfenster auf der YouTube-Videospur.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0019",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Abdel-Samads Buch heißt With God on their Side und behandelt das Verhältnis von Politik und Religion.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Verlagskatalog bestätigt Titel und Untertitel. Der Verlag datiert die Veröffentlichung des E-Books auf den 8. Oktober 2026.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S025",
+          "note": "Verlagsangaben zu Titel, Autor und Veröffentlichung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0019",
+          "startSeconds": 266,
+          "endSeconds": 274,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0020",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bob Dylan veröffentlichte in den 1960er-Jahren ein Lied mit einem ähnlichen Titel über Krieg und religiöse Rechtfertigung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das offizielle Werkverzeichnis nennt den Titel With God on Our Side und nennt 1964 als Jahr der Originalveröffentlichung. Der Liedtext behandelt US-amerikanische Kriege und die Vorstellung göttlichen Beistands. Die Beschreibung der eigenen Titelwahl stammt vom Buchautor.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S026",
+          "note": "Offizieller Liedtitel, Text und Erstveröffentlichung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0020",
+          "startSeconds": 274,
+          "endSeconds": 289,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0021",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die ersten islamischen Kalifate entstanden im 7. Jahrhundert.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Chronologie des Metropolitan Museum of Art verzeichnet die ersten vier Kalifen für 632 bis 661 und das umayyadische Kalifat ab 661. Die Datierung ist der hier geprüfte Teil der Aussage.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S027",
+          "note": "Chronologie der frühen Kalifate."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0021",
+          "startSeconds": 1173,
+          "endSeconds": 1186,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0022",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das christliche Kaisertum habe als Vorbild für die Entstehung des islamischen Kalifats gedient.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Chronologie bestätigt das zeitliche Nebeneinander, klärt aber einen konkreten institutionellen Einfluss nicht.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Zur weiteren Prüfung erfasst."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S027",
+          "note": "Chronologie und historische Berührungspunkte mit dem Byzantinischen Reich."
+        }
+      ],
+      "openQuestions": [
+        "Welche konkreten byzantinischen Institutionen oder Herrschaftsvorstellungen lassen sich laut Fachliteratur im frühen Kalifat nachweisen?"
+      ],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0022",
+          "startSeconds": 1165,
+          "endSeconds": 1186,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur weiteren Sachprüfung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0023",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kaiser Konstantin habe das Christentum zu einer offiziellen Religion des Römischen Reiches erklärt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Kirche erhielt unter Konstantin staatliche Förderung und das Christentum wurde 313 geduldet. Die reichsweite Vorschrift, das nizänische Christentum anzunehmen, erließen Theodosius I. und seine Mitkaiser 380. Die Gleichsetzung von Duldung und Förderung mit dieser späteren Rechtsstellung verkürzt die Entwicklung.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S028",
+          "note": "Duldung, Förderung und Konstantins Verhältnis zur Kirche."
+        },
+        {
+          "sourceId": "S029",
+          "note": "Wortlaut des Edikts von 380."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0023",
+          "startSeconds": 1601,
+          "endSeconds": 1617,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0024",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Innenminister habe etwa zehn muslimische Intellektuelle neben den Verbänden zur Deutschen Islam Konferenz eingeladen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die amtliche Broschüre für die zweite Phase führt zehn muslimische Einzelpersonen und gesondert die Organisationsvertreter auf. Einzelperson ist die offizielle Bezeichnung. Die Broschüre belegt weder eine einheitliche Berufsgruppe noch für jede Person eine persönlich ausgesprochene Einladung des Ministers.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Offizielle Teilnehmerübersicht der zweiten Phase."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Eigene Darstellung von Abdel-Samads Einladung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0024",
+          "startSeconds": 1981,
+          "endSeconds": 1989,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0025",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Zusammenhang mit der Fluchtmigration 2015 seien die Grenzen geöffnet und Menschen ohne Steuerung eingelassen worden.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Bundesregierung dokumentiert ab dem 13. September 2015 zeitweise Kontrollen an den Binnengrenzen, zunächst mit Schwerpunkt Österreich. Einreise- und aufenthaltsrechtliche Regeln galten weiter. Die zugespitzte Beschreibung trennt weder einzelne Aufnahmesituationen noch die Frage der Registrierung von dieser allgemeinen Grenzregelung.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S030",
+          "note": "Vorbemerkung mit Beginn, Zweck und Reichweite der Kontrollen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0025",
+          "startSeconds": 2531,
+          "endSeconds": 2549,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0026",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die britische Krone übernahm Mitte des 19. Jahrhunderts offiziell die Herrschaft in Indien, nach einer früheren Phase britischer Präsenz.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Government of India Act von 1858 übertrug die Herrschaft von der East India Company auf die Krone. Die Parlamentsdarstellung unterscheidet diese Zäsur von der vorherigen Präsenz und Territorialherrschaft der Gesellschaft.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S031",
+          "note": "Übergang zur direkten Herrschaft 1858."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0026",
+          "startSeconds": 3499,
+          "endSeconds": 3513,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0027",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im britisch beherrschten Indien seien für das Wahlrecht nach Religionszugehörigkeit getrennte Wahlkreise gebildet worden.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – für die Einordnung sind die zeitgenössischen Wahlregeln und die Abgrenzung zwischen getrennten Wählerschaften, reservierten Sitzen und geografischen Wahlkreisen nötig.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Zur weiteren Prüfung erfasst."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Wahlregeln galten in welchen Jahren und Provinzen für die genannten Gruppen?"
+      ],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0027",
+          "startSeconds": 3522,
+          "endSeconds": 3530,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur weiteren Sachprüfung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0028",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Mit der Unabhängigkeit 1947 eskalierte die Gewalt zwischen Religionsgemeinschaften im geteilten Britisch-Indien.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Indien und Pakistan wurden im August 1947 unabhängig. Das National Army Museum dokumentiert Gewalt und Massenflucht im Zuge der Teilung. Die Gewalteskalation hatte bereits vor der formalen Unabhängigkeit begonnen.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S032",
+          "note": "Unabhängigkeit, Teilung und zeitlicher Verlauf der Gewalt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0028",
+          "startSeconds": 3534,
+          "endSeconds": 3545,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0029",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Gast beschreibt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis als vollständige Liste der Säulen des Islam.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Alle vier genannten Pflichten gehören zu den fünf Säulen. Das Fasten im Ramadan fehlt in der Aufzählung. Diese Einordnung betrifft die Glaubenspflichten.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S033",
+          "note": "Vollständige Aufzählung der fünf Säulen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0029",
+          "startSeconds": 4986,
+          "endSeconds": 5001,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0030",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Linke sei bei der Berliner Abgeordnetenhauswahl 2026 stark geworden und maßgeblich von der muslimischen Community gewählt worden.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Linke wurde mit 25,7 Prozent der Zweitstimmen stärkste Kraft. In der Wahltagsbefragung der Forschungsgruppe Wahlen wählten 51 Prozent der muslimischen Befragten die Linke. Das belegt überdurchschnittliche Unterstützung in dieser Gruppe. Der Wert beziffert den Anteil unter muslimischen Befragten. Für den umgekehrten Anteil muslimischer Stimmen an allen Linke-Stimmen und die Frage, ob diese den Wahlsieg entschieden, wären weitere Angaben nötig.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S034",
+          "note": "Amtliches Endergebnis und stärkste Kraft."
+        },
+        {
+          "sourceId": "S035",
+          "note": "Wahltagsbefragung nach Religionszugehörigkeit."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0030",
+          "startSeconds": 5852,
+          "endSeconds": 5860,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0031",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Drei Prediger hätten 2013 im ägyptischen Fernsehen zum Tod Abdel-Samads aufgerufen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das Auswärtige Amt verurteilte im Juni 2013 einen öffentlich bekannt gewordenen Mordaufruf. Das Autorenporträt des dtv bestätigt eine Fatwa in diesem Jahr. Die genaue Zahl von drei predigenden Personen und deren jeweilige Äußerungen sind damit nicht abgesichert.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S036",
+          "note": "Zeitgenössisch bestätigter Mordaufruf."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Verlagsporträt zur Fatwa von 2013."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0031",
+          "startSeconds": 6235,
+          "endSeconds": 6242,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0032",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Zur Zeit von Abdel-Samads Vortrag in Kairo 2013 war mit Mohammed Morsi ein führender Muslimbruder Präsident Ägyptens.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Bericht des Congressional Research Service dokumentiert Morsis Wahl 2012, seine führende Position in der Muslimbruderschaft und das Ende seiner Präsidentschaft im Juli 2013. Die Einordnung beschränkt sich auf das Präsidentenamt zum Zeitpunkt der im Juni dokumentierten Drohung.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S037",
+          "note": "Amtszeit und politische Zugehörigkeit Morsis."
+        },
+        {
+          "sourceId": "S036",
+          "note": "Zeitgenössische Datierung der öffentlichen Kontroverse."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0032",
+          "startSeconds": 6247,
+          "endSeconds": 6252,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0033",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Abdel-Samad veröffentlichte 2015 das Buch Mohamed. Eine Abrechnung, in dem er auch die Psyche des Religionsstifters behandelt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Verlag führt das Buch mit diesem Titel und Veröffentlichungsjahr und beschreibt eine psychologische Darstellungsweise. Die gesonderte Behauptung, das Werk sei das erste seiner Art, ist damit nicht geklärt.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S038",
+          "note": "Bibliografische Angaben und Beschreibung des Buchs."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0033",
+          "startSeconds": 6668,
+          "endSeconds": 6686,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0034",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Recep Tayyip Erdoğan habe in der Türkei um 48 Prozent oder weniger und in den Wahlbereichen Münster und Köln um 73 Prozent oder mehr erreicht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – in der Passage fehlen Wahljahr und Wahlgang. Ein Vergleich setzt außerdem dieselbe Wahlrunde und den jeweiligen Bezugsraum voraus.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Zur weiteren Prüfung erfasst."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche Wahl und welcher Wahlgang sind gemeint, und welche amtlichen Ergebnisse weist der türkische Wahlrat für das Inland und die beiden Konsularwahlbereiche aus?"
+      ],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0034",
+          "startSeconds": 8700,
+          "endSeconds": 8712,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur weiteren Sachprüfung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0035",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Religion sei in der DDR verboten gewesen.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Artikel 39 der DDR-Verfassung garantierte formal Glaubensbekenntnis und Religionsausübung und erkannte die Tätigkeit von Religionsgemeinschaften an. Die Verfassung widerlegt ein generelles gesetzliches Verbot. Die tatsächliche Benachteiligung und staatliche Kontrolle religiöser Menschen ist davon getrennt zu betrachten.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S039",
+          "note": "Wortlaut des Artikels 39 zur Religionsausübung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0035",
+          "startSeconds": 9761,
+          "endSeconds": 9769,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0036",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein österreichisches Gesetz verbiete Richterinnen das Tragen eines Kopftuchs oder anderer religiöser Symbole.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der Gast nennt keine Vorschrift oder Jahreszahl. Zu klären sind besondere Dienst- oder Verfahrensregeln für Richter und der zeitliche Bezug der im Anschluss beschriebenen Demonstration.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Zur weiteren Prüfung erfasst."
+      },
+      "sourceRefs": [],
+      "openQuestions": [
+        "Welche österreichische Rechtsvorschrift oder Dienstregel lag zur gemeinten Zeit für Richterinnen vor, und auf welche Kundgebung bezieht sich die Aussage?"
+      ],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0036",
+          "startSeconds": 10214,
+          "endSeconds": 10224,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur weiteren Sachprüfung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0037",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Dubai sei ein islamischer Staat.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Dubai ist eines von sieben Emiraten der Vereinigten Arabischen Emirate. Art. 7 der Bundesverfassung bestimmt den Islam als offizielle Religion der Föderation. Die Bezeichnung trifft den religiösen Bezug, verwechselt aber das Emirat mit dem souveränen Bundesstaat.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S040",
+          "note": "Föderale Struktur und Staatsreligion der VAE."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0037",
+          "startSeconds": 10953,
+          "endSeconds": 10964,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0038",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Alkohol kann in Dubai in zugelassenem Rahmen getrunken werden. Unbeschränkter öffentlicher Alkoholkonsum und störendes Verhalten in betrunkenem Zustand sind verboten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Art. 363 des Bundesstrafgesetzes lässt Konsum an zugelassenen Orten und in geregelten Fällen straffrei und erfasst das Trinken im öffentlichen Raum oder an nicht zugelassenen Orten sowie öffentliche Trunkenheit mit Störung oder Belästigung.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S041",
+          "note": "Art. 363 Abs. 1 und 3 des Bundesstrafgesetzes."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0038",
+          "startSeconds": 10964,
+          "endSeconds": 10989,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0039",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Wer in Deutschland mit einem gewöhnlichen Pkw bis zu 10 km/h zu schnell fährt, zahle regelmäßig 50 Euro.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Der Bußgeldkatalog nennt für diese Fallgruppe 30 Euro innerorts und 20 Euro außerorts. Er sieht abweichende Regelsätze für andere Fahrzeugklassen und gefährliche Sonderfälle vor. Im Gespräch dient der Betrag als Beispiel für ein Gedankenexperiment.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S042",
+          "note": "Tabelle 1, Nr. 11.3.1 für gewöhnliche Kraftfahrzeuge."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0039",
+          "startSeconds": 11404,
+          "endSeconds": 11413,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": null,
+          "attributionStatus": "Ungeklärt",
+          "attributionBasis": "Der Sprecherwechsel lässt sich aus dem automatischen Transkript allein nicht zuordnen.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
           "timeHistory": []
         }
       ],

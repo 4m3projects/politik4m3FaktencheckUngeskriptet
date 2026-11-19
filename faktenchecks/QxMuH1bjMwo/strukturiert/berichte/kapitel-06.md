@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gezielter Teilbestand aus allen elf Originalkapiteln. Alle Kapitel sind im Prüfbericht vertreten. Die vollständige Sachprüfung der gut dreistündigen Folge und der durchgängige Hör- und Sichtabgleich stehen aus.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst.
 
-[Codex] Offizielles Kapitelverzeichnis und ausgewählte zeitmarkierte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Die Sachquellen stehen bei den jeweiligen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
 
 ## QxMuH1bjMwo-A0012
 
@@ -102,6 +102,93 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 
 - [Haus der Geschichte: Deutschland schafft sich ab](https://www.hdg.de/lemo/bestand/objekt/druckgut-sarrazin-cover.html) · Museumsdatensatz zur 2010 erschienenen Ausgabe.
   Quellenzugriff am 2026-11-19. Objektbeschriftung mit Autor, Verlag und Jahr gelesen. Museumsnachweis der Ausgabe aus dem Jahr 2010.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0029
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der Gast beschreibt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis als vollständige Liste der Säulen des Islam.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:23:06–01:23:21](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=4986s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Alle vier genannten Pflichten gehören zu den fünf Säulen. Das Fasten im Ramadan fehlt in der Aufzählung. Diese Einordnung betrifft die Glaubenspflichten.
+
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Metropolitan Museum of Art: The Five Pillars of Islam](https://www.metmuseum.org/es/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam) · Lehrmaterial zur Kunst und Religion der islamischen Welt.
+  Quellenzugriff am 2026-11-19. Alle fünf Glaubenspflichten einschließlich Fasten im Ramadan gelesen. Vollständige Aufzählung der fünf Säulen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0030
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die Linke sei bei der Berliner Abgeordnetenhauswahl 2026 stark geworden und maßgeblich von der muslimischen Community gewählt worden.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:37:32–01:37:40](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=5852s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Linke wurde mit 25,7 Prozent der Zweitstimmen stärkste Kraft. In der Wahltagsbefragung der Forschungsgruppe Wahlen wählten 51 Prozent der muslimischen Befragten die Linke. Das belegt überdurchschnittliche Unterstützung in dieser Gruppe. Der Wert beziffert den Anteil unter muslimischen Befragten. Für den umgekehrten Anteil muslimischer Stimmen an allen Linke-Stimmen und die Frage, ob diese den Wahlsieg entschieden, wären weitere Angaben nötig.
+
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Land Berlin: Amtlich festgestelltes Ergebnis der Abgeordnetenhauswahl 2026](https://www.berlin.de/aktuelles/10692677-958090-wahlergebnis-amtlich-festgestellt-153-si.html) · Bekanntgabe des amtlichen Endergebnisses vom 12. Oktober 2026.
+  Quellenzugriff am 2026-11-19. Abschnitt zu den Zweitstimmenanteilen und zur stärksten Kraft gelesen. Amtliches Endergebnis und stärkste Kraft.
+
+- [Forschungsgruppe Wahlen: Berliner Wahltagsbefragung, Tabelle in der Wahlanalyse der KAS](https://www.kas.de/documents/252038/40211523/Wahlanalyse%2Bder%2BAbgeordnetenhauswahl%2Bin%2BBerlin%2Bam%2B20.%2BSeptember%2B2026.pdf/ead0e1ed-a7d0-5949-60a9-1938fe16c0db?t=1793601261023&version=1.3) · Erhebungsdaten der Forschungsgruppe Wahlen, veröffentlicht in einer Tabelle der Konrad-Adenauer-Stiftung.
+  Quellenzugriff am 2026-11-19. Zeile Muslimisch, Anteil für Die Linke und Gesamtfallzahl der Wahltagsbefragung gelesen. Wahltagsbefragung nach Religionszugehörigkeit.
 
 ### Offene Fragen und Unsicherheiten
 
