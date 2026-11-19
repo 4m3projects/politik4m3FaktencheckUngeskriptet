@@ -978,7 +978,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Vorausschauende größere Unternehmen investierten nicht mehr im eigenen Betrieb im Inland, sondern im Ausland.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1001,21 +1001,28 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Verallgemeinerung über Investitionsentscheidungen. Prüfbar wären Direktinvestitionsdaten der Bundesbank und Unternehmensbefragungen; keine solche Quelle gelesen.
+Die DIHK-Umfrage 2025 zeigt, dass Industrieunternehmen per Saldo eher im Ausland (+9 Punkte) als im Inland (−17 Punkte) investieren wollen und Kostenersparnis als Motiv so wichtig ist wie zuletzt in der Finanzkrise; große Unternehmen planen deutlich häufiger Auslandsinvestitionen als kleine. Das stützt die Tendenz. Dass größere Unternehmen im Inland gar nicht mehr investierten, geben die Daten aber nicht her, und 2025 flossen nach IW-Hochrechnung erstmals seit Langem mehr Direktinvestitionen nach Deutschland hinein als hinaus.
 
-Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: DIHK-Umfragezusammenfassung 2025 und zwei IW-Veröffentlichungen (Bestand 2024, Ströme 2025) gelesen; Bundesbank-Direktinvestitionsstatistik nicht selbst gelesen, IW-Werte für 2025 sind Hochrechnungen.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): DIHK- und IW-Daten zu Auslandsinvestitionen gelesen; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Foreign Investments 2025: Trends and Challenges for Enterprises](https://www.dihk.de/en/foreign-investments-2025-trends-and-challenges-for-enterprises-171068) · DIHK, Zusammenfassung der Umfrage Auslandsinvestitionen der Industrie 2025; Kostenmotiv 35 %, Investitionssaldo Ausland +9, Inland −17 Punkte.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Investitionssaldo Ausland +9, Inland −17; Kostenmotiv 35 %.
+
+- [Deutsche Auslandsinvestitionen: Seit 2010 mehr als verdoppelt](https://www.iwkoeln.de/presse/pressemitteilungen/samina-sultan-juergen-matthes-deutsche-auslandsinvestitionen-seit-2010-mehr-als-verdoppelt.html) · Institut der deutschen Wirtschaft, Pressemitteilung 06.10.2026; Bestand deutscher Direktinvestitionen im Ausland 2024 rund 1.689 Mrd. Euro.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Auslandsbestand 2024 rund 1.689 Mrd. Euro, seit 2010 mehr als verdoppelt.
+
+- [Ausländische Direktinvestitionen in Deutschland 2025 mehr als verdoppelt](https://www.iwkoeln.de/presse/iw-nachrichten/juergen-matthes-auslaendische-direktinvestitionen-in-deutschland-2025-mehr-als-verdoppelt.html) · Institut der deutschen Wirtschaft, 25.01.2026; 2025 rund 96 Mrd. Euro Zufluss und 86 Mrd. Euro deutsche Auslandsinvestitionen, erstmals seit 2003 (außer 2020) Nettozufluss; Hochrechnung aus Bundesbankdaten.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. 2025 Nettozufluss von rund 10 Mrd. Euro.
 
 ### Offene Fragen und Unsicherheiten
 
-- Bundesbank-Direktinvestitionsstatistik und Befragungen zu Auslandsinvestitionen lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0200
 
@@ -1744,7 +1751,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Zulieferer von Volkswagen müssen wegen ausbleibender Aufträge Personal abbauen; diese Entwicklung erreiche nach und nach weitere Betriebe.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1767,21 +1774,25 @@ Frueherer Suchbereich: [01:24:20–01:26:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Behauptung über Dritte oder Ursachen ohne Beleg. Allgemeine Beschreibung ohne benannten Zulieferer. Einzelne Abbaumeldungen wären prüfbar, belegen aber nicht den behaupteten Ursachenweg für alle Betriebe. Keine Quelle gelesen.
+Im November 2026 berichtete dpa, dass Betriebsräte und IG Metall wegen der Produktionskürzungen im VW-Werk Zwickau vor dem Verlust von Hunderten bis Tausenden Stellen bei Zulieferern und Logistikern warnen; anders als bei VW gibt es dort keine Beschäftigungssicherung. Die Richtung der Aussage ist damit gestützt. Die gelesenen Berichte nennen aber keinen konkreten Zulieferer mit bereits vollzogenem Abbau, sondern Befürchtungen vor allem für 2027; dass die Entwicklung „nach und nach weitere Betriebe“ erreicht, wird nur allgemein beschrieben.
 
-Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Zwei dpa-Berichte vom 12./13.11.2026 gelesen; keine Unternehmensmitteilungen einzelner Zulieferer und keine Arbeitsmarktstatistik gelesen.
 
 Uebernahme: Besuch mit Videoaufnahme, Ortseindrücke, erinnertes Bürgermeisterzitat, Verantwortungswertung, KMU-Bedeutung und Zuliefererabbau getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): dpa-Berichte zu VW-Zulieferern gelesen; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Automobilindustrie: VW-Produktionskürzungen treffen Zulieferer und Kontraktlogistik](https://logistik-heute.de/news/automobilindustrie-vw-produktionskuerzungen-treffen-zulieferer-und-kontraktlogistik-293215.html) · LOGISTIK HEUTE (dpa), Matthias Pieringer, 13.11.2026; Betriebsräte und IG Metall warnen vor dem Verlust von Hunderten bis Tausenden Stellen bei Zulieferern um das VW-Werk Zwickau.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Warnung vor Hunderten bis Tausenden Stellen bei Zulieferern um Zwickau.
+
+- [Beschäftigte von Auto-Zulieferern bangen um ihre Jobs](https://www.volksstimme.de/panorama/beschaftigte-von-auto-zulieferern-bangen-um-ihre-jobs-4355272) · Volksstimme (dpa), 12.11.2026; IG Metall Zwickau erwartet für 2027 einen massiven Einbruch bei Zulieferern; dort keine Beschäftigungssicherung wie bei VW.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. IG Metall erwartet für 2027 einen massiven Einbruch bei Zulieferern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Konkrete Zulieferer und Abbaumeldungen 2025/2026 sowie Auftragslage bei Volkswagen prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0216
 
