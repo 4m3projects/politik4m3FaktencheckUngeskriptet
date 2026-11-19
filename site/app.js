@@ -726,6 +726,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList) {
 
   const rel = (c.relations || []).map(r => `<li>${esc(r.type)} <a href="#/video/${esc(v.id)}/aussage/${esc(r.claimId)}">${esc(r.claimId.replace(v.id + '-', ''))}</a>: ${esc(r.note)}</li>`).join('');
   const q = (c.openQuestions || []).map(x => `<li>${esc(x)}</li>`).join('');
+  const research = researchBlock(c);
   const chapter = chapterTitles[c.chapter];
   const xlinks = (state.rel?.byClaim.get(c.id) || []).map(({ relation: r, link: l }) => {
     const cmp = linkedVideos ? linkView(r, l, linkedVideos).cmp : { state: 'kein_vergleich' };
@@ -759,6 +760,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList) {
         <div><h4>Fundstellen im Video (${(c.occurrences || []).length})</h4>${occ}</div>
         <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind keine Sachquellen zugeordnet.</p>'}</div>
         ${q ? `<div><h4>${isUnverifiable(c) ? 'Was für eine Prüfung fehlt' : 'Offene Fragen'}</h4><ul class="questions">${q}</ul></div>` : ''}
+        ${research}
         ${rel ? `<div><h4>Beziehungen</h4><ul class="questions">${rel}</ul></div>` : ''}
         ${xlinks.length ? `<div><h4>Verknüpfte Aussagen in anderen Videos</h4><ul class="questions">${xlinks.map(x => x.html).join('')}</ul></div>` : ''}
         <div><h4>Herkunft</h4><dl class="kv">
@@ -769,6 +771,21 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList) {
       </div>
     </details>
   </article>`;
+}
+
+/* Recherchedokumentation (optional, docs/AGENTEN_RECHERCHE.md): tatsächlich durchgeführte Durchgänge,
+   fehlende Informationen, Quellenwidersprüche und Sicherheit der Einordnung. Keine eigene Bewertungskategorie. */
+function researchBlock(c) {
+  const r = c.research;
+  if (!r) return '';
+  const rounds = (r.rounds || []).map((x, i) => `<li>Durchgang ${i + 1} am ${esc(deDate(x.date))} (${esc(x.agent)}): ${esc(x.strategy)}
+    <div class="src-meta">Geprüfte Quellen: ${x.sourceIds?.length ? esc(x.sourceIds.join(', ')) : 'keine geeignete Quelle gefunden'} · Ergebnis: ${esc(x.result)}</div></li>`).join('');
+  return `<div class="research"><h4>Recherchedokumentation</h4><dl class="kv">
+    ${r.gap ? `<dt>Warum offen</dt><dd>${esc(r.gap)}${r.gap === 'Recherche ohne ausreichendes Ergebnis' ? ' – das heißt nicht, dass es keine Belege gibt.' : ''}</dd>` : ''}
+    <dt>Sicherheit der Einordnung</dt><dd>${esc(r.confidence)}</dd>
+    ${r.missingInformation ? `<dt>Was fehlt</dt><dd>${esc(r.missingInformation)}</dd>` : ''}
+    ${r.conflicts ? `<dt>Widersprüchliche Quellen</dt><dd>${esc(r.conflicts)}</dd>` : ''}
+  </dl>${rounds ? `<ul class="questions">${rounds}</ul>` : ''}</div>`;
 }
 
 function chapterTitlesFor(v) {
@@ -1022,6 +1039,7 @@ function pageMethod() {
         <li><span class="badge"><i class="fill-unbelegbar" aria-hidden="true"></i>Nicht ausreichend belegbar</span><p>Die Aussage ist prüfbar und wir haben recherchiert, die gelesenen Quellen reichen aber weder für eine Bestätigung noch für eine Widerlegung. Die Quellen sind angegeben.</p></li>
       </ul>
       <p class="small">Fehlt uns nur der Zugang zu einer Quelle oder die Zeit, steht eine Aussage als „Noch nicht geprüft“ – nie als „nicht überprüfbar“. Keiner der drei Fälle bedeutet „falsch“, und keiner zählt in der Faktenampel als Fehler.</p>
+      <p class="small"><strong>Ein fehlender Suchtreffer ist kein Gegenbeweis.</strong> Bevor eine prüfbare Aussage als „nicht ausreichend belegbar“ gilt, recherchieren wir mindestens ein zweites Mal gezielt anders: mit anderen Suchbegriffen, über Primärquellen wie amtliche Statistiken, Gesetzestexte und Studien, im zeitlichen Zusammenhang der Aussage und über indirekte, belastbare Wege. Wo vorhanden, steht bei der Aussage eine Recherchedokumentation: welche Quellen geprüft wurden, was fehlt, wo sich Quellen widersprechen und wie sicher die Einordnung ist. Belegte Aussagen sind dabei genauso ein Ergebnis wie widerlegte.</p>
     </section>
 
     <section class="section prose-plain" id="ampel"><h2>Faktenampel: das Video auf einen Blick</h2>

@@ -48,6 +48,70 @@ function ConvertFrom-FactcheckJson([string]$Text) {
     try { $data = $Text | ConvertFrom-Json -ErrorAction Stop } catch { throw 'Factcheck-JSON ist nicht lesbar.' }
     return $data
 }
+# Recherchedokumentation bei fehlenden Belegen, siehe docs/AGENTEN_RECHERCHE.md.
+# A/B = Nicht ausreichend belegbar, C = Nicht überprüfbar, D = Meinung / Prognose; entschiedene Bewertungen und offene Pruefungen ohne Fall.
+$script:FactcheckResearchGaps = @('Quellenlage unzureichend','Recherche ohne ausreichendes Ergebnis','Derzeit nicht überprüfbar','Kein überprüfbarer Tatsachenkern')
+$script:FactcheckResearchConfidence = @('Hoch','Mittel','Niedrig')
+function Get-FactcheckExpectedGaps($Claim) {
+    if ($Claim.status -ceq 'Nicht überprüfbar') { return ,@('Derzeit nicht überprüfbar') }
+    if ($Claim.status -cne 'Abgeschlossen') { return ,@($null) }
+    if ($Claim.verdict -ceq 'Nicht ausreichend belegbar') { return ,@('Quellenlage unzureichend','Recherche ohne ausreichendes Ergebnis') }
+    if ($Claim.verdict -ceq 'Meinung / Prognose') { return ,@('Kein überprüfbarer Tatsachenkern') }
+    return ,@($null)
+}
+function Assert-FactcheckResearch($Claim,$SourceIds) {
+    $r = $Claim.research
+    Assert-FactcheckKeys $r @('gap','confidence','rounds','missingInformation','conflicts') 'Recherchedokumentation'
+    if ($null -ne $r.gap -and $script:FactcheckResearchGaps -cnotcontains $r.gap) { throw 'Recherchefall ungueltig.' }
+    $expected = Get-FactcheckExpectedGaps $Claim
+    if ($expected -cnotcontains $r.gap) { throw ('Recherchefall passt nicht zu Status/Bewertung; erwartet: ' + (($expected | ForEach-Object { if ($null -eq $_) { 'null' } else { $_ } }) -join ' oder ') + '.') }
+    if ($script:FactcheckResearchConfidence -cnotcontains $r.confidence) { throw 'Recherchesicherheit muss Hoch, Mittel oder Niedrig sein.' }
+    Assert-FactcheckArray $r.rounds 'Recherchedurchgaenge'
+    $documented = @{}
+    foreach ($round in $r.rounds) {
+        Assert-FactcheckKeys $round @('date','agent','strategy','sourceIds','result') 'Recherchedurchgang'
+        if ($round.date -cnotmatch '^\d{4}-\d{2}-\d{2}$') { throw 'Recherchedatum ungueltig.' }
+        try { $null = [datetime]::ParseExact($round.date,'yyyy-MM-dd',[Globalization.CultureInfo]::InvariantCulture) } catch { throw 'Recherchedatum ungueltig.' }
+        foreach ($key in @('agent','strategy','result')) { Assert-FactcheckText $round.$key ('Recherchedurchgang ' + $key) }
+        Assert-FactcheckArray $round.sourceIds 'Recherchequellen'
+        foreach ($id in $round.sourceIds) {
+            if (@($SourceIds.Keys) -cnotcontains $id) { throw 'Recherchedurchgang nennt unbekannte Quelle; nur tatsaechlich gepruefte, verzeichnete Quellen eintragen.' }
+            $documented[$id] = $true
+        }
+    }
+    if (@('Quellenlage unzureichend','Recherche ohne ausreichendes Ergebnis') -ccontains $r.gap) {
+        if ($r.rounds.Count -lt 2) { throw 'Nicht ausreichend belegbar erst nach mindestens zwei dokumentierten Recherchedurchgaengen.' }
+        if ($Claim.openQuestions.Count -eq 0) { throw 'Nicht ausreichend belegbar braucht konkrete naechste Pruefschritte in openQuestions.' }
+    }
+    if (@('Quellenlage unzureichend','Recherche ohne ausreichendes Ergebnis','Derzeit nicht überprüfbar') -ccontains $r.gap) {
+        Assert-FactcheckText $r.missingInformation 'Fehlende Information'
+    } elseif ($null -ne $r.missingInformation) { Assert-FactcheckText $r.missingInformation 'Fehlende Information' }
+    if ($r.rounds.Count -gt 0) {
+        foreach ($ref in $Claim.sourceRefs) { if (-not $documented.ContainsKey($ref.sourceId)) { throw 'Zugeordnete Quelle ohne dokumentierten Recherchedurchgang.' } }
+    }
+    if ($null -ne $r.conflicts) {
+        Assert-FactcheckText $r.conflicts 'Quellenwiderspruch'
+        if ($Claim.sourceRefs.Count -lt 2) { throw 'Quellenwiderspruch braucht mindestens zwei zugeordnete Quellen.' }
+    }
+}
+# Nur lesend: Aussagen ohne Wahr/Falsch-Urteil als Kandidaten fuer eine gezielte Nachrecherche (docs/AGENTEN_RECHERCHE.md, Abschnitt 5).
+# Entschiedene Bewertungen und Meinungen sind keine Kandidaten. Es wird nichts geaendert.
+function Get-FactcheckRecheckCandidates($Data) {
+    foreach ($c in $Data.claims) {
+        $category = $null
+        if ($c.status -ceq 'Offen') { $category = 'Noch nicht geprüft' }
+        elseif ($c.status -ceq 'In Bearbeitung') { $category = 'In Bearbeitung' }
+        elseif ($c.status -ceq 'Nicht überprüfbar') { $category = 'Nicht überprüfbar' }
+        elseif ($c.verdict -ceq 'Nicht ausreichend belegbar') { $category = 'Nicht ausreichend belegbar' }
+        if ($null -eq $category) { continue }
+        $hasResearch = @($c.PSObject.Properties.Name) -ccontains 'research'
+        [pscustomobject][ordered]@{
+            claimId = $c.id; category = $category
+            documented = [bool]($hasResearch -and $c.research.rounds.Count -gt 0)
+            nextStep = @($c.openQuestions)[0]
+        }
+    }
+}
 function Assert-FactcheckData($Data) {
     Assert-FactcheckKeys $Data @('schemaVersion','scope','legacyPoints','sources','claims','speakers') 'Datensatz'
     Assert-FactcheckInteger $Data.schemaVersion 2 2 'Schemaversion'
@@ -103,7 +167,10 @@ function Assert-FactcheckData($Data) {
     }
     $normalizedClaims = @{}
     foreach ($c in $Data.claims) {
-        Assert-FactcheckKeys $c @('id','videoId','chapter','legacyId','kind','description','status','verdict','reason','assessmentBasis','migration','sourceRefs','openQuestions','occurrences','relations') 'Aussage'
+        $claimKeys = @('id','videoId','chapter','legacyId','kind','description','status','verdict','reason','assessmentBasis','migration','sourceRefs','openQuestions','occurrences','relations')
+        # Optionale Recherchedokumentation (docs/AGENTEN_RECHERCHE.md); Bestand ohne das Feld bleibt gueltig.
+        if (@($c.PSObject.Properties.Name) -ccontains 'research') { $claimKeys += 'research' }
+        Assert-FactcheckKeys $c $claimKeys 'Aussage'
         if ($c.id -cnotmatch ('^' + [regex]::Escape($s.videoId) + '-A[0-9]{4,}$') -or $claimIds.ContainsKey($c.id)) { throw 'Doppelte/ungueltige Aussage-ID.' }
         if ($c.videoId -cne $s.videoId -or ($null -ne $c.legacyId -and $s.selectedLegacyIds -cnotcontains $c.legacyId)) { throw 'Aussage hat falsche Video-/Herkunftszuordnung.' }
         Assert-FactcheckInteger $c.chapter 1 999 'Kapitel'
@@ -131,6 +198,7 @@ function Assert-FactcheckData($Data) {
             if (@($sourceIds.Keys) -cnotcontains $ref.sourceId -or $seenRefs.ContainsKey($ref.sourceId)) { throw 'Quellenverweis fehlt/ist doppelt.' }
             Assert-FactcheckText $ref.note 'Beleggrenze'; $seenRefs[$ref.sourceId] = $true
         }
+        if ($claimKeys -ccontains 'research') { Assert-FactcheckResearch $c $sourceIds }
         $fingerprint = [regex]::Replace($c.description.ToLowerInvariant(),'\s+',' ').Trim()
         if ($normalizedClaims.ContainsKey($fingerprint)) { throw 'Identische Aussage doppelt erfasst; Vorkommen zusammenfuehren.' }
         $normalizedClaims[$fingerprint] = $true
@@ -519,6 +587,20 @@ function Get-FactcheckArtifacts($Data) {
             $report.Add(''); $report.Add('### Offene Fragen und Unsicherheiten')
             if ($c.openQuestions.Count -eq 0) { $report.Add(''); $report.Add('Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.') }
             foreach ($q in $c.openQuestions) { $report.Add(''); $report.Add('- ' + $q) }
+            if (@($c.PSObject.Properties.Name) -ccontains 'research') {
+                $r = $c.research
+                $report.Add(''); $report.Add('### Recherchedokumentation')
+                $gapText = 'kein offener Fall'; if ($null -ne $r.gap) { $gapText = $r.gap }
+                $report.Add(''); $report.Add('Einordnung: ' + $gapText + '. Sicherheit der Einordnung: ' + $r.confidence + '.')
+                if ($null -ne $r.missingInformation) { $report.Add(''); $report.Add('Fehlende Information: ' + $r.missingInformation) }
+                if ($null -ne $r.conflicts) { $report.Add(''); $report.Add('Widersprueche zwischen Quellen: ' + $r.conflicts) }
+                $n = 0
+                foreach ($round in $r.rounds) {
+                    $n++
+                    $ids = 'keine geeignete Quelle'; if ($round.sourceIds.Count -gt 0) { $ids = ($round.sourceIds -join ', ') }
+                    $report.Add(''); $report.Add('- Durchgang ' + $n + ' am ' + $round.date + ' (' + $round.agent + '): ' + $round.strategy + ' Gepruefte Quellen: ' + $ids + '. Ergebnis: ' + $round.result)
+                }
+            }
             if ($c.relations.Count -gt 0) {
                 $report.Add(''); $report.Add('### Beziehungen')
                 foreach ($r in $c.relations) { $report.Add(''); $report.Add('- ' + $r.type + ' ' + $r.claimId + ': ' + $r.note) }

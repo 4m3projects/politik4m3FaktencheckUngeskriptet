@@ -18,6 +18,7 @@ Ein neues Video benötigt nur einen Datensatz mit eigener elfstelliger YouTube-I
 | sources | Quellen-ID, Titel, direkte HTTPS-URL, Autor/Institution/Datenstand in details, Abrufdatum und tatsächliche Zugriffsgrundlage |
 | speakers | Videointern stabile SP-IDs, Name oder null, Videorolle und tatsächliche Identifizierungsgrundlage |
 | claims | Eigenständig bewertbare Aussage mit stabiler ID, Kapitel, Herkunft oder null, Art, eigener Beschreibung, Prüfstatus/Bewertung, Begründung, Belegen, offenen Fragen, Migrationsentscheidung, Vorkommen und Beziehungen |
+| claims[].research | Optional: Recherchedokumentation mit Fall (`gap`), Sicherheit der Einordnung, tatsächlich durchgeführten Durchgängen, fehlender Information und Quellenwidersprüchen. Regeln und Validierung: [AGENTEN_RECHERCHE.md](AGENTEN_RECHERCHE.md). Ändert weder Statistik noch Ampel. |
 
 IDs nicht neu nummerieren oder für andere Bedeutungen verwenden. Gleichbedeutende Wiederholungen gehören in die Vorkommensliste derselben Aussage. Inhaltlich unabhängig bewertbare Teilbehauptungen trennen und die Entscheidung begründen. Der Validator erkennt exakte Textdubletten; semantische Gleichheit bleibt redaktionell zu prüfen.
 

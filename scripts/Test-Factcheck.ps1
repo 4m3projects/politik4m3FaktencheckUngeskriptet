@@ -728,6 +728,89 @@ Case 'Alle 14 veroeffentlichten Berichtdateien und Lizenz unveraendert' {
         Check-True ($actual -ceq $expected) ('Veroeffentlichte Datei veraendert: '+$path)
     }
 }
+# --- Recherche bei fehlenden Belegen (docs/AGENTEN_RECHERCHE.md): sechs synthetische Referenzbeispiele ---
+function New-ResearchRound([string]$Strategy,[string[]]$SourceIds,[string]$Result) {
+    return [pscustomobject][ordered]@{date='2026-11-19';agent='Claude';strategy=$Strategy;sourceIds=@($SourceIds);result=$Result}
+}
+function New-ResearchVideo {
+    $d=New-SyntheticVideo;$vid=$d.scope.videoId;$template=ConvertTo-FactcheckJson $d.claims[0]
+    $d.sources=@(1..4 | ForEach-Object {
+        [pscustomobject][ordered]@{id=('S{0:000}' -f $_);title=('Synthetische Quelle '+$_);url=('https://example.org/quelle-'+$_);details='Synthetisch, kein Sachbeleg.';accessedOn='2026-11-19';accessBasis='Synthetisches Testbeispiel.'}
+    })
+    $specs=@(
+        @{kind='Tatsachenbehauptung';verdict='Belegt';refs=@('S001');gap=$null;rounds=@((New-ResearchRound 'Amtliche Statistik direkt aufgerufen.' @('S001') 'Wert stimmt ueberein.'))},
+        @{kind='Tatsachenbehauptung';verdict='Widerlegt';refs=@('S002');gap=$null;rounds=@((New-ResearchRound 'Gesetzestext in damaliger Fassung gelesen.' @('S002') 'Regel lautete anders.'))},
+        @{kind='Tatsachenbehauptung';verdict='Belegt';refs=@('S003');gap=$null;rounds=@((New-ResearchRound 'Allgemeine Websuche mit Schlagwort.' @() 'Kein passender Treffer.'),(New-ResearchRound 'Fachbegriff und Behoerdenname, Primaerquelle gesucht.' @('S003') 'Primaerquelle bestaetigt die Zahl.'))},
+        @{kind='Tatsachenbehauptung';verdict='Nicht ausreichend belegbar';refs=@('S004');gap='Recherche ohne ausreichendes Ergebnis';missing='Eine amtliche Zahl fuer das genannte Jahr.';rounds=@((New-ResearchRound 'Websuche mit Begriffen der Aussage.' @() 'Keine geeignete Quelle.'),(New-ResearchRound 'Statistikamt und Parlamentsdokumente durchsucht.' @('S004') 'Nur Daten fuer andere Jahre.'))},
+        @{kind='Meinung';verdict='Meinung / Prognose';refs=@();gap='Kein überprüfbarer Tatsachenkern';rounds=@()},
+        @{kind='Tatsachenbehauptung';verdict='Teilweise belegt';refs=@('S001','S002');gap=$null;conflicts='Quelle 1 zaehlt brutto, Quelle 2 netto; Unterschied dokumentiert.';rounds=@((New-ResearchRound 'Zwei unabhaengige Statistiken verglichen.' @('S001','S002') 'Werte weichen nach Definition ab.'))}
+    )
+    $claims=@();$i=0
+    foreach($sp in $specs){
+        $i++;$c=ConvertFrom-FactcheckJson $template
+        $c.id=('{0}-A{1:0000}' -f $vid,$i);$c.occurrences[0].id=('{0}-O{1:0000}' -f $vid,$i)
+        $c.occurrences[0].startSeconds=$i*10;$c.occurrences[0].endSeconds=$i*10+5
+        $c.description=('Synthetisches Referenzbeispiel '+$i+' fuer die Rechercheregel.');$c.kind=$sp.kind
+        $c.status='Abgeschlossen';$c.verdict=$sp.verdict;$c.reason='Synthetische Begruendung.';$c.relations=@()
+        $c.sourceRefs=@($sp.refs | ForEach-Object {[pscustomobject][ordered]@{sourceId=$_;note='Synthetischer Bezug.'}})
+        $c.openQuestions=@(); if($sp.verdict -ceq 'Nicht ausreichend belegbar'){$c.openQuestions=@('Statistikamt nach Sonderauswertung fragen.')}
+        $missing=$null; if($sp.ContainsKey('missing')){$missing=$sp.missing}
+        $conf=$null; if($sp.ContainsKey('conflicts')){$conf=$sp.conflicts}
+        $c | Add-Member -NotePropertyName research -NotePropertyValue ([pscustomobject][ordered]@{gap=$sp.gap;confidence='Mittel';rounds=@($sp.rounds);missingInformation=$missing;conflicts=$conf})
+        $claims+=$c
+    }
+    $d.claims=$claims
+    return ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson $d)
+}
+Case 'Recherche: sechs Referenzbeispiele sind gueltig und aendern keine Statistik' {
+    $d=New-ResearchVideo;Assert-FactcheckData $d
+    Check-True ((($d.claims | ForEach-Object verdict) -join '|') -ceq 'Belegt|Widerlegt|Belegt|Nicht ausreichend belegbar|Meinung / Prognose|Teilweise belegt') 'Referenzbeispiele falsch.'
+    $plain=ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson $d);foreach($c in $plain.claims){$c.PSObject.Properties.Remove('research')}
+    Assert-FactcheckData $plain
+    Check-True (Test-FactcheckEqual (Get-FactcheckStatistics $d) (Get-FactcheckStatistics $plain)) 'Recherchedokumentation darf Statistik und Ampelgrundlage nicht veraendern.'
+}
+Case 'Recherche: zweite Recherche findet Beleg, positives Ergebnis ist vollwertig' {
+    $c=(New-ResearchVideo).claims[2]
+    Check-True ($c.verdict -ceq 'Belegt' -and $null -eq $c.research.gap -and $c.research.rounds.Count -eq 2 -and $c.research.rounds[0].sourceIds.Count -eq 0 -and ($c.research.rounds[1].sourceIds -join ',') -ceq 'S003') 'Zweiter Durchgang nicht abgebildet.'
+}
+Case 'Recherche: Bericht zeigt Durchgaenge, fehlende Information und Widerspruch' {
+    $a=Get-FactcheckArtifacts (New-ResearchVideo);$r=$a['berichte/kapitel-12.md']
+    foreach($t in @('### Recherchedokumentation','Einordnung: Recherche ohne ausreichendes Ergebnis. Sicherheit der Einordnung: Mittel.','Fehlende Information: Eine amtliche Zahl','Durchgang 2 am 2026-11-19 (Claude)','Gepruefte Quellen: keine geeignete Quelle','Widersprueche zwischen Quellen: Quelle 1 zaehlt brutto')){Check-True ($r.Contains($t)) ('Bericht ohne: '+$t)}
+    Check-True (-not (Get-FactcheckArtifacts (New-SyntheticVideo))['berichte/kapitel-12.md'].Contains('Recherchedokumentation')) 'Bestand ohne Recherchefeld darf keinen neuen Berichtsteil erhalten.'
+}
+Case 'Recherche: nicht belegbar nach nur einem Suchversuch wird abgelehnt' {
+    $d=New-ResearchVideo;$d.claims[3].research.rounds=@($d.claims[3].research.rounds[1]);Expect-Rejection { Assert-FactcheckData $d } 'zwei dokumentierten'
+    $d=New-ResearchVideo;$d.claims[3].research.gap='Quellenlage unzureichend';$d.claims[3].research.rounds=@($d.claims[3].research.rounds[1]);Expect-Rejection { Assert-FactcheckData $d } 'zwei dokumentierten'
+}
+Case 'Recherche: nicht belegbar braucht fehlende Information und naechste Schritte' {
+    $d=New-ResearchVideo;$d.claims[3].research.missingInformation=$null;Expect-Rejection { Assert-FactcheckData $d } 'nichtleerer Text'
+    $d=New-ResearchVideo;$d.claims[3].openQuestions=@();Expect-Rejection { Assert-FactcheckData $d } 'naechste Pruefschritte'
+}
+Case 'Recherche: keine erfundenen oder undokumentierten Quellen' {
+    $d=New-ResearchVideo;$d.claims[0].research.rounds[0].sourceIds=@('S999');Expect-Rejection { Assert-FactcheckData $d } 'unbekannte Quelle'
+    $d=New-ResearchVideo;$d.claims[0].research.rounds[0].sourceIds=@();Expect-Rejection { Assert-FactcheckData $d } 'ohne dokumentierten'
+}
+Case 'Recherche: Fall muss zu Status und Bewertung passen' {
+    $d=New-ResearchVideo;$d.claims[0].research.gap='Recherche ohne ausreichendes Ergebnis';Expect-Rejection { Assert-FactcheckData $d } 'passt nicht'
+    $d=New-ResearchVideo;$d.claims[3].research.gap=$null;Expect-Rejection { Assert-FactcheckData $d } 'passt nicht'
+    $d=New-ResearchVideo;$d.claims[4].research.gap='Derzeit nicht überprüfbar';Expect-Rejection { Assert-FactcheckData $d } 'passt nicht'
+    $d=New-ResearchVideo;$d.claims[3].research.gap='Unklar';Expect-Rejection { Assert-FactcheckData $d } 'Recherchefall ungueltig'
+    $d=New-ResearchVideo;$d.claims[0].research.confidence='Sicher';Expect-Rejection { Assert-FactcheckData $d } 'Hoch, Mittel oder Niedrig'
+    $d=New-ResearchVideo;$d.claims[0].research | Add-Member -NotePropertyName extra -NotePropertyValue 1;Expect-Rejection { Assert-FactcheckData $d } 'unbekanntes Feld'
+    $d=New-ResearchVideo;$c=$d.claims[3];$c.status='Nicht überprüfbar';$c.verdict=$null;$c.reason='Nicht überprüfbar – synthetisch interne Daten.';$c.research.gap='Derzeit nicht überprüfbar';Assert-FactcheckData $d
+    $c.research.missingInformation=$null;Expect-Rejection { Assert-FactcheckData $d } 'nichtleerer Text'
+    $d=New-ResearchVideo;$c=$d.claims[3];$c.status='Offen';$c.verdict=$null;$c.reason='Noch nicht geprüft – synthetisch.';$c.research.gap=$null;Assert-FactcheckData $d
+}
+Case 'Recherche: Quellenwiderspruch braucht zwei Quellen, Unsicherheit bleibt sichtbar' {
+    $d=New-ResearchVideo;$c=$d.claims[5];Check-True ($c.verdict -ceq 'Teilweise belegt' -and $c.research.conflicts.Contains('brutto')) 'Widerspruch nicht dokumentiert.'
+    $c.sourceRefs=@($c.sourceRefs[0]);Expect-Rejection { Assert-FactcheckData $d } 'mindestens zwei'
+}
+Case 'Recherche: Kandidaten fuer gezielte Nachpruefung nur offene Faelle' {
+    $d=New-ResearchVideo;$c=$d.claims[1];$c.status='Offen';$c.verdict=$null;$c.reason='Noch nicht geprüft – synthetisch.';$c.openQuestions=@('Quelle lesen.');$c.research.gap=$null
+    $c2=$d.claims[0];$c2.PSObject.Properties.Remove('research');$c2.status='Nicht überprüfbar';$c2.verdict=$null;$c2.reason='Nicht überprüfbar – synthetisch.';$c2.openQuestions=@('Keine.');Assert-FactcheckData $d
+    $k=@(Get-FactcheckRecheckCandidates $d)
+    Check-True ((($k | ForEach-Object {$_.claimId.Substring(12)+':'+$_.category+':'+$_.documented}) -join '|') -ceq 'A0001:Nicht überprüfbar:False|A0002:Noch nicht geprüft:True|A0004:Nicht ausreichend belegbar:True') ('Falsche Kandidaten: '+(($k | ForEach-Object claimId) -join ','))
+}
 Case 'Lokale Factcheck-Markdownlinks existieren' {
     foreach ($f in Get-ChildItem -LiteralPath $root -Filter '*.md' -File -Recurse) {
         $body=Get-Content -LiteralPath $f.FullName -Raw -Encoding UTF8
