@@ -709,7 +709,11 @@
       if (share >= c.recommendations.maxErrorShare) continue;
       const supported = decided.filter(x => x.verdict === 'Belegt').length;
       const srcIds = new Set();
-      for (const x of decided) for (const r of x.sourceRefs || []) srcIds.add(r.sourceId);
+      // Volle Daten: Quellen-IDs des Videos; kompaktes Webverzeichnis: Quellen-URLs.
+      for (const x of decided) {
+        for (const r of x.sourceRefs || []) srcIds.add(r.sourceId);
+        for (const q of x.sources || []) srcIds.add(normUrl(q.url));
+      }
       const segs = [];
       // Abschnitte des Themas, seiner Unterthemen oder des übergeordneten Themas (dort steht das Unterthema meist mit).
       for (const vt of v.topics.topics || []) {

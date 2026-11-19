@@ -16,7 +16,7 @@ const { chromium } = require('playwright');
 const F = require('./relations-fixtures.js');
 
 const ROOT = path.join(__dirname, '..');
-const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js'];
+const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js', 'wissen.js', 'themen.js'];
 
 function buildSite(withFixtures) {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-rel-'));
@@ -63,6 +63,8 @@ function buildSite(withFixtures) {
   }
   fs.writeFileSync(path.join(out, 'daten', 'beziehungen.json'), JSON.stringify(relations));
   fs.writeFileSync(path.join(out, 'daten', 'index.json'), JSON.stringify({ generated: '2026-11-18T00:00:00Z', commit: 'test000', repository: '4m3projects/politik4m3FaktencheckUngeskriptet', videos }));
+  /* Wissensverzeichnis wie im Workflow (node scripts/wissen.js export). */
+  require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, '..', 'scripts', 'wissen.js'), 'export', path.join(out, 'daten', 'wissen.json')]);
   return out;
 }
 

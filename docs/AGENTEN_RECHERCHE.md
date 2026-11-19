@@ -104,3 +104,7 @@ Die sechs Fälle sind als synthetische Tests in `scripts/Test-Factcheck.ps1` hin
 | Widersprüchliche Quellen | `Abgeschlossen` + `Teilweise belegt`, `conflicts` beschreibt den Unterschied zwischen zwei Quellen |
 
 Negativtests stellen sicher, dass eine Einordnung als nicht belegbar nach nur einem Durchgang, eine erfundene Quellen-ID im Durchgang, eine nicht dokumentierte zugeordnete Quelle, ein falscher Fall zum Status und ein Widerspruch mit nur einer Quelle abgelehnt werden.
+
+## Wissensdatenbank zuerst
+
+Vor der ersten Recherche-Runde gezielt in der Wissensdatenbank suchen (`node scripts/wissen.js suche`, Regel in [AGENTEN_WISSEN.md](AGENTEN_WISSEN.md)). Herangezogene Einträge oder frühere Aussagen in `research.rounds[].strategy` nennen. Sie ersetzen keine eigene Prüfung der Originalquellen und zählen nicht als zusätzliche unabhängige Belege.
