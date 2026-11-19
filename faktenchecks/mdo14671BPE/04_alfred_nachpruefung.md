@@ -30,3 +30,7 @@ Die Erweiterung von § 188 unter Merkel (A0227) wird durch das erneut gelesene G
 Die bereits verknüpfte Hank-Reaktion hat im geprüften Beziehungsbestand keine direkten Links zu den drei präzisierten Datumsbegründungen oder A0207. Es wird daher keine fremde Reaktionsbewertung geändert. [Prüfumfang und offene Schritte](../BOIqGtGuShM/review.md).
 
 Koordination und offene Nacharbeit: [Issue #71](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/71).
+
+## Weiterer Quellenabgleich am 19.11.2026
+
+Die erneute Alfred-Nachprüfung hat drei zuvor offene Reaktionspunkte abgeschlossen: A0008 anhand von Autorenabstract und institutioneller Nature-Vorabfassung, A0014 anhand des Romeike-Gerichtstexts und A0019 anhand eines zeitgenössischen Berichts mit OLG-Gerichtsauskunft. Der historische Virusnachweis und der aufgehobene Romeike-Erstentscheid bestätigen die bisherigen Originaleinordnungen A0113 und A0207. Die Rechtskraft des realen Kaiser-Verfahrens belegt weiterhin nicht, dass genau dieses Verfahren im unbenannten Originalbeispiel A0228 gemeint war. Keine Originalbewertung geändert; drei offene Reaktionspunkte und die fehlende vollständige Hör-/Sichtkontrolle bleiben ausdrücklich bestehen.

@@ -6,15 +6,15 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 Stand: 2026-11-19 · Video: BOIqGtGuShM
 
-[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung.
+[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung. Zweite gezielte Nachprüfung auf Nutzerwunsch: A0008, A0014 und A0019 nach neu gelesenen Quellen abgeschlossen; A0002, A0017 und A0023 bleiben mit dokumentierter weiterer Recherche offen.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 23
-- Abgeschlossen: 17
-- Offen (noch nicht geprueft): 6
+- Abgeschlossen: 20
+- Offen (noch nicht geprueft): 3
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
 - Erfasste Behauptungsvorkommen: 23
@@ -30,14 +30,14 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 15 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 18 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 12 | 80.0 % |
-| Teilweise belegt | 3 | 20.0 % |
+| Belegt | 15 | 83.3 % |
+| Teilweise belegt | 3 | 16.7 % |
 | Irreführend / Kontext fehlt | 0 | 0.0 % |
 | Widerlegt | 0 | 0.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |

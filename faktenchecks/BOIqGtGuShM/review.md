@@ -26,10 +26,16 @@ Die im Vergleichsstand bestehende Naomi-Reaktion von Hank Loose (`zUnxDR5ttRU`, 
 
 ## Offene Prüfaufträge
 
-1. Nature-Arbeit und Romeike-Entscheidung selbst erneut lesen; fehlender Zugang bleibt `Offen`.
+1. Erledigt im Nachdurchgang am 19.11.2026: Autorenabstract und institutionelle Nature-Vorabfassung am historischen Sachkern gelesen; Romeike-Gerichtstext in zugänglicher Wiedergabe erneut gelesen. A0008 und A0014 sind nun belegt. Die vollständige spätere Nature-Autorenkorrektur ist damit nicht geprüft.
 2. Drei verlinkte DOJ-Originaldateien zu Musk kontrollieren. Eine Nachrichtenauswahl rechtfertigt weder Schuld- noch umfassende Entlastungsbehauptungen.
-3. Urteil und Rechtskraft des Kaiser-Falls aus einer Gerichtsquelle lesen; Zuordnung zum von Seibt gemeinten Fall weiterhin nur plausibel.
+3. Rechtskraft im Herbst 2024 inzwischen durch den zeitgenössischen Kreiszeitungsbericht vom 30.09.2024 mit wiedergegebener OLG-Auskunft gestützt (A0019 nun belegt). Beschlussvolltext und genaue Abgrenzung der statistischen Angaben weiterhin nicht selbst kontrolliert; Zuordnung zum von Seibt gemeinten Fall weiterhin nur plausibel.
 4. Vollständige Liste von Alfreds 21 ausgewählten Aussagen sowie Zählgrundlagen und Formel des Index prüfen. Fünf vorgestellte Sachthemen sind keine Fehlerquote des Interviews.
 5. Stimmen, Einspielungen, eingeblendete Quellen, Untertitelfehler und textarme Schlussstrecke am Ton/Bild prüfen. Biografische Nebenaussagen gesondert erfassen; keine vollständige Analyse der Einleitung behaupten.
 
 Rhetorische Hinweise dürfen später nur mit konkreter Stelle und Begründung ergänzt werden; sie verändern die Faktenurteile nicht. Alfreds Feindbild-/Tunnelblick-Zahlen werden nicht als unsere Annotationen importiert.
+
+## Stand nach dem erneuten Nutzerhinweis
+
+Alle sechs zunächst offenen Einträge wurden erneut bearbeitet. Drei konnten durch neue Quellen geschlossen werden; A0002 (vollständiges 21er-Inventar), A0017 (Seibts gemeinter Fall) und A0023 (Index-Zähllisten) bleiben offen. Eine zusätzliche Suche und der Textvergleich sind bei diesen Einträgen dokumentiert. Die nicht zugängliche Herausgeber-Webseite rechtfertigt keine Behauptung, es gebe dort keine Methodik oder Listen. Fehlender Zugang wird nicht als abgeschlossenes Ergebnis behandelt.
+
+Keine Originalbewertung oder Bewertung einer anderen Reaktion geändert. Der nachgeprüfte Romeike-Sachkern bestätigt A0207; der Wölfel-Befund ergänzt den historischen Gegenbeleg zu A0113. Die präzisierte Rechtskraftangabe bestätigt den realen Kaiser-Fall, nicht dessen ungesicherte Zuordnung zu Seibts unbenanntem Beispiel (A0228). Hanks verknüpfte Themen werden von diesen drei Quellenabschlüssen nicht neu bewertet.

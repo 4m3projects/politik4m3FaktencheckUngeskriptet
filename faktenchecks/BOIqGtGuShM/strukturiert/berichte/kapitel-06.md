@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Alle verfügbaren automatischen deutschen Originaluntertitel gelesen: erster inhaltlicher Segmentbeginn 00:00:00,160, letztes Segment 00:15:27,490 mit rechnerischem Ende 00:15:29,510; Metadatenlaufzeit 00:15:44. Textfreie Bereiche nicht akustisch kontrolliert. Schwerpunkt sind fünf Sachthemen und die Abgrenzung des Index; biografische Einleitung und private Selbstauskünfte sind nicht vollständig einzeln geprüft. 23 Prüfgegenstände, kein vollständiges Aussageninventar oder Fehleranteil des Videos. Personen und Zeitgrenzen nur plausibel bzw. ungefähr.
 
-[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung.
+[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung. Zweite gezielte Nachprüfung auf Nutzerwunsch: A0008, A0014 und A0019 nach neu gelesenen Quellen abgeschlossen; A0002, A0017 und A0023 bleiben mit dokumentierter weiterer Recherche offen.
 
 ## BOIqGtGuShM-A0017
 
@@ -56,6 +56,8 @@ Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
 Fehlende Information: Den gemeinten Fall durch eindeutigen Bezug oder eine öffentliche Präzisierung identifizieren.
 
 - Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen. Gepruefte Quellen: S001, S002. Ergebnis: Im kontrollierten Originalabschnitt steht kein Name und keine eindeutige Fallkennung. Alfred kennzeichnet die Zuordnung selbst als Vermutung. Sie wird nicht zur gesicherten Identifikation des Originals erhoben.
+
+- Durchgang 2 am 2026-11-19 (Codex): Originalpassage 02:31:41–02:32:09 erneut mit Alfreds vorsichtiger Fallzuordnung verglichen; neuen Bericht zum realen Kaiser-Verfahren auf eindeutige Identifikation geprüft. Gepruefte Quellen: S001, S002, S019. Ergebnis: Der reale Kaiser-Fall ist näher belegt, aber Seibt nennt im Original keinen Namen. Der gemeinte Einzelfall bleibt offen.
 
 ## BOIqGtGuShM-A0018
 
@@ -113,7 +115,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Kaisers Urteil sei seit Herbst 2024 rechtskräftig.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -132,30 +134,30 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel des Reaktionsvideos.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Der gelesene Bericht vom Mai 2024 kann die spätere Rechtskraft nicht belegen. Die von Alfred verlinkte spätere Zeitungsseite war nicht zugänglich.
+Ein zeitgenössischer Bericht vom 30.09.2024 meldet die Rechtskraft nach der Zurückweisung der Revision durch das OLG Celle und gibt dazu eine Gerichtsauskunft wieder. Das stützt Alfreds begrenzte Angabe Herbst 2024. Die Quelle ist journalistisch vermittelt; der Beschlussvolltext wurde nicht selbst gelesen. Ein exakter Septembertag wird hier nicht bewertet.
 
-Grundlage der Bewertung: Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.
+Grundlage der Bewertung: [Codex] 19.11.2026: gezielte zweite Quellenrecherche und erneuter Textvergleich. Historischer Sachkern geprüft; keine vollständige audiovisuelle Sichtung.
 
 Uebernahme: Eigene Paraphrase; keine importierte Fremdbewertung.
 
-Bewertungsuebergang: [Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original.
+Bewertungsuebergang: [Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original. [Codex] 19.11.2026, Nachprüfung zu Issue #71: von Offen ohne Urteil auf Abgeschlossen / Belegt. Früherer Grund: Noch nicht geprüft – Der gelesene Bericht vom Mai 2024 kann die spätere Rechtskraft nicht belegen. Die von Alfred verlinkte spätere Zeitungsseite war nicht zugänglich.
 
 ### Zugeordnete Quellen
 
-- [taz: Landgericht verurteilt AfD-Politikerin: Volksverhetzung auf Facebook](https://taz.de/Landgericht-verurteilt-AfD-Politikerin/!6006153/) · André Zuschlag, 08.05.2024. Sekundärbericht mit Äußerung einer Gerichtssprecherin.
-  Quellenzugriff am 2026-11-19. Bericht über LG Verden gelesen: Bezug auf 200 afghanische Ortskräfte, Begründung und 100 Tagessätze zu je 60 Euro. Kein Urteilsvolltext; Rechtskraft im Herbst 2024 ist durch diesen früheren Bericht nicht belegt. Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis.
+- [Kreiszeitung: Rotenburgs AfD-Kreisvorsitzende Kaiser – Urteil wegen Volksverhetzung rechtskräftig](https://www.kreiszeitung.de/lokales/rotenburg/rotenburg-ort120515/rotenburgs-afd-kreisvorsitzende-kaiser-urteil-wegen-volksverhetzung-rechtskraeftig-93329818.html) · Matthias Röhrs, 30.09.2024, 14:29 Uhr; zeitgenössischer Bericht mit wiedergegebener OLG-Gerichtsauskunft.
+  Quellenzugriff am 2026-11-19. Bericht vollständig gelesen: Septemberentscheidung des OLG Celle, Zurückweisung der Revision und Aussage einer Gerichtssprecherin. Kein selbst gelesener Beschlussvolltext und kein Nachweis eines von Seibt ausdrücklich genannten Einzelfalls. Bewertet wird nur die Rechtskraft im Herbst 2024, kein exakter Septembertag. Nachprüfung im ausdrücklich in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Revisionsentscheidung oder Gerichtsbestätigung zum Rechtskraftdatum beschaffen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ### Recherchedokumentation
 
-Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
-
-Fehlende Information: Revisionsentscheidung oder Gerichtsbestätigung zum Rechtskraftdatum beschaffen.
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen. Gepruefte Quellen: S013. Ergebnis: Der gelesene Bericht vom Mai 2024 kann die spätere Rechtskraft nicht belegen. Die von Alfred verlinkte spätere Zeitungsseite war nicht zugänglich.
+
+- Durchgang 2 am 2026-11-19 (Codex): Nach der zuvor nicht erreichbaren Zevener-Seite über einen späteren Bericht und dessen direkten Verweis den zeitgenössischen Kreiszeitungsartikel gefunden; Verfahrensstand und zitierte Gerichtsauskunft gelesen. Gepruefte Quellen: S019. Ergebnis: Ein zeitgenössischer Bericht vom 30.09.2024 meldet die Rechtskraft nach der Zurückweisung der Revision durch das OLG Celle und gibt dazu eine Gerichtsauskunft wieder. Das stützt Alfreds begrenzte Angabe Herbst 2024. Die Quelle ist journalistisch vermittelt; der Beschlussvolltext wurde nicht selbst gelesen. Ein exakter Septembertag wird hier nicht bewertet.
 
 ## BOIqGtGuShM-A0020
 
