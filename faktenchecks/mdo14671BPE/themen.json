@@ -1,0 +1,382 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mdo14671BPE",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung und Kapitel), nicht aus dem Titel. KI-gestützt von Claude erstellt; Aussagen ohne öffentliches Sachthema (z. B. Biografisches, Werbung) bleiben ohne Thema.",
+  "topics": [
+    {
+      "topic": "stasi",
+      "relevance": "Behandelt",
+      "basis": "14 von 249 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "meinungsfreiheit",
+      "relevance": "Behandelt",
+      "basis": "13 von 249 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "asyl",
+      "relevance": "Behandelt",
+      "basis": "11 von 249 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "corona",
+      "relevance": "Behandelt",
+      "basis": "9 von 249 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "geheimdienste",
+      "relevance": "Behandelt",
+      "basis": "9 von 249 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "mdo14671BPE-A0055",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0106",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0107",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0108",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0110",
+      "topics": [
+        "corona/pcr"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0111",
+      "topics": [
+        "corona/pcr"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0112",
+      "topics": [
+        "corona/pcr"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0113",
+      "topics": [
+        "corona/pcr"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0114",
+      "topics": [
+        "corona/pcr"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0115",
+      "topics": [
+        "corona/pcr"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0117",
+      "topics": [
+        "corona/pcr"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0118",
+      "topics": [
+        "corona/pcr"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0121",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0134",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0135",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0136",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0137",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0138",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0139",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0140",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0141",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0142",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0143",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0163",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0164",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0165",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0171",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0181",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0182",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0183",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0184",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0185",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0186",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0187",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0188",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0189",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0190",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0191",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0192",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0193",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0194",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0199",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0200",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0201",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0202",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0203",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0206",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0207",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0208",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0225",
+      "topics": [
+        "meinungsfreiheit/strafrecht"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0226",
+      "topics": [
+        "meinungsfreiheit/strafrecht"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0227",
+      "topics": [
+        "meinungsfreiheit/strafrecht"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0228",
+      "topics": [
+        "meinungsfreiheit/strafrecht"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0229",
+      "topics": [
+        "meinungsfreiheit/strafrecht"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0230",
+      "topics": [
+        "meinungsfreiheit/strafrecht"
+      ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0231",
+      "topics": [
+        "meinungsfreiheit/strafrecht"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 56 Aussagen zu Themen; keine Bewertung geändert."
+    }
+  ]
+}

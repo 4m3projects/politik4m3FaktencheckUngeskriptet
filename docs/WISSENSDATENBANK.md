@@ -1,6 +1,6 @@
 # Themen-Wissensdatenbank mit gemeinsamer Recherche und Fehlerkorrektur
 
-Erstellt von: Claude, auf Auftrag von Jens (19.11.2026). Status: Architektur und Umsetzungsplan; Schritt 1 (Datenstruktur, Prüflogik, Tests) ist umgesetzt, die weiteren Schritte folgen als eigene Pull Requests.
+Erstellt von: Claude, auf Auftrag von Jens (19.11.2026). Status: Schritte 1–5 umgesetzt (Datenmodell und Werkzeug, Themen der vorhandenen Videos, öffentliche Themenseiten, erste drei Wissenseinträge, Agentenregel `AGENTEN_WISSEN.md`); Schritte 6 und 7 folgen.
 
 ## 1. Ausgangslage (Bestandsaufnahme)
 

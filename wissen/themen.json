@@ -1,4 +1,642 @@
 {
   "schemaVersion": 1,
-  "topics": []
+  "topics": [
+    {
+      "id": "klima",
+      "name": "Klima",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Klimawandel",
+        "Erderwärmung"
+      ],
+      "description": "Aussagen zu Klimawandel, Eis, Korallen und Klimaforschung.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "klima/ursachen",
+      "name": "Ursachen",
+      "level": "Unterthema",
+      "parent": "klima",
+      "aliases": [],
+      "description": "Wodurch die gegenwärtige Erwärmung verursacht wird.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "klima/eis",
+      "name": "Eis und Gletscher",
+      "level": "Unterthema",
+      "parent": "klima",
+      "aliases": [
+        "Eisschilde",
+        "Meereis"
+      ],
+      "description": "Eismassen von Grönland und Antarktis, Meereis.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "klima/korallen",
+      "name": "Korallen",
+      "level": "Unterthema",
+      "parent": "klima",
+      "aliases": [
+        "Korallenriffe"
+      ],
+      "description": "Zustand von Korallenriffen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "energie",
+      "name": "Energie",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Strom"
+      ],
+      "description": "Stromerzeugung, Energiepreise, Energiewende.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "energie/windkraft",
+      "name": "Windkraft",
+      "level": "Unterthema",
+      "parent": "energie",
+      "aliases": [
+        "Windenergie",
+        "Windanlagen"
+      ],
+      "description": "Windenergieanlagen: Energiebilanz, Wirtschaftlichkeit, Materialeinsatz.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "energie/windkraft/amortisation",
+      "name": "Erzeugen Windanlagen mehr Energie, als ihre Herstellung kostet?",
+      "level": "Fragestellung",
+      "parent": "energie/windkraft",
+      "aliases": [],
+      "description": "Energetische Amortisation und Energierücklauf von Windanlagen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "energie/preise",
+      "name": "Energiepreise",
+      "level": "Unterthema",
+      "parent": "energie",
+      "aliases": [],
+      "description": "Preise für Strom, Öl, Gas und Kraftstoffe.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "geld",
+      "name": "Geld",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Geldpolitik",
+        "Währung"
+      ],
+      "description": "Geldwert, Inflation, Zentralbanken, Geldschöpfung und digitales Zentralbankgeld.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "geld/inflation",
+      "name": "Inflation und Kaufkraft",
+      "level": "Unterthema",
+      "parent": "geld",
+      "aliases": [
+        "Kaufkraftverlust",
+        "Geldentwertung"
+      ],
+      "description": "Preissteigerung und Kaufkraft von Geld.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "geld/ezb",
+      "name": "EZB",
+      "level": "Unterthema",
+      "parent": "geld",
+      "aliases": [
+        "Europäische Zentralbank",
+        "Zentralbank"
+      ],
+      "description": "Aufbau, Unabhängigkeit und Anleihekäufe der Europäischen Zentralbank.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "geld/geldschoepfung",
+      "name": "Geldschöpfung",
+      "level": "Unterthema",
+      "parent": "geld",
+      "aliases": [
+        "Buchgeld"
+      ],
+      "description": "Wie Geschäfts- und Zentralbanken Geld schaffen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "geld/digitaler-euro",
+      "name": "Digitaler Euro",
+      "level": "Unterthema",
+      "parent": "geld",
+      "aliases": [
+        "Bargeld"
+      ],
+      "description": "Digitaler Euro und Zukunft des Bargelds.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "banken",
+      "name": "Banken",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Bankenrettung",
+        "Bankenkrise"
+      ],
+      "description": "Stabilität, Krisen und Rettungen von Banken.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "staatsfinanzen",
+      "name": "Staatsfinanzen",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Haushalt",
+        "Staatsschulden"
+      ],
+      "description": "Haushalt, Schulden, Zinsausgaben und Bonität des Staates.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "staatsfinanzen/zinsen",
+      "name": "Zinsausgaben",
+      "level": "Unterthema",
+      "parent": "staatsfinanzen",
+      "aliases": [],
+      "description": "Zinsausgaben des Bundes und ihre Entwicklung.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "staatsfinanzen/schulden",
+      "name": "Schulden und Bonität",
+      "level": "Unterthema",
+      "parent": "staatsfinanzen",
+      "aliases": [
+        "Schuldenquote",
+        "Rating"
+      ],
+      "description": "Schuldenstand, Schuldenquoten, Sondervermögen und Kreditwürdigkeit.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "staatsfinanzen/ausgaben",
+      "name": "Ausgaben",
+      "level": "Unterthema",
+      "parent": "staatsfinanzen",
+      "aliases": [
+        "Staatsausgaben",
+        "Haushaltskürzungen"
+      ],
+      "description": "Staatsausgaben, Kürzungsvorschläge und Auslandszahlungen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "wirtschaft",
+      "name": "Wirtschaft",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Konjunktur",
+        "Wirtschaftskrise"
+      ],
+      "description": "Wirtschaftslage, Unternehmen, Produktivität und Arbeitsmarkt.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "wirtschaft/produktivitaet",
+      "name": "Produktivität",
+      "level": "Unterthema",
+      "parent": "wirtschaft",
+      "aliases": [
+        "Arbeitsproduktivität",
+        "Investitionen"
+      ],
+      "description": "Arbeitsproduktivität und Investitionen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "wirtschaft/insolvenzen",
+      "name": "Insolvenzen",
+      "level": "Unterthema",
+      "parent": "wirtschaft",
+      "aliases": [
+        "Zombie-Unternehmen",
+        "Firmenpleiten"
+      ],
+      "description": "Insolvenzen, Betriebsschließungen und Zombie-Unternehmen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "auswanderung",
+      "name": "Auswanderung",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Abwanderung",
+        "Wegzug"
+      ],
+      "description": "Fortzüge aus Deutschland und ihre Folgen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "auswanderung/wegzugsteuer",
+      "name": "Wegzugsteuer",
+      "level": "Unterthema",
+      "parent": "auswanderung",
+      "aliases": [
+        "Reichsfluchtsteuer"
+      ],
+      "description": "Besteuerung beim Wegzug und ihre Geschichte.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "corona",
+      "name": "Corona",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Pandemie",
+        "Covid"
+      ],
+      "description": "Corona-Pandemie, Tests und Maßnahmen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "corona/pcr",
+      "name": "PCR-Test",
+      "level": "Unterthema",
+      "parent": "corona",
+      "aliases": [
+        "PCR"
+      ],
+      "description": "Funktionsweise und Aussagekraft von PCR-Tests auf SARS-CoV-2.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "meinungsfreiheit",
+      "name": "Meinungsfreiheit",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Zensur"
+      ],
+      "description": "Meinungsfreiheit, Plattformregeln und Äußerungsstrafrecht.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "meinungsfreiheit/plattformen",
+      "name": "Plattformen",
+      "level": "Unterthema",
+      "parent": "meinungsfreiheit",
+      "aliases": [
+        "Moderation",
+        "YouTube-Sperren"
+      ],
+      "description": "Moderation, Sperren und Reichweitenbeschränkung auf Plattformen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "meinungsfreiheit/strafrecht",
+      "name": "Strafrecht",
+      "level": "Unterthema",
+      "parent": "meinungsfreiheit",
+      "aliases": [
+        "Äußerungsdelikte"
+      ],
+      "description": "Strafvorschriften zu Beleidigung, Volksverhetzung und Kennzeichen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "geheimdienste",
+      "name": "Geheimdienste",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Nachrichtendienste",
+        "Verfassungsschutz",
+        "Überwachung"
+      ],
+      "description": "Aufgaben und Befugnisse von Nachrichtendiensten, Überwachung.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "stasi",
+      "name": "Stasi",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Staatssicherheit",
+        "MfS"
+      ],
+      "description": "Staatssicherheit der DDR und Vorwürfe einer Stasi-Tätigkeit.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "ukraine",
+      "name": "Ukraine",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Ukrainekrieg"
+      ],
+      "description": "Krieg in der Ukraine und Hilfen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "argentinien",
+      "name": "Argentinien",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Wirtschaft und Armut in Argentinien.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    },
+    {
+      "id": "asyl",
+      "name": "Asyl",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Einwanderung USA",
+        "ESTA"
+      ],
+      "description": "Asyl- und Einreiserecht (hier vor allem USA).",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-19",
+          "agent": "Claude",
+          "change": "Erstanlage des Themenverzeichnisses aus den vorhandenen Faktenchecks."
+        }
+      ]
+    }
+  ]
 }

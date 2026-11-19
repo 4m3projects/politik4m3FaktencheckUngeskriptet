@@ -586,3 +586,23 @@ button.rhet-chip:hover { background: var(--surface); }
 .ampel-row:hover { border-color: var(--line-strong); }
 .ampel-row .ampel { margin: 0; }
 .ampel-row-title { display: flex; flex-direction: column; gap: 2px; }
+
+/* ---------- Themen-Wissensdatenbank (themen.js) ---------- */
+.topic-line { margin: 0 0 12px; display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.topic-chip { text-decoration: none; }
+.topic-chip:hover { border-color: var(--accent); color: var(--text); }
+.topic-internal { opacity: .8; }
+.topic-others { display: flex; flex-wrap: wrap; gap: 6px; }
+.topic-card .topic-subs { color: var(--text-2); }
+.kb-search { display: flex; flex-direction: column; gap: 6px; max-width: 560px; font-weight: 600; }
+.kb-search input { font: inherit; font-weight: 400; padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--text); width: 100%; box-sizing: border-box; }
+.kb-results { list-style: none; padding: 0; margin: 12px 0 0; display: grid; gap: 8px; }
+.kb-list { list-style: none; padding: 0; margin: 0; display: grid; gap: 14px; }
+.kb-item { border: 1px solid var(--line); border-radius: var(--radius); padding: 14px 16px; background: var(--surface); }
+.kb-item .claim-desc { margin: 8px 0 4px; }
+.kb-item .claim-reason { margin: 0 0 6px; color: var(--text-2); }
+.kb-entry { border-width: 2px; }
+.kb-intro { color: var(--text-2); max-width: 70ch; }
+.kb-src summary { cursor: pointer; color: var(--text-2); font-size: .9rem; }
+.kb-src ul { margin: 6px 0 0; padding-left: 18px; }
+.section-head .count { color: var(--text-3); font-weight: 500; font-size: .8em; }

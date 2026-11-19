@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "videoId": "OQnvClWgN-g",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung und Kapitel), nicht aus dem Titel. KI-gestützt von Claude erstellt; Aussagen ohne öffentliches Sachthema (z. B. Biografisches, Werbung) bleiben ohne Thema.",
+  "topics": [
+    {
+      "topic": "geld",
+      "relevance": "Schwerpunkt",
+      "basis": "9 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "klima",
+      "relevance": "Behandelt",
+      "basis": "4 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Behandelt",
+      "basis": "3 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "staatsfinanzen",
+      "relevance": "Behandelt",
+      "basis": "3 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "banken",
+      "relevance": "Behandelt",
+      "basis": "2 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "energie",
+      "relevance": "Behandelt",
+      "basis": "2 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "ukraine",
+      "relevance": "Behandelt",
+      "basis": "2 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "auswanderung",
+      "relevance": "Behandelt",
+      "basis": "2 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "corona",
+      "relevance": "Erwähnt",
+      "basis": "1 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "argentinien",
+      "relevance": "Erwähnt",
+      "basis": "1 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "OQnvClWgN-g-A0001",
+      "topics": [
+        "wirtschaft/insolvenzen"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0002",
+      "topics": [
+        "wirtschaft/insolvenzen"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0003",
+      "topics": [
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0004",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0005",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0006",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0007",
+      "topics": [
+        "geld/geldschoepfung"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0008",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0009",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0010",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0011",
+      "topics": [
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0012",
+      "topics": [
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0013",
+      "topics": [
+        "klima/ursachen"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0014",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0015",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0016",
+      "topics": [
+        "klima/korallen"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0017",
+      "topics": [
+        "ukraine"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0018",
+      "topics": [
+        "ukraine"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0019",
+      "topics": [
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0020",
+      "topics": [
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0021",
+      "topics": [
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0022",
+      "topics": [
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0023",
+      "topics": [
+        "auswanderung/wegzugsteuer"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0024",
+      "topics": [
+        "auswanderung/wegzugsteuer"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0025",
+      "topics": [
+        "argentinien"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0026",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0027",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0028",
+      "topics": [
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0029",
+      "topics": [
+        "corona"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 29 Aussagen zu Themen; keine Bewertung geändert."
+    }
+  ]
+}

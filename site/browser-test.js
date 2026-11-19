@@ -19,7 +19,7 @@ const VIDEO = 'mlxFA9T88I0';
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-site-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js', 'wissen.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
   for (const id of fs.readdirSync(base).filter(x => /^[A-Za-z0-9_-]{11}$/.test(x))) {
@@ -52,6 +52,8 @@ function buildSite() {
   }
   fs.copyFileSync(path.join(base, 'beziehungen.json'), path.join(out, 'daten', 'beziehungen.json'));
   fs.writeFileSync(path.join(out, 'daten', 'index.json'), JSON.stringify({ generated: new Date().toISOString(), commit: 'test', repository: '4m3projects/politik4m3Facktencheck', videos }));
+  /* Wissensverzeichnis wie im Workflow (node scripts/wissen.js export). */
+  require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, '..', 'scripts', 'wissen.js'), 'export', path.join(out, 'daten', 'wissen.json')]);
   return out;
 }
 

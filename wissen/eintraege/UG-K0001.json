@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0001",
+  "revision": 1,
+  "claim": "Regierungen dürfen der Europäischen Zentralbank rechtlich keine Weisungen erteilen; EZB und nationale Zentralbanken dürfen keine Weisungen von Regierungen einholen oder entgegennehmen.",
+  "topics": [
+    "geld/ezb"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Artikel 130 AEUV verbietet der EZB und den nationalen Zentralbanken, Weisungen von Organen der Union oder Regierungen der Mitgliedstaaten einzuholen oder entgegenzunehmen; die Regierungen verpflichten sich, keine Einflussnahme zu versuchen. Die EZB beschreibt diese Unabhängigkeit ebenso. Ob es informellen Einfluss gibt, ist eine getrennte Frage und wird hier nicht beantwortet.",
+  "validity": {
+    "asOf": "2026-11-18",
+    "timeScope": "Geltendes EU-Recht, Stand 2026",
+    "subjectScope": "Rechtlicher Rahmen der EZB und des Eurosystems; nicht die Frage tatsächlicher informeller Einflussnahme",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-18",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "Art. 130 AEUV",
+      "url": "https://lxgesetze.de/aeuv/130",
+      "details": "Vertrag über die Arbeitsweise der Europäischen Union, Artikel 130 (Textwiedergabe)",
+      "accessedOn": "2026-11-18",
+      "kind": "Gesetzestext"
+    },
+    {
+      "id": "Q2",
+      "title": "ECB: Independence",
+      "url": "https://www.ecb.europa.eu/ecb/our-values/independence/html/index.en.html",
+      "details": "Europäische Zentralbank, Erläuterung der Unabhängigkeit",
+      "accessedOn": "2026-11-18",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "L7E04TJtRBU-A0012",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Beide Aussagen betreffen das rechtliche Weisungsverbot gegenüber der EZB im heutigen EU-Recht; gleicher Geltungsbereich.",
+      "linkedBy": "Claude",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0273",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Weisungsverbot zu Geldpolitik (Inflation, Zinsen) ist Teil desselben rechtlichen Verbots nach Art. 130 AEUV; gleicher Zeitbezug.",
+      "linkedBy": "Claude",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0005",
+      "repo": null,
+      "relation": "verwandt",
+      "contextNote": "Behauptet fehlende tatsächliche Unabhängigkeit; das rechtliche Verbot beantwortet die Frage informeller Einflussnahme nicht, daher kein Bewertungsabgleich.",
+      "linkedBy": "Claude",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0280",
+      "repo": null,
+      "relation": "verwandt",
+      "contextNote": "Politische Deutung der Praxis (Meinung); gleiche Frage, andere Aussageart.",
+      "linkedBy": "Claude",
+      "linkedOn": "2026-11-19"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Angelegt aus den bestehenden Prüfungen L7E04TJtRBU-A0012 und mlxFA9T88I0-A0273 (Schritt 4, Issue #54). Urteil, Begründung und Originalquellen aus diesen Prüfungen zusammengeführt; Quellen am 18.11.2026 gelesen, für den Eintrag nicht erneut abgerufen.",
+      "previous": null
+    }
+  ]
+}

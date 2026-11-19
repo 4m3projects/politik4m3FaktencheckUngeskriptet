@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0002",
+  "revision": 1,
+  "claim": "Christine Lagarde war vor ihrer Zeit als EZB-Präsidentin französische Ministerin für Wirtschaft und Finanzen.",
+  "topics": [
+    "geld/ezb"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Der offizielle Lebenslauf der EZB nennt Lagarde als französische Ministerin für Wirtschaft und Finanzen (2007–2011). Daraus folgt nicht, dass alle Direktoriumsmitglieder frühere Finanzminister sind (siehe OQnvClWgN-g-A0004).",
+  "validity": {
+    "asOf": "2026-11-18",
+    "timeScope": "Lebenslauf bis 2026",
+    "subjectScope": "Person Christine Lagarde",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-18",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "Christine Lagarde – President of the European Central Bank (CV)",
+      "url": "https://www.ecb.europa.eu/ecb/decisions/html/cvlagarde.en.html",
+      "details": "Europäische Zentralbank, offizieller Lebenslauf",
+      "accessedOn": "2026-11-18",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "mlxFA9T88I0-A0275",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Gleiche biografische Tatsache, gleicher Zeitraum; Quelle ist derselbe EZB-Lebenslauf.",
+      "linkedBy": "Claude",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0021",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Die Reaktion bestätigt zusätzlich das heutige Amt als EZB-Präsidentin; die Ministerzeit ist ein Teil davon.",
+      "linkedBy": "Claude",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0004",
+      "repo": null,
+      "relation": "verwandt",
+      "contextNote": "Pauschalaussage über das ganze EZB-Direktorium; Lagardes Lebenslauf allein beantwortet sie nicht.",
+      "linkedBy": "Claude",
+      "linkedOn": "2026-11-19"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Angelegt aus der bestehenden Prüfung mlxFA9T88I0-A0275 (Schritt 4, Issue #54); Originalquelle am 18.11.2026 gelesen, für den Eintrag nicht erneut abgerufen.",
+      "previous": null
+    }
+  ]
+}

@@ -827,6 +827,7 @@ function videoHeader(v, tab) {
   <header class="video-head">
     <h1>${esc(v.title)}</h1>
     ${roleLine(v)}
+    ${typeof videoTopicLine === 'function' ? videoTopicLine(v.id) : ''}
     ${ampelView(v, 'big')}
     <p class="small ampel-note">Die Faktenampel fasst nur die bereits entschiedenen Tatsachenbehauptungen zusammen, nicht das ganze Video und keine Person. Darstellungshinweise fließen nicht ein. <a href="#/methodik">Regel in der Methodik</a></p>
     <ul class="facts">${videoFacts(v)}</ul>
@@ -1083,6 +1084,13 @@ function pageMethod() {
       </ul>
     </section>
 
+    <section class="section prose-plain" id="themen"><h2>Themen und Wissensdatenbank</h2>
+      <p>Jede geprüfte Aussage kann einem oder mehreren Themen zugeordnet werden, zum Beispiel „Energie › Windkraft“. Die Zuordnung beruht auf dem Inhalt der Aussagen, nicht auf dem Videotitel. Daraus entsteht die <a href="#/themen">Themenübersicht</a>: Je Thema zeigen wir belegte Tatsachen, teilweise belegte, widerlegte oder irreführende Behauptungen und nicht ausreichend belegte Aussagen. Bewertet wird dabei nichts neu; es sind dieselben Einzelbewertungen wie auf den Videoseiten.</p>
+      <p>Ein Thema erhält eine eigene Kategorie, wenn es in mindestens zwei geprüften Videos mit jeweils mindestens zwei Aussagen behandelt wird. Eine beiläufige Erwähnung reicht nicht. Seltenere Themen bleiben über die Suche und an den Videos auffindbar. Wenn wir dieselbe Behauptung in mehreren Videos geprüft haben, steht „In n von uns geprüften Videos“ dabei. Das beschreibt nur unseren Videobestand, nicht wie verbreitet eine Behauptung allgemein ist.</p>
+      <p><strong>Passende Videos</strong> werden nur aus den Aussagen zum jeweiligen Thema berechnet: Mindestens drei entschiedene Tatsachenbehauptungen zum Thema, davon weniger als ein Viertel widerlegt oder irreführend. Reihenfolge nach der Zahl belegter Aussagen und verschiedener Quellen. Die Gesamtbewertung des Videos, die Person und ihre politische Haltung spielen keine Rolle. Ein Video kann deshalb zu einem Thema empfohlen werden, auch wenn andere Teile problematisch sind.</p>
+      <p>Wird ein Fehler in einer früheren Prüfung bestätigt, korrigieren wir die betroffenen Aussagen gezielt und dokumentieren alte und neue Bewertung. Themenseiten, Statistiken und Ampel werden danach automatisch neu berechnet. Eine Aussage, die zu ihrem Zeitpunkt stimmte, wird nicht nachträglich als falsch markiert, nur weil sich die Lage geändert hat. Die Regeln stehen in <a href="${esc(blobUrl('docs/WISSENSDATENBANK.md'))}" rel="noopener noreferrer" target="_blank">docs/WISSENSDATENBANK.md</a>.</p>
+    </section>
+
     <section class="section prose-plain"><h2>Originalinterviews und Reaktionen</h2>
       <p>Die Übersicht zeigt Originalinterviews. Videos anderer Kanäle, die sich nachweislich auf ein Interview beziehen, stehen auf dessen Seite und werden mit demselben Verfahren eigenständig geprüft, zustimmende wie kritische. Der Faktencheck des Originals dient dabei als Kontext, nicht als Wahrheitsmaßstab.</p>
       <p>Prüfen Original und Reaktion dieselbe Behauptung mit gegensätzlichem Ergebnis, erscheint ein sichtbarer <strong>Prüfkonflikt</strong> mit Gegenüberstellung der Quellen und einer offenen Review-Aufgabe, bis die Abweichung begründet geklärt ist. Bewertungen werden nie nur angeglichen, damit sie übereinstimmen.</p>
@@ -1189,6 +1197,8 @@ async function routePage() {
       /* Fehlende Beziehungsdatei ist kein Fehler: dann gibt es schlicht keine Zuordnungen. */
       state.relations = await getJson('beziehungen.json').catch(() => ({ schemaVersion: 1, relations: [] }));
       state.rel = FactRelations.buildIndex(state.relations);
+      /* Themen-Wissensdatenbank (themen.js); fehlt sie, erscheinen schlicht keine Themen. */
+      if (typeof loadKnowledge === 'function') await loadKnowledge();
       updateThumbSetting();
     }
     if (parts[0] === 'video' && parts[1]) {
@@ -1205,6 +1215,8 @@ async function routePage() {
       return;
     }
     if (parts[0] === 'jens') return pageJens();
+    if (parts[0] === 'themen') return await pageTopics();
+    if (parts[0] === 'thema' && parts[1]) return await pageTopic(parts.slice(1).join('/'));
     return await pageHome();
   } catch (e) {
     console.error(e);
