@@ -240,7 +240,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Mißfelder sei parteiintern als möglicher Merkel-Nachfolger gehandelt worden.
 
-Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -259,24 +259,33 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Unbestimmte Aussage über parteiinterne Erwartungen; konkrete damalige Stimmen fehlen.
+Teilweise zutreffend: Ein zeitgenössischer Beitrag im Freitag (Oktober 2014) beschreibt Mißfelder als „kommenden Mann in der Union“, in dem manche sogar den künftigen Kanzler sahen. Wer ihn so sah und ob das parteiintern als Nachfolge Merkels gehandelt wurde, nennt der Beitrag nicht; zudem galt er nach 2014 laut demselben Text als politisch erledigt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): Aussage ist öffentlich prüfbar; zweite Recherche durchgeführt, vorher Nicht überprüfbar, jetzt Teilweise belegt.
 
 ### Zugeordnete Quellen
 
 - [Philipp Mißfelder](https://en.wikipedia.org/wiki/Philipp_Mi%C3%9Ffelder) · Wikipedia (englisch), ohne Datum; Tod am 13.07.2015 an einer Lungenembolie (Fußnoten Spiegel, Tagesschau).
   Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; nennt keine Nachfolgespekulation. Keine Quellenkopie veröffentlicht. Nennt keine Nachfolgespekulation.
 
+- [Gut gescheitelter Abnickverein](https://www.freitag.de/autoren/julian-heissler/gut-gescheitelter-abnickverein) · der Freitag, Julian Heißler, 08.10.2014, Meinungsbeitrag zur Jungen Union: „Mißfelder galt als kommender Mann in der Union, manche sahen in ihm gar den künftigen Kanzler.“ Nach dem Besuch von Schröders Geburtstagsfeier 2014 galt er in der Union als politisch erledigt.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht. „Kommender Mann“, manche sahen in ihm den künftigen Kanzler; Meinungsbeitrag, nennt keine Namen.
+
 ### Offene Fragen und Unsicherheiten
 
-- Zeitgenössische, namentlich zurechenbare Äußerungen statt nachträglicher Spekulation suchen.
+- Namentlich zurechenbare Äußerungen aus der Union zu Mißfelder als möglichem Merkel-Nachfolger suchen.
 
-- Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-18 (Claude): Öffentliche Recherche zu Mißfelders Rolle in der Union. Gepruefte Quellen: S126. Ergebnis: Gelesene Quelle nennt keine Nachfolgespekulation.
+
+- Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang mit anderen Begriffen (künftiger Kanzler, kommender Mann, Junge Union 2014); ein österreichischer Bericht war nicht abrufbar. Gepruefte Quellen: S135. Ergebnis: Zeitgenössischer Beitrag von 2014: Mißfelder galt als kommender Mann, manche sahen in ihm den künftigen Kanzler; nach 2014 galt er als politisch erledigt.
 
 ## mdo14671BPE-A0044
 

@@ -13,10 +13,10 @@ Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete P
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 247
-- Abgeschlossen: 131
+- Abgeschlossen: 132
 - Offen (noch nicht geprueft): 12
 - In Bearbeitung: 0
-- Nicht ueberpruefbar (abschliessend ohne Urteil): 104
+- Nicht ueberpruefbar (abschliessend ohne Urteil): 103
 - Erfasste Behauptungsvorkommen: 277
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 30
 - Davon bestaetigte Wiederholungen derselben Person: 0
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 94 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 95 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 29 | 30.9 % |
-| Teilweise belegt | 28 | 29.8 % |
-| Irreführend / Kontext fehlt | 18 | 19.1 % |
-| Widerlegt | 13 | 13.8 % |
-| Nicht ausreichend belegbar | 6 | 6.4 % |
+| Belegt | 29 | 30.5 % |
+| Teilweise belegt | 29 | 30.5 % |
+| Irreführend / Kontext fehlt | 18 | 18.9 % |
+| Widerlegt | 13 | 13.7 % |
+| Nicht ausreichend belegbar | 6 | 6.3 % |
 | Meinung / Prognose | 37 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.

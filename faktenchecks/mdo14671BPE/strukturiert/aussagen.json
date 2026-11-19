@@ -1086,6 +1086,14 @@
       "details": "Eigener Kanal von Naomi Seibt, 89 gelistete Videos, ältestes vom 24.05.2019; Upload-Lücke 28.10.2020 bis 14.03.2024; keine sichtbare Sperrmitteilung.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 über Jens' Rechner gelesen (Videoliste und automatische Untertitel). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S135",
+      "title": "Gut gescheitelter Abnickverein",
+      "url": "https://www.freitag.de/autoren/julian-heissler/gut-gescheitelter-abnickverein",
+      "details": "der Freitag, Julian Heißler, 08.10.2014, Meinungsbeitrag zur Jungen Union: „Mißfelder galt als kommender Mann in der Union, manche sahen in ihm gar den künftigen Kanzler.“ Nach dem Besuch von Schröders Geburtstagsfeier 2014 galt er in der Union als politisch erledigt.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -3190,24 +3198,27 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Mißfelder sei parteiintern als möglicher Merkel-Nachfolger gehandelt worden.",
-      "status": "Nicht überprüfbar",
-      "verdict": null,
-      "reason": "Nicht überprüfbar – Behauptung über Dritte ohne Beleg. Für die Behauptung über Dritte hat Claude keine öffentliche Quelle gefunden, die sie stützt oder ausdrücklich widerlegt. Ein Negativnachweis ist mit öffentlichen Quellen nicht möglich. Bisheriger Prüfstand: Unbestimmte Aussage über parteiinterne Erwartungen; konkrete damalige Stimmen fehlen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Teilweise zutreffend: Ein zeitgenössischer Beitrag im Freitag (Oktober 2014) beschreibt Mißfelder als „kommenden Mann in der Union“, in dem manche sogar den künftigen Kanzler sahen. Wer ihn so sah und ob das parteiintern als Nachfolge Merkels gehandelt wurde, nennt der Beitrag nicht; zudem galt er nach 2014 laut demselben Text als politisch erledigt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Durchsicht Nicht überprüfbar nach Rechercheregel 19.11.2026 (Claude): Aussage ist öffentlich prüfbar; zweite Recherche durchgeführt, vorher Nicht überprüfbar, jetzt Teilweise belegt."
       },
       "sourceRefs": [
         {
           "sourceId": "S126",
           "note": "Nennt keine Nachfolgespekulation."
+        },
+        {
+          "sourceId": "S135",
+          "note": "„Kommender Mann“, manche sahen in ihm den künftigen Kanzler; Meinungsbeitrag, nennt keine Namen."
         }
       ],
       "openQuestions": [
-        "Zeitgenössische, namentlich zurechenbare Äußerungen statt nachträglicher Spekulation suchen.",
-        "Von Claude am 18.11.2026 nach öffentlicher Recherche als Nicht überprüfbar – Behauptung über Dritte ohne Beleg gekennzeichnet; keine Bewertung geraten."
+        "Namentlich zurechenbare Äußerungen aus der Union zu Mißfelder als möglichem Merkel-Nachfolger suchen."
       ],
       "occurrences": [
         {
@@ -3228,7 +3239,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-18",
+            "agent": "Claude",
+            "strategy": "Öffentliche Recherche zu Mißfelders Rolle in der Union.",
+            "sourceIds": [
+              "S126"
+            ],
+            "result": "Gelesene Quelle nennt keine Nachfolgespekulation."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Claude",
+            "strategy": "Zweiter Durchgang mit anderen Begriffen (künftiger Kanzler, kommender Mann, Junge Union 2014); ein österreichischer Bericht war nicht abrufbar.",
+            "sourceIds": [
+              "S135"
+            ],
+            "result": "Zeitgenössischer Beitrag von 2014: Mißfelder galt als kommender Mann, manche sahen in ihm den künftigen Kanzler; nach 2014 galt er als politisch erledigt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0044",
