@@ -27,6 +27,9 @@
     faktencheck: 'Eigener Faktencheck',
     einordnung: 'Journalistische Einordnung'
   };
+  /* Videoformat (optional in video.json): fehlt es, gilt das Video als normales Video.
+     Shorts sind hochkant und kurz; Seite, Player und Faktenampel berücksichtigen das (docs/SHORTS.md). */
+  const FORMATS = { video: 'Video', short: 'YouTube Short' };
   const WORK_STATUS = ['Erfasst', 'In Bearbeitung', 'Teilbestand geprüft', 'Abgeschlossen'];
   const CERTAINTY = ['Belegt', 'Plausibel'];
   /* Art der Verknüpfung zweier Aussagen. Nur die beiden ersten werden automatisch verglichen. */
@@ -50,6 +53,14 @@
   const text = x => typeof x === 'string' && x.trim().length > 0;
   const https = x => typeof x === 'string' && /^https:\/\/\S+$/.test(x);
   const isoDate = x => typeof x === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(x);
+
+  /* Ist das Video ein YouTube Short? Maßgeblich ist video.json (format: "short"); ohne Angabe
+     zählt hilfsweise eine Shorts-Adresse (youtube.com/shorts/<ID>). */
+  function isShort(meta, url) {
+    if (meta && meta.format != null) return meta.format === 'short';
+    const u = String(url || (meta && meta.videoUrl) || '');
+    return /^https:\/\/(?:www\.|m\.)?youtube\.com\/shorts\/[A-Za-z0-9_-]{11}(?:[?#/]|$)/.test(u);
+  }
 
   function videoPublication(meta) {
     return meta?.Veröffentlichung || meta?.['Veröffentlichung laut erfassten Metadaten'] ||
@@ -90,6 +101,7 @@
     if (!text(m.title)) e.push(at + ': title fehlt.');
     if (!https(m.videoUrl)) e.push(at + ': videoUrl muss eine HTTPS-Adresse sein.');
     if (!WORK_STATUS.includes(m.workStatus)) e.push(at + ': unbekannter workStatus.');
+    if (m.format != null && !Object.hasOwn(FORMATS, m.format)) e.push(at + ': format muss video oder short sein (oder fehlen).');
     const idf = m.identification;
     if (!isObj(idf) || !text(idf.basis) || !CERTAINTY.includes(idf.certainty) || !isoDate(idf.checkedOn)) {
       e.push(at + ': identification braucht basis, certainty (Belegt/Plausibel) und checkedOn.');
@@ -201,6 +213,6 @@
     geklaert: 'Abweichung begründet geklärt'
   };
 
-  return { ROLES, REACTION_TYPES, WORK_STATUS, LINK_TYPES, RESOLUTIONS, POLARITY, STATE_TEXT,
+  return { ROLES, REACTION_TYPES, FORMATS, isShort, WORK_STATUS, LINK_TYPES, RESOLUTIONS, POLARITY, STATE_TEXT,
     validateVideoMeta, validateRelations, compareLink, buildIndex, findClaim, videoPublication, compareVideoRecency };
 });

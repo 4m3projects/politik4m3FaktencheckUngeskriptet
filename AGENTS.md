@@ -45,6 +45,10 @@ Baue eine eigenständige, möglichst neutrale, faktenorientierte Prüfumgebung f
 
 Die Gesamteinschätzung je Video (Ampel) wird **ausschließlich berechnet**, zentral in `site/ampel.js`, aus den vorhandenen Einzelbewertungen. Agenten setzen, speichern oder überschreiben keine Ampel und ändern keine Einzelbewertung, um eine Ampelfarbe zu erreichen. Änderungen an Schwellen oder Regel nur in `site/ampel.js` mit Tests und Dokumentation in [docs/AMPEL.md](docs/AMPEL.md) sowie in der Methodik der Webseite. Darstellungshinweise fließen nie ein; vorläufige Prüfungen bleiben „Noch in Prüfung“.
 
+## YouTube Shorts
+
+Shorts (`youtube.com/shorts/<ID>`) werden wie andere Videos geprüft. Gespeichert wird die normale watch-Adresse; `video.json` erhält `"format": "short"`. Ein Short wird vollständig erfasst und braucht keine Kapitelgliederung. Einzelheiten: [docs/SHORTS.md](docs/SHORTS.md).
+
 ## Arbeitsweise
 - **Keine Videoauswertungen importieren**, bevor der Nutzer die Fertigstellung und Übertragung ausdrücklich freigibt.
 - Bei neuen Prüfungen einzelne nachprüfbare Tatsachenbehauptungen mit Video-ID, Zeitmarke, Sprecher, Kontext, Belegen, Gegenbelegen, Prüfstatus und Begründung erfassen.

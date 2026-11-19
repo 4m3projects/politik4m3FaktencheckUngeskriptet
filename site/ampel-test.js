@@ -48,6 +48,21 @@ test('Noch nicht geprüfte Aussagen machen eine zu kleine Grundlage vorläufig s
   assert.equal(A.rate(stats({ belegt: 5, unver: 20 })).key, 'nicht_bewertbar');
 });
 
+test('YouTube Shorts: Vollerhebung, daher ab 3 entschiedenen und mindestens der Hälfte bewertbar', () => {
+  const short = { format: 'short', workStatus: 'Abgeschlossen' };
+  assert.equal(A.rate(stats({ belegt: 3 }), short, 58).key, 'gruen');
+  assert.equal(A.rate(stats({ belegt: 2, widerlegt: 1 }), short, 58).key, 'rot');
+  assert.equal(A.rate(stats({ belegt: 2 }), short, 58).key, 'nicht_bewertbar');
+  assert.match(A.rate(stats({ belegt: 2 }), short, 58).reason, /bei einem Short mindestens 3/);
+  assert.equal(A.rate(stats({ belegt: 3, unver: 4 }), short, 58).key, 'nicht_bewertbar', '3 von 7 < 50 %');
+  assert.equal(A.rate(stats({ belegt: 3, unver: 3 }), short, 58).key, 'gruen', '3 von 6 = 50 %');
+  assert.equal(A.rate(stats({ belegt: 2, open: 2 }), { format: 'short', workStatus: 'Teilbestand geprüft' }, 58).key, 'vorlaeufig');
+  assert.equal(A.rate(stats({ belegt: 3 }), { format: 'short', workStatus: 'In Bearbeitung' }, 58).key, 'vorlaeufig');
+  // Normale Videos bleiben bei der strengeren Regel, auch wenn sie kurz sind.
+  assert.equal(A.rate(stats({ belegt: 3 }), { format: 'video', workStatus: 'Abgeschlossen' }, 58).key, 'nicht_bewertbar');
+  assert.equal(A.rate(stats({ belegt: 3 }), { workStatus: 'Abgeschlossen' }, 58).key, 'nicht_bewertbar');
+});
+
 test('Teilweise belegt zählt nicht als Fehler', () => {
   const r = A.rate(stats({ teilweise: 20 }));
   assert.equal(r.key, 'gruen');
