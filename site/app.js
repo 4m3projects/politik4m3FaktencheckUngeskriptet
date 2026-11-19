@@ -333,6 +333,104 @@ document.addEventListener('click', e => {
   if (e.target.closest('#thumb-setting')) setThumbChoice(thumbChoice() === 'ja' ? 'nein' : 'ja');
 });
 
+/* ---------- Vorschaubild unter Videolinks ---------- */
+/* Sind die YouTube-Vorschaubilder eingeschaltet, klappt beim Überfahren eines Links auf ein Video
+   (Seite hier oder auf YouTube) direkt unter dem Link eine Tafel mit dessen Vorschaubild auf – im
+   selben Stil wie die Hinweistafeln. Ohne Zustimmung lädt nichts. Keine Vorschau bekommen Links, die
+   schon ein Vorschaubild zeigen oder neben einem stehen (Videokarten, Listen mit Bild), Links auf
+   Stellen im gerade geöffneten Video und Elemente mit eigenem Hinweis. Tastatur: Fokus zeigt die
+   Vorschau ebenfalls. Touch: Ein Tippen öffnet den Link sofort, deshalb dort keine Vorschau; die
+   Videokarten und Listen zeigen die Bilder dort ohnehin direkt. */
+const LINK_THUMB_DELAY = 120;
+function linkThumbCurrentId() {
+  const m = /^#\/video\/([A-Za-z0-9_-]+)/.exec(location.hash);
+  return m ? m[1] : null;
+}
+function linkThumbEntry(id) { return (state.index?.videos || []).find(v => v.id === id) || null; }
+function linkThumbEntryUrl(e) { return e?.video?.videoUrl || e?.scope?.videoUrl || ''; }
+function linkThumbId(a) {
+  if (!a || thumbChoice() !== 'ja' || a.hasAttribute('data-tip') || a.querySelector('img')) return null;
+  const href = a.getAttribute('href') || '';
+  const cur = linkThumbCurrentId();
+  let id = null;
+  const internal = /^#\/video\/([A-Za-z0-9_-]+)/.exec(href);
+  if (internal) {
+    if (internal[1] === cur) return null;
+    const e = linkThumbEntry(internal[1]);
+    if (!e) return null;
+    id = ytIdOf(internal[1], linkThumbEntryUrl(e));
+  } else {
+    id = FactSync.youtubeId(href);
+    /* Zeitmarken im gerade geöffneten Video zeigen immer dasselbe Bild – dort keine Vorschau. */
+    if (id && cur && /[?&](?:t|start)=/.test(href) && id === ytIdOf(cur, linkThumbEntryUrl(linkThumbEntry(cur)))) return null;
+  }
+  if (!id) return null;
+  /* Nichts doppelt zeigen: Steht das Bild schon daneben, braucht es keine Vorschau. */
+  const box = a.closest('li, .card');
+  if (box && box.querySelector(`img[src*="/vi/${id}/"]`)) return null;
+  return id;
+}
+function linkThumbPanel() {
+  if (!state.linkThumb) {
+    const d = document.createElement('div');
+    d.className = 'thumb-tip'; d.hidden = true; d.setAttribute('aria-hidden', 'true');
+    d.innerHTML = '<img alt="" width="320" height="180" decoding="async" referrerpolicy="no-referrer">';
+    d.querySelector('img').addEventListener('error', hideLinkThumb);
+    document.body.appendChild(d);
+    state.linkThumb = d;
+  }
+  return state.linkThumb;
+}
+function showLinkThumb(a, id) {
+  const tip = linkThumbPanel();
+  const img = tip.querySelector('img');
+  const src = `https://i.ytimg.com/vi/${encodeURIComponent(id)}/mqdefault.jpg`;
+  if (img.getAttribute('src') !== src) img.setAttribute('src', src);
+  const vw = document.documentElement.clientWidth;
+  /* Bei umbrechenden Links unter der letzten Zeile, beginnend an deren Anfang. */
+  const rects = a.getClientRects();
+  const r = rects.length ? rects[rects.length - 1] : a.getBoundingClientRect();
+  const w = Math.min(vw - 16, 248);
+  tip.style.width = w + 'px';
+  tip.style.left = (window.scrollX + Math.min(vw - w - 8, Math.max(8, r.left))) + 'px';
+  tip.style.top = (window.scrollY + r.bottom + 4) + 'px';
+  if (tip.hidden || state.linkThumbFor !== a) { tip.style.animation = 'none'; void tip.offsetWidth; tip.style.animation = ''; }
+  tip.hidden = false;
+  state.linkThumbFor = a;
+}
+function hideLinkThumb() {
+  clearTimeout(state.linkThumbTimer);
+  if (state.linkThumb) state.linkThumb.hidden = true;
+  state.linkThumbFor = null;
+}
+function linkThumbTarget(node) {
+  if (!node?.closest || node.closest('[data-tip], .ampel[data-ampel-key]')) return null;
+  const a = node.closest('a[href]');
+  const id = linkThumbId(a);
+  return id ? { a, id } : null;
+}
+document.addEventListener('pointerover', e => {
+  if (e.pointerType !== 'mouse') return;
+  const t = linkThumbTarget(e.target);
+  if (t && t.a === state.linkThumbFor) return;
+  clearTimeout(state.linkThumbTimer);
+  if (!t) { if (state.linkThumbFor && !state.linkThumbFor.contains(e.target)) hideLinkThumb(); return; }
+  state.linkThumbTimer = setTimeout(() => showLinkThumb(t.a, t.id), state.linkThumbFor ? 0 : LINK_THUMB_DELAY);
+});
+document.addEventListener('pointerout', e => {
+  if (e.pointerType !== 'mouse') return;
+  const from = e.target.closest?.('a[href]');
+  if (from && !from.contains(e.relatedTarget)) { clearTimeout(state.linkThumbTimer); if (state.linkThumbFor === from) hideLinkThumb(); }
+});
+document.addEventListener('focusin', e => {
+  const t = e.target.matches?.(':focus-visible') ? linkThumbTarget(e.target) : null;
+  if (t) showLinkThumb(t.a, t.id); else hideLinkThumb();
+});
+document.addEventListener('focusout', () => hideLinkThumb());
+document.addEventListener('pointerdown', hideLinkThumb, true);
+window.addEventListener('resize', hideLinkThumb);
+window.addEventListener('hashchange', hideLinkThumb);
+
 /* ---------- Originale, Reaktionen und Beziehungen (site/relations.js) ---------- */
 
 function roleOf(id) { return state.index.videos.find(v => v.id === id)?.video?.role || null; }
