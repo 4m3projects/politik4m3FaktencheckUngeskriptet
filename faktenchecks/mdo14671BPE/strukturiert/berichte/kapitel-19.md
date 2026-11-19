@@ -513,7 +513,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Merkel habe in ihren Erinnerungen persönliches Glück in einer unfreien Gesellschaft als möglich beschrieben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -532,22 +532,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Buchpassage und Kontext wurden nicht gelesen. Eine Aussage über individuelles Glück wäre kein Beweis der Zustimmung zu Diktatur oder Geheimdiensttätigkeit.
+Rezensionen der Memoiren „Freiheit“ (2024) bestätigen den Kern: Merkel schildert ihre Kindheit und Jugend in der DDR im persönlichen Umfeld als angenehm, ja glücklich, und stellt dem Szenen der Bedrohung durch das Regime gegenüber (Borchard, KAS 2025; Kermani in der Zeit laut Perlentaucher). Das Buch selbst wurde nicht gelesen; die Aussage stützt sich auf übereinstimmende Rezensionen.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Zwei Rezensionsquellen (KAS 02/2025, Perlentaucher-Rezensionsnotizen 11/2024) gelesen; Memoiren nicht selbst gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Rezensionen der Merkel-Memoiren gelesen; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
 - [Angela Merkel: Freiheit. Erinnerungen 1954–2021](https://www.perlentaucher.de/buch/angela-merkel/freiheit.html) · Perlentaucher · Rezensionsnotizen zum Buch (erschienen 26.11.2024).
   Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen; das Buch selbst nicht gelesen. Keine Quellenkopie veröffentlicht. Rezensionsnotizen: schöne Kindheit trotz Hindernissen durch das Regime; keine Aussage zu Glück in unfreier Gesellschaft.
 
+- [Typisch Merkel](https://www.kas.de/de/web/die-politische-meinung/artikel/detail/-/content/typisch-merkel) · Michael Borchard, Die Politische Meinung (Konrad-Adenauer-Stiftung), 27.02.2025; Rezension der Memoiren „Freiheit“.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Kindheit und Jugend in der DDR im persönlichen Umfeld glücklich geschildert.
+
+- [Angela Merkel: Freiheit. Erinnerungen 1954–2021 (Rezensionsnotizen)](https://www.perlentaucher.de/buch/angela-merkel/freiheit.html) · Perlentaucher, Zusammenfassung von Rezensionen (u. a. Die Zeit, 28.11.2024; Süddeutsche Zeitung, 26.11.2024).
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Schöne Kindheit trotz Schwierigkeiten durch das Regime (Kermani, Die Zeit).
+
 ### Offene Fragen und Unsicherheiten
 
-- Betroffene Passage im Original mit Kontext prüfen; keine fremden Textpassagen veröffentlichen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0191
 
