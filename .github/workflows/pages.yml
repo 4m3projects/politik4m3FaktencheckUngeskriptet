@@ -63,6 +63,9 @@ jobs:
       - name: Faktenampel prüfen (zentrale Regel, nur aus Aussagebewertungen)
         run: node --test site/ampel-test.js
 
+      - name: Gegendarstellungen prüfen (nur belegte Gegenaussagen zu kritischen Aussagen)
+        run: node --test site/gegendarstellung-test.js
+
       - name: Themen-Wissensdatenbank prüfen (Daten, Korrekturregeln, Schutz vor Überschreiben)
         run: |
           node --test site/wissen-test.js
@@ -80,12 +83,12 @@ jobs:
           set -euo pipefail
           rm -rf "$OUT"
           mkdir -p "$OUT/daten"
-          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js site/ampel.js site/wissen.js site/themen.js "$OUT/"
+          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js site/ampel.js site/wissen.js site/gegendarstellung.js site/themen.js "$OUT/"
           # Versionsparameter je Commit: Browser und GitHub-Pages-Cache laden nach jedem Deploy alle Skripte neu
           # und mischen keine alten und neuen Dateien.
           ver="${GITHUB_SHA:0:12}"
-          sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js|rhetoric\.js|ampel\.js|wissen\.js|themen\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
-          test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 9
+          sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js|rhetoric\.js|ampel\.js|wissen\.js|gegendarstellung\.js|themen\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
+          test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 10
           # Kompaktes Verzeichnis der Wissensdatenbank (Themen, Einträge, Aussagen mit Themen) für die Themenseiten.
           node scripts/wissen.js export "$OUT/daten/wissen.json"
           if [[ -f faktenchecks/beziehungen.json ]]; then jq -c . faktenchecks/beziehungen.json > "$OUT/daten/beziehungen.json"; else echo '{"schemaVersion":1,"relations":[]}' > "$OUT/daten/beziehungen.json"; fi

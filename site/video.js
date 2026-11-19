@@ -73,6 +73,7 @@ function vcItem(entry, c, o, v, ctx) {
       <span class="vc-flag" aria-hidden="true"></span>
     </div>
     <p class="vc-desc">${esc(c.description)}</p>
+    ${counterBlock(ctx.counterOf ? ctx.counterOf(c) : [], true)}
     <div class="vc-meta">
       <span class="badge plain">Zeit ${esc(entry.precision || 'unbekannt')}</span>
       ${entry.count > 1 ? `<span class="badge plain">Vorkommen ${entry.index} von ${entry.count}</span>` : ''}
@@ -117,7 +118,9 @@ async function pageVideoSync(id, opts = {}) {
     speakers: Object.fromEntries((d.speakers || []).map(s => [s.id, s])),
     sources: Object.fromEntries((d.sources || []).map(s => [s.id, s])),
     /* Darstellungshinweise (zweite Ebene) je Aussage; fehlen sie, bleibt die Liste unverändert. */
-    rhet: FactRhetoric.byClaim(v.rhet)
+    rhet: FactRhetoric.byClaim(v.rhet),
+    /* Belegte Gegenaussagen aus anderen geprüften Videos (nur bei kritischen Aussagen). */
+    counterOf: await counterContext(v)
   };
   const rhetFlags = id => vcRhetFlags(ctx.rhet.get(id) || []);
   const timeline = FactSync.buildTimeline(d.claims, { durationSeconds: d.scope.durationSeconds });

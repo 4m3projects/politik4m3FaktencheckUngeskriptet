@@ -37,6 +37,10 @@ Baue eine eigenständige, möglichst neutrale, faktenorientierte Prüfumgebung f
 
 **Pflichtlektüre für alle Agenten:** [docs/AGENTEN_WISSEN.md](docs/AGENTEN_WISSEN.md). Bei jeder neuen Faktencheck-Recherche zuerst gezielt in der eigenen Wissensdatenbank (und den für das Thema eingetragenen weiteren Wissensdatenbanken) suchen: `node scripts/wissen.js suche "<Behauptung>"`. Vorhandene Prüfungen nur nach eigener Kontrolle der Originalquellen übernehmen; eine frühere KI-Bewertung ist kein Beleg. Neue Aussagen Themen zuordnen und mit Wissenseinträgen verknüpfen. Vermutete Fehler früherer Bewertungen als Korrekturvorgang melden, Betroffene mit `node scripts/wissen.js betroffen` finden und erst nach geprüfter Beweislage und, bei mehr als drei Aussagen oder unklarer Lage, nach Freigabe durch Jens korrigieren. Eine geänderte Faktenlage macht frühere, damals richtige Bewertungen nicht falsch.
 
+## Gegendarstellung aus anderen Videos
+
+**Pflichtlektüre für alle Agenten:** [docs/GEGENDARSTELLUNG.md](docs/GEGENDARSTELLUNG.md). Kritische Aussagen (widerlegt, irreführend, nicht ausreichend belegbar, Meinung/Vermutung, noch ohne Urteil) zeigen automatisch eine belegte Gegenaussage aus einem anderen geprüften Video mit Zeitmarke. Die Zuordnung wird von Agenten gepflegt: Findet ein Agent eine solche belegte Gegenaussage, verknüpft er sie als `gegenbehauptung` in `faktenchecks/beziehungen.json` oder über einen Wissenseintrag (`gleichwertig`/`widerspricht`). Berechnet wird nur in `site/gegendarstellung.js`; keine Bewertung wird dafür geändert.
+
 ## Faktenampel
 
 Die Gesamteinschätzung je Video (Ampel) wird **ausschließlich berechnet**, zentral in `site/ampel.js`, aus den vorhandenen Einzelbewertungen. Agenten setzen, speichern oder überschreiben keine Ampel und ändern keine Einzelbewertung, um eine Ampelfarbe zu erreichen. Änderungen an Schwellen oder Regel nur in `site/ampel.js` mit Tests und Dokumentation in [docs/AMPEL.md](docs/AMPEL.md) sowie in der Methodik der Webseite. Darstellungshinweise fließen nie ein; vorläufige Prüfungen bleiben „Noch in Prüfung“.

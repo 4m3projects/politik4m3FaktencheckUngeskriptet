@@ -631,3 +631,14 @@ button.rhet-chip:hover { background: var(--surface); }
 @media (max-width: 560px) { .occ-item.has-thumb { grid-template-columns: 1fr; } .occ-thumb { width: 100%; } }
 .kb-changes s { color: var(--text-2); }
 .section-head .count { color: var(--text-3); font-weight: 500; font-size: .8em; }
+
+/* Gegendarstellung aus einem anderen geprüften Video (site/gegendarstellung.js) */
+.counter { margin: 12px 0 4px; padding: 10px 12px; border: 1px solid var(--line-strong); border-left: 4px solid var(--v-belegt); border-radius: 8px; background: var(--surface-2); }
+.counter-head { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 8px; margin-bottom: 6px; }
+.counter-badge { background: var(--v-belegt); color: #fff; }
+.counter-item + .counter-item, .counter-more .counter-item { margin-top: 10px; padding-top: 8px; border-top: 1px solid var(--line); }
+.counter-item .claim-top a { overflow-wrap: anywhere; }
+.counter-desc { margin: 6px 0 4px; }
+.counter-more summary { cursor: pointer; margin-top: 8px; font-size: .9em; }
+.counter-compact { padding: 8px 10px; }
+.counter-compact .counter-desc { font-size: .92em; }
