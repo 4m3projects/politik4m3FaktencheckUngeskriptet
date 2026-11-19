@@ -4,6 +4,8 @@ Erstellt/bearbeitet von: Claude (auf Nutzerauftrag, eigener Branch). Fachliche D
 
 Die öffentliche Webseite stellt die Faktenchecks dieses Repositorys lesbar dar. Sie wird **automatisch aus den vorhandenen Projektdateien erzeugt**; für ein neues Video ist keine Änderung an der Webseite nötig.
 
+Die Startseite zeigt die zuletzt veröffentlichten oder inhaltlich geprüften Videos zuerst. Für die Reihenfolge zählt das jüngere Datum aus der Veröffentlichung im Video-README und dem Prüfstichtag in `scope.asOf`. Bei Gleichstand entscheidet das Veröffentlichungsdatum. Einträge ohne Datum folgen am Ende.
+
 ## Aufbau
 
 - `site/index.html`, `site/style.css`, `site/app.js`: statische Seite aus eigenem Code. Keine Fremdbibliotheken, keine externen Schriften, keine Tracker.
