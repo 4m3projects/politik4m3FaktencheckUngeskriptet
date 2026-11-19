@@ -1009,7 +1009,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Rindertalg sei in seiner Zusammensetzung dem menschlichen Hautfett am nächsten und liefere Fettsäuren, fettlösliche Vitamine und hautähnliche Lipide.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1032,21 +1032,25 @@ Frueherer Suchbereich: [01:59:15–02:00:49](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Werbeaussage. Eine Fachquelle zur Zusammensetzung von menschlichem Hautfett und Rindertalg wurde nicht gefunden bzw. nicht gelesen.
+Fachartikel für Apothekenpersonal bestätigen, dass Rindertalg als tierisches Fett dem menschlichen Hautfett ähnelt und Fettsäuren sowie etwas Vitamin A und E enthält. Am nächsten ist er dem Hautfett danach aber nicht (Schweineschmalz gilt als ähnlicher), die Vitaminmengen sind für eine Hautwirkung zu gering, und gegenüber pflanzlichen Fetten zeigen Studien keinen Vorteil; wegen seines hohen Anteils gesättigter Fettsäuren kann er Poren verstopfen. Die Werbeaussage stellt ihn damit deutlich günstiger dar, als die Fachquellen es tun.
 
-Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Zwei pharmazeutische Fachartikel (PTAheute 07/2025, apotheken.de 09/2025) gelesen; keine Primärstudien zur Lipidzusammensetzung.
 
 Uebernahme: Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): pharmazeutische Fachartikel zu Rindertalg gelesen; von Offen auf Irreführend / Kontext fehlt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Social-Media-Trend: Rindertalg als Hautpflege?](https://www.ptaheute.de/aktuelles/2025/07/29/social-media-trend-rindertalg-als-hautpflege) · PTAheute (Deutscher Apotheker Verlag), Claudia Faber, 29.07.2025; Zusammensetzung, Vitamingehalt und Eignung von Rindertalg.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Ähnlich, nicht am ähnlichsten (Schmalz näher); Vitaminmengen gering; komedogen.
+
+- [Rindertalg als Hautretter?](https://apotheken.de/news/14082-rindertalg-als-hautretter) · apotheken.de, Dr. med. Sonja Kempinski, 24.09.2025; fachliche Einordnung des Rindertalg-Trends.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Sehr ähnlich dem Sebum, Vitamine A und E nur in geringer Menge.
 
 ### Offene Fragen und Unsicherheiten
 
-- Übersichtsarbeit zur Lipidzusammensetzung von Hautfett und Rindertalg lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0289
 
