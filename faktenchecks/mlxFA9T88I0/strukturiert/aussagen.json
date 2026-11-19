@@ -2502,6 +2502,38 @@
       "details": "Institut der deutschen Wirtschaft, 25.01.2026; 2025 rund 96 Mrd. Euro Zufluss und 86 Mrd. Euro deutsche Auslandsinvestitionen, erstmals seit 2003 (außer 2020) Nettozufluss; Hochrechnung aus Bundesbankdaten.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S188",
+      "title": "BDEW-Strompreisanalyse Haushalte und Industrie (Oktober 2026)",
+      "url": "https://www.bdew.de/media/documents/BDEW_Strompreisanalyse_102026_1.pdf",
+      "details": "BDEW, Datenstand 10/2026; Industriestrompreis (Neuabschlüsse, 160 MWh–20 GWh) 2019 18,4, 2022 43,2, 2026 bisher 17,9 ct/kWh; Niveau ähnlich wie Polen, Tschechien, Österreich, Italien, deutlich über Frankreich, Spanien und Nordeuropa.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S189",
+      "title": "Weshalb die Schweizer Industrie für Strom mehr bezahlt als (fast) alle in Europa",
+      "url": "https://cdn.avenir-suisse.ch/production/uploads/2026/04/2026-04_industriestrompreise_de.pdf",
+      "details": "Avenir Suisse, Eisenring/Stocker, 24.04.2026; internationaler Vergleich der Industriestrompreise; China, USA, Kanada 2024 rund 8–9 Euro-Cent/kWh.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S190",
+      "title": "Frühjahrsgutachten 2026, Kapitel 2: Sozialversicherungen unter Reformdruck",
+      "url": "https://www.sachverstaendigenrat-wirtschaft.de/fileadmin/dateiablage/gutachten/fg2026/FG2026_Kapitel_2.pdf",
+      "details": "Sachverständigenrat Wirtschaft, 2026; Gesamtsozialversicherungsbeitrag von 35,6 % (1990) auf 42,3 % (2026), Projektion 45,4 % (2030).",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S191",
+      "title": "Sozialversicherungsbeiträge 2026",
+      "url": "https://lohn-info.de/sozialversicherungsbeitraege2026.html",
+      "details": "Lohn-Info, André Liebig; Beitragssätze 2026 je Versicherungszweig, Summe 42,3 %.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -13738,19 +13770,34 @@
       "legacyId": "C04-P05",
       "kind": "Tatsachenbehauptung",
       "description": "Die Industrie leidet besonders unter hohen Energiepreisen und steigenden Lohnnebenkosten.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Allgemeine Standortbehauptung. Energiepreise und Sozialversicherungsbeiträge sind an amtlichen Daten prüfbar; dazu wurde in dieser Prüfung keine Quelle gelesen.",
-      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Sozialversicherungsbeiträge sind gestiegen: Der Gesamtbeitrag liegt 2026 bei 42,3 Prozent des Bruttolohns, nach rund 42,1 Prozent 2025 und 35,6 Prozent 1990; der Sachverständigenrat erwartet bis 2030 rund 45 Prozent. Dieser Teil ist belegt. Bei den Energiepreisen ist das Bild gemischt: Der Industriestrompreis liegt laut BDEW 2026 mit rund 17,9 ct/kWh wieder etwa auf dem Niveau von 2019/2020, weit unter dem Krisenwert 2022 (43,2 ct/kWh). Im internationalen Vergleich ist er deutlich höher als in Frankreich, Nordeuropa, den USA oder China, aber ähnlich wie in mehreren EU-Ländern. Dass die Industrie „besonders“ leide, ist daher nur gegenüber bestimmten Konkurrenzstandorten gestützt.",
+      "assessmentBasis": "BDEW-Strompreisanalyse 10/2026, Avenir-Suisse-Vergleich 04/2026, Frühjahrsgutachten 2026 des Sachverständigenrats (Kapitel 2) und Beitragsübersicht 2026 gelesen. Keine Gaspreise und keine Branchenkostenstruktur gelesen.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
         "mapping": "Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Strompreis- und Beitragssatzdaten gelesen; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Industriestrompreise im Zeitvergleich und Entwicklung der Beitragssätze zur Sozialversicherung bis 2026 lesen."
+      "sourceRefs": [
+        {
+          "sourceId": "S188",
+          "note": "Industriestrom 2026 bisher 17,9 ct/kWh, ähnlich 2019/2020; im EU-Vergleich mittleres bis hohes Niveau."
+        },
+        {
+          "sourceId": "S189",
+          "note": "USA, China, Kanada rund 8–9 Euro-Cent/kWh."
+        },
+        {
+          "sourceId": "S190",
+          "note": "Gesamtbeitrag 35,6 % (1990) auf 42,3 % (2026)."
+        },
+        {
+          "sourceId": "S191",
+          "note": "Beitragssätze 2026, Summe 42,3 %."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0226",

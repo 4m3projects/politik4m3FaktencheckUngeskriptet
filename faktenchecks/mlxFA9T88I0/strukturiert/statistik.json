@@ -15,37 +15,37 @@
   "referenceOccurrences": 11,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 19,
+    "Offen": 18,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 150,
-    "Abgeschlossen": 223
+    "Abgeschlossen": 224
   },
   "kindCounts": {
     "Tatsachenbehauptung": 312,
     "Meinung": 63,
     "Prognose": 17
   },
-  "completedFacts": 143,
-  "openFacts": 19,
+  "completedFacts": 144,
+  "openFacts": 18,
   "inProgressFacts": 0,
   "unverifiableFacts": 150,
-  "percentageDenominator": 143,
+  "percentageDenominator": 144,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
       "completedCount": 36,
-      "completedFactPercent": 25.2
+      "completedFactPercent": 25.0
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 74,
-      "completedFactPercent": 51.7
+      "completedCount": 75,
+      "completedFactPercent": 52.1
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 21,
-      "completedFactPercent": 14.7
+      "completedFactPercent": 14.6
     },
     {
       "category": "Widerlegt",
