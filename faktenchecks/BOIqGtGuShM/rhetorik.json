@@ -1,0 +1,109 @@
+{
+  "schemaVersion": 1,
+  "videoId": "BOIqGtGuShM",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-19",
+    "by": "Codex",
+    "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+    "coverage": "Drei Hinweise zu drei erfassten Aussagen; biografischen Auftakt sowie Abschnitte von etwa 08:05 bis zum Ende textlich gelesen. Keine vollständige Rhetorikkodierung.",
+    "limits": [
+      "Auswahl einzelner Stellen, keine systematische Vollprüfung der Darstellung des gesamten Videos.",
+      "Keine eigene Hör- oder Sichtkontrolle; Sprecher nur plausibel, Zeitgrenzen ungefähr.",
+      "Alle Hinweise sind KI-Vorschläge ohne unabhängige redaktionelle Bestätigung. Aussagen ohne Hinweis sind nicht als unauffällig bestätigt."
+    ],
+    "history": [
+      {
+        "date": "2026-11-19",
+        "by": "Codex",
+        "change": "Fehlende zweite Bewertungsebene um textgeprüfte Beispiele ergänzt (Issue #77)."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "BOIqGtGuShM-R0001",
+      "claimId": "BOIqGtGuShM-A0016",
+      "feature": "gegenposition",
+      "startSeconds": 575,
+      "endSeconds": 610,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Alfred erkennt Seibts historischen Einwand zur Erweiterung eines Strafparagrafen ausdrücklich an und trennt ihn von ihrer politischen Forderung.",
+      "reason": "Die Gegenposition wird an dieser Stelle nicht vollständig verworfen: Der Kommentar räumt ihr einen zutreffenden Sachkern ein und behandelt die Abschaffungsforderung gesondert als Meinung.",
+      "context": "Kommentar zur zuvor eingespielten Seibt-Passage. Dieser Hinweis beschreibt die Argumentationsweise; die Rechtsprüfung steht separat in der Faktenebene.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    },
+    {
+      "id": "BOIqGtGuShM-R0002",
+      "claimId": "BOIqGtGuShM-A0023",
+      "feature": "ironie",
+      "startSeconds": 764,
+      "endSeconds": 791,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Die behauptete Häufigkeit problematischer Aussagen wird mit dem Bild eines ruhigen Pulses kommentiert.",
+      "reason": "Die medizinische Metapher verpackt die Kritik als ironische Entwarnung. Sie ist keine reproduzierte Messung der behaupteten Frequenz.",
+      "context": "Beginn des ausdrücklich getrennten Indexabschnitts, satirische Katzenfigur. Zählgrundlagen bleiben offen.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    },
+    {
+      "id": "BOIqGtGuShM-R0003",
+      "claimId": "BOIqGtGuShM-A0022",
+      "feature": "ironie",
+      "startSeconds": 855,
+      "endSeconds": 870,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Die Figur überlässt es dem Publikum, ob ein vierter Platz Anlass zur Freude sei.",
+      "reason": "Die Bemerkung spielt mit der scheinbar positiven Platzierung in einer negativ gemeinten Rangliste.",
+      "context": "Indexfazit nach einer eigenen Methodik, keine von uns übernommene Personen- oder Glaubwürdigkeitsnote.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    }
+  ]
+}

@@ -468,12 +468,36 @@ function setPage(html, nav) {
 function videoFacts(v) {
   const m = v.meta;
   const items = [];
-  if (m.Kanal) items.push(`<li>Kanal: <strong>${esc(stripMd(m.Kanal))}</strong></li>`);
+  const channel = m.Kanal || v.video?.channel;
+  if (channel) items.push(`<li>Kanal: <strong>${esc(stripMd(channel))}</strong></li>`);
   const pub = FactRelations.videoPublication(m);
   if (pub) items.push(`<li>Veröffentlicht: <strong>${esc(stripMd(pub))}</strong></li>`);
-  if (m.Laufzeit) items.push(`<li>Laufzeit: <strong>${esc(stripMd(m.Laufzeit))}</strong></li>`);
+  const duration = m.Laufzeit || (v.data?.scope?.durationSeconds > 0 ? hms(v.data.scope.durationSeconds) : null);
+  if (duration) items.push(`<li>Laufzeit: <strong>${esc(stripMd(duration))}</strong></li>`);
   if (v.data?.scope?.asOf) items.push(`<li>Datenstand: <strong>${esc(deDate(v.data.scope.asOf))}</strong></li>`);
   return items.join('');
+}
+
+/* Arbeitsstand aus den aktuellen Einzelstatus, getrennt von Ergebnis und Ampel.
+   Auch ein Bestand ohne offene Einträge kann eine unvollständige Videoauswahl sein. */
+function pendingClaims(v) {
+  return (v.data?.claims || []).filter(c => !c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status));
+}
+function progressOverview(videos) {
+  if (!videos.length) return '';
+  const sorted = [...videos].sort((a, b) => (a.video?.role === 'reaction') - (b.video?.role === 'reaction') || FactRelations.compareVideoRecency(a, b));
+  const row = v => {
+    const pending = pendingClaims(v);
+    const status = !v.data ? 'Keine strukturierten Aussagen' : pending.length ? `${pending.length} noch offen oder in Bearbeitung` : 'Keine offenen erfassten Aussagen';
+    const rhetoric = FactRhetoric.reviewState(v.rhet);
+    return `<tr><th scope="row"><a href="#/video/${esc(v.id)}">${esc(v.title)}</a><div class="small muted">${v.video?.role === 'reaction' ? 'Reaktion' : 'Originalinterview'}</div></th><td>${esc(status)}${v.data ? `<br><a href="#/video/${esc(v.id)}/pruefaufgaben">Umfang und nächste Schritte</a>` : ''}</td><td>${esc(rhetoric.status)}${v.rhet ? ` · ${rhetoric.annotations} KI-Hinweise` : ''}</td></tr>`;
+  };
+  return `<section class="section" id="pruefstand" aria-labelledby="h-pruefstand"><div class="section-head"><h2 id="h-pruefstand">Prüfstand aller Videos</h2><p>Originale und zugehörige Reaktionen: Was ist noch zu bearbeiten? Die Zahl offener Aussagen beschreibt nur den erfassten Bestand. Auch ohne offene Einträge ist damit keine vollständige Prüfung des Videos bestätigt. Darstellungshinweise werden getrennt geprüft.</p></div><div class="table-wrap"><table><thead><tr><th>Video</th><th>Sachprüfung</th><th>Darstellung</th></tr></thead><tbody>${sorted.map(row).join('')}</tbody></table></div></section>`;
+}
+function pendingSection(v) {
+  const pending = pendingClaims(v);
+  const item = c => `<li><a href="#/video/${esc(v.id)}/aussage/${esc(c.id)}">${esc(c.description)}</a><p class="small">${esc(c.status === 'Offen' ? 'Noch nicht geprüft' : c.status)} · ${esc(c.id)}</p>${c.openQuestions?.length ? `<ul>${c.openQuestions.map(q => `<li>${esc(q)}</li>`).join('')}</ul>` : `<p>${esc(c.reason)}</p>`}</li>`;
+  return `<section class="section" id="pruefaufgaben" aria-labelledby="h-pruefaufgaben"><h2 id="h-pruefaufgaben">Umfang und nächste Prüfschritte</h2><p>${esc(v.data.scope.coverageNote)}</p>${pending.length ? `<details><summary>${pending.length} erfasste Aussagen noch offen oder in Bearbeitung</summary><ol>${pending.map(item).join('')}</ol></details>` : '<p>Keine offenen erfassten Aussagen. Das bestätigt keine Vollerfassung sämtlicher Aussagen oder eine vollständige Hör- und Sichtprüfung.</p>'}<p class="small">„Nicht überprüfbar“ ist eine abgeschlossene Einordnung ohne Wahr/Falsch-Urteil. „Nicht ausreichend belegbar“ ist ein Rechercheergebnis. Beide werden hier nicht als unbearbeitete Aussagen gezählt. Konkrete Grenzen und weitere Fragen stehen bei den Einzelprüfungen.</p></section>`;
 }
 
 /* Übersicht der Darstellungshinweise eines Videos: Anzahl je Merkmal, getrennt von der Faktenstatistik.
@@ -586,6 +610,7 @@ async function pageHome() {
   </section>
   <div class="wrap">
     ${ampelOverview(shown)}
+    ${progressOverview(all)}
     <section class="section" aria-labelledby="h-hintergrund">
       <div class="section-head"><h2 id="h-hintergrund">Warum wir „ungeskriptet“ prüfen</h2></div>
       <p>Die Frage nach der Verantwortung für Tatsachenbehauptungen in Interviews wurde 2026 öffentlich diskutiert: Nach einem Interview mit Björn Höcke wies die Landesanstalt für Medien NRW in einem Hinweisschreiben darauf hin, dass eine nachweislich falsche Aussage über eine Losung der SA im Interview nicht eingeordnet worden war. Die Behörde ordnet „ungeskriptet by Ben“ als journalistisch-redaktionelles Angebot ein und verweist auf die journalistischen Sorgfaltspflichten.</p>
@@ -920,6 +945,7 @@ async function pageVideo(id, focusClaim) {
     ${videoHeader(v, 'aussagen')}
     ${scope.kind === 'Teilbestand' && !researchDone(scope) ? `<p class="notice warn"><strong>Teilbestand – keine Bilanz des ganzen Videos.</strong> ${esc(scope.coverageNote)}</p>` : `<p class="notice"><strong>Umfang der Prüfung.</strong> ${esc(scope.coverageNote)}</p>`}
     ${nOpen ? `<p class="notice todo"><strong>${num(nOpen)} ${nOpen === 1 ? 'Aussage ist' : 'Aussagen sind'} noch nicht geprüft.</strong> Sie wären mit öffentlichen Quellen prüfbar, die Recherche steht aber noch aus; sie werden nachgearbeitet. Das ist etwas anderes als „nicht überprüfbar“ oder „nicht ausreichend belegbar“ – <a href="#/methodik#pruefstatus">zur Erklärung</a>.</p>` : ''}
+    ${pendingSection(v)}
     <div class="grid-2" style="margin-top:20px">
       <div>
         <section class="section" style="margin-bottom:28px">
@@ -1310,6 +1336,11 @@ async function routePage() {
       if (parts[2] === 'bericht') return await pageReport(parts[1], parts.slice(3).join('/'));
       if (parts[2] === 'reaktionen') return await pageRelations(parts[1]);
       if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
+      if (parts[2] === 'pruefaufgaben') {
+        await pageVideo(parts[1]);
+        document.getElementById('pruefaufgaben')?.scrollIntoView();
+        return;
+      }
       return await pageVideo(parts[1]);
     }
     if (parts[0].split('#')[0] === 'methodik') {

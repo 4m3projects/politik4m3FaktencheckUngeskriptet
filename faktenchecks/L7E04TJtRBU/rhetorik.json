@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "videoId": "L7E04TJtRBU",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-19",
+    "by": "Codex",
+    "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+    "coverage": "Zwei Hinweise zu zwei erfassten Aussagen; Auftakt bis etwa 11:20 und Abschnitt 18:30 bis etwa 24:30 textlich gelesen. Keine vollständige Rhetorikkodierung.",
+    "limits": [
+      "Auswahl einzelner Stellen, keine systematische Vollprüfung der Darstellung des gesamten Videos.",
+      "Keine eigene Hör- oder Sichtkontrolle; Sprecher nur plausibel, Zeitgrenzen ungefähr.",
+      "Alle Hinweise sind KI-Vorschläge ohne unabhängige redaktionelle Bestätigung. Aussagen ohne Hinweis sind nicht als unauffällig bestätigt."
+    ],
+    "history": [
+      {
+        "date": "2026-11-19",
+        "by": "Codex",
+        "change": "Fehlende zweite Bewertungsebene um textgeprüfte Beispiele ergänzt (Issue #77)."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "L7E04TJtRBU-R0001",
+      "claimId": "L7E04TJtRBU-A0027",
+      "feature": "gegenposition",
+      "startSeconds": 1167,
+      "endSeconds": 1187,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Der Kommentar erkennt wirtschaftliche Interessen, Lobbyismus und tatsächliche Korruption grundsätzlich an, bevor er den Schluss auf Bestechung im konkreten Fall begrenzt.",
+      "reason": "Die Gegenposition wird in einem abgegrenzten Punkt zugestanden; die Existenz von Profiteuren wird vom Nachweis einer konkreten Bestechung unterschieden.",
+      "context": "Eigene Politik4M3-Erzählstimme; gleiche Darstellungsmaßstäbe wie für andere Kanäle. Sachliche Quellenkontrolle bleibt getrennt.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    },
+    {
+      "id": "L7E04TJtRBU-R0002",
+      "claimId": "L7E04TJtRBU-A0032",
+      "feature": "gegenposition",
+      "startSeconds": 1377,
+      "endSeconds": 1440,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Der Kommentar erkennt einen Rückgang der argentinischen Armut an und grenzt davon den Streit über Bezugsgrößen ab.",
+      "reason": "Eine positive Entwicklung wird trotz der Kritik an einer Zahl ausdrücklich zugestanden. Das ist eine differenzierende Wiedergabe des Gegenarguments an dieser Stelle.",
+      "context": "Eigener Faktencheck, keine unabhängige Bestätigung aller Wertungen. Die Begrenzung auf Personen, Haushalte und Messzeitraum wird separat sachlich geprüft.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    }
+  ]
+}

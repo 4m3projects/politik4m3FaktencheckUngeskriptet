@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen.
 
 ## qQAcmDzd9O8-A0001
 
@@ -82,7 +82,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020](https://essd.copernicus.org/articles/15/1597/2023/) · Otosaka et al., Earth System Science Data 15, 1597–1616 (2023), DOI 10.5194/essd-15-1597-2023; Abstract und Methodik.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-19. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. [Codex] 19.11.2026: Abstract selbst erneut gelesen; 105 Gt/Jahr (1992–1996), 372 Gt/Jahr (2016–2020). Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 - [NASA: Ice Sheets](https://science.nasa.gov/earth/explore/earth-indicators/ice-sheets/) · NASA, GRACE/GRACE-FO; explizite Animation 2002–2025. Die Seite enthält leicht unterschiedliche gerundete Werte; maßgeblich ist die ausdrücklich bezeichnete Zeitreihe.
   Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
@@ -169,7 +169,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020](https://essd.copernicus.org/articles/15/1597/2023/) · Otosaka et al., Earth System Science Data 15, 1597–1616 (2023), DOI 10.5194/essd-15-1597-2023; Abstract und Methodik.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-19. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. [Codex] 19.11.2026: Abstract selbst erneut gelesen; 105 Gt/Jahr (1992–1996), 372 Gt/Jahr (2016–2020). Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -223,7 +223,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die jährlichen Eisverluste entsprächen Anfang der 1990er gut zwei und 2016–2020 fast acht Bodenseefüllungen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -242,22 +242,31 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-IMBIE nennt 105 und 372 Gigatonnen jährlich. Bei angenommenen 48 Kubikkilometern Wasservolumen wären das 2,19 und 7,75 Füllungen. Der Seevolumenbeleg und seine Abgrenzung bleiben offen.
+IMBIE/Otosaka et al. nennen 105 Gt jährlichen Gesamtverlust 1992–1996 und 372 Gt 2016–2020. Mit dem von der IGKB gerundet genannten Bodenseevolumen von 48 km³ und 1 Gt Wasser ≈ 1 km³ ergeben sich 105/48 = 2,19 und 372/48 = 7,75 Seefüllungen jährlich. Die Formulierungen gut zwei und fast acht passen als gerundeter Wasseräquivalent-Vergleich, nicht als Volumenrechnung von ungeschmolzenem Eis.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: IMBIE nennt 105 und 372 Gigatonnen jährlich. Bei angenommenen 48 Kubikkilometern Wasservolumen wären das 2,19 und 7,75 Füllungen. Der Seevolumenbeleg und seine Abgrenzung bleiben offen. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle.
 
 ### Zugeordnete Quellen
 
 - [Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020](https://essd.copernicus.org/articles/15/1597/2023/) · Otosaka et al., Earth System Science Data 15, 1597–1616 (2023), DOI 10.5194/essd-15-1597-2023; Abstract und Methodik.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-19. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. [Codex] 19.11.2026: Abstract selbst erneut gelesen; 105 Gt/Jahr (1992–1996), 372 Gt/Jahr (2016–2020). Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
+
+- [IGKB: Seedaten zum Bodensee](https://www.igkb.org/bodensee/seedaten) · Internationale Gewässerschutzkommission für den Bodensee; Kenndaten für Ober- und Untersee, gerundeter Rauminhalt 48 km³.
+  Quellenzugriff am 2026-11-19. Kenndatentabelle mit Abgrenzung Ober-/Untersee und Rauminhalt selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Amtlichen Beleg des verwendeten Bodenseevolumens und die Umrechnung von Eisverlustmasse in Wasseräquivalent ergänzen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). IMBIE-Originalabstract und IGKB-Kenndatentabelle gelesen; beide Quotienten selbst berechnet und Reaktionsstelle 02:51–03:14 erneut gelesen. Gepruefte Quellen: S005, S033. Ergebnis: IMBIE/Otosaka et al. nennen 105 Gt jährlichen Gesamtverlust 1992–1996 und 372 Gt 2016–2020. Mit dem von der IGKB gerundet genannten Bodenseevolumen von 48 km³ und 1 Gt Wasser ≈ 1 km³ ergeben sich 105/48 = 2,19 und 372/48 = 7,75 Seefüllungen jährlich. Die Formulierungen gut zwei und fast acht passen als gerundeter Wasseräquivalent-Vergleich, nicht als Volumenrechnung von ungeschmolzenem Eis.
 
 ## qQAcmDzd9O8-A0007
 
@@ -307,7 +316,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine NASA-Studie von 2015 berichtete über antarktischen Landeiszuwachs.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -326,22 +335,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Alfred verweist auf eine damalige Studie. Der konkrete Primärtext und Messzeitraum sind hier noch nicht geprüft; keine Gleichsetzung mit der gesamten späteren Forschung.
+Die 2015 veröffentlichte Studie von Zwally et al. berichtet für die gesamte Antarktis Nettomassenzuwächse von 112 ± 61 Gt/Jahr 1992–2001 und 82 ± 25 Gt/Jahr 2003–2008. Alfreds historische Aussage über die Existenz dieses Studienbefunds trifft zu. Damit ist weder die damalige Kontroverse entschieden noch ein heutiger Eiszuwachs nachgewiesen.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: Alfred verweist auf eine damalige Studie. Der konkrete Primärtext und Messzeitraum sind hier noch nicht geprüft; keine Gleichsetzung mit der gesamten späteren Forschung. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Zwally et al. (2015): Mass gains of the Antarctic ice sheet exceed losses](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/983F196E23C3A6E7908E5FB32EB42268/S0022143000200221a.pdf/mass_gains_of_the_antarctic_ice_sheet_exceed_losses.pdf) · Journal of Glaciology 61, 1019–1036, DOI 10.3189/2015JoG15J071; Abstract und Gesamtbilanz auf S. 1019 und 1026.
+  Quellenzugriff am 2026-11-19. Abstract und Abschnitt zur gesamten antarktischen Eismassenbilanz selbst gelesen. Die Studie ist ein historischer Befund, keine Bestätigung einer aktuellen positiven Gesamtbilanz. Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). Studienabstract und Gesamtbilanz im Originalartikel gelesen, zusätzlich NASA-Pressebericht vom 05.11.2015 mit ausdrücklichem Kontroversenhinweis gelesen. Reaktionsstelle 03:39–03:52 kontrolliert; behauptete spätere Drittel-Korrektur A0009 bleibt separat offen. Gepruefte Quellen: S034. Ergebnis: Die 2015 veröffentlichte Studie von Zwally et al. berichtet für die gesamte Antarktis Nettomassenzuwächse von 112 ± 61 Gt/Jahr 1992–2001 und 82 ± 25 Gt/Jahr 2003–2008. Alfreds historische Aussage über die Existenz dieses Studienbefunds trifft zu. Damit ist weder die damalige Kontroverse entschieden noch ein heutiger Eiszuwachs nachgewiesen.
 
 ## qQAcmDzd9O8-A0009
 
@@ -421,7 +436,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020](https://essd.copernicus.org/articles/15/1597/2023/) · Otosaka et al., Earth System Science Data 15, 1597–1616 (2023), DOI 10.5194/essd-15-1597-2023; Abstract und Methodik.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-19. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. [Codex] 19.11.2026: Abstract selbst erneut gelesen; 105 Gt/Jahr (1992–1996), 372 Gt/Jahr (2016–2020). Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -688,7 +703,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine Auswertung von 50 Studien finde bei betriebenen Windanlagen einen mittleren Energierücklauf von fast 20.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -707,22 +722,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Metaanalyse, Auswahl, Gewichte und Untergruppe noch nicht unabhängig gelesen. Nicht als Statistik aller Anlagen übernehmen.
+Die Metaanalyse von Kubiszewski et al. (2010) umfasst 50 Analysen aus 1977–2007. Für die Untergruppe der auf betriebenen Anlagen beruhenden Fälle nennt sie einen mittleren EROI von 19,8 (n=60; Standardabweichung 13,7). Das stützt Alfreds gerundete Wiedergabe fast zwanzig für diese Auswahl. Es ist keine Bestandsstatistik aller Windanlagen und kein Nachweis wirtschaftlicher Rentabilität. Unterschiedliche Systemgrenzen und Laufzeitannahmen bleiben relevant.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: Metaanalyse, Auswahl, Gewichte und Untergruppe noch nicht unabhängig gelesen. Nicht als Statistik aller Anlagen übernehmen. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Kubiszewski, Cleveland, Endres (2010): Meta-analysis of net energy return for wind power systems](https://www.soest.hawaii.edu/earthsciences_archive/FACULTY/ITO/GG410/Wind/Kubiszewski_EROI_Wind_RenEn10.pdf) · Renewable Energy 35, 218–225; 50 Analysen von 1977–2007; operational-Untergruppe n=60, mittlerer EROI 19,8, Standardabweichung 13,7.
+  Quellenzugriff am 2026-11-19. Abstract, Methodenabschnitte 3.1–3.4, Ergebnisabschnitt 4 und Tabellenkontext selbst gelesen. Keine unabhängige Neuberechnung aller Eingangsstudien. Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). Originalaufsatz (Abstract, Methoden und Ergebnisteil) gelesen, empirische und konzeptionelle Anlagenfälle unterschieden; Reaktionsstelle 06:34–06:44 und Kralls Windenergiepassage 01:17 erneut gegengelesen. Gepruefte Quellen: S035. Ergebnis: Die Metaanalyse von Kubiszewski et al. (2010) umfasst 50 Analysen aus 1977–2007. Für die Untergruppe der auf betriebenen Anlagen beruhenden Fälle nennt sie einen mittleren EROI von 19,8 (n=60; Standardabweichung 13,7). Das stützt Alfreds gerundete Wiedergabe fast zwanzig für diese Auswahl. Es ist keine Bestandsstatistik aller Windanlagen und kein Nachweis wirtschaftlicher Rentabilität. Unterschiedliche Systemgrenzen und Laufzeitannahmen bleiben relevant.
 
 ## qQAcmDzd9O8-A0018
 

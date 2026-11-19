@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0033 nach Originaltext- und Primärquellenprüfung abgeschlossen; kein Urteil anderer Aussagen geändert.
 
 ## L7E04TJtRBU-A0001
 
@@ -1369,7 +1369,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Personenarmutswert von 52,9 Prozent lag nach Mileis Amtsantritt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1388,22 +1388,31 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Für die genaue Zeitfolge werden der frühere INDEC-Bericht und ein unabhängiger Amtsantrittsbeleg noch gezielt gelesen; nicht allein aus Politik4M3 übernehmen.
+INDEC weist 52,9 Prozent Personenarmut für das erste Halbjahr 2024 in 31 urbanen Agglomerationen aus. Die datierte Ansprache nach Mileis Amtsantritt stammt vom 10.12.2023. Damit liegt dieser Messzeitraum nach seinem Amtsantritt. Daraus folgt für sich keine Aussage über die Ursachen der Armut und kein Nachweis eines absoluten historischen Höchstwerts.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: Für die genaue Zeitfolge werden der frühere INDEC-Bericht und ein unabhängiger Amtsantrittsbeleg noch gezielt gelesen; nicht allein aus Politik4M3 übernehmen. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle.
 
 ### Zugeordnete Quellen
 
-- [Pobreza e indigencia, segundo semestre de 2025](https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_03_269225CA3217.pdf) · INDEC, 31.03.2026, Tabelle 1/S. 5; 31 städtische Ballungsräume; Haushalte und Personen getrennt.
-  Quellenzugriff am 2026-11-18. PDF erfolgreich geöffnet; relevante Zahlen und Erhebungsumfang gelesen. Spätere erneute Abrufe teilweise Timeout; keine Behauptung eines dauerhaft zuverlässigen Zugangs. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [INDEC: Armut und extreme Armut, erstes Halbjahr 2024](https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_241C2355AD3A.pdf) · INDEC, 26.09.2024; S. 3–5: Personenarmut 52,9 Prozent in 31 urbanen Agglomerationen, Haushaltsarmut 42,5 Prozent.
+  Quellenzugriff am 2026-11-19. Zusammenfassung und Ergebnisse selbst gelesen; keine Gleichsetzung mit einer Vollerhebung der gesamten Landesbevölkerung. Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
+
+- [Casa Rosada: Ansprache nach Mileis Amtsantritt, 10.12.2023](https://www.casarosada.gob.ar/informacion/discursos/50257-palabras-del-presidente-de-la-nacion-javier-milei-luego-de-la-asuncion-presidencial-desde-el-balcon-de-la-casa-rosada) · Offizielle datierte Ansprache am Tag der Amtseinführung.
+  Quellenzugriff am 2026-11-19. Titel, Datum und Anfang der offiziellen Ansprache selbst gelesen; nur Beleg des Zeitpunkts, keine Übernahme politischer Wertungen. Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). INDEC-Bericht für das erste Halbjahr 2024 (Zusammenfassung, S. 3–5) und datierte Amtseinführungsansprache gelesen; mit der Reaktionsstelle 23:27–23:35 und dem Originalabschnitt 03:17 verglichen. Gepruefte Quellen: S032, S033. Ergebnis: INDEC weist 52,9 Prozent Personenarmut für das erste Halbjahr 2024 in 31 urbanen Agglomerationen aus. Die datierte Ansprache nach Mileis Amtsantritt stammt vom 10.12.2023. Damit liegt dieser Messzeitraum nach seinem Amtsantritt. Daraus folgt für sich keine Aussage über die Ursachen der Armut und kein Nachweis eines absoluten historischen Höchstwerts.
 
 ## L7E04TJtRBU-A0034
 
