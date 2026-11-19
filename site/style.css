@@ -124,11 +124,8 @@ p { margin: 0 0 1em; }
 }
 .topbar-inner { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 60px; flex-wrap: wrap; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--text); text-decoration: none; }
-.brand-mark {
-  display: grid; place-items: center; width: 34px; height: 34px; border-radius: 10px;
-  background: linear-gradient(135deg, var(--hero-2), var(--hero-1)); color: #fff;
-  font-weight: 700; font-size: 13px; letter-spacing: -.04em;
-}
+/* Logo vor dem Titel = Favicon (site/favicon.svg); Klick führt zur Startseite dieses Projekts. */
+.brand-mark { display: block; flex: none; width: 30px; height: 30px; }
 .brand-text { font-size: 1.02rem; letter-spacing: -.005em; }
 /* „Ungeskriptet“ steht zuerst und führt zur Startseite dieses Unterprojekts; das Hauptprojekt
    folgt als Link (dort können später weitere Projekte angebunden werden). */
@@ -136,7 +133,7 @@ p { margin: 0 0 1em; }
 .brand a { text-decoration: none; }
 .brand-parent { color: var(--text-2); border-bottom: 1px dotted var(--line-strong); }
 .brand-parent:hover, .brand-parent:focus-visible { color: var(--accent); border-bottom-color: var(--accent); }
-.brand-sub { color: var(--text); }
+.brand-sub { color: var(--text); display: inline-flex; align-items: center; gap: 8px; }
 .brand-sub:hover { color: var(--accent); }
 .brand-sep { color: var(--text-3); }
 .mainnav { display: flex; gap: 4px; flex-wrap: wrap; }
