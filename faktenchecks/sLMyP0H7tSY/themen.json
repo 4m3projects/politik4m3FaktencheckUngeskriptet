@@ -1,0 +1,112 @@
+{
+  "schemaVersion": 1,
+  "videoId": "sLMyP0H7tSY",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung und Kapitel), nicht aus dem Titel. KI-gestützt von Claude erstellt; Aussagen ohne öffentliches Sachthema (z. B. Biografisches, Werbung) bleiben ohne Thema.",
+  "topics": [
+    {
+      "topic": "geld",
+      "relevance": "Schwerpunkt",
+      "basis": "7 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "staatsfinanzen",
+      "relevance": "Schwerpunkt",
+      "basis": "5 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "banken",
+      "relevance": "Erwähnt",
+      "basis": "1 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "sLMyP0H7tSY-A0011",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0012",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0013",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0014",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0015",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0016",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0017",
+      "topics": [
+        "geld/digitaler-euro"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0018",
+      "topics": [
+        "geld/digitaler-euro"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0019",
+      "topics": [
+        "geld/digitaler-euro"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0020",
+      "topics": [
+        "geld/digitaler-euro"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0021",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0022",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0023",
+      "topics": [
+        "geld/ezb"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 13 Aussagen zu Themen; keine Bewertung geändert."
+    }
+  ]
+}

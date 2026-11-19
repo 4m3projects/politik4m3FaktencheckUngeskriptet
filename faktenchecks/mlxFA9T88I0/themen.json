@@ -1,0 +1,742 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mlxFA9T88I0",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung und Kapitel), nicht aus dem Titel. KI-gestützt von Claude erstellt; Aussagen ohne öffentliches Sachthema (z. B. Biografisches, Werbung) bleiben ohne Thema.",
+  "topics": [
+    {
+      "topic": "staatsfinanzen",
+      "relevance": "Behandelt",
+      "basis": "31 von 395 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "meinungsfreiheit",
+      "relevance": "Behandelt",
+      "basis": "25 von 395 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Behandelt",
+      "basis": "18 von 395 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "geld",
+      "relevance": "Behandelt",
+      "basis": "17 von 395 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "auswanderung",
+      "relevance": "Behandelt",
+      "basis": "13 von 395 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "banken",
+      "relevance": "Behandelt",
+      "basis": "5 von 395 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "energie",
+      "relevance": "Behandelt",
+      "basis": "2 von 395 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "ukraine",
+      "relevance": "Behandelt",
+      "basis": "2 von 395 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "mlxFA9T88I0-A0006",
+      "topics": [
+        "wirtschaft/produktivitaet"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0007",
+      "topics": [
+        "wirtschaft/produktivitaet"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0008",
+      "topics": [
+        "wirtschaft/produktivitaet"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0011",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0014",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0015",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0017",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0032",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0033",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0034",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0035",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0036",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0037",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0038",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0039",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0040",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0041",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0042",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0043",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0044",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0045",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0046",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0047",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0048",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0049",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0050",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0051",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0052",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0053",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0054",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0055",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0056",
+      "topics": [
+        "meinungsfreiheit/plattformen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0195",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0197",
+      "topics": [
+        "wirtschaft/insolvenzen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0198",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0199",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0200",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0201",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0202",
+      "topics": [
+        "wirtschaft/produktivitaet"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0203",
+      "topics": [
+        "wirtschaft/insolvenzen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0205",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0206",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0209",
+      "topics": [
+        "energie/preise"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0214",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0215",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0216",
+      "topics": [
+        "wirtschaft/insolvenzen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0221",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0222",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0223",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0224",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0225",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0226",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0227",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0228",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0229",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0230",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0231",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0239",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0240",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0241",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0242",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0243",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0244",
+      "topics": [
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0245",
+      "topics": [
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0246",
+      "topics": [
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0247",
+      "topics": [
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0248",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0250",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0251",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0252",
+      "topics": [
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0253",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0254",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0255",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0256",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0257",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0258",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0259",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0264",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0265",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0269",
+      "topics": [
+        "geld/digitaler-euro"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0270",
+      "topics": [
+        "geld/digitaler-euro"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0271",
+      "topics": [
+        "geld/digitaler-euro"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0273",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0274",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0275",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0276",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0277",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0278",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0279",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0280",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0281",
+      "topics": [
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0285",
+      "topics": [
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0286",
+      "topics": [
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0296",
+      "topics": [
+        "wirtschaft/produktivitaet"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0297",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0298",
+      "topics": [
+        "ukraine"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0299",
+      "topics": [
+        "ukraine"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0301",
+      "topics": [
+        "geld/digitaler-euro"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0308",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0309",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0310",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0311",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0312",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0313",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0314",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0315",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0317",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0318",
+      "topics": [
+        "auswanderung"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0328",
+      "topics": [
+        "geld/digitaler-euro"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0356",
+      "topics": [
+        "geld/ezb"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0359",
+      "topics": [
+        "auswanderung/wegzugsteuer"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0380",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0382",
+      "topics": [
+        "staatsfinanzen/zinsen"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 113 Aussagen zu Themen; keine Bewertung geändert."
+    }
+  ]
+}

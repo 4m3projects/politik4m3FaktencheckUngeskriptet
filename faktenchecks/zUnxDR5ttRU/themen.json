@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "videoId": "zUnxDR5ttRU",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung und Kapitel), nicht aus dem Titel. KI-gestützt von Claude erstellt; Aussagen ohne öffentliches Sachthema (z. B. Biografisches, Werbung) bleiben ohne Thema.",
+  "topics": [
+    {
+      "topic": "geheimdienste",
+      "relevance": "Schwerpunkt",
+      "basis": "16 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "stasi",
+      "relevance": "Schwerpunkt",
+      "basis": "9 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "zUnxDR5ttRU-A0006",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0007",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0008",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0009",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0010",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0011",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0012",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0013",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0014",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0015",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0016",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0017",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0019",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0027",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0028",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0029",
+      "topics": [
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0033",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0034",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0035",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0036",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0037",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0038",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0039",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0040",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0041",
+      "topics": [
+        "stasi"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 25 Aussagen zu Themen; keine Bewertung geändert."
+    }
+  ]
+}

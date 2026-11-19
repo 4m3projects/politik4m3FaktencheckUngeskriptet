@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "videoId": "qQAcmDzd9O8",
+  "basis": "Zuordnung aus den erfassten Aussagen des strukturierten Faktenchecks (Beschreibung und Kapitel), nicht aus dem Titel. KI-gestützt von Claude erstellt; Aussagen ohne öffentliches Sachthema (z. B. Biografisches, Werbung) bleiben ohne Thema.",
+  "topics": [
+    {
+      "topic": "energie",
+      "relevance": "Schwerpunkt",
+      "basis": "17 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "klima",
+      "relevance": "Schwerpunkt",
+      "basis": "10 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "banken",
+      "relevance": "Schwerpunkt",
+      "basis": "7 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    },
+    {
+      "topic": "corona",
+      "relevance": "Erwähnt",
+      "basis": "1 von 43 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "qQAcmDzd9O8-A0002",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0003",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0004",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0005",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0006",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0007",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0008",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0009",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0010",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0011",
+      "topics": [
+        "klima/eis"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0012",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0013",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0014",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0015",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0016",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0017",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0018",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0019",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0020",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0021",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0022",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0023",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0024",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0025",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0026",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0027",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0028",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0029",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0030",
+      "topics": [
+        "banken"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0037",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0038",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0039",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0040",
+      "topics": [
+        "energie/windkraft"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0041",
+      "topics": [
+        "energie/windkraft/amortisation"
+      ]
+    },
+    {
+      "claimId": "qQAcmDzd9O8-A0042",
+      "topics": [
+        "corona"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Erstzuordnung von 35 Aussagen zu Themen; keine Bewertung geändert."
+    }
+  ]
+}
