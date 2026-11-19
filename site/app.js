@@ -1055,7 +1055,7 @@ function pageMethod() {
         <li>${ampelDemo('gelb')}<p>${esc(FactAmpel.LEVELS.gelb.text)}</p></li>
         <li>${ampelDemo('rot')}<p>${esc(FactAmpel.LEVELS.rot.text)}</p></li>
         <li>${ampelDemo('nicht_bewertbar')}<p>${esc(FactAmpel.LEVELS.nicht_bewertbar.text)}</p></li>
-        <li>${ampelDemo('vorlaeufig')}<p>${esc(FactAmpel.LEVELS.vorlaeufig.text)} Das gilt auch, solange die Analyse als „In Bearbeitung“ gekennzeichnet ist.</p></li>
+        <li>${ampelDemo('vorlaeufig')}<p>${esc(FactAmpel.LEVELS.vorlaeufig.text)} Das gilt bei laufender Analyse oder wenn Einzelprüfungen ausstehen und die Grundlage noch zu klein ist, etwa gemessen an der Videolaufzeit.</p></li>
       </ul>
       <p class="small">Die Ampel beschreibt nur den geprüften Bestand, nicht das ganze Video, und ist keine Glaubwürdigkeitsnote für Personen. Neben ihr steht immer, auf wie vielen Aussagen sie beruht. Darstellungshinweise (Maßstab 2) verändern sie nie. Die Ampel wird nirgends gespeichert und von niemandem gesetzt: Sie wird bei jedem Aufruf nach einer einzigen, hier beschriebenen Regel berechnet. Ändert sich eine Einzelbewertung oder die Regel selbst, werden alle Videos automatisch neu eingestuft, ohne neue Prüfung.</p>
     </section>
