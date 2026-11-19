@@ -1054,6 +1054,14 @@
       "details": "Wikipedia-Artikel, Stand beim Abruf; verweist für den EIKE-Auftritt auf die Süddeutsche Zeitung vom 04.11.2019.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Von Claude am 18.11.2026 gelesen; Sekundärquelle, der zitierte SZ-Artikel selbst wurde nicht gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S131",
+      "title": "Naomi Seibt (DeSmog-Datenbank)",
+      "url": "https://www.desmog.com/naomi-seibt",
+      "details": "DeSmog, Personenprofil, zuletzt geändert 29.11.2023; Heartland-Zusammenarbeit ab Dezember 2019, Schulabschluss 2017 laut Westfälischen Nachrichten vom 09.07.2017.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen (erste Hälfte im Wortlaut, Rest nur zusammengefasst); klimapolitisch engagierte Rechercheplattform. Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -5552,14 +5560,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt habe 2019 mit einem klimakritischen YouTube-Video größere Aufmerksamkeit erhalten.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Öffentliche spätere Bekanntheit ist belegt, ursprüngliches Video und damalige Reichweite aber noch nicht direkt kontrolliert.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Seibt veröffentlicht seit Mai 2019 YouTube-Videos, auch zum Klima, und trat im November 2019 bei der EIKE-Konferenz und im Dezember 2019 in Madrid auf; ab Dezember 2019 stellte Heartland sie heraus. Breite internationale Aufmerksamkeit folgte erst im Februar 2020. Dass ein bestimmtes klimakritisches Video 2019 der Auslöser war, ist in den gelesenen Quellen nicht belegt.",
+      "assessmentBasis": "Wikipedia und DeSmog gelesen; ursprüngliches Video und damalige Aufrufzahlen nicht kontrolliert (YouTube aus der Arbeitsumgebung nicht erreichbar).",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Bekanntwerden 2019/2020 recherchiert; von Offen auf Teilweise belegt."
       },
       "sourceRefs": [
         {
@@ -5569,10 +5577,18 @@
         {
           "sourceId": "S072",
           "note": "Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen."
+        },
+        {
+          "sourceId": "S130",
+          "note": "YouTube-Videos seit Mai 2019, EIKE November 2019, internationale Berichte Februar 2020."
+        },
+        {
+          "sourceId": "S131",
+          "note": "Heartland-Zusammenarbeit ab Dezember 2019."
         }
       ],
       "openQuestions": [
-        "Erstveröffentlichung und historischer Aufrufstand des konkret gemeinten Videos sichern."
+        "Konkretes Video von 2019 und dessen Reichweite bestimmen."
       ],
       "occurrences": [
         {
@@ -5743,23 +5759,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Bezeichnung als Gegenfigur zu Greta Thunberg sei von Medien und nicht von Seibt selbst eingeführt worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Erstverwendung und spätere institutionelle Vermarktung sind verschiedene Fragen; keine vollständige historische Erstrecherche erfolgt.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Als Urheberin des Etiketts „Anti-Greta“ wird Seibt in den gelesenen Quellen nicht genannt. Belegt ist aber, dass das Heartland Institute, mit dem sie ab Dezember 2019 zusammenarbeitete, sie aktiv als Gegenstück zu Greta Thunberg vermarktete; Medien griffen das Etikett im Februar 2020 breit auf. „Von Medien eingeführt“ greift daher zu kurz; wer den Begriff zuerst benutzte, bleibt offen.",
+      "assessmentBasis": "Wikipedia (mit Belegen aus Insider, Guardian, Weltwoche) und DeSmog-Profil gelesen; Heartland-Video vom Dezember 2019 nicht selbst gesehen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Herkunft des Etiketts recherchiert; von Offen auf Teilweise belegt."
       },
       "sourceRefs": [
         {
           "sourceId": "S041",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S130",
+          "note": "Heartland vermarktete sie als „Anti-Greta“; Seibt nicht als Urheberin genannt."
+        },
+        {
+          "sourceId": "S131",
+          "note": "Heartland bewarb sie ab Dezember 2019 als Gegenstück zu Thunberg."
         }
       ],
       "openQuestions": [
-        "Frühesten datierten Mediengebrauch und damalige Selbst-/Heartland-Darstellung vergleichen."
+        "Frühester datierter Gebrauch von „Anti-Greta“ für Seibt."
       ],
       "occurrences": [
         {
@@ -12490,24 +12514,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt habe vor dem Abitur Texte bei Philosophia Perennis veröffentlicht.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – öffentliche, datierbare Publikationsbehauptung; Originalbeiträge und ursprüngliche Datierung noch nicht gelesen.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Nach Wikipedia, gestützt auf Guardian und Correctiv (Februar 2020), wurde mit 16 Jahren ein Gedicht von ihr auf David Bergers Blog Philosophia Perennis veröffentlicht. Ihren Schulabschluss am Gymnasium St. Mauritz machte sie 2017 (Westfälische Nachrichten, laut DeSmog). Die Veröffentlichung lag damit vor dem Abitur. Belegt ist ein Gedicht; ob es weitere Texte gab, wurde nicht geprüft.",
+      "assessmentBasis": "Wikipedia und DeSmog als Sekundärquellen gelesen; Originalbeitrag auf Philosophia Perennis nicht gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Philosophia-Perennis-Veröffentlichung und Abschlussjahr recherchiert; von Offen auf Belegt."
       },
       "sourceRefs": [
         {
           "sourceId": "S112",
           "note": "Gedicht mit 16 bei Philosophia Perennis laut Tertiärquelle (Fußnoten nicht selbst gelesen)."
+        },
+        {
+          "sourceId": "S130",
+          "note": "Gedicht mit 16 bei Philosophia Perennis (Guardian, Correctiv)."
+        },
+        {
+          "sourceId": "S131",
+          "note": "Schulabschluss 2017."
         }
       ],
-      "openQuestions": [
-        "Erstveröffentlichungen, Autorinnenzuordnung und Verhältnis zum Abschlussjahr prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0277",
