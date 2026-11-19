@@ -104,7 +104,7 @@ function vcItem(entry, c, o, v, ctx) {
 
 /* Kurze Darstellungs-Merkmale (KI-Hinweise, zweite Ebene) als Badges; per Einstellung ausblendbar (.hide-rhet). */
 function vcRhetFlags(list) {
-  return [...new Set(list.map(a => a.feature))].map(k => `<span class="badge rhet-badge rhet-flag" title="Darstellungshinweis (KI), getrennt von der Faktenbewertung">Darstellung: ${esc(FactRhetoric.FEATURES[k]?.name || k)}</span>`).join('');
+  return [...new Set(list.map(a => a.feature))].map(k => `<span class="badge rhet-badge rhet-flag" data-tip="Darstellungshinweis (KI), getrennt von der Faktenbewertung">Darstellung: ${esc(FactRhetoric.FEATURES[k]?.name || k)}</span>`).join('');
 }
 
 async function pageVideoSync(id, opts = {}) {
