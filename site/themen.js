@@ -55,15 +55,43 @@ function videoTopicLine(videoId) {
   return `<p class="topic-line"><span class="small">Themen:</span> ${items.join(' ')}</p>`;
 }
 
+/* Adresse des Videos und Sprungmarke zur Aussage (YouTube, öffnet in neuem Tab). */
+function videoUrlOf(videoId) { return state.index.videos.find(v => v.id === videoId)?.video?.videoUrl; }
+function timeLink(videoId, sec, label) {
+  if (sec == null) return '';
+  const u = videoTimeUrl(videoUrlOf(videoId), sec);
+  return u ? extLink(u, label || `▶ ${hms(sec)}`) : hms(sec);
+}
+function claimHref(videoId, claimId) { return `#/video/${esc(videoId)}/aussage/${esc(claimId)}`; }
+
+/* Ein Vorkommen einer Behauptung in einem geprüften Video: Vorschaubild (nur nach Zustimmung),
+   Videotitel, die Aussage im Video, Link zur Aussage im Faktencheck und zur Stelle bei YouTube. */
+function occurrenceItem(link, c) {
+  if (link.repo) return `<li class="occ-item"><div class="occ-body"><strong>${esc(link.repo)}</strong><p class="small">${esc(link.claimId)}${c ? ' – ' + esc(c.description) : ''}</p></div></li>`;
+  const vid = link.claimId.slice(0, 11);
+  const href = claimHref(vid, link.claimId);
+  const thumb = thumbImg(vid, videoUrlOf(vid), 'occ-thumb');
+  const t = c ? timeLink(vid, c.startSeconds, `▶ ab ${hms(c.startSeconds)} bei YouTube`) : '';
+  return `<li class="occ-item${thumb ? ' has-thumb' : ''}">
+    ${thumb ? `<a href="${href}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}
+    <div class="occ-body">
+      <a href="${href}"><strong>${esc(videoName(vid))}</strong></a>
+      ${c ? `<div class="claim-top">${verdictBadge(c.verdict, c.status, c.reason)}</div><p class="small">${esc(c.description)}</p>` : ''}
+      <p class="small occ-links"><a href="${href}">Zur Aussage ${esc(shortClaim(link.claimId, vid))} im Faktencheck</a>${t ? ' · ' + t : ''}</p>
+    </div>
+  </li>`;
+}
+
 function claimItem(c, videoId) {
-  const url = state.index.videos.find(v => v.id === videoId)?.video?.videoUrl;
-  const t = c.startSeconds != null ? (videoTimeUrl(url, c.startSeconds) ? extLink(videoTimeUrl(url, c.startSeconds), `▶ ${hms(c.startSeconds)}`) : hms(c.startSeconds)) : '';
+  const t = timeLink(videoId, c.startSeconds);
+  const href = claimHref(videoId, c.id);
+  const thumb = thumbImg(videoId, videoUrlOf(videoId), 'origin-thumb');
   const srcs = (c.sources || []).slice(0, 4).map(s => `<li>${extLink(s.url, esc(s.title))}</li>`).join('');
   return `<li class="kb-item">
     <div class="claim-top">${verdictBadge(c.verdict, c.status, c.reason)}</div>
     <p class="claim-desc">${esc(c.description)}</p>
     <p class="claim-reason">${esc(c.reason)}</p>
-    <p class="small kb-origin">Aus: <a href="#/video/${esc(videoId)}/aussage/${esc(c.id)}">${esc(videoName(videoId))} · ${esc(shortClaim(c.id, videoId))}</a> ${t}</p>
+    <p class="small kb-origin">${thumb ? `<a href="${href}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}<span>Aus: <a href="${href}">${esc(videoName(videoId))} · ${esc(shortClaim(c.id, videoId))}</a> ${t}</span></p>
     ${srcs ? `<details class="kb-src"><summary>Quellen (${(c.sources || []).length})</summary><ul>${srcs}</ul></details>` : ''}
   </li>`;
 }
@@ -71,18 +99,18 @@ function claimItem(c, videoId) {
 function entryItem(x) {
   const en = x.entry;
   const srcs = en.sources.map(s => `<li>${extLink(s.url, esc(s.title))} <span class="small">${esc(s.details)}</span></li>`).join('');
-  const links = x.claims.map(({ link: l, claim: c }) => {
-    const vid = l.claimId.slice(0, 11);
-    return `<li>${l.repo ? esc(l.repo) + ' · ' + esc(l.claimId) : `<a href="#/video/${esc(vid)}/aussage/${esc(l.claimId)}">${esc(videoName(vid))} · ${esc(shortClaim(l.claimId, vid))}</a>`}${c ? ' – ' + esc(c.description) : ''}</li>`;
-  }).join('');
+  const n = x.videos.length;
+  const occ = x.claims.map(({ link, claim }) => occurrenceItem(link, claim)).join('');
+  const label = x.recurring ? `In ${n} von uns geprüften Videos` : `Aus ${n === 1 ? 'einem' : n} geprüften Video${n === 1 ? '' : 's'}`;
   return `<li class="kb-item kb-entry">
     <div class="claim-top">${verdictBadge(en.verdict, 'Abgeschlossen', en.reason)}
-      <span class="badge kind">Wissenseintrag ${esc(en.id)}</span>
-      ${x.recurring ? `<span class="badge plain" data-tip="Zählt nur Vorkommen in den von uns geprüften Videos – keine Aussage darüber, wie verbreitet die Behauptung allgemein ist.">In ${x.videos.length} von uns geprüften Videos</span>` : ''}</div>
+      <span class="badge kind">Wissenseintrag ${esc(en.id)}</span></div>
     <p class="claim-desc">${esc(en.claim)}</p>
     <p class="claim-reason">${esc(en.reason)}</p>
     <p class="small">Gilt für: ${esc(en.validity.subjectScope)}, ${esc(en.validity.timeScope)} · geprüft am ${esc(deDate(en.checkedOn))}${en.revision > 1 ? ` · ${en.revision - 1} Korrektur${en.revision > 2 ? 'en' : ''} dokumentiert` : ''}</p>
-    <details class="kb-src"><summary>Quellen und Videoaussagen</summary><ul>${srcs}</ul>${links ? `<h4>Vorkommen in Videos</h4><ul>${links}</ul>` : ''}</details>
+    ${occ ? `<details class="kb-occ"><summary><span class="badge plain"${x.recurring ? ' data-tip="Zählt nur Vorkommen in den von uns geprüften Videos – keine Aussage darüber, wie verbreitet die Behauptung allgemein ist."' : ''}>${label}</span> <span class="occ-hint occ-show">Welche Videos? Anzeigen</span><span class="occ-hint occ-hide">Ausblenden</span></summary>
+      <ul class="occ-list">${occ}</ul></details>` : ''}
+    <details class="kb-src"><summary>Quellen (${en.sources.length})</summary><ul>${srcs}</ul></details>
   </li>`;
 }
 
@@ -181,10 +209,11 @@ async function pageTopic(id) {
   const sec = p.sections;
   const recs = p.recommendations.map(r => {
     const seg = r.segments[0];
-    const url = state.index.videos.find(v => v.id === r.videoId)?.video?.videoUrl;
-    return `<li class="kb-item"><a href="#/video/${esc(r.videoId)}"><strong>${esc(videoName(r.videoId))}</strong></a>
+    const url = videoUrlOf(r.videoId);
+    const thumb = thumbImg(r.videoId, url, 'occ-thumb');
+    return `<li class="kb-item occ-item${thumb ? ' has-thumb' : ''}">${thumb ? `<a href="#/video/${esc(r.videoId)}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}<div class="occ-body"><a href="#/video/${esc(r.videoId)}"><strong>${esc(videoName(r.videoId))}</strong></a>
       ${seg ? `<p class="small">Abschnitt ${videoTimeUrl(url, seg.startSeconds) ? extLink(videoTimeUrl(url, seg.startSeconds), `▶ ${hms(seg.startSeconds)}–${hms(seg.endSeconds)}`) : ''}: ${esc(seg.note)}</p>` : ''}
-      <p class="small">Warum: ${esc(r.reason)}</p></li>`;
+      <p class="small">Warum: ${esc(r.reason)}</p></div></li>`;
   }).join('');
   const empty = !sec.belegt.length && !sec.teilweise.length && !sec.falsch.length && !sec.unbelegt.length;
   setPage(`<div class="wrap">
@@ -195,7 +224,7 @@ async function pageTopic(id) {
       ${subs.length ? `<p class="topic-others">${subs.map(x => `<a class="badge kind topic-chip" href="${esc(topicHref(x.id))}">${esc(x.name)}</a>`).join(' ')}</p>` : ''}
       <p class="small">Hier erscheinen nur abgeschlossen bewertete Tatsachenbehauptungen. Meinungen, Prognosen und noch nicht geprüfte Aussagen stehen auf den Videoseiten.</p>
     </header>
-    ${empty ? '<p class="notice">Zu diesem Thema gibt es noch keine abgeschlossen bewerteten Tatsachenbehauptungen.</p>' : ''}
+    ${empty ? '<p class="notice">Zu diesem Thema gibt es noch keine abgeschlossen bewerteten Tatsachenbehauptungen.</p>' : thumbPrompt()}
     ${kbSection('belegt', 'Belegte Tatsachen', 'Aussagen, die unsere Prüfungen mit Quellen bestätigt haben – auch das ist ein Ergebnis.', sec.belegt)}
     ${kbSection('teilweise', 'Teilweise belegt', 'Ein wesentlicher Teil stimmt, ein anderer ist ungenau oder zu weit gefasst. Die Begründung sagt, welcher.', sec.teilweise)}
     ${kbSection('falsch', 'Falsche oder irreführende Behauptungen', 'Widerlegt oder irreführend, mit Begründung, was nicht stimmt oder welcher Kontext fehlt.', sec.falsch)}
