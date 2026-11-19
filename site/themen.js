@@ -50,7 +50,7 @@ function videoTopicLine(videoId) {
   const order = { Schwerpunkt: 0, Behandelt: 1, 'Erwähnt': 2 };
   const items = v.topics.slice().sort((a, b) => order[a.relevance] - order[b.relevance]).map(t => {
     const pub = w.stats.get(t.topic)?.public;
-    return `<a class="badge kind topic-chip${pub ? '' : ' topic-internal'}" href="${esc(topicHref(t.topic))}" title="${esc(t.relevance)}${pub ? '' : ' · noch keine eigene Themenseite in der Übersicht'}">${esc(topicName(t.topic))}</a>`;
+    return `<a class="badge kind topic-chip${pub ? '' : ' topic-internal'}" href="${esc(topicHref(t.topic))}" data-tip="${esc(t.relevance)}${pub ? '' : ' · noch keine eigene Themenseite in der Übersicht'}">${esc(topicName(t.topic))}</a>`;
   });
   return `<p class="topic-line"><span class="small">Themen:</span> ${items.join(' ')}</p>`;
 }
@@ -200,7 +200,6 @@ async function pageTopics() {
         const c = w.claims.get(r.id);
         return `<li>${verdictBadge(c.verdict, c.status, c.reason)} <a href="#/video/${esc(c.videoId)}/aussage/${esc(c.id)}">${esc(c.description)}</a> <span class="small">${esc(videoName(c.videoId))}</span></li>`;
       }).join('')}</ul>` : '<p class="small">Keine Treffer. Andere Begriffe versuchen.</p>';
-      bindTips(out);
     }, 150);
   });
   window.scrollTo(0, 0);
