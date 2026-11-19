@@ -1,8 +1,8 @@
 # Kapitel 05: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gezielte Stichprobe aus dem gut dreistündigen Interview. Weitere Aussagen und der Hör- und Sichtabgleich stehen aus. Persönliche Quoten und eine Gesamtampel lassen sich aus diesem Arbeitsstand nicht ableiten.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gezielter Teilbestand aus allen elf Originalkapiteln. Alle Kapitel sind im Prüfbericht vertreten. Die vollständige Sachprüfung der gut dreistündigen Folge und der durchgängige Hör- und Sichtabgleich stehen aus.
 
-[Codex] Erster Prüfabschnitt. Deutsches automatisches YouTube-Transkript im Browser und angegebene Sachquellen gelesen. Die Sprecherzuordnung wurde aus dem Gesprächskontext abgeleitet.
+[Codex] Offizielles Kapitelverzeichnis und ausgewählte zeitmarkierte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Die Sachquellen stehen bei den jeweiligen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
 
 ## QxMuH1bjMwo-A0005
 

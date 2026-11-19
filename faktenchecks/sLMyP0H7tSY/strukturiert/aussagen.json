@@ -5,13 +5,13 @@
     "videoId": "sLMyP0H7tSY",
     "videoUrl": "https://www.youtube.com/watch?v=sLMyP0H7tSY",
     "durationSeconds": 999,
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-19",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung.",
-    "coverageNote": "Gesamtes verfügbares Untertitelmaterial gelesen (Segmentbeginn 00:00 bis 16:25). Keine direkte Audio-/Videosichtung, keine redaktionelle Zweitprüfung. Ausgewählte Aussagen, keine vollständige Erfassung aller Aussagen des Videos."
+    "researchNote": "Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft.",
+    "coverageNote": "Unabhängige Teilprüfung der Reaktion. Fünfzehn Sachbewertungen sind nach Abgleich mit dem Original und den Sachquellen abgeschlossen. Weitere erfasste Aussagen, der durchgängige Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus."
   },
   "legacyPoints": [],
   "sources": [
@@ -174,6 +174,22 @@
       "details": "Relevante Original-Untertitelpassagen erneut gelesen; keine direkte akustische Sprecherkontrolle und keine neue Vollprüfung des dreistündigen Interviews.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Nur zur Fundstellensuche genutzt; keine Inhalte übernommen."
+    },
+    {
+      "id": "S021",
+      "title": "Scottish Fire and Rescue Service: Cheapside Street",
+      "url": "https://www.firescotland.gov.uk/news/66-years-after-the-tragedy-on-cheapside-street/",
+      "details": "Offizieller Rückblick auf den Lagerhausbrand vom 28.03.1960.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Angaben zum Whisky-Zolllager, zur Explosion und zu den getrennten Opferzahlen gelesen."
+    },
+    {
+      "id": "S022",
+      "title": "Bundeswahlleiterin: Bundestagswahl 2029",
+      "url": "https://www.bundeswahlleiterin.de/bundestagswahlen/2029.html",
+      "details": "Reguläre Wahlzeitspanne Anfang 2029 gemäß Art. 39 GG.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Beginn der Wahlperiode und den regulären Wahlzeitraum gelesen."
     }
   ],
   "claims": [
@@ -477,24 +493,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein Glasgower Lagerhausbrand 1960 mit Explosion forderte 14 Feuerwehrleute und fünf Bergungsdienstangehörige.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S005 bestätigt Ort, Explosion und getrennte Opferzahlen. Alfred grenzt das Lagerhaus selbst von einer Brennerei ab; damit kein wörtlicher Gegenbeleg für jeden engeren Brennerei-Bezug.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Hansard und der Scottish Fire and Rescue Service nennen für die Explosion im Glasgower Lagerhaus 1960 14 Angehörige der Feuerwehr und fünf Angehörige des Bergungsdienstes.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0007 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S005 bestätigt Ort, Explosion und getrennte Opferzahlen. Alfred grenzt das Lagerhaus selbst von einer Brennerei ab; damit kein wörtlicher Gegenbeleg für jeden engeren Brennerei-Bezug."
       },
       "sourceRefs": [
         {
           "sourceId": "S005",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
+        },
+        {
+          "sourceId": "S021",
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0007",
@@ -523,29 +541,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das Glasgower Lagerhaus wird als voller Whisky beschrieben.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: offen. Die gelesene Ministerantwort S005 nennt ein Zolllager, nicht dessen Inhalt. Das Detail wurde in diesem Durchlauf nicht durch eine weitere Primärquelle bestätigt; daraus folgt keine Widerlegung.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Scottish Fire and Rescue Service bezeichnet den Brandort ausdrücklich als Whisky-Zolllager. Ob im betreffenden Zeitraum auch eine Brennerei abbrannte, ist eine andere Frage.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0008 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: offen. Die gelesene Ministerantwort S005 nennt ein Zolllager, nicht dessen Inhalt. Das Detail wurde in diesem Durchlauf nicht durch eine weitere Primärquelle bestätigt; daraus folgt keine Widerlegung."
       },
       "sourceRefs": [
         {
-          "sourceId": "S001",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
-        },
-        {
-          "sourceId": "S005",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "sourceId": "S021",
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0008",
@@ -574,24 +585,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "1994 drohten unbeabsichtigte Bauartprüfungen für große Whiskyfässer; der Branchenverband intervenierte.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S006 dokumentiert Eingaben, Fässer über 250 Liter und den vorgeschlagenen Ausnahmepfad innerhalb Großbritanniens. Keine Gleichsetzung mit einem beabsichtigten allgemeinen Transportverbot.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die britische Ministerantwort vom 2. November 1994 bestätigt, dass der Branchenverband vorstellig wurde und dass die Regelung unbeabsichtigte Bauartprüfungen für traditionelle Whiskyfässer auslösen konnte.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0009 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S006 dokumentiert Eingaben, Fässer über 250 Liter und den vorgeschlagenen Ausnahmepfad innerhalb Großbritanniens. Keine Gleichsetzung mit einem beabsichtigten allgemeinen Transportverbot."
       },
       "sourceRefs": [
         {
           "sourceId": "S006",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0009",
@@ -620,24 +629,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Fässer durften nach der Intervention bleiben; niemand habe eine Verbotswirkung gewollt.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: teilweise belegt. Die damalige Regierungsantwort beschreibt eine beabsichtigte Ausnahme, nicht deren späteren Vollzug. Sie bezeichnet die Prüfanforderung als unbeabsichtigt, belegt aber nicht die Absicht sämtlicher Beteiligter. Alfred verallgemeinert hier eine begrenzte Quelle.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Ministerantwort nennt eine geplante Ausnahme, damit der herkömmliche Fass-Transport im Vereinigten Königreich fortgesetzt werden konnte. Sie belegt die Absicht der Regierung, enthält aber noch keinen in Kraft getretenen Ausnahmetext.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0010 (Art: schlussfolgerung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. Die damalige Regierungsantwort beschreibt eine beabsichtigte Ausnahme, nicht deren späteren Vollzug. Sie bezeichnet die Prüfanforderung als unbeabsichtigt, belegt aber nicht die Absicht sämtlicher Beteiligter. Alfred verallgemeinert hier eine begrenzte Quelle."
       },
       "sourceRefs": [
         {
           "sourceId": "S006",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0010",
@@ -666,28 +673,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die historischen Zinsausgaben werden mit knapp vier Milliarden 2021 und rund 39 Milliarden 2023 angegeben.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. Zahlen passen gerundet zur saldierten Reihe S007 Tabelle 7. Abweichende Kernhaushaltsreihe S008 ist eine andere Abgrenzung, kein automatischer Gegenbeweis; siehe R02.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Kreditaufnahmebericht weist saldierte Zinsausgaben von 3,8 Milliarden Euro für 2021 und 39,2 Milliarden Euro für 2023 aus. Beide Werte gehören derselben haushalterischen Reihe an.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0011 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. Zahlen passen gerundet zur saldierten Reihe S007 Tabelle 7. Abweichende Kernhaushaltsreihe S008 ist eine andere Abgrenzung, kein automatischer Gegenbeweis; siehe R02."
       },
       "sourceRefs": [
         {
           "sourceId": "S007",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
-        },
-        {
-          "sourceId": "S008",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0011",
@@ -762,24 +763,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Agio-/Disagiobuchungen erklären einen wesentlichen Teil des ausgewiesenen Zinssprungs; ohne diese etwa 15 bzw. 22 Milliarden.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. Eigene Rechnung aus S007 Tabelle 7: 3,8−(−11,1)=14,9; 39,2−17,6=21,6. Dies isoliert die genannten Buchungen, liefert keine vollständige periodengerechte historische Zinsreihe und keine alleinige Kausalerklärung.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Nach Tabelle 7 senkten Agien den Buchungswert 2021 um 11,1 Milliarden Euro. Disagien erhöhten ihn 2023 um 17,6 Milliarden. Ohne diese Anteile bleiben rechnerisch 14,9 beziehungsweise 21,6 Milliarden.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0013 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. Eigene Rechnung aus S007 Tabelle 7: 3,8−(−11,1)=14,9; 39,2−17,6=21,6. Dies isoliert die genannten Buchungen, liefert keine vollständige periodengerechte historische Zinsreihe und keine alleinige Kausalerklärung."
       },
       "sourceRefs": [
         {
           "sourceId": "S007",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0013",
@@ -808,24 +807,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Regierungsplanung sieht etwa 68 Milliarden Zinsen für 2029 und über 80 Milliarden für 2030 vor.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S009 enthält die entsprechenden Planwerte. Ausgabenpläne sind keine realisierten Zahlen.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Finanzplan nennt 68,1 Milliarden Euro für 2029 und 80,7 Milliarden für 2030. Die Zahlen sind Planwerte im Kernhaushalt.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0014 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S009 enthält die entsprechenden Planwerte. Ausgabenpläne sind keine realisierten Zahlen."
       },
       "sourceRefs": [
         {
           "sourceId": "S009",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0014",
@@ -854,28 +851,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Lünings 80-Milliarden-Prognose liege nahe an der Regierungsplanung.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: teilweise belegt. Die Größenordnung passt zu 2030, aber der Original-Vergleichsstand erfasst als Bezug das Ende der laufenden Koalition. Ein Jahresversatz darf nicht stillschweigend als Übereinstimmung gelten; siehe R03.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Lüning projiziert rund 80 Milliarden Euro am Ende der laufenden Koalition. Die Finanzplanung erreicht diesen Betrag mit 80,7 Milliarden für 2030. Im regulären Wahljahr 2029 sind 68,1 Milliarden vorgesehen. Die ähnliche Größenordnung gilt für ein späteres Bezugsjahr und Planwerte statt tatsächlicher Ausgaben.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0015 (Art: schlussfolgerung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. Die Größenordnung passt zu 2030, aber der Original-Vergleichsstand erfasst als Bezug das Ende der laufenden Koalition. Ein Jahresversatz darf nicht stillschweigend als Übereinstimmung gelten; siehe R03."
       },
       "sourceRefs": [
         {
           "sourceId": "S009",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         },
         {
           "sourceId": "S020",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Originalstelle 01:29:38–01:29:49."
+        },
+        {
+          "sourceId": "S022",
+          "note": "Amtlicher zeitlicher Bezug für das reguläre Wahljahr."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0015",
@@ -954,28 +953,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der digitale Euro soll Bargeld ergänzen; das Gesetzgebungsverfahren ist noch nicht abgeschlossen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S010 beschreibt das Projekt, S011 zeigt ein offenes Verfahren. Keine Aussage über den endgültigen Rechtsakt oder ein festes Einführungsdatum.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der digitale Euro soll laut EZB Bargeld ergänzen. Das Europäische Parlament führt das Gesetzgebungsverfahren weiterhin als vor dem Abschluss der ersten Lesung.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0017 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S010 beschreibt das Projekt, S011 zeigt ein offenes Verfahren. Keine Aussage über den endgültigen Rechtsakt oder ein festes Einführungsdatum."
       },
       "sourceRefs": [
         {
           "sourceId": "S010",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         },
         {
           "sourceId": "S011",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0017",
@@ -1004,24 +1001,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Haltegrenzen und verknüpfte Bankkonten sollen große Zahlungsbeträge trotz begrenzten digitalen Guthabens ermöglichen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S010 erläutert hypothetische getestete Grenzen bis 3.000 Euro und Kontoverknüpfung. Das ist keine bereits beschlossene allgemeine Abhebe- oder Kaufobergrenze.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die EZB beschreibt ein Guthabenlimit und die Kopplung an ein Bankkonto. Bei ausreichender Deckung des verbundenen Kontos sollen Zahlungen oberhalb des Guthabenlimits möglich sein.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0018 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S010 erläutert hypothetische getestete Grenzen bis 3.000 Euro und Kontoverknüpfung. Das ist keine bereits beschlossene allgemeine Abhebe- oder Kaufobergrenze."
       },
       "sourceRefs": [
         {
           "sourceId": "S010",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0018",
@@ -1050,24 +1045,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Programmierbare Verwendungsbeschränkungen passen nicht zum veröffentlichten Euro-Konzept.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S010 grenzt sie ausdrücklich von bedingten Zahlungen ab. Künftige Änderungen und allgemeine Kauf-/Sanktionsgesetze sind damit nicht ausgeschlossen; deren Missbrauch ist hier nicht festgestellt.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das veröffentlichte EZB-Konzept sieht keine Beschränkung der Ausgabe nach Produkt, Zeitpunkt oder Empfänger vor. Bedingte Zahlungen wie Zahlung bei Lieferung betreffen den Zahlungsauftrag. Damit ist das veröffentlichte Konzept beschrieben. Eine spätere Änderung bleibt eine Prognose.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0019 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S010 grenzt sie ausdrücklich von bedingten Zahlungen ab. Künftige Änderungen und allgemeine Kauf-/Sanktionsgesetze sind damit nicht ausgeschlossen; deren Missbrauch ist hier nicht festgestellt."
       },
       "sourceRefs": [
         {
           "sourceId": "S010",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0019",
@@ -1147,24 +1140,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Lagarde ist EZB-Präsidentin und war französische Finanzministerin.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S019 bestätigt beide Funktionen. Politische Auswahl und rechtliche Unabhängigkeit sind getrennte Fragen; aus dem Amt folgt keine konkrete politische Weisung.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der offizielle Lebenslauf nennt Lagarde als Wirtschafts- und Finanzministerin Frankreichs von 2007 bis 2011 und als EZB-Präsidentin seit November 2019.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0021 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S019 bestätigt beide Funktionen. Politische Auswahl und rechtliche Unabhängigkeit sind getrennte Fragen; aus dem Amt folgt keine konkrete politische Weisung."
       },
       "sourceRefs": [
         {
           "sourceId": "S019",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0021",
@@ -1193,24 +1184,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Lagarde-Schuldspruch betrifft Fahrlässigkeit und die durch Dritte veruntreuten 45 Millionen; die größere Schiedssumme ist davon zu unterscheiden.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S013 trennt Anklageumfang und Tenor. Alfreds Differenzierung ist im Kern zutreffend; 403 Millionen sind nicht der im Tenor festgestellte Betrag eigener Veruntreuung Lagardes. Siehe R04.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das französische Urteil spricht Lagarde der Fahrlässigkeit schuldig, die eine Veruntreuung von 45 Millionen Euro durch Dritte ermöglichte. Die 45 Millionen betreffen den immateriellen Schadensersatz. Sie sind von der gesamten Schiedssumme zu unterscheiden.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0022 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S013 trennt Anklageumfang und Tenor. Alfreds Differenzierung ist im Kern zutreffend; 403 Millionen sind nicht der im Tenor festgestellte Betrag eigener Veruntreuung Lagardes. Siehe R04."
       },
       "sourceRefs": [
         {
           "sourceId": "S013",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0022",
@@ -1239,24 +1228,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das Gericht berücksichtigte unter anderem Persönlichkeit und Ruf, befreite von Strafe und ordnete keinen Registereintrag an.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S013 Gründe und Tenor stützen diese Trennung. Keine nachträglich nicht vollstreckte Strafe. Die spätere Rechtsmittelhistorie wird hier nicht als zusätzlich geprüft ausgegeben.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Gericht berücksichtigte unter anderem Persönlichkeit und Ruf sowie die Rücknahme des Schiedsspruchs und den Kontext der Finanzkrise. Der Tenor spricht Lagarde schuldig, sieht von Strafe ab und bestimmt, dass das Urteil nicht ins Strafregister eingetragen wird.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0023 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S013 Gründe und Tenor stützen diese Trennung. Keine nachträglich nicht vollstreckte Strafe. Die spätere Rechtsmittelhistorie wird hier nicht als zusätzlich geprüft ausgegeben."
       },
       "sourceRefs": [
         {
           "sourceId": "S013",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0023",
@@ -1470,24 +1457,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Für Langformat nennt Alfred 1.000 Abonnenten und 4.000 Wiedergabestunden innerhalb eines Jahres als Monetarisierungshürden.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: teilweise belegt. S014 bestätigt diese Schwelle für die Bewerbung: gültige öffentliche Wiedergabezeit der letzten zwölf Monate, weitere Bedingungen und Kanalprüfung erforderlich. Kein automatischer Zahlungsanspruch; andere Zugangswege existieren.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Für den Zugang zur Werbeumsatzbeteiligung bei Langformaten nennt YouTube 1.000 Abonnenten und 4.000 gültige öffentliche Wiedergabestunden innerhalb von zwölf Monaten. Dazu kommen weitere Teilnahmebedingungen und eine Kanalprüfung. Eine andere Schwelle gilt für Shorts.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0028 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. S014 bestätigt diese Schwelle für die Bewerbung: gültige öffentliche Wiedergabezeit der letzten zwölf Monate, weitere Bedingungen und Kanalprüfung erforderlich. Kein automatischer Zahlungsanspruch; andere Zugangswege existieren."
       },
       "sourceRefs": [
         {
           "sourceId": "S014",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Beleg für den in der Begründung benannten Sachkern."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0028",

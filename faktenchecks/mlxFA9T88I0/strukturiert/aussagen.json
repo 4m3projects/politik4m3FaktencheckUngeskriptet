@@ -5,7 +5,7 @@
     "videoId": "mlxFA9T88I0",
     "videoUrl": "https://www.youtube.com/watch?v=mlxFA9T88I0",
     "durationSeconds": 11166,
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-19",
     "baselineCommit": "bb6e666961baf719d02671a7ad2f439086f3c530",
     "selectedLegacyIds": [
       "C03-P07",
@@ -2622,6 +2622,14 @@
       "details": "Bundesregierung, Bulletin 82-1, Rede in der Haushaltsdebatte des Bundestags am 09.09.2026 (keine Regierungserklärung); zitiert einen Brief, der unter anderem Tafeln als Beispiel für Deutschlands Chancen nennt.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen (Zweitrecherche nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S203",
+      "title": "Hansard: Scotch Whisky (Transportation), 02.11.1994",
+      "url": "https://api.parliament.uk/historic-hansard/written-answers/1994/nov/02/scotch-whisky-transportation",
+      "details": "Regierungsantwort zu Fässern über 250 Litern und vorgeschlagenen Ausnahmen innerhalb Großbritanniens; keine umgesetzte Endfassung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Schriftliche britische Ministerantwort vom 02.11.1994 selbst gelesen."
     }
   ],
   "claims": [
@@ -11212,18 +11220,23 @@
       "legacyId": "C03-P11",
       "kind": "Tatsachenbehauptung",
       "description": "Ein Regelungsvorhaben sollte den Transport von Whisky in Holzfässern wegen deren Brennbarkeit untersagen.",
-      "status": "Nicht überprüfbar",
+      "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – zu unbestimmt. Für diese konkrete Episode wurde kein identifizierter Entwurf, keine Aktennummer und kein Datum ermittelt. Eine heutige Lagerregel oder die übliche Fassreifung wäre kein Beweis für ein früheres Transportverbot. Die Behauptung bleibt gezielt offen.",
+      "reason": "Noch nicht geprüft – eine britische Ministerantwort aus dem Jahr 1994 dokumentiert Bauartprüfungen als Folge eines Vorhabens und eine geplante Ausnahme. Lüning nennt an der Originalstelle keine genaue Norm. Die Zuordnung seiner Erzählung zu dieser Akte ist noch nicht geklärt.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
         "mapping": "Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Nachrecherche 2026-11-19 (Codex): von Nicht überprüfbar zu Offen, weil eine öffentliche Akte zum möglicherweise gemeinten Vorhaben vorliegt. Frühere Begründung: Nicht überprüfbar – zu unbestimmt. Für diese konkrete Episode wurde kein identifizierter Entwurf, keine Aktennummer und kein Datum ermittelt. Eine heutige Lagerregel oder die übliche Fassreifung wäre kein Beweis für ein früheres Transportverbot. Die Behauptung bleibt gezielt offen."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S203",
+          "note": "Öffentliches Dokument über Bauartprüfung und geplante Ausnahme im britischen Inland. Erfasst nicht die abschließende Rechtslage."
+        }
+      ],
       "openQuestions": [
-        "Entwurf, Institution, Jahr und betroffene Transportart ermitteln; Lagerung und Beförderung unterscheiden."
+        "EU-Entwurf, verabschiedete Fassung und britische Ausnahme vergleichen. Prüfen, ob dies das von Lüning gemeinte Vorhaben ist."
       ],
       "occurrences": [
         {
@@ -11260,18 +11273,23 @@
       "legacyId": "C03-P11",
       "kind": "Tatsachenbehauptung",
       "description": "Schottischer Protest verhinderte das behauptete Verbot; deshalb blieb der Fasstransport zulässig.",
-      "status": "Nicht überprüfbar",
+      "status": "Offen",
       "verdict": null,
-      "reason": "Nicht überprüfbar – zu unbestimmt. Diese Ursache hängt vom unidentifizierten Vorhaben ab. Ohne dessen Fassungsgeschichte lässt sich auch der behauptete Erfolg des Protests nicht prüfen. Dass Holzfässer weiter genutzt werden, belegt nicht diesen politischen Ablauf.",
+      "reason": "Noch nicht geprüft – eine britische Ministerantwort aus dem Jahr 1994 dokumentiert Bauartprüfungen als Folge eines Vorhabens und eine geplante Ausnahme. Lüning nennt an der Originalstelle keine genaue Norm. Die Zuordnung seiner Erzählung zu dieser Akte ist noch nicht geklärt.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
         "mapping": "Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Nachrecherche 2026-11-19 (Codex): von Nicht überprüfbar zu Offen, weil eine öffentliche Akte zum möglicherweise gemeinten Vorhaben vorliegt. Frühere Begründung: Nicht überprüfbar – zu unbestimmt. Diese Ursache hängt vom unidentifizierten Vorhaben ab. Ohne dessen Fassungsgeschichte lässt sich auch der behauptete Erfolg des Protests nicht prüfen. Dass Holzfässer weiter genutzt werden, belegt nicht diesen politischen Ablauf."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S203",
+          "note": "Öffentliches Dokument über Bauartprüfung und geplante Ausnahme im britischen Inland. Erfasst nicht die abschließende Rechtslage."
+        }
+      ],
       "openQuestions": [
-        "Verhandlungsprotokolle, Verbandsunterlagen und endgültige Regel zum selben Vorhaben fehlen."
+        "EU-Entwurf, verabschiedete Fassung und britische Ausnahme vergleichen. Prüfen, ob dies das von Lüning gemeinte Vorhaben ist."
       ],
       "occurrences": [
         {

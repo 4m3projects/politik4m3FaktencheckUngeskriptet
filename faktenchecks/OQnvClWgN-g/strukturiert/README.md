@@ -4,7 +4,7 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 **Abdeckung: Teilbestand.** Gezielte atomare Auswahl als Referenz für zwei Reaktionsvideos. Nicht das gesamte 3:21-Stunden-Interview geprüft. 178 frühere Gruppenpositionen separat als historischer Arbeitsstand erhalten; keine Hochrechnung und keine Video-Fehlerquote.
 
-Stand: 2026-11-18 · Video: OQnvClWgN-g
+Stand: 2026-11-19 · Video: OQnvClWgN-g
 
 [Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
 
@@ -13,9 +13,9 @@ Stand: 2026-11-18 · Video: OQnvClWgN-g
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 29
-- Abgeschlossen: 19
+- Abgeschlossen: 20
 - Offen (noch nicht geprueft): 0
-- In Bearbeitung: 10
+- In Bearbeitung: 9
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
 - Erfasste Behauptungsvorkommen: 29
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
@@ -30,16 +30,16 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 17 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 18 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 1 | 5.9 % |
-| Teilweise belegt | 1 | 5.9 % |
-| Irreführend / Kontext fehlt | 6 | 35.3 % |
-| Widerlegt | 9 | 52.9 % |
+| Belegt | 1 | 5.6 % |
+| Teilweise belegt | 2 | 11.1 % |
+| Irreführend / Kontext fehlt | 6 | 33.3 % |
+| Widerlegt | 9 | 50.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 2 | nicht anwendbar |
 

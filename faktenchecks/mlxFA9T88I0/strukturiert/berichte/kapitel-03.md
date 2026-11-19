@@ -3603,7 +3603,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Ein Regelungsvorhaben sollte den Transport von Whisky in Holzfässern wegen deren Brennbarkeit untersagen.
 
-Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3626,21 +3626,22 @@ Frueherer Suchbereich: [01:01:10–01:01:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – zu unbestimmt. Für diese konkrete Episode wurde kein identifizierter Entwurf, keine Aktennummer und kein Datum ermittelt. Eine heutige Lagerregel oder die übliche Fassreifung wäre kein Beweis für ein früheres Transportverbot. Die Behauptung bleibt gezielt offen.
+Noch nicht geprüft – eine britische Ministerantwort aus dem Jahr 1994 dokumentiert Bauartprüfungen als Folge eines Vorhabens und eine geplante Ausnahme. Lüning nennt an der Originalstelle keine genaue Norm. Die Zuordnung seiner Erzählung zu dieser Akte ist noch nicht geklärt.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Nachrecherche 2026-11-19 (Codex): von Nicht überprüfbar zu Offen, weil eine öffentliche Akte zum möglicherweise gemeinten Vorhaben vorliegt. Frühere Begründung: Nicht überprüfbar – zu unbestimmt. Für diese konkrete Episode wurde kein identifizierter Entwurf, keine Aktennummer und kein Datum ermittelt. Eine heutige Lagerregel oder die übliche Fassreifung wäre kein Beweis für ein früheres Transportverbot. Die Behauptung bleibt gezielt offen.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Hansard: Scotch Whisky (Transportation), 02.11.1994](https://api.parliament.uk/historic-hansard/written-answers/1994/nov/02/scotch-whisky-transportation) · Regierungsantwort zu Fässern über 250 Litern und vorgeschlagenen Ausnahmen innerhalb Großbritanniens; keine umgesetzte Endfassung.
+  Quellenzugriff am 2026-11-19. Schriftliche britische Ministerantwort vom 02.11.1994 selbst gelesen. Öffentliches Dokument über Bauartprüfung und geplante Ausnahme im britischen Inland. Erfasst nicht die abschließende Rechtslage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Entwurf, Institution, Jahr und betroffene Transportart ermitteln; Lagerung und Beförderung unterscheiden.
+- EU-Entwurf, verabschiedete Fassung und britische Ausnahme vergleichen. Prüfen, ob dies das von Lüning gemeinte Vorhaben ist.
 
 ## mlxFA9T88I0-A0148
 
@@ -3648,7 +3649,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Schottischer Protest verhinderte das behauptete Verbot; deshalb blieb der Fasstransport zulässig.
 
-Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -3671,21 +3672,22 @@ Frueherer Suchbereich: [01:01:10–01:01:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nicht überprüfbar – zu unbestimmt. Diese Ursache hängt vom unidentifizierten Vorhaben ab. Ohne dessen Fassungsgeschichte lässt sich auch der behauptete Erfolg des Protests nicht prüfen. Dass Holzfässer weiter genutzt werden, belegt nicht diesen politischen Ablauf.
+Noch nicht geprüft – eine britische Ministerantwort aus dem Jahr 1994 dokumentiert Bauartprüfungen als Folge eines Vorhabens und eine geplante Ausnahme. Lüning nennt an der Originalstelle keine genaue Norm. Die Zuordnung seiner Erzählung zu dieser Akte ist noch nicht geklärt.
 
 Grundlage der Bewertung: Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
 
 Uebernahme: Historische Brandbehauptung von behauptetem Fassverbotsvorhaben und dessen vermeintlicher Abwendung getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung. Nachrecherche 2026-11-19 (Codex): von Nicht überprüfbar zu Offen, weil eine öffentliche Akte zum möglicherweise gemeinten Vorhaben vorliegt. Frühere Begründung: Nicht überprüfbar – zu unbestimmt. Diese Ursache hängt vom unidentifizierten Vorhaben ab. Ohne dessen Fassungsgeschichte lässt sich auch der behauptete Erfolg des Protests nicht prüfen. Dass Holzfässer weiter genutzt werden, belegt nicht diesen politischen Ablauf.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Hansard: Scotch Whisky (Transportation), 02.11.1994](https://api.parliament.uk/historic-hansard/written-answers/1994/nov/02/scotch-whisky-transportation) · Regierungsantwort zu Fässern über 250 Litern und vorgeschlagenen Ausnahmen innerhalb Großbritanniens; keine umgesetzte Endfassung.
+  Quellenzugriff am 2026-11-19. Schriftliche britische Ministerantwort vom 02.11.1994 selbst gelesen. Öffentliches Dokument über Bauartprüfung und geplante Ausnahme im britischen Inland. Erfasst nicht die abschließende Rechtslage.
 
 ### Offene Fragen und Unsicherheiten
 
-- Verhandlungsprotokolle, Verbandsunterlagen und endgültige Regel zum selben Vorhaben fehlen.
+- EU-Entwurf, verabschiedete Fassung und britische Ausnahme vergleichen. Prüfen, ob dies das von Lüning gemeinte Vorhaben ist.
 
 ## mlxFA9T88I0-A0149
 

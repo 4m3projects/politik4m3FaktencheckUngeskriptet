@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "videoId": "QxMuH1bjMwo",
+  "basis": "[Codex] Themenzuordnung aus den dokumentierten Aussageinhalten und Originalfundstellen.",
+  "topics": [
+    {
+      "topic": "religion",
+      "relevance": "Schwerpunkt",
+      "basis": "11 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "segments": []
+    },
+    {
+      "topic": "asyl",
+      "relevance": "Behandelt",
+      "basis": "2 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "segments": []
+    },
+    {
+      "topic": "meinungsfreiheit",
+      "relevance": "Erwähnt",
+      "basis": "1 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "segments": []
+    },
+    {
+      "topic": "migration",
+      "relevance": "Erwähnt",
+      "basis": "1 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "QxMuH1bjMwo-A0001",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0002",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0003",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0004",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0007",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0008",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0009",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0010",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0011",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0012",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0013",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0014",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0015",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0016",
+      "topics": [
+        "migration"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0017",
+      "topics": [
+        "religion"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Aussagen aus der erweiterten Teilprüfung fachlich zugeordnet."
+    }
+  ]
+}

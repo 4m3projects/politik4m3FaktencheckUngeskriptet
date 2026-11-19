@@ -94,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Intermediäre könnten neu emittierte Staatsanleihen mit Zuschlag an die EZB durchreichen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -113,22 +113,25 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zu prüfen sind Programm, Sperrfrist, Marktbedingungen und Gewissheit des Weiterverkaufs. Krall schränkt unmittelbar danach ein, dass Käufe nicht regelmäßig sofort bei Emission erfolgen. Nicht pauschal als rechtliche Aussage oder garantierter Gewinn behandeln.
+Das Eurosystem kann Staatsanleihen am Sekundärmarkt kaufen. Für das PSPP beschreibt der EuGH eine Sperrfrist nach der Emission und weitere Sicherungen gegen einen vorhersehbaren, dem unmittelbaren Kauf gleichkommenden Weiterverkauf. Ein feststehender Aufschlag oder eine Umgehung per Buchung allein folgt daraus nicht. Das Urteil betrifft das PSPP. Kralls Einschränkung, dass Anleihen regelmäßig nicht sofort bei Emission durchgereicht würden, ist Teil des Kontexts.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Originalstelle 01:08:48–01:09:48 im YouTube-Transkript und die Randnummern 104–117 im Urteil Weiss geprüft.
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-10.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Historische Gruppenbewertung V14-10.04: Teilweise belegt / überdehnt. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
+Bewertungsuebergang: Historische Gruppenbewertung V14-10.04: Teilweise belegt / überdehnt. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Sekundärmarktkäufe sind möglich; ein unmittelbar sicherer Durchverkauf mit feststehendem Zuschlag ist daraus nicht ableitbar.
 
 ### Zugeordnete Quellen
 
 - [EuGH C-62/14, Gauweiler](https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:62014CJ0062) · EuGH, 16.06.2015; Bedingungen des Anleihekaufprogramms.
   Quellenzugriff am 2026-11-18. Abruf lieferte ausschließlich JavaScript-/Roboterprüfung, keinen lesbaren Urteilstext. Als offener Recherchehinweis geführt, nicht als gelesener Sachbeleg. Erfolgloser Abrufversuch – kein Sachbeleg.
 
+- [EuGH: Weiss u. a., C‑493/17](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A62017CJ0493) · Urteil vom 11.12.2018, Rn. 104–117, zum PSPP.
+  Quellenzugriff am 2026-11-19. Urteilsvolltext als PDF geöffnet und die Randnummern zu Sekundärmarkt, Emissionssperrfrist und faktischer Vermittlung gelesen. Primärurteil zu den Sicherungen des PSPP. Kein Beleg zu konkreten Gewinnen oder anderen Programmen.
+
 ### Offene Fragen und Unsicherheiten
 
-- Lesbaren maßgeblichen Urteilstext und genau gemeintes Ankaufprogramm gegen die Einschränkung 01:09:32–01:09:41 prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## OQnvClWgN-g-A0007
 

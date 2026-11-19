@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamtes verfügbares Untertitelmaterial gelesen (Segmentbeginn 00:00 bis 16:25). Keine direkte Audio-/Videosichtung, keine redaktionelle Zweitprüfung. Ausgewählte Aussagen, keine vollständige Erfassung aller Aussagen des Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Unabhängige Teilprüfung der Reaktion. Fünfzehn Sachbewertungen sind nach Abgleich mit dem Original und den Sachquellen abgeschlossen. Weitere erfasste Aussagen, der durchgängige Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus.
 
-Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung.
+Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft.
 
 ## sLMyP0H7tSY-A0004
 
@@ -142,7 +142,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein Glasgower Lagerhausbrand 1960 mit Explosion forderte 14 Feuerwehrleute und fünf Bergungsdienstangehörige.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -161,22 +161,25 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. S005 bestätigt Ort, Explosion und getrennte Opferzahlen. Alfred grenzt das Lagerhaus selbst von einer Brennerei ab; damit kein wörtlicher Gegenbeleg für jeden engeren Brennerei-Bezug.
+Hansard und der Scottish Fire and Rescue Service nennen für die Explosion im Glasgower Lagerhaus 1960 14 Angehörige der Feuerwehr und fünf Angehörige des Bergungsdienstes.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0007 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S005 bestätigt Ort, Explosion und getrennte Opferzahlen. Alfred grenzt das Lagerhaus selbst von einer Brennerei ab; damit kein wörtlicher Gegenbeleg für jeden engeren Brennerei-Bezug.
 
 ### Zugeordnete Quellen
 
 - [Hansard: Warehouse Fire, Glasgow, 29.03.1960](https://api.parliament.uk/historic-hansard/commons/1960/mar/29/warehouse-fire-glasgow) · Ministerantwort: Lagerhaus, Explosion, 14 Feuerwehrleute und fünf Angehörige des Salvage Corps. Die Frage nennt abweichend 18; maßgeblich ist die differenzierte Antwort.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
+
+- [Scottish Fire and Rescue Service: Cheapside Street](https://www.firescotland.gov.uk/news/66-years-after-the-tragedy-on-cheapside-street/) · Offizieller Rückblick auf den Lagerhausbrand vom 28.03.1960.
+  Quellenzugriff am 2026-11-19. Angaben zum Whisky-Zolllager, zur Explosion und zu den getrennten Opferzahlen gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## sLMyP0H7tSY-A0008
 
@@ -184,7 +187,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das Glasgower Lagerhaus wird als voller Whisky beschrieben.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -203,27 +206,22 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: offen. Die gelesene Ministerantwort S005 nennt ein Zolllager, nicht dessen Inhalt. Das Detail wurde in diesem Durchlauf nicht durch eine weitere Primärquelle bestätigt; daraus folgt keine Widerlegung.
+Der Scottish Fire and Rescue Service bezeichnet den Brandort ausdrücklich als Whisky-Zolllager. Ob im betreffenden Zeitraum auch eine Brennerei abbrannte, ist eine andere Frage.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0008 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: offen. Die gelesene Ministerantwort S005 nennt ein Zolllager, nicht dessen Inhalt. Das Detail wurde in diesem Durchlauf nicht durch eine weitere Primärquelle bestätigt; daraus folgt keine Widerlegung.
 
 ### Zugeordnete Quellen
 
-- [Alfred-Upload und YouTube-oEmbed](https://www.youtube.com/watch?v=sLMyP0H7tSY) · YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.
-  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
-
-- [Hansard: Warehouse Fire, Glasgow, 29.03.1960](https://api.parliament.uk/historic-hansard/commons/1960/mar/29/warehouse-fire-glasgow) · Ministerantwort: Lagerhaus, Explosion, 14 Feuerwehrleute und fünf Angehörige des Salvage Corps. Die Frage nennt abweichend 18; maßgeblich ist die differenzierte Antwort.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+- [Scottish Fire and Rescue Service: Cheapside Street](https://www.firescotland.gov.uk/news/66-years-after-the-tragedy-on-cheapside-street/) · Offizieller Rückblick auf den Lagerhausbrand vom 28.03.1960.
+  Quellenzugriff am 2026-11-19. Angaben zum Whisky-Zolllager, zur Explosion und zu den getrennten Opferzahlen gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.
-
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## sLMyP0H7tSY-A0009
 
@@ -231,7 +229,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** 1994 drohten unbeabsichtigte Bauartprüfungen für große Whiskyfässer; der Branchenverband intervenierte.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -250,22 +248,22 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. S006 dokumentiert Eingaben, Fässer über 250 Liter und den vorgeschlagenen Ausnahmepfad innerhalb Großbritanniens. Keine Gleichsetzung mit einem beabsichtigten allgemeinen Transportverbot.
+Die britische Ministerantwort vom 2. November 1994 bestätigt, dass der Branchenverband vorstellig wurde und dass die Regelung unbeabsichtigte Bauartprüfungen für traditionelle Whiskyfässer auslösen konnte.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0009 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: Sachkern belegt. S006 dokumentiert Eingaben, Fässer über 250 Liter und den vorgeschlagenen Ausnahmepfad innerhalb Großbritanniens. Keine Gleichsetzung mit einem beabsichtigten allgemeinen Transportverbot.
 
 ### Zugeordnete Quellen
 
 - [Hansard: Scotch Whisky (Transportation), 02.11.1994](https://api.parliament.uk/historic-hansard/written-answers/1994/nov/02/scotch-whisky-transportation) · Regierungsantwort zu Fässern über 250 Litern und vorgeschlagenen Ausnahmen innerhalb Großbritanniens; keine umgesetzte Endfassung.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## sLMyP0H7tSY-A0010
 
@@ -273,7 +271,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Fässer durften nach der Intervention bleiben; niemand habe eine Verbotswirkung gewollt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -292,22 +290,22 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: teilweise belegt. Die damalige Regierungsantwort beschreibt eine beabsichtigte Ausnahme, nicht deren späteren Vollzug. Sie bezeichnet die Prüfanforderung als unbeabsichtigt, belegt aber nicht die Absicht sämtlicher Beteiligter. Alfred verallgemeinert hier eine begrenzte Quelle.
+Die Ministerantwort nennt eine geplante Ausnahme, damit der herkömmliche Fass-Transport im Vereinigten Königreich fortgesetzt werden konnte. Sie belegt die Absicht der Regierung, enthält aber noch keinen in Kraft getretenen Ausnahmetext.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0010 (Art: schlussfolgerung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. Die damalige Regierungsantwort beschreibt eine beabsichtigte Ausnahme, nicht deren späteren Vollzug. Sie bezeichnet die Prüfanforderung als unbeabsichtigt, belegt aber nicht die Absicht sämtlicher Beteiligter. Alfred verallgemeinert hier eine begrenzte Quelle.
 
 ### Zugeordnete Quellen
 
 - [Hansard: Scotch Whisky (Transportation), 02.11.1994](https://api.parliament.uk/historic-hansard/written-answers/1994/nov/02/scotch-whisky-transportation) · Regierungsantwort zu Fässern über 250 Litern und vorgeschlagenen Ausnahmen innerhalb Großbritanniens; keine umgesetzte Endfassung.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## sLMyP0H7tSY-A0030
 

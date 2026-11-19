@@ -2,20 +2,20 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Gesamtes verfügbares Untertitelmaterial gelesen (Segmentbeginn 00:00 bis 16:25). Keine direkte Audio-/Videosichtung, keine redaktionelle Zweitprüfung. Ausgewählte Aussagen, keine vollständige Erfassung aller Aussagen des Videos.
+**Abdeckung: Teilbestand.** Unabhängige Teilprüfung der Reaktion. Fünfzehn Sachbewertungen sind nach Abgleich mit dem Original und den Sachquellen abgeschlossen. Weitere erfasste Aussagen, der durchgängige Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus.
 
-Stand: 2026-11-18 · Video: sLMyP0H7tSY
+Stand: 2026-11-19 · Video: sLMyP0H7tSY
 
-Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung.
+Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 30
-- Abgeschlossen: 0
+- Abgeschlossen: 15
 - Offen (noch nicht geprueft): 0
-- In Bearbeitung: 30
+- In Bearbeitung: 15
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
 - Erfasste Behauptungsvorkommen: 30
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 0 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 15 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 0 | nicht anwendbar |
-| Teilweise belegt | 0 | nicht anwendbar |
-| Irreführend / Kontext fehlt | 0 | nicht anwendbar |
-| Widerlegt | 0 | nicht anwendbar |
-| Nicht ausreichend belegbar | 0 | nicht anwendbar |
+| Belegt | 12 | 80.0 % |
+| Teilweise belegt | 3 | 20.0 % |
+| Irreführend / Kontext fehlt | 0 | 0.0 % |
+| Widerlegt | 0 | 0.0 % |
+| Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 0 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.

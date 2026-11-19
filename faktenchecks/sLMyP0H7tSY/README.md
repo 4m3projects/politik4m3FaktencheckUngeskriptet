@@ -1,6 +1,6 @@
 # Alfred räumt auf zu Horst Lüning: eigener Faktencheck
 
-**Status: vorläufige Teilprüfung.** Alle Befunde sind vorläufig und tragen noch keine Endbewertung. Es fehlen eine direkte Audio-/Videosichtung und eine redaktionelle Zweitprüfung.
+**Status: Teilbestand geprüft.** 15 Sachbewertungen wurden am 19. November 2026 nach Prüfung der Quellen und der zugehörigen Textstellen abgeschlossen. Weitere Aussagen, der Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus.
 
 - Video: [Verbietet der digitale Euro, was wir kaufen? Horst Lüning bei Ungeskriptet](https://www.youtube.com/watch?v=sLMyP0H7tSY)
 - Kanal: Alfred räumt auf
@@ -13,11 +13,11 @@
 
 Alfred prüft in seinem Video selbst einige Aussagen aus dem Lüning-Interview. Wir prüfen seine Teilbehauptungen unabhängig gegen Primärquellen und verknüpfen sie mit unserem eigenen Check des Originals. Weder Alfreds Einschätzung noch unser Originalcheck gelten dabei als Wahrheitsmaßstab. Es gibt keine Gesamtquote und keine Personennoten.
 
-Die Recherche stammt von Codex ([Issue #5](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5)). Claude hat sie unverändert in das strukturierte Format übertragen. Der vorläufige Befund steht jeweils am Anfang der Begründung.
+Die Recherche stammt von Codex ([Issue #5](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5)). Claude hat sie unverändert in das strukturierte Format übertragen. Die Einzelprüfungen dokumentieren den Stand je Aussage.
 
 ## Hinweise für unseren Originalcheck
 
-Codex schlägt vier Präzisierungen unseres Lüning-Checks vor (Fassregel 1994, Abgrenzung der Zinsreihen, neuerer Finanzplan, Umfang des Lagarde-Urteils). Sie sind bei den betroffenen Verknüpfungen als offene Prüfaufgabe markiert. Der Originalcheck wurde dafür nicht verändert.
+Codex schlägt vier Präzisierungen unseres Lüning-Checks vor (Fassregel 1994, Abgrenzung der Zinsreihen, neuerer Finanzplan, Umfang des Lagarde-Urteils). Sie sind bei den betroffenen Verknüpfungen als offene Prüfaufgabe markiert. Bei zwei Fass-Aussagen wurde der Originalcheck um einen öffentlichen Rechercheansatz ergänzt. Die Zuordnung der Regelung von 1994 zu Lünings Aussage bleibt offen.
 
 ## Arbeitsunterlagen
 
