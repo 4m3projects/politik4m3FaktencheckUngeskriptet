@@ -425,7 +425,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der durchschnittliche Bildungsstand der Bevölkerung sinkt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -448,21 +448,25 @@ Frueherer Suchbereich: [02:09:35–02:10:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – zu unbestimmt. Allgemeine Aussage ohne Maßstab (Abschlüsse, Kompetenzen, Altersgruppen). Keine Quelle gelesen.
+Die gemessenen Kompetenzen von Schülerinnen und Schülern sinken: Der IQB-Bildungstrend 2024 fand bei Neuntklässlern deutliche Rückgänge in Mathematik und den Naturwissenschaften seit 2018, auch am Gymnasium. Formale Abschlüsse nehmen dagegen nicht ab; die Zahl der Hochschulabschlüsse stieg 2025 das zweite Jahr in Folge. Ob der „durchschnittliche Bildungsstand der Bevölkerung“ sinkt, hängt damit vom Maßstab ab: Für Schulleistungen ist die Aussage gestützt, für formale Bildungsabschlüsse nicht.
 
-Grundlage der Bewertung: Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: KMK-Mitteilung zum IQB-Bildungstrend 2024 und Bericht zur Hochschulabschlussstatistik 2025 gelesen; keine Bevölkerungsstatistik zum Bildungsstand (Mikrozensus) und keine Erwachsenenkompetenzstudie gelesen.
 
 Uebernahme: Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Schulleistungs- und Abschlussdaten gelesen; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Licht und Schatten im IQB-Bildungstrend 2024](https://www.kmk.org/aktuelles/pressearchiv/mitteilung/licht-und-schatten-im-iqb-bildungstrend-2024.html) · Kultusministerkonferenz, 16.10.2025; IQB-Bildungstrend 2024 (48.279 Neuntklässler): deutliche Kompetenzrückgänge in Mathematik, Biologie, Chemie und Physik seit 2018.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Kompetenzrückgänge bei Neuntklässlern seit 2018.
+
+- [Hochschulabschlüsse 2025 um 3 Prozent gestiegen](https://www.forschung-und-lehre.de/lehre/hochschulabschluesse-2025-um-3-prozent-gestiegen-7935) · Forschung & Lehre, 02.10.2026, nach Destatis; rund 527.600 Hochschulabschlüsse im Prüfungsjahr 2025, zweites Wachstumsjahr in Folge.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Hochschulabschlüsse 2025 um 3 % gestiegen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Messgröße festlegen und z. B. Bildungsbericht oder Kompetenzstudien lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0309
 

@@ -2534,6 +2534,22 @@
       "details": "Lohn-Info, André Liebig; Beitragssätze 2026 je Versicherungszweig, Summe 42,3 %.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S192",
+      "title": "Licht und Schatten im IQB-Bildungstrend 2024",
+      "url": "https://www.kmk.org/aktuelles/pressearchiv/mitteilung/licht-und-schatten-im-iqb-bildungstrend-2024.html",
+      "details": "Kultusministerkonferenz, 16.10.2025; IQB-Bildungstrend 2024 (48.279 Neuntklässler): deutliche Kompetenzrückgänge in Mathematik, Biologie, Chemie und Physik seit 2018.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S193",
+      "title": "Hochschulabschlüsse 2025 um 3 Prozent gestiegen",
+      "url": "https://www.forschung-und-lehre.de/lehre/hochschulabschluesse-2025-um-3-prozent-gestiegen-7935",
+      "details": "Forschung & Lehre, 02.10.2026, nach Destatis; rund 527.600 Hochschulabschlüsse im Prüfungsjahr 2025, zweites Wachstumsjahr in Folge.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -19686,19 +19702,26 @@
       "legacyId": "C07-P04",
       "kind": "Tatsachenbehauptung",
       "description": "Der durchschnittliche Bildungsstand der Bevölkerung sinkt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – zu unbestimmt. Allgemeine Aussage ohne Maßstab (Abschlüsse, Kompetenzen, Altersgruppen). Keine Quelle gelesen.",
-      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die gemessenen Kompetenzen von Schülerinnen und Schülern sinken: Der IQB-Bildungstrend 2024 fand bei Neuntklässlern deutliche Rückgänge in Mathematik und den Naturwissenschaften seit 2018, auch am Gymnasium. Formale Abschlüsse nehmen dagegen nicht ab; die Zahl der Hochschulabschlüsse stieg 2025 das zweite Jahr in Folge. Ob der „durchschnittliche Bildungsstand der Bevölkerung“ sinkt, hängt damit vom Maßstab ab: Für Schulleistungen ist die Aussage gestützt, für formale Bildungsabschlüsse nicht.",
+      "assessmentBasis": "KMK-Mitteilung zum IQB-Bildungstrend 2024 und Bericht zur Hochschulabschlussstatistik 2025 gelesen; keine Bevölkerungsstatistik zum Bildungsstand (Mikrozensus) und keine Erwachsenenkompetenzstudie gelesen.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
         "mapping": "Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (zu unbestimmt); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Schulleistungs- und Abschlussdaten gelesen; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Messgröße festlegen und z. B. Bildungsbericht oder Kompetenzstudien lesen."
+      "sourceRefs": [
+        {
+          "sourceId": "S192",
+          "note": "Kompetenzrückgänge bei Neuntklässlern seit 2018."
+        },
+        {
+          "sourceId": "S193",
+          "note": "Hochschulabschlüsse 2025 um 3 % gestiegen."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0353",
