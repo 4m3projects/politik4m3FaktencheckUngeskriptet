@@ -16,7 +16,7 @@ Diese Anweisung gilt für alle KI-Agenten (Claude, Codex, ChatGPT) und für jede
 Für jede Tatsachenbehauptung ohne Urteil der Reihe nach fragen:
 
 1. **Gibt es grundsätzlich eine öffentliche Prüfgrundlage?** Nein, weil es um private Erlebnisse, Familien- oder Gesundheitsangaben, interne Firmen- oder Behördenvorgänge, unbenannte Personen oder Betriebe, Hörensagen, Innenleben oder Absichten Dritter oder eine so unbestimmte Behauptung geht, dass kein Maßstab existiert → **`Nicht überprüfbar`**. Ebenso, wenn Quellen gelesen wurden, die Aussage aber mehrere Lesarten zulässt und keine davon dem Sprecher sicher zugeschrieben werden kann.
-2. **Wurde tatsächlich recherchiert und wurden die Quellen gelesen?** Ja, und sie reichen weder für Bestätigung noch Widerlegung → **`Abgeschlossen`** mit **`Nicht ausreichend belegbar`** und den gelesenen Quellen in `sourceRefs`.
+2. **Wurde tatsächlich recherchiert und wurden die Quellen gelesen?** Ja, und sie reichen weder für Bestätigung noch Widerlegung → **`Abgeschlossen`** mit **`Nicht ausreichend belegbar`** und den gelesenen Quellen in `sourceRefs` Voraussetzung sind mindestens zwei unterschiedlich angelegte Recherchedurchgänge, dokumentiert in `research` ([AGENTEN_RECHERCHE.md](AGENTEN_RECHERCHE.md)). Ein einzelner erfolgloser Suchversuch reicht nie.
 3. **Sonst** – prüfbar, aber noch nicht oder nicht fertig recherchiert → **`Offen`** (bzw. `In Bearbeitung`, solange gearbeitet wird).
 
 ### Verbindlich
