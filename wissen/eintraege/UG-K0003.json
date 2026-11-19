@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0003",
+  "revision": 1,
+  "claim": "Christine Lagarde sei wegen Veruntreuung von rund 400 Millionen Euro rechtskräftig verurteilt worden.",
+  "topics": [
+    "geld/ezb"
+  ],
+  "status": "Geprüft",
+  "verdict": "Widerlegt",
+  "reason": "Der Gerichtshof der Republik sprach Lagarde im Dezember 2016 wegen Fahrlässigkeit im Zusammenhang mit der Tapie-Schiedszahlung schuldig, nicht wegen eigener Veruntreuung. Er verhängte keine Strafe und ordnete keinen Registereintrag an. Die rund 403 Millionen Euro sind die Schiedssumme, nicht ein von ihr veruntreuter Betrag.",
+  "validity": {
+    "asOf": "2026-11-18",
+    "timeScope": "Urteil vom 19.12.2016",
+    "subjectScope": "Strafverfahren gegen Christine Lagarde in Frankreich (Tapie-Schiedsverfahren)",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-18",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "Cour de justice de la République: Urteil vom 19.12.2016",
+      "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000033943496",
+      "details": "Legifrance, amtliche Veröffentlichung des Urteils",
+      "accessedOn": "2026-11-18",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q2",
+      "title": "IMF Chief Lagarde Keeps Job Despite Conviction",
+      "url": "https://occrp.org/en/news/imf-chief-lagarde-keeps-job-despite-conviction",
+      "details": "OCCRP, Bericht über Schuldspruch ohne Strafe",
+      "accessedOn": "2026-11-18",
+      "kind": "Medienbericht"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "mlxFA9T88I0-A0276",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Gleiche Behauptung über Grund und Betrag der Verurteilung, gleiches Verfahren von 2016.",
+      "linkedBy": "Claude",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "sLMyP0H7tSY-A0022",
+      "repo": null,
+      "relation": "widerspricht",
+      "contextNote": "Die Reaktion stellt richtig, dass der Schuldspruch Fahrlässigkeit betrifft; sie behauptet damit das Gegenteil des Eintrags.",
+      "linkedBy": "Claude",
+      "linkedOn": "2026-11-19"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-19",
+      "agent": "Claude",
+      "change": "Angelegt aus der bestehenden Prüfung mlxFA9T88I0-A0276 und dem Urteilsnachweis aus sLMyP0H7tSY-A0022 (Schritt 4, Issue #54); Originalquellen am 18.11.2026 gelesen, für den Eintrag nicht erneut abgerufen.",
+      "previous": null
+    }
+  ]
+}

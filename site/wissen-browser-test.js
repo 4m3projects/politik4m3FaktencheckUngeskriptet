@@ -100,12 +100,24 @@ async function step(name, fn) {
     await shot('thema-windkraft');
   });
   await step('Unbelegt steht nie unter „falsch“', async () => {
-    for (const id of ['geld', 'staatsfinanzen', 'stasi', 'klima']) {
+    for (const id of ['geld', 'geld/ezb', 'staatsfinanzen', 'stasi', 'klima']) {
       await page.goto(url + '#/thema/' + id);
       await page.waitForSelector('h1');
       const txt = await page.locator('#falsch').innerText().catch(() => '');
       assert.ok(!txt.includes('Nicht ausreichend belegbar'), id);
     }
+  });
+  await step('Wissenseinträge erscheinen mit Herkunft, verknüpfte Aussagen nicht doppelt', async () => {
+    await page.goto(url + '#/thema/geld/ezb');
+    await page.waitForSelector('h1');
+    const entries = page.locator('.kb-entry');
+    if (!(await entries.count())) return; // Bestand ohne Einträge: nichts zu prüfen
+    const txt = await page.locator('main').innerText();
+    const ids = await page.locator('.kb-origin a').evaluateAll(as => as.map(a => a.getAttribute('href').split('/').pop()));
+    const linked = await page.evaluate(() => state.wissen.raw.entries.flatMap(e => e.links.filter(l => l.relation === 'gleichwertig').map(l => l.claimId)));
+    for (const id of linked) assert.ok(!ids.includes(id), id + ' doppelt');
+    assert.match(txt, /Wissenseintrag/);
+    await shot('thema-ezb');
   });
   await step('Internes Thema ist erreichbar und gekennzeichnet', async () => {
     await page.goto(url + '#/thema/argentinien');

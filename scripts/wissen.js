@@ -31,6 +31,11 @@ function listJson(dir) {
   return fs.readdirSync(dir).filter(f => f.endsWith('.json')).sort().map(f => path.join(dir, f));
 }
 
+function withFile(obj, file) {
+  Object.defineProperty(obj, '__file', { value: path.basename(file, '.json'), enumerable: false });
+  return obj;
+}
+
 /* Gesamten Wissensbestand eines Repos laden. */
 function load(root) {
   const w = path.join(root, 'wissen');
@@ -40,8 +45,9 @@ function load(root) {
     root,
     config: fs.existsSync(cfgFile) ? readJson(cfgFile) : null,
     topics: fs.existsSync(topicsFile) ? readJson(topicsFile) : { schemaVersion: 1, topics: [] },
-    entries: listJson(path.join(w, 'eintraege')).map(f => Object.assign(readJson(f), { __file: path.basename(f, '.json') })),
-    corrections: listJson(path.join(w, 'korrekturen')).map(f => Object.assign(readJson(f), { __file: path.basename(f, '.json') })),
+    // Dateiname nur für die Prüfung „Dateiname = ID“, nicht aufzählbar und damit kein Datenfeld.
+    entries: listJson(path.join(w, 'eintraege')).map(f => withFile(readJson(f), f)),
+    corrections: listJson(path.join(w, 'korrekturen')).map(f => withFile(readJson(f), f)),
     videos: []
   };
   const fc = path.join(root, 'faktenchecks');
@@ -129,7 +135,7 @@ function main(argv) {
     for (const b of bundles) items = items.concat(K.searchItems(strip(b), label(b)));
     const res = K.search(q, items, { limit: Number(a.limit) || 15 });
     if (!res.length) log('Keine ähnlichen Einträge oder Aussagen gefunden. Kein Treffer ist kein Beleg für fehlende Vorarbeit; andere Begriffe versuchen.');
-    for (const r of res) log(r.score.toFixed(2) + '  ' + r.kind.padEnd(7) + ' ' + r.id + '  [' + (r.verdict || r.status) + ']  ' + r.repo + '\n       ' + r.text.slice(0, 220));
+    for (const r of res) log(r.score.toFixed(2) + '  ' + r.kind.padEnd(7) + ' ' + r.id + '  [' + (r.verdict || r.status) + ']  ' + r.repo + '\n       ' + (r.label || r.text).slice(0, 220));
     if (res.length) log('\nHinweis: Treffer sind Kandidaten. Vor Übernahme Zeitbezug, Geltungsbereich und Kontext prüfen und die Originalquellen selbst lesen; eine frühere Bewertung ist kein Beleg.');
     return 0;
   }

@@ -796,7 +796,7 @@
   /* Suchbestand aus Einträgen und Aussagen bilden. */
   function searchItems(bundle, repoLabel) {
     const items = [];
-    for (const en of bundle.entries || []) items.push({ kind: 'Eintrag', id: en.id, repo: repoLabel || null, text: en.claim + ' ' + en.topics.join(' '), verdict: en.verdict, status: en.status, checkedOn: en.checkedOn });
+    for (const en of bundle.entries || []) items.push({ kind: 'Eintrag', id: en.id, repo: repoLabel || null, label: en.claim, text: en.claim + ' ' + en.topics.join(' '), verdict: en.verdict, status: en.status, checkedOn: en.checkedOn });
     for (const v of bundle.videos || []) for (const c of ((v.facts && v.facts.claims) || [])) {
       items.push({ kind: 'Aussage', id: c.id, repo: repoLabel || null, text: c.description, verdict: c.verdict, status: c.status });
     }
