@@ -64,6 +64,14 @@ function timeLink(videoId, sec, label) {
 }
 function claimHref(videoId, claimId) { return `#/video/${esc(videoId)}/aussage/${esc(claimId)}`; }
 
+/* Gesamt-Faktenampel eines Videos (berechnet nur in site/ampel.js über ampelView), damit man vor dem
+   Klick sieht, wie das ganze Video abschneidet – nicht nur die eine Aussage. Setzt voraus, dass
+   pageTopic die Videos vorher geladen hat; sonst bleibt die Stelle leer. */
+function videoAmpel(videoId) {
+  const v = state.videos.get(videoId);
+  return v ? `<div class="occ-ampel">${ampelView(v, 'compact')}</div>` : '';
+}
+
 /* Ein Vorkommen einer Behauptung in einem geprüften Video: Vorschaubild (nur nach Zustimmung),
    Videotitel, die Aussage im Video, Link zur Aussage im Faktencheck und zur Stelle bei YouTube. */
 function occurrenceItem(link, c) {
@@ -76,7 +84,8 @@ function occurrenceItem(link, c) {
     ${thumb ? `<a href="${href}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}
     <div class="occ-body">
       <a href="${href}"><strong>${esc(videoName(vid))}</strong></a>
-      ${c ? `<div class="claim-top">${verdictBadge(c.verdict, c.status, c.reason)}</div><p class="small">${esc(c.description)}</p>` : ''}
+      ${videoAmpel(vid)}
+      ${c ? `<div class="claim-top"><span class="small">Diese Aussage:</span> ${verdictBadge(c.verdict, c.status, c.reason)}</div><p class="small">${esc(c.description)}</p>` : ''}
       <p class="small occ-links"><a href="${href}">Zur Aussage ${esc(shortClaim(link.claimId, vid))} im Faktencheck</a>${t ? ' · ' + t : ''}</p>
     </div>
   </li>`;
@@ -92,6 +101,7 @@ function claimItem(c, videoId) {
     <p class="claim-desc">${esc(c.description)}</p>
     <p class="claim-reason">${esc(c.reason)}</p>
     <p class="small kb-origin">${thumb ? `<a href="${href}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}<span>Aus: <a href="${href}">${esc(videoName(videoId))} · ${esc(shortClaim(c.id, videoId))}</a> ${t}</span></p>
+    ${videoAmpel(videoId)}
     ${srcs ? `<details class="kb-src"><summary>Quellen (${(c.sources || []).length})</summary><ul>${srcs}</ul></details>` : ''}
   </li>`;
 }
@@ -202,6 +212,8 @@ async function pageTopic(id) {
   const p = FactKnowledge.topicPage(id, w.bundle);
   if (!p) { setPage(`<div class="wrap"><nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / <a href="#/themen">Themen</a></nav><p class="notice warn">Dieses Thema gibt es nicht.</p></div>`, 'themen'); return; }
   if (p.topic.id !== id) { location.replace(topicHref(p.topic.id)); return; }
+  /* Videos der Seite laden, damit ihre Faktenampel neben jedem Fundort stehen kann. */
+  await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => null)));
   const t = p.topic;
   const s = w.stats.get(t.id) || { public: false, videos: [], claims: 0, reason: '' };
   const crumbs = FactKnowledge.withAncestors(t.id).reverse().map(x => x === t.id ? `<span aria-current="page">${esc(topicName(x))}</span>` : `<a href="${esc(topicHref(x))}">${esc(topicName(x))}</a>`).join(' / ');
@@ -211,7 +223,7 @@ async function pageTopic(id) {
     const seg = r.segments[0];
     const url = videoUrlOf(r.videoId);
     const thumb = thumbImg(r.videoId, url, 'occ-thumb');
-    return `<li class="kb-item occ-item${thumb ? ' has-thumb' : ''}">${thumb ? `<a href="#/video/${esc(r.videoId)}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}<div class="occ-body"><a href="#/video/${esc(r.videoId)}"><strong>${esc(videoName(r.videoId))}</strong></a>
+    return `<li class="kb-item occ-item${thumb ? ' has-thumb' : ''}">${thumb ? `<a href="#/video/${esc(r.videoId)}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}<div class="occ-body"><a href="#/video/${esc(r.videoId)}"><strong>${esc(videoName(r.videoId))}</strong></a>${videoAmpel(r.videoId)}
       ${seg ? `<p class="small">Abschnitt ${videoTimeUrl(url, seg.startSeconds) ? extLink(videoTimeUrl(url, seg.startSeconds), `▶ ${hms(seg.startSeconds)}–${hms(seg.endSeconds)}`) : ''}: ${esc(seg.note)}</p>` : ''}
       <p class="small">Warum: ${esc(r.reason)}</p></div></li>`;
   }).join('');

@@ -143,6 +143,14 @@ async function step(name, fn) {
     const hrefs = await items.locator('a[href^="#/video/"]').evaluateAll(as => as.map(a => a.getAttribute('href')));
     assert.ok(hrefs.every(h => /^#\/video\/[A-Za-z0-9_-]{11}\/aussage\/[A-Za-z0-9_-]{11}-A\d{4}$/.test(h)), hrefs.join(', '));
     assert.ok(await items.locator('a[href*="t="]').count() >= 1, 'Zeitmarke bei YouTube');
+    /* Gesamt-Faktenampel des Videos je Eintrag, berechnet wie auf der Videoseite (site/ampel.js). */
+    assert.equal(await items.locator('.occ-ampel .ampel').count(), await items.count(), 'Video-Ampel je Eintrag');
+    for (const it of await items.all()) {
+      const vid = (await it.locator('a[href^="#/video/"]').first().getAttribute('href')).split('/')[2];
+      const expect = await page.evaluate(id => { const v = state.videos.get(id); return FactAmpel.rate(v.stats, v.video, v.data?.scope?.durationSeconds).key; }, vid);
+      assert.match(await it.locator('.occ-ampel .ampel').getAttribute('class'), new RegExp('ampel-' + expect + '\\b'), vid);
+    }
+    assert.match(await items.first().innerText(), /Diese Aussage:/);
     assert.equal(await page.locator('img[src*="ytimg"]').count(), 0, 'ohne Zustimmung keine Vorschaubilder');
     assert.equal(await page.locator('.thumb-ask').count(), 1, 'Frage nach Vorschaubildern');
     await shot('thema-geld-videos');

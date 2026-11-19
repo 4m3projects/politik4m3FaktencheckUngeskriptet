@@ -2,7 +2,7 @@
 
 Erstellt von: Claude, auf Auftrag von Jens (18.11.2026).
 
-Die Faktenampel zeigt auf einen Blick, wie die bisher entschiedenen Tatsachenbehauptungen eines Videos ausgefallen sind. Sie erscheint auf den Karten der Startseite, im Kopf jeder Videoseite und in den Listen von Originalen und Reaktionen.
+Die Faktenampel zeigt auf einen Blick, wie die bisher entschiedenen Tatsachenbehauptungen eines Videos ausgefallen sind. Sie erscheint auf den Karten der Startseite, im Kopf jeder Videoseite, in den Listen von Originalen und Reaktionen und auf den Themenseiten neben jedem Video, aus dem eine Aussage stammt (dort getrennt von der Bewertung der einzelnen Aussage).
 
 ## Grundsatz: berechnet, nie gesetzt
 
