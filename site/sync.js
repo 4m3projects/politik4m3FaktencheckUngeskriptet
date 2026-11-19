@@ -307,8 +307,9 @@
   }
 
   /* Elfstellige YouTube-ID nur aus einer HTTPS-Watch-/Kurz-URL akzeptieren. */
+  /* Video-ID aus einer YouTube-Adresse: watch?v=, youtu.be/ und Shorts (youtube.com/shorts/<ID>). */
   function youtubeId(url) {
-    const m = /^https:\/\/(?:www\.|m\.)?(?:youtube\.com\/watch\?(?:[^#]*&)?v=|youtu\.be\/)([A-Za-z0-9_-]{11})(?:[&#?]|$)/.exec(String(url || ''));
+    const m = /^https:\/\/(?:www\.|m\.)?(?:youtube\.com\/watch\?(?:[^#]*&)?v=|youtu\.be\/|youtube\.com\/shorts\/)([A-Za-z0-9_-]{11})(?:[&#?/]|$)/.exec(String(url || ''));
     return m ? m[1] : null;
   }
 

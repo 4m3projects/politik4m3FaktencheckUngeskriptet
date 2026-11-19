@@ -27,6 +27,7 @@ Die Publikationsprüfung lässt nur genau diese beiden neuen Pfade zu. Faktenche
   "title": "Videotitel",
   "videoUrl": "https://…",
   "workStatus": "Erfasst | In Bearbeitung | Teilbestand geprüft | Abgeschlossen",
+  "format": "optional: video | short (YouTube Short, siehe SHORTS.md); fehlt es, gilt video",
   "identification": { "basis": "Woran die Einordnung festgemacht ist", "certainty": "Belegt | Plausibel", "checkedOn": "JJJJ-MM-TT" }
 }
 ```

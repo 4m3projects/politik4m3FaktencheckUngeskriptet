@@ -71,6 +71,17 @@ $common = @('--ignore-config','--no-playlist','--skip-download','--no-overwrites
 if ($DenoPath) { $common += @('--js-runtimes',('deno:' + $DenoPath)) }
 & $YtDlpPath @common '--' $canonicalUrl
 if ($LASTEXITCODE -ne 0) { throw 'Metadatenabruf fehlgeschlagen. Keine Auswertung anhand des Titels erfinden.' }
+# YouTube Shorts (docs/SHORTS.md): yt-dlp meldet Shorts mit normaler watch-Adresse. Erkennung daher an der
+# eingegebenen /shorts/-Adresse oder an Hochformat plus hoechstens drei Minuten Laufzeit.
+$infoPath = Join-Path $targetDir 'source.info.json'
+if (Test-Path -LiteralPath $infoPath -PathType Leaf) {
+    $info = Get-Content -LiteralPath $infoPath -Raw -Encoding UTF8 | ConvertFrom-Json
+    $vertical = $info.width -and $info.height -and ([double]$info.height -gt [double]$info.width)
+    $shortLength = $info.duration -and ([double]$info.duration -le 180)
+    if ($uri.AbsolutePath -match '^/shorts/' -or ($vertical -and $shortLength)) {
+        Write-Host ('YouTube Short erkannt (Laufzeit ' + $info.duration + ' s, ' + $info.width + 'x' + $info.height + '): in video.json "format": "short" setzen; videoUrl bleibt ' + $canonicalUrl + '.')
+    }
+}
 & $YtDlpPath @common '--write-subs' '--write-auto-subs' '--sleep-subtitles' '5' '--sub-langs' $Sprachen '--sub-format' 'json3' '--' $canonicalUrl
 $subtitleFailure = $LASTEXITCODE -ne 0
 $count = 0

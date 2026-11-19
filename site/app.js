@@ -440,15 +440,20 @@ async function relationsSection(v) {
 }
 
 /* Kurze Rolle im Kopf jeder Videoseite, bei Reaktionen mit Rückverlinkung. */
+/* Kennzeichen für YouTube Shorts (docs/SHORTS.md): kurzes Hochkantvideo. */
+function shortBadge(v) {
+  return FactRelations.isShort(v?.video, v?.data?.scope?.videoUrl) ? '<span class="badge format-short" title="Kurzes Hochkantvideo von YouTube; der ganze Short ist erfasst">Short</span> ' : '';
+}
+
 function roleLine(v) {
   const m = v.video;
-  if (!m) return '<p class="role-line small">Noch nicht als Original oder Reaktion eingeordnet.</p>';
+  if (!m) return `<p class="role-line small">${shortBadge(v)}Noch nicht als Original oder Reaktion eingeordnet.</p>`;
   if (m.role === 'original') {
     const n = (state.rel.byOriginal.get(v.id) || []).length;
-    return `<p class="role-line"><span class="badge kind">Originalinterview</span>${n ? ` <a href="#/video/${esc(v.id)}/reaktionen">${n} zugeordnete Reaktion${n === 1 ? '' : 'en'}</a>` : ''}</p>`;
+    return `<p class="role-line">${shortBadge(v)}<span class="badge kind">Originalinterview</span>${n ? ` <a href="#/video/${esc(v.id)}/reaktionen">${n} zugeordnete Reaktion${n === 1 ? '' : 'en'}</a>` : ''}</p>`;
   }
   const origs = (state.rel.byReaction.get(v.id) || []).map(r => `<a href="#/video/${esc(r.originalVideoId)}">${esc(videoName(r.originalVideoId))}</a>`);
-  return `<p class="role-line"><span class="badge kind">${esc(reactionTypeName(m.reactionType))}</span> von ${esc(m.channel)}${origs.length ? ` · bezieht sich auf: ${origs.join(', ')}` : ''}</p>`;
+  return `<p class="role-line">${shortBadge(v)}<span class="badge kind">${esc(reactionTypeName(m.reactionType))}</span> von ${esc(m.channel)}${origs.length ? ` · bezieht sich auf: ${origs.join(', ')}` : ''}</p>`;
 }
 
 /* ---------- Seiten ---------- */
@@ -552,7 +557,7 @@ function ampelOverview(all) {
     return `<li><a class="ampel-row" href="#/video/${esc(v.id)}">${ampelView(v, 'big')}<span class="ampel-row-title"><strong>${esc(v.video?.title || v.title)}</strong><span class="small">${esc(role)}</span></span></a></li>`;
   };
   return `<section class="section" id="ampel-uebersicht" aria-labelledby="h-ampel">
-      <div class="section-head"><h2 id="h-ampel">Faktenampel: alle Interviews auf einen Blick</h2>
+      <div class="section-head"><h2 id="h-ampel">Faktenampel: alle Videos auf einen Blick</h2>
       <p>Grün, Gelb oder Rot ergibt sich nur aus dem Anteil widerlegter oder irreführender Aussagen unter den bereits entschiedenen Tatsachenbehauptungen. Grau heißt: noch nicht bewertbar. Die Ampeln der Reaktionsvideos stehen auf der Seite des jeweiligen Interviews. <a href="#/methodik">So wird gerechnet</a></p></div>
       <ul class="ampel-overview">${list.map(item).join('')}</ul>
     </section>`;
@@ -577,7 +582,7 @@ async function pageHome() {
     return `<a class="card" href="#/video/${esc(v.id)}">
       ${thumbImg(v.id, v.video?.videoUrl || scope?.videoUrl, 'card-thumb')}
       ${ampelView(v)}
-      <div class="claim-top">${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
+      <div class="claim-top">${shortBadge(v)}${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
       ${v.meta.Status ? `<span class="small">${esc(v.meta.Status)}</span>` : ''}</div>
       <h3>${esc(v.title)}</h3>
       <ul class="facts">${videoFacts(v)}</ul>
@@ -1121,6 +1126,7 @@ function pageMethod() {
       <ul>
         <li><strong>Grundlage:</strong> nur abgeschlossen bewertete Tatsachenbehauptungen mit dem Ergebnis belegt, teilweise belegt, irreführend oder widerlegt („entschieden“). Meinungen, Prognosen, offene, laufende, nicht überprüfbare und nicht ausreichend belegbare Aussagen zählen nicht mit.</li>
         <li><strong>Fehleranteil</strong> = (widerlegt + irreführend) ÷ entschiedene Tatsachenbehauptungen. Teilweise belegt zählt nicht als Fehler.</li>
+        <li><strong>YouTube Shorts:</strong> Ein Short wird immer vollständig erfasst, nicht nur in Auswahl. Weil er meist nur wenige Aussagen enthält, reichen dort ${FactAmpel.RULES.short.minDecided} entschiedene Tatsachenbehauptungen, wenn mindestens die Hälfte der erfassten entschieden ist. Bei so wenigen Aussagen kann schon eine einzige widerlegte die Farbe ändern; die Basis steht deshalb immer daneben.</li>
       </ul>
       <ul class="verdict-list">
         <li>${ampelDemo('gruen')}<p>${esc(FactAmpel.LEVELS.gruen.text)}</p></li>

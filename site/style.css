@@ -482,6 +482,19 @@ body.vc-lock { overflow: hidden; }
 @media print { .vc-toolbar, .vc-frame { display: none; } .vc-scroll { max-height: none; overflow: visible; } }
 /* Zustimmungs- und Fehlerhinweis bestimmen ihre Höhe selbst (auf schmalen Bildschirmen wäre 16:9 zu niedrig). */
 .vc-frame:has(> .vc-consent) { aspect-ratio: auto; min-height: 220px; }
+/* YouTube Shorts (docs/SHORTS.md): Hochformat 9:16. Der Player wird höchstens so hoch wie das Fenster
+   erlaubt und steht mittig; die Aussagenliste bekommt nebeneinander den übrigen Platz. */
+.vc[data-format="short"] .vc-frame { aspect-ratio: 9 / 16; width: min(100%, calc((100vh - 140px) * 9 / 16)); min-width: min(100%, 240px); margin: 0 auto; }
+.vc[data-format="short"] .vc-frame:has(> .vc-consent) { aspect-ratio: auto; width: 100%; }
+.vc[data-format="short"][data-layout="stack"] .vc-player-col { max-width: 480px; }
+@media (min-width: 900px) {
+  .vc[data-format="short"][data-layout="side"] .vc-grid { grid-template-columns: minmax(280px, 440px) minmax(0, 1fr); }
+  .vc.is-expanded[data-format="short"][data-layout="side"] .vc-grid { grid-template-columns: minmax(280px, calc((100vh - 120px) * 9 / 16)) minmax(340px, 1fr); }
+  .vc.is-expanded[data-format="short"][data-layout="side"] .vc-frame { width: 100%; max-height: calc(100vh - 120px); }
+  .vc.is-expanded[data-format="short"][data-layout="stack"] .vc-player-col { max-width: max(240px, calc((100vh - 360px) * 9 / 16)); }
+  .vc.is-expanded[data-format="short"][data-layout="stack"] .vc-frame { width: 100%; }
+}
+.badge.format-short { background: var(--accent-soft); color: var(--accent-ink); border-color: transparent; font-weight: 600; }
 .vc-frame > .vc-consent { position: static; min-height: 100%; }
 @media (max-width: 899px) { .vc .seg { display: none; } }
 

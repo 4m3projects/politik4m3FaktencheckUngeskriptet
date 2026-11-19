@@ -133,3 +133,7 @@ Erstellt von: Claude. Überschrift „Fundstellen im Zeitverlauf“, Genauigkeit
 ## Berichtswechsel ohne Sprung nach oben
 
 Erstellt von: Claude. Ein Klick auf einen Bericht (Berichtsnavigation oder Link im Berichtstext) scrollt direkt zum Anfang des gewählten Berichts, knapp unter der Kopfleiste; die Scrollposition der Berichtsnavigation bleibt erhalten. Direktaufrufe und Neuladen beginnen oben. Geprüft in `site/relations-browser-test.js` (Desktop und 390 px).
+
+## YouTube Shorts
+
+Videos mit `"format": "short"` in `video.json` (oder ohne `video.json` mit einer `/shorts/`-Adresse) tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „Short“. In der Video-Ansicht steht der Player im Hochformat 9:16 und ist höchstens so hoch wie das Fenster; nebeneinander bekommt die Aussagenliste den übrigen Platz, untereinander ist der Player schmal und mittig. Die Faktenampel nutzt für Shorts eine eigene Mindestgrundlage (docs/AMPEL.md). Erfassung und Datenmodell: [SHORTS.md](SHORTS.md).
