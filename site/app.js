@@ -548,7 +548,8 @@ function ampelView(v, variant = '') {
   </div>`;
 }
 
-/* Übersicht auf der Startseite: alle Videos mit ihrer Faktenampel, Originale zuerst. */
+/* Methodik, Abschnitt Faktenampel: aktuelle Einstufung aller Videos, Originale zuerst.
+   Steht nicht auf der Startseite, damit dort direkt die geprüften Videos folgen. */
 function ampelOverview(all) {
   const list = all.filter(v => v.data).sort((a, b) => (a.video?.role === 'reaction') - (b.video?.role === 'reaction') || FactRelations.compareVideoRecency(a, b));
   if (!list.length) return '';
@@ -556,11 +557,11 @@ function ampelOverview(all) {
     const role = v.video?.role === 'reaction' ? `Reaktion von ${v.video.channel}` : (v.video?.channel || v.meta?.Kanal && stripMd(v.meta.Kanal) || 'Faktencheck');
     return `<li><a class="ampel-row" href="#/video/${esc(v.id)}">${ampelView(v, 'big')}<span class="ampel-row-title"><strong>${esc(v.video?.title || v.title)}</strong><span class="small">${esc(role)}</span></span></a></li>`;
   };
-  return `<section class="section" id="ampel-uebersicht" aria-labelledby="h-ampel">
-      <div class="section-head"><h2 id="h-ampel">Faktenampel: alle Videos auf einen Blick</h2>
-      <p>Grün, Gelb oder Rot ergibt sich nur aus dem Anteil widerlegter oder irreführender Aussagen unter den bereits entschiedenen Tatsachenbehauptungen. Grau heißt: noch nicht bewertbar. Die Ampeln der Reaktionsvideos stehen auf der Seite des jeweiligen Interviews. <a href="#/methodik">So wird gerechnet</a></p></div>
+  return `<div id="ampel-uebersicht">
+      <h3 id="h-ampel">Alle Videos auf einen Blick</h3>
+      <p>So stehen die Ampeln nach dieser Regel gerade. Die Ampeln der Reaktionsvideos stehen zusätzlich auf der Seite des jeweiligen Interviews.</p>
       <ul class="ampel-overview">${list.map(item).join('')}</ul>
-    </section>`;
+    </div>`;
 }
 
 async function pageHome() {
@@ -614,8 +615,6 @@ async function pageHome() {
     </div>
   </section>
   <div class="wrap">
-    ${ampelOverview(shown)}
-    ${progressOverview(all)}
     <section class="section" aria-labelledby="h-hintergrund">
       <div class="section-head"><h2 id="h-hintergrund">Warum wir „ungeskriptet“ prüfen</h2></div>
       <p>Die Frage nach der Verantwortung für Tatsachenbehauptungen in Interviews wurde 2026 öffentlich diskutiert: Nach einem Interview mit Björn Höcke wies die Landesanstalt für Medien NRW in einem Hinweisschreiben darauf hin, dass eine nachweislich falsche Aussage über eine Losung der SA im Interview nicht eingeordnet worden war. Die Behörde ordnet „ungeskriptet by Ben“ als journalistisch-redaktionelles Angebot ein und verweist auf die journalistischen Sorgfaltspflichten.</p>
@@ -624,10 +623,11 @@ async function pageHome() {
       <p class="small">Zum Hintergrund: <a href="https://www.medienanstalt-nrw.de/presse/pressemitteilungen/pressemitteilungen-2026/2026/september/landesanstalt-fuer-medien-nrw-schliesst-pruefung-im-fall-ungeskriptet-by-ben-ab.html" target="_blank" rel="noopener noreferrer">Mitteilung der Landesanstalt für Medien NRW vom 24.09.2026</a> · <a href="https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-hoecke-interview-podcaster-verklagt-die-nrw-medienaufsicht-wegen-pruefung-100.html" target="_blank" rel="noopener noreferrer">WDR-Bericht vom 29.10.2026 zur Klage</a></p>
     </section>
     <section class="section" aria-labelledby="h-videos">
-      <div class="section-head"><h2 id="h-videos">Geprüfte Originalinterviews</h2><p>Zuletzt veröffentlichte oder geprüfte Interviews zuerst. Reaktionen und Faktenchecks anderer Kanäle stehen jeweils auf der Seite des Interviews, auf das sie sich beziehen.</p></div>
+      <div class="section-head"><h2 id="h-videos">Geprüfte Originalinterviews</h2><p>Zuletzt veröffentlichte oder geprüfte Interviews zuerst. Reaktionen und Faktenchecks anderer Kanäle stehen jeweils auf der Seite des Interviews, auf das sie sich beziehen. Was die Faktenampel auf jeder Karte bedeutet, erklärt die <a href="#/methodik#ampel">Methodik</a>.</p></div>
       ${cards ? thumbPrompt() : ''}
       <div class="cards">${cards || '<p class="muted">Noch keine Faktenchecks veröffentlicht.</p>'}</div>
     </section>
+    ${progressOverview(all)}
     ${otherCards ? `<section class="section" aria-labelledby="h-other">
       <div class="section-head"><h2 id="h-other">Noch nicht eingeordnet</h2><p>Für diese Analysen ist noch nicht belegt, ob es sich um ein Originalinterview oder eine Reaktion handelt.</p></div>
       <div class="cards">${otherCards}</div>
@@ -1099,7 +1099,8 @@ async function pageRelations(id) {
   window.scrollTo(0, 0);
 }
 
-function pageMethod() {
+async function pageMethod() {
+  const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   setPage(`<div class="wrap">
     <nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / Methodik</nav>
     <header class="video-head"><h1>So prüfen wir</h1>
@@ -1136,6 +1137,7 @@ function pageMethod() {
         <li>${ampelDemo('vorlaeufig')}<p>${esc(FactAmpel.LEVELS.vorlaeufig.text)} Das gilt bei laufender Analyse oder wenn Einzelprüfungen ausstehen und die Grundlage noch zu klein ist, etwa gemessen an der Videolaufzeit.</p></li>
       </ul>
       <p class="small">Die Ampel beschreibt nur den geprüften Bestand, nicht das ganze Video, und ist keine Glaubwürdigkeitsnote für Personen. Neben ihr steht immer, auf wie vielen Aussagen sie beruht. Darstellungshinweise (Maßstab 2) verändern sie nie. Die Ampel wird nirgends gespeichert und von niemandem gesetzt: Sie wird bei jedem Aufruf nach einer einzigen, hier beschriebenen Regel berechnet. Ändert sich eine Einzelbewertung oder die Regel selbst, werden alle Videos automatisch neu eingestuft, ohne neue Prüfung.</p>
+      ${ampelOverview(all)}
     </section>
 
     <section class="section prose-plain" id="gegendarstellung"><h2>Gegendarstellung aus einem anderen Video</h2>
@@ -1350,7 +1352,7 @@ async function routePage() {
       return await pageVideo(parts[1]);
     }
     if (parts[0].split('#')[0] === 'methodik') {
-      pageMethod();
+      await pageMethod();
       const anchor = parts[0].split('#')[1];
       if (anchor) document.getElementById(anchor)?.scrollIntoView();
       return;
