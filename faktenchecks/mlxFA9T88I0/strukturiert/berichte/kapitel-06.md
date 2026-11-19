@@ -1238,7 +1238,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Wer Immobilien finanziert gekauft hat, muss jetzt höhere Zinsen zahlen und leidet unter höheren Grundsteuern.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1261,21 +1261,31 @@ Frueherer Suchbereich: [02:01:00–02:04:15](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Steigende Bauzinsen betreffen Anschlussfinanzierungen, nicht laufende Zinsbindungen; Grundsteuer hängt seit der Reform von Gemeinde und Grundstück ab. Keine Quelle gelesen; keine Bewertung.
+Die Bauzinsen sind 2026 deutlich gestiegen: Zehnjährige Darlehen kosteten im Herbst rund 4,3 bis 4,5 Prozent, den höchsten Stand seit 2009 bzw. 2011. Das trifft aber nur Käufer mit neuer Finanzierung und Eigentümer, deren Zinsbindung ausläuft (Anschlussfinanzierung); wer eine laufende Zinsbindung hat, zahlt bis zu deren Ende den vereinbarten Zins. Bei der Grundsteuer meldet der Eigentümerverband Haus & Grund für rund 80 Prozent der von ihm ausgewerteten Bescheide eine Erhöhung nach der Reform 2025; die Stichprobe ist aber nicht repräsentativ, und für rund ein Fünftel sank die Steuer. Die Aussage trifft damit auf viele, aber nicht pauschal auf alle Immobilienfinanzierer zu.
 
-Grundlage der Bewertung: Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Zwei Fachberichte zu Bauzinsen (Biallo 10/2026, Haufe/dpa 10/2026) sowie Bericht und Auswertung von Haus & Grund zur Grundsteuer gelesen. Keine amtliche Statistik zum Grundsteueraufkommen und keine Bundesbank-Zinsstatistik gelesen.
 
 Uebernahme: Immobilienfinanzierer, Unternehmensanlagen, Bärendienst-Wertung, Entlassungsursache und Vertuschungsthese getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Bauzins- und Grundsteuerberichte gelesen; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Anschlussfinanzierung wird teuer: Was Eigentümer jetzt tun sollten](https://www.biallo.de/baufinanzierung/news/anschlussfinanzierung-wird-teurer/) · Biallo, Stefanie Hutschenreuter, 12.10.2026; Biallo-Bauzins-Index für zehnjährige Darlehen 4,28 % am 18.09.2026, höchster Stand seit 2011; Belastung bei auslaufender Zinsbindung.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Bauzins-Index 4,28 % (09/2026); Mehrbelastung bei auslaufender Zinsbindung.
+
+- [Bauzinsen auf 17-Jahres-Hoch: Was Käufer wissen müssen](https://www.haufe.de/immobilien/investment/immobilienfinanzierung-die-zinswende-ist-da_256_455806.html) · Haufe Online Redaktion mit dpa, 27.10.2026; zehnjährige Darlehen knapp 4,5 % (Interhyp), rund 200 Euro höhere Monatsrate bei durchschnittlicher Finanzierung.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Knapp 4,5 % für zehnjährige Darlehen, höchster Wert seit 2009.
+
+- [Verband: Grundsteuer für Mehrheit der Eigentümer gestiegen](https://www.stuttgarter-zeitung.de/politik/auswertung-von-haus-grund-verband-grundsteuer-fuer-mehrheit-der-eigentuemer-gestiegen-78911788.html) · Stuttgarter Zeitung (AFP), 23.04.2025; Bericht über die Auswertung von 1.999 Bescheiden durch Haus & Grund, Auswahlkriterien nicht angegeben; Bundesregierung hält am Ziel der Aufkommensneutralität fest.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Haus & Grund: Grundsteuer in 79 % der Fälle gestiegen oder nahezu konstant, in 21 % gesunken; Auswahlkriterien fehlen.
+
+- [Aktuelle Zahlen zur Grundsteuer](https://www.hausundgrund.de/aktuelle-zahlen-zur-grundsteuer) · Haus & Grund Deutschland (Eigentümerverband), undatiert; Auswertung von 1.999 Rückmeldungen, in rund 80 % der Fälle höhere Grundsteuer; nicht repräsentative Mitgliederstichprobe.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Rund 80 % höhere Grundsteuer in der Verbandsstichprobe.
 
 ### Offene Fragen und Unsicherheiten
 
-- Bauzinsentwicklung (Bundesbank) und Grundsteuerreform-Auswirkungen lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0294
 
