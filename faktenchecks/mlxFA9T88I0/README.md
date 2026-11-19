@@ -27,5 +27,3 @@ Die Zeitmarken dienen dazu, unsere Einordnung am Original nachzuvollziehen. Unse
 ## Lizenz
 
 Eigene Projektbeiträge stehen im Umfang der vorhandenen Rechte unter der [MIT-Lizenz](../../LICENSE). Rechte am verlinkten Original und an Drittquellen werden nicht eingeräumt.
-
-[Codex] Nachrecherche vom 19. November 2026. Bei zwei Aussagen zum Transport von Whisky in Fässern gibt eine britische Ministerantwort von 1994 einen öffentlichen Rechercheansatz. Die Zuordnung zu dem im Interview gemeinten Vorhaben wird weiter geprüft. [Britisches Parlamentsprotokoll](https://api.parliament.uk/historic-hansard/written-answers/1994/nov/02/scotch-whisky-transportation)
