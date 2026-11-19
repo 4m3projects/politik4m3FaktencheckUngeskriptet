@@ -1158,7 +1158,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Deutschland übernimmt Ausgaben, die die USA zuvor über USAID finanziert und dann gestoppt haben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1181,21 +1181,25 @@ Frueherer Suchbereich: [01:33:30–01:34:50](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Konkrete Programme, Jahre und Beträge fehlen; keine Quelle gelesen.
+In den gelesenen Quellen findet sich keine allgemeine Übernahme früher von USAID finanzierter Programme durch Deutschland. Die SWP beschreibt im April 2025 erwartete Kürzungen auch bei europäischen Gebern und fordert lediglich, Folgen abzufedern; Deutschland sagte im Oktober 2025 trotz Haushaltskürzungen 1 Mrd. Euro für den Globalen Fonds 2026–2028 zu, ohne dass dies als Ersatz für US-Mittel ausgewiesen ist. Ob einzelne frühere USAID-Projekte von Deutschland weitergeführt werden, bleibt ohne konkrete Programme und Beträge offen.
 
-Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: SWP-Analyse (04/2025) und dpa-Bericht zur Zusage an den Globalen Fonds (10/2025) gelesen; keine Haushaltstitel des BMZ geprüft.
 
 Uebernahme: USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): USAID-Folgen und deutsche Zusagen recherchiert; von Offen auf Nicht ausreichend belegbar.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [US ohne AID?](https://www.swp-berlin.org/publikation/us-ohne-aid) · Stiftung Wissenschaft und Politik, Biehler u. a., 04.04.2025; Folgen des USAID-Stopps, Kürzungen auch europäischer Geber.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Kürzungen auch europäischer Geber, keine Übernahme berichtet.
+
+- [Germany steps up global health funding with €1b as US cancels support](https://www.ghanabusinessnews.com/2025/10/12/germany-steps-up-global-health-funding-with-e1b-as-us-cancels-support/) · Ghana Business News mit dpa, 12.10.2025; deutsche Zusage von 1 Mrd. Euro an den Globalen Fonds für 2026–2028.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. 1 Mrd. Euro an den Globalen Fonds trotz Haushaltskürzungen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Haushaltsposten oder Regierungsangaben zu ersetzten USAID-Programmen lesen.
+- Konkrete Programme, die nach dem USAID-Stopp aus dem BMZ- oder AA-Haushalt weiterfinanziert werden.
 
 ## mlxFA9T88I0-A0245
 
@@ -2182,7 +2186,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Bei der Griechenlandrettung seien nicht Griechenland, sondern die Banken und Lebensversicherer gerettet worden, die griechische Anleihen hielten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2205,21 +2209,25 @@ Frueherer Suchbereich: [01:43:00–01:47:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Strittige Deutung der Rettungsprogramme; Anteile der Mittel, die an private Gläubiger flossen, wären an Studien prüfbar. Keine Quelle gelesen.
+Nach der ESMT-Studie (Rocholl/Stahmer 2016) flossen von rund 216 Mrd. Euro der ersten beiden Programme weniger als 5 % in den griechischen Haushalt für andere Zwecke als den Schuldendienst; rund 64 % dienten Tilgung und Zinsen, rund 17 % der Rekapitalisierung griechischer Banken und rund 14 % dem Schuldenschnitt privater Gläubiger 2012. Dass vor allem Gläubiger, darunter Banken, profitierten, ist damit gut gestützt. Die Gegenposition, ein ungeordneter Staatsbankrott hätte auch Griechenland selbst schwer getroffen, wird in der Debatte ebenfalls vertreten; „nicht Griechenland gerettet“ ist daher eine Deutung. Lebensversicherer werden in den gelesenen Quellen nicht eigens beziffert.
 
-Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Debattenbeitrag des INET mit den Zahlen der ESMT-Studie und Dokumentation der Blätter gelesen; Vollstudie nicht gelesen.
 
 Uebernahme: Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): ESMT-Studie zur Mittelverwendung recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Debate: How is the Greek rescue package being spent?](https://ineteconomics.org/perspectives/blog/debate-how-is-the-greek-rescue-package-being-spent) · Institute for New Economic Thinking, Pablo Gabriel Bortz, 17.05.2016; Zahlen der ESMT-Studie (Rocholl/Stahmer 2016) und Gegenpositionen.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Mittelverwendung nach ESMT, Gegenpositionen (Colasanti, Sinn).
+
+- [Die Griechenlandkredite gingen überwiegend an die Gläubiger](https://www.blaetter.de/node/27252) · Blätter für deutsche und internationale Politik, Dokumentation der ESMT-Studie vom 04.05.2016.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Kernaussage der ESMT-Studie, Risikoverlagerung auf öffentliche Gläubiger.
 
 ### Offene Fragen und Unsicherheiten
 
-- Studien zur Mittelverwendung der Griechenland-Programme lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0266
 
