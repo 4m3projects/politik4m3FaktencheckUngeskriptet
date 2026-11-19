@@ -1,6 +1,8 @@
 # Das Ende von Deutschland steht bevor (Markus Krall)
 
-[Codex] Stand 2026-11-18 · {ungeskriptet} by Ben · Upload 2026-10-17 · **Teilbestand geprüft**.
+[Codex] Stand 2026-11-18 · {ungeskriptet} by Ben · **Teilbestand geprüft**.
+
+- Veröffentlichung: 2026-10-17
 
 [Video auf YouTube](https://www.youtube.com/watch?v=OQnvClWgN-g) · [Gemeinsamer Vergleich](#/video/OQnvClWgN-g/bericht/vergleich.md) · [Prüfbericht](strukturiert/README.md)
 

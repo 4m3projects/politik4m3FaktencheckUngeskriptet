@@ -1,5 +1,11 @@
 # Agentenanweisungen – Politik4M3 Faktencheck Ungeskriptet
 
+## Startseite nach Aktualität
+
+- Bei neuen Folgen das belegte YouTube-Veröffentlichungsdatum in `faktenchecks/<ID>/README.md` als `- Veröffentlichung: JJJJ-MM-TT` erfassen. Ist das Datum ungeklärt, bleibt es ohne Datumswert.
+- Bei der Erstanalyse oder einer inhaltlichen Nachprüfung den tatsächlichen Prüfstichtag in `strukturiert/aussagen.json` unter `scope.asOf` pflegen. Reine Format-, Datei- oder Webseitenänderungen setzen ihn nicht hoch.
+- Die Startseite sortiert automatisch absteigend nach dem jüngeren Datum aus Veröffentlichung und Faktencheck-Datenstand. Bei Gleichstand zählt die spätere Veröffentlichung. Einträge ohne bekanntes Datum stehen am Ende.
+
 ## Transkripte für Video-Faktenchecks
 
 **Pflichtlektüre für alle Agenten:** [docs/AGENTEN_TRANSKRIPTION.md](docs/AGENTEN_TRANSKRIPTION.md). Zuerst das Transkript im Originalplayer suchen. Falls es fehlt, kann eine privat abgelegte Audiodatei lokal mit Whisper transkribiert werden. Zeitmarken, Wortlaut und Sprecherzuordnung am Original abgleichen.

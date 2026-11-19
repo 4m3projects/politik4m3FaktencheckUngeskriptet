@@ -16,6 +16,22 @@ const clone = x => JSON.parse(JSON.stringify(x));
 const errs = (rel, videos = F.VIDEOS) => R.validateRelations(rel, F.videoMap(videos));
 const has = (list, re) => assert.ok(list.some(e => re.test(e)), 'erwartet: ' + re + '\nerhalten: ' + list.join(' | '));
 
+test('Startseite sortiert nach dem jüngeren Datum aus Prüfstand und Veröffentlichung', () => {
+  const video = (id, asOf, meta = {}) => ({ id, meta, data: asOf ? { scope: { asOf } } : null });
+  const entries = [
+    video('ohne-datum', null),
+    video('alt', '2026-11-18', { Veröffentlichung: '2025-08-23' }),
+    video('neuer-upload', '2026-11-17', { Veröffentlichung: '2026-11-20' }),
+    video('gleichstand', '2026-11-18', { 'Veröffentlichung laut erfassten Metadaten': '9.11.2026' }),
+    video('nachrecherche', '2026-11-19', { Veröffentlichung: '2024-02-29' }),
+    video('nur-upload', null, { 'Upload laut Metadaten': '18.11.2026; Laufzeit: 1:00' }),
+    video('ungueltig', null, { Veröffentlichung: '31.02.2026' }),
+  ];
+  assert.deepEqual(entries.sort(R.compareVideoRecency).map(v => v.id), [
+    'neuer-upload', 'nachrecherche', 'nur-upload', 'gleichstand', 'alt', 'ohne-datum', 'ungueltig',
+  ]);
+});
+
 test('Fixtures sind gültig und klar als fiktiv gekennzeichnet', () => {
   assert.deepEqual(errs(F.RELATIONS), []);
   for (const [id, v] of Object.entries(F.VIDEOS)) {

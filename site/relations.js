@@ -51,6 +51,30 @@
   const https = x => typeof x === 'string' && /^https:\/\/\S+$/.test(x);
   const isoDate = x => typeof x === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(x);
 
+  function videoPublication(meta) {
+    return meta?.Veröffentlichung || meta?.['Veröffentlichung laut erfassten Metadaten'] ||
+      meta?.['Veröffentlichung laut direkt abgerufenen Metadaten'] || meta?.['Upload laut Metadaten'] || '';
+  }
+
+  function sortableDate(value) {
+    const text = String(value || '').trim().replace(/^\*\*/, '');
+    const german = /^(\d{1,2})\.(\d{1,2})\.(\d{4})(?!\d)/.exec(text);
+    const date = german ? [german[3], german[2].padStart(2, '0'), german[1].padStart(2, '0')].join('-') :
+      /^\d{4}-\d{2}-\d{2}(?!\d)/.exec(text)?.[0];
+    const time = Date.parse(date);
+    return Number.isFinite(time) && new Date(time).toISOString().slice(0, 10) === date ? date : '';
+  }
+
+  function compareVideoRecency(a, b) {
+    const pubA = sortableDate(videoPublication(a.meta));
+    const pubB = sortableDate(videoPublication(b.meta));
+    const checkedA = sortableDate(a.data?.scope?.asOf);
+    const checkedB = sortableDate(b.data?.scope?.asOf);
+    const latestA = checkedA > pubA ? checkedA : pubA;
+    const latestB = checkedB > pubB ? checkedB : pubB;
+    return latestB.localeCompare(latestA) || pubB.localeCompare(pubA) || a.id.localeCompare(b.id);
+  }
+
   /* Metadaten eines Videos (video.json). Gibt eine Liste von Fehlern zurück, leer = gültig. */
   function validateVideoMeta(m, dirId) {
     const e = [];
@@ -178,5 +202,5 @@
   };
 
   return { ROLES, REACTION_TYPES, WORK_STATUS, LINK_TYPES, RESOLUTIONS, POLARITY, STATE_TEXT,
-    validateVideoMeta, validateRelations, compareLink, buildIndex, findClaim };
+    validateVideoMeta, validateRelations, compareLink, buildIndex, findClaim, videoPublication, compareVideoRecency };
 });
