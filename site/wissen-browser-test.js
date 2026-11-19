@@ -34,7 +34,14 @@ function buildSite() {
   }
   fs.copyFileSync(path.join(base, 'beziehungen.json'), path.join(out, 'daten', 'beziehungen.json'));
   fs.writeFileSync(path.join(out, 'daten', 'index.json'), JSON.stringify({ generated: new Date().toISOString(), commit: 'test', repository: '4m3projects/politik4m3FaktencheckUngeskriptet', videos }));
-  execFileSync(process.execPath, [path.join(ROOT, 'scripts', 'wissen.js'), 'export', path.join(out, 'daten', 'wissen.json')]);
+  const wf = path.join(out, 'daten', 'wissen.json');
+  execFileSync(process.execPath, [path.join(ROOT, 'scripts', 'wissen.js'), 'export', wf]);
+  // Nur im Test: ein ausgedachter umgesetzter Korrekturvorgang, um das öffentliche Protokoll zu prüfen.
+  const w = JSON.parse(fs.readFileSync(wf, 'utf8'));
+  w.corrections = (w.corrections || []).concat({ id: 'UG-C9999', kind: 'Fehlbewertung', date: '2026-11-19', decidedBy: 'Test', basis: 'Testvorgang.', description: 'Testkorrektur für den Browsertest.',
+    evidence: [{ title: 'Testquelle', url: 'https://example.org/test', accessedOn: '2026-11-19', finding: 'Testbefund.' }],
+    changes: [{ target: 'L7E04TJtRBU-A0012', field: 'verdict', before: 'Teilweise belegt', after: 'Belegt' }], topics: ['geld/ezb'] });
+  fs.writeFileSync(wf, JSON.stringify(w));
   return out;
 }
 
@@ -118,6 +125,19 @@ async function step(name, fn) {
     for (const id of linked) assert.ok(!ids.includes(id), id + ' doppelt');
     assert.match(txt, /Wissenseintrag/);
     await shot('thema-ezb');
+  });
+  await step('Korrekturprotokoll: Übersicht und betroffene Themenseite, nicht auf fremden Themen', async () => {
+    await page.goto(url + '#/themen');
+    await page.waitForSelector('#korrekturen');
+    const t = await page.locator('#korrekturen').innerText();
+    assert.match(t, /UG-C9999/);
+    assert.match(t, /Teilweise belegt\s*→\s*Belegt/);
+    assert.match(await page.locator('#korrekturen .kb-changes a').first().getAttribute('href'), /^#\/video\/L7E04TJtRBU\/aussage\/L7E04TJtRBU-A0012$/);
+    for (const [id, expect] of [['geld', true], ['geld/ezb', true], ['klima', false]]) {
+      await page.goto(url + '#/thema/' + id);
+      await page.waitForSelector('h1');
+      assert.equal(await page.locator('#korrekturen').count(), expect ? 1 : 0, id);
+    }
   });
   await step('Internes Thema ist erreichbar und gekennzeichnet', async () => {
     await page.goto(url + '#/thema/argentinien');

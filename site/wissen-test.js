@@ -82,7 +82,7 @@ test('leerer Bestand und Projektdaten sind gültig', () => {
   const { load } = require('../scripts/wissen.js');
   const b = load(path.join(__dirname, '..'));
   assert.deepEqual(K.validateAll(b), []);
-  assert.equal(K.config(b.config).namespace, 'UG');
+  assert.match(K.config(b.config).namespace, /^[A-Z][A-Z0-9]{1,5}$/, 'eigenes Kürzel gesetzt (UG, HP …)');
 });
 
 test('synthetischer Bestand ist gültig', () => {
@@ -281,6 +281,8 @@ test('Korrektur: umgesetzte Änderung muss im Datenstand stehen', () => {
   const b = bundle();
   const ev = [{ title: 'Amt', url: 'https://destatis.de/x', accessedOn: '2026-11-19', finding: 'f' }];
   const done = correction({ status: 'Umgesetzt', evidence: ev, decision: { by: 'Jens', date: '2026-11-19', basis: 'b' }, changes: [{ target: VA + '-A0001', field: 'verdict', before: 'Widerlegt', after: 'Belegt' }] });
+  assert.ok(K.validateCorrection(done, ctxFor(b)).some(x => /migration.assessmentChange/.test(x)), 'Vermerk an der Aussage fehlt');
+  b.videos[0].facts.claims[0].migration = { changeType: 'x', mapping: 'x', assessmentChange: 'Korrektur UG-C0001 (2026-11-19, Test): vorher Widerlegt.' };
   assert.deepEqual(K.validateCorrection(done, ctxFor(b)), []);
   done.changes[0] = { target: VA + '-A0001', field: 'verdict', before: 'Belegt', after: 'Widerlegt' };
   assert.ok(K.validateCorrection(done, ctxFor(b)).some(x => /nicht auf dem umgesetzten Wert/.test(x)), 'nur behauptete Korrektur');
@@ -430,6 +432,56 @@ test('Agentenwerkzeug läuft auf dem echten Bestand', () => {
     assert.equal(main(['suche', 'Energiepreise', 'Industrie']), 0);
     assert.equal(main(['betroffen', '--quelle', 'https://www.destatis.de/']), 0);
     assert.equal(main(['suche']), 2);
+    assert.equal(main(['korrekturen']), 0);
+    assert.equal(main(['korrektur', '--quelle', 'https://www.destatis.de/', '--agent', 'Test']), 0, 'Entwurf ohne Speichern');
+    assert.equal(main(['korrektur']), 2);
+    assert.equal(main(['korrektur', '--aussage', 'x', '--art', 'Unsinn']), 2);
   } finally { process.stdout.write = orig; }
   assert.ok(out.join('').includes('OK: Wissensdatenbank gültig.'));
+});
+
+/* ------------------------------------------------------------ Korrekturablauf (Schritt 6) */
+
+test('Korrekturentwurf: nächste ID, alle Betroffenen, Status Gemeldet, gültig', () => {
+  const b = bundle();
+  b.entries = [entry()];
+  b.corrections = [correction()];
+  assert.equal(K.nextId('UG', 'C', ['UG-C0001', 'UG-C0009', 'HP-C0042']), 'UG-C0010');
+  assert.equal(K.nextId('HP', 'K', []), 'HP-K0001');
+  const d = K.draftCorrection(b, { claimId: VA + '-A0002', agent: 'Test', date: '2026-11-19', description: 'Quelle falsch gelesen.' });
+  assert.equal(d.id, 'UG-C0002');
+  assert.equal(d.status, 'Gemeldet');
+  const targets = d.affected.map(x => x.target);
+  assert.ok(targets.includes(VA + '-A0002') && targets.includes(VB + '-A0001') && targets.includes('UG-K0001'), targets.join(','));
+  assert.deepEqual(K.validateCorrection(d, ctxFor(b)), []);
+  assert.ok(K.needsHumanApproval(d, CFG), 'gleiche Quelle in vielen Aussagen: Freigabe nötig');
+  assert.throws(() => K.draftCorrection(b, {}));
+});
+
+test('Korrekturbericht nennt Freigabebedarf und nächsten Schritt', () => {
+  const b = bundle();
+  assert.match(K.correctionReport(b), /Keine Korrekturvorgänge/);
+  b.corrections = [correction(), correction({ id: 'UG-C0002', status: 'In Prüfung', affected: [1, 2, 3, 4].map(n => ({ target: VA + '-A000' + n, reason: 'r' })) })];
+  const md = K.correctionReport(b);
+  assert.match(md, /\| UG-C0001 \| Fehlbewertung \| Gemeldet \| 1 \| Regel möglich/);
+  assert.match(md, /\| UG-C0002 .*Mensch nötig .*Entscheidung durch Jens/);
+});
+
+test('Urteilsänderungen ohne Korrekturvorgang werden erkannt, abgedeckte nicht', () => {
+  const before = new Map([[VA + '-A0001', { status: 'Abgeschlossen', verdict: 'Belegt' }], [VA + '-A0002', { status: 'Abgeschlossen', verdict: 'Belegt' }], [VA + '-A0003', { status: 'Offen', verdict: null }]]);
+  const after = new Map([[VA + '-A0001', { status: 'Abgeschlossen', verdict: 'Widerlegt' }], [VA + '-A0002', { status: 'Abgeschlossen', verdict: 'Widerlegt' }], [VA + '-A0003', { status: 'Abgeschlossen', verdict: 'Belegt' }]]);
+  const corr = correction({ status: 'Umgesetzt', changes: [{ target: VA + '-A0002', field: 'verdict', before: 'Belegt', after: 'Widerlegt' }] });
+  assert.deepEqual(K.uncoveredVerdictChanges(before, after, [corr]), [{ id: VA + '-A0001', before: 'Belegt', after: 'Widerlegt' }], 'Erstprüfung (Offen) zählt nicht');
+});
+
+test('Öffentliches Korrekturprotokoll: nur umgesetzte Vorgänge, mit Themen', () => {
+  const b = bundle();
+  const ev = [{ title: 'Amt', url: 'https://destatis.de/x', accessedOn: '2026-11-19', finding: 'f' }];
+  b.corrections = [correction(), correction({ id: 'UG-C0002', status: 'Umgesetzt', evidence: ev, decision: { by: 'Jens', date: '2026-11-20', basis: 'Primärquelle.' }, changes: [{ target: VA + '-A0002', field: 'verdict', before: 'Belegt', after: 'Widerlegt' }] })];
+  const pub = K.exportIndex(b).corrections;
+  assert.equal(pub.length, 1);
+  assert.equal(pub[0].id, 'UG-C0002');
+  assert.deepEqual(pub[0].topics, ['atomkraft/sicherheit']);
+  assert.equal(pub[0].changes[0].before, 'Belegt');
+  assert.equal(pub[0].decidedBy, 'Jens');
 });
