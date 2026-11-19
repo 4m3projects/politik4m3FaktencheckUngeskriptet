@@ -1701,7 +1701,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Der Staat tilgt alte Schulden, indem er neue aufnimmt, und nimmt darüber hinaus zusätzliche Kredite auf.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1724,21 +1724,25 @@ Frueherer Suchbereich: [01:35:00–01:37:00](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Die Anschlussfinanzierung fälliger Schulden ist üblich und Teil der Bruttokreditaufnahme. Für den hier konkret behaupteten Umfang wurde keine Zahl geprüft; als allgemeiner Mechanismus unstrittig, aber ohne gelesene Quelle keine Endbewertung.
+Die Finanzagentur des Bundes weist für das vierte Quartal 2026 Tilgungen von 79 Mrd. Euro aus, denen Neuemissionen von rund 106 Mrd. Euro gegenüberstehen. Für 2026 insgesamt nennt die Börsen-Zeitung eine Kreditaufnahme von rund 525,5 Mrd. Euro bei Fälligkeiten von 309 Mrd. Euro; der Bund refinanziert also fällige Schulden mit neuen Wertpapieren und nimmt zusätzlich netto neue Kredite auf. Das ist übliche Praxis der Schuldenverwaltung, nicht ein Sonderfall.
 
-Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Pressemitteilung der Finanzagentur vom 24.09.2026 und Bericht der Börsen-Zeitung vom selben Tag gelesen; Jahreswerte aus dem Pressebericht, Quartalswerte aus der Primärquelle.
 
 Uebernahme: Geldmengenprognose, Staatsinsolvenz (Behauptung des Moderators und Zurückweisung des Gastes) und Refinanzierung getrennt. Die Kreditkartenanalogie ist ein Gedankenmodell, keine Tatsachenbehauptung.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Finanzagentur-Pressemitteilung und Börsen-Zeitung gelesen; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Emissionen des Bundes im vierten Quartal 2026](https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Pressemitteilung/dt/2026/2026_09_24_PM_08_Emissionen_des_Bundes_im_vierten_Quartal_2026.pdf) · Deutsche Finanzagentur, Pressemitteilung Nr. 8 vom 24.09.2026; Emissionen und Tilgungen (79 Mrd. Euro) im 4. Quartal 2026.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Tilgungen Q4/2026 79 Mrd. Euro, Emissionen rund 106 Mrd. Euro.
+
+- [Bund muss 2027 mehr Anleihen begeben](https://www.boersen-zeitung.de/news/bz-all-rss/kapitalmaerkte/bund-muss-2027-mehr-kredite-aufnehmen) · Börsen-Zeitung, 24.09.2026; Kreditaufnahme 2026 rund 525,5 Mrd. Euro bei Fälligkeiten von 309 Mrd. Euro, Anschlussfinanzierung und steigende Nettokreditaufnahme.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. 2026: 525,5 Mrd. Euro Kreditaufnahme, 309 Mrd. Euro Fälligkeiten; Anschlussfinanzierung und wachsende Nettokreditaufnahme.
 
 ### Offene Fragen und Unsicherheiten
 
-- Bruttokreditaufnahme und Tilgungen laut Kreditaufnahmebericht 2025 gegenüberstellen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0256
 
@@ -1893,7 +1897,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Wenn eine Ratingagentur herabstuft, folgen die anderen erfahrungsgemäß innerhalb eines Viertel- bis halben Jahres.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1916,21 +1920,25 @@ Frueherer Suchbereich: [01:41:00–01:42:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Allgemeine Erfahrungsregel ohne Belege; keine Studie zu Folgeherabstufungen gelesen.
+Studien zu Staatenratings finden eine deutliche gegenseitige Abhängigkeit: Nach einer Herabstufung durch eine Agentur werden Herabstufungen durch andere Agenturen wahrscheinlicher (Alsakka/ap Gwilym 2010). Eine EZB-Studie zu europäischen Daten findet aber, dass die Agenturen innerhalb von ein bis zwei Wochen aufeinander reagieren, ohne feste Führungsrolle einer Agentur. Dass andere Agenturen regelmäßig folgen, ist damit gestützt; die genannte Frist von einem Viertel- bis halben Jahr als Erfahrungsregel ist mit den gelesenen Quellen nicht belegt, und ein Nachziehen ist keine feste Regel.
 
-Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Kurzfassung von Alsakka/ap Gwilym (2010) und EZB-Working-Paper 1347 (Afonso/Furceri/Gomes 2011), Abschnitt 4.3, gelesen; Volltext der erstgenannten Studie nicht zugänglich.
 
 Uebernahme: Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): zwei Studien zu Folgeentscheidungen der Ratingagenturen gelesen; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Leads and lags in sovereign credit ratings](https://ideas.repec.org/a/eee/jbfina/v34y2010i11p2614-2626.html) · Alsakka/ap Gwilym, Journal of Banking & Finance 34(11), 2010; Kurzfassung zur gegenseitigen Abhängigkeit der Ratingentscheidungen (Volltext nicht gelesen).
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Herabstufung einer Agentur erhöht die Wahrscheinlichkeit weiterer Herabstufungen.
+
+- [Sovereign credit ratings and financial markets linkages: application to European data](https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1347.pdf) · Afonso/Furceri/Gomes, EZB-Working-Paper Nr. 1347, Juni 2011; Abschnitt 4.3 zur Reaktion der Agenturen aufeinander.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Agenturen reagieren innerhalb von ein bis zwei Wochen aufeinander.
 
 ### Offene Fragen und Unsicherheiten
 
-- Empirische Untersuchungen zu Ratingfolgeentscheidungen bei Staaten lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0260
 
