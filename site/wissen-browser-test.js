@@ -72,6 +72,9 @@ async function step(name, fn) {
   page.on('pageerror', e => errors.push(e.message));
   page.on('console', m => { if (m.type() === 'error') errors.push(m.text()); });
   await page.route(/^https?:\/\/(?!127\.0\.0\.1)/, r => r.abort());
+  // Vorschaubilder nicht aus dem Netz laden: ein graues Ersatzbild statt YouTube.
+  const png = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mN8+v9/PQAJaAPNQ6R2HgAAAABJRU5ErkJggg==', 'base64');
+  await page.route(/^https:\/\/i\.ytimg\.com\//, r => r.fulfill({ status: 200, contentType: 'image/png', body: png }));
   const shot = async name => { if (process.env.SCREENSHOTS) await page.screenshot({ path: path.join(process.env.SCREENSHOTS, name + '.png'), fullPage: true }); };
 
   await step('Navigation enthält „Themen“', async () => {
@@ -125,6 +128,33 @@ async function step(name, fn) {
     for (const id of linked) assert.ok(!ids.includes(id), id + ' doppelt');
     assert.match(txt, /Wissenseintrag/);
     await shot('thema-ezb');
+  });
+  await step('Wissenseintrag: aufklappbare Videoliste mit Links zur Aussage und zur Stelle', async () => {
+    await page.goto(url + '#/thema/geld');
+    await page.waitForSelector('h1');
+    const occ = page.locator('.kb-entry .kb-occ').first();
+    assert.equal(await occ.count(), 1, 'Videoliste fehlt');
+    assert.match(await occ.locator('summary').innerText(), /In \d+ von uns geprüften Videos/);
+    assert.equal(await occ.locator('.occ-list').isVisible(), false, 'zunächst eingeklappt');
+    await occ.locator('summary').click();
+    await occ.locator('.occ-list').waitFor();
+    const items = occ.locator('.occ-item');
+    assert.ok(await items.count() >= 2, 'mindestens zwei Videos');
+    const hrefs = await items.locator('a[href^="#/video/"]').evaluateAll(as => as.map(a => a.getAttribute('href')));
+    assert.ok(hrefs.every(h => /^#\/video\/[A-Za-z0-9_-]{11}\/aussage\/[A-Za-z0-9_-]{11}-A\d{4}$/.test(h)), hrefs.join(', '));
+    assert.ok(await items.locator('a[href*="t="]').count() >= 1, 'Zeitmarke bei YouTube');
+    assert.equal(await page.locator('img[src*="ytimg"]').count(), 0, 'ohne Zustimmung keine Vorschaubilder');
+    assert.equal(await page.locator('.thumb-ask').count(), 1, 'Frage nach Vorschaubildern');
+    await shot('thema-geld-videos');
+    await page.click('[data-thumbs="ja"]');
+    await page.waitForSelector('.kb-entry .kb-occ');
+    await page.locator('.kb-entry .kb-occ summary').first().click();
+    assert.ok(await page.locator('.kb-occ img.occ-thumb[src^="https://i.ytimg.com/vi/"]').count() >= 2, 'Vorschaubilder nach Zustimmung');
+    assert.ok(await page.locator('.kb-origin img.origin-thumb').count() >= 1, 'Vorschaubild bei Einzelaussagen');
+    await shot('thema-geld-videos-bilder');
+    await page.locator('.kb-occ .occ-body a[href*="/aussage/"]').first().click();
+    await page.waitForFunction(() => /#\/video\/.+\/aussage\//.test(location.hash));
+    await page.evaluate(() => { localStorage.removeItem('p4m3.ytVorschaubilder'); state.thumbChoice = null; });
   });
   await step('Korrekturprotokoll: Übersicht und betroffene Themenseite, nicht auf fremden Themen', async () => {
     await page.goto(url + '#/themen');
