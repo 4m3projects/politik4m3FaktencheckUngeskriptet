@@ -772,7 +772,7 @@ function rhetBlock(list, v) {
   const url = v.data?.scope?.videoUrl || v.video?.videoUrl;
   const items = list.map(a => {
     const t = `${hms(a.startSeconds)}–${hms(a.endSeconds)}`;
-    const time = videoTimeUrl(url, a.startSeconds) ? extLink(videoTimeUrl(url, a.startSeconds), `<span class="time">▶ ${t}</span>`) : `<span class="time">${t}</span>`;
+    const time = videoTimeUrl(url, a.startSeconds) ? extLink(videoTimeUrl(url, a.startSeconds), `<span class="time">${t}</span>`) : `<span class="time">${t}</span>`;
     return `<li class="rhet-item">
       <div class="rhet-top">${rhetBadge(a)}<span class="small">${time} · ${rhetSpeaker(a, v.data)}</span></div>
       <p class="rhet-obs">${esc(a.observation)}</p>
@@ -847,7 +847,7 @@ function counterBlock(list, compact) {
       ${ov ? `<div class="occ-ampel">${ampelView(ov, 'compact')}</div>` : ''}
       <p class="counter-desc">${esc(x.claim.description)}</p>
       ${main && !compact ? `<p class="small">${esc(x.claim.reason)}</p>` : ''}
-      <p class="small occ-links">${yt ? extLink(yt, `▶ ab ${hms(sec)} bei YouTube`) + ' · ' : ''}<a href="${href}">Geprüfte Aussage ${esc(shortClaim(x.claimId, x.videoId))}</a> · <span class="muted">${esc(how)}</span></p>
+      <p class="small occ-links">${yt ? extLink(yt, `ab ${hms(sec)} bei YouTube`) + ' · ' : ''}<a href="${href}">Geprüfte Aussage ${esc(shortClaim(x.claimId, x.videoId))}</a> · <span class="muted">${esc(how)}</span></p>
     </div>`;
   };
   const [best, ...rest] = list;
@@ -876,7 +876,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
     const url = videoTimeUrl(d.scope.videoUrl, o.startSeconds);
     const hist = (o.timeHistory || []).map(h => `<li>${hms(h.startSeconds)}–${hms(h.endSeconds)} (${esc(h.precision)}): ${esc(h.basis)}</li>`).join('');
     return `<div class="occ">
-      <div class="occ-top">${url ? extLink(url, `<span class="time">▶ ${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`) : `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`}
+      <div class="occ-top">${url ? extLink(url, `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`) : `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`}
         <span class="badge plain">Zeit ${esc(o.precision)}</span>${who}<span class="badge plain">${esc(o.role)} (${esc(o.roleStatus)})</span></div>
       <dl class="kv">
         ${o.note ? `<dt>Hinweis</dt><dd>${esc(o.note)}</dd>` : ''}

@@ -684,3 +684,15 @@ button.rhet-chip:hover { background: var(--surface); }
 .thumb-tip img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; background: var(--line); }
 @keyframes thumb-tip-in { from { opacity: 0; clip-path: inset(0 0 100% 0 round var(--radius-s)); transform: translateY(-6px); } to { opacity: 1; clip-path: inset(0 0 -40px 0 round var(--radius-s)); transform: none; } }
 @media (prefers-reduced-motion: reduce) { .thumb-tip { animation: none; } }
+
+/* ---------- YouTube-Kennzeichen vor YouTube-Links ----------
+   Kleines Abspielsymbol (lokal als data-URI, lädt nichts von YouTube) vor jedem Link auf youtube.com
+   oder youtu.be. Links mit Bild bekommen keins; bei Knöpfen steht es im Knopf. */
+a[href*="youtube.com/"]:not(:has(img, .btn))::before,
+a[href*="youtu.be/"]:not(:has(img, .btn))::before,
+a[href*="youtube.com/"] .btn::before,
+a[href*="youtu.be/"] .btn::before {
+  content: ""; display: inline-block; flex: none; width: 1.15em; height: .8em; margin-right: .3em; vertical-align: -.06em;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 28 20'%3E%3Crect width='28' height='20' rx='5' fill='%23ff0000'/%3E%3Cpath d='M11 5.5v9l8-4.5z' fill='%23fff'/%3E%3C/svg%3E") no-repeat center / contain;
+}
+a[href*="youtube.com/"] .btn::before, a[href*="youtu.be/"] .btn::before { margin-right: 0; }
