@@ -54,6 +54,8 @@ function buildSite() {
   fs.writeFileSync(path.join(out, 'daten', 'index.json'), JSON.stringify({ generated: new Date().toISOString(), commit: 'test', repository: '4m3projects/politik4m3Facktencheck', videos }));
   /* Wissensverzeichnis wie im Workflow (node scripts/wissen.js export). */
   require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, '..', 'scripts', 'wissen.js'), 'export', path.join(out, 'daten', 'wissen.json')]);
+  /* Verlauf wie im Workflow (node scripts/verlauf.js export). */
+  require('node:child_process').execFileSync(process.execPath, [path.join(__dirname, '..', 'scripts', 'verlauf.js'), 'export', path.join(out, 'daten', 'verlauf.json')]);
   return out;
 }
 
@@ -394,6 +396,24 @@ async function step(name, fn) {
     assert.ok(lb.y + lb.height <= c.y + c.height + 1, 'Ladeknopf ohne inneres Scrollen erreichbar');
     if (shots) { await p.locator('#vc-frame').scrollIntoViewIfNeeded(); await p.screenshot({ path: path.join(shots, 'mobil.png'), fullPage: false }); }
     await m.close();
+  });
+
+  await step('Verlauf: oben in der Leiste, jedes Video einmal, neueste Änderung zuerst', async () => {
+    await page.setViewportSize({ width: 1360, height: 860 });
+    await page.goto(base + '#/');
+    await page.waitForSelector('.card');
+    assert.equal(await page.locator('.mainnav a', { hasText: 'Jens der Christ' }).count(), 0, 'Personenlink nicht mehr in der Leiste');
+    assert.ok(await page.locator('section[aria-labelledby="h-team"] a[href="#/jens"]').count() === 1, 'Person weiter unten auf der Startseite verlinkt');
+    await page.locator('.mainnav a', { hasText: 'Verlauf' }).click();
+    await page.waitForSelector('.verlauf-item');
+    assert.equal(await page.locator('.mainnav a[aria-current="page"]').textContent(), 'Verlauf');
+    const ids = await page.locator('.verlauf > .verlauf-item').evaluateAll(els => els.map(e => e.id));
+    assert.equal(new Set(ids).size, ids.length, 'jedes Video nur einmal');
+    const times = await page.locator('.verlauf > .verlauf-item .verlauf-when time').evaluateAll(els => els.map(e => e.getAttribute('datetime')));
+    for (let i = 1; i < times.length; i++) assert.ok(new Date(times[i - 1]) >= new Date(times[i]), 'absteigend sortiert');
+    await page.locator('.verlauf-item .verlauf-title a').first().click();
+    await page.waitForSelector('#claims .claim, .tabs');
+    if (shots) { await page.goto(base + '#/verlauf'); await page.waitForSelector('.verlauf-item'); await page.screenshot({ path: path.join(shots, 'verlauf.png'), fullPage: true }); }
   });
 
   await step('Keine Skriptfehler in der Konsole', async () => {
