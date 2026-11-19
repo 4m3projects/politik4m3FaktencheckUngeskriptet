@@ -1487,6 +1487,211 @@
           ]
         }
       ]
+    },
+    {
+      "id": "R1303",
+      "reactionVideoId": "BOIqGtGuShM",
+      "originalVideoId": "mdo14671BPE",
+      "certainty": "Belegt",
+      "basis": "Die Beschreibung nennt das Original; einschlägige Originalstellen erneut textlich verglichen. Kein pauschaler Sprecher- oder Schnittnachweis.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "change": "[Codex] Erstprüfung als ausdrücklich freigegebene Teilveröffentlichung; keine Personenrangliste übernommen."
+        }
+      ],
+      "claimLinks": [
+        {
+          "id": "L1352",
+          "type": "gegenbehauptung",
+          "originalClaimId": "mdo14671BPE-A0113",
+          "reactionClaimId": "BOIqGtGuShM-A0003",
+          "reactionSeconds": 242,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1353",
+          "type": "gegenbehauptung",
+          "originalClaimId": "mdo14671BPE-A0114",
+          "reactionClaimId": "BOIqGtGuShM-A0004",
+          "reactionSeconds": 190,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1354",
+          "type": "gegenbehauptung",
+          "originalClaimId": "mdo14671BPE-A0115",
+          "reactionClaimId": "BOIqGtGuShM-A0004",
+          "reactionSeconds": 190,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1355",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0117",
+          "reactionClaimId": "BOIqGtGuShM-A0005",
+          "reactionSeconds": 274,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1356",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0113",
+          "reactionClaimId": "BOIqGtGuShM-A0006",
+          "reactionSeconds": 287,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1357",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0065",
+          "reactionClaimId": "BOIqGtGuShM-A0009",
+          "reactionSeconds": 379,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1358",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0065",
+          "reactionClaimId": "BOIqGtGuShM-A0010",
+          "reactionSeconds": 429,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1359",
+          "type": "gegenbehauptung",
+          "originalClaimId": "mdo14671BPE-A0207",
+          "reactionClaimId": "BOIqGtGuShM-A0011",
+          "reactionSeconds": 480,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1360",
+          "type": "gegenbehauptung",
+          "originalClaimId": "mdo14671BPE-A0207",
+          "reactionClaimId": "BOIqGtGuShM-A0012",
+          "reactionSeconds": 490,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1361",
+          "type": "gegenbehauptung",
+          "originalClaimId": "mdo14671BPE-A0207",
+          "reactionClaimId": "BOIqGtGuShM-A0013",
+          "reactionSeconds": 509,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1362",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "mdo14671BPE-A0227",
+          "reactionClaimId": "BOIqGtGuShM-A0015",
+          "reactionSeconds": 560,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ]
+        },
+        {
+          "id": "L1363",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0228",
+          "reactionClaimId": "BOIqGtGuShM-A0017",
+          "reactionSeconds": 650,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ],
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/71",
+            "note": "Allgemeinen Gesetzesinhalt vom unbenannten Einzelfall trennen; Kaiser-Zuordnung ungesichert, Gerichtsoriginal und Rechtskraft offen."
+          }
+        },
+        {
+          "id": "L1364",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0228",
+          "reactionClaimId": "BOIqGtGuShM-A0021",
+          "reactionSeconds": 723,
+          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            }
+          ],
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/71",
+            "note": "Allgemeinen Gesetzesinhalt vom unbenannten Einzelfall trennen; Kaiser-Zuordnung ungesichert, Gerichtsoriginal und Rechtskraft offen."
+          }
+        }
+      ]
     }
   ]
 }

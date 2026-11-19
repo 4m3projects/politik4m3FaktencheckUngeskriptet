@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0005",
+  "revision": 1,
+  "claim": "Die US-Einwanderungsgerichte weisen für deutsche Staatsangehörige neun Asylbewilligungen im Haushaltsjahr 2010 und fünf im Haushaltsjahr 2024 aus.",
+  "topics": [
+    "asyl"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Die gelesenen EOIR-Tabellen enthalten diese Werte. Sie beziehen sich auf den bezeichneten Gerichtsbestand und beweisen keine unveränderte Fortgeltung sämtlicher Einzelfallbewilligungen. Eingangszahlen und Bewilligungen sind keine identische Fallkohorte.",
+  "validity": {
+    "asOf": "2026-11-19",
+    "timeScope": "US-Haushaltsjahre 2010 und 2024",
+    "subjectScope": "Ausgewiesene gerichtliche Entscheidungen nach Staatsangehörigkeit; keine Prognose über Seibt",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-19",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "EOIR: Immigration Courts Asylum Statistics FY 2009–2013",
+      "url": "https://www.justice.gov/eoir/efoia/FY2009-FY2013AsylumStatisticsbyNationality.pdf",
+      "details": "US Department of Justice, April 2014; PDF-Seite 11: FY 2010, Zeile GERMANY.",
+      "accessedOn": "2026-11-19",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q2",
+      "title": "EOIR: Asylum Decisions by Nationality, FY 2024",
+      "url": "https://www.justice.gov/eoir/media/1344846/dl",
+      "details": "Daten erstellt 10.10.2024; PDF-Seite 2, GERMANY.",
+      "accessedOn": "2026-11-19",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "mdo14671BPE-A0207",
+      "repo": null,
+      "relation": "widerspricht",
+      "contextNote": "Widerlegt die uneingeschränkte Verneinung früherer deutscher Asylbewilligungen.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0011",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Bezieht sich ausschließlich auf die neun Bewilligungen FY2010.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0012",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Bezieht sich ausschließlich auf die fünf Bewilligungen FY2024.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-19"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Aus dem Original-/Reaktionsabgleich angelegt; Originalquellen am 19.11.2026 selbst in den dokumentierten Abschnitten gelesen. Keine frühere KI-Bewertung als Beleg übernommen.",
+      "previous": null
+    }
+  ]
+}

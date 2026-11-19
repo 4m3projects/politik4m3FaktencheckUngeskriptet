@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0004",
+  "revision": 1,
+  "claim": "SARS-CoV-2 wurde bereits im Januar 2020 in einer Originalpublikation als empirisch nachgewiesenes und isoliertes Virus beschrieben.",
+  "topics": [
+    "corona"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Zhu und Mitautoren berichten mehrere empirische Nachweise und ausdrücklich Isolierung. Der Nachweis ist kein allgemeiner Beweis für jede spätere diagnostische Anwendung.",
+  "validity": {
+    "asOf": "2026-11-19",
+    "timeScope": "Historischer Nachweisstand Januar 2020",
+    "subjectScope": "Existenz eines publizierten empirischen Virusnachweises; keine experimentellen Anleitungen",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-19",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "Zhu et al.: A Novel Coronavirus from Patients with Pneumonia in China, 2019",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7092803/",
+      "details": "NEJM, online 24.01.2020, aktualisiert 29.01.2020.",
+      "accessedOn": "2026-11-19",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "mdo14671BPE-A0113",
+      "repo": null,
+      "relation": "widerspricht",
+      "contextNote": "Originalbehauptung verneint jegliche Isolierung; der Wissenseintrag beschreibt den positiven historischen Gegenbeleg.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0003",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Reaktion nennt denselben publizierten historischen Nachweis.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-19"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Aus dem Original-/Reaktionsabgleich angelegt; Originalquellen am 19.11.2026 selbst in den dokumentierten Abschnitten gelesen. Keine frühere KI-Bewertung als Beleg übernommen.",
+      "previous": null
+    }
+  ]
+}

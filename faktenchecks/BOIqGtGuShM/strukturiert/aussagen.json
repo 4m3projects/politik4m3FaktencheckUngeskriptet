@@ -1,0 +1,1585 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "BOIqGtGuShM",
+    "videoUrl": "https://www.youtube.com/watch?v=BOIqGtGuShM",
+    "durationSeconds": 944,
+    "asOf": "2026-11-19",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung.",
+    "coverageNote": "Alle verfügbaren automatischen deutschen Originaluntertitel gelesen: erster inhaltlicher Segmentbeginn 00:00:00,160, letztes Segment 00:15:27,490 mit rechnerischem Ende 00:15:29,510; Metadatenlaufzeit 00:15:44. Textfreie Bereiche nicht akustisch kontrolliert. Schwerpunkt sind fünf Sachthemen und die Abgrenzung des Index; biografische Einleitung und private Selbstauskünfte sind nicht vollständig einzeln geprüft. 23 Prüfgegenstände, kein vollständiges Aussageninventar oder Fehleranteil des Videos. Personen und Zeitgrenzen nur plausibel bzw. ungefähr."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Alfred räumt auf: Hatte Musk keine Zeit für Epsteins Insel? Naomi Seibt bei Ungeskriptet",
+      "url": "https://www.youtube.com/watch?v=BOIqGtGuShM",
+      "details": "YouTube-Metadaten direkt mit yt-dlp abgerufen: 19.11.2026, 944 Sekunden.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Beschreibung und gesamte verfügbare automatische deutsche Originaluntertitel gelesen. Keine Audio-/Videosichtung. Quellenverzeichnis und Kapitel aus der Beschreibung; keine Rohdaten im Repository."
+    },
+    {
+      "id": "S002",
+      "title": "Naomi Seibt bei Ben: Originalinterview",
+      "url": "https://www.youtube.com/watch?v=mdo14671BPE",
+      "details": "Direkter neuer Metadatenabruf am 19.11.2026; Beschreibung nennt Aufnahmedatum 30. September 2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Aktuelle Uploadbeschreibung direkt abgerufen; private deutsche Originaluntertitel an 00:31:10–00:32:05, 01:13:50–01:15:50, 02:16:25–02:17:10 und 02:30:45–02:32:15 erneut gelesen. Personen nur textlich plausibel."
+    },
+    {
+      "id": "S003",
+      "title": "Zhu et al.: A Novel Coronavirus from Patients with Pneumonia in China, 2019",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7092803/",
+      "details": "NEJM, online 24.01.2020, aktualisiert 29.01.2020.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Ergebnis, Abbildungsbeschreibung und Diskussion gelesen: mehrere Arten empirischer Nachweise, ausdrücklich Virusisolierung. Keine eigene experimentelle Kontrolle; nur der historische Befund wird bewertet."
+    },
+    {
+      "id": "S004",
+      "title": "Corman et al.: Detection of 2019 novel coronavirus by real-time RT-PCR",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6988269/",
+      "details": "Eurosurveillance 25(3), 23.01.2020; DOI 10.2807/1560-7917.ES.2020.25.3.2000045.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Einleitung, Ergebnisse zur anfänglichen Informationslage und klinischen Spezifitätsprüfung sowie Diskussion gelesen. 297 Proben, keine falsch positiven Endergebnisse; vier schwache Erstreaktionen bei Wiederholung negativ. Verlagsadresse 403; identischer Artikel im PMC-Archiv zugänglich. Keine Anleitung oder Replikation veröffentlicht."
+    },
+    {
+      "id": "S005",
+      "title": "Caly et al.: Isolation and rapid sharing of SARS-CoV-2 from the first patient diagnosed in Australia",
+      "url": "https://www.mja.com.au/journal/2020/212/10/isolation-and-rapid-sharing-2019-novel-coronavirus-sars-cov-2-first-patient",
+      "details": "Medical Journal of Australia, 2020, 212(10).",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Ergebnis zur veröffentlichten Genomübereinstimmung gelesen: mehr als 99,99 Prozent. Nur historischen Nachweis bewertet, keine experimentellen Schritte übernommen."
+    },
+    {
+      "id": "S006",
+      "title": "Wölfel et al.: Virological assessment of hospitalized patients with COVID-2019",
+      "url": "https://www.nature.com/articles/s41586-020-2196-x",
+      "details": "Nature, 01.04.2020; von Alfred genannte Quelle.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abruf endet in nicht zugänglicher Verlagsanmeldung; Inhalt hier nicht selbst gelesen. Offener Prüfauftrag, kein Sachbeleg."
+    },
+    {
+      "id": "S007",
+      "title": "TIME: Elon Musk’s Emails to Jeffrey Epstein Revealed in Latest Document Release",
+      "url": "https://time.com/7362868/elon-musk-epstein-emails/",
+      "details": "Rebecca Schneid, 31.01.2026. Sekundärbericht, keine eigene Aktenvollsicht.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Artikelabschnitte zu Nachrichten 2012/2013 gelesen. Besuchsinteresse und Absagen berichtet; kein Besuchs- oder Straftatnachweis. Drei verlinkte DOJ-Dateien führten zur Altersabfrage und wurden nicht gelesen."
+    },
+    {
+      "id": "S008",
+      "title": "EOIR: Immigration Courts Asylum Statistics FY 2009–2013",
+      "url": "https://www.justice.gov/eoir/efoia/FY2009-FY2013AsylumStatisticsbyNationality.pdf",
+      "details": "US Department of Justice, April 2014; PDF-Seite 11: FY 2010, Zeile GERMANY.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tabellenkopf und Deutschlandzeile gelesen: RECEIVED 44, GRANTED 9. Gerichtsstatistik, kein Gesamtbestand aller US-Verfahren und keine Aussage über Seibts Fall."
+    },
+    {
+      "id": "S009",
+      "title": "EOIR: Asylum Decisions by Nationality, FY 2024",
+      "url": "https://www.justice.gov/eoir/media/1344846/dl",
+      "details": "Daten erstellt 10.10.2024; PDF-Seite 2, GERMANY.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tabellenkopf, Fußnoten und Deutschlandzeile gelesen: 5 Grants. Initial case completions in den bezeichneten Gerichtsverfahren; keine vollständige Statistik aller Asylwege und keine aus diesen Daten berechnete persönliche Erfolgsquote."
+    },
+    {
+      "id": "S010",
+      "title": "Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität",
+      "url": "https://media.offenegesetze.de/bgbl1/2021/bgbl1_2021_13_original.pdf",
+      "details": "BGBl. I 2021 S. 441, Artikel 1 Nummer 8; Änderung der Inkrafttretensregel auf S. 474.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Scan des Gesetzblatts: Erweiterung des § 188 um Beleidigung, kommunale Ebene und korrigiertes Inkrafttreten 03.04.2021 gelesen. Kein individuelles Rechtsgutachten."
+    },
+    {
+      "id": "S011",
+      "title": "Bundestagsdrucksache 19/20163",
+      "url": "https://dserver.bundestag.de/btd/19/201/1920163.pdf",
+      "details": "Rechtsausschuss, 17.06.2020, insbesondere gedruckte S. 43.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Beschlussempfehlung und Begründung zur Erweiterung des § 188 gelesen. Unterscheidung Entwurf, Ausschussfassung und endgültiges Gesetz berücksichtigt."
+    },
+    {
+      "id": "S012",
+      "title": "§ 130 StGB: Volksverhetzung",
+      "url": "https://www.gesetze-im-internet.de/stgb/__130.html",
+      "details": "Beim Abruf gelesener Normtext, insbesondere Absatz 1.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tatbestandsvoraussetzungen gelesen. Kein abstraktes Statistikverbot; konkrete Äußerungen sind nach Inhalt und Kontext zu prüfen. Kein Beleg für ein bestimmtes Urteil oder Seibts gemeinten Einzelfall."
+    },
+    {
+      "id": "S013",
+      "title": "taz: Landgericht verurteilt AfD-Politikerin: Volksverhetzung auf Facebook",
+      "url": "https://taz.de/Landgericht-verurteilt-AfD-Politikerin/!6006153/",
+      "details": "André Zuschlag, 08.05.2024. Sekundärbericht mit Äußerung einer Gerichtssprecherin.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Bericht über LG Verden gelesen: Bezug auf 200 afghanische Ortskräfte, Begründung und 100 Tagessätze zu je 60 Euro. Kein Urteilsvolltext; Rechtskraft im Herbst 2024 ist durch diesen früheren Bericht nicht belegt."
+    },
+    {
+      "id": "S014",
+      "title": "Bundesregierung: Polizeiliche Kriminalstatistik 2025",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/polizeiliche-kriminalstatistik-2025-2422020",
+      "details": "Behördeninformation zur bundesweiten PKS 2025.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Öffentliche Behördenangabe zu 42,9 Prozent nichtdeutschen Tatverdächtigen bei Gewaltkriminalität geprüft. Tatverdächtige sind nicht Verurteilte; keine Aussage über individuelle Schuld."
+    },
+    {
+      "id": "S015",
+      "title": "Romeike v. Holder, No. 12-3641",
+      "url": "https://www.govinfo.gov/content/pkg/USCOURTS-ca6-12-03641/pdf/USCOURTS-ca6-12-03641-0.pdf",
+      "details": "Sixth Circuit, 14.05.2013; von Alfred verlinkter Urteilstext.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abrufversuch ohne lesbaren PDF-Inhalt; keine erneute Sachprüfung des Urteils. Frühere Projektbewertung nicht als Ersatzbeleg verwendet."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Alfred",
+      "videoRole": "KI-Moderationsfigur des Kanals Alfred räumt auf",
+      "identityBasis": "Selbstvorstellung und Moderationstext; Stimme/Bild nicht separat geprüft."
+    }
+  ],
+  "claims": [
+    {
+      "id": "BOIqGtGuShM-A0001",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Naomi-Seibt-Interview sei am 30. September 2026 aufgezeichnet worden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die aktuelle Originalbeschreibung nennt genau dieses Aufnahmedatum. Das ist eine Herausgeberangabe, keine Prüfung von Aufzeichnungsdateien.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0001",
+          "startSeconds": 34,
+          "endSeconds": 44,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S002"
+            ],
+            "result": "Die aktuelle Originalbeschreibung nennt genau dieses Aufnahmedatum. Das ist eine Herausgeberangabe, keine Prüfung von Aufzeichnungsdateien."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0002",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Alfred habe aus dem Interview 21 nachprüfbare Aussagen ausgewählt und zeige fünf davon.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – Die fünf Themen sind im Text sichtbar, das vollständige Inventar der 21 Aussagen liegt hier nicht vor. Die Gesamtzählung ist damit noch nicht reproduziert.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [
+        "Vollständige Liste der 21 Aussagen mit Auswahlkriterien und Fundstellen gegen das Interview prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0002",
+          "startSeconds": 144,
+          "endSeconds": 151,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Die fünf Themen sind im Text sichtbar, das vollständige Inventar der 21 Aussagen liegt hier nicht vor. Die Gesamtzählung ist damit noch nicht reproduziert."
+          }
+        ],
+        "missingInformation": "Vollständige Liste der 21 Aussagen mit Auswahlkriterien und Fundstellen gegen das Interview prüfen.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0003",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine Veröffentlichung vom Januar 2020 dokumentiere SARS-CoV-2 als empirisch nachgewiesenes Virus.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Zhu und Mitautoren dokumentieren den Nachweis einschließlich ausdrücklich berichteter Isolierung und Bildgebung. Die pauschale Nichtisolierungsbehauptung des Originals wird dadurch widerlegt; Fotos allein wären keine vollständige Begründung.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0003",
+          "startSeconds": 242,
+          "endSeconds": 254,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S003"
+            ],
+            "result": "Zhu und Mitautoren dokumentieren den Nachweis einschließlich ausdrücklich berichteter Isolierung und Bildgebung. Die pauschale Nichtisolierungsbehauptung des Originals wird dadurch widerlegt; Fotos allein wären keine vollständige Begründung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0004",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Social-Media-Meldungen seien ein anfänglicher Hinweis gewesen, während die Testauswahl später veröffentlichte Genominformationen nutzte.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Corman-Arbeit unterscheidet den frühen Hinweis auf einen SARS-ähnlichen Erreger von den anschließend zugänglich gewordenen Sequenzdaten. Alfreds Unterscheidung entspricht diesem dokumentierten Ablauf.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0004",
+          "startSeconds": 190,
+          "endSeconds": 238,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S004"
+            ],
+            "result": "Die Corman-Arbeit unterscheidet den frühen Hinweis auf einen SARS-ähnlichen Erreger von den anschließend zugänglich gewordenen Sequenzdaten. Alfreds Unterscheidung entspricht diesem dokumentierten Ablauf."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0005",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Spezifitätsprüfung mit 297 klinischen Proben habe keine falsch positiven Endergebnisse ergeben.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Artikel berichtet dieses Endergebnis. Er nennt zugleich vier schwache Erstreaktionen, die bei Wiederholung negativ waren. Alfreds Formulierung zum Ergebnis am Ende ist damit vereinbar; daraus folgt keine allgemeine Fehlerfreiheit aller PCR-Tests.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0005",
+          "startSeconds": 274,
+          "endSeconds": 287,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S004"
+            ],
+            "result": "Der Artikel berichtet dieses Endergebnis. Er nennt zugleich vier schwache Erstreaktionen, die bei Wiederholung negativ waren. Alfreds Formulierung zum Ergebnis am Ende ist damit vereinbar; daraus folgt keine allgemeine Fehlerfreiheit aller PCR-Tests."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0006",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Drostens Team habe den Test ohne eigene physische Probe des neuen Virus entwickelt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Originalpublikation beschreibt ausdrücklich die damalige Entwicklung ohne physisches Material des neuen Erregers. Das stützt den begrenzten zeitlichen Sachkern, nicht die Behauptung, das Virus sei weltweit nie nachgewiesen worden.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0006",
+          "startSeconds": 287,
+          "endSeconds": 297,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S004"
+            ],
+            "result": "Die Originalpublikation beschreibt ausdrücklich die damalige Entwicklung ohne physisches Material des neuen Erregers. Das stützt den begrenzten zeitlichen Sachkern, nicht die Behauptung, das Virus sei weltweit nie nachgewiesen worden."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0007",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die australische Veröffentlichung berichte mehr als 99,99 Prozent Genomübereinstimmung mit bereits veröffentlichten SARS-CoV-2-Genomen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Diese Größenordnung steht im Ergebnisabschnitt von Caly und Mitautoren. Sie ist kein Beweis für die Richtigkeit sämtlicher späterer diagnostischer Anwendungen.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S005",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0007",
+          "startSeconds": 254,
+          "endSeconds": 266,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S005"
+            ],
+            "result": "Diese Größenordnung steht im Ergebnisabschnitt von Caly und Mitautoren. Sie ist kein Beweis für die Richtigkeit sämtlicher späterer diagnostischer Anwendungen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0008",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein von Drosten mitgeleitetes weiteres Team habe den Virusnachweis aus Rachenproben veröffentlicht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – Die von Alfred genannte Nature-Veröffentlichung war in diesem Durchgang nicht lesbar. Die zusätzliche historische Einzelangabe bleibt trotz anderer bereits geprüfter Virusnachweise offen.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [
+        "Nature-Arbeit oder öffentliches Autorenmanuskript lesen und die konkrete Quellenwiedergabe kontrollieren."
+      ],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0008",
+          "startSeconds": 266,
+          "endSeconds": 274,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S006"
+            ],
+            "result": "Die von Alfred genannte Nature-Veröffentlichung war in diesem Durchgang nicht lesbar. Die zusätzliche historische Einzelangabe bleibt trotz anderer bereits geprüfter Virusnachweise offen."
+          }
+        ],
+        "missingInformation": "Nature-Arbeit oder öffentliches Autorenmanuskript lesen und die konkrete Quellenwiedergabe kontrollieren.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0009",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der veröffentlichte E-Mail-Verkehr enthalte Musks eigenes Interesse an einem Inselbesuch sowie spätere Absagen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der gelesene TIME-Bericht stützt Alfreds Darstellung. Die verlinkten Originalakten waren hinter einer Altersabfrage und wurden hier nicht gelesen.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [
+        "Die im TIME-Artikel verlinkten DOJ-Originaldokumente direkt kontrollieren."
+      ],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0009",
+          "startSeconds": 379,
+          "endSeconds": 429,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S007"
+            ],
+            "result": "Der gelesene TIME-Bericht stützt Alfreds Darstellung. Die verlinkten Originalakten waren hinter einer Altersabfrage und wurden hier nicht gelesen."
+          }
+        ],
+        "missingInformation": "Die im TIME-Artikel verlinkten DOJ-Originaldokumente direkt kontrollieren.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0010",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Aus diesen Nachrichten folgten weder ein nachgewiesener Inselbesuch noch ein nachgewiesenes Vergehen Musks.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "TIME zieht aus den beschriebenen Nachrichten keinen Straftatnachweis. Das ist auf diesen Quellenbestand begrenzt; Alfreds weitergehende Aussage über sämtliche veröffentlichten Dokumente wurde nicht vollständig geprüft.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [
+        "Alle-Dokumente-Aussage getrennt vom begrenzten E-Mail-Bestand prüfen; keinen pauschalen Entlastungsbeweis ableiten."
+      ],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0010",
+          "startSeconds": 429,
+          "endSeconds": 446,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S007"
+            ],
+            "result": "TIME zieht aus den beschriebenen Nachrichten keinen Straftatnachweis. Das ist auf diesen Quellenbestand begrenzt; Alfreds weitergehende Aussage über sämtliche veröffentlichten Dokumente wurde nicht vollständig geprüft."
+          }
+        ],
+        "missingInformation": "Alle-Dokumente-Aussage getrennt vom begrenzten E-Mail-Bestand prüfen; keinen pauschalen Entlastungsbeweis ableiten.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0011",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die US-Einwanderungsgerichte hätten im Haushaltsjahr 2010 neunmal Asyl für deutsche Staatsangehörige gewährt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die EOIR-Tabelle führt für GERMANY im FY 2010 neun Bewilligungen auf. Das widerlegt die unbeschränkte Erstmaligkeit, sagt aber nichts über eine fortbestehende Bewilligung jedes Einzelfalls.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0011",
+          "startSeconds": 480,
+          "endSeconds": 490,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S008"
+            ],
+            "result": "Die EOIR-Tabelle führt für GERMANY im FY 2010 neun Bewilligungen auf. Das widerlegt die unbeschränkte Erstmaligkeit, sagt aber nichts über eine fortbestehende Bewilligung jedes Einzelfalls."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0012",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Für das Haushaltsjahr 2024 seien fünf gerichtliche Asylbewilligungen für deutsche Staatsangehörige ausgewiesen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Deutschlandzeile der EOIR-Statistik enthält fünf Grants. Geltungsbereich sind die in der Fußnote bezeichneten gerichtlichen Erstabschlüsse, nicht alle Asylverfahren der USA.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0012",
+          "startSeconds": 490,
+          "endSeconds": 494,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S009"
+            ],
+            "result": "Die Deutschlandzeile der EOIR-Statistik enthält fünf Grants. Geltungsbereich sind die in der Fußnote bezeichneten gerichtlichen Erstabschlüsse, nicht alle Asylverfahren der USA."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0013",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Bei den US-Einwanderungsgerichten seien im Haushaltsjahr 2010 44 deutsche Asylanträge eingegangen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Spalte RECEIVED enthält in der Deutschlandzeile 44. Diese Zahl ist kein Nenner einer aus den neun Bewilligungen abzuleitenden Erfolgsquote: Eingänge und Entscheidungen müssen nicht denselben Falljahrgang betreffen.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S008",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0013",
+          "startSeconds": 509,
+          "endSeconds": 514,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S008"
+            ],
+            "result": "Die Spalte RECEIVED enthält in der Deutschlandzeile 44. Diese Zahl ist kein Nenner einer aus den neun Bewilligungen abzuleitenden Erfolgsquote: Eingänge und Entscheidungen müssen nicht denselben Falljahrgang betreffen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0014",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Fall Romeike sei eine ursprüngliche Asylbewilligung später aufgehoben worden.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – Die verlinkte Gerichtsdatei war in diesem Durchgang nicht lesbar; die vorhandene Originalprüfung nennt den Fall, ersetzt aber keine erneute Quellenkontrolle.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S015",
+          "note": "Nicht zugänglich; offener Auftrag zur erneuten Originallektüre."
+        }
+      ],
+      "openQuestions": [
+        "Urteilstext Romeike v. Holder vom 14.05.2013 erneut lesen."
+      ],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0014",
+          "startSeconds": 494,
+          "endSeconds": 508,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S015"
+            ],
+            "result": "Die verlinkte Gerichtsdatei war in diesem Durchgang nicht lesbar; die vorhandene Originalprüfung nennt den Fall, ersetzt aber keine erneute Quellenkontrolle."
+          }
+        ],
+        "missingInformation": "Urteilstext Romeike v. Holder vom 14.05.2013 erneut lesen.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0015",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "§ 188 StGB sei unter Merkel um Beleidigungen erweitert und der Schutz der kommunalen Ebene klargestellt worden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Artikel 1 Nummer 8 des Änderungsgesetzes und die Ausschussbegründung bestätigen beide Teile. Das Inkrafttreten zum 03.04.2021 ergibt sich aus der noch im selben Gesetzblatt enthaltenen Änderung der Inkrafttretensregel. Eine persönliche Gesetzesinitiative Merkels wird daraus nicht abgeleitet.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S010",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0015",
+          "startSeconds": 560,
+          "endSeconds": 603,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S010",
+              "S011"
+            ],
+            "result": "Artikel 1 Nummer 8 des Änderungsgesetzes und die Ausschussbegründung bestätigen beide Teile. Das Inkrafttreten zum 03.04.2021 ergibt sich aus der noch im selben Gesetzblatt enthaltenen Änderung der Inkrafttretensregel. Eine persönliche Gesetzesinitiative Merkels wird daraus nicht abgeleitet."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0016",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die Forderung nach Abschaffung dieses Paragrafen sei eine politische Meinung.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Eine politische Änderungsforderung ist keine Tatsachenbehauptung. Alfred trennt sie vom prüfbaren historischen Erweiterungsdatum.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0016",
+          "startSeconds": 603,
+          "endSeconds": 610,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Eine politische Änderungsforderung ist keine Tatsachenbehauptung. Alfred trennt sie vom prüfbaren historischen Erweiterungsdatum."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0017",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibt meine bei ihrer Statistikbehauptung wahrscheinlich den Fall Marie-Thérèse Kaiser.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – Im kontrollierten Originalabschnitt steht kein Name und keine eindeutige Fallkennung. Alfred kennzeichnet die Zuordnung selbst als Vermutung. Sie wird nicht zur gesicherten Identifikation des Originals erhoben.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [
+        "Den gemeinten Fall durch eindeutigen Bezug oder eine öffentliche Präzisierung identifizieren."
+      ],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0017",
+          "startSeconds": 650,
+          "endSeconds": 671,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Im kontrollierten Originalabschnitt steht kein Name und keine eindeutige Fallkennung. Alfred kennzeichnet die Zuordnung selbst als Vermutung. Sie wird nicht zur gesicherten Identifikation des Originals erhoben."
+          }
+        ],
+        "missingInformation": "Den gemeinten Fall durch eindeutigen Bezug oder eine öffentliche Präzisierung identifizieren.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0018",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kaiser sei im Berufungsverfahren wegen eines auf 200 afghanische Ortskräfte bezogenen Facebook-Posts zu 6000 Euro verurteilt worden.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die taz berichtet über das LG Verden, die abgegrenzte Gruppe und 100 Tagessätze zu 60 Euro unter Bezug auf eine Gerichtssprecherin. Der Urteilsvolltext wurde nicht gelesen; Alfreds präzise Abgrenzung der bestraften Inhalte bleibt insoweit sekundär gestützt.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [
+        "Urteil oder Gerichtsmitteilung lesen, besonders den Umgang mit statistischen Angaben."
+      ],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0018",
+          "startSeconds": 654,
+          "endSeconds": 710,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S013"
+            ],
+            "result": "Die taz berichtet über das LG Verden, die abgegrenzte Gruppe und 100 Tagessätze zu 60 Euro unter Bezug auf eine Gerichtssprecherin. Der Urteilsvolltext wurde nicht gelesen; Alfreds präzise Abgrenzung der bestraften Inhalte bleibt insoweit sekundär gestützt."
+          }
+        ],
+        "missingInformation": "Urteil oder Gerichtsmitteilung lesen, besonders den Umgang mit statistischen Angaben.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0019",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kaisers Urteil sei seit Herbst 2024 rechtskräftig.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – Der gelesene Bericht vom Mai 2024 kann die spätere Rechtskraft nicht belegen. Die von Alfred verlinkte spätere Zeitungsseite war nicht zugänglich.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S013",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [
+        "Revisionsentscheidung oder Gerichtsbestätigung zum Rechtskraftdatum beschaffen."
+      ],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0019",
+          "startSeconds": 662,
+          "endSeconds": 668,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S013"
+            ],
+            "result": "Der gelesene Bericht vom Mai 2024 kann die spätere Rechtskraft nicht belegen. Die von Alfred verlinkte spätere Zeitungsseite war nicht zugänglich."
+          }
+        ],
+        "missingInformation": "Revisionsentscheidung oder Gerichtsbestätigung zum Rechtskraftdatum beschaffen.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0020",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der amtlich veröffentlichte Anteil nichtdeutscher Tatverdächtiger an der Gewaltkriminalität 2025 liege bei fast 43 Prozent.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Bundesregierung nennt 42,9 Prozent. Alfred spricht von Tatverdächtigen. Das sind weder Verurteilte noch ein bevölkerungsbereinigtes individuelles Kriminalitätsrisiko; aus der Zahl allein folgt keine Ursache.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S014",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0020",
+          "startSeconds": 710,
+          "endSeconds": 723,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S014"
+            ],
+            "result": "Die Bundesregierung nennt 42,9 Prozent. Alfred spricht von Tatverdächtigen. Das sind weder Verurteilte noch ein bevölkerungsbereinigtes individuelles Kriminalitätsrisiko; aus der Zahl allein folgt keine Ursache."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0021",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "§ 130 StGB enthalte kein allgemeines Verbot, Kriminalstatistiken aufzulisten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Normtext knüpft an Inhalt und Kontext an, unter anderem Hassaufstachelung oder Menschenwürdeangriffe unter den genannten Voraussetzungen. Statistiken genießen keine pauschale Immunität, sind aber auch nicht als Gattung verboten. Die Fallzuordnung zu Kaiser bleibt davon getrennt offen.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S012",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0021",
+          "startSeconds": 723,
+          "endSeconds": 736,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S012",
+              "S014"
+            ],
+            "result": "Der Normtext knüpft an Inhalt und Kontext an, unter anderem Hassaufstachelung oder Menschenwürdeangriffe unter den genannten Voraussetzungen. Statistiken genießen keine pauschale Immunität, sind aber auch nicht als Gattung verboten. Die Fallzuordnung zu Kaiser bleibt davon getrennt offen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0022",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Alfreds Gesamtindex und die Rangfolge seien eine von den fünf Einzelprüfungen getrennte Bewertung.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Gewichtung und das Fazit sind eine eigene Methodik bzw. Wertung. Wir übernehmen weder Punktzahl noch Rang als Faktenurteil oder Fehlerquote; die behaupteten Zählgrundlagen werden separat geprüft.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0022",
+          "startSeconds": 740,
+          "endSeconds": 890,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Die Gewichtung und das Fazit sind eine eigene Methodik bzw. Wertung. Wir übernehmen weder Punktzahl noch Rang als Faktenurteil oder Fehlerquote; die behaupteten Zählgrundlagen werden separat geprüft."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "BOIqGtGuShM-A0023",
+      "videoId": "BOIqGtGuShM",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Indexgrundlage umfasse Stellen im Abstand von durchschnittlich zwölf Minuten, acht Streitfragen und drei Feindbildstellen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – Vollständige Fundstellenliste, Nenner und Zuordnungskriterien liegen hier nicht vor. Diese Zahlen und der daraus berechnete Index wurden nicht reproduziert.",
+      "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Beleg im in der Begründung bezeichneten Umfang; Zugriffsgrenzen im Quellenverzeichnis."
+        }
+      ],
+      "openQuestions": [
+        "Alle gezählten Stellen, Ausschlüsse, Gewichtungen und Ranglistenstände offenlegen und gegen Original und Formel prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "BOIqGtGuShM-O0023",
+          "startSeconds": 764,
+          "endSeconds": 866,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatische Originaluntertitel und textlicher Moderations-/Einspielkontext; Stimme nicht geprüft.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlicher Zusammenhang, nicht akustisch bestätigt.",
+          "note": "Suchbereich, keine schnittgenaue Clipgrenze.",
+          "timeBasis": "Automatische deutsche Originaluntertitel des Reaktionsvideos.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Vollständige Fundstellenliste, Nenner und Zuordnungskriterien liegen hier nicht vor. Diese Zahlen und der daraus berechnete Index wurden nicht reproduziert."
+          }
+        ],
+        "missingInformation": "Alle gezählten Stellen, Ausschlüsse, Gewichtungen und Ranglistenstände offenlegen und gegen Original und Formel prüfen.",
+        "conflicts": null
+      }
+    }
+  ]
+}

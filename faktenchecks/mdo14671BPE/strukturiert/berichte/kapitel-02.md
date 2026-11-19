@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
 
 ## mdo14671BPE-A0007
 
@@ -149,22 +149,25 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-WDR berichtet am 11.11.2026 über einen rechtskräftigen Strafbefehl nach zurückgezogenem Einspruch und 2400 Euro Geldstrafe. Der Originalbescheid fehlt; Aufnahmezeit und gemeinter Post sind nicht abschließend zugeordnet.
+WDR berichtet am 11.11.2026 über einen rechtskräftigen Strafbefehl nach zurückgezogenem Einspruch und 2400 Euro Geldstrafe. Der Originalbescheid fehlt; der gemeinte Post ist nicht abschließend zugeordnet. Die Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum. Der spätere Novemberbericht belegt deshalb nicht, dass dieser Verfahrensstand schon bei Aufnahme bekannt war.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen. [Codex] 19.11.2026, UG-C0001: frühere Begründung zum unbekannten Aufnahmetermin korrigiert; Urteil Teilweise belegt unverändert. Vorher/nachher im Korrekturprotokoll.
 
 ### Zugeordnete Quellen
 
 - [Volksverhetzung: Rechte Influencerin Naomi Seibt muss Strafe zahlen](https://www1.wdr.de/nrw/muenster/seibt-volksverhetzung-influencerin-muenster-100.html) · Nicole Albers/WDR; 11.11.2026, 12:47 Uhr.
   Quellenzugriff am 2026-11-17. Vollständigen Nachrichtenbericht gelesen: 2400 Euro und Rücknahme des Einspruchs vor Termin am 10.11.2026. Sekundärquelle, Strafbefehl nicht selbst zugänglich; Aufnahmezeit des Interviews unbekannt. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
+- [Naomi Seibt bei Ben: Originalinterview](https://www.youtube.com/watch?v=mdo14671BPE) · Direkter neuer Metadatenabruf am 19.11.2026; Beschreibung nennt Aufnahmedatum 30. September 2026.
+  Quellenzugriff am 2026-11-19. Aktuelle Uploadbeschreibung direkt abgerufen; private deutsche Originaluntertitel an 00:31:10–00:32:05, 01:13:50–01:15:50, 02:16:25–02:17:10 und 02:30:45–02:32:15 erneut gelesen. Personen nur textlich plausibel. Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum; keine unabhängige Dateidatierung.
+
 ### Offene Fragen und Unsicherheiten
 
-- Aktenzeichen, Strafbefehl und Aufnahmezeit fehlen; keine Kenntnis des späteren Verfahrensstands bei Aufnahme unterstellen.
+- Aktenzeichen und Strafbefehl fehlen; Aufnahme laut Herausgeber 30.09.2026; keine Kenntnis des späteren Verfahrensstands bei Aufnahme unterstellen.
 
 ## mdo14671BPE-A0010
 

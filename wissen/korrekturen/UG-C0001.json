@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0001",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-19",
+  "reportedBy": "Codex",
+  "trigger": {
+    "claimId": "mdo14671BPE-A0001",
+    "entryId": null,
+    "description": "Alfred nennt einen Aufnahmetermin; unabhängiger Neuabruf zeigt ihn ausdrücklich in der Originalbeschreibung. Die alte Annahme unbekannter Aufnahme war falsch."
+  },
+  "evidence": [
+    {
+      "title": "Originalbeschreibung des Naomi-Seibt-Interviews",
+      "url": "https://www.youtube.com/watch?v=mdo14671BPE",
+      "accessedOn": "2026-11-19",
+      "finding": "Aufnahmedatum 30. September 2026; beim direkten Metadatenabruf erneut gelesen."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mdo14671BPE-A0001",
+      "reason": "Begründung verwendet ausdrücklich den bisher unbekannten Aufnahmezeitpunkt. Keine Urteilsänderung."
+    },
+    {
+      "target": "mdo14671BPE-A0009",
+      "reason": "Begründung verwendet ausdrücklich den bisher unbekannten Aufnahmezeitpunkt. Keine Urteilsänderung."
+    },
+    {
+      "target": "mdo14671BPE-A0065",
+      "reason": "Begründung verwendet ausdrücklich den bisher unbekannten Aufnahmezeitpunkt. Keine Urteilsänderung."
+    }
+  ],
+  "decision": {
+    "by": "Regel:BelegteMetadatenkorrektur",
+    "date": "2026-11-19",
+    "basis": "Drei eindeutig betroffene Begründungen; ausdrückliche Herausgeberangabe unabhängig neu gelesen. Keine Änderung von Urteilen oder Wissenseinträgen. Andere Treffer der Quellensuche teilen biografische Quellen, aber nicht die fehlerhafte Datumsannahme und werden nicht geändert."
+  },
+  "changes": [
+    {
+      "target": "mdo14671BPE-A0001",
+      "field": "reason",
+      "before": "Nach der Tertiärquelle ist Seibt am 18.08.2000 geboren; ein Bericht vom 29.10.2025 nennt sie 25 Jahre alt, das passt dazu. 26 Jahre alt wäre sie ab dem 18.08.2026. Das Video wurde am 16.11.2026 veröffentlicht, der Aufnahmetermin ist unbekannt; das Gespräch behandelt den Ende Oktober 2025 bekannt gewordenen Asylantrag. Die Altersangabe stimmt also nur bei einer Aufnahme zwischen August und November 2026. Das lässt sich nicht feststellen.",
+      "after": "Die Originalbeschreibung nennt als Aufnahmedatum 30.09.2026. Die frühere Begründung eines unbekannten Aufnahmetermins entfällt. Das passt zur Angabe 26 Jahre bei dem in einer Tertiärquelle genannten Geburtsdatum 18.08.2000 und zur früheren Presseangabe 25 im Oktober 2025. Eine unabhängig gelesene belastbare Geburtsquelle liegt weiterhin nicht vor; die Originalbeschreibung wiederholt die Altersangabe und ist dafür keine unabhängige Bestätigung. Deshalb bleibt Nicht ausreichend belegbar im ausdrücklich begrenzten Quellenstand."
+    },
+    {
+      "target": "mdo14671BPE-A0009",
+      "field": "reason",
+      "before": "WDR berichtet am 11.11.2026 über einen rechtskräftigen Strafbefehl nach zurückgezogenem Einspruch und 2400 Euro Geldstrafe. Der Originalbescheid fehlt; Aufnahmezeit und gemeinter Post sind nicht abschließend zugeordnet.",
+      "after": "WDR berichtet am 11.11.2026 über einen rechtskräftigen Strafbefehl nach zurückgezogenem Einspruch und 2400 Euro Geldstrafe. Der Originalbescheid fehlt; der gemeinte Post ist nicht abschließend zugeordnet. Die Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum. Der spätere Novemberbericht belegt deshalb nicht, dass dieser Verfahrensstand schon bei Aufnahme bekannt war."
+    },
+    {
+      "target": "mdo14671BPE-A0065",
+      "field": "reason",
+      "before": "Der Kontakt ist durch E-Mails belegt, deren Echtheit Musk bestätigt hat. Nach diesen E-Mails fragte Musk 2012 und 2013 allerdings selbst mehrfach nach Besuchen auf der Insel; diese kamen nach den Berichten wegen Absagen bzw. Logistik nicht zustande. Ein Besuch ist nicht belegt, ein Fehlverhalten wird nicht gezeigt. Die Darstellung einer bloß abgelehnten Einladung entspricht Musks eigener Erklärung und lässt diesen Kontext weg. Die E-Mails wurden Ende Januar 2026 öffentlich; da der Aufnahmetermin unbekannt ist, ist offen, ob dieser Kontext bei der Aufnahme schon bekannt war.",
+      "after": "Der Kontakt ist durch die gelesene Berichterstattung über E-Mails gestützt. Danach fragte Musk 2012 und 2013 selbst nach Besuchen; es gab Absagen und logistische Hindernisse. Ein Besuch oder Vergehen ist daraus nicht belegt. Die bloße Ablehnungsdarstellung lässt diesen Kontext weg. Die E-Mails wurden laut Bericht Ende Januar 2026 öffentlich, die Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum. Der Quellenstand lag demnach vor der Aufnahme, ohne dass damit Seibts tatsächliche Kenntnis bewiesen ist. Die direkten Akten wurden in dieser Nachprüfung nicht gelesen."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Gemeldet, Originalbeschreibung erneut gelesen, Abhängigkeiten mit wissen.js betroffen geprüft; drei Begründungen bei unveränderten Urteilen korrigiert. Nachprüfung verlinkter Reaktionen dokumentiert."
+    }
+  ]
+}

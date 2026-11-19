@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
 
 ## mdo14671BPE-A0194
 
@@ -127,8 +127,8 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 - [8 USC 1158: Asylum](https://uscode.house.gov/us/usc/t8/s1158/) · Office of the Law Revision Counsel; geltender Online-Stand am Prüfdatum.
   Quellenzugriff am 2026-11-17. Voraussetzungen, Beweislast und Zuständigkeiten gelesen. USCIS-Übersichtsabruf scheiterte mit 403; Gesetzestext tatsächlich zugänglich. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
-- [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; Metadatenabruf: veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahmezeitpunkt ungeklärt.
-  Quellenzugriff am 2026-11-17. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. Wortlaut an der Originalstelle kontrolliert.
+- [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahme laut am 19.11.2026 erneut direkt abgerufener Originalbeschreibung: 30.09.2026. Frühere Angabe Aufnahmezeitpunkt ungeklärt korrigiert.
+  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle. Wortlaut an der Originalstelle kontrolliert.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -582,18 +582,24 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der gerichtlich dokumentierte Fall Romeike umfasst frühere deutsche Antragsteller und eine zunächst erteilte, später aufgehobene Bewilligung. Das widerlegt die uneingeschränkte Erstmaligkeit, ohne eine heute fortbestehende Bewilligung zu behaupten.
+Der gerichtlich dokumentierte Fall Romeike umfasst frühere deutsche Antragsteller und eine zunächst erteilte, später aufgehobene Bewilligung. Das widerlegt die uneingeschränkte Erstmaligkeit, ohne eine heute fortbestehende Bewilligung zu behaupten. [Codex] Ergänzung 19.11.2026 nach Alfred-Rückabgleich: Unabhängig gelesene EOIR-Tabellen weisen für Deutschland im FY 2010 neun Bewilligungen und 44 Eingänge sowie im FY 2024 fünf Bewilligungen aus. Diese gerichtlichen Statistiken widerlegen ebenfalls die uneingeschränkte Erstmaligkeit; sie sind keine vollständige US-Gesamtstatistik und keine Aussage über Seibts Erfolgschance. Eingänge und Entscheidungen sind keine zwingend identische Fallkohorte.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Keine frühere KI-Bewertung übernommen.
+Bewertungsuebergang: Keine frühere KI-Bewertung übernommen. [Codex] 19.11.2026: Zwei amtliche Gerichtsstatistiken unabhängig gelesen und ergänzt; bisheriges Urteil Widerlegt bleibt. Kein Ersatz einer später aufgehobenen Bewilligung durch die Behauptung dauerhafter Einzelfallbewilligungen.
 
 ### Zugeordnete Quellen
 
 - [Romeike v. Holder, No. 12-3641](https://law.justia.com/cases/federal/appellate-courts/ca6/12-3641/12-3641-2013-05-14.html) · U.S. Court of Appeals, Sixth Circuit; 14.05.2013.
   Quellenzugriff am 2026-11-17. Entscheidungstext in Wiedergabe bei Justia gelesen, nicht nur die teils fehlerhafte redaktionelle Zusammenfassung. Frühere Bewilligung und spätere Aufhebung unterschieden. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
+
+- [EOIR: Immigration Courts Asylum Statistics FY 2009–2013](https://www.justice.gov/eoir/efoia/FY2009-FY2013AsylumStatisticsbyNationality.pdf) · US Department of Justice, April 2014; PDF-Seite 11: FY 2010, Zeile GERMANY.
+  Quellenzugriff am 2026-11-19. Tabellenkopf und Deutschlandzeile gelesen: RECEIVED 44, GRANTED 9. Gerichtsstatistik, kein Gesamtbestand aller US-Verfahren und keine Aussage über Seibts Fall. FY 2010, GERMANY: RECEIVED 44, GRANTED 9; PDF-Seite 11.
+
+- [EOIR: Asylum Decisions by Nationality, FY 2024](https://www.justice.gov/eoir/media/1344846/dl) · Daten erstellt 10.10.2024; PDF-Seite 2, GERMANY.
+  Quellenzugriff am 2026-11-19. Tabellenkopf, Fußnoten und Deutschlandzeile gelesen: 5 Grants. Initial case completions in den bezeichneten Gerichtsverfahren; keine vollständige Statistik aller Asylwege und keine aus diesen Daten berechnete persönliche Erfolgsquote. FY 2024, GERMANY: Grants 5; PDF-Seite 2, Geltungsbereich laut Fußnoten.
 
 ### Offene Fragen und Unsicherheiten
 

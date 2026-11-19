@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
 
 ## mdo14671BPE-A0001
 
@@ -29,13 +29,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nach der Tertiärquelle ist Seibt am 18.08.2000 geboren; ein Bericht vom 29.10.2025 nennt sie 25 Jahre alt, das passt dazu. 26 Jahre alt wäre sie ab dem 18.08.2026. Das Video wurde am 16.11.2026 veröffentlicht, der Aufnahmetermin ist unbekannt; das Gespräch behandelt den Ende Oktober 2025 bekannt gewordenen Asylantrag. Die Altersangabe stimmt also nur bei einer Aufnahme zwischen August und November 2026. Das lässt sich nicht feststellen.
+Die Originalbeschreibung nennt als Aufnahmedatum 30.09.2026. Die frühere Begründung eines unbekannten Aufnahmetermins entfällt. Das passt zur Angabe 26 Jahre bei dem in einer Tertiärquelle genannten Geburtsdatum 18.08.2000 und zur früheren Presseangabe 25 im Oktober 2025. Eine unabhängig gelesene belastbare Geburtsquelle liegt weiterhin nicht vor; die Originalbeschreibung wiederholt die Altersangabe und ist dafür keine unabhängige Bestätigung. Deshalb bleibt Nicht ausreichend belegbar im ausdrücklich begrenzten Quellenstand.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt. [Codex] 19.11.2026, UG-C0001: frühere Begründung zum unbekannten Aufnahmetermin korrigiert; Urteil Nicht ausreichend belegbar unverändert. Vorher/nachher im Korrekturprotokoll.
 
 ### Zugeordnete Quellen
 
@@ -45,19 +45,24 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 - [Keine Meinungsfreiheit in Deutschland? AfD-Influencerin Naomi Seibt beantragt Asyl in den USA](https://www.berliner-zeitung.de/article/naomi-seibt-afd-influencerin-beantragt-asyl-in-den-usa-10003111) · Berliner Zeitung, Eva Maria Braungart · 29.10.2025; gibt Seibts Angaben aus einem Fox-News-Video wieder, nennt sie 25 Jahre alt.
   Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen; keine Bestätigung durch Behörde oder Anwalt. Keine Quellenkopie veröffentlicht. Altersangabe 25 am 29.10.2025.
 
+- [Naomi Seibt bei Ben: Originalinterview](https://www.youtube.com/watch?v=mdo14671BPE) · Direkter neuer Metadatenabruf am 19.11.2026; Beschreibung nennt Aufnahmedatum 30. September 2026.
+  Quellenzugriff am 2026-11-19. Aktuelle Uploadbeschreibung direkt abgerufen; private deutsche Originaluntertitel an 00:31:10–00:32:05, 01:13:50–01:15:50, 02:16:25–02:17:10 und 02:30:45–02:32:15 erneut gelesen. Personen nur textlich plausibel. Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum; keine unabhängige Dateidatierung.
+
 ### Offene Fragen und Unsicherheiten
 
-- Aufnahmedatum beim Kanal oder in Begleitangaben zur Folge erfragen oder ermitteln.
+- Eine belastbare unabhängige Geburts- oder datierte Altersquelle kontrollieren; Aufnahmezeitpunkt ist laut Herausgeber geklärt.
 
 ### Recherchedokumentation
 
 Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Hoch.
 
-Fehlende Information: Das Aufnahmedatum des Gesprächs (Altersangabe stimmt nur bei Aufnahme ab 18.08.2026).
+Fehlende Information: Unabhängig gelesene belastbare Geburts-/Altersquelle; die frühere Lücke zum Aufnahmedatum ist geschlossen.
 
 - Durchgang 1 am 2026-11-18 (Claude): Geburtsdatum und datierte Altersangaben in Lexikon und Presse gesucht. Gepruefte Quellen: S112, S113. Ergebnis: Geburtsdatum 18.08.2000; Alter 26 erst ab 18.08.2026.
 
 - Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Aufnahmedatum der Folge über Podcastverzeichnisse, Transkriptdienste und Presseberichte zur Folge gesucht. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Kein Aufnahmedatum gefunden; nur das Veröffentlichungsdatum 16.11.2026 ist bekannt.
+
+- Durchgang 3 am 2026-11-19 (Codex): Alfreds Hinweis unabhängig gegen die erneut direkt abgerufene Originalbeschreibung geprüft; relevante Originaluntertitel erneut gelesen. Gepruefte Quellen: S136. Ergebnis: Aufnahmedatum laut Herausgeber 30.09.2026, nicht mehr unbekannt. Kein Nachweis tatsächlicher Kenntnis oder unabhängiger Geburtsdaten.
 
 ## mdo14671BPE-A0002
 
@@ -107,8 +112,8 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 ### Zugeordnete Quellen
 
-- [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; Metadatenabruf: veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahmezeitpunkt ungeklärt.
-  Quellenzugriff am 2026-11-17. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. Gastgeber nennt Vereidigungszeremonie, Seibt selbst den Inauguration Ball.
+- [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahme laut am 19.11.2026 erneut direkt abgerufener Originalbeschreibung: 30.09.2026. Frühere Angabe Aufnahmezeitpunkt ungeklärt korrigiert.
+  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle. Gastgeber nennt Vereidigungszeremonie, Seibt selbst den Inauguration Ball.
 
 ### Offene Fragen und Unsicherheiten
 
