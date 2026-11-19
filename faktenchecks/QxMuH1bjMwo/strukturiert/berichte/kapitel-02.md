@@ -130,4 +130,46 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
+## QxMuH1bjMwo-A0041
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Führende Vertreter der russisch-orthodoxen Kirche hätten Russlands Krieg gegen die Ukraine legitimiert.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:06:52–00:07:03](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=412s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Patriarch Kyrill erklärte den Konflikt im März 2022 vor allem mit dem Verhalten des Westens und berief sich auf die gemeinsame religiöse Geschichte Russlands und der Ukraine. Diese Stellungnahme stützt die Aussage zur Rolle der Kirchenführung. Sie belegt keine einheitliche Haltung aller Gemeinden und Geistlichen.
+
+Grundlage der Bewertung: [Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Ökumenischer Rat der Kirchen: Antwort von Patriarch Kyrill auf Ioan Sauca](https://www.oikoumene.org/resources/documents/response-by-hh-patriarch-kirill-of-moscow-to-rev-prof-dr-ioan-sauca-english-translation) · Brief vom 10. März 2022, publiziert in englischer Übersetzung durch den Empfänger.
+  Quellenzugriff am 2026-11-19. Begründung des Konflikts durch Kyrill sowie seine Darstellung religiöser und geopolitischer Zusammenhänge gelesen. Brief des Patriarchen an den Ökumenischen Rat der Kirchen nach dem russischen Angriff.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

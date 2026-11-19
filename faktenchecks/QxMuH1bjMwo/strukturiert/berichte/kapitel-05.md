@@ -94,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Im britisch beherrschten Indien seien für das Wahlrecht nach Religionszugehörigkeit getrennte Wahlkreise gebildet worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -113,21 +113,22 @@ Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – für die Einordnung sind die zeitgenössischen Wahlregeln und die Abgrenzung zwischen getrennten Wählerschaften, reservierten Sitzen und geografischen Wahlkreisen nötig.
+Zeitgenössische amtliche Korrespondenz dokumentiert getrennte muslimische Wählerschaften seit den Reformen von 1909 und unterschiedliche Regelungen im weiteren Verlauf. Solche besonderen Wählergruppen und Repräsentationsregeln sind genauer als die pauschale Vorstellung ausschließlich muslimischer beziehungsweise hinduistischer geografischer Wahlkreise.
 
-Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.
+Grundlage der Bewertung: [Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
 
 Uebernahme: Direkt aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: Zur weiteren Prüfung erfasst.
+Bewertungsuebergang: [Codex] 19.11.2026: Nach Quellenabgleich von Offen auf Teilweise belegt umgestellt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [East India (Constitutional Reforms): Despatches from Provincial Governments in India](https://www.nottingham.ac.uk/research/groups/conferencing-the-international/documents/official-documents/pre-conference/despatches-from-provincial-governments-in-india.pdf) · Zeitgenössische amtliche Dokumente, digitalisiert von der University of Nottingham.
+  Quellenzugriff am 2026-11-19. Rückblick einer Provinzregierung auf getrennte Wählergruppen ab 1909, den Lucknow-Pakt 1916 und unterschiedliche Wahlregelungen gelesen. Amtlicher Rückblick auf getrennte Wählergruppen, die Reformen von 1909 und den Lucknow-Pakt.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Wahlregeln galten in welchen Jahren und Provinzen für die genannten Gruppen?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## QxMuH1bjMwo-A0028
 

@@ -203,20 +203,27 @@ Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – der Gast nennt keine Vorschrift oder Jahreszahl. Zu klären sind besondere Dienst- oder Verfahrensregeln für Richter und der zeitliche Bezug der im Anschluss beschriebenen Demonstration.
+Noch nicht geprüft – § 70 regelt die Amtskleidung der Richter und das Gesetz von 2017 die Verhüllung des Gesichts. Die damaligen parlamentarischen Unterlagen dokumentieren eine separate Debatte über Richterinnen. Für ein allgemeines gerichtliches Symbolverbot sowie für die genaue Rechtslage zur Zeit der beschriebenen Kundgebung fehlt ein belastbarer Nachweis.
 
-Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.
+Grundlage der Bewertung: [Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
 
 Uebernahme: Direkt aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: Zur weiteren Prüfung erfasst.
+Bewertungsuebergang: [Codex] 19.11.2026: Quellen zur Sachfrage ergänzt. Rechtsnorm und Datum der beschriebenen Kundgebung bleiben zu klären.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Österreich: Richter- und Staatsanwaltschaftsdienstgesetz § 70](https://www.ris.bka.gv.at/eli/bgbl/1961/305/P70/NOR40230460) · Rechtsinformationssystem des Bundes, Vorschrift zur Amtskleidung.
+  Quellenzugriff am 2026-11-19. Zusammensetzung des Amtskleides und Ermächtigung zu einer näheren Verordnung gelesen. § 70 zur Amtskleidung.
+
+- [Österreich: Anti-Gesichtsverhüllungsgesetz § 2](https://www.bmeia.gv.at/fileadmin/user_upload/Zentrale/Integration/Integrationsgesetz/BGBLA_2017_I_68.pdf) · Bundesgesetzblatt I Nr. 68/2017, Art. 2 des Gesetzespakets.
+  Quellenzugriff am 2026-11-19. Tatbestand und Ausnahmen des Verbots der Gesichtsverhüllung gelesen. § 2 zum Verbot der Gesichtsverhüllung im öffentlichen Raum.
+
+- [Österreichisches Parlament: Stellungnahme 48/SN-290/ME](https://www.parlament.gv.at/dokument/XXV/SNME/9487/imfname_621450.pdf) · Amtlich dokumentierte Stellungnahme zum Gesetzesentwurf aus dem Jahr 2017.
+  Quellenzugriff am 2026-11-19. Abschnitt zur getrennten Debatte über Kopftücher bei Richterinnen und zur Gesichtsverhüllung gelesen. Zeitgenössische Stellungnahme zur Unterscheidung der beiden Debatten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche österreichische Rechtsvorschrift oder Dienstregel lag zur gemeinten Zeit für Richterinnen vor, und auf welche Kundgebung bezieht sich die Aussage?
+- Welche Kundgebung beschreibt der Gast? Lässt sich dazu eine konkrete richterdienstrechtliche Regel in der damals geltenden Fassung oder ein einschlägiges Urteil ermitteln?
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
