@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
 
 ## mdo14671BPE-A0054
 
@@ -519,13 +519,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Kontakt ist durch E-Mails belegt, deren Echtheit Musk bestätigt hat. Nach diesen E-Mails fragte Musk 2012 und 2013 allerdings selbst mehrfach nach Besuchen auf der Insel; diese kamen nach den Berichten wegen Absagen bzw. Logistik nicht zustande. Ein Besuch ist nicht belegt, ein Fehlverhalten wird nicht gezeigt. Die Darstellung einer bloß abgelehnten Einladung entspricht Musks eigener Erklärung und lässt diesen Kontext weg. Die E-Mails wurden Ende Januar 2026 öffentlich; da der Aufnahmetermin unbekannt ist, ist offen, ob dieser Kontext bei der Aufnahme schon bekannt war.
+Der Kontakt ist durch die gelesene Berichterstattung über E-Mails gestützt. Danach fragte Musk 2012 und 2013 selbst nach Besuchen; es gab Absagen und logistische Hindernisse. Ein Besuch oder Vergehen ist daraus nicht belegt. Die bloße Ablehnungsdarstellung lässt diesen Kontext weg. Die E-Mails wurden laut Bericht Ende Januar 2026 öffentlich, die Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum. Der Quellenstand lag demnach vor der Aufnahme, ohne dass damit Seibts tatsächliche Kenntnis bewiesen ist. Die direkten Akten wurden in dieser Nachprüfung nicht gelesen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert.
+Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert. [Codex] 19.11.2026, UG-C0001: frühere Begründung zum unbekannten Aufnahmetermin korrigiert; Urteil Irreführend / Kontext fehlt unverändert. Vorher/nachher im Korrekturprotokoll.
 
 ### Zugeordnete Quellen
 
@@ -534,6 +534,9 @@ Bewertungsuebergang: Bewertung durch Claude nach eigener Quellenlektüre am 18.1
 
 - [Elon Musk's Emails to Jeffrey Epstein Revealed in Latest File Release](https://time.com/7362868/elon-musk-epstein-emails/) · TIME, Rebecca Schneid · 31.01.2026, aktualisiert 11.03.2026; Musks Bestätigung der Echtheit und eigene Darstellung.
   Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Musk bestätigt Echtheit, eigene Darstellung abgelehnter Einladungen.
+
+- [Naomi Seibt bei Ben: Originalinterview](https://www.youtube.com/watch?v=mdo14671BPE) · Direkter neuer Metadatenabruf am 19.11.2026; Beschreibung nennt Aufnahmedatum 30. September 2026.
+  Quellenzugriff am 2026-11-19. Aktuelle Uploadbeschreibung direkt abgerufen; private deutsche Originaluntertitel an 00:31:10–00:32:05, 01:13:50–01:15:50, 02:16:25–02:17:10 und 02:30:45–02:32:15 erneut gelesen. Personen nur textlich plausibel. Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum; keine unabhängige Dateidatierung.
 
 ### Offene Fragen und Unsicherheiten
 

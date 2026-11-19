@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0006",
+  "revision": 1,
+  "claim": "§ 188 StGB wurde 2021 während Merkels Kanzlerschaft um Beleidigungen erweitert; der Schutz bis zur kommunalen Ebene wurde ausdrücklich klargestellt.",
+  "topics": [
+    "meinungsfreiheit/strafrecht"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Artikel 1 Nummer 8 des Gesetzes vom 30.03.2021 und die Ausschussbegründung bestätigen diese Änderung. Die korrigierte Inkrafttretensregel nennt 03.04.2021. Keine persönliche Urheberschaft Merkels oder Entstehung im Erdogan-Konflikt wird daraus abgeleitet.",
+  "validity": {
+    "asOf": "2026-11-19",
+    "timeScope": "Historische Gesetzesänderung 2021",
+    "subjectScope": "Erweiterung des Tatbestands und Klarstellung des kommunalen Schutzes",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-19",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "Gesetz zur Bekämpfung des Rechtsextremismus und der Hasskriminalität",
+      "url": "https://media.offenegesetze.de/bgbl1/2021/bgbl1_2021_13_original.pdf",
+      "details": "BGBl. I 2021 S. 441, Artikel 1 Nummer 8; Änderung der Inkrafttretensregel auf S. 474.",
+      "accessedOn": "2026-11-19",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q2",
+      "title": "Bundestagsdrucksache 19/20163",
+      "url": "https://dserver.bundestag.de/btd/19/201/1920163.pdf",
+      "details": "Rechtsausschuss, 17.06.2020, insbesondere gedruckte S. 43.",
+      "accessedOn": "2026-11-19",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "mdo14671BPE-A0227",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Beide beziehen sich auf dieselbe historische Erweiterung unter Merkel.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0015",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Reaktion bestätigt dieselbe Erweiterung mit demselben Zeitbezug.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-19"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Aus dem Original-/Reaktionsabgleich angelegt; Originalquellen am 19.11.2026 selbst in den dokumentierten Abschnitten gelesen. Keine frühere KI-Bewertung als Beleg übernommen.",
+      "previous": null
+    }
+  ]
+}

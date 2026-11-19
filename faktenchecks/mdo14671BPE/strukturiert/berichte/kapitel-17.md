@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
 
 ## mdo14671BPE-A0162
 
@@ -39,8 +39,8 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 ### Zugeordnete Quellen
 
-- [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; Metadatenabruf: veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahmezeitpunkt ungeklärt.
-  Quellenzugriff am 2026-11-17. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. Eigene Schilderung der Teilnahme an Butler und Madison Square Garden.
+- [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahme laut am 19.11.2026 erneut direkt abgerufener Originalbeschreibung: 30.09.2026. Frühere Angabe Aufnahmezeitpunkt ungeklärt korrigiert.
+  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle. Eigene Schilderung der Teilnahme an Butler und Madison Square Garden.
 
 ### Offene Fragen und Unsicherheiten
 

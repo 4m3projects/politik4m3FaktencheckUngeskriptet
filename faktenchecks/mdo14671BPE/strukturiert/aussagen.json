@@ -5,12 +5,12 @@
     "videoId": "mdo14671BPE",
     "videoUrl": "https://www.youtube.com/watch?v=mdo14671BPE",
     "durationSeconds": 10118,
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-19",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert.",
+    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.",
     "coverageNote": "Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext."
   },
   "legacyPoints": [],
@@ -19,9 +19,9 @@
       "id": "S001",
       "title": "Interview mit Naomi Seibt bei Ben",
       "url": "https://www.youtube.com/watch?v=mdo14671BPE",
-      "details": "{ungeskriptet} by Ben; Metadatenabruf: veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahmezeitpunkt ungeklärt.",
-      "accessedOn": "2026-11-17",
-      "accessBasis": "Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage."
+      "details": "{ungeskriptet} by Ben; veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahme laut am 19.11.2026 erneut direkt abgerufener Originalbeschreibung: 30.09.2026. Frühere Angabe Aufnahmezeitpunkt ungeklärt korrigiert.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle."
     },
     {
       "id": "S002",
@@ -1094,6 +1094,30 @@
       "details": "der Freitag, Julian Heißler, 08.10.2014, Meinungsbeitrag zur Jungen Union: „Mißfelder galt als kommender Mann in der Union, manche sahen in ihm gar den künftigen Kanzler.“ Nach dem Besuch von Schröders Geburtstagsfeier 2014 galt er in der Union als politisch erledigt.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen (Durchsicht nach docs/AGENTEN_RECHERCHE.md). Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S136",
+      "title": "Naomi Seibt bei Ben: Originalinterview",
+      "url": "https://www.youtube.com/watch?v=mdo14671BPE",
+      "details": "Direkter neuer Metadatenabruf am 19.11.2026; Beschreibung nennt Aufnahmedatum 30. September 2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Aktuelle Uploadbeschreibung direkt abgerufen; private deutsche Originaluntertitel an 00:31:10–00:32:05, 01:13:50–01:15:50, 02:16:25–02:17:10 und 02:30:45–02:32:15 erneut gelesen. Personen nur textlich plausibel."
+    },
+    {
+      "id": "S137",
+      "title": "EOIR: Immigration Courts Asylum Statistics FY 2009–2013",
+      "url": "https://www.justice.gov/eoir/efoia/FY2009-FY2013AsylumStatisticsbyNationality.pdf",
+      "details": "US Department of Justice, April 2014; PDF-Seite 11: FY 2010, Zeile GERMANY.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tabellenkopf und Deutschlandzeile gelesen: RECEIVED 44, GRANTED 9. Gerichtsstatistik, kein Gesamtbestand aller US-Verfahren und keine Aussage über Seibts Fall."
+    },
+    {
+      "id": "S138",
+      "title": "EOIR: Asylum Decisions by Nationality, FY 2024",
+      "url": "https://www.justice.gov/eoir/media/1344846/dl",
+      "details": "Daten erstellt 10.10.2024; PDF-Seite 2, GERMANY.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tabellenkopf, Fußnoten und Deutschlandzeile gelesen: 5 Grants. Initial case completions in den bezeichneten Gerichtsverfahren; keine vollständige Statistik aller Asylwege und keine aus diesen Daten berechnete persönliche Erfolgsquote."
     }
   ],
   "speakers": [
@@ -1120,12 +1144,12 @@
       "description": "Der Gast ist zum Zeitpunkt des Gesprächs 26 Jahre alt.",
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
-      "reason": "Nach der Tertiärquelle ist Seibt am 18.08.2000 geboren; ein Bericht vom 29.10.2025 nennt sie 25 Jahre alt, das passt dazu. 26 Jahre alt wäre sie ab dem 18.08.2026. Das Video wurde am 16.11.2026 veröffentlicht, der Aufnahmetermin ist unbekannt; das Gespräch behandelt den Ende Oktober 2025 bekannt gewordenen Asylantrag. Die Altersangabe stimmt also nur bei einer Aufnahme zwischen August und November 2026. Das lässt sich nicht feststellen.",
+      "reason": "Die Originalbeschreibung nennt als Aufnahmedatum 30.09.2026. Die frühere Begründung eines unbekannten Aufnahmetermins entfällt. Das passt zur Angabe 26 Jahre bei dem in einer Tertiärquelle genannten Geburtsdatum 18.08.2000 und zur früheren Presseangabe 25 im Oktober 2025. Eine unabhängig gelesene belastbare Geburtsquelle liegt weiterhin nicht vor; die Originalbeschreibung wiederholt die Altersangabe und ist dafür keine unabhängige Bestätigung. Deshalb bleibt Nicht ausreichend belegbar im ausdrücklich begrenzten Quellenstand.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt. [Codex] 19.11.2026, UG-C0001: frühere Begründung zum unbekannten Aufnahmetermin korrigiert; Urteil Nicht ausreichend belegbar unverändert. Vorher/nachher im Korrekturprotokoll."
       },
       "sourceRefs": [
         {
@@ -1135,10 +1159,14 @@
         {
           "sourceId": "S113",
           "note": "Altersangabe 25 am 29.10.2025."
+        },
+        {
+          "sourceId": "S136",
+          "note": "Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum; keine unabhängige Dateidatierung."
         }
       ],
       "openQuestions": [
-        "Aufnahmedatum beim Kanal oder in Begleitangaben zur Folge erfragen oder ermitteln."
+        "Eine belastbare unabhängige Geburts- oder datierte Altersquelle kontrollieren; Aufnahmezeitpunkt ist laut Herausgeber geklärt."
       ],
       "occurrences": [
         {
@@ -1180,9 +1208,18 @@
             "strategy": "Zweiter Durchgang: Aufnahmedatum der Folge über Podcastverzeichnisse, Transkriptdienste und Presseberichte zur Folge gesucht.",
             "sourceIds": [],
             "result": "Kein Aufnahmedatum gefunden; nur das Veröffentlichungsdatum 16.11.2026 ist bekannt."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Alfreds Hinweis unabhängig gegen die erneut direkt abgerufene Originalbeschreibung geprüft; relevante Originaluntertitel erneut gelesen.",
+            "sourceIds": [
+              "S136"
+            ],
+            "result": "Aufnahmedatum laut Herausgeber 30.09.2026, nicht mehr unbekannt. Kein Nachweis tatsächlicher Kenntnis oder unabhängiger Geburtsdaten."
           }
         ],
-        "missingInformation": "Das Aufnahmedatum des Gesprächs (Altersangabe stimmt nur bei Aufnahme ab 18.08.2026).",
+        "missingInformation": "Unabhängig gelesene belastbare Geburts-/Altersquelle; die frühere Lücke zum Aufnahmedatum ist geschlossen.",
         "conflicts": null
       }
     },
@@ -1611,21 +1648,25 @@
       "description": "Gegen Seibt habe es wegen eines eigenen Posts ein Volksverhetzungsverfahren gegeben.",
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
-      "reason": "WDR berichtet am 11.11.2026 über einen rechtskräftigen Strafbefehl nach zurückgezogenem Einspruch und 2400 Euro Geldstrafe. Der Originalbescheid fehlt; Aufnahmezeit und gemeinter Post sind nicht abschließend zugeordnet.",
+      "reason": "WDR berichtet am 11.11.2026 über einen rechtskräftigen Strafbefehl nach zurückgezogenem Einspruch und 2400 Euro Geldstrafe. Der Originalbescheid fehlt; der gemeinte Post ist nicht abschließend zugeordnet. Die Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum. Der spätere Novemberbericht belegt deshalb nicht, dass dieser Verfahrensstand schon bei Aufnahme bekannt war.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen. [Codex] 19.11.2026, UG-C0001: frühere Begründung zum unbekannten Aufnahmetermin korrigiert; Urteil Teilweise belegt unverändert. Vorher/nachher im Korrekturprotokoll."
       },
       "sourceRefs": [
         {
           "sourceId": "S038",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S136",
+          "note": "Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum; keine unabhängige Dateidatierung."
         }
       ],
       "openQuestions": [
-        "Aktenzeichen, Strafbefehl und Aufnahmezeit fehlen; keine Kenntnis des späteren Verfahrensstands bei Aufnahme unterstellen."
+        "Aktenzeichen und Strafbefehl fehlen; Aufnahme laut Herausgeber 30.09.2026; keine Kenntnis des späteren Verfahrensstands bei Aufnahme unterstellen."
       ],
       "occurrences": [
         {
@@ -4227,12 +4268,12 @@
       "description": "Musk habe einen Kontakt mit Epstein und eine Einladung zu dessen Insel gehabt, sie aber abgelehnt.",
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
-      "reason": "Der Kontakt ist durch E-Mails belegt, deren Echtheit Musk bestätigt hat. Nach diesen E-Mails fragte Musk 2012 und 2013 allerdings selbst mehrfach nach Besuchen auf der Insel; diese kamen nach den Berichten wegen Absagen bzw. Logistik nicht zustande. Ein Besuch ist nicht belegt, ein Fehlverhalten wird nicht gezeigt. Die Darstellung einer bloß abgelehnten Einladung entspricht Musks eigener Erklärung und lässt diesen Kontext weg. Die E-Mails wurden Ende Januar 2026 öffentlich; da der Aufnahmetermin unbekannt ist, ist offen, ob dieser Kontext bei der Aufnahme schon bekannt war.",
+      "reason": "Der Kontakt ist durch die gelesene Berichterstattung über E-Mails gestützt. Danach fragte Musk 2012 und 2013 selbst nach Besuchen; es gab Absagen und logistische Hindernisse. Ein Besuch oder Vergehen ist daraus nicht belegt. Die bloße Ablehnungsdarstellung lässt diesen Kontext weg. Die E-Mails wurden laut Bericht Ende Januar 2026 öffentlich, die Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum. Der Quellenstand lag demnach vor der Aufnahme, ohne dass damit Seibts tatsächliche Kenntnis bewiesen ist. Die direkten Akten wurden in dieser Nachprüfung nicht gelesen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert. [Codex] 19.11.2026, UG-C0001: frühere Begründung zum unbekannten Aufnahmetermin korrigiert; Urteil Irreführend / Kontext fehlt unverändert. Vorher/nachher im Korrekturprotokoll."
       },
       "sourceRefs": [
         {
@@ -4242,6 +4283,10 @@
         {
           "sourceId": "S099",
           "note": "Musk bestätigt Echtheit, eigene Darstellung abgelehnter Einladungen."
+        },
+        {
+          "sourceId": "S136",
+          "note": "Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum; keine unabhängige Dateidatierung."
         }
       ],
       "openQuestions": [],
@@ -11031,17 +11076,25 @@
       "description": "Vor Seibt habe keine deutsche Person in den USA Asyl beantragt oder erhalten.",
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
-      "reason": "Der gerichtlich dokumentierte Fall Romeike umfasst frühere deutsche Antragsteller und eine zunächst erteilte, später aufgehobene Bewilligung. Das widerlegt die uneingeschränkte Erstmaligkeit, ohne eine heute fortbestehende Bewilligung zu behaupten.",
+      "reason": "Der gerichtlich dokumentierte Fall Romeike umfasst frühere deutsche Antragsteller und eine zunächst erteilte, später aufgehobene Bewilligung. Das widerlegt die uneingeschränkte Erstmaligkeit, ohne eine heute fortbestehende Bewilligung zu behaupten. [Codex] Ergänzung 19.11.2026 nach Alfred-Rückabgleich: Unabhängig gelesene EOIR-Tabellen weisen für Deutschland im FY 2010 neun Bewilligungen und 44 Eingänge sowie im FY 2024 fünf Bewilligungen aus. Diese gerichtlichen Statistiken widerlegen ebenfalls die uneingeschränkte Erstmaligkeit; sie sind keine vollständige US-Gesamtstatistik und keine Aussage über Seibts Erfolgschance. Eingänge und Entscheidungen sind keine zwingend identische Fallkohorte.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Keine frühere KI-Bewertung übernommen."
+        "assessmentChange": "Keine frühere KI-Bewertung übernommen. [Codex] 19.11.2026: Zwei amtliche Gerichtsstatistiken unabhängig gelesen und ergänzt; bisheriges Urteil Widerlegt bleibt. Kein Ersatz einer später aufgehobenen Bewilligung durch die Behauptung dauerhafter Einzelfallbewilligungen."
       },
       "sourceRefs": [
         {
           "sourceId": "S023",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S137",
+          "note": "FY 2010, GERMANY: RECEIVED 44, GRANTED 9; PDF-Seite 11."
+        },
+        {
+          "sourceId": "S138",
+          "note": "FY 2024, GERMANY: Grants 5; PDF-Seite 2, Geltungsbereich laut Fußnoten."
         }
       ],
       "openQuestions": [

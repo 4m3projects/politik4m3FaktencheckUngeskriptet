@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "videoId": "BOIqGtGuShM",
+  "role": "reaction",
+  "reactionType": "faktencheck",
+  "channel": "Alfred räumt auf",
+  "title": "Hatte Musk keine Zeit für Epsteins Insel? Naomi Seibt bei Ungeskriptet",
+  "videoUrl": "https://www.youtube.com/watch?v=BOIqGtGuShM",
+  "workStatus": "Teilbestand geprüft",
+  "identification": {
+    "basis": "Direkter YouTube-Metadatenabruf: Die Beschreibung verlinkt ausdrücklich mdo14671BPE; fünf Einspielungen zusätzlich mit den Originaluntertiteln abgeglichen.",
+    "certainty": "Belegt",
+    "checkedOn": "2026-11-19"
+  }
+}

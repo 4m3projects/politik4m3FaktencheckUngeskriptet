@@ -1,0 +1,136 @@
+{
+  "schemaVersion": 1,
+  "videoId": "BOIqGtGuShM",
+  "basis": "[Codex] 19.11.2026: ausschließlich aus konkreten Prüfgegenständen, nicht aus dem Titel zugeordnet.",
+  "topics": [
+    {
+      "topic": "corona",
+      "relevance": "Schwerpunkt",
+      "basis": "Fünf Sachbehauptungen zum Virusnachweis und eine offene ergänzende Quellenkontrolle.",
+      "segments": []
+    },
+    {
+      "topic": "asyl",
+      "relevance": "Behandelt",
+      "basis": "Frühere Asylentscheidungen und Abgrenzung des Gerichtsbestands.",
+      "segments": []
+    },
+    {
+      "topic": "meinungsfreiheit",
+      "relevance": "Behandelt",
+      "basis": "§ 188, § 130 und Kriminalstatistik, einschließlich offener Einzelfallzuordnung.",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "BOIqGtGuShM-A0003",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0004",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0005",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0006",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0007",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0008",
+      "topics": [
+        "corona"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0011",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0012",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0013",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0014",
+      "topics": [
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0015",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0016",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0017",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0018",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0019",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0020",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0021",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Neue Gegenprüfung aus konkreten Aussagen thematisch eingeordnet; keine Rückwirkung auf Faktenbewertungen."
+    }
+  ]
+}
