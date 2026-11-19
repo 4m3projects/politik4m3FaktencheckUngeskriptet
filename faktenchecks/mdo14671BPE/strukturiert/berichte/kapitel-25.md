@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe vor dem Abitur Texte bei Philosophia Perennis veröffentlicht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,22 +29,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – öffentliche, datierbare Publikationsbehauptung; Originalbeiträge und ursprüngliche Datierung noch nicht gelesen.
+Nach Wikipedia, gestützt auf Guardian und Correctiv (Februar 2020), wurde mit 16 Jahren ein Gedicht von ihr auf David Bergers Blog Philosophia Perennis veröffentlicht. Ihren Schulabschluss am Gymnasium St. Mauritz machte sie 2017 (Westfälische Nachrichten, laut DeSmog). Die Veröffentlichung lag damit vor dem Abitur. Belegt ist ein Gedicht; ob es weitere Texte gab, wurde nicht geprüft.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Wikipedia und DeSmog als Sekundärquellen gelesen; Originalbeitrag auf Philosophia Perennis nicht gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Philosophia-Perennis-Veröffentlichung und Abschlussjahr recherchiert; von Offen auf Belegt.
 
 ### Zugeordnete Quellen
 
 - [Naomi Seibt](https://en.wikipedia.org/wiki/Naomi_Seibt) · Wikipedia (englisch), Gemeinschaftsartikel ohne Datum; Tertiärquelle, nur ergänzend verwendet.
   Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen: Geburtsdatum 18.08.2000 (Fußnotenzuordnung dort fehlerhaft), Mutter Rechtsanwältin (Fußnote Guardian 25.02.2020), Gedicht mit 16 bei Philosophia Perennis (Fußnoten Guardian, CORRECTIV). Die Fußnotenquellen selbst nicht gelesen. Keine Quellenkopie veröffentlicht. Gedicht mit 16 bei Philosophia Perennis laut Tertiärquelle (Fußnoten nicht selbst gelesen).
 
+- [Naomi Seibt (englischsprachige Wikipedia)](https://en.wikipedia.org/wiki/Naomi_Seibt) · Wikipedia-Artikel, Stand beim Abruf; verweist für den EIKE-Auftritt auf die Süddeutsche Zeitung vom 04.11.2019.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen; Sekundärquelle, der zitierte SZ-Artikel selbst wurde nicht gelesen. Keine Quellenkopie veröffentlicht. Gedicht mit 16 bei Philosophia Perennis (Guardian, Correctiv).
+
+- [Naomi Seibt (DeSmog-Datenbank)](https://www.desmog.com/naomi-seibt) · DeSmog, Personenprofil, zuletzt geändert 29.11.2023; Heartland-Zusammenarbeit ab Dezember 2019, Schulabschluss 2017 laut Westfälischen Nachrichten vom 09.07.2017.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (erste Hälfte im Wortlaut, Rest nur zusammengefasst); klimapolitisch engagierte Rechercheplattform. Keine Quellenkopie veröffentlicht. Schulabschluss 2017.
+
 ### Offene Fragen und Unsicherheiten
 
-- Erstveröffentlichungen, Autorinnenzuordnung und Verhältnis zum Abschlussjahr prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0245
 

@@ -145,7 +145,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Bezeichnung als Gegenfigur zu Greta Thunberg sei von Medien und nicht von Seibt selbst eingeführt worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -164,22 +164,28 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Erstverwendung und spätere institutionelle Vermarktung sind verschiedene Fragen; keine vollständige historische Erstrecherche erfolgt.
+Als Urheberin des Etiketts „Anti-Greta“ wird Seibt in den gelesenen Quellen nicht genannt. Belegt ist aber, dass das Heartland Institute, mit dem sie ab Dezember 2019 zusammenarbeitete, sie aktiv als Gegenstück zu Greta Thunberg vermarktete; Medien griffen das Etikett im Februar 2020 breit auf. „Von Medien eingeführt“ greift daher zu kurz; wer den Begriff zuerst benutzte, bleibt offen.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Wikipedia (mit Belegen aus Insider, Guardian, Weltwoche) und DeSmog-Profil gelesen; Heartland-Video vom Dezember 2019 nicht selbst gesehen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Herkunft des Etiketts recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
 - [The Heartlander, Winter 2020](https://heartland.org/wp-content/uploads/documents/HeartlanderWinter20.pdf) · The Heartland Institute; Ausgabe Winter 2020, enthält Rückblick Dezember 2019.
   Quellenzugriff am 2026-11-17. Originalpublikation online geöffnet; Abschnitte zu Seibts Auftritt in Madrid und Zusammenarbeit gelesen. Interessengeleitete Selbstauskunft, keine Kontrolle aller Finanzierungsquellen. Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten.
 
+- [Naomi Seibt (englischsprachige Wikipedia)](https://en.wikipedia.org/wiki/Naomi_Seibt) · Wikipedia-Artikel, Stand beim Abruf; verweist für den EIKE-Auftritt auf die Süddeutsche Zeitung vom 04.11.2019.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen; Sekundärquelle, der zitierte SZ-Artikel selbst wurde nicht gelesen. Keine Quellenkopie veröffentlicht. Heartland vermarktete sie als „Anti-Greta“; Seibt nicht als Urheberin genannt.
+
+- [Naomi Seibt (DeSmog-Datenbank)](https://www.desmog.com/naomi-seibt) · DeSmog, Personenprofil, zuletzt geändert 29.11.2023; Heartland-Zusammenarbeit ab Dezember 2019, Schulabschluss 2017 laut Westfälischen Nachrichten vom 09.07.2017.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (erste Hälfte im Wortlaut, Rest nur zusammengefasst); klimapolitisch engagierte Rechercheplattform. Keine Quellenkopie veröffentlicht. Heartland bewarb sie ab Dezember 2019 als Gegenstück zu Thunberg.
+
 ### Offene Fragen und Unsicherheiten
 
-- Frühesten datierten Mediengebrauch und damalige Selbst-/Heartland-Darstellung vergleichen.
+- Frühester datierter Gebrauch von „Anti-Greta“ für Seibt.
 
 ## mdo14671BPE-A0101
 

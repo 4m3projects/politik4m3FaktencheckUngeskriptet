@@ -101,7 +101,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe 2019 mit einem klimakritischen YouTube-Video größere Aufmerksamkeit erhalten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -120,13 +120,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Öffentliche spätere Bekanntheit ist belegt, ursprüngliches Video und damalige Reichweite aber noch nicht direkt kontrolliert.
+Seibt veröffentlicht seit Mai 2019 YouTube-Videos, auch zum Klima, und trat im November 2019 bei der EIKE-Konferenz und im Dezember 2019 in Madrid auf; ab Dezember 2019 stellte Heartland sie heraus. Breite internationale Aufmerksamkeit folgte erst im Februar 2020. Dass ein bestimmtes klimakritisches Video 2019 der Auslöser war, ist in den gelesenen Quellen nicht belegt.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Wikipedia und DeSmog gelesen; ursprüngliches Video und damalige Aufrufzahlen nicht kontrolliert (YouTube aus der Arbeitsumgebung nicht erreichbar).
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Bekanntwerden 2019/2020 recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
@@ -136,8 +136,14 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 - [German YouTube Personality Naomi Seibt Joins The Heartland Institute](https://heartland.org/opinion/press-release-german-youtube-personality-naomi-seibt-joins-the-heartland-institute/) · Jim Lakely, The Heartland Institute; Pressemitteilung 14.02.2020.
   Quellenzugriff am 2026-11-18. Originale Personalmitteilung einschließlich damaliger Altersangabe und beschriebener Zusammenarbeit gelesen. Institutionelle Selbstauskunft, keine unabhängige Bewertung der wissenschaftlichen Aussagen oder vollständiger Zahlungsnachweis. Belegt institutionelle Kooperation im Februar 2020; keine vollständige Bestätigung aller weiteren Detail- oder Finanzbehauptungen.
 
+- [Naomi Seibt (englischsprachige Wikipedia)](https://en.wikipedia.org/wiki/Naomi_Seibt) · Wikipedia-Artikel, Stand beim Abruf; verweist für den EIKE-Auftritt auf die Süddeutsche Zeitung vom 04.11.2019.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen; Sekundärquelle, der zitierte SZ-Artikel selbst wurde nicht gelesen. Keine Quellenkopie veröffentlicht. YouTube-Videos seit Mai 2019, EIKE November 2019, internationale Berichte Februar 2020.
+
+- [Naomi Seibt (DeSmog-Datenbank)](https://www.desmog.com/naomi-seibt) · DeSmog, Personenprofil, zuletzt geändert 29.11.2023; Heartland-Zusammenarbeit ab Dezember 2019, Schulabschluss 2017 laut Westfälischen Nachrichten vom 09.07.2017.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen (erste Hälfte im Wortlaut, Rest nur zusammengefasst); klimapolitisch engagierte Rechercheplattform. Keine Quellenkopie veröffentlicht. Heartland-Zusammenarbeit ab Dezember 2019.
+
 ### Offene Fragen und Unsicherheiten
 
-- Erstveröffentlichung und historischer Aufrufstand des konkret gemeinten Videos sichern.
+- Konkretes Video von 2019 und dessen Reichweite bestimmen.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
