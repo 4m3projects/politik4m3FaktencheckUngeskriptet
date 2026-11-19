@@ -133,4 +133,46 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
+## QxMuH1bjMwo-A0044
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Im Werbeblock heißt es, Unternehmen könnten bei der Forschungszulage bis zu 4,2 Millionen Euro im Jahr erhalten, auch rückwirkend bis 2022.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:47:07–00:47:22](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=2827s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+4,2 Millionen Euro ergeben sich ab 2026 aus 35 Prozent von 12 Millionen Euro förderfähigen Aufwendungen, wenn ein anspruchsberechtigtes kleines oder mittleres Unternehmen die Erhöhung beantragt. Der allgemeine Satz beträgt 25 Prozent. In den zurückliegenden Jahren galten niedrigere Bemessungsgrenzen, für 2022 etwa vier Millionen Euro als Bemessungsgrundlage. Ob für ein bestimmtes Jahr rückwirkend noch ein Anspruch besteht, richtet sich nach den gesetzlichen und verfahrensrechtlichen Voraussetzungen.
+
+Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Forschungszulagengesetz, insbesondere §§ 3–5](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html) · Konsolidierter Gesetzestext auf dem Bundesportal.
+  Quellenzugriff am 2026-11-19. Bemessungsgrenzen der verschiedenen Zeiträume, Zulagensatz und Erhöhung für kleine und mittlere Unternehmen gelesen. Bemessungsgrenzen, Höhe der Zulage und Antrag.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

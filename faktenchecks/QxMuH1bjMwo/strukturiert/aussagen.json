@@ -454,6 +454,78 @@
       "details": "Brief vom 10. März 2022, publiziert in englischer Übersetzung durch den Empfänger.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Begründung des Konflikts durch Kyrill sowie seine Darstellung religiöser und geopolitischer Zusammenhänge gelesen."
+    },
+    {
+      "id": "S056",
+      "title": "Islamische Gemeinde Penzberg: Imam Idriz spricht in der Deutschen Islam Konferenz",
+      "url": "https://islam-penzberg.de/imam-idriz-spricht-in-der-deutschen-islam-konferenz/",
+      "details": "Bericht einer teilnehmenden Gemeinde über die Tagung zur Ausbildung religiösen Personals.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tagungsbeschreibung, Eröffnung durch Horst Seehofer und Bericht zum Beitrag des Imams gelesen."
+    },
+    {
+      "id": "S057",
+      "title": "WHO: Measuring non-partner sexual violence against women",
+      "url": "https://www.who.int/publications/i/item/B09836",
+      "details": "Methodenpapier vom August 2026 mit einem Abschnitt zu sexueller Belästigung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Überblick zu Begriffsdefinitionen, Erhebung und Vergleichbarkeit gelesen."
+    },
+    {
+      "id": "S058",
+      "title": "WHO: Violence against women prevalence estimates, 2023",
+      "url": "https://www.who.int/publications/i/item/B09860",
+      "details": "Globaler Bericht über die Prävalenz von Gewalt gegen Frauen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Beschriebene Indikatoren für Gewalt in Partnerschaften und sexuelle Gewalt durch andere Personen gelesen."
+    },
+    {
+      "id": "S059",
+      "title": "Fayyaz und Ambreen: Hijab and sexual harassment among urban Muslim women",
+      "url": "https://so02.tci-thaijo.org/index.php/hasss/article/view/260439",
+      "details": "Originalstudie zu Kleidungspraktiken und Belästigung in einem pakistanischen städtischen Kontext.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zusammenfassung zu untersuchten Kleidungsgruppen und Reichweite der Stichprobe gelesen."
+    },
+    {
+      "id": "S060",
+      "title": "Forschungszulagengesetz, insbesondere §§ 3–5",
+      "url": "https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html",
+      "details": "Konsolidierter Gesetzestext auf dem Bundesportal.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Bemessungsgrenzen der verschiedenen Zeiträume, Zulagensatz und Erhöhung für kleine und mittlere Unternehmen gelesen."
+    },
+    {
+      "id": "S061",
+      "title": "Muslime in Deutschland: Forschungsbericht, Literaturverzeichnis",
+      "url": "https://www.deutsche-islam-konferenz.de/SharedDocs/Anlagen/DE/Downloads/WissenschaftPublikationen/muslime-in-deutschland-lang-dik.pdf?__blob=publicationFile&v=4",
+      "details": "Forschungsbericht auf dem Portal der Deutschen Islam Konferenz.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Bibliografieeintrag zu Abdel-Samads Beitrag in Peter Waldmanns Sammelband von 2005 gelesen."
+    },
+    {
+      "id": "S062",
+      "title": "Dar al-Ifta, Ägypten: What is fatwa?",
+      "url": "https://www.dar-alifta.org/en/fatwa/what-is-fatwa",
+      "details": "Begriffserklärung einer ägyptischen religiösen Einrichtung, die selbst Gutachten erstellt.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Definition und verschiedene Anwendungsbereiche der Fatwa gelesen."
+    },
+    {
+      "id": "S063",
+      "title": "PEN America: Campaign for Reader Privacy Press Conference",
+      "url": "https://pen.org/campaign-for-reader-privacy-press-conference/",
+      "details": "Dokumentierte Rede Salman Rushdies.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Rushdies eigene Schilderung der Fatwa von 1989 und ihres Zusammenhangs mit dem Roman gelesen."
+    },
+    {
+      "id": "S064",
+      "title": "Österreichisches Parlament: Integrationsgesetz und Anti-Gesichtsverhüllungsgesetz, 1586 d.B.",
+      "url": "https://www.parlament.gv.at/gegenstand/XXV/I/1586",
+      "details": "Verfahrensdokumentation zur Regierungsvorlage im Jahr 2017.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gesetzgebungsvorgang und Bestandteile des Pakets nachgesehen."
     }
   ],
   "speakers": [
@@ -2144,10 +2216,14 @@
         {
           "sourceId": "S050",
           "note": "Zeitgenössische Stellungnahme zur Unterscheidung der beiden Debatten."
+        },
+        {
+          "sourceId": "S064",
+          "note": "Parlamentarisches Verfahren zum 2017 eingebrachten Paket."
         }
       ],
       "openQuestions": [
-        "Welche Kundgebung beschreibt der Gast? Lässt sich dazu eine konkrete richterdienstrechtliche Regel in der damals geltenden Fassung oder ein einschlägiges Urteil ermitteln?"
+        "Kann die erwähnte Demonstration anhand von Datum, Organisatoren oder Aufzeichnung eindeutig identifiziert werden? Welche gerichtliche Bestimmung wurde ihr damals zugeordnet?"
       ],
       "occurrences": [
         {
@@ -2441,16 +2517,24 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein Vertreter des türkisch-islamischen Verbands habe in einer Sitzung der Deutschen Islam Konferenz erklärt, die Absolventen der deutschen Hochschulprogramme erfüllten die Standards für eine Anstellung in den Moscheen des Verbands nicht.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Programmunterlagen unterscheiden Hochschulabschluss und praktische Ausbildung, geben aber die konkrete Wortmeldung in der Sitzung nicht wieder. Der Verband betrieb nach eigener Darstellung ab 2020 ein praktisches Ausbildungsprogramm in Dahlem.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Abdel-Samad schilderte dieselbe Wortmeldung schon in seinem öffentlichen Rücktrittsbrief im November 2020. Ein Bericht einer teilnehmenden Gemeinde bestätigt das Thema der Fachtagung und die Eröffnung durch den Innenminister. Die veröffentlichte Schilderung der Tagung und die offiziellen Ausbildungsinformationen bestätigen den genauen Wortlaut des DITIB-Vertreters nicht unabhängig. Das ist keine Widerlegung der Schilderung.",
       "assessmentBasis": "[Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Zur weiteren Prüfung erfasst."
+        "assessmentChange": "[Codex] 19.11.2026: Nach Abgleich des Rücktrittsbriefs, des Tagungsberichts und der Ausbildungsunterlagen von Offen auf Nicht ausreichend belegbar umgestellt."
       },
       "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Zeitnahe Selbstauskunft des Gastes über die von ihm erinnerte Wortmeldung."
+        },
+        {
+          "sourceId": "S056",
+          "note": "Zeitgenössischer Bericht einer teilnehmenden Gemeinde zu Thema und Ablauf."
+        },
         {
           "sourceId": "S053",
           "note": "Unterschied zwischen Hochschulausbildung und praktischer Ausbildung."
@@ -2461,7 +2545,7 @@
         }
       ],
       "openQuestions": [
-        "Welche Sitzung war gemeint? Liegen eine Aufzeichnung, ein Sitzungsprotokoll oder eine zeitgenössische Erklärung des Verbands genau zu dieser Wortmeldung vor?"
+        "Ein vollständiges Protokoll, eine Aufzeichnung der einschlägigen Diskussionsrunde oder eine zeitgenössische Stellungnahme des DITIB-Vertreters suchen."
       ],
       "occurrences": [
         {
@@ -2478,6 +2562,291 @@
           "roleStatus": "Plausibel",
           "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
           "note": "Fundstelle zur weiteren Sachprüfung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Zeitgenössische Ausbildungsunterlagen und Veröffentlichungen der beteiligten Organisationen zu Einstellungsvoraussetzungen gesucht.",
+            "sourceIds": [
+              "S053",
+              "S054"
+            ],
+            "result": "Die Ausbildungswege sind dokumentiert, der Wortbeitrag auf der Tagung fehlt."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Über Datum, Rücktrittsschreiben und Teilnehmerberichte nach der konkreten Tagung und einer zeitnahen Wiedergabe der Sitzung gesucht.",
+            "sourceIds": [
+              "S003",
+              "S056"
+            ],
+            "result": "Der offene Brief ist eine zeitnahe Wiederholung durch denselben Zeugen. Der teilnehmende Imam beschreibt die Tagung, bestätigt die konkrete Wortmeldung aber nicht."
+          }
+        ],
+        "missingInformation": "Eine unabhängig kontrollierbare Aufzeichnung oder Niederschrift der Wortmeldung.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0044",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Werbeblock heißt es, Unternehmen könnten bei der Forschungszulage bis zu 4,2 Millionen Euro im Jahr erhalten, auch rückwirkend bis 2022.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "4,2 Millionen Euro ergeben sich ab 2026 aus 35 Prozent von 12 Millionen Euro förderfähigen Aufwendungen, wenn ein anspruchsberechtigtes kleines oder mittleres Unternehmen die Erhöhung beantragt. Der allgemeine Satz beträgt 25 Prozent. In den zurückliegenden Jahren galten niedrigere Bemessungsgrenzen, für 2022 etwa vier Millionen Euro als Bemessungsgrundlage. Ob für ein bestimmtes Jahr rückwirkend noch ein Anspruch besteht, richtet sich nach den gesetzlichen und verfahrensrechtlichen Voraussetzungen.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S060",
+          "note": "Bemessungsgrenzen, Höhe der Zulage und Antrag."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0044",
+          "startSeconds": 2827,
+          "endSeconds": 2842,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0045",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Sexuelle Belästigung sei im internationalen Vergleich in Ländern mit verbreiteter Voll- oder Teilverschleierung am häufigsten.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die geprüften Veröffentlichungen belegen sexuelle Belästigung in einzelnen Ländern. Die länderübergreifenden WHO-Schätzungen erfassen überwiegend andere Gewaltindikatoren. Die geprüfte Studie aus Pakistan vergleicht Kleidungsgruppen in einem lokalen Kontext. Keine dieser Quellen trägt eine Rangfolge von Ländern nach sexueller Belästigung und Verbreitung der Verschleierung.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S057",
+          "note": "Methodische Grenzen beim Vergleich von Erhebungen."
+        },
+        {
+          "sourceId": "S058",
+          "note": "Indikatoren der globalen WHO-Schätzung."
+        },
+        {
+          "sourceId": "S059",
+          "note": "Einzelstudie zu Kleidungsgruppen und sexueller Belästigung in Pakistan."
+        }
+      ],
+      "openQuestions": [
+        "Vorgelegte Statistiken identifizieren und kontrollieren, ob sie dieselbe Altersgruppe, denselben Erhebungszeitraum sowie vergleichbare Definitionen und Maße für Belästigung und Verschleierung verwenden."
+      ],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0045",
+          "startSeconds": 3014,
+          "endSeconds": 3043,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Nach länderübergreifenden amtlichen Messungen von sexueller Belästigung und deren methodischer Vergleichbarkeit gesucht.",
+            "sourceIds": [
+              "S057",
+              "S058"
+            ],
+            "result": "Die WHO-Dokumente unterscheiden Belästigung von anderen Gewaltindikatoren und liefern keine Rangfolge nach Kleidungspraktiken."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Mit alternativen englischen Suchbegriffen für Schleier, Kleidung und sexuelle Belästigung gezielt nach den im Gespräch genannten Ländern und Vergleichsstudien gesucht.",
+            "sourceIds": [
+              "S059"
+            ],
+            "result": "Die pakistanische Untersuchung vergleicht örtliche Gruppen mit verschiedener Kleidung. Sie liefert keine vergleichbaren nationalen Prävalenzwerte."
+          }
+        ],
+        "missingInformation": "Eine vergleichbare Erhebung für die genannten Länder und Vergleichsländer mit ausgewiesener Verbreitung von Verschleierung und einer einheitlich gemessenen Belästigungsquote.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0046",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Abdel-Samad veröffentlichte 2005 eine Untersuchung zur Radikalisierung von Muslimen in Deutschland.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Ein Forschungsbericht führt den Beitrag Radikalisierung in der Fremde? Muslime in Deutschland für 2005 auf. Das Inhaltsverzeichnis des Sammelbands führt unter anderem Interviews und die Untersuchung möglicher Radikalisierungsfaktoren auf. Geprüft ist das Erscheinungsjahr der Studie. Ob es die erste Arbeit des Autors zu diesem Thema war, ergibt sich daraus nicht.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Bibliografie mit Autor, Titel, Jahr und Sammelband."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0046",
+          "startSeconds": 5892,
+          "endSeconds": 5904,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0047",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine Fatwa ist ein religiöses Rechtsgutachten, das zu unterschiedlichen Themen ergehen kann.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die ägyptische Gutachtenstelle Dar al-Ifta beschreibt sie als Erläuterung islamischer Rechtsauffassungen durch einen Mufti und nennt private wie allgemeine Anlässe. Die konkrete Drohung gegen Abdel-Samad ist gesondert erfasst.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S062",
+          "note": "Definition und beispielhafte Anwendungsbereiche."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0047",
+          "startSeconds": 6430,
+          "endSeconds": 6436,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0048",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der iranische Ayatollah Chomeini erließ nach dem Roman Die satanischen Verse eine Fatwa, die zum Tod Salman Rushdies aufrief.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Rushdie erklärte in seiner bei PEN America dokumentierten Rede, dass Chomeini nach der Veröffentlichung des Romans 1989 eine ausdrücklich gegen sein Leben gerichtete Fatwa verhängte.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S063",
+          "note": "Aussage des betroffenen Autors zur gegen ihn gerichteten Fatwa."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0048",
+          "startSeconds": 6438,
+          "endSeconds": 6448,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
           "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
           "timeHistory": []
         }

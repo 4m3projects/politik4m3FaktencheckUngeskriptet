@@ -181,4 +181,88 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
+## QxMuH1bjMwo-A0047
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Eine Fatwa ist ein religiöses Rechtsgutachten, das zu unterschiedlichen Themen ergehen kann.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:47:10–01:47:16](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=6430s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die ägyptische Gutachtenstelle Dar al-Ifta beschreibt sie als Erläuterung islamischer Rechtsauffassungen durch einen Mufti und nennt private wie allgemeine Anlässe. Die konkrete Drohung gegen Abdel-Samad ist gesondert erfasst.
+
+Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Dar al-Ifta, Ägypten: What is fatwa?](https://www.dar-alifta.org/en/fatwa/what-is-fatwa) · Begriffserklärung einer ägyptischen religiösen Einrichtung, die selbst Gutachten erstellt.
+  Quellenzugriff am 2026-11-19. Definition und verschiedene Anwendungsbereiche der Fatwa gelesen. Definition und beispielhafte Anwendungsbereiche.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0048
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der iranische Ayatollah Chomeini erließ nach dem Roman Die satanischen Verse eine Fatwa, die zum Tod Salman Rushdies aufrief.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:47:18–01:47:28](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=6438s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Rushdie erklärte in seiner bei PEN America dokumentierten Rede, dass Chomeini nach der Veröffentlichung des Romans 1989 eine ausdrücklich gegen sein Leben gerichtete Fatwa verhängte.
+
+Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [PEN America: Campaign for Reader Privacy Press Conference](https://pen.org/campaign-for-reader-privacy-press-conference/) · Dokumentierte Rede Salman Rushdies.
+  Quellenzugriff am 2026-11-19. Rushdies eigene Schilderung der Fatwa von 1989 und ihres Zusammenhangs mit dem Roman gelesen. Aussage des betroffenen Autors zur gegen ihn gerichteten Fatwa.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

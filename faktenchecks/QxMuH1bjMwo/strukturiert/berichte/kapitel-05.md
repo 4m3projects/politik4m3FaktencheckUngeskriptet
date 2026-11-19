@@ -172,4 +172,62 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
+## QxMuH1bjMwo-A0045
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Sexuelle Belästigung sei im internationalen Vergleich in Ländern mit verbreiteter Voll- oder Teilverschleierung am häufigsten.
+
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:50:14–00:50:43](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=3014s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die geprüften Veröffentlichungen belegen sexuelle Belästigung in einzelnen Ländern. Die länderübergreifenden WHO-Schätzungen erfassen überwiegend andere Gewaltindikatoren. Die geprüfte Studie aus Pakistan vergleicht Kleidungsgruppen in einem lokalen Kontext. Keine dieser Quellen trägt eine Rangfolge von Ländern nach sexueller Belästigung und Verbreitung der Verschleierung.
+
+Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [WHO: Measuring non-partner sexual violence against women](https://www.who.int/publications/i/item/B09836) · Methodenpapier vom August 2026 mit einem Abschnitt zu sexueller Belästigung.
+  Quellenzugriff am 2026-11-19. Überblick zu Begriffsdefinitionen, Erhebung und Vergleichbarkeit gelesen. Methodische Grenzen beim Vergleich von Erhebungen.
+
+- [WHO: Violence against women prevalence estimates, 2023](https://www.who.int/publications/i/item/B09860) · Globaler Bericht über die Prävalenz von Gewalt gegen Frauen.
+  Quellenzugriff am 2026-11-19. Beschriebene Indikatoren für Gewalt in Partnerschaften und sexuelle Gewalt durch andere Personen gelesen. Indikatoren der globalen WHO-Schätzung.
+
+- [Fayyaz und Ambreen: Hijab and sexual harassment among urban Muslim women](https://so02.tci-thaijo.org/index.php/hasss/article/view/260439) · Originalstudie zu Kleidungspraktiken und Belästigung in einem pakistanischen städtischen Kontext.
+  Quellenzugriff am 2026-11-19. Zusammenfassung zu untersuchten Kleidungsgruppen und Reichweite der Stichprobe gelesen. Einzelstudie zu Kleidungsgruppen und sexueller Belästigung in Pakistan.
+
+### Offene Fragen und Unsicherheiten
+
+- Vorgelegte Statistiken identifizieren und kontrollieren, ob sie dieselbe Altersgruppe, denselben Erhebungszeitraum sowie vergleichbare Definitionen und Maße für Belästigung und Verschleierung verwenden.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Eine vergleichbare Erhebung für die genannten Länder und Vergleichsländer mit ausgewiesener Verbreitung von Verschleierung und einer einheitlich gemessenen Belästigungsquote.
+
+- Durchgang 1 am 2026-11-19 (Codex): Nach länderübergreifenden amtlichen Messungen von sexueller Belästigung und deren methodischer Vergleichbarkeit gesucht. Gepruefte Quellen: S057, S058. Ergebnis: Die WHO-Dokumente unterscheiden Belästigung von anderen Gewaltindikatoren und liefern keine Rangfolge nach Kleidungspraktiken.
+
+- Durchgang 2 am 2026-11-19 (Codex): Mit alternativen englischen Suchbegriffen für Schleier, Kleidung und sexuelle Belästigung gezielt nach den im Gespräch genannten Ländern und Vergleichsstudien gesucht. Gepruefte Quellen: S059. Ergebnis: Die pakistanische Untersuchung vergleicht örtliche Gruppen mit verschiedener Kleidung. Sie liefert keine vergleichbaren nationalen Prävalenzwerte.
+
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

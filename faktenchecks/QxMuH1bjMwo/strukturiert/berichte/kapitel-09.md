@@ -222,8 +222,11 @@ Bewertungsuebergang: [Codex] 19.11.2026: Quellen zur Sachfrage ergänzt. Rechtsn
 - [Österreichisches Parlament: Stellungnahme 48/SN-290/ME](https://www.parlament.gv.at/dokument/XXV/SNME/9487/imfname_621450.pdf) · Amtlich dokumentierte Stellungnahme zum Gesetzesentwurf aus dem Jahr 2017.
   Quellenzugriff am 2026-11-19. Abschnitt zur getrennten Debatte über Kopftücher bei Richterinnen und zur Gesichtsverhüllung gelesen. Zeitgenössische Stellungnahme zur Unterscheidung der beiden Debatten.
 
+- [Österreichisches Parlament: Integrationsgesetz und Anti-Gesichtsverhüllungsgesetz, 1586 d.B.](https://www.parlament.gv.at/gegenstand/XXV/I/1586) · Verfahrensdokumentation zur Regierungsvorlage im Jahr 2017.
+  Quellenzugriff am 2026-11-19. Gesetzgebungsvorgang und Bestandteile des Pakets nachgesehen. Parlamentarisches Verfahren zum 2017 eingebrachten Paket.
+
 ### Offene Fragen und Unsicherheiten
 
-- Welche Kundgebung beschreibt der Gast? Lässt sich dazu eine konkrete richterdienstrechtliche Regel in der damals geltenden Fassung oder ein einschlägiges Urteil ermitteln?
+- Kann die erwähnte Demonstration anhand von Datum, Organisatoren oder Aufzeichnung eindeutig identifiziert werden? Welche gerichtliche Bestimmung wurde ihr damals zugeordnet?
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
