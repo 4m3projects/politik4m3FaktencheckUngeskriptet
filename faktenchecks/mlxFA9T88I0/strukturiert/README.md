@@ -13,8 +13,8 @@ A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfo
 - Ausgewaehlte bisherige Pruefpunkte: 99 von 99
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 392
-- Abgeschlossen: 216
-- Offen (noch nicht geprueft): 26
+- Abgeschlossen: 217
+- Offen (noch nicht geprueft): 25
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 150
 - Erfasste Behauptungsvorkommen: 436
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 136 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 137 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 35 | 25.7 % |
-| Teilweise belegt | 69 | 50.7 % |
-| Irreführend / Kontext fehlt | 20 | 14.7 % |
+| Belegt | 35 | 25.5 % |
+| Teilweise belegt | 69 | 50.4 % |
+| Irreführend / Kontext fehlt | 21 | 15.3 % |
 | Widerlegt | 7 | 5.1 % |
-| Nicht ausreichend belegbar | 5 | 3.7 % |
+| Nicht ausreichend belegbar | 5 | 3.6 % |
 | Meinung / Prognose | 80 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.

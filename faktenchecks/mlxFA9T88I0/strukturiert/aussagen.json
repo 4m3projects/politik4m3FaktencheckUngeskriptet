@@ -2374,6 +2374,22 @@
       "details": "Ghana Business News mit dpa, 12.10.2025; deutsche Zusage von 1 Mrd. Euro an den Globalen Fonds für 2026–2028.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S172",
+      "title": "Social-Media-Trend: Rindertalg als Hautpflege?",
+      "url": "https://www.ptaheute.de/aktuelles/2025/07/29/social-media-trend-rindertalg-als-hautpflege",
+      "details": "PTAheute (Deutscher Apotheker Verlag), Claudia Faber, 29.07.2025; Zusammensetzung, Vitamingehalt und Eignung von Rindertalg.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S173",
+      "title": "Rindertalg als Hautretter?",
+      "url": "https://apotheken.de/news/14082-rindertalg-als-hautretter",
+      "details": "apotheken.de, Dr. med. Sonja Kempinski, 24.09.2025; fachliche Einordnung des Rindertalg-Trends.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -18430,19 +18446,26 @@
       "legacyId": "C06-P07",
       "kind": "Tatsachenbehauptung",
       "description": "Rindertalg sei in seiner Zusammensetzung dem menschlichen Hautfett am nächsten und liefere Fettsäuren, fettlösliche Vitamine und hautähnliche Lipide.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Werbeaussage. Eine Fachquelle zur Zusammensetzung von menschlichem Hautfett und Rindertalg wurde nicht gefunden bzw. nicht gelesen.",
-      "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Fachartikel für Apothekenpersonal bestätigen, dass Rindertalg als tierisches Fett dem menschlichen Hautfett ähnelt und Fettsäuren sowie etwas Vitamin A und E enthält. Am nächsten ist er dem Hautfett danach aber nicht (Schweineschmalz gilt als ähnlicher), die Vitaminmengen sind für eine Hautwirkung zu gering, und gegenüber pflanzlichen Fetten zeigen Studien keinen Vorteil; wegen seines hohen Anteils gesättigter Fettsäuren kann er Poren verstopfen. Die Werbeaussage stellt ihn damit deutlich günstiger dar, als die Fachquellen es tun.",
+      "assessmentBasis": "Zwei pharmazeutische Fachartikel (PTAheute 07/2025, apotheken.de 09/2025) gelesen; keine Primärstudien zur Lipidzusammensetzung.",
       "migration": {
         "changeType": "Kapitel 6 einzeln migriert",
         "mapping": "Werbeaussagen zu Feuchtigkeitscremes, Talgzusammensetzung, Geschichte tierischer Fette und Werbewertung getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): pharmazeutische Fachartikel zu Rindertalg gelesen; von Offen auf Irreführend / Kontext fehlt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Übersichtsarbeit zur Lipidzusammensetzung von Hautfett und Rindertalg lesen."
+      "sourceRefs": [
+        {
+          "sourceId": "S172",
+          "note": "Ähnlich, nicht am ähnlichsten (Schmalz näher); Vitaminmengen gering; komedogen."
+        },
+        {
+          "sourceId": "S173",
+          "note": "Sehr ähnlich dem Sebum, Vitamine A und E nur in geringer Menge."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0331",
