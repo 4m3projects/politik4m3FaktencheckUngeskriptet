@@ -2550,7 +2550,7 @@ Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkom
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0256 | Abgeschlossen | Belegt | Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt. |
 | mlxFA9T88I0-A0257 | Abgeschlossen | Teilweise belegt | Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt. |
-| mlxFA9T88I0-A0258 | Offen | keine Endbewertung | Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt. |
+| mlxFA9T88I0-A0258 | Abgeschlossen | Nicht ausreichend belegbar | Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt. |
 | mlxFA9T88I0-A0259 | Offen | keine Endbewertung | Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt. |
 
 Bewertungsuebergang mlxFA9T88I0-A0256: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
@@ -2559,7 +2559,7 @@ Bewertungsuebergang mlxFA9T88I0-A0256: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0257: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0258: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang mlxFA9T88I0-A0258: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Auktionsberichte 2012–2020 gelesen; von Offen auf Nicht ausreichend belegbar.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0259: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
@@ -3483,9 +3483,9 @@ Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten.
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0327 | Offen | keine Endbewertung | Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten. |
+| mlxFA9T88I0-A0327 | Abgeschlossen | Teilweise belegt | Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten. |
 
-Bewertungsuebergang mlxFA9T88I0-A0327: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang mlxFA9T88I0-A0327: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Bürokratiekostenindex und Erfüllungsaufwand recherchiert; von Offen auf Teilweise belegt.
 
 
 ## C08-P04

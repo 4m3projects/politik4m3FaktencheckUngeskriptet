@@ -1834,7 +1834,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Früher waren Bundesauktionen zwei- bis dreifach überzeichnet, heute nicht mehr.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1857,22 +1857,31 @@ Frueherer Suchbereich: [01:41:00–01:42:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Die gelesene Liste 2026 zeigt für Bundesanleihen meist Bid-to-Cover-Werte zwischen 1,0 und 1,8, bei Geldmarktpapieren auch über 3. Historische Vergleichswerte wurden nicht gelesen.
+Die gelesenen Einzelberichte ergeben kein klares Bild: 2019 war eine zehnjährige Bundesanleihe 2,4-fach gedeckt, 2012 und 2020 gab es aber auch unterdeckte Bund-Auktionen. 2026 liegen die Deckungsquoten bei Bundesanleihen meist zwischen 1,0 und 1,8. Eine Zeitreihe, die eine frühere regelmäßige zwei- bis dreifache Überzeichnung belegt oder widerlegt, wurde nicht gefunden.
 
-Grundlage der Bewertung: Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Auktionsliste 2026 der Finanzagentur sowie Marktberichte von 2012, 2019 und 2020 gelesen; keine durchgehende Zeitreihe.
 
 Uebernahme: Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Auktionsberichte 2012–2020 gelesen; von Offen auf Nicht ausreichend belegbar.
 
 ### Zugeordnete Quellen
 
 - [Emissionsergebnisse aktuelles Jahr (Auktionsergebnisse 2026)](https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Institutionelle-investoren/auktionen/emissionsergebnisse_aktuell_dt.pdf) · Deutsche Finanzagentur · laufende Liste 2026; Auktionen März bis Mai 2026 mit Emissionsvolumen, Bietungen, Zuteilung, Marktpflegequote und Bid-to-Cover.
   Quellenzugriff am 2026-11-18. PDF am 18.11.2026 abgerufen (Claude); Text lokal mit eigenem Extraktionsskript gelesen, nur die bezeichneten Tabellen/Abschnitte; keine visuelle Kontrolle und keine Quellenkopie veröffentlicht. Nur Werte 2026.
 
+- [Bund bleibt Unterdeckung erspart](https://www.boersen-zeitung.de/kapitalmaerkte/bund-bleibt-unterdeckung-erspart) · Börsen-Zeitung, 25.09.2019; zehnjährige Bundesanleihe mit Deckung 2,4.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. 2019: Deckung 2,4.
+
+- [German debt agency: uncovered auction shows market volatility](https://www.thestar.com.my/news/world/2012/09/26/german-debt-agency-uncovered-auction-shows-market-volatility) · Reuters über The Star, 26.09.2012; technisch unterdeckte Auktion der zehnjährigen Bundesanleihe.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. 2012: technisch unterdeckte Auktion.
+
+- [Unterdeckung bei Bund-Auktion](https://www.boersen-zeitung.de/kapitalmaerkte/unterdeckung-bei-bund-auktion) · Börsen-Zeitung, 24.03.2020; Unterdeckung bei zweijährigen Schatzanweisungen, Deckung 1,2.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. 2020: Unterdeckung, Deckung 1,2.
+
 ### Offene Fragen und Unsicherheiten
 
-- Auktionsergebnisse früherer Jahre zum Vergleich lesen.
+- Durchgehende Zeitreihe der Bid-to-Cover-Werte von Bundesanleihen (Finanzagentur-Jahresberichte).
 
 ## mlxFA9T88I0-A0259
 

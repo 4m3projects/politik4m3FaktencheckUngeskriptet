@@ -2294,6 +2294,38 @@
       "details": "Spektrum.de, Jan Osterkamp, 22.01.2004; Bericht über die Studie von Wagner, Born u. a., Nature 427 (2004).",
       "accessedOn": "2026-11-18",
       "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S162",
+      "title": "Sieben Prozent der Arbeitszeit im Mittelstand für bürokratische Prozesse",
+      "url": "https://www.kfw.de/PDF/Download-Center/Konzernthemen/Research/PDF-Dokumente-Fokus-Volkswirtschaft/Fokus-2025/Fokus-Nr.-495-April-2025-Buerokratie.pdf",
+      "details": "KfW Research, Fokus Volkswirtschaft Nr. 495, Michael Schwartz, 25.04.2025; Bürokratiekostenindex und Erfüllungsaufwand.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S163",
+      "title": "Bund bleibt Unterdeckung erspart",
+      "url": "https://www.boersen-zeitung.de/kapitalmaerkte/bund-bleibt-unterdeckung-erspart",
+      "details": "Börsen-Zeitung, 25.09.2019; zehnjährige Bundesanleihe mit Deckung 2,4.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S164",
+      "title": "German debt agency: uncovered auction shows market volatility",
+      "url": "https://www.thestar.com.my/news/world/2012/09/26/german-debt-agency-uncovered-auction-shows-market-volatility",
+      "details": "Reuters über The Star, 26.09.2012; technisch unterdeckte Auktion der zehnjährigen Bundesanleihe.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S165",
+      "title": "Unterdeckung bei Bund-Auktion",
+      "url": "https://www.boersen-zeitung.de/kapitalmaerkte/unterdeckung-bei-bund-auktion",
+      "details": "Börsen-Zeitung, 24.03.2020; Unterdeckung bei zweijährigen Schatzanweisungen, Deckung 1,2.",
+      "accessedOn": "2026-11-18",
+      "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -16725,23 +16757,35 @@
       "legacyId": "C05-P10",
       "kind": "Tatsachenbehauptung",
       "description": "Früher waren Bundesauktionen zwei- bis dreifach überzeichnet, heute nicht mehr.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Die gelesene Liste 2026 zeigt für Bundesanleihen meist Bid-to-Cover-Werte zwischen 1,0 und 1,8, bei Geldmarktpapieren auch über 3. Historische Vergleichswerte wurden nicht gelesen.",
-      "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die gelesenen Einzelberichte ergeben kein klares Bild: 2019 war eine zehnjährige Bundesanleihe 2,4-fach gedeckt, 2012 und 2020 gab es aber auch unterdeckte Bund-Auktionen. 2026 liegen die Deckungsquoten bei Bundesanleihen meist zwischen 1,0 und 1,8. Eine Zeitreihe, die eine frühere regelmäßige zwei- bis dreifache Überzeichnung belegt oder widerlegt, wurde nicht gefunden.",
+      "assessmentBasis": "Auktionsliste 2026 der Finanzagentur sowie Marktberichte von 2012, 2019 und 2020 gelesen; keine durchgehende Zeitreihe.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
         "mapping": "Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Auktionsberichte 2012–2020 gelesen; von Offen auf Nicht ausreichend belegbar."
       },
       "sourceRefs": [
         {
           "sourceId": "S073",
           "note": "Nur Werte 2026."
+        },
+        {
+          "sourceId": "S163",
+          "note": "2019: Deckung 2,4."
+        },
+        {
+          "sourceId": "S164",
+          "note": "2012: technisch unterdeckte Auktion."
+        },
+        {
+          "sourceId": "S165",
+          "note": "2020: Unterdeckung, Deckung 1,2."
         }
       ],
       "openQuestions": [
-        "Auktionsergebnisse früherer Jahre zum Vergleich lesen."
+        "Durchgehende Zeitreihe der Bid-to-Cover-Werte von Bundesanleihen (Finanzagentur-Jahresberichte)."
       ],
       "occurrences": [
         {
@@ -20288,18 +20332,23 @@
       "legacyId": "C08-P02",
       "kind": "Tatsachenbehauptung",
       "description": "Unter keiner Regierung habe die Bürokratie je abgenommen, sie sei immer nur gestiegen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Prüfbar etwa am Bürokratiekostenindex oder Erfüllungsaufwand; keine Quelle gelesen. Der Gast spricht ausdrücklich von seiner Wahrnehmung.",
-      "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Je nach Maßstab: Der Bürokratiekostenindex des Statistischen Bundesamtes, der die Kosten von Informations- und Meldepflichten misst, ist seit seiner Einführung 2012 gesunken; nach diesem Maß hat Bürokratie also abgenommen. Der umfassendere Erfüllungsaufwand ist dagegen in den letzten Jahren gestiegen. Die absolute Aussage „nie abgenommen“ trifft so nicht zu; dass die Belastung insgesamt zuletzt gestiegen ist, ist belegt. Der Gast spricht ausdrücklich von seiner Wahrnehmung.",
+      "assessmentBasis": "KfW-Research-Analyse (04/2025) gelesen; Indexwerte je Regierung nicht einzeln gelesen.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
         "mapping": "Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Bürokratiekostenindex und Erfüllungsaufwand recherchiert; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S162",
+          "note": "Bürokratiekostenindex seit 2012 rückläufig, Erfüllungsaufwand zuletzt gestiegen."
+        }
+      ],
       "openQuestions": [
-        "Bürokratiekostenindex und Erfüllungsaufwand (Destatis) über mehrere Regierungen lesen."
+        "Jahreswerte des Bürokratiekostenindex und des Erfüllungsaufwands je Legislaturperiode (Destatis, Normenkontrollrat)."
       ],
       "occurrences": [
         {

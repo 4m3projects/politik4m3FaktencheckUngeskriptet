@@ -266,7 +266,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Unter keiner Regierung habe die Bürokratie je abgenommen, sie sei immer nur gestiegen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -289,21 +289,22 @@ Frueherer Suchbereich: [02:18:40–02:19:39](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Prüfbar etwa am Bürokratiekostenindex oder Erfüllungsaufwand; keine Quelle gelesen. Der Gast spricht ausdrücklich von seiner Wahrnehmung.
+Je nach Maßstab: Der Bürokratiekostenindex des Statistischen Bundesamtes, der die Kosten von Informations- und Meldepflichten misst, ist seit seiner Einführung 2012 gesunken; nach diesem Maß hat Bürokratie also abgenommen. Der umfassendere Erfüllungsaufwand ist dagegen in den letzten Jahren gestiegen. Die absolute Aussage „nie abgenommen“ trifft so nicht zu; dass die Belastung insgesamt zuletzt gestiegen ist, ist belegt. Der Gast spricht ausdrücklich von seiner Wahrnehmung.
 
-Grundlage der Bewertung: Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: KfW-Research-Analyse (04/2025) gelesen; Indexwerte je Regierung nicht einzeln gelesen.
 
 Uebernahme: Allgemeine Bürokratieaussage als prüfbare Tatsachenbehauptung offen gehalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 18.11.2026 (Claude): Bürokratiekostenindex und Erfüllungsaufwand recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Sieben Prozent der Arbeitszeit im Mittelstand für bürokratische Prozesse](https://www.kfw.de/PDF/Download-Center/Konzernthemen/Research/PDF-Dokumente-Fokus-Volkswirtschaft/Fokus-2025/Fokus-Nr.-495-April-2025-Buerokratie.pdf) · KfW Research, Fokus Volkswirtschaft Nr. 495, Michael Schwartz, 25.04.2025; Bürokratiekostenindex und Erfüllungsaufwand.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Bürokratiekostenindex seit 2012 rückläufig, Erfüllungsaufwand zuletzt gestiegen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Bürokratiekostenindex und Erfüllungsaufwand (Destatis) über mehrere Regierungen lesen.
+- Jahreswerte des Bürokratiekostenindex und des Erfüllungsaufwands je Legislaturperiode (Destatis, Normenkontrollrat).
 
 ## mlxFA9T88I0-A0328
 
