@@ -2326,6 +2326,54 @@
       "details": "Börsen-Zeitung, 24.03.2020; Unterdeckung bei zweijährigen Schatzanweisungen, Deckung 1,2.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Von Claude am 18.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S166",
+      "title": "Debate: How is the Greek rescue package being spent?",
+      "url": "https://ineteconomics.org/perspectives/blog/debate-how-is-the-greek-rescue-package-being-spent",
+      "details": "Institute for New Economic Thinking, Pablo Gabriel Bortz, 17.05.2016; Zahlen der ESMT-Studie (Rocholl/Stahmer 2016) und Gegenpositionen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S167",
+      "title": "Die Griechenlandkredite gingen überwiegend an die Gläubiger",
+      "url": "https://www.blaetter.de/node/27252",
+      "details": "Blätter für deutsche und internationale Politik, Dokumentation der ESMT-Studie vom 04.05.2016.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S168",
+      "title": "Auswanderung aus Deutschland überwiegend auf Zeit",
+      "url": "https://www.uni-due.de/de/presse/meldung.php?id=8874",
+      "details": "Universität Duisburg-Essen, Pressemitteilung 10.03.2015; gemeinsame Studie mit SVR und BiB, nicht repräsentativ.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S169",
+      "title": "Internationally Mobile. Motivations, Determining Factors and Impacts of the Emigration and Return Migration of German Citizens",
+      "url": "https://www.svr-migration.de/en/publication/internationally-mobile-motivations-determining-factors-and-impacts-of-the-emigration-and-return-migration-of-german-citizens",
+      "details": "SVR-Forschungsbereich mit BiB und Universität Duisburg-Essen, März 2015.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S170",
+      "title": "US ohne AID?",
+      "url": "https://www.swp-berlin.org/publikation/us-ohne-aid",
+      "details": "Stiftung Wissenschaft und Politik, Biehler u. a., 04.04.2025; Folgen des USAID-Stopps, Kürzungen auch europäischer Geber.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S171",
+      "title": "Germany steps up global health funding with €1b as US cancels support",
+      "url": "https://www.ghanabusinessnews.com/2025/10/12/germany-steps-up-global-health-funding-with-e1b-as-us-cancels-support/",
+      "details": "Ghana Business News mit dpa, 12.10.2025; deutsche Zusage von 1 Mrd. Euro an den Globalen Fonds für 2026–2028.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -16009,18 +16057,27 @@
       "legacyId": "C05-P07",
       "kind": "Tatsachenbehauptung",
       "description": "Deutschland übernimmt Ausgaben, die die USA zuvor über USAID finanziert und dann gestoppt haben.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Konkrete Programme, Jahre und Beträge fehlen; keine Quelle gelesen.",
-      "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "In den gelesenen Quellen findet sich keine allgemeine Übernahme früher von USAID finanzierter Programme durch Deutschland. Die SWP beschreibt im April 2025 erwartete Kürzungen auch bei europäischen Gebern und fordert lediglich, Folgen abzufedern; Deutschland sagte im Oktober 2025 trotz Haushaltskürzungen 1 Mrd. Euro für den Globalen Fonds 2026–2028 zu, ohne dass dies als Ersatz für US-Mittel ausgewiesen ist. Ob einzelne frühere USAID-Projekte von Deutschland weitergeführt werden, bleibt ohne konkrete Programme und Beträge offen.",
+      "assessmentBasis": "SWP-Analyse (04/2025) und dpa-Bericht zur Zusage an den Globalen Fonds (10/2025) gelesen; keine Haushaltstitel des BMZ geprüft.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
         "mapping": "USAID-Ersatz, UN-Beiträge, EU-Zahlungen und sprichwörtliche Projektbeispiele getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): USAID-Folgen und deutsche Zusagen recherchiert; von Offen auf Nicht ausreichend belegbar."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S170",
+          "note": "Kürzungen auch europäischer Geber, keine Übernahme berichtet."
+        },
+        {
+          "sourceId": "S171",
+          "note": "1 Mrd. Euro an den Globalen Fonds trotz Haushaltskürzungen."
+        }
+      ],
       "openQuestions": [
-        "Haushaltsposten oder Regierungsangaben zu ersetzten USAID-Programmen lesen."
+        "Konkrete Programme, die nach dem USAID-Stopp aus dem BMZ- oder AA-Haushalt weiterfinanziert werden."
       ],
       "occurrences": [
         {
@@ -17149,19 +17206,26 @@
       "legacyId": "C05-P12",
       "kind": "Tatsachenbehauptung",
       "description": "Bei der Griechenlandrettung seien nicht Griechenland, sondern die Banken und Lebensversicherer gerettet worden, die griechische Anleihen hielten.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Strittige Deutung der Rettungsprogramme; Anteile der Mittel, die an private Gläubiger flossen, wären an Studien prüfbar. Keine Quelle gelesen.",
-      "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Nach der ESMT-Studie (Rocholl/Stahmer 2016) flossen von rund 216 Mrd. Euro der ersten beiden Programme weniger als 5 % in den griechischen Haushalt für andere Zwecke als den Schuldendienst; rund 64 % dienten Tilgung und Zinsen, rund 17 % der Rekapitalisierung griechischer Banken und rund 14 % dem Schuldenschnitt privater Gläubiger 2012. Dass vor allem Gläubiger, darunter Banken, profitierten, ist damit gut gestützt. Die Gegenposition, ein ungeordneter Staatsbankrott hätte auch Griechenland selbst schwer getroffen, wird in der Debatte ebenfalls vertreten; „nicht Griechenland gerettet“ ist daher eine Deutung. Lebensversicherer werden in den gelesenen Quellen nicht eigens beziffert.",
+      "assessmentBasis": "Debattenbeitrag des INET mit den Zahlen der ESMT-Studie und Dokumentation der Blätter gelesen; Vollstudie nicht gelesen.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
         "mapping": "Frankreich-Prognose, Griechenlandrettung, Lastenverteilung, Sparforderung, Weimarer Personalabbau, Pensionen und Zeitrahmen (Vorkommen von A0018) getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): ESMT-Studie zur Mittelverwendung recherchiert; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Studien zur Mittelverwendung der Griechenland-Programme lesen."
+      "sourceRefs": [
+        {
+          "sourceId": "S166",
+          "note": "Mittelverwendung nach ESMT, Gegenpositionen (Colasanti, Sinn)."
+        },
+        {
+          "sourceId": "S167",
+          "note": "Kernaussage der ESMT-Studie, Risikoverlagerung auf öffentliche Gläubiger."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0305",
@@ -19438,18 +19502,23 @@
       "legacyId": "C07-P04",
       "kind": "Tatsachenbehauptung",
       "description": "Gute Hochschulabsolventen orientieren sich wegen schwieriger Jobsuche zunehmend ins Ausland.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Trend- und Ursachenbehauptung; keine Quelle zu Motiven und Zeitverlauf gelesen.",
-      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die gelesene Befragung (2015) bestätigt, dass Hochqualifizierte unter Auswandernden überrepräsentiert sind, sieht aber eine „Brain Circulation“ ohne Anzeichen eines dauerhaften Weggangs. Eine Zeitreihe, die eine zunehmende Auslandsorientierung von Absolventen wegen schwieriger Jobsuche für die Zeit um 2026 zeigt, wurde nicht gefunden.",
+      "assessmentBasis": "Pressemitteilung und Studienseite zur Befragung von 2015 gelesen; keine aktuellen Absolventenbefragungen.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
         "mapping": "Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wanderungsbefragung 2015 gelesen; von Offen auf Nicht ausreichend belegbar."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S168",
+          "note": "Hochqualifizierte überrepräsentiert, keine Anzeichen dauerhaften Weggangs (2015)."
+        }
+      ],
       "openQuestions": [
-        "Befragungen zu Auswanderungsmotiven von Absolventen lesen."
+        "Aktuelle Absolventen- oder Wanderungsstatistik zur Auswanderung von Hochschulabsolventen."
       ],
       "occurrences": [
         {
@@ -19704,18 +19773,27 @@
       "legacyId": "C07-P06",
       "kind": "Tatsachenbehauptung",
       "description": "Rückkehrer seien typischerweise Ältere und teils Gescheiterte, die ins Sozialsystem zurückkommen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Alters- und Erwerbsstruktur der Rückkehrer wurde nicht gelesen; die BiB-Seiten enthielten dazu keine Angaben.",
-      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die einzige gelesene Befragung von Rückkehrern (SVR, BiB und Universität Duisburg-Essen, 2015) zeichnet ein anderes Bild: Rückwanderer sind deutlich jünger als die Gesamtbevölkerung und zu rund 64 % hochqualifiziert; meist kehren sie aus familiären oder beruflichen Gründen zurück. Für eine typischerweise ältere, gescheiterte Rückkehrergruppe, die ins Sozialsystem kommt, gibt es dort keinen Anhaltspunkt. Die Studie ist nicht repräsentativ und enthält keine Angaben zum Bezug von Sozialleistungen.",
+      "assessmentBasis": "Pressemitteilung und Studienseite zur Befragung von 2015 gelesen; spätere GERPS-Ergebnisse nicht gelesen.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
         "mapping": "Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Rückwandererbefragung 2015 recherchiert; von Offen auf Irreführend / Kontext fehlt."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S168",
+          "note": "Rückwanderer jünger als Bevölkerung, 64,1 % hochqualifiziert, nicht repräsentativ."
+        },
+        {
+          "sourceId": "S169",
+          "note": "Brain Circulation, Motive der Rückkehr."
+        }
+      ],
       "openQuestions": [
-        "Alters- und Erwerbsdaten der Rückwanderer (BiB/GERPS) lesen."
+        "Neuere GERPS-Ergebnisse zu Alter, Erwerbsstatus und Sozialleistungsbezug von Rückwanderern."
       ],
       "occurrences": [
         {
@@ -19752,18 +19830,27 @@
       "legacyId": "C07-P06",
       "kind": "Tatsachenbehauptung",
       "description": "Hochqualifizierte gehen, weil sie im Inland keinen ihrem Können entsprechenden Job finden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Ursachenbehauptung; keine Befragungsdaten zu Motiven gelesen.",
-      "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Berufliche Gründe sind laut der Befragung von 2015 eines der wichtigsten Auswanderungsmotive (rund 67 %), ebenso ein höheres Einkommen im Ausland (rund 47 %). Noch häufiger genannt wurde aber der Wunsch nach neuen Erfahrungen (rund 72 %). Dass Hochqualifizierte vor allem gehen, weil sie im Inland keinen passenden Job finden, wird so nicht erhoben; Auswanderung ist nach der Studie überwiegend befristet.",
+      "assessmentBasis": "Pressemitteilung und Studienseite zur Befragung von 2015 gelesen.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
         "mapping": "Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Motivbefragung 2015 recherchiert; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S168",
+          "note": "Motive: neue Erfahrungen 72,2 %, beruflich 66,9 %, Einkommen 46,9 %."
+        },
+        {
+          "sourceId": "S169",
+          "note": "Hochqualifizierte überrepräsentiert, Brain Circulation."
+        }
+      ],
       "openQuestions": [
-        "Motivbefragungen von Auswandernden lesen."
+        "Aktuelle Motivbefragungen (GERPS) zur Rolle fehlender passender Stellen."
       ],
       "occurrences": [
         {

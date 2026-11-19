@@ -470,7 +470,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Gute Hochschulabsolventen orientieren sich wegen schwieriger Jobsuche zunehmend ins Ausland.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -493,21 +493,22 @@ Frueherer Suchbereich: [02:09:35–02:10:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Trend- und Ursachenbehauptung; keine Quelle zu Motiven und Zeitverlauf gelesen.
+Die gelesene Befragung (2015) bestätigt, dass Hochqualifizierte unter Auswandernden überrepräsentiert sind, sieht aber eine „Brain Circulation“ ohne Anzeichen eines dauerhaften Weggangs. Eine Zeitreihe, die eine zunehmende Auslandsorientierung von Absolventen wegen schwieriger Jobsuche für die Zeit um 2026 zeigt, wurde nicht gefunden.
 
-Grundlage der Bewertung: Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Pressemitteilung und Studienseite zur Befragung von 2015 gelesen; keine aktuellen Absolventenbefragungen.
 
 Uebernahme: Bildungsstand, Abwanderung von Absolventen, Fortzüge 2024/2025 (Vorkommen von A0014/A0015) und Akademikeranteil getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wanderungsbefragung 2015 gelesen; von Offen auf Nicht ausreichend belegbar.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Auswanderung aus Deutschland überwiegend auf Zeit](https://www.uni-due.de/de/presse/meldung.php?id=8874) · Universität Duisburg-Essen, Pressemitteilung 10.03.2015; gemeinsame Studie mit SVR und BiB, nicht repräsentativ.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Hochqualifizierte überrepräsentiert, keine Anzeichen dauerhaften Weggangs (2015).
 
 ### Offene Fragen und Unsicherheiten
 
-- Befragungen zu Auswanderungsmotiven von Absolventen lesen.
+- Aktuelle Absolventen- oder Wanderungsstatistik zur Auswanderung von Hochschulabsolventen.
 
 ## mlxFA9T88I0-A0310
 
@@ -708,7 +709,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Rückkehrer seien typischerweise Ältere und teils Gescheiterte, die ins Sozialsystem zurückkommen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -731,21 +732,25 @@ Frueherer Suchbereich: [02:11:00–02:12:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Alters- und Erwerbsstruktur der Rückkehrer wurde nicht gelesen; die BiB-Seiten enthielten dazu keine Angaben.
+Die einzige gelesene Befragung von Rückkehrern (SVR, BiB und Universität Duisburg-Essen, 2015) zeichnet ein anderes Bild: Rückwanderer sind deutlich jünger als die Gesamtbevölkerung und zu rund 64 % hochqualifiziert; meist kehren sie aus familiären oder beruflichen Gründen zurück. Für eine typischerweise ältere, gescheiterte Rückkehrergruppe, die ins Sozialsystem kommt, gibt es dort keinen Anhaltspunkt. Die Studie ist nicht repräsentativ und enthält keine Angaben zum Bezug von Sozialleistungen.
 
-Grundlage der Bewertung: Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Pressemitteilung und Studienseite zur Befragung von 2015 gelesen; spätere GERPS-Ergebnisse nicht gelesen.
 
 Uebernahme: Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Rückwandererbefragung 2015 recherchiert; von Offen auf Irreführend / Kontext fehlt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Auswanderung aus Deutschland überwiegend auf Zeit](https://www.uni-due.de/de/presse/meldung.php?id=8874) · Universität Duisburg-Essen, Pressemitteilung 10.03.2015; gemeinsame Studie mit SVR und BiB, nicht repräsentativ.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Rückwanderer jünger als Bevölkerung, 64,1 % hochqualifiziert, nicht repräsentativ.
+
+- [Internationally Mobile. Motivations, Determining Factors and Impacts of the Emigration and Return Migration of German Citizens](https://www.svr-migration.de/en/publication/internationally-mobile-motivations-determining-factors-and-impacts-of-the-emigration-and-return-migration-of-german-citizens) · SVR-Forschungsbereich mit BiB und Universität Duisburg-Essen, März 2015.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Brain Circulation, Motive der Rückkehr.
 
 ### Offene Fragen und Unsicherheiten
 
-- Alters- und Erwerbsdaten der Rückwanderer (BiB/GERPS) lesen.
+- Neuere GERPS-Ergebnisse zu Alter, Erwerbsstatus und Sozialleistungsbezug von Rückwanderern.
 
 ## mlxFA9T88I0-A0315
 
@@ -753,7 +758,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Hochqualifizierte gehen, weil sie im Inland keinen ihrem Können entsprechenden Job finden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -776,21 +781,25 @@ Frueherer Suchbereich: [02:11:00–02:12:30](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Ursachenbehauptung; keine Befragungsdaten zu Motiven gelesen.
+Berufliche Gründe sind laut der Befragung von 2015 eines der wichtigsten Auswanderungsmotive (rund 67 %), ebenso ein höheres Einkommen im Ausland (rund 47 %). Noch häufiger genannt wurde aber der Wunsch nach neuen Erfahrungen (rund 72 %). Dass Hochqualifizierte vor allem gehen, weil sie im Inland keinen passenden Job finden, wird so nicht erhoben; Auswanderung ist nach der Studie überwiegend befristet.
 
-Grundlage der Bewertung: Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: Pressemitteilung und Studienseite zur Befragung von 2015 gelesen.
 
 Uebernahme: Wanderungssaldo, Bild der Rückkehrer, Jobmangel und persönliches Beispiel getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Motivbefragung 2015 recherchiert; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Auswanderung aus Deutschland überwiegend auf Zeit](https://www.uni-due.de/de/presse/meldung.php?id=8874) · Universität Duisburg-Essen, Pressemitteilung 10.03.2015; gemeinsame Studie mit SVR und BiB, nicht repräsentativ.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Motive: neue Erfahrungen 72,2 %, beruflich 66,9 %, Einkommen 46,9 %.
+
+- [Internationally Mobile. Motivations, Determining Factors and Impacts of the Emigration and Return Migration of German Citizens](https://www.svr-migration.de/en/publication/internationally-mobile-motivations-determining-factors-and-impacts-of-the-emigration-and-return-migration-of-german-citizens) · SVR-Forschungsbereich mit BiB und Universität Duisburg-Essen, März 2015.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. Hochqualifizierte überrepräsentiert, Brain Circulation.
 
 ### Offene Fragen und Unsicherheiten
 
-- Motivbefragungen von Auswandernden lesen.
+- Aktuelle Motivbefragungen (GERPS) zur Rolle fehlender passender Stellen.
 
 ## mlxFA9T88I0-A0316
 
