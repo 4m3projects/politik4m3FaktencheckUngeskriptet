@@ -10,6 +10,10 @@
 
 **Pflichtlektüre für alle Agenten:** [docs/AGENTEN_TRANSKRIPTION.md](docs/AGENTEN_TRANSKRIPTION.md). Zuerst das Transkript im Originalplayer suchen. Falls es fehlt, kann eine privat abgelegte Audiodatei lokal mit Whisper transkribiert werden. Zeitmarken, Wortlaut und Sprecherzuordnung am Original abgleichen.
 
+## Zuständigkeit für Ungeskriptet
+
+Erstelle, aktualisiere und veröffentliche Faktenchecks zu Interviews von {ungeskriptet} by Ben und zu zugehörigen Reaktionsvideos ausschließlich in diesem Repository. Im Schwesterprojekt verbleibende historische Kopien dienen als Archiv.
+
 ## Auftrag
 Baue eine eigenständige, möglichst neutrale, faktenorientierte Prüfumgebung für Aussagen aus Interviews von ungeskriptet. Das Projekt ist unabhängig von den untersuchten Personen und Kanälen; keine Kooperation behaupten. Ausgangsbasis: https://github.com/4m3projects/politik4m3Facktencheck
 
@@ -38,7 +42,7 @@ Baue eine eigenständige, möglichst neutrale, faktenorientierte Prüfumgebung f
 Die Gesamteinschätzung je Video (Ampel) wird **ausschließlich berechnet**, zentral in `site/ampel.js`, aus den vorhandenen Einzelbewertungen. Agenten setzen, speichern oder überschreiben keine Ampel und ändern keine Einzelbewertung, um eine Ampelfarbe zu erreichen. Änderungen an Schwellen oder Regel nur in `site/ampel.js` mit Tests und Dokumentation in [docs/AMPEL.md](docs/AMPEL.md) sowie in der Methodik der Webseite. Darstellungshinweise fließen nie ein; vorläufige Prüfungen bleiben „Noch in Prüfung“.
 
 ## Arbeitsweise
-- **Keine Videoauswertungen importieren**, bevor der Nutzer die Fertigstellung und Übertragung ausdrücklich freigibt. Der derzeit im Schwesterprojekt bearbeitete Faktencheck bleibt dort, bis Claude seine Arbeit beendet und der Stand geprüft ist.
+- **Keine Videoauswertungen importieren**, bevor der Nutzer die Fertigstellung und Übertragung ausdrücklich freigibt.
 - Bei neuen Prüfungen einzelne nachprüfbare Tatsachenbehauptungen mit Video-ID, Zeitmarke, Sprecher, Kontext, Belegen, Gegenbelegen, Prüfstatus und Begründung erfassen.
 - Aussagen des Gasts, Fragen des Hosts und Aussagen Dritter strikt trennen. Den Host nicht für unkommentierte Behauptungen des Gasts verantwortlich machen.
 - Bewertungen anhand nachprüfbarer Evidenz, nicht politischer Übereinstimmung. Korrekte Aussagen genauso erfassen; keine künstliche Fehlerquote. Ungeprüft ist nicht falsch; Stichproben nicht als vollständige Video-Statistik darstellen.
