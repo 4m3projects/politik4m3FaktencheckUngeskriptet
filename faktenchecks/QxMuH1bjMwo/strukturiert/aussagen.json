@@ -350,6 +350,110 @@
       "details": "Amtlicher Bußgeldkatalog, Nummer 11.3.1.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Regelsätze für Geschwindigkeitsüberschreitungen eines gewöhnlichen Pkw bis 10 km/h verglichen."
+    },
+    {
+      "id": "S043",
+      "title": "Metropolitan Museum of Art: Age of Transition. Byzantine Culture in the Islamic World",
+      "url": "https://resources.metmuseum.org/resources/metpublications/pdf/Age_of_Transition_Byzantine_Culture_in_the_Islamic_World.pdf",
+      "details": "Wissenschaftlicher Ausstellungskatalog, Abschnitt zur Herrschaft der frühen Umayyaden.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Passagen zum Einsatz christlicher Amtsträger, zur Übernahme byzantinischer sowie sasanidischer Münztypen und zu späteren Reformen gelesen."
+    },
+    {
+      "id": "S044",
+      "title": "East India (Constitutional Reforms): Despatches from Provincial Governments in India",
+      "url": "https://www.nottingham.ac.uk/research/groups/conferencing-the-international/documents/official-documents/pre-conference/despatches-from-provincial-governments-in-india.pdf",
+      "details": "Zeitgenössische amtliche Dokumente, digitalisiert von der University of Nottingham.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Rückblick einer Provinzregierung auf getrennte Wählergruppen ab 1909, den Lucknow-Pakt 1916 und unterschiedliche Wahlregelungen gelesen."
+    },
+    {
+      "id": "S045",
+      "title": "Türkischer Hoher Wahlrat: Amtliches Ergebnis des ersten Wahlgangs vom 14. Mai 2023",
+      "url": "https://www.ysk.gov.tr/doc/karar/dosya/39645318/2023-1091.pdf",
+      "details": "YSK-Entscheidung 2023/1091.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tabelle A mit den Ergebnissen der im Inland abgegebenen Stimmen gelesen."
+    },
+    {
+      "id": "S046",
+      "title": "Türkischer Hoher Wahlrat: Amtliches Ergebnis der Stichwahl vom 28. Mai 2023",
+      "url": "https://www.ysk.gov.tr/doc/karar/dosya/46610370/2023-1269.pdf",
+      "details": "YSK-Entscheidung 2023/1269.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tabelle A mit den Ergebnissen der im Inland abgegebenen Stimmen gelesen."
+    },
+    {
+      "id": "S047",
+      "title": "Landtag Nordrhein-Westfalen: Ausschussprotokoll 18/276",
+      "url": "https://www.landtag.nrw.de/portal/WWW/dokumentenarchiv/Dokument/MMA18-276.pdf",
+      "details": "Ausschussprotokoll mit einer Ergebnistabelle zur türkischen Stichwahl 2023 nach Generalkonsulatsbezirken.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "In der Anlage die Zeilen zu Münster und Köln gelesen."
+    },
+    {
+      "id": "S048",
+      "title": "Österreich: Richter- und Staatsanwaltschaftsdienstgesetz § 70",
+      "url": "https://www.ris.bka.gv.at/eli/bgbl/1961/305/P70/NOR40230460",
+      "details": "Rechtsinformationssystem des Bundes, Vorschrift zur Amtskleidung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zusammensetzung des Amtskleides und Ermächtigung zu einer näheren Verordnung gelesen."
+    },
+    {
+      "id": "S049",
+      "title": "Österreich: Anti-Gesichtsverhüllungsgesetz § 2",
+      "url": "https://www.bmeia.gv.at/fileadmin/user_upload/Zentrale/Integration/Integrationsgesetz/BGBLA_2017_I_68.pdf",
+      "details": "Bundesgesetzblatt I Nr. 68/2017, Art. 2 des Gesetzespakets.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Tatbestand und Ausnahmen des Verbots der Gesichtsverhüllung gelesen."
+    },
+    {
+      "id": "S050",
+      "title": "Österreichisches Parlament: Stellungnahme 48/SN-290/ME",
+      "url": "https://www.parlament.gv.at/dokument/XXV/SNME/9487/imfname_621450.pdf",
+      "details": "Amtlich dokumentierte Stellungnahme zum Gesetzesentwurf aus dem Jahr 2017.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitt zur getrennten Debatte über Kopftücher bei Richterinnen und zur Gesichtsverhüllung gelesen."
+    },
+    {
+      "id": "S051",
+      "title": "Tagesschau: Interview mit Hamed Abdel-Samad zu Islamismus",
+      "url": "https://www.tagesschau.de/inland/islamismus-ts-100.html",
+      "details": "Veröffentlichtes Erstpersoneninterview aus dem Jahr 2010.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abdel-Samads eigene Aussage über seine frühere Mitgliedschaft gelesen."
+    },
+    {
+      "id": "S052",
+      "title": "Deutscher Bundestag: Antwort der Bundesregierung, Drucksache 20/3086",
+      "url": "https://dserver.bundestag.de/btd/20/030/2003086.pdf",
+      "details": "Regierungsantwort vom August 2022 zu DITIB und dem türkischen Staat.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Antwort zum institutionellen Verhältnis und zur Dienstaufsicht der von Diyanet entsandten Imame gelesen."
+    },
+    {
+      "id": "S053",
+      "title": "Deutsche Islam Konferenz: Handreichung zu islamischen Ausbildungsangeboten",
+      "url": "https://www.deutsche-islam-konferenz.de/SharedDocs/Anlagen/DE/Publikationen/dik-handreichung-2024.pdf?__blob=publicationFile&v=6",
+      "details": "Abschnitt Studium der Islamischen Theologie plus berufspraktische Ausbildung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitt zur Unterscheidung zwischen Hochschulabschluss, Lehramt und gemeindebezogener Ausbildung gelesen."
+    },
+    {
+      "id": "S054",
+      "title": "DITIB: Abschluss der Ausbildung zu islamischen Religionsbeauftragten",
+      "url": "https://www.ditib.de/detail1.php?id=921&lang=de",
+      "details": "Mitteilung des DITIB-Bundesverbands vom April 2026 zu eigenen Ausbildungsgängen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Absätze zum Ausbildungsbeginn in Dahlem 2020 und den Abschlussjahrgängen gelesen."
+    },
+    {
+      "id": "S055",
+      "title": "Ökumenischer Rat der Kirchen: Antwort von Patriarch Kyrill auf Ioan Sauca",
+      "url": "https://www.oikoumene.org/resources/documents/response-by-hh-patriarch-kirill-of-moscow-to-rev-prof-dr-ioan-sauca-english-translation",
+      "details": "Brief vom 10. März 2022, publiziert in englischer Übersetzung durch den Empfänger.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Begründung des Konflikts durch Kyrill sowie seine Darstellung religiöser und geopolitischer Zusammenhänge gelesen."
     }
   ],
   "speakers": [
@@ -1018,17 +1122,21 @@
       "description": "Zu den frühen Standorten islamisch-theologischer Studien gehörten Münster und Tübingen. Der Gast bringt das mit der Ausbildung von Imamen und Religionslehrkräften in Verbindung.",
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
-      "reason": "Beide Universitäten bieten islamisch-theologische Qualifikation und berufsbezogene Studien an. Die praktische Ausbildung für das Imamamt ist nach der Handreichung der Deutschen Islam Konferenz keine Aufgabe dieser Hochschulstandorte. Für die deutschsprachige praktische Ausbildung nennt die Handreichung unter anderem das eigenständige Islamkolleg Deutschland.",
+      "reason": "Beide Universitäten bieten islamisch-theologische Qualifikation und berufsbezogene Studien an. Die praktische Ausbildung für das Imamamt ist nach der Handreichung der Deutschen Islam Konferenz keine Aufgabe dieser Hochschulstandorte. Für die deutschsprachige praktische Ausbildung nennt die Handreichung unter anderem das eigenständige Islamkolleg Deutschland. Die Handreichung der Deutschen Islam Konferenz unterscheidet das Theologie- und Lehramtsstudium an staatlichen Hochschulen von der praktischen Imam-Ausbildung, etwa am Islamkolleg und an der DITIB-Akademie.",
       "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Codex] 19.11.2026: Ausbildungswege anhand der amtlichen Handreichung präzisiert."
       },
       "sourceRefs": [
         {
           "sourceId": "S019",
           "note": "Unterscheidet akademische Studien von praktischer Ausbildung und nennt Angebote beider Standorte."
+        },
+        {
+          "sourceId": "S053",
+          "note": "Amtliche Handreichung zur institutionellen Unterscheidung."
         }
       ],
       "openQuestions": [],
@@ -1367,24 +1475,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das christliche Kaisertum habe als Vorbild für die Entstehung des islamischen Kalifats gedient.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Chronologie bestätigt das zeitliche Nebeneinander, klärt aber einen konkreten institutionellen Einfluss nicht.",
-      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der Ausstellungskatalog des Metropolitan Museum of Art dokumentiert, dass die frühen Umayyaden in ehemals byzantinischen Gebieten unter anderem Münzmotive und Verwaltungspersonal übernahmen. Er beschreibt auch sasanidische Vorbilder und eigene Reformen. Das belegt einzelne Übernahmen unter den Umayyaden. Ein christliches Gesamtmodell für die Entstehung des Kalifats ab 632 ergibt sich daraus nicht.",
+      "assessmentBasis": "[Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Zur weiteren Prüfung erfasst."
+        "assessmentChange": "[Codex] 19.11.2026: Nach Quellenabgleich von Offen auf Teilweise belegt umgestellt."
       },
       "sourceRefs": [
         {
+          "sourceId": "S043",
+          "note": "Dokumentierte Beispiele byzantinischer und sasanidischer Einflüsse."
+        },
+        {
           "sourceId": "S027",
-          "note": "Chronologie und historische Berührungspunkte mit dem Byzantinischen Reich."
+          "note": "Chronologie der ersten Kalifen und der Umayyaden."
         }
       ],
-      "openQuestions": [
-        "Welche konkreten byzantinischen Institutionen oder Herrschaftsvorstellungen lassen sich laut Fachliteratur im frühen Kalifat nachweisen?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "QxMuH1bjMwo-O0022",
@@ -1597,19 +1707,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Im britisch beherrschten Indien seien für das Wahlrecht nach Religionszugehörigkeit getrennte Wahlkreise gebildet worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – für die Einordnung sind die zeitgenössischen Wahlregeln und die Abgrenzung zwischen getrennten Wählerschaften, reservierten Sitzen und geografischen Wahlkreisen nötig.",
-      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Zeitgenössische amtliche Korrespondenz dokumentiert getrennte muslimische Wählerschaften seit den Reformen von 1909 und unterschiedliche Regelungen im weiteren Verlauf. Solche besonderen Wählergruppen und Repräsentationsregeln sind genauer als die pauschale Vorstellung ausschließlich muslimischer beziehungsweise hinduistischer geografischer Wahlkreise.",
+      "assessmentBasis": "[Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Zur weiteren Prüfung erfasst."
+        "assessmentChange": "[Codex] 19.11.2026: Nach Quellenabgleich von Offen auf Teilweise belegt umgestellt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Wahlregeln galten in welchen Jahren und Provinzen für die genannten Gruppen?"
+      "sourceRefs": [
+        {
+          "sourceId": "S044",
+          "note": "Amtlicher Rückblick auf getrennte Wählergruppen, die Reformen von 1909 und den Lucknow-Pakt."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "QxMuH1bjMwo-O0027",
@@ -1914,19 +2027,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Recep Tayyip Erdoğan habe in der Türkei um 48 Prozent oder weniger und in den Wahlbereichen Münster und Köln um 73 Prozent oder mehr erreicht.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – in der Passage fehlen Wahljahr und Wahlgang. Ein Vergleich setzt außerdem dieselbe Wahlrunde und den jeweiligen Bezugsraum voraus.",
-      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Für die Präsidentschaftswahl 2023 stimmt der Vergleich in der Richtung. Erdoğan schnitt in den genannten deutschen Konsularbezirken besser ab als im türkischen Inland. Nach dem Wahlrat erhielt er dort im ersten Wahlgang 49,24 Prozent und in der Stichwahl 51,91 Prozent. In der Stichwahl lagen Münster laut einer Tabelle im NRW-Landtagsprotokoll bei 74,6 Prozent und Köln bei 68,5 Prozent. Die im Gespräch genannten Werte passen damit nur teilweise zu dieser Wahl. Das Gespräch nennt kein Wahljahr.",
+      "assessmentBasis": "[Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Zur weiteren Prüfung erfasst."
+        "assessmentChange": "[Codex] 19.11.2026: Nach Quellenabgleich von Offen auf Teilweise belegt umgestellt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Wahl und welcher Wahlgang sind gemeint, und welche amtlichen Ergebnisse weist der türkische Wahlrat für das Inland und die beiden Konsularwahlbereiche aus?"
+      "sourceRefs": [
+        {
+          "sourceId": "S045",
+          "note": "Amtlicher Inlandwert im ersten Wahlgang 2023."
+        },
+        {
+          "sourceId": "S046",
+          "note": "Amtlicher Inlandwert in der Stichwahl 2023."
+        },
+        {
+          "sourceId": "S047",
+          "note": "Stichwahlergebnisse der Konsularbezirke Münster und Köln."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "QxMuH1bjMwo-O0034",
@@ -2001,16 +2125,29 @@
       "description": "Ein österreichisches Gesetz verbiete Richterinnen das Tragen eines Kopftuchs oder anderer religiöser Symbole.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – der Gast nennt keine Vorschrift oder Jahreszahl. Zu klären sind besondere Dienst- oder Verfahrensregeln für Richter und der zeitliche Bezug der im Anschluss beschriebenen Demonstration.",
-      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.",
+      "reason": "Noch nicht geprüft – § 70 regelt die Amtskleidung der Richter und das Gesetz von 2017 die Verhüllung des Gesichts. Die damaligen parlamentarischen Unterlagen dokumentieren eine separate Debatte über Richterinnen. Für ein allgemeines gerichtliches Symbolverbot sowie für die genaue Rechtslage zur Zeit der beschriebenen Kundgebung fehlt ein belastbarer Nachweis.",
+      "assessmentBasis": "[Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Zur weiteren Prüfung erfasst."
+        "assessmentChange": "[Codex] 19.11.2026: Quellen zur Sachfrage ergänzt. Rechtsnorm und Datum der beschriebenen Kundgebung bleiben zu klären."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S048",
+          "note": "§ 70 zur Amtskleidung."
+        },
+        {
+          "sourceId": "S049",
+          "note": "§ 2 zum Verbot der Gesichtsverhüllung im öffentlichen Raum."
+        },
+        {
+          "sourceId": "S050",
+          "note": "Zeitgenössische Stellungnahme zur Unterscheidung der beiden Debatten."
+        }
+      ],
       "openQuestions": [
-        "Welche österreichische Rechtsvorschrift oder Dienstregel lag zur gemeinten Zeit für Richterinnen vor, und auf welche Kundgebung bezieht sich die Aussage?"
+        "Welche Kundgebung beschreibt der Gast? Lässt sich dazu eine konkrete richterdienstrechtliche Regel in der damals geltenden Fassung oder ein einschlägiges Urteil ermitteln?"
       ],
       "occurrences": [
         {
@@ -2159,6 +2296,188 @@
           "roleStatus": "Plausibel",
           "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
           "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0040",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Moderator stellt Abdel-Samad als früheres Mitglied der ägyptischen Muslimbruderschaft vor.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Abdel-Samad bestätigt im späteren Verlauf des Gesprächs die frühere Mitgliedschaft und beschreibt sie bereits 2010 in einem veröffentlichten Interview. Belegt ist die wiederholte öffentliche Selbstauskunft. Ein zeitgenössischer Mitgliedsnachweis oder ein Beleg für das im Vorspann genannte Eintrittsalter liegt damit nicht vor.",
+      "assessmentBasis": "[Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S051",
+          "note": "Öffentliche Selbstauskunft zur früheren Mitgliedschaft von 2010."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0040",
+          "startSeconds": 108,
+          "endSeconds": 119,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0041",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Führende Vertreter der russisch-orthodoxen Kirche hätten Russlands Krieg gegen die Ukraine legitimiert.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Patriarch Kyrill erklärte den Konflikt im März 2022 vor allem mit dem Verhalten des Westens und berief sich auf die gemeinsame religiöse Geschichte Russlands und der Ukraine. Diese Stellungnahme stützt die Aussage zur Rolle der Kirchenführung. Sie belegt keine einheitliche Haltung aller Gemeinden und Geistlichen.",
+      "assessmentBasis": "[Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S055",
+          "note": "Brief des Patriarchen an den Ökumenischen Rat der Kirchen nach dem russischen Angriff."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0041",
+          "startSeconds": 412,
+          "endSeconds": 423,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0042",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Abdel-Samad stellt DITIB und die türkische Religionsbehörde als unmittelbar von Erdoğan gesteuerte Einrichtung dar.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "DITIB ist ein deutscher Verband, Diyanet ist die türkische staatliche Religionsbehörde. Die Bundesregierung dokumentiert personelle und strukturelle Bindungen, einschließlich der Entsendung von Imamen und der Dienstaufsicht durch türkische Religionsattachés. Das belegt institutionellen Einfluss, aber keine persönliche Steuerung jeder Verbandsentscheidung durch den türkischen Präsidenten.",
+      "assessmentBasis": "[Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Erste dokumentierte Einordnung."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S052",
+          "note": "Regierungsantwort zum Verhältnis zwischen Diyanet und DITIB."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0042",
+          "startSeconds": 8493,
+          "endSeconds": 8511,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur abgegrenzten Tatsachenbehauptung.",
+          "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "QxMuH1bjMwo-A0043",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Vertreter des türkisch-islamischen Verbands habe in einer Sitzung der Deutschen Islam Konferenz erklärt, die Absolventen der deutschen Hochschulprogramme erfüllten die Standards für eine Anstellung in den Moscheen des Verbands nicht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Programmunterlagen unterscheiden Hochschulabschluss und praktische Ausbildung, geben aber die konkrete Wortmeldung in der Sitzung nicht wieder. Der Verband betrieb nach eigener Darstellung ab 2020 ein praktisches Ausbildungsprogramm in Dahlem.",
+      "assessmentBasis": "[Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Direkt aus der Originalfundstelle erfasst.",
+        "assessmentChange": "Zur weiteren Prüfung erfasst."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S053",
+          "note": "Unterschied zwischen Hochschulausbildung und praktischer Ausbildung."
+        },
+        {
+          "sourceId": "S054",
+          "note": "Angaben des Verbands zu seiner eigenen Ausbildung."
+        }
+      ],
+      "openQuestions": [
+        "Welche Sitzung war gemeint? Liegen eine Aufzeichnung, ein Sitzungsprotokoll oder eine zeitgenössische Erklärung des Verbands genau zu dieser Wortmeldung vor?"
+      ],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0043",
+          "startSeconds": 8493,
+          "endSeconds": 8512,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Zeitmarkiertes Originaltranskript und Gesprächsverlauf.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Behauptung im Gesprächskontext der Originalfundstelle.",
+          "note": "Fundstelle zur weiteren Sachprüfung.",
           "timeBasis": "Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.",
           "timeHistory": []
         }

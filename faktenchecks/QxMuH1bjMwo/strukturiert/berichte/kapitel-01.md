@@ -87,4 +87,46 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
+## QxMuH1bjMwo-A0040
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der Moderator stellt Abdel-Samad als früheres Mitglied der ägyptischen Muslimbruderschaft vor.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:01:48–00:01:59](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=108s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Abdel-Samad bestätigt im späteren Verlauf des Gesprächs die frühere Mitgliedschaft und beschreibt sie bereits 2010 in einem veröffentlichten Interview. Belegt ist die wiederholte öffentliche Selbstauskunft. Ein zeitgenössischer Mitgliedsnachweis oder ein Beleg für das im Vorspann genannte Eintrittsalter liegt damit nicht vor.
+
+Grundlage der Bewertung: [Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Tagesschau: Interview mit Hamed Abdel-Samad zu Islamismus](https://www.tagesschau.de/inland/islamismus-ts-100.html) · Veröffentlichtes Erstpersoneninterview aus dem Jahr 2010.
+  Quellenzugriff am 2026-11-19. Abdel-Samads eigene Aussage über seine frühere Mitgliedschaft gelesen. Öffentliche Selbstauskunft zur früheren Mitgliedschaft von 2010.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

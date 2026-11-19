@@ -6,7 +6,7 @@
     {
       "topic": "religion",
       "relevance": "Schwerpunkt",
-      "basis": "29 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "basis": "33 erfasste Aussagen mit ausdrücklichem Sachbezug.",
       "segments": []
     },
     {
@@ -24,7 +24,7 @@
     {
       "topic": "migration",
       "relevance": "Erwähnt",
-      "basis": "5 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "basis": "7 erfasste Aussagen mit ausdrücklichem Sachbezug.",
       "segments": []
     }
   ],
@@ -239,6 +239,32 @@
       "topics": [
         "religion"
       ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0040",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0041",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0042",
+      "topics": [
+        "religion",
+        "migration"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0043",
+      "topics": [
+        "religion",
+        "migration"
+      ]
     }
   ],
   "history": [
@@ -251,6 +277,11 @@
       "date": "2026-11-19",
       "agent": "Codex",
       "change": "Aussagen aus der zweiten Quellenprüfung und weiter zu prüfende Aussagen verknüpft."
+    },
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Aussagen zur Muslimbruderschaft, russisch-orthodoxen Kirchenführung und Ausbildung religiösen Personals zugeordnet."
     }
   ]
 }

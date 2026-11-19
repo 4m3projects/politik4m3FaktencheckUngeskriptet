@@ -142,7 +142,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das christliche Kaisertum habe als Vorbild für die Entstehung des islamischen Kalifats gedient.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -161,22 +161,25 @@ Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Chronologie bestätigt das zeitliche Nebeneinander, klärt aber einen konkreten institutionellen Einfluss nicht.
+Der Ausstellungskatalog des Metropolitan Museum of Art dokumentiert, dass die frühen Umayyaden in ehemals byzantinischen Gebieten unter anderem Münzmotive und Verwaltungspersonal übernahmen. Er beschreibt auch sasanidische Vorbilder und eigene Reformen. Das belegt einzelne Übernahmen unter den Umayyaden. Ein christliches Gesamtmodell für die Entstehung des Kalifats ab 632 ergibt sich daraus nicht.
 
-Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript gelesen. Die Sachprüfung ist noch offen.
+Grundlage der Bewertung: [Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
 
 Uebernahme: Direkt aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: Zur weiteren Prüfung erfasst.
+Bewertungsuebergang: [Codex] 19.11.2026: Nach Quellenabgleich von Offen auf Teilweise belegt umgestellt.
 
 ### Zugeordnete Quellen
 
+- [Metropolitan Museum of Art: Age of Transition. Byzantine Culture in the Islamic World](https://resources.metmuseum.org/resources/metpublications/pdf/Age_of_Transition_Byzantine_Culture_in_the_Islamic_World.pdf) · Wissenschaftlicher Ausstellungskatalog, Abschnitt zur Herrschaft der frühen Umayyaden.
+  Quellenzugriff am 2026-11-19. Passagen zum Einsatz christlicher Amtsträger, zur Übernahme byzantinischer sowie sasanidischer Münztypen und zu späteren Reformen gelesen. Dokumentierte Beispiele byzantinischer und sasanidischer Einflüsse.
+
 - [Metropolitan Museum of Art: Arabian Peninsula, 500–1000 A.D.](https://www.metmuseum.org/fr/toah/ht/06/wap.html) · Heilbrunn Timeline of Art History, Abschnitte zu den frühen Kalifen und Umayyaden.
-  Quellenzugriff am 2026-11-19. Chronologie zu den Nachfolgern Muhammads ab 632 und zum umayyadischen Kalifat ab 661 gelesen. Chronologie und historische Berührungspunkte mit dem Byzantinischen Reich.
+  Quellenzugriff am 2026-11-19. Chronologie zu den Nachfolgern Muhammads ab 632 und zum umayyadischen Kalifat ab 661 gelesen. Chronologie der ersten Kalifen und der Umayyaden.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche konkreten byzantinischen Institutionen oder Herrschaftsvorstellungen lassen sich laut Fachliteratur im frühen Kalifat nachweisen?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## QxMuH1bjMwo-A0023
 
