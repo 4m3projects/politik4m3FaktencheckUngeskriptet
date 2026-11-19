@@ -371,7 +371,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe bereits um 2018 ein eigenes YouTube-Video über Epstein veröffentlicht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -390,21 +390,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Veröffentlichungsjahr und Originalvideo ungeprüft; spätere Bekanntheit ersetzt keinen Nachweis.
+Ein Video zu Epstein gibt es auf ihrem Kanal: „Für Jeffrey Epsteins Opfer“, hochgeladen am 30.08.2019. Es stammt aber aus 2019, nicht aus 2018; der Kanal beginnt erst im Mai 2019. Seibt selbst schränkt im Interview mit „oder so“ ein.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Videoliste ihres Kanals mit Upload-Daten gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube-Kanal Naomi Seibt (Videoliste mit Upload-Daten)](https://www.youtube.com/channel/UCeYSlCaX1PheCaqxN7u2klw) · Eigener Kanal von Naomi Seibt, 89 gelistete Videos, ältestes vom 24.05.2019; Upload-Lücke 28.10.2020 bis 14.03.2024; keine sichtbare Sperrmitteilung.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Videoliste und automatische Untertitel). Keine Quellenkopie veröffentlicht. Epstein-Video vom 30.08.2019; ältestes Kanalvideo vom 24.05.2019.
 
 ### Offene Fragen und Unsicherheiten
 
-- Ursprüngliche Veröffentlichung und Datum finden; nicht allein aus heutigen Reuploads datieren.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0063
 
