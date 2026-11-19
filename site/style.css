@@ -130,13 +130,15 @@ p { margin: 0 0 1em; }
   font-weight: 700; font-size: 13px; letter-spacing: -.04em;
 }
 .brand-text { font-size: 1.02rem; letter-spacing: -.005em; }
-/* Hauptprojekt verlinkt, „Ungeskriptet“ führt zur Startseite dieses Unterprojekts. */
+/* „Ungeskriptet“ steht zuerst und führt zur Startseite dieses Unterprojekts; das Hauptprojekt
+   folgt als Link (dort können später weitere Projekte angebunden werden). */
 .brand { gap: 6px; flex-wrap: wrap; }
 .brand a { text-decoration: none; }
 .brand-parent { color: var(--text-2); border-bottom: 1px dotted var(--line-strong); }
 .brand-parent:hover, .brand-parent:focus-visible { color: var(--accent); border-bottom-color: var(--accent); }
 .brand-sub { color: var(--text); }
 .brand-sub:hover { color: var(--accent); }
+.brand-sep { color: var(--text-3); }
 .mainnav { display: flex; gap: 4px; flex-wrap: wrap; }
 .mainnav a { color: var(--text-2); text-decoration: none; padding: 6px 10px; border-radius: 8px; font-size: .95rem; }
 .mainnav a:hover { background: var(--surface-2); color: var(--text); }
