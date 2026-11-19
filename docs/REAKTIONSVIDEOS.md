@@ -66,6 +66,8 @@ Die Publikationsprüfung lässt nur genau diese beiden neuen Pfade zu. Faktenche
 
 IDs sind stabil und werden nie neu vergeben. Ein Paar Reaktion/Original gibt es nur einmal; mehrere Bezüge stehen als `claimLinks` darin. `reactionSeconds` ist die Stelle in der Reaktion, an der sie auf das Original eingeht.
 
+Eine `gegenbehauptung`, deren Reaktionsaussage belegt und deren Originalaussage kritisch bewertet ist (oder umgekehrt), erscheint auf der Webseite als Gegendarstellung bei der kritischen Aussage, siehe [GEGENDARSTELLUNG.md](GEGENDARSTELLUNG.md).
+
 ## Konsistenzprüfung
 
 Bei der Analyse einer Reaktion wird der bestehende Originalcheck **als Kontext** herangezogen: Aussage-ID, Bewertung, Quellen, Prüfdatum und offene Fragen. Er ist **kein Wahrheitsmaßstab**. Neue Primärquellen oder bessere Argumente können seine Bewertung widerlegen.

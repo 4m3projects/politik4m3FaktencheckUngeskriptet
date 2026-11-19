@@ -18,7 +18,7 @@ const ROOT = path.join(__dirname, '..');
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung, nur JSON-Daten). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-wissen-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js', 'wissen.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'ampel.js', 'wissen.js', 'gegendarstellung.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   fs.mkdirSync(path.join(out, 'daten'));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
@@ -189,6 +189,44 @@ async function step(name, fn) {
     assert.match(t, /Klima/);
     await page.locator('.topic-line a', { hasText: 'Klima' }).click();
     await page.waitForSelector('h1:text("Klima")');
+  });
+  await step('Gegendarstellung: widerlegte Aussage zeigt belegte Gegenaussage aus anderem Video mit Zeitmarke', async () => {
+    await page.goto(url + '#/video/OQnvClWgN-g/aussage/OQnvClWgN-g-A0003');
+    await page.waitForSelector('.claim');
+    const box = page.locator('[id="OQnvClWgN-g-A0003"] .counter');
+    assert.equal(await box.count(), 1);
+    const t = await box.innerText();
+    assert.match(t, /Gegendarstellung/);
+    assert.match(t, /Belegt/);
+    assert.match(await box.locator('.counter-main a[href*="/aussage/L7E04TJtRBU-A0007"]').first().getAttribute('href'), /L7E04TJtRBU-A0007/);
+    assert.ok(await box.locator('a[href*="youtube"][href*="t="]').count() > 0 || await box.locator('a[href*="youtu"]').count() > 0, 'Zeitmarken-Link fehlt');
+    assert.ok(await box.locator('.ampel').count() > 0, 'Ampel des Gegenvideos fehlt');
+    await shot('gegendarstellung');
+  });
+  await step('Gegendarstellung: mehrere Gegenaussagen, beste vorn, Rest aufklappbar', async () => {
+    const box = page.locator('[id="OQnvClWgN-g-A0009"] .counter');
+    assert.equal(await box.count(), 1);
+    assert.equal(await box.locator('.counter-main').count(), 1);
+    assert.match(await box.locator('.counter-more summary').innerText(), /weitere/);
+  });
+  await step('Gegendarstellung: belegte Aussagen bekommen keine', async () => {
+    const ids = await page.evaluate(() => [...document.querySelectorAll('.claim')].filter(el => el.querySelector('.counter')).map(el => el.id));
+    const verdicts = await page.evaluate(ids => ids.map(id => document.getElementById(id).querySelector('.claim-top .badge').innerText), ids);
+    assert.ok(ids.length >= 10, 'zu wenige: ' + ids.length);
+    for (const v of verdicts) assert.ok(!/^(Belegt|Teilweise belegt)/.test(v.trim()), v);
+  });
+  await step('Gegendarstellung erscheint auch neben dem laufenden Video', async () => {
+    await page.goto(url + '#/video/OQnvClWgN-g/video');
+    await page.waitForSelector('.vc-item');
+    assert.ok(await page.locator('.vc-item .counter-compact').count() >= 10);
+    await shot('gegendarstellung-video');
+  });
+  await step('Gegendarstellung über die Wissensdatenbank (ohne Reaktionsbeziehung)', async () => {
+    await page.goto(url + '#/video/mlxFA9T88I0/aussage/mlxFA9T88I0-A0276');
+    await page.waitForSelector('.claim');
+    const box = page.locator('[id="mlxFA9T88I0-A0276"] .counter');
+    assert.equal(await box.count(), 1);
+    assert.match(await box.innerText(), /Wissensdatenbank/);
   });
   await step('Unbekanntes Thema: Hinweis statt Absturz', async () => {
     await page.goto(url + '#/thema/gibt-es-nicht');

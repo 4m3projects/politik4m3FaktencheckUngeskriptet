@@ -688,7 +688,51 @@ function rhetPanel(v) {
     </details></div>`;
 }
 
-function claimCard(c, v, chapterTitles, linkedVideos, rhetList) {
+/* ---------- Gegendarstellungen aus anderen geprüften Videos (site/gegendarstellung.js) ---------- */
+/* Lädt die Videos, deren belegte Aussagen einer kritischen Aussage dieses Videos widersprechen, und liefert
+   eine Funktion Aussage -> Gegendarstellungen (beste zuerst). Ändert keine Bewertung. */
+async function counterContext(v) {
+  if (!state.counter || !v?.data) return () => [];
+  const ids = FactCounter.neededVideos(state.counter, v.data.claims.filter(FactCounter.isCritical).map(c => c.id));
+  await Promise.all(ids.map(id => loadVideo(id).catch(() => null)));
+  const lookup = claimId => {
+    const ov = state.videos.get(FactCounter.videoOf(claimId));
+    const claim = (ov?.data?.claims || []).find(c => c.id === claimId);
+    if (!claim) return null;
+    return { claim, ampel: FactAmpel.rate(ov.stats || null, ov.video || null, ov.data?.scope?.durationSeconds).key };
+  };
+  return c => FactCounter.forClaim(c, state.counter, lookup);
+}
+
+/* Hinweis „Hier wird es anders und belegt erklärt“: die beste Gegenaussage mit Zeitmarke, weitere aufklappbar.
+   compact: kurze Form neben dem laufenden Video. */
+function counterBlock(list, compact) {
+  if (!list || !list.length) return '';
+  const item = (x, main) => {
+    const ov = state.videos.get(x.videoId);
+    const sec = FactCounter.startSeconds(x);
+    const yt = sec != null ? videoTimeUrl(ov?.data?.scope?.videoUrl || ov?.video?.videoUrl, sec) : null;
+    const href = `#/video/${esc(x.videoId)}/aussage/${esc(x.claimId)}`;
+    const how = x.via === 'reaktion' ? 'Reaktion auf diese Aussage' : 'über die Wissensdatenbank verknüpft';
+    return `<div class="counter-item${main ? ' counter-main' : ''}">
+      <div class="claim-top">${verdictBadge(x.claim.verdict, x.claim.status, x.claim.reason)}<a href="${href}"><strong>${esc(videoName(x.videoId))}</strong></a></div>
+      ${ov ? `<div class="occ-ampel">${ampelView(ov, 'compact')}</div>` : ''}
+      <p class="counter-desc">${esc(x.claim.description)}</p>
+      ${main && !compact ? `<p class="small">${esc(x.claim.reason)}</p>` : ''}
+      <p class="small occ-links">${yt ? extLink(yt, `▶ ab ${hms(sec)} bei YouTube`) + ' · ' : ''}<a href="${href}">Geprüfte Aussage ${esc(shortClaim(x.claimId, x.videoId))}</a> · <span class="muted">${esc(how)}</span></p>
+    </div>`;
+  };
+  const [best, ...rest] = list;
+  return `<aside class="counter${compact ? ' counter-compact' : ''}" aria-label="Gegendarstellung in einem anderen Video">
+    <div class="counter-head"><span class="badge counter-badge">Gegendarstellung</span>
+      <span class="small">Ein anderes geprüftes Video sagt hierzu etwas anderes – und das ist belegt.</span></div>
+    ${item(best, true)}
+    ${rest.length ? `<details class="counter-more"><summary>${rest.length} weitere ${rest.length === 1 ? 'Gegendarstellung' : 'Gegendarstellungen'}</summary>${rest.map(x => item(x, false)).join('')}</details>` : ''}
+    ${compact ? '' : '<p class="small muted">Hinweis aus verknüpften Prüfungen; die Bewertung dieser Aussage bleibt davon unberührt. <a href="#/methodik#gegendarstellung">Wie das ausgewählt wird</a></p>'}
+  </aside>`;
+}
+
+function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
   const d = v.data;
   const speakers = Object.fromEntries((d.speakers || []).map(s => [s.id, s]));
   const sources = Object.fromEntries((d.sources || []).map(s => [s.id, s]));
@@ -752,6 +796,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList) {
         <p class="claim-desc">${esc(c.description)}</p>
         <p class="claim-reason">${esc(c.reason)}</p>
         ${rhetBlock(rhetList, v)}
+        ${counterBlock(counters, false)}
       </div>
     </div>
     <details>
@@ -868,6 +913,7 @@ async function pageVideo(id, focusClaim) {
 
   const linkedVideos = await loadLinked([...(state.rel.byOriginal.get(v.id) || []), ...(state.rel.byReaction.get(v.id) || [])]);
   const rhetByClaim = FactRhetoric.byClaim(v.rhet);
+  const counterOf = await counterContext(v);
   const speakers = (d.speakers || []).map(sp => `<li><strong>${esc(sp.name || 'Unbenannte Stimme')}</strong> (${esc(sp.id)}, ${esc(sp.videoRole)})<br><span class="small">${esc(sp.identityBasis)}</span></li>`).join('');
 
   setPage(`<div class="wrap">
@@ -901,7 +947,7 @@ async function pageVideo(id, focusClaim) {
           <label class="rhet-toggle"><input type="checkbox" id="f-rs"${rhetShown() ? ' checked' : ''}> Rhetorik-Hinweise anzeigen</label>` : ''}
         </div>
         <p class="result-count" id="count" aria-live="polite"></p>
-        <div class="claims" id="claims">${d.claims.map(c => claimCard(c, v, titles, linkedVideos, rhetByClaim.get(c.id))).join('')}</div>
+        <div class="claims" id="claims">${d.claims.map(c => claimCard(c, v, titles, linkedVideos, rhetByClaim.get(c.id), counterOf(c))).join('')}</div>
       </div>
       <aside class="aside">
         ${catRows ? `<div class="panel"><h3>Ergebnisse der abgeschlossenen Prüfungen</h3><ul class="legend" style="flex-direction:column;align-items:flex-start">${catRows}</ul>
@@ -1060,6 +1106,16 @@ function pageMethod() {
       <p class="small">Die Ampel beschreibt nur den geprüften Bestand, nicht das ganze Video, und ist keine Glaubwürdigkeitsnote für Personen. Neben ihr steht immer, auf wie vielen Aussagen sie beruht. Darstellungshinweise (Maßstab 2) verändern sie nie. Die Ampel wird nirgends gespeichert und von niemandem gesetzt: Sie wird bei jedem Aufruf nach einer einzigen, hier beschriebenen Regel berechnet. Ändert sich eine Einzelbewertung oder die Regel selbst, werden alle Videos automatisch neu eingestuft, ohne neue Prüfung.</p>
     </section>
 
+    <section class="section prose-plain" id="gegendarstellung"><h2>Gegendarstellung aus einem anderen Video</h2>
+      <p>Ist eine Aussage widerlegt, irreführend, nicht ausreichend belegbar, eine Meinung oder Vermutung oder noch nicht fertig geprüft, und sagt ein anderes geprüftes Video an seiner Stelle etwas anderes, das selbst als <strong>belegt</strong> oder <strong>teilweise belegt</strong> bewertet ist, erscheint diese Gegenaussage als Hinweis mit Zeitmarke: in der Auswertung und neben dem laufenden Video.</p>
+      <ul>
+        <li><strong>Woher die Zuordnung kommt:</strong> nur aus bereits geprüften Verknüpfungen, nämlich einem Reaktionsvideo, das der Aussage ausdrücklich widerspricht, oder einem Eintrag der Themen-Wissensdatenbank, dem die eine Aussage entspricht und die andere widerspricht. Ähnliche Wörter allein reichen nie.</li>
+        <li><strong>Bei mehreren Gegenaussagen</strong> steht die besser bewertete vorn (belegt vor teilweise belegt), danach die aus dem Video mit der besseren Faktenampel. Die übrigen lassen sich aufklappen.</li>
+        <li><strong>Belegte und teilweise belegte Aussagen</strong> bekommen keine Gegendarstellung.</li>
+        <li>Der Hinweis ändert keine Bewertung und fließt nicht in Statistik oder Faktenampel ein.</li>
+      </ul>
+    </section>
+
     <section class="section prose-plain"><h2>Grundsätze</h2>
       <ul>
         <li><strong>Eigene Worte statt Zitate.</strong> Jeder Prüfgegenstand ist unsere Beschreibung. Wir veröffentlichen keine Transkripte, Untertitel, Mitschnitte oder Ausschnitte – nur Zeitmarken mit Link zum Original.</li>
@@ -1200,6 +1256,8 @@ async function routePage() {
       state.rel = FactRelations.buildIndex(state.relations);
       /* Themen-Wissensdatenbank (themen.js); fehlt sie, erscheinen schlicht keine Themen. */
       if (typeof loadKnowledge === 'function') await loadKnowledge();
+      /* Gegendarstellungen: nur aus gepflegten Verknüpfungen (Reaktionen, Wissenseinträge) berechnet. */
+      if (typeof FactCounter !== 'undefined') state.counter = FactCounter.buildIndex(state.relations, state.wissen?.raw?.entries || []);
       updateThumbSetting();
     }
     if (parts[0] === 'video' && parts[1]) {

@@ -29,6 +29,8 @@ Im Feld `research.rounds[].strategy` einer Aussage vermerken, welche Einträge o
 - Ein Wissenseintrag hat eine eigene, präzise Behauptung, den zeitlichen und sachlichen Gültigkeitsbereich, Originalquellen und für jede Verknüpfung eine Begründung. `gleichwertig` nur, wenn Inhalt, Zeitbezug und Geltungsbereich übereinstimmen; sonst `teilaspekt`, `verwandt` oder `widerspricht`.
 - `node scripts/wissen.js kandidaten` liefert Paare ähnlicher Aussagen aus verschiedenen Videos. Das sind nur Vorschläge.
 
+- **Gegendarstellungen:** Widerspricht eine belegte Aussage einer kritischen Aussage eines anderen Videos, beide über einen Eintrag verknüpfen (`gleichwertig` bzw. `widerspricht`); die Webseite zeigt dann die Gegendarstellung. Regeln: [GEGENDARSTELLUNG.md](GEGENDARSTELLUNG.md).
+
 ## 4. Fehler erkennen und systemweit korrigieren
 
 Stellt ein Agent fest, dass eine frühere Bewertung möglicherweise falsch ist, eine Quelle falsch gelesen wurde oder neue Erkenntnisse widersprechen, wird das **nicht ignoriert**:
