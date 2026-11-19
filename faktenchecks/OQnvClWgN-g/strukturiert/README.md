@@ -6,7 +6,7 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 Stand: 2026-11-19 · Video: OQnvClWgN-g
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen.
 
 ## Umfang und Bearbeitungsstand
 

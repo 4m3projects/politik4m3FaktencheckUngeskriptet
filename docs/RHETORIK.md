@@ -71,6 +71,10 @@ Regeln, die der Validator durchsetzt:
 
 ## Prüfstand je Video
 
+Aktualisierung 19.11.2026 ([Codex], Issue #77): Auch die fünf bisher fehlenden Videos haben jetzt eine erste, **teilweise** Darstellungsprüfung: Krall-Original 4 Hinweise, Alfred zu Krall 2, Politik4M3 zu Krall 2, Hamed Abdel-Samad 1, Alfred zu Seibt 3. Grundlage sind selbst gelesene Stellen mit Umfeld aus den im Originalplayer geöffneten automatischen deutschen Transkripten. Keine Hör-/Sichtkontrolle oder redaktionelle Bestätigung. Faktenurteile und Ampelregeln bleiben davon unberührt. Damit liegen für alle neun Videos Darstellungsdaten vor; keines ist damit vollständig auf Rhetorik geprüft. Der aktuelle Prüfstand wird auf der Startseite aus den Dateien berechnet; [Bestand und verbleibende Arbeit](VIDEO_AUFARBEITUNG_2026-11-19.md).
+
+### Historischer Stand vom 18.11.2026
+
 Stand 18.11.2026, Claude. Alle Hinweise sind KI-Vorschläge ohne redaktionelle Prüfung, inzwischen aber am Untertitelwortlaut geprüft.
 
 | Video | Rolle | Ebene 2 | Hinweise | Merkmale |

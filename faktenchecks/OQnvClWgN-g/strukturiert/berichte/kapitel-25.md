@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gezielte atomare Auswahl als Referenz für zwei Reaktionsvideos. Nicht das gesamte 3:21-Stunden-Interview geprüft. 178 frühere Gruppenpositionen separat als historischer Arbeitsstand erhalten; keine Hochrechnung und keine Video-Fehlerquote.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen.
 
 ## OQnvClWgN-g-A0025
 
@@ -29,18 +29,24 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-INDEC unterscheidet Personen und Haushalte: Die konkret verglichenen Endwerte sind 28,2 und 21,0 Prozent. Ohne Messgröße ist die Aussage verkürzt; der Rückgang wird nicht bestritten.
+INDEC unterscheidet Personen und Haushalte: Die konkret verglichenen Endwerte sind 28,2 und 21,0 Prozent. Ohne Messgröße ist die Aussage verkürzt; der Rückgang wird nicht bestritten. Der Ausgangswert von 52,9 Prozent gehört zum ersten Halbjahr 2024 und liegt nach dem Amtsantritt Mileis am 10.12.2023. Die zeitliche Einordnung entscheidet keine Kausalfrage.
 
 Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-25.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Historische Gruppenbewertung V14-25.04: Teilweise belegt, zentrale Vergleichszahl irreführend. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
+Bewertungsuebergang: Historische Gruppenbewertung V14-25.04: Teilweise belegt, zentrale Vergleichszahl irreführend. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Ergänzung 19.11.2026 (Codex), Issue #77: zusätzliche Primärbelege nach Reaktionsrückabgleich; bisherige Begründung und Bewertung erhalten.
 
 ### Zugeordnete Quellen
 
 - [Pobreza e indigencia, segundo semestre de 2025](https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_03_269225CA3217.pdf) · INDEC, 31.03.2026, Tabelle 1/S. 5; 31 städtische Ballungsräume; Haushalte und Personen getrennt.
   Quellenzugriff am 2026-11-18. PDF erfolgreich geöffnet; relevante Zahlen und Erhebungsumfang gelesen. Spätere erneute Abrufe teilweise Timeout; keine Behauptung eines dauerhaft zuverlässigen Zugangs. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+
+- [INDEC: Armut und extreme Armut, erstes Halbjahr 2024](https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_241C2355AD3A.pdf) · INDEC, 26.09.2024; S. 3–5, Personenarmut 52,9 Prozent, 31 urbane Agglomerationen.
+  Quellenzugriff am 2026-11-19. Zusammenfassung und Ergebnisse selbst gelesen, als zeitliche Ergänzung zum bestehenden Endwert. Quellengeprüfte Ergänzung aus dem Rückabgleich mit den Reaktionen am 19.11.2026; Urteil unverändert.
+
+- [Casa Rosada: Ansprache nach Mileis Amtsantritt, 10.12.2023](https://www.casarosada.gob.ar/informacion/discursos/50257-palabras-del-presidente-de-la-nacion-javier-milei-luego-de-la-asuncion-presidencial-desde-el-balcon-de-la-casa-rosada) · Offizielle Amtseinführungsansprache, datiert 10.12.2023.
+  Quellenzugriff am 2026-11-19. Titel, Datum und Anfang der offiziellen Ansprache selbst gelesen. Quellengeprüfte Ergänzung aus dem Rückabgleich mit den Reaktionen am 19.11.2026; Urteil unverändert.
 
 ### Offene Fragen und Unsicherheiten
 

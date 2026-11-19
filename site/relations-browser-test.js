@@ -48,7 +48,9 @@ function buildSite(withFixtures) {
     const metaPath = path.join(dir, 'video.json');
     const video = fs.existsSync(metaPath) ? JSON.parse(fs.readFileSync(metaPath, 'utf8')) : null;
     const title = (/^# (.+)$/m.exec(fs.readFileSync(path.join(dir, 'README.md'), 'utf8')) || [])[1] || id;
-    videos.push({ id, title, structured, files, video });
+    const rhetoric = fs.existsSync(path.join(dir, 'rhetorik.json'));
+    if (rhetoric) fs.copyFileSync(path.join(dir, 'rhetorik.json'), path.join(out, 'daten', id, 'rhetorik.json'));
+    videos.push({ id, title, structured, rhetoric, files, video });
   }
   let relations = JSON.parse(fs.readFileSync(path.join(base, 'beziehungen.json'), 'utf8'));
   if (withFixtures) {
@@ -117,6 +119,48 @@ async function step(name, fn) {
       return fs.existsSync(p) && JSON.parse(fs.readFileSync(p, 'utf8')).role === 'original';
     }).length;
     assert.match(t, new RegExp(count + ' Originalinterviews'));
+  });
+
+  await step('Prüfstand: jedes Video mit aktuellen offenen Aufgaben und getrennter Darstellung', async () => {
+    await open(urlOf(real), '#/');
+    const ids = fs.readdirSync(path.join(ROOT, 'faktenchecks')).filter(id => fs.existsSync(path.join(ROOT, 'faktenchecks', id, 'strukturiert', 'aussagen.json')));
+    assert.equal(await page.locator('#pruefstand tbody tr').count(), ids.length);
+    for (const id of ids) {
+      const d = JSON.parse(fs.readFileSync(path.join(ROOT, 'faktenchecks', id, 'strukturiert', 'aussagen.json'), 'utf8'));
+      const pending = d.claims.filter(c => !c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status));
+      const row = page.locator('#pruefstand tbody tr').filter({ has: page.locator(`a[href="#/video/${id}"]`) });
+      const text = await row.innerText();
+      assert.ok(text.includes(pending.length ? `${pending.length} noch offen oder in Bearbeitung` : 'Keine offenen erfassten Aussagen'), id);
+      assert.match(text, /Teilweise geprüft/);
+    }
+    assert.match(await page.innerText('#pruefstand'), /keine vollständige Prüfung/);
+  });
+
+  await step('Prüfaufgaben: Direktlink, genaue Aussageverweise und Metadaten ohne README-Duplikate', async () => {
+    const id = 'qQAcmDzd9O8';
+    const d = JSON.parse(fs.readFileSync(path.join(ROOT, 'faktenchecks', id, 'strukturiert', 'aussagen.json'), 'utf8'));
+    const pending = d.claims.filter(c => !c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status));
+    await open(urlOf(real), `#/video/${id}/pruefaufgaben`);
+    assert.equal(await page.locator('#pruefaufgaben ol > li').count(), pending.length);
+    assert.equal(await page.locator(`#pruefaufgaben a[href$="${id}-A0006"]`).count(), 0, 'abgeschlossene Recherche nicht als offene Aufgabe');
+    await page.click('#pruefaufgaben summary');
+    await page.click(`#pruefaufgaben a[href$="${pending[0].id}"]`);
+    await page.waitForSelector('#' + pending[0].id);
+    assert.equal(new URL(page.url()).hash, `#/video/${id}/aussage/${pending[0].id}`);
+    await open(urlOf(real), '#/video/QxMuH1bjMwo/pruefaufgaben');
+    assert.match(await page.innerText('#pruefaufgaben'), /Keine offenen erfassten Aussagen/);
+    assert.match(await page.innerText('.video-head .facts'), /Kanal:.*ungeskriptet/s);
+    assert.match(await page.innerText('.video-head .facts'), /03:20:53/);
+  });
+
+  await step('Prüfstand mobil: alle Videos und Aufgaben ohne Seitenüberlauf', async () => {
+    await page.setViewportSize({ width: 390, height: 800 });
+    await open(urlOf(real), '#/');
+    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth));
+    await open(urlOf(real), '#/video/qQAcmDzd9O8/pruefaufgaben');
+    await page.click('#pruefaufgaben summary');
+    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth));
+    await page.setViewportSize({ width: 1280, height: 900 });
   });
 
   await step('Echte Daten: Detailseite zeigt Rolle und Reaktionsabschnitt, Direktlinks funktionieren', async () => {
@@ -223,8 +267,9 @@ async function step(name, fn) {
     const t = await open(B, '#/');
     assert.match(t, new RegExp(F.VIDEOS[F.O1].meta.title));
     assert.match(t, new RegExp(F.VIDEOS[F.O2].meta.title));
-    assert.doesNotMatch(t, new RegExp(F.VIDEOS[F.RA].meta.title));
-    assert.doesNotMatch(t, new RegExp(F.VIDEOS[F.RB].meta.title));
+    const mainCards = await page.locator('.cards').allInnerTexts();
+    assert.doesNotMatch(mainCards.join(' '), new RegExp(F.VIDEOS[F.RA].meta.title));
+    assert.doesNotMatch(mainCards.join(' '), new RegExp(F.VIDEOS[F.RB].meta.title));
     assert.match(t, /2 zugeordnete Reaktionen/);
     const cards = await page.$$eval('.cards a.card', a => a.map(x => x.getAttribute('href')));
     assert.ok(!cards.some(h => h.includes(F.RA) || h.includes(F.RB)), 'keine Karte für Reaktionen');

@@ -10,7 +10,7 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.",
+    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen.",
     "coverageNote": "Gezielte atomare Auswahl als Referenz für zwei Reaktionsvideos. Nicht das gesamte 3:21-Stunden-Interview geprüft. 178 frühere Gruppenpositionen separat als historischer Arbeitsstand erhalten; keine Hochrechnung und keine Video-Fehlerquote."
   },
   "legacyPoints": [],
@@ -198,6 +198,30 @@
       "details": "Urteil vom 11.12.2018, Rn. 104–117, zum PSPP.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Urteilsvolltext als PDF geöffnet und die Randnummern zu Sekundärmarkt, Emissionssperrfrist und faktischer Vermittlung gelesen."
+    },
+    {
+      "id": "S032",
+      "title": "INDEC: Armut und extreme Armut, erstes Halbjahr 2024",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_241C2355AD3A.pdf",
+      "details": "INDEC, 26.09.2024; S. 3–5, Personenarmut 52,9 Prozent, 31 urbane Agglomerationen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zusammenfassung und Ergebnisse selbst gelesen, als zeitliche Ergänzung zum bestehenden Endwert."
+    },
+    {
+      "id": "S033",
+      "title": "Casa Rosada: Ansprache nach Mileis Amtsantritt, 10.12.2023",
+      "url": "https://www.casarosada.gob.ar/informacion/discursos/50257-palabras-del-presidente-de-la-nacion-javier-milei-luego-de-la-asuncion-presidencial-desde-el-balcon-de-la-casa-rosada",
+      "details": "Offizielle Amtseinführungsansprache, datiert 10.12.2023.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Titel, Datum und Anfang der offiziellen Ansprache selbst gelesen."
+    },
+    {
+      "id": "S034",
+      "title": "Kubiszewski et al. (2010): Meta-analysis of net energy return for wind power systems",
+      "url": "https://www.soest.hawaii.edu/earthsciences_archive/FACULTY/ITO/GG410/Wind/Kubiszewski_EROI_Wind_RenEn10.pdf",
+      "details": "Renewable Energy 35, 218–225; empirische Auswahl n=60, mittlerer EROI 19,8.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abstract, Methoden und Ergebnisse selbst gelesen; nur Ergänzung der Quellenbasis, keine heutige Bestandszählung."
     }
   ],
   "speakers": [
@@ -588,12 +612,12 @@
       "description": "Die meisten Windanlagen erzeugten nicht einmal die für ihre Herstellung benötigte Energie.",
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
-      "reason": "Die untersuchten Lebenszyklusmodelle zeigen Rückgewinnung innerhalb der Nutzungsdauer. Sie stützen die pauschale negative Energiebilanz nicht; eine Bestandszählung aller realen Anlagen wird damit nicht behauptet.",
+      "reason": "Die untersuchten Lebenszyklusmodelle zeigen Rückgewinnung innerhalb der Nutzungsdauer. Sie stützen die pauschale negative Energiebilanz nicht; eine Bestandszählung aller realen Anlagen wird damit nicht behauptet. Ergänzend ergibt die historische Metaanalyse von Kubiszewski et al. für 60 betriebsbezogene Fälle im Mittel einen EROI von 19,8. Auch diese Auswahl ist keine Zählung sämtlicher heutiger Anlagen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-11.01; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-11.01: Widerlegt als allgemeine Aussage. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-11.01: Widerlegt als allgemeine Aussage. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Ergänzung 19.11.2026 (Codex), Issue #77: zusätzliche Primärbelege nach Reaktionsrückabgleich; bisherige Begründung und Bewertung erhalten."
       },
       "sourceRefs": [
         {
@@ -603,6 +627,10 @@
         {
           "sourceId": "S008",
           "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S034",
+          "note": "Quellengeprüfte Ergänzung aus dem Rückabgleich mit den Reaktionen am 19.11.2026; Urteil unverändert."
         }
       ],
       "openQuestions": [],
@@ -1312,17 +1340,25 @@
       "description": "Die argentinische Armut sei von über 50 auf knapp über 20 Prozent gesunken.",
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
-      "reason": "INDEC unterscheidet Personen und Haushalte: Die konkret verglichenen Endwerte sind 28,2 und 21,0 Prozent. Ohne Messgröße ist die Aussage verkürzt; der Rückgang wird nicht bestritten.",
+      "reason": "INDEC unterscheidet Personen und Haushalte: Die konkret verglichenen Endwerte sind 28,2 und 21,0 Prozent. Ohne Messgröße ist die Aussage verkürzt; der Rückgang wird nicht bestritten. Der Ausgangswert von 52,9 Prozent gehört zum ersten Halbjahr 2024 und liegt nach dem Amtsantritt Mileis am 10.12.2023. Die zeitliche Einordnung entscheidet keine Kausalfrage.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-25.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-25.04: Teilweise belegt, zentrale Vergleichszahl irreführend. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-25.04: Teilweise belegt, zentrale Vergleichszahl irreführend. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Ergänzung 19.11.2026 (Codex), Issue #77: zusätzliche Primärbelege nach Reaktionsrückabgleich; bisherige Begründung und Bewertung erhalten."
       },
       "sourceRefs": [
         {
           "sourceId": "S026",
           "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S032",
+          "note": "Quellengeprüfte Ergänzung aus dem Rückabgleich mit den Reaktionen am 19.11.2026; Urteil unverändert."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Quellengeprüfte Ergänzung aus dem Rückabgleich mit den Reaktionen am 19.11.2026; Urteil unverändert."
         }
       ],
       "openQuestions": [],

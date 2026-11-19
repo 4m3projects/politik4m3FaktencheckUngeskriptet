@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "videoId": "OQnvClWgN-g",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-19",
+    "by": "Codex",
+    "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+    "coverage": "Vier Hinweise zu drei bestehenden Aussagen; Originaltextumfeld bei 01:34, 01:50 und 03:16 gelesen. Das übrige Interview nicht auf Darstellung vollständig durchgesehen.",
+    "limits": [
+      "Auswahl einzelner Stellen, keine systematische Vollprüfung der Darstellung des gesamten Videos.",
+      "Keine eigene Hör- oder Sichtkontrolle; Sprecher nur plausibel, Zeitgrenzen ungefähr.",
+      "Alle Hinweise sind KI-Vorschläge ohne unabhängige redaktionelle Bestätigung. Aussagen ohne Hinweis sind nicht als unauffällig bestätigt."
+    ],
+    "history": [
+      {
+        "date": "2026-11-19",
+        "by": "Codex",
+        "change": "Fehlende zweite Bewertungsebene um textgeprüfte Beispiele ergänzt (Issue #77)."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "OQnvClWgN-g-R0001",
+      "claimId": "OQnvClWgN-g-A0030",
+      "feature": "abwertung",
+      "startSeconds": 5676,
+      "endSeconds": 5691,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Der Gast spricht Politikern als Gruppe geringere Intelligenz zu als durchschnittlichen Deutschen.",
+      "reason": "Die Stelle richtet sich gegen die zugeschriebene Intelligenz einer Personengruppe und geht über Kritik an einer konkreten politischen Entscheidung hinaus.",
+      "context": "Eigene Äußerung des Gastes zur staatlichen Innovationsförderung; keine Behauptung des Hosts.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    },
+    {
+      "id": "OQnvClWgN-g-R0002",
+      "claimId": "OQnvClWgN-g-A0030",
+      "feature": "pauschalisierung",
+      "startSeconds": 5676,
+      "endSeconds": 5691,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Politiker werden über ihren Berufsweg und ihre Finanzierung als negativ ausgewählte Gruppe charakterisiert.",
+      "reason": "Die Verallgemeinerung verbindet die Tätigkeit in der Politik mit persönlicher Unfähigkeit, ohne in der Stelle einzelne Fälle oder einen Messmaßstab zu unterscheiden.",
+      "context": "Gespräch über die Verwendung von Steuergeld; die sachliche Intelligenzbehauptung bleibt separat in Bearbeitung.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    },
+    {
+      "id": "OQnvClWgN-g-R0003",
+      "claimId": "OQnvClWgN-g-A0029",
+      "feature": "pauschalisierung",
+      "startSeconds": 6635,
+      "endSeconds": 6644,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Der Gast fasst die gesamte Corona-Zeit in einer umfassenden Täuschungserzählung zusammen.",
+      "reason": "Die pauschale Gesamtbezeichnung unterscheidet in dieser Stelle keine einzelnen Aussagen, Maßnahmen oder Verantwortlichen.",
+      "context": "Die Passage nennt daneben Klima, Krieg und Migration. Die Charakterisierung stammt vom Gast; eine umfassende sachliche Widerlegung folgt aus dem Rhetorikhinweis nicht.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    },
+    {
+      "id": "OQnvClWgN-g-R0004",
+      "claimId": "OQnvClWgN-g-A0026",
+      "feature": "emotionalisierung",
+      "startSeconds": 11802,
+      "endSeconds": 11824,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Der wirtschaftliche Ausblick wird mit dem Bild eines Landes zugespitzt, das bald gegen eine Wand gerät.",
+      "reason": "Das Bedrohungsbild verstärkt die Dringlichkeit der Zukunftsprognose; es ersetzt keinen überprüfbaren Endmaßstab.",
+      "context": "Antwort des Gastes auf die Frage nach dem Zeitpunkt einer Krise. Prognose bleibt auf der Faktenebene eine Prognose.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    }
+  ]
+}

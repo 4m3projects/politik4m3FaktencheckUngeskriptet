@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "videoId": "qQAcmDzd9O8",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-19",
+    "by": "Codex",
+    "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+    "coverage": "Zwei Hinweise zu zwei erfassten Aussagen im Indexabschnitt; den gesamten Anschluss von etwa 07:09 bis zum Ende textlich gelesen, keine audiovisuelle Kontrolle oder vollständige Rhetorikkodierung.",
+    "limits": [
+      "Auswahl einzelner Stellen, keine systematische Vollprüfung der Darstellung des gesamten Videos.",
+      "Keine eigene Hör- oder Sichtkontrolle; Sprecher nur plausibel, Zeitgrenzen ungefähr.",
+      "Alle Hinweise sind KI-Vorschläge ohne unabhängige redaktionelle Bestätigung. Aussagen ohne Hinweis sind nicht als unauffällig bestätigt."
+    ],
+    "history": [
+      {
+        "date": "2026-11-19",
+        "by": "Codex",
+        "change": "Fehlende zweite Bewertungsebene um textgeprüfte Beispiele ergänzt (Issue #77)."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "qQAcmDzd9O8-R0001",
+      "claimId": "qQAcmDzd9O8-A0033",
+      "feature": "ironie",
+      "startSeconds": 815,
+      "endSeconds": 838,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Die Einschätzung des Gesprächsstils wird durch das Bild eines gut ausgebauten Tunnels mit wenigen Ausfahrten verspottet.",
+      "reason": "Das ausgeführte Tunnelbild ist eine ironische Zuspitzung der behaupteten Unbeweglichkeit. Es belegt keinen psychologischen Zustand.",
+      "context": "Kommentar der Alfred-Figur zur eigenen Indexkategorie; kein wörtlicher Ausspruch Kralls. Die sachliche Messgrundlage wird separat geprüft.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    },
+    {
+      "id": "qQAcmDzd9O8-R0002",
+      "claimId": "qQAcmDzd9O8-A0035",
+      "feature": "ironie",
+      "startSeconds": 893,
+      "endSeconds": 908,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Die Figur gratuliert Krall zum ersten Platz einer Rangliste, die zu diesem Zeitpunkt nur einen Namen enthält.",
+      "reason": "Der ausdrücklich eingeräumte Einpersonenvergleich und die Gratulation bilden eine ironische Pointe.",
+      "context": "Satirisches KI-Katzenformat. Die Punktzahl und die behaupteten Zählgrundlagen werden durch die Pointe nicht bestätigt.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    }
+  ]
+}

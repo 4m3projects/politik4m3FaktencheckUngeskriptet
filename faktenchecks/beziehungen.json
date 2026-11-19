@@ -978,6 +978,34 @@
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
             }
           ]
+        },
+        {
+          "id": "L1365",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0014",
+          "reactionClaimId": "qQAcmDzd9O8-A0008",
+          "reactionSeconds": 219,
+          "note": "Zwally-Studie von 2015 beschreibt frühere Messzeiträume 1992–2001 und 2003–2008. Bestätigt die historische Existenz des Zuwachs-Befunds, nicht Kralls aktuellen Rekord oder dessen Geltung für die Gesamtbilanz.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Nach eigener Originaltext- und Primärquellenprüfung zugeordnet; Original und zweite Krall-Reaktion auf direkte Folgen abgeglichen (Issue #77)."
+            }
+          ]
+        },
+        {
+          "id": "L1366",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0009",
+          "reactionClaimId": "qQAcmDzd9O8-A0017",
+          "reactionSeconds": 394,
+          "note": "Historische Metaanalyse: mittlerer EROI 19,8 für die operational-Untergruppe n=60. Ergänzt die positive Lebenszyklusbilanz, ohne sämtliche realen Anlagen zu zählen oder Geldrentabilität zu behaupten.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Nach eigener Originaltext- und Primärquellenprüfung zugeordnet; Original und zweite Krall-Reaktion auf direkte Folgen abgeglichen (Issue #77)."
+            }
+          ]
         }
       ]
     },
@@ -1478,11 +1506,15 @@
           "originalClaimId": "OQnvClWgN-g-A0025",
           "reactionClaimId": "L7E04TJtRBU-A0033",
           "reactionSeconds": 1407,
-          "note": "Historischer Ausgangszeitpunkt zusätzlich zu klären.",
+          "note": "52,9 Prozent Personenarmut beziehen sich auf das erste Halbjahr 2024, nach Mileis Amtsantritt am 10.12.2023; Primärquellen am 19.11.2026 gelesen. Zeitfolge ist kein Kausalnachweis.",
           "history": [
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Historischen Ausgangszeitpunkt geprüft und im Original A0025 ergänzt (Issue #77); Originalurteil unverändert."
             }
           ]
         }

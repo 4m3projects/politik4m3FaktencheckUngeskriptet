@@ -97,11 +97,15 @@ async function step(name, fn) {
   await step('Startseite: Darstellungshinweise je Interview mit Anzahl je Merkmal sichtbar', async () => {
     await open(W, '#/');
     let total = 0;
-    for (const id of ['mdo14671BPE', 'mlxFA9T88I0']) {
+    const originals = fs.readdirSync(path.join(ROOT, 'faktenchecks')).filter(id => {
+      const meta = path.join(ROOT, 'faktenchecks', id, 'video.json');
+      return fs.existsSync(meta) && JSON.parse(fs.readFileSync(meta, 'utf8')).role === 'original' && fs.existsSync(path.join(ROOT, 'faktenchecks', id, 'rhetorik.json'));
+    });
+    for (const id of originals) {
       const r = rhetOf(id), st = R.reviewState(r);
       total += st.annotations;
       const box = (await page.locator(`a.card[href="#/video/${id}"] .rhet-sum`).innerText()).replace(/\s+/g, ' ');
-      assert.match(box, new RegExp(`Darstellung · ${st.annotations} KI-Hinweise`, 'i'));
+      assert.match(box, new RegExp(`Darstellung · ${st.annotations} KI-Hinweis`, 'i'));
       for (const [k, n] of Object.entries(R.featureCounts(r)).filter(([, n]) => n > 0)) {
         assert.ok(box.includes(`${R.FEATURES[k].name} ${n}`), id + ': ' + R.FEATURES[k].name + ' ' + n + ' fehlt in: ' + box);
       }

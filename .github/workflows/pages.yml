@@ -55,6 +55,9 @@ jobs:
       - name: Synchronisationslogik testen
         run: node --test site/sync-test.js
 
+      - name: Prüfstand und konkrete Restaufgaben testen
+        run: node --test site/progress-test.js
+
       - name: Originale, Reaktionen und Beziehungen prüfen
         run: node --test site/relations-test.js
 
