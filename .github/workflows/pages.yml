@@ -90,7 +90,7 @@ jobs:
           set -euo pipefail
           rm -rf "$OUT"
           mkdir -p "$OUT/daten"
-          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js site/ampel.js site/wissen.js site/gegendarstellung.js site/themen.js "$OUT/"
+          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js site/ampel.js site/wissen.js site/gegendarstellung.js site/themen.js site/favicon.svg site/favicon.ico site/apple-touch-icon.png "$OUT/"
           # Versionsparameter je Commit: Browser und GitHub-Pages-Cache laden nach jedem Deploy alle Skripte neu
           # und mischen keine alten und neuen Dateien.
           ver="${GITHUB_SHA:0:12}"

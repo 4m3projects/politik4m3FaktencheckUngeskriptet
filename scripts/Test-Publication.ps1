@@ -16,6 +16,8 @@ function Test-PublicFile([string]$RelativePath,[string]$Content,[string]$Origin)
         $name -match '^(docs|faktenchecks)/[A-Za-z0-9_./-]+\.md$' -or
         $name -match '^scripts/[A-Za-z0-9_-]+\.(ps1|js)$' -or
         $name -match '^site/[A-Za-z0-9_-]+\.(html|css|js)$' -or
+        # Favicon der Webseite: SVG plus PNG/ICO-Fallback (einzige zugelassene Binaerdateien).
+        $name -cmatch '^site/(favicon\.(svg|ico)|apple-touch-icon\.png)$' -or
         $name -match '^\.github/workflows/[A-Za-z0-9_-]+\.yml$' -or
         # Vorlage für Korrekturvorgänge (docs/AGENTEN_WISSEN.md).
         $name -cmatch '^\.github/ISSUE_TEMPLATE/[a-z0-9-]+\.md$' -or
@@ -67,6 +69,15 @@ while ($stack.Count -gt 0) {
         if ($item.PSIsContainer) { $stack.Push($item.FullName); continue }
         if ($item.Length -gt 2MB) {
             $problems.Add('Arbeitsbaum: zu grosse Datei fuer diese Textsammlung ' + $rel)
+            continue
+        }
+        if ($rel.Replace('\','/') -cmatch '^site/(favicon\.ico|apple-touch-icon\.png)$') {
+            # Binaere Favicons: nur Dateityp ueber Signatur und Groesse pruefen, kein UTF-8-Text.
+            $head = [IO.File]::ReadAllBytes($item.FullName)
+            $isIco = $rel.EndsWith('.ico') -and $head.Length -ge 4 -and $head[0] -eq 0 -and $head[1] -eq 0 -and $head[2] -eq 1 -and $head[3] -eq 0
+            $isPng = $rel.EndsWith('.png') -and $head.Length -ge 8 -and $head[0] -eq 0x89 -and $head[1] -eq 0x50 -and $head[2] -eq 0x4E -and $head[3] -eq 0x47
+            if ((-not ($isIco -or $isPng)) -or $item.Length -gt 64KB) { $problems.Add('Arbeitsbaum: ungueltige Favicon-Datei ' + $rel) }
+            $checkedCount++
             continue
         }
         try { $body = $utf.GetString([IO.File]::ReadAllBytes($item.FullName)) }
