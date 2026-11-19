@@ -2390,6 +2390,46 @@
       "details": "apotheken.de, Dr. med. Sonja Kempinski, 24.09.2025; fachliche Einordnung des Rindertalg-Trends.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S174",
+      "title": "Bund muss 2027 mehr Anleihen begeben",
+      "url": "https://www.boersen-zeitung.de/news/bz-all-rss/kapitalmaerkte/bund-muss-2027-mehr-kredite-aufnehmen",
+      "details": "Börsen-Zeitung, 24.09.2026; Kreditaufnahme 2026 rund 525,5 Mrd. Euro bei Fälligkeiten von 309 Mrd. Euro, Anschlussfinanzierung und steigende Nettokreditaufnahme.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S175",
+      "title": "Emissionen des Bundes im vierten Quartal 2026",
+      "url": "https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Pressemitteilung/dt/2026/2026_09_24_PM_08_Emissionen_des_Bundes_im_vierten_Quartal_2026.pdf",
+      "details": "Deutsche Finanzagentur, Pressemitteilung Nr. 8 vom 24.09.2026; Emissionen und Tilgungen (79 Mrd. Euro) im 4. Quartal 2026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S176",
+      "title": "Leads and lags in sovereign credit ratings",
+      "url": "https://ideas.repec.org/a/eee/jbfina/v34y2010i11p2614-2626.html",
+      "details": "Alsakka/ap Gwilym, Journal of Banking & Finance 34(11), 2010; Kurzfassung zur gegenseitigen Abhängigkeit der Ratingentscheidungen (Volltext nicht gelesen).",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S177",
+      "title": "Sovereign credit ratings and financial markets linkages: application to European data",
+      "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecbwp1347.pdf",
+      "details": "Afonso/Furceri/Gomes, EZB-Working-Paper Nr. 1347, Juni 2011; Abschnitt 4.3 zur Reaktion der Agenturen aufeinander.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S178",
+      "title": "List of countries by labour productivity",
+      "url": "https://en.wikipedia.org/wiki/List_of_countries_by_labour_productivity",
+      "details": "Englischsprachige Wikipedia mit OECD-Daten: BIP je Arbeitsstunde 2023 (US-Dollar, KKP) Schweiz 100,63, Deutschland 93,81; ILO-Schätzung 2025 Schweiz 85,8, Deutschland 80,5.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
     }
   ],
   "claims": [
@@ -13842,19 +13882,22 @@
       "legacyId": "C04-P05",
       "kind": "Tatsachenbehauptung",
       "description": "Die Schweiz habe eine weit höhere Produktivität je Beschäftigtem als Deutschland; deshalb rentiere sich Produktion dort besser.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Ein Produktivitätsvergleich hängt von Kennzahl (je Stunde oder je Beschäftigtem), Währungsumrechnung und Branche ab. Keine OECD- oder Eurostat-Daten gelesen; der Kausalschluss auf Rentabilität berücksichtigt Lohn- und Kostenniveau nicht.",
-      "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Nach OECD-Daten lag die Arbeitsproduktivität (BIP je Arbeitsstunde, kaufkraftbereinigt) 2023 in der Schweiz bei rund 101 US-Dollar und in Deutschland bei rund 94 US-Dollar, also etwa 7 Prozent höher; eine ILO-Schätzung für 2025 zeigt dieselbe Reihenfolge. Die Schweiz ist damit produktiver, aber nicht „weit“ produktiver. Ein Wert je Beschäftigtem wurde nicht gelesen. Der Schluss auf bessere Rentabilität lässt das deutlich höhere Schweizer Lohnniveau und die Lohnstückkosten außer Acht.",
+      "assessmentBasis": "OECD-Werte zur Arbeitsproduktivität je Stunde über die Übersicht der englischsprachigen Wikipedia gelesen; die OECD-Kompendien 2025/2026 enthalten die Länderwerte nur in Grafiken. Keine Daten je Beschäftigtem und keine Lohnstückkosten gelesen.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
         "mapping": "Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): OECD-Produktivitätswerte gelesen; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "OECD-Produktivitätsdaten (BIP je Arbeitsstunde, kaufkraftbereinigt) für Schweiz und Deutschland lesen; Lohnstückkosten einbeziehen."
+      "sourceRefs": [
+        {
+          "sourceId": "S178",
+          "note": "BIP je Arbeitsstunde 2023 (KKP): Schweiz 100,63, Deutschland 93,81 US-Dollar."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0230",
@@ -16678,19 +16721,26 @@
       "legacyId": "C05-P09",
       "kind": "Tatsachenbehauptung",
       "description": "Der Staat tilgt alte Schulden, indem er neue aufnimmt, und nimmt darüber hinaus zusätzliche Kredite auf.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Die Anschlussfinanzierung fälliger Schulden ist üblich und Teil der Bruttokreditaufnahme. Für den hier konkret behaupteten Umfang wurde keine Zahl geprüft; als allgemeiner Mechanismus unstrittig, aber ohne gelesene Quelle keine Endbewertung.",
-      "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Finanzagentur des Bundes weist für das vierte Quartal 2026 Tilgungen von 79 Mrd. Euro aus, denen Neuemissionen von rund 106 Mrd. Euro gegenüberstehen. Für 2026 insgesamt nennt die Börsen-Zeitung eine Kreditaufnahme von rund 525,5 Mrd. Euro bei Fälligkeiten von 309 Mrd. Euro; der Bund refinanziert also fällige Schulden mit neuen Wertpapieren und nimmt zusätzlich netto neue Kredite auf. Das ist übliche Praxis der Schuldenverwaltung, nicht ein Sonderfall.",
+      "assessmentBasis": "Pressemitteilung der Finanzagentur vom 24.09.2026 und Bericht der Börsen-Zeitung vom selben Tag gelesen; Jahreswerte aus dem Pressebericht, Quartalswerte aus der Primärquelle.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
         "mapping": "Geldmengenprognose, Staatsinsolvenz (Behauptung des Moderators und Zurückweisung des Gastes) und Refinanzierung getrennt. Die Kreditkartenanalogie ist ein Gedankenmodell, keine Tatsachenbehauptung.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Finanzagentur-Pressemitteilung und Börsen-Zeitung gelesen; von Offen auf Belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Bruttokreditaufnahme und Tilgungen laut Kreditaufnahmebericht 2025 gegenüberstellen."
+      "sourceRefs": [
+        {
+          "sourceId": "S175",
+          "note": "Tilgungen Q4/2026 79 Mrd. Euro, Emissionen rund 106 Mrd. Euro."
+        },
+        {
+          "sourceId": "S174",
+          "note": "2026: 525,5 Mrd. Euro Kreditaufnahme, 309 Mrd. Euro Fälligkeiten; Anschlussfinanzierung und wachsende Nettokreditaufnahme."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0293",
@@ -16895,19 +16945,26 @@
       "legacyId": "C05-P10",
       "kind": "Tatsachenbehauptung",
       "description": "Wenn eine Ratingagentur herabstuft, folgen die anderen erfahrungsgemäß innerhalb eines Viertel- bis halben Jahres.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Allgemeine Erfahrungsregel ohne Belege; keine Studie zu Folgeherabstufungen gelesen.",
-      "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Studien zu Staatenratings finden eine deutliche gegenseitige Abhängigkeit: Nach einer Herabstufung durch eine Agentur werden Herabstufungen durch andere Agenturen wahrscheinlicher (Alsakka/ap Gwilym 2010). Eine EZB-Studie zu europäischen Daten findet aber, dass die Agenturen innerhalb von ein bis zwei Wochen aufeinander reagieren, ohne feste Führungsrolle einer Agentur. Dass andere Agenturen regelmäßig folgen, ist damit gestützt; die genannte Frist von einem Viertel- bis halben Jahr als Erfahrungsregel ist mit den gelesenen Quellen nicht belegt, und ein Nachziehen ist keine feste Regel.",
+      "assessmentBasis": "Kurzfassung von Alsakka/ap Gwilym (2010) und EZB-Working-Paper 1347 (Afonso/Furceri/Gomes 2011), Abschnitt 4.3, gelesen; Volltext der erstgenannten Studie nicht zugänglich.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
         "mapping": "Auktionsergebnis, frühere Überzeichnung, aktuelles Rating, S&P-Warnung (Vorkommen von A0017) und Nachfolgeverhalten der Agenturen getrennt.",
-        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): zwei Studien zu Folgeentscheidungen der Ratingagenturen gelesen; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Empirische Untersuchungen zu Ratingfolgeentscheidungen bei Staaten lesen."
+      "sourceRefs": [
+        {
+          "sourceId": "S176",
+          "note": "Herabstufung einer Agentur erhöht die Wahrscheinlichkeit weiterer Herabstufungen."
+        },
+        {
+          "sourceId": "S177",
+          "note": "Agenturen reagieren innerhalb von ein bis zwei Wochen aufeinander."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mlxFA9T88I0-O0298",

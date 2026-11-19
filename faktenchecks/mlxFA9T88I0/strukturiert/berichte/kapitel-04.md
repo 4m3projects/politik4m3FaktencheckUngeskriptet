@@ -1127,7 +1127,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Die Schweiz habe eine weit höhere Produktivität je Beschäftigtem als Deutschland; deshalb rentiere sich Produktion dort besser.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1150,21 +1150,22 @@ Frueherer Suchbereich: [01:21:10–01:23:09](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Ein Produktivitätsvergleich hängt von Kennzahl (je Stunde oder je Beschäftigtem), Währungsumrechnung und Branche ab. Keine OECD- oder Eurostat-Daten gelesen; der Kausalschluss auf Rentabilität berücksichtigt Lohn- und Kostenniveau nicht.
+Nach OECD-Daten lag die Arbeitsproduktivität (BIP je Arbeitsstunde, kaufkraftbereinigt) 2023 in der Schweiz bei rund 101 US-Dollar und in Deutschland bei rund 94 US-Dollar, also etwa 7 Prozent höher; eine ILO-Schätzung für 2025 zeigt dieselbe Reihenfolge. Die Schweiz ist damit produktiver, aber nicht „weit“ produktiver. Ein Wert je Beschäftigtem wurde nicht gelesen. Der Schluss auf bessere Rentabilität lässt das deutlich höhere Schweizer Lohnniveau und die Lohnstückkosten außer Acht.
 
-Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: OECD-Werte zur Arbeitsproduktivität je Stunde über die Übersicht der englischsprachigen Wikipedia gelesen; die OECD-Kompendien 2025/2026 enthalten die Länderwerte nur in Grafiken. Keine Daten je Beschäftigtem und keine Lohnstückkosten gelesen.
 
 Uebernahme: Kostenbelastung der Industrie, Auslandsinvestitionen, Werke in Ungarn, STIHL-Schweiz-Beispiel und Produktivitätsvergleich getrennt. Historische Schweizer Fertigung ist kein Beleg eines neuen Wegzugs.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): OECD-Produktivitätswerte gelesen; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [List of countries by labour productivity](https://en.wikipedia.org/wiki/List_of_countries_by_labour_productivity) · Englischsprachige Wikipedia mit OECD-Daten: BIP je Arbeitsstunde 2023 (US-Dollar, KKP) Schweiz 100,63, Deutschland 93,81; ILO-Schätzung 2025 Schweiz 85,8, Deutschland 80,5.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht. BIP je Arbeitsstunde 2023 (KKP): Schweiz 100,63, Deutschland 93,81 US-Dollar.
 
 ### Offene Fragen und Unsicherheiten
 
-- OECD-Produktivitätsdaten (BIP je Arbeitsstunde, kaufkraftbereinigt) für Schweiz und Deutschland lesen; Lohnstückkosten einbeziehen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mlxFA9T88I0-A0203
 
