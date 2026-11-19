@@ -6,7 +6,7 @@
     {
       "topic": "religion",
       "relevance": "Schwerpunkt",
-      "basis": "37 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "basis": "40 erfasste Aussagen mit ausdrücklichem Sachbezug.",
       "segments": []
     },
     {
@@ -290,6 +290,24 @@
         "religion",
         "meinungsfreiheit"
       ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0049",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0050",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0051",
+      "topics": [
+        "religion"
+      ]
     }
   ],
   "history": [
@@ -312,6 +330,11 @@
       "date": "2026-11-19",
       "agent": "Codex",
       "change": "Neue Quellenprüfungen zu sexueller Belästigung, Radikalisierung und Fatwas zugeordnet."
+    },
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Ergänzende Prüfungen zu religiöser Neutralität, einer Demonstration und Erbregeln zugeordnet."
     }
   ]
 }
