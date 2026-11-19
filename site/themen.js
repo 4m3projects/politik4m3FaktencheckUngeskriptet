@@ -27,6 +27,11 @@ async function loadKnowledge() {
   return state.wissen;
 }
 
+/* Name der Seite aus <meta name="application-name">, damit diese Datei in beiden Projekten gleich bleibt. */
+function siteName() {
+  return document.querySelector('meta[name="application-name"]')?.content || 'Politik4M3 Faktencheck';
+}
+
 function topicName(id) {
   const t = state.wissen?.byId.get(id);
   return t ? t.name : id;
@@ -140,7 +145,7 @@ async function pageTopics() {
       <p class="topic-others">${others.map(t => `<a class="badge kind topic-chip topic-internal" href="${esc(topicHref(t.id))}">${esc(topicPath(t.id))}</a>`).join(' ')}</p></section>` : ''}
     ${correctionSection(w.raw.corrections, 'Wenn wir einen Fehler in einer früheren Bewertung finden, korrigieren wir ihn überall, wo er vorkommt, und dokumentieren hier die alte und neue Bewertung, den Grund und die Quellen.')}
   </div>`, 'themen');
-  document.title = 'Themen – Politik4M3 Faktencheck Ungeskriptet';
+  document.title = 'Themen – ' + siteName();
   const q = document.getElementById('kb-q');
   const out = document.getElementById('kb-results');
   const items = w.raw.topics.filter(t => !t.mergedInto).map(t => ({ kind: 'Thema', id: t.id, text: [t.name, ...t.aliases, t.description || ''].join(' ') }))
@@ -200,6 +205,6 @@ async function pageTopic(id) {
       <ul class="kb-list">${recs}</ul></section>` : ''}
     ${correctionSection((w.raw.corrections || []).filter(c => c.topics.some(x => FactKnowledge.withAncestors(x).includes(t.id))), 'Korrigierte frühere Bewertungen zu diesem Thema, mit alter und neuer Bewertung, Grund und Quellen.')}
   </div>`, 'themen');
-  document.title = t.name + ' – Themen – Politik4M3 Faktencheck Ungeskriptet';
+  document.title = t.name + ' – Themen – ' + siteName();
   window.scrollTo(0, 0);
 }

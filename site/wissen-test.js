@@ -82,7 +82,7 @@ test('leerer Bestand und Projektdaten sind gültig', () => {
   const { load } = require('../scripts/wissen.js');
   const b = load(path.join(__dirname, '..'));
   assert.deepEqual(K.validateAll(b), []);
-  assert.equal(K.config(b.config).namespace, 'UG');
+  assert.match(K.config(b.config).namespace, /^[A-Z][A-Z0-9]{1,5}$/, 'eigenes Kürzel gesetzt (UG, HP …)');
 });
 
 test('synthetischer Bestand ist gültig', () => {
