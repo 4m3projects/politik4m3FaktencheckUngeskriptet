@@ -6,7 +6,7 @@
     {
       "topic": "religion",
       "relevance": "Schwerpunkt",
-      "basis": "33 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "basis": "37 erfasste Aussagen mit ausdrücklichem Sachbezug.",
       "segments": []
     },
     {
@@ -18,7 +18,7 @@
     {
       "topic": "meinungsfreiheit",
       "relevance": "Erwähnt",
-      "basis": "4 erfasste Aussagen mit ausdrücklichem Sachbezug.",
+      "basis": "5 erfasste Aussagen mit ausdrücklichem Sachbezug.",
       "segments": []
     },
     {
@@ -265,6 +265,31 @@
         "religion",
         "migration"
       ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0045",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0046",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0047",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0048",
+      "topics": [
+        "religion",
+        "meinungsfreiheit"
+      ]
     }
   ],
   "history": [
@@ -282,6 +307,11 @@
       "date": "2026-11-19",
       "agent": "Codex",
       "change": "Aussagen zur Muslimbruderschaft, russisch-orthodoxen Kirchenführung und Ausbildung religiösen Personals zugeordnet."
+    },
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Neue Quellenprüfungen zu sexueller Belästigung, Radikalisierung und Fatwas zugeordnet."
     }
   ]
 }

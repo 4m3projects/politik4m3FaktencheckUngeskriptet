@@ -194,4 +194,46 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
+## QxMuH1bjMwo-A0046
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Abdel-Samad veröffentlichte 2005 eine Untersuchung zur Radikalisierung von Muslimen in Deutschland.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:38:12–01:38:24](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=5892s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Zeitmarkiertes Originaltranskript und Gesprächsverlauf.
+
+Grundlage des Aussagebezugs: Behauptung im Gesprächskontext der Originalfundstelle.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Fundstelle zur abgegrenzten Tatsachenbehauptung.
+
+Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Ein Forschungsbericht führt den Beitrag Radikalisierung in der Fremde? Muslime in Deutschland für 2005 auf. Das Inhaltsverzeichnis des Sammelbands führt unter anderem Interviews und die Untersuchung möglicher Radikalisierungsfaktoren auf. Geprüft ist das Erscheinungsjahr der Studie. Ob es die erste Arbeit des Autors zu diesem Thema war, ergibt sich daraus nicht.
+
+Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+
+Uebernahme: Direkt aus der Originalfundstelle erfasst.
+
+Bewertungsuebergang: Erste dokumentierte Einordnung.
+
+### Zugeordnete Quellen
+
+- [Muslime in Deutschland: Forschungsbericht, Literaturverzeichnis](https://www.deutsche-islam-konferenz.de/SharedDocs/Anlagen/DE/Downloads/WissenschaftPublikationen/muslime-in-deutschland-lang-dik.pdf?__blob=publicationFile&v=4) · Forschungsbericht auf dem Portal der Deutschen Islam Konferenz.
+  Quellenzugriff am 2026-11-19. Bibliografieeintrag zu Abdel-Samads Beitrag in Peter Waldmanns Sammelband von 2005 gelesen. Bibliografie mit Autor, Titel, Jahr und Sammelband.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

@@ -145,7 +145,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein Vertreter des türkisch-islamischen Verbands habe in einer Sitzung der Deutschen Islam Konferenz erklärt, die Absolventen der deutschen Hochschulprogramme erfüllten die Standards für eine Anstellung in den Moscheen des Verbands nicht.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -164,15 +164,21 @@ Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Programmunterlagen unterscheiden Hochschulabschluss und praktische Ausbildung, geben aber die konkrete Wortmeldung in der Sitzung nicht wieder. Der Verband betrieb nach eigener Darstellung ab 2020 ein praktisches Ausbildungsprogramm in Dahlem.
+Abdel-Samad schilderte dieselbe Wortmeldung schon in seinem öffentlichen Rücktrittsbrief im November 2020. Ein Bericht einer teilnehmenden Gemeinde bestätigt das Thema der Fachtagung und die Eröffnung durch den Innenminister. Die veröffentlichte Schilderung der Tagung und die offiziellen Ausbildungsinformationen bestätigen den genauen Wortlaut des DITIB-Vertreters nicht unabhängig. Das ist keine Widerlegung der Schilderung.
 
 Grundlage der Bewertung: [Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
 
 Uebernahme: Direkt aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: Zur weiteren Prüfung erfasst.
+Bewertungsuebergang: [Codex] 19.11.2026: Nach Abgleich des Rücktrittsbriefs, des Tagungsberichts und der Ausbildungsunterlagen von Offen auf Nicht ausreichend belegbar umgestellt.
 
 ### Zugeordnete Quellen
+
+- [Hamed Abdel-Samad: Offener Brief zum Rücktritt](https://hpd.de/artikel/hamed-abdel-samad-zieht-sich-deutscher-islamkonferenz-zurueck-18677) · Im Humanistischen Pressedienst am 11.11.2020 veröffentlicht.
+  Quellenzugriff am 2026-11-19. Brief mit eigener Angabe zur Einladung rund zehn Jahre davor und zur Beendigung der Teilnahme gelesen. Zeitnahe Selbstauskunft des Gastes über die von ihm erinnerte Wortmeldung.
+
+- [Islamische Gemeinde Penzberg: Imam Idriz spricht in der Deutschen Islam Konferenz](https://islam-penzberg.de/imam-idriz-spricht-in-der-deutschen-islam-konferenz/) · Bericht einer teilnehmenden Gemeinde über die Tagung zur Ausbildung religiösen Personals.
+  Quellenzugriff am 2026-11-19. Tagungsbeschreibung, Eröffnung durch Horst Seehofer und Bericht zum Beitrag des Imams gelesen. Zeitgenössischer Bericht einer teilnehmenden Gemeinde zu Thema und Ablauf.
 
 - [Deutsche Islam Konferenz: Handreichung zu islamischen Ausbildungsangeboten](https://www.deutsche-islam-konferenz.de/SharedDocs/Anlagen/DE/Publikationen/dik-handreichung-2024.pdf?__blob=publicationFile&v=6) · Abschnitt Studium der Islamischen Theologie plus berufspraktische Ausbildung.
   Quellenzugriff am 2026-11-19. Abschnitt zur Unterscheidung zwischen Hochschulabschluss, Lehramt und gemeindebezogener Ausbildung gelesen. Unterschied zwischen Hochschulausbildung und praktischer Ausbildung.
@@ -182,6 +188,16 @@ Bewertungsuebergang: Zur weiteren Prüfung erfasst.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Sitzung war gemeint? Liegen eine Aufzeichnung, ein Sitzungsprotokoll oder eine zeitgenössische Erklärung des Verbands genau zu dieser Wortmeldung vor?
+- Ein vollständiges Protokoll, eine Aufzeichnung der einschlägigen Diskussionsrunde oder eine zeitgenössische Stellungnahme des DITIB-Vertreters suchen.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Eine unabhängig kontrollierbare Aufzeichnung oder Niederschrift der Wortmeldung.
+
+- Durchgang 1 am 2026-11-19 (Codex): Zeitgenössische Ausbildungsunterlagen und Veröffentlichungen der beteiligten Organisationen zu Einstellungsvoraussetzungen gesucht. Gepruefte Quellen: S053, S054. Ergebnis: Die Ausbildungswege sind dokumentiert, der Wortbeitrag auf der Tagung fehlt.
+
+- Durchgang 2 am 2026-11-19 (Codex): Über Datum, Rücktrittsschreiben und Teilnehmerberichte nach der konkreten Tagung und einer zeitnahen Wiedergabe der Sitzung gesucht. Gepruefte Quellen: S003, S056. Ergebnis: Der offene Brief ist eine zeitnahe Wiederholung durch denselben Zeugen. Der teilnehmende Imam beschreibt die Tagung, bestätigt die konkrete Wortmeldung aber nicht.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
