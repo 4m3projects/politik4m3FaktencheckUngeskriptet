@@ -625,7 +625,7 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 ### Offene Fragen und Unsicherheiten
 
-- Betroffene Uploads, historische Zähler und Löschentscheidungen einzeln dokumentieren.
+- Wortlautkontrolle 19.11.2026: Seibt spricht von Uploads „überall auf YouTube“, nicht von ihrem eigenen Kanal; dort gibt es kein PCR-Video. Fremd-Uploads und deren Aufrufzahlen wurden nicht gefunden.
 
 ## mdo14671BPE-A0121
 

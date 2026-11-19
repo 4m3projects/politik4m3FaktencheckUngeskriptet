@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Anfang 2024 sei ihr YouTube-Kanal nach längerer Sperre wiederhergestellt worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,21 +29,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Wiederherstellung eines Kanals, neuer Kanal und einzelne freigegebene Videos müssen auseinandergehalten werden.
+Auf ihrem Kanal gibt es zwischen dem 28.10.2020 und dem 14.03.2024 keine Uploads; am 15.03.2024 folgte ein Video, in dem sie ihre Rückkehr ankündigt. Das passt zu einer Wiederaufnahme Anfang 2024. Dass der Kanal zuvor gesperrt war, ist auf dem Kanal selbst nicht erkennbar; eine Upload-Pause allein belegt keine Sperre.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Videoliste ihres Kanals mit Upload-Daten gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube-Kanal Naomi Seibt (Videoliste mit Upload-Daten)](https://www.youtube.com/channel/UCeYSlCaX1PheCaqxN7u2klw) · Eigener Kanal von Naomi Seibt, 89 gelistete Videos, ältestes vom 24.05.2019; Upload-Lücke 28.10.2020 bis 14.03.2024; keine sichtbare Sperrmitteilung.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Videoliste und automatische Untertitel). Keine Quellenkopie veröffentlicht. Upload-Lücke 10/2020 bis 03/2024; Rückkehrvideo 15.03.2024.
 
 ### Offene Fragen und Unsicherheiten
 
-- Kanal-ID, Moderationsentscheidung und ursprüngliche Sperrhistorie vergleichen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0143
 

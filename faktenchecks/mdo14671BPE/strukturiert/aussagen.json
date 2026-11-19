@@ -1078,6 +1078,14 @@
       "details": "Perlentaucher, Zusammenfassung von Rezensionen (u. a. Die Zeit, 28.11.2024; Süddeutsche Zeitung, 26.11.2024).",
       "accessedOn": "2026-11-19",
       "accessBasis": "Von Claude am 19.11.2026 gelesen. Keine Quellenkopie veröffentlicht."
+    },
+    {
+      "id": "S134",
+      "title": "YouTube-Kanal Naomi Seibt (Videoliste mit Upload-Daten)",
+      "url": "https://www.youtube.com/channel/UCeYSlCaX1PheCaqxN7u2klw",
+      "details": "Eigener Kanal von Naomi Seibt, 89 gelistete Videos, ältestes vom 24.05.2019; Upload-Lücke 28.10.2020 bis 14.03.2024; keine sichtbare Sperrmitteilung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Claude am 19.11.2026 über Jens' Rechner gelesen (Videoliste und automatische Untertitel). Keine Quellenkopie veröffentlicht."
     }
   ],
   "speakers": [
@@ -1150,19 +1158,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt nahm an Veranstaltungen zur Amtseinführung Donald Trumps teil.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Vereidigungszeremonie, öffentliche Begleitveranstaltungen und Ball sind zu unterscheiden. Die genaue Veranstaltung ist noch nicht unabhängig nachgewiesen.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "An der ersten Stelle sagt der Gastgeber, Seibt sei bei der Vereidigungszeremonie gewesen; Seibt selbst nennt später nur den „Inauguration Ball“ als Veranstaltung, an der sie teilnahm. Unabhängige Belege (Gästelisten, Berichte, datierte Fotos) wurden nicht gefunden. Die Teilnahme ist damit nur durch ihre eigene Aussage gestützt; für die Vereidigungszeremonie fehlt selbst diese.",
+      "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Websuche nach Berichten über ihre Teilnahme ohne Treffer.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Welche Veranstaltung und welche Zugangskategorie sind durch zeitgenössische Belege bestätigt?"
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Gastgeber nennt Vereidigungszeremonie, Seibt selbst den Inauguration Ball."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0002",
@@ -3988,19 +3999,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt habe bereits um 2018 ein eigenes YouTube-Video über Epstein veröffentlicht.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Veröffentlichungsjahr und Originalvideo ungeprüft; spätere Bekanntheit ersetzt keinen Nachweis.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Ein Video zu Epstein gibt es auf ihrem Kanal: „Für Jeffrey Epsteins Opfer“, hochgeladen am 30.08.2019. Es stammt aber aus 2019, nicht aus 2018; der Kanal beginnt erst im Mai 2019. Seibt selbst schränkt im Interview mit „oder so“ ein.",
+      "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Videoliste ihres Kanals mit Upload-Daten gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Ursprüngliche Veröffentlichung und Datum finden; nicht allein aus heutigen Reuploads datieren."
+      "sourceRefs": [
+        {
+          "sourceId": "S134",
+          "note": "Epstein-Video vom 30.08.2019; ältestes Kanalvideo vom 24.05.2019."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0073",
@@ -5634,19 +5648,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das ursprüngliche Klimavideo sei von YouTube entfernt und nach Widerspruch wiederhergestellt worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Einzelfallbericht ohne geprüfte Moderationsmitteilung; heutige allgemeine Einspruchsregeln bestätigen den damaligen Vorgang nicht.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Auf ihrem Kanal steht das Klimavideo „KLIMAWANDEL – Alles nur heiße Luft..? – Teil 1“ mit Upload-Datum 01.07.2019; am Folgetag lud sie ein Video mit dem Titel „ZENSUR DER WISSENSCHAFT – VIDEO GELÖSCHT“ hoch. Dass das Originalvideo heute mit dem ursprünglichen Datum wieder online ist, passt zu einer Entfernung mit anschließender Wiederherstellung. Belegt ist das aber nur durch ihren eigenen Kanal; Grund und Ablauf der Entscheidung von YouTube sind nicht dokumentiert, und welches Video sie mit „Anti-Greta-Video“ meint, ist nicht eindeutig.",
+      "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Videoliste ihres Kanals mit Upload-Daten und Beschreibungen gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Entfernungsdatum, Grund und Wiederherstellung anhand zeitgenössischer Unterlagen bestätigen."
+      "sourceRefs": [
+        {
+          "sourceId": "S134",
+          "note": "Klimavideo 01.07.2019 online; Löschhinweis-Video 02.07.2019."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0113",
@@ -6750,7 +6767,7 @@
       },
       "sourceRefs": [],
       "openQuestions": [
-        "Betroffene Uploads, historische Zähler und Löschentscheidungen einzeln dokumentieren."
+        "Wortlautkontrolle 19.11.2026: Seibt spricht von Uploads „überall auf YouTube“, nicht von ihrem eigenen Kanal; dort gibt es kein PCR-Video. Fremd-Uploads und deren Aufrufzahlen wurden nicht gefunden."
       ],
       "occurrences": [
         {
@@ -7749,19 +7766,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Anfang 2024 sei ihr YouTube-Kanal nach längerer Sperre wiederhergestellt worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Wiederherstellung eines Kanals, neuer Kanal und einzelne freigegebene Videos müssen auseinandergehalten werden.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Auf ihrem Kanal gibt es zwischen dem 28.10.2020 und dem 14.03.2024 keine Uploads; am 15.03.2024 folgte ein Video, in dem sie ihre Rückkehr ankündigt. Das passt zu einer Wiederaufnahme Anfang 2024. Dass der Kanal zuvor gesperrt war, ist auf dem Kanal selbst nicht erkennbar; eine Upload-Pause allein belegt keine Sperre.",
+      "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Videoliste ihres Kanals mit Upload-Daten gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Kanal-ID, Moderationsentscheidung und ursprüngliche Sperrhistorie vergleichen."
+      "sourceRefs": [
+        {
+          "sourceId": "S134",
+          "note": "Upload-Lücke 10/2020 bis 03/2024; Rückkehrvideo 15.03.2024."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0164",
@@ -8691,19 +8711,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt habe im US-Wahlkampf an mehreren großen Trump-Veranstaltungen einschließlich der zweiten Butler-Kundgebung und Madison Square Garden teilgenommen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Mehrere getrennte Auftrittsvorkommen. Veranstaltungsexistenz würde ihre persönliche Teilnahme nicht automatisch belegen.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Seibt sagt im Interview selbst, sie sei bei fast allen Kundgebungen gewesen, darunter der zweiten Butler-Kundgebung, einer weiteren in Pennsylvania und der im Madison Square Garden. Unabhängige Berichte oder datierte Originalbelege für ihre Teilnahme wurden nicht gefunden; die Aussage stützt sich nur auf ihre eigene Schilderung.",
+      "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Websuche nach Berichten über ihre Teilnahme ohne Treffer.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Nicht ausreichend belegbar."
       },
-      "sourceRefs": [],
-      "openQuestions": [
-        "Teilnahme je Veranstaltung anhand datierter Originalbelege oder Veranstalterbestätigung prüfen."
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Eigene Schilderung der Teilnahme an Butler und Madison Square Garden."
+        }
       ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0189",
@@ -10323,24 +10346,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Seibt verbindet eine mögliche Asylbewilligung mit einem künftigen Loyalitätsbekenntnis gegenüber den USA.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Originalstelle nicht kontrolliert. Was genau gesagt wird, lässt sich ohne Kontrolle der Originalstelle nicht sicher bestimmen; Claude hat keinen Zugriff auf Untertitel oder Audio. Die zugrunde liegenden persönlichen Verfahrensdaten sind zudem nicht öffentlich. Bisheriger Prüfstand: Die Textstelle kann einen persönlichen Vorsatz und eine allgemeine Erwartung ausdrücken. Ob zusätzlich eine rechtliche Voraussetzung behauptet wird, ist ohne Originalkontrolle nicht eindeutig. Die gelesene Asylnorm enthält keinen Einbürgerungseid; das allein widerlegt den persönlichen Vorsatz nicht.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Originalstelle bestätigt die Zusammenfassung: Auf die Frage nach ihrer Abhängigkeit von den USA sagt Seibt, sie werde sich nach einer Asylbewilligung selbstverständlich zu Amerika bekennen, so funktioniere das, und dasselbe erwarte sie von Asylsuchenden in Deutschland; ihre journalistische Freiheit sehe sie dadurch nicht eingeschränkt. Das ist eine eigene Absichtserklärung mit einer allgemeinen Erwartung, keine Angabe zu einer rechtlichen Voraussetzung des Asylverfahrens.",
+      "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Originalstelle mit 60 Sekunden Kontext gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Belegt."
       },
       "sourceRefs": [
         {
           "sourceId": "S022",
           "note": "Zur Begründung im oben benannten Umfang; tatsächliche Zugriffs- und Einzelfallgrenzen im Quellenverzeichnis beachten."
+        },
+        {
+          "sourceId": "S001",
+          "note": "Wortlaut an der Originalstelle kontrolliert."
         }
       ],
-      "openQuestions": [
-        "Persönlichen Vorsatz, politische Erwartung und behauptete rechtliche Voraussetzung an der Originalstelle sicher unterscheiden."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mdo14671BPE-O0227",
@@ -10472,7 +10497,7 @@
         }
       ],
       "openQuestions": [
-        "Originalkontrolle der YouTube-Textlücke und tatsächliche Antrags-/Einreisedaten nötig."
+        "Wortlautkontrolle 19.11.2026: Die automatischen Untertitel haben bei 02:10:45–02:12:43 eine echte Lücke von rund zwei Minuten; die Aussage lässt sich nur durch Anhören dieser Stelle prüfen. Im Umfeld erwähnt Seibt einen zweiwöchigen Aufenthalt in Mexiko 2024, um ihren ESTA-Aufenthalt neu zu beginnen."
       ],
       "occurrences": [
         {
@@ -10522,7 +10547,7 @@
         }
       ],
       "openQuestions": [
-        "Synchronisierung, Termin-/Verfahrensnachweis und konkrete Verfügungen fehlen."
+        "Wortlautkontrolle 19.11.2026: Die automatischen Untertitel haben bei 02:10:45–02:12:43 eine echte Lücke; danach sagt Seibt, die Entscheidung liege bei DHS und ihr Fall sei derzeit nicht beim DOJ. Einen Gerichtstermin nennt der lesbare Teil nicht; die Stelle muss angehört werden."
       ],
       "occurrences": [
         {

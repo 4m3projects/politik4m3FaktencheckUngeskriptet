@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das ursprüngliche Klimavideo sei von YouTube entfernt und nach Widerspruch wiederhergestellt worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,21 +29,22 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Einzelfallbericht ohne geprüfte Moderationsmitteilung; heutige allgemeine Einspruchsregeln bestätigen den damaligen Vorgang nicht.
+Auf ihrem Kanal steht das Klimavideo „KLIMAWANDEL – Alles nur heiße Luft..? – Teil 1“ mit Upload-Datum 01.07.2019; am Folgetag lud sie ein Video mit dem Titel „ZENSUR DER WISSENSCHAFT – VIDEO GELÖSCHT“ hoch. Dass das Originalvideo heute mit dem ursprünglichen Datum wieder online ist, passt zu einer Entfernung mit anschließender Wiederherstellung. Belegt ist das aber nur durch ihren eigenen Kanal; Grund und Ablauf der Entscheidung von YouTube sind nicht dokumentiert, und welches Video sie mit „Anti-Greta-Video“ meint, ist nicht eindeutig.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Videoliste ihres Kanals mit Upload-Daten und Beschreibungen gelesen.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachrecherche 19.11.2026 (Claude): Wortlaut bzw. Kanaldaten über Jens' Rechner geprüft; von Offen auf Teilweise belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube-Kanal Naomi Seibt (Videoliste mit Upload-Daten)](https://www.youtube.com/channel/UCeYSlCaX1PheCaqxN7u2klw) · Eigener Kanal von Naomi Seibt, 89 gelistete Videos, ältestes vom 24.05.2019; Upload-Lücke 28.10.2020 bis 14.03.2024; keine sichtbare Sperrmitteilung.
+  Quellenzugriff am 2026-11-19. Von Claude am 19.11.2026 über Jens' Rechner gelesen (Videoliste und automatische Untertitel). Keine Quellenkopie veröffentlicht. Klimavideo 01.07.2019 online; Löschhinweis-Video 02.07.2019.
 
 ### Offene Fragen und Unsicherheiten
 
-- Entfernungsdatum, Grund und Wiederherstellung anhand zeitgenössischer Unterlagen bestätigen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## mdo14671BPE-A0098
 
