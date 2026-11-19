@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Alle verfügbaren automatischen deutschen Originaluntertitel gelesen: erster inhaltlicher Segmentbeginn 00:00:00,160, letztes Segment 00:15:27,490 mit rechnerischem Ende 00:15:29,510; Metadatenlaufzeit 00:15:44. Textfreie Bereiche nicht akustisch kontrolliert. Schwerpunkt sind fünf Sachthemen und die Abgrenzung des Index; biografische Einleitung und private Selbstauskünfte sind nicht vollständig einzeln geprüft. 23 Prüfgegenstände, kein vollständiges Aussageninventar oder Fehleranteil des Videos. Personen und Zeitgrenzen nur plausibel bzw. ungefähr.
 
-[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung.
+[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung. Zweite gezielte Nachprüfung auf Nutzerwunsch: A0008, A0014 und A0019 nach neu gelesenen Quellen abgeschlossen; A0002, A0017 und A0023 bleiben mit dokumentierter weiterer Recherche offen.
 
 ## BOIqGtGuShM-A0009
 

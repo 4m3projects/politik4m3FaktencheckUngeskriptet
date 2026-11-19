@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Alle verfügbaren automatischen deutschen Originaluntertitel gelesen: erster inhaltlicher Segmentbeginn 00:00:00,160, letztes Segment 00:15:27,490 mit rechnerischem Ende 00:15:29,510; Metadatenlaufzeit 00:15:44. Textfreie Bereiche nicht akustisch kontrolliert. Schwerpunkt sind fünf Sachthemen und die Abgrenzung des Index; biografische Einleitung und private Selbstauskünfte sind nicht vollständig einzeln geprüft. 23 Prüfgegenstände, kein vollständiges Aussageninventar oder Fehleranteil des Videos. Personen und Zeitgrenzen nur plausibel bzw. ungefähr.
 
-[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung.
+[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung. Zweite gezielte Nachprüfung auf Nutzerwunsch: A0008, A0014 und A0019 nach neu gelesenen Quellen abgeschlossen; A0002, A0017 und A0023 bleiben mit dokumentierter weiterer Recherche offen.
 
 ## BOIqGtGuShM-A0001
 
@@ -101,5 +101,7 @@ Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
 Fehlende Information: Vollständige Liste der 21 Aussagen mit Auswahlkriterien und Fundstellen gegen das Interview prüfen.
 
 - Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen. Gepruefte Quellen: S001. Ergebnis: Die fünf Themen sind im Text sichtbar, das vollständige Inventar der 21 Aussagen liegt hier nicht vor. Die Gesamtzählung ist damit noch nicht reproduziert.
+
+- Durchgang 2 am 2026-11-19 (Codex): Alfreds relevante Untertitelpassagen erneut gelesen; zusätzlich nach öffentlich zugänglicher Methodik und Fallinventaren gesucht. Die Herausgeber-Webseite war nicht zugänglich, deshalb kein Negativbefund über deren mögliche Inhalte. Gepruefte Quellen: S001. Ergebnis: Die öffentlich gelesene Textgrundlage nennt die Zahlen, liefert aber keine vollständigen Zähllisten. Eine unabhängige Reproduktion ist weiterhin offen; kein Umstufen wegen fehlenden Zugangs.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

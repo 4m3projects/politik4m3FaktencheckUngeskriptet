@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Alle verfügbaren automatischen deutschen Originaluntertitel gelesen: erster inhaltlicher Segmentbeginn 00:00:00,160, letztes Segment 00:15:27,490 mit rechnerischem Ende 00:15:29,510; Metadatenlaufzeit 00:15:44. Textfreie Bereiche nicht akustisch kontrolliert. Schwerpunkt sind fünf Sachthemen und die Abgrenzung des Index; biografische Einleitung und private Selbstauskünfte sind nicht vollständig einzeln geprüft. 23 Prüfgegenstände, kein vollständiges Aussageninventar oder Fehleranteil des Videos. Personen und Zeitgrenzen nur plausibel bzw. ungefähr.
 
-[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung.
+[Codex] Eigenständige Text- und Quellenprüfung. Kostenlose direkte YouTube-Abfragen mit vorhandenem yt-dlp; keine vidIQ-Credits. Vorhandene Originalbewertungen und Wissensdatenbank sind Suchhilfen, keine Beweise. Keine vollständige Audio-/Videosichtung oder unabhängige redaktionelle Zweitprüfung. Zweite gezielte Nachprüfung auf Nutzerwunsch: A0008, A0014 und A0019 nach neu gelesenen Quellen abgeschlossen; A0002, A0017 und A0023 bleiben mit dokumentierter weiterer Recherche offen.
 
 ## BOIqGtGuShM-A0011
 
@@ -154,7 +154,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Im Fall Romeike sei eine ursprüngliche Asylbewilligung später aufgehoben worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -173,29 +173,29 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel des Reaktionsvideos.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Die verlinkte Gerichtsdatei war in diesem Durchgang nicht lesbar; die vorhandene Originalprüfung nennt den Fall, ersetzt aber keine erneute Quellenkontrolle.
+Der erneut gelesene Gerichtstext beschreibt zunächst die Bewilligung durch einen Immigration Judge und danach die Aufhebung durch das Board of Immigration Appeals. Das Berufungsgericht des Sixth Circuit lehnte am 14.05.2013 die Überprüfung ab. Alfreds Aussage einer früheren, später aufgehobenen Bewilligung trifft damit zu; sie belegt keine dauerhaft fortbestehende Bewilligung.
 
-Grundlage der Bewertung: Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.
+Grundlage der Bewertung: [Codex] 19.11.2026: gezielte zweite Quellenrecherche und erneuter Textvergleich. Historischer Sachkern geprüft; keine vollständige audiovisuelle Sichtung.
 
 Uebernahme: Eigene Paraphrase; keine importierte Fremdbewertung.
 
-Bewertungsuebergang: [Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original.
+Bewertungsuebergang: [Codex] 19.11.2026: begrenzte Erstprüfung und Rückabgleich mit dem Original. [Codex] 19.11.2026, Nachprüfung zu Issue #71: von Offen ohne Urteil auf Abgeschlossen / Belegt. Früherer Grund: Noch nicht geprüft – Die verlinkte Gerichtsdatei war in diesem Durchgang nicht lesbar; die vorhandene Originalprüfung nennt den Fall, ersetzt aber keine erneute Quellenkontrolle.
 
 ### Zugeordnete Quellen
 
-- [Romeike v. Holder, No. 12-3641](https://www.govinfo.gov/content/pkg/USCOURTS-ca6-12-03641/pdf/USCOURTS-ca6-12-03641-0.pdf) · Sixth Circuit, 14.05.2013; von Alfred verlinkter Urteilstext.
-  Quellenzugriff am 2026-11-19. Abrufversuch ohne lesbaren PDF-Inhalt; keine erneute Sachprüfung des Urteils. Frühere Projektbewertung nicht als Ersatzbeleg verwendet. Nicht zugänglich; offener Auftrag zur erneuten Originallektüre.
+- [Romeike v. Holder, No. 12-3641 – Entscheidungstext bei Justia](https://law.justia.com/cases/federal/appellate-courts/ca6/12-3641/12-3641-2013-05-14.html) · U.S. Court of Appeals for the Sixth Circuit, 14.05.2013; Urteil S. 2–3.
+  Quellenzugriff am 2026-11-19. Den eingebetteten Gerichtstext zu anfänglicher Bewilligung, Aufhebung durch das Board of Immigration Appeals und Ablehnung der gerichtlichen Überprüfung gelesen. Nicht auf die redaktionelle Justia-Kurzfassung gestützt, die den Instanzenzug unzutreffend zusammenfasst. Amtliche govinfo-Datei bleibt separat als gescheiterter Abruf dokumentiert. Nachprüfung im ausdrücklich in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Urteilstext Romeike v. Holder vom 14.05.2013 erneut lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ### Recherchedokumentation
 
-Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
-
-Fehlende Information: Urteilstext Romeike v. Holder vom 14.05.2013 erneut lesen.
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in eigener Wissensdatenbank und Schwesterarchiv; vorhandene Originalaussagen verglichen, angegebene Quellen im dokumentierten Umfang selbst gelesen. Gepruefte Quellen: S015. Ergebnis: Die verlinkte Gerichtsdatei war in diesem Durchgang nicht lesbar; die vorhandene Originalprüfung nennt den Fall, ersetzt aber keine erneute Quellenkontrolle.
+
+- Durchgang 2 am 2026-11-19 (Codex): Nach gescheitertem govinfo-PDF gezielt eine zugängliche Wiedergabe des Originalurteils gesucht und den Gerichtstext selbst statt der redaktionellen Zusammenfassung gelesen. Gepruefte Quellen: S018. Ergebnis: Der erneut gelesene Gerichtstext beschreibt zunächst die Bewilligung durch einen Immigration Judge und danach die Aufhebung durch das Board of Immigration Appeals. Das Berufungsgericht des Sixth Circuit lehnte am 14.05.2013 die Überprüfung ab. Alfreds Aussage einer früheren, später aufgehobenen Bewilligung trifft damit zu; sie belegt keine dauerhaft fortbestehende Bewilligung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
