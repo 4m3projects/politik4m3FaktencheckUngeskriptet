@@ -1145,6 +1145,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Die Originalbeschreibung nennt als Aufnahmedatum 30.09.2026. Die frühere Begründung eines unbekannten Aufnahmetermins entfällt. Das passt zur Angabe 26 Jahre bei dem in einer Tertiärquelle genannten Geburtsdatum 18.08.2000 und zur früheren Presseangabe 25 im Oktober 2025. Eine unabhängig gelesene belastbare Geburtsquelle liegt weiterhin nicht vor; die Originalbeschreibung wiederholt die Altersangabe und ist dafür keine unabhängige Bestätigung. Deshalb bleibt Nicht ausreichend belegbar im ausdrücklich begrenzten Quellenstand.",
+      "shortReason": "Das Alter passt zu Presseangaben und einem Geburtsdatum aus einer Tertiärquelle; eine belastbare unabhängige Geburtsquelle fehlt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1233,6 +1234,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "An der ersten Stelle sagt der Gastgeber, Seibt sei bei der Vereidigungszeremonie gewesen; Seibt selbst nennt später nur den „Inauguration Ball“ als Veranstaltung, an der sie teilnahm. Unabhängige Belege (Gästelisten, Berichte, datierte Fotos) wurden nicht gefunden. Die Teilnahme ist damit nur durch ihre eigene Aussage gestützt; für die Vereidigungszeremonie fehlt selbst diese.",
+      "shortReason": "Die Teilnahme stützt nur Seibts eigene Aussage zum Ball; für die Vereidigungszeremonie fehlt selbst diese.",
       "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Websuche nach Berichten über ihre Teilnahme ohne Treffer.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1450,6 +1452,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Ausreise ohne advance parole gefährdet den Antrag. Ein ausnahmsloses Ausreiseverbot folgt daraus nicht; Seibts individuelle Reiseberechtigung ist unbekannt.",
+      "shortReason": "Eine Ausreise ohne Genehmigung gefährdet den Antrag; ein ausnahmsloses Ausreiseverbot folgt daraus aber nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1649,6 +1652,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "WDR berichtet am 11.11.2026 über einen rechtskräftigen Strafbefehl nach zurückgezogenem Einspruch und 2400 Euro Geldstrafe. Der Originalbescheid fehlt; der gemeinte Post ist nicht abschließend zugeordnet. Die Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum. Der spätere Novemberbericht belegt deshalb nicht, dass dieser Verfahrensstand schon bei Aufnahme bekannt war.",
+      "shortReason": "Ein rechtskräftiger Strafbefehl ist berichtet; der Bescheid fehlt, und der gemeinte Post ist nicht sicher zugeordnet.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2002,6 +2006,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die Ivy League nennt acht US-Hochschulen als Mitglieder. Die britische Universität Cambridge gehört nicht dazu. Diese geografisch-institutionelle Verwechslung sagt nichts darüber aus, ob das berichtete Bewerbungsgespräch stattgefunden hat.",
+      "shortReason": "Cambridge ist eine britische Universität; zur Ivy League gehören nur acht US-Hochschulen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2213,6 +2218,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die vereinnahmte Prämie puffert Kursverluste begrenzt; ein erheblicher Aktienverlust bleibt möglich. Dafür wird das Gewinnpotenzial oberhalb des Ausübungspreises begrenzt.",
+      "shortReason": "Die Prämie puffert Verluste nur begrenzt, und dafür ist das Gewinnpotenzial nach oben gedeckelt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3041,6 +3047,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Belegt sind herausgehobene Ämter: CDU-Generalsekretär von April bis November 2000 auf Vorschlag der Parteivorsitzenden Merkel, Bundestagsabgeordneter 1994–2013 und Vorsitzender des Auswärtigen Ausschusses 2005–2013. Eine formelle oder dokumentierte Beraterfunktion für Merkel nennt die gelesene Biografie nicht. „Besonders einflussreich“ ist eine Wertung, die durch diese Ämter bis 2013 gestützt wird. Für 2014, den Zeitpunkt der in A0040 erzählten Veranstaltung, nennt die Quelle kein Mandat und keinen Vorsitz mehr.",
+      "shortReason": "Hohe Ämter bis 2013 sind belegt, eine Beraterrolle für Merkel nicht; 2014 hatte Polenz kein Mandat mehr.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3146,6 +3153,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Kern ist gestützt: Die AfD trat 2013/2014 vorrangig mit Euro- und EU-Kritik auf, Migration spielte im Europawahlkampf 2014 laut Programmanalyse nur eine untergeordnete Rolle. Die Ausschließlichkeit trifft nicht zu: Das Europawahlprogramm 2014 enthielt nach der begutachteten Analyse einen eigenen Abschnitt zu Einwanderung und Asyl, unter anderem ein Punktesystem für Zuwanderung aus Drittstaaten und Sozialleistungen für EU-Bürger erst nach längerem Aufenthalt. Der Autor ordnet ihn als für deutsche Verhältnisse eher gemäßigt ein. Ob die Partei in der Öffentlichkeit schon über Migrationspolitik bekannt war, ist eine Wahrnehmungsfrage und mit diesen Quellen nicht messbar.",
+      "shortReason": "Die AfD trat 2014 vor allem EU-kritisch auf, ihr Wahlprogramm enthielt aber auch einen Abschnitt zu Einwanderung und Asyl.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3242,6 +3250,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Teilweise zutreffend: Ein zeitgenössischer Beitrag im Freitag (Oktober 2014) beschreibt Mißfelder als „kommenden Mann in der Union“, in dem manche sogar den künftigen Kanzler sahen. Wer ihn so sah und ob das parteiintern als Nachfolge Merkels gehandelt wurde, nennt der Beitrag nicht; zudem galt er nach 2014 laut demselben Text als politisch erledigt.",
+      "shortReason": "Ein Bericht von 2014 nennt Mißfelder einen kommenden Mann, den manche als Kanzler sahen; eine parteiinterne Nachfolgedebatte belegt er nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3404,6 +3413,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "NIH beschreibt genetische Gerinnungsrisiken und familiäre Häufung. Die Embolie selbst wird nicht vererbt; eine erbliche Veranlagung kann aber das Risiko erhöhen.",
+      "shortReason": "Eine erbliche Veranlagung zu Gerinnungsstörungen kann das Risiko einer Lungenembolie erhöhen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -3876,6 +3886,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Q ist eine Zugangsberechtigung im Energieministerium, vergleichbar mit Top Secret. Sie verschafft keinen pauschalen Zugang zu sämtlichen Geheimnissen des Secret Service.",
+      "shortReason": "Q ist eine Zugangsberechtigung des US-Energieministeriums, etwa wie Top Secret, nicht für sämtliche Geheimnisse des Secret Service.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4022,6 +4033,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der reale Kern des Epstein-Komplexes ist die sexuelle Ausbeutung Minderjähriger. Weder die Anklage noch die Berichte über die Aktenfreigaben enthalten Hinweise auf Blutkonsum. Die Verknüpfung verschiebt einen belegten Missbrauchskomplex auf eine unbelegte Erzählung. Die Nähe wird im Gespräch vom Moderator hergestellt und in der Antwort unscharf übernommen.",
+      "shortReason": "Der Epstein-Komplex betrifft sexuelle Ausbeutung Minderjähriger; Hinweise auf Blutkonsum enthalten weder Anklage noch Akten.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4087,6 +4099,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Schon 2019 veröffentlichte die US-Staatsanwaltschaft ausführlich die Vorwürfe. Eine unbestimmte Behauptung eines allgemeinen Sprechverbots übergeht die dokumentierte öffentliche Behandlung; konkrete Moderationsfälle sind gesondert zu prüfen.",
+      "shortReason": "Die US-Staatsanwaltschaft veröffentlichte die Vorwürfe schon 2019 ausführlich; ein allgemeines Sprechverbot gab es nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4133,6 +4146,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Ein Video zu Epstein gibt es auf ihrem Kanal: „Für Jeffrey Epsteins Opfer“, hochgeladen am 30.08.2019. Es stammt aber aus 2019, nicht aus 2018; der Kanal beginnt erst im Mai 2019. Seibt selbst schränkt im Interview mit „oder so“ ein.",
+      "shortReason": "Ihr Epstein-Video stammt vom August 2019, nicht 2018; der Kanal begann erst im Mai 2019.",
       "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Videoliste ihres Kanals mit Upload-Daten gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4177,6 +4191,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Für eine verborgene Bedeutung von Essensbegriffen in den Podesta-Mails gibt es nach jahrelanger Prüfung keinen Beleg. Die Aussage legt einen Code nahe, ohne dafür einen Beleg zu haben. Die Universalaussage, niemand könne die Begriffe erklären, ist damit nicht eigens widerlegt; der gelesene Faktencheck behandelt keine harmlosen Einzelerklärungen. Deshalb kein „Widerlegt“.",
+      "shortReason": "Für eine verborgene Bedeutung der Essensbegriffe gibt es nach jahrelanger Prüfung keinen Beleg; die Aussage legt einen Code nahe.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4221,6 +4236,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die breite Verneinung jeder konkreten Verbindung trifft nicht zu: Eine soziale Bekanntschaft ist mehrfach dokumentiert, unter anderem durch Trumps eigene Äußerung von 2002, gemeinsame Fotos und Flugunterlagen der 1990er-Jahre; dies war lange vor der Veröffentlichung des Interviews öffentlich. Ein Kontakt ist kein Schuldnachweis. Gegen Trump gibt es im Epstein-Komplex weder Anklage noch Strafvorwurf; das DOJ betont, dass Behauptungen in den freigegebenen Akten nicht bestätigt sind. Die Bewertung betrifft nur die Verneinung jeglicher Verbindung, nicht eine strafrechtliche Beteiligung.",
+      "shortReason": "Eine Bekanntschaft Trumps mit Epstein ist durch Äußerungen, Fotos und Flugunterlagen belegt; ein Straftatvorwurf besteht nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4269,6 +4285,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der Kontakt ist durch die gelesene Berichterstattung über E-Mails gestützt. Danach fragte Musk 2012 und 2013 selbst nach Besuchen; es gab Absagen und logistische Hindernisse. Ein Besuch oder Vergehen ist daraus nicht belegt. Die bloße Ablehnungsdarstellung lässt diesen Kontext weg. Die E-Mails wurden laut Bericht Ende Januar 2026 öffentlich, die Originalbeschreibung nennt 30.09.2026 als Aufnahmedatum. Der Quellenstand lag demnach vor der Aufnahme, ohne dass damit Seibts tatsächliche Kenntnis bewiesen ist. Die direkten Akten wurden in dieser Nachprüfung nicht gelesen.",
+      "shortReason": "Laut E-Mails fragte Musk selbst nach Besuchen der Insel; ein Besuch ist nicht belegt, die reine Ablehnung lässt das aber weg.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4411,6 +4428,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das zugängliche Dokument endet bei Seite 70 und enthält Literatur und Anhang. Die ungefähre Angabe passt eher zum Haupttext als zum gesamten Dokument.",
+      "shortReason": "Das Dokument hat 70 Seiten mit Anhang; die ungefähr 60 Seiten passen eher zum Haupttext.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -4717,6 +4735,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Das Gesetz von 2017 ergänzt Diskriminierungs- und Hassschutz. Es formuliert keinen allgemeinen Pronomen-Straftatbestand; konkrete Diskriminierungssituationen erfordern gesonderte rechtliche Prüfung.",
+      "shortReason": "Das Gesetz erweitert Diskriminierungs- und Hassschutz, schreibt aber keine Pronomen pauschal vor.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5041,6 +5060,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Ab 2026 beträgt der Höchstwert bei KMU 4,2 Millionen Euro; grundsätzlich gilt ein niedrigerer Fördersatz. Förderfähige Aufwendungen und Voraussetzungen begrenzen den Anspruch.",
+      "shortReason": "4,2 Mio. Euro sind ab 2026 der Höchstwert für kleine und mittlere Unternehmen; grundsätzlich gilt ein niedrigerer Satz.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5089,6 +5109,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die BSFZ nennt grundsätzlich vier Jahre nach dem Wirtschaftsjahr. Ein rückwirkender Antrag ist möglich; Frist und tatsächliche Förderfähigkeit sind fallabhängig.",
+      "shortReason": "Ein rückwirkender Antrag ist grundsätzlich bis vier Jahre möglich; Frist und Förderfähigkeit hängen vom Einzelfall ab.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5135,6 +5156,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Anbieter beschreibt Unterstützung bei BSFZ-Unterlagen, belässt steuerliche Prüfung und Einreichung aber beim Steuerberater. Kundenseitige Prüfung und Kosten bleiben. Vollständige Abnahme jeder Bürokratie ist zu weit; der heutige Anbieterstand beweist nicht jeden früheren Vertragsinhalt.",
+      "shortReason": "Der Anbieter hilft bei den Unterlagen, Prüfung und Einreichung bleiben aber beim Steuerberater; die gesamte Bürokratie fällt nicht weg.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5185,6 +5207,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Anbieter bietet aktuell eine kostenlose unverbindliche Ersteinschätzung an. Ihre fachliche Güte wurde nicht unabhängig getestet; eine Förderzusage kann sie nicht ersetzen. Historischer Stand bei Aufnahme unbekannt.",
+      "shortReason": "Eine kostenlose Ersteinschätzung wird angeboten; ihre Güte ist ungeprüft, und eine Förderzusage ersetzt sie nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5728,6 +5751,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Seibt veröffentlicht seit Mai 2019 YouTube-Videos, auch zum Klima, und trat im November 2019 bei der EIKE-Konferenz und im Dezember 2019 in Madrid auf; ab Dezember 2019 stellte Heartland sie heraus. Breite internationale Aufmerksamkeit folgte erst im Februar 2020. Dass ein bestimmtes klimakritisches Video 2019 der Auslöser war, ist in den gelesenen Quellen nicht belegt.",
+      "shortReason": "Videos und Auftritte 2019 sind belegt, breite Aufmerksamkeit kam aber erst im Februar 2020; ein auslösendes Video ist nicht belegt.",
       "assessmentBasis": "Wikipedia und DeSmog gelesen; ursprüngliches Video und damalige Aufrufzahlen nicht kontrolliert (YouTube aus der Arbeitsumgebung nicht erreichbar).",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5786,6 +5810,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Auf ihrem Kanal steht das Klimavideo „KLIMAWANDEL – Alles nur heiße Luft..? – Teil 1“ mit Upload-Datum 01.07.2019; am Folgetag lud sie ein Video mit dem Titel „ZENSUR DER WISSENSCHAFT – VIDEO GELÖSCHT“ hoch. Dass das Originalvideo heute mit dem ursprünglichen Datum wieder online ist, passt zu einer Entfernung mit anschließender Wiederherstellung. Belegt ist das aber nur durch ihren eigenen Kanal; Grund und Ablauf der Entscheidung von YouTube sind nicht dokumentiert, und welches Video sie mit „Anti-Greta-Video“ meint, ist nicht eindeutig.",
+      "shortReason": "Löschung und Wiederherstellung passen zu ihrem Kanal, sind aber nur dort belegt; Gründe von YouTube sind nicht dokumentiert.",
       "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Videoliste ihres Kanals mit Upload-Daten und Beschreibungen gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5830,6 +5855,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Auftritt ist belegt: Nach Wikipedia unter Berufung auf die Süddeutsche Zeitung vom 04.11.2019 sprach Seibt auf der Münchner Klima- und Energiekonferenz von EIKE im November 2019. Dass sie dort mit Heartland in Kontakt kam, ist nicht belegt: CORRECTIV/Frontal21 beschreiben dieselbe Konferenz mit einem Heartland-Redner, dokumentiert ist die Zusammenarbeit aber erst ab dem Heartland-Auftritt in Madrid am 03.12.2019; Heartland bestätigte sie im Februar 2020.",
+      "shortReason": "Der EIKE-Auftritt 2019 ist belegt; die Zusammenarbeit mit Heartland ist erst ab Dezember 2019 in Madrid dokumentiert.",
       "assessmentBasis": "Wikipedia als Sekundärquelle mit SZ-Beleg, dazu die bereits gelesenen Rechercheberichte; das Konferenzprogramm wurde nicht gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -5930,6 +5956,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Als Urheberin des Etiketts „Anti-Greta“ wird Seibt in den gelesenen Quellen nicht genannt. Belegt ist aber, dass das Heartland Institute, mit dem sie ab Dezember 2019 zusammenarbeitete, sie aktiv als Gegenstück zu Greta Thunberg vermarktete; Medien griffen das Etikett im Februar 2020 breit auf. „Von Medien eingeführt“ greift daher zu kurz; wer den Begriff zuerst benutzte, bleibt offen.",
+      "shortReason": "Heartland vermarktete sie aktiv als Gegenstück zu Thunberg; „von Medien eingeführt“ greift daher zu kurz.",
       "assessmentBasis": "Wikipedia (mit Belegen aus Insider, Guardian, Weltwoche) und DeSmog-Profil gelesen; Heartland-Video vom Dezember 2019 nicht selbst gesehen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6086,6 +6113,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der zeitgenössische Express-Bericht beschreibt eine nach der Werbepause erfolgte Korrektur: Morgan hatte seine eigene Fragestellung unzutreffend wiedergegeben. Die konkrete Richtigstellung ist damit journalistisch gestützt. Das war kein Widerruf der Klimaforschung oder eine Bestätigung aller Positionen Seibts; die Originalsendung wurde hier nicht angehört.",
+      "shortReason": "Morgan korrigierte nach der Werbepause seine eigene unzutreffende Wiedergabe; ein Einlenken in der Sache war das nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6224,6 +6252,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Eine Löschung des Kanals wegen Corona-bezogener Inhalte ist berichtet, allerdings Anfang Mai 2021 und nicht 2020. „Dauerhaft“ wird von Seibt selbst relativiert, die eine Wiederherstellung 2024 nennt (A0142). Ob die beanstandeten Videos impfkritisch waren, sagt der gelesene Bericht nicht. Einschränkung: Der Bericht stammt von einer Seite mit eigener Ausrichtung und stützt sich auf Seibts eigene Angaben.",
+      "shortReason": "Berichtet ist eine Kanallöschung wegen Corona-Inhalten im Mai 2021, nicht 2020; 2024 kam der Kanal zurück.",
       "assessmentBasis": "Ein gelesener Bericht vom 03.05.2021; keine zweite unabhängige Quelle gefunden.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6270,6 +6299,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die Plattformregeln erfassen auch ungelistete und private Inhalte. Deren eingeschränkte Sichtbarkeit schließt reguläre Moderation nicht aus und beweist keinen geheimdienstlichen Eingriff.",
+      "shortReason": "Die Plattformregeln gelten auch für ungelistete und private Videos; Strikes sind dort regulär möglich.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6362,6 +6392,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Kern trifft zu: Der PCR-Vortrag war keine Plenardebatte, sondern ein Beitrag auf einer Veranstaltung auf Einladung der AfD; das Video stammt vom Kanal der AfD-Bundestagsfraktion. Das Datum weicht ab: Der gelesene Faktencheck nennt die 2. Konferenz der Freien Medien am 10. Oktober 2020 in Berlin, nicht September. Dass sie im Bundestagsgebäude stattfand, nennt die Quelle nicht ausdrücklich.",
+      "shortReason": "Es war keine Plenardebatte, sondern eine AfD-Veranstaltung, laut Faktencheck aber am 10. Oktober, nicht im September 2020.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6442,6 +6473,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Bei SARS-CoV-2 wird RNA zunächst in DNA überführt; die PCR vervielfältigt DNA. Der diagnostische Nachweis umfasst zusätzlich eine spezifische Auswertung.",
+      "shortReason": "Die RNA wird zuerst in DNA umgeschrieben, die PCR vervielfältigt DNA; zum Nachweis gehört zudem eine spezifische Auswertung.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6486,6 +6518,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Das beschriebene diagnostische Verfahren wertet ein messbares molekulares Signal aus. Es vervielfältigt keine vollständigen Viruspartikel zur mikroskopischen Betrachtung.",
+      "shortReason": "Die diagnostische PCR wertet ein molekulares Messsignal aus; sie vervielfältigt keine Viren zum Betrachten unter dem Mikroskop.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6574,6 +6607,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Zhu und Mitautoren veröffentlichten bereits im Januar 2020 die erfolgreiche Virusisolierung und ergänzende genetische sowie bildgebende Nachweise. Ein Fehlen in Drostens eigener Entwicklungssituation bedeutet kein weltweites Fehlen.",
+      "shortReason": "Die Isolierung von SARS-CoV-2 wurde bereits im Januar 2020 veröffentlicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6618,6 +6652,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Frühe Social-Media-Meldungen gaben einen Orientierungshinweis. Die Publikation nennt anschließend öffentlich zugängliche Genomsequenzen. Ein Hinweis auf einen Ausbruch ist nicht dessen genetischer Datensatz.",
+      "shortReason": "Social-Media-Meldungen gaben nur den Hinweis; das Genom stammte aus öffentlich zugänglichen Sequenzen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6662,6 +6697,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die Originalarbeit dokumentiert genetische Nachweise aus Patientenmaterial und isoliertem Virus. Computergestützte Auswertung macht einen empirischen Befund nicht zu einer bloßen Erfindung.",
+      "shortReason": "Die Originalarbeit dokumentiert genetische Nachweise aus Patientenmaterial und isoliertem Virus.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6706,6 +6742,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Modelle haben dokumentierte Grenzen und Streuungen. Der IPCC vergleicht sie mit Beobachtungen und beschreibt erfolgreiche Nachbildung wichtiger Klimaeigenschaften; grundsätzliche Unbrauchbarkeit folgt daraus nicht.",
+      "shortReason": "Modelle haben Grenzen, bilden laut IPCC aber wichtige Klimaeigenschaften im Abgleich mit Beobachtungen zutreffend nach.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6750,6 +6787,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Diagnostische Spezifität wird geprüft. Das begründet keinen fehlerfreien Einzeltest, widerspricht aber dem pauschalen Ersatz des viralen Nachweisziels durch beliebiges körpereigenes Material.",
+      "shortReason": "Die Spezifität der Tests wird geprüft; dass sie vor allem körpereigenes Material erfassen, trifft nicht zu.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6800,6 +6838,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Genetische und diagnostische Originalbefunde sowie die fachliche Testbewertung stützen den Nachweis. Ein positiver RNA-Befund allein beweist allerdings keine aktuelle Ansteckungsfähigkeit.",
+      "shortReason": "Genetische und diagnostische Befunde stützen den Nachweis; über aktuelle Ansteckungsfähigkeit sagt er allein nichts.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -6935,6 +6974,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "YouTube beschrieb bereits im April 2018 millionenfache Videoentfernungen im letzten Quartal 2017 sowie Löschungen ganzer Kanäle wegen Richtlinienverstößen. Diese Praxis begann damit nachweislich vor der Corona-Zeit. Daraus folgt keine Bewertung der Rechtmäßigkeit einzelner Entscheidungen.",
+      "shortReason": "YouTube löschte schon 2017 Millionen Videos und ganze Kanäle wegen Regelverstößen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -7273,6 +7313,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Nahrungsaufnahme allein schließt das Risiko nicht aus. Fachleitlinien berücksichtigen zusätzlich starkes Untergewicht, Gewichtsverlust, Elektrolyte und Aufnahmefähigkeit. Das beweist keinen Behandlungsfehler und erlaubt keine Ferndiagnose.",
+      "shortReason": "Nahrungsaufnahme allein schließt das Risiko nicht aus; Leitlinien berücksichtigen auch Untergewicht und Elektrolyte.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -7904,6 +7945,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Auf ihrem Kanal gibt es zwischen dem 28.10.2020 und dem 14.03.2024 keine Uploads; am 15.03.2024 folgte ein Video, in dem sie ihre Rückkehr ankündigt. Das passt zu einer Wiederaufnahme Anfang 2024. Dass der Kanal zuvor gesperrt war, ist auf dem Kanal selbst nicht erkennbar; eine Upload-Pause allein belegt keine Sperre.",
+      "shortReason": "Neue Uploads ab März 2024 nach langer Pause passen; eine vorherige Sperre ist auf dem Kanal aber nicht erkennbar.",
       "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Videoliste ihres Kanals mit Upload-Daten gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -8849,6 +8891,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Seibt sagt im Interview selbst, sie sei bei fast allen Kundgebungen gewesen, darunter der zweiten Butler-Kundgebung, einer weiteren in Pennsylvania und der im Madison Square Garden. Unabhängige Berichte oder datierte Originalbelege für ihre Teilnahme wurden nicht gefunden; die Aussage stützt sich nur auf ihre eigene Schilderung.",
+      "shortReason": "Die Teilnahme an den Kundgebungen stützt sich nur auf ihre eigene Schilderung.",
       "assessmentBasis": "Wortlautkontrolle 19.11.2026 (Claude) anhand der automatischen deutschen Untertitel auf Jens' Rechner; keine Audiokontrolle. Websuche nach Berichten über ihre Teilnahme ohne Treffer.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -8919,6 +8962,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die gelesene Regel nennt höchstens 90 Tage pro Zulassung. Ein pauschaler garantierter Jahresanspruch auf 180 Tage folgt daraus nicht; erneute Zulassung bleibt eine Einreiseentscheidung.",
+      "shortReason": "Erlaubt sind höchstens 90 Tage je Einreise; einen garantierten Anspruch auf 180 Tage im Jahr gibt es nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -8963,6 +9007,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Für kurze Reisen nach Mexiko gilt grundsätzlich nur der Rest der ursprünglichen 90 Tage. Eine persönliche Wiedereinreise beweist keinen allgemeinen Anspruch auf einen Fristneustart.",
+      "shortReason": "Nach kurzen Reisen nach Mexiko gilt grundsätzlich nur der Rest der ursprünglichen 90 Tage weiter.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -9166,6 +9211,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der öffentliche Verfahrenskern ist durch den zeitgenössischen Gerichtsbericht gestützt: Das Amtsgericht verurteilte Bendels 2025; das Landgericht Bamberg sprach ihn am 14. Januar 2026 in der Berufung frei. Der Bericht hielt die Entscheidung damals für noch nicht rechtskräftig. Die Bundesregierung erklärte wenige Tage später, selbst nur Pressekenntnis zu haben. Dass gerade dieses Verfahren die Zusammenarbeit ausgelöst hat, bleibt eine persönliche Motivangabe ohne unabhängigen Nachweis. Der genaue Aufnahmetermin ist unbekannt; der Freispruch wird nicht als damals schon bekannt vorausgesetzt.",
+      "shortReason": "Das Verfahren gegen Bendels ist belegt; dass es die Zusammenarbeit auslöste, ist eine persönliche Angabe.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -9405,6 +9451,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Ein Medienvertrag kann ein Nachweis sein, garantiert aber kein Visum. Das State Department beschreibt mehrere Antrags- und Prüfschritte; professionelle Medienarbeit ist vom Visumfreiheitsprogramm ausgenommen. Persönliche Kontakte ersetzen diese Voraussetzungen nicht.",
+      "shortReason": "Ein Medienvertrag garantiert kein Visum; das Verfahren hat mehrere Antrags- und Prüfschritte.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -9494,6 +9541,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Belegt ist die Festnahme am 17.08.2022 auf den Philippinen auf Grundlage eines Münchner Haftbefehls und in Abstimmung mit der deutschen Botschaft; eine Verurteilung in Deutschland 2022 nennt die Tertiärquelle. Die Freilassung am 20.01.2023 nach 174 Tagen Abschiebehaft stützt sich nur auf eine Pressemitteilung der Verteidigung, die ein meinungsbetonter Blog wiedergibt. Wie viele Jahre Janich vorher auf den Philippinen lebte, ist nicht belegt. Eine persönliche Steuerung durch die Bundesregierung ist nicht belegt.",
+      "shortReason": "Festnahme 2022 auf deutschen Haftbefehl ist belegt; Freilassung, Aufenthaltsdauer und Steuerung durch die Regierung sind es nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -9653,6 +9701,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Union hat seit der Bundestagswahl im Februar 2025 (laut Bericht 28,5 %) in Umfragen deutlich verloren: 25 % im Februar 2026, 18 % im Oktober 2026. Das ist ein Verlust von rund einem Drittel, keine Halbierung. Umfragen sind keine Wahlergebnisse, und der Aufnahmetermin ist unbekannt. Belegt ist ein starker Rückgang, nicht die Halbierung; die Zurechnung allein zu Merz ist eine Wertung.",
+      "shortReason": "Die Union fiel von 28,5 % bei der Wahl auf 18 % in Umfragen, also um rund ein Drittel, nicht um die Hälfte.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -9828,6 +9877,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Nach der Tertiärquelle zog Kasner 1954 auf Wunsch des Hamburger Jugendpfarrers Hans-Otto Wölber in die DDR, weil dort Pfarrer fehlten; eine kirchliche Vermittlung solcher Wechsel beschreibt auch der Fachbeitrag. Später hatte er Privilegien wie Westreisen. Für eine sozialistische Überzeugung als Umzugsmotiv oder für schon damals erwartete Privilegien hat Claude keinen Beleg gefunden; die dokumentierten Umstände sprechen für einen kirchlichen Anlass.",
+      "shortReason": "Belegt ist ein kirchlicher Anlass für den Umzug wegen Pfarrermangels; für sozialistische Überzeugung als Motiv fehlt ein Beleg.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -10008,6 +10058,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Für eine Tätigkeit Merkels als Mitarbeiterin der Staatssicherheit liegt kein Akten- oder Gerichtsbeleg vor. Das Bundesarchiv nannte im Verfahren vor dem VG Berlin keine herausgabefähigen Unterlagen, das Gericht sah keine Anhaltspunkte für eine gezielte Begünstigung durch das MfS. Merkel selbst schilderte 2009 eine abgelehnte Anwerbung Ende der 1970er-Jahre; das ist eine Selbstauskunft. Diese Indizien sprechen gegen die Behauptung, widerlegen einen historischen Negativsachverhalt aber nicht beweiskräftig. Deshalb kein „Widerlegt“.",
+      "shortReason": "Es gibt keinen Akten- oder Gerichtsbeleg für eine Stasi-Tätigkeit Merkels; die Indizien sprechen dagegen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -10180,6 +10231,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Belegt ist, dass Schnur Merkel 1990 als Pressesprecherin des Demokratischen Aufbruchs einstellte, was als Beginn ihrer politischen Laufbahn gilt, und dass er Horst Kasner aus kirchlichen Zusammenhängen kannte. Nicht belegt sind eine enge Freundschaft und eine gezielte Karriereplanung; die gelesene Zeitungsdarstellung gibt die Förderthese nur als Frage bzw. als Schnurs eigene Sicht wieder.",
+      "shortReason": "Schnur stellte Merkel 1990 ein und kannte ihren Vater; eine enge Freundschaft oder gezielte Karriereplanung ist nicht belegt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -10334,6 +10386,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Ein Kern trifft zu: 2013 wurde über eine NSA-Überwachung von Merkels Mobiltelefon berichtet, die bis 2002 zurückreichen soll. Der Generalbundesanwalt stellte 2015 ein, weil der Vorwurf nicht gerichtsfest beweisbar war. Dass Obama die Überwachung veranlasste oder wissentlich fortführte, ist umstritten: Einem anonymen Zeitungsbericht stehen ein NSA-Dementi und Obamas eigene Aussage gegenüber. Die Überwachung begann nach diesen Berichten vor seiner Amtszeit. Ein Indiz für eine Stasi-Vergangenheit ergibt sich daraus nicht; diese Schlussfolgerung ist nicht belegt.",
+      "shortReason": "Die NSA-Überwachung ihres Handys ist berichtet, begann aber vor Obama; ein Indiz für eine Stasi-Vergangenheit folgt daraus nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -10386,6 +10439,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die konkret gelesene Entscheidungskommunikation vom März 2026 begründet die Ablehnung mit Voraussetzungen des Stasi-Unterlagengesetzes und Persönlichkeitsrechten. Eine drohende Regierungsschädigung nennt sie nicht. Ein eventuell anderes gemeintes Verfahren ist nicht identifiziert.",
+      "shortReason": "Die Ablehnung wurde mit dem Stasi-Unterlagengesetz und Persönlichkeitsrechten begründet, nicht mit Schaden für die Regierung.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -10432,6 +10486,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Es gibt keine gelesene Quelle, die belastende Merkel-Unterlagen, deren Vernichtung oder Kopien in Russland oder den USA benennt. Die Berichte zum Verfahren vor dem VG Berlin nennen keine herausgabefähigen Unterlagen und sagen nichts über Vernichtung oder Kopien. Die Rosenholz-Dateien betreffen andere Bestände und belegen keinen Merkel-Bestand.",
+      "shortReason": "Keine gelesene Quelle nennt belastende Merkel-Unterlagen, deren Vernichtung oder Kopien im Ausland.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -10950,6 +11005,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das aktuelle offizielle Profil dokumentiert die Vereidigung am 10.08.2026. Für den Veröffentlichungsmonat passt die Amtsangabe; der genaue Aufnahmezeitpunkt bleibt unbekannt.",
+      "shortReason": "Blanche wurde am 10.08.2026 vereidigt; zum Veröffentlichungsmonat passt das, der genaue Aufnahmezeitpunkt ist unbekannt.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -11077,6 +11133,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Der gerichtlich dokumentierte Fall Romeike umfasst frühere deutsche Antragsteller und eine zunächst erteilte, später aufgehobene Bewilligung. Das widerlegt die uneingeschränkte Erstmaligkeit, ohne eine heute fortbestehende Bewilligung zu behaupten. [Codex] Ergänzung 19.11.2026 nach Alfred-Rückabgleich: Unabhängig gelesene EOIR-Tabellen weisen für Deutschland im FY 2010 neun Bewilligungen und 44 Eingänge sowie im FY 2024 fünf Bewilligungen aus. Diese gerichtlichen Statistiken widerlegen ebenfalls die uneingeschränkte Erstmaligkeit; sie sind keine vollständige US-Gesamtstatistik und keine Aussage über Seibts Erfolgschance. Eingänge und Entscheidungen sind keine zwingend identische Fallkohorte.",
+      "shortReason": "Schon früher beantragten Deutsche in den USA Asyl, etwa Familie Romeike; Gerichtsstatistiken zeigen auch Bewilligungen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -11216,6 +11273,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Belegt ist ein Grenzstopp im Juli 2024 am Kanaltunnel nach Schedule 7 des britischen Terrorism Act. Angeklagt war Robinson danach nur, weil er die PIN seines Telefons nicht herausgab, nicht als Terrorist. Im November 2025 sprach ihn das Gericht frei und nannte den Stopp unrechtmäßig, weil er im Kern wegen seiner politischen Überzeugungen erfolgt sei. Insoweit ist „ohne tatsächlichen Grund“ gerichtlich gestützt. Nicht belegt sind „zum dritten Mal“ und eine Festnahme „als Terrorist“; die gelesenen Berichte nennen keine früheren Stopps dieser Art. Frühere Haft wegen Missachtung des Gerichts ist ein anderer Sachverhalt.",
+      "shortReason": "Der Grenzstopp 2024 war laut Gericht unrechtmäßig; „zum dritten Mal“ und eine Festnahme „als Terrorist“ sind nicht belegt.",
       "assessmentBasis": "Zwei Presseberichte zu Verfahren und Urteil; Urteil selbst nicht gelesen. Aufnahmedatum des Interviews nicht bestätigt, deshalb keine Aussage, welche Festnahme mit „zuletzt“ gemeint ist.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -11589,6 +11647,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Eine amtliche Ausschreibung von August 2026 fördert ein europäisches Journalismus-Konsortium. Sie stützt den allgemeinen Förderkontext, identifiziert aber nicht den behaupteten eigenen Antrag oder jede angekündigte Rechtshilfeleistung.",
+      "shortReason": "Eine Ausschreibung für ein europäisches Journalismus-Projekt ist belegt; den behaupteten eigenen Antrag belegt sie nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -11895,6 +11954,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "§ 130 regelt Volksverhetzung. Der besondere Ehrschutz politischer Personen steht in § 188. Eine Verwechslung der Normnummer ändert nicht die Möglichkeit rechtspolitischer Kritik.",
+      "shortReason": "§ 130 StGB regelt Volksverhetzung; der besondere Ehrschutz politischer Personen steht in § 188.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -11943,6 +12003,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "§ 103 wurde aufgehoben; der Schutz deutscher politischer Personen steht in einer anderen Norm. Die Darstellung vermischt Aufhebung und gesonderten Ehrschutz statt eine Übertragung desselben Tatbestands zu belegen.",
+      "shortReason": "§ 103 wurde aufgehoben; der Schutz deutscher Politiker steht in einer anderen Norm und wurde nicht übertragen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -12090,6 +12151,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "§ 86a verweist auf Ausnahmen für unter anderem Aufklärung, Wissenschaft und Berichterstattung. Eine distanzierte Verwendung ist kontextabhängig; ein ausnahmsloses Zitatverbot beschreibt die Rechtslage nicht.",
+      "shortReason": "§ 86a erlaubt Ausnahmen, unter anderem für Aufklärung, Wissenschaft und Berichterstattung.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -12189,6 +12251,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Beide Sachverhalte haben einen belegten Kern, die Darstellung lässt aber wesentlichen Kontext weg. Meldestellen: Die Bundesnetzagentur ließ am 01.10.2024 mit REspect! erstmals einen Trusted Flagger zu. Rechtsgrundlage ist das EU-Gesetz über digitale Dienste, keine eigenständige deutsche Einführung. Trusted Flagger melden Inhalte, die Plattformen vorrangig prüfen müssen; laut Bundesnetzagentur entscheiden weder sie noch die Behörde, was illegal ist. Verfassungsschutz: Die AfD wird als Verdachtsfall beobachtet; das Bundesamt stufte sie am 02.05.2025 als gesichert rechtsextremistisch ein, setzte das wegen einer Stillhaltezusage im gerichtlichen Eilverfahren aber vorläufig aus. Die Beobachtung unterliegt gerichtlicher Kontrolle. Belegt ist dies für die AfD; für „oppositionelle Parteien“ allgemein liegt keine gelesene Quelle vor.",
+      "shortReason": "Meldestellen beruhen auf EU-Recht und entscheiden nicht über Illegalität; beobachtet wird belegt die AfD, nicht Opposition allgemein.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -12287,6 +12350,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der Gesprächsabschnitt enthält eine distanzierende Einordnung und ein persönliches Nichtwissen, keine eindeutig uneingeschränkte Leugnung. Die historische institutionelle Finanzierung ist dennoch dokumentiert: Heartland bestätigte 1999 gegenüber Philip Morris zwei Beiträge aus 1998. Das belegt weder Zahlungen an Seibt noch deren Kenntnis oder die Finanzierung bestimmter Videos.",
+      "shortReason": "Heartland bestätigte 1999 Zahlungen von Philip Morris; die Tabakfinanzierung ist dokumentiert, nicht bloß spekulativ.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -12666,6 +12730,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die VwGO regelt Kostentragung und Erstattungsfähigkeit notwendiger Anwaltsgebühren. Private Mehrhonorare können unerstattet bleiben; daraus folgt kein vollständiger genereller Erstattungsausschluss.",
+      "shortReason": "Bei gewonnenem Verfahren sind notwendige Anwaltsgebühren erstattungsfähig; nur Mehrhonorare können offen bleiben.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -12907,6 +12972,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Roman „Das Orangenmädchen“ handelt laut Verlag von einem Abschiedsbrief des verstorbenen Vaters an seinen Sohn mit Gedanken über Leben und Tod. Dass die Entscheidung für das Leben im Mittelpunkt steht, nennt der gelesene Verlagstext nicht ausdrücklich; das Buch selbst hat Claude nicht gelesen. Die Prägung Seibts durch Gaarder ist eine persönliche Angabe und nicht überprüfbar.",
+      "shortReason": "Der Roman handelt von einem Vaterbrief über Leben und Tod; die Entscheidung fürs Leben als Mittelpunkt nennt der Verlag nicht.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",

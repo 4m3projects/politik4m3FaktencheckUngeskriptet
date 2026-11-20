@@ -585,6 +585,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das Bundesamt für Verfassungsschutz beschreibt langfristige gesellschaftspolitische Ziele für konkret benannte Organisationen, unter anderem im Umfeld der Muslimbruderschaft. Der Befund betrifft bestimmte Organisationen. Er erlaubt keine Aussage über Musliminnen und Muslime insgesamt und belegt keine koordinierte demografische Strategie. Die Frage nach einem Eroberungskrieg stellt der Moderator.",
+      "shortReason": "Der Verfassungsschutz beschreibt solche Ziele für bestimmte Organisationen, nicht für Muslime insgesamt oder als koordinierte Strategie.",
       "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -764,6 +765,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die erste Meldung der Kölner Polizei stellte die Feier als weitgehend friedlich dar und ließ das Ausmaß der Sexualdelikte unerwähnt. Sie nannte jedoch bereits unter anderem Körperverletzungsdelikte und Ruhestörungen. Der Untersuchungsausschuss dokumentiert weitere Meldungen und die spätere Richtigstellung.",
+      "shortReason": "Die erste Polizeimeldung nannte die Feier weitgehend friedlich und verschwieg die Sexualdelikte, erwähnte aber andere Vorfälle.",
       "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -856,6 +858,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die pauschale Aussage scheitert bereits am Gegenbeispiel Ägypten. Der ägyptische State Information Service dokumentiert Richterinnen an ordentlichen Gerichten und die Ernennung von 98 Frauen am ägyptischen Staatsrat im Jahr 2021. Die Ernennung folgte auf eine lange Phase der Ausschlüsse und belegt unterschiedliche Zugangsbedingungen je nach Gericht und Zeitraum.",
+      "shortReason": "In Ägypten gibt es Richterinnen; 2021 wurden 98 Frauen am Staatsrat ernannt.",
       "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -900,6 +903,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die pauschale Regel gilt bereits in Ägypten nicht für alle Verfahren. Die OECD weist für Zivil- und Strafgerichte gleiches Gewicht für Aussagen von Männern und Frauen aus. Zugleich beschreibt die OECD eine abweichende religiöse Beweisregel im Familienrecht. Eine familienrechtliche Sonderregel trägt kein allgemeines Urteil über Gerichte in muslimisch geprägten Staaten.",
+      "shortReason": "In Ägypten zählen Aussagen von Frauen und Männern vor Zivil- und Strafgerichten gleich; eine Sonderregel gibt es nur im Familienrecht.",
       "assessmentBasis": "[Codex] Originaltranskript bei 02:51:27–02:51:44 erneut im Player im Gesprächskontext gelesen und mit der OECD-Rechtsübersicht verglichen. Die Zuordnung zum Gast ist plausibel.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1097,6 +1101,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Der Gast nennt mehrere Kriterien, legt aber weder eine einheitliche Messregel noch eine Quelle für die Hälfte vor. Die amtliche Zahl beobachteter Personen und die Bevölkerungsstudie erfassen unterschiedliche Sachverhalte. Die Befragungsstudien zu Fundamentalismus messen andere Kriterien und decken die deutsche muslimische Gesamtbevölkerung zum Gesprächszeitpunkt nicht ab.",
+      "shortReason": "Für „etwa die Hälfte“ gibt es weder Messregel noch Quelle; vorhandene Studien messen andere Kriterien.",
       "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1227,6 +1232,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Beide Universitäten bieten islamisch-theologische Qualifikation und berufsbezogene Studien an. Die praktische Ausbildung für das Imamamt ist nach der Handreichung der Deutschen Islam Konferenz keine Aufgabe dieser Hochschulstandorte. Für die deutschsprachige praktische Ausbildung nennt die Handreichung unter anderem das eigenständige Islamkolleg Deutschland. Die Handreichung der Deutschen Islam Konferenz unterscheidet das Theologie- und Lehramtsstudium an staatlichen Hochschulen von der praktischen Imam-Ausbildung, etwa am Islamkolleg und an der DITIB-Akademie.",
+      "shortReason": "Münster und Tübingen bilden Theologen und Lehrkräfte aus; die praktische Imam-Ausbildung findet dort nicht statt.",
       "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1275,6 +1281,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die UN-Untersuchungsmission dokumentiert landesweite Proteste ab September 2022 gegen Diskriminierung und für Gleichberechtigung sowie die Beteiligung von Frauen und Mädchen. Damit ist für den ausdrücklich genannten Iran ein Gegenbeispiel dokumentiert. Die Aussage über die konkrete Wiener Demonstration wurde davon getrennt.",
+      "shortReason": "Die UN dokumentiert landesweite Proteste ab September 2022 im Iran, an denen Frauen und Mädchen beteiligt waren.",
       "assessmentBasis": "[Codex] Zeitmarkierte Fundstelle im deutschen Originaltranskript gelesen. Sprecherzuordnung aus Gesprächskontext; Hör- und Sichtabgleich ausstehend.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1582,6 +1589,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Ausstellungskatalog des Metropolitan Museum of Art dokumentiert, dass die frühen Umayyaden in ehemals byzantinischen Gebieten unter anderem Münzmotive und Verwaltungspersonal übernahmen. Er beschreibt auch sasanidische Vorbilder und eigene Reformen. Das belegt einzelne Übernahmen unter den Umayyaden. Ein christliches Gesamtmodell für die Entstehung des Kalifats ab 632 ergibt sich daraus nicht.",
+      "shortReason": "Die frühen Umayyaden übernahmen einzelne byzantinische Elemente, aber auch sasanidische; ein christliches Gesamtvorbild ist nicht belegt.",
       "assessmentBasis": "[Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1630,6 +1638,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die Kirche erhielt unter Konstantin staatliche Förderung und das Christentum wurde 313 geduldet. Die reichsweite Vorschrift, das nizänische Christentum anzunehmen, erließen Theodosius I. und seine Mitkaiser 380. Die Gleichsetzung von Duldung und Förderung mit dieser späteren Rechtsstellung verkürzt die Entwicklung.",
+      "shortReason": "Unter Konstantin wurde das Christentum geduldet und gefördert; zur verbindlichen Reichsreligion wurde es erst 380 unter Theodosius.",
       "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1678,6 +1687,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die amtliche Broschüre für die zweite Phase führt zehn muslimische Einzelpersonen und gesondert die Organisationsvertreter auf. Einzelperson ist die offizielle Bezeichnung. Die Broschüre belegt weder eine einheitliche Berufsgruppe noch für jede Person eine persönlich ausgesprochene Einladung des Ministers.",
+      "shortReason": "Zehn muslimische Einzelpersonen neben den Verbänden sind belegt; eine persönliche Einladung durch den Minister nicht.",
       "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1726,6 +1736,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die Bundesregierung dokumentiert ab dem 13. September 2015 zeitweise Kontrollen an den Binnengrenzen, zunächst mit Schwerpunkt Österreich. Einreise- und aufenthaltsrechtliche Regeln galten weiter. Die zugespitzte Beschreibung trennt weder einzelne Aufnahmesituationen noch die Frage der Registrierung von dieser allgemeinen Grenzregelung.",
+      "shortReason": "Ab dem 13. September 2015 gab es zeitweise Grenzkontrollen, und die Einreiseregeln galten weiter; „ohne Steuerung“ ist verkürzt.",
       "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1814,6 +1825,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Zeitgenössische amtliche Korrespondenz dokumentiert getrennte muslimische Wählerschaften seit den Reformen von 1909 und unterschiedliche Regelungen im weiteren Verlauf. Solche besonderen Wählergruppen und Repräsentationsregeln sind genauer als die pauschale Vorstellung ausschließlich muslimischer beziehungsweise hinduistischer geografischer Wahlkreise.",
+      "shortReason": "Getrennte muslimische Wählerschaften gab es seit 1909, aber als besondere Wählergruppen, nicht als rein religiöse Wahlkreise.",
       "assessmentBasis": "[Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1858,6 +1870,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Indien und Pakistan wurden im August 1947 unabhängig. Das National Army Museum dokumentiert Gewalt und Massenflucht im Zuge der Teilung. Die Gewalteskalation hatte bereits vor der formalen Unabhängigkeit begonnen.",
+      "shortReason": "Gewalt und Massenflucht bei der Teilung sind belegt; die Eskalation begann aber schon vor der Unabhängigkeit.",
       "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1902,6 +1915,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Alle vier genannten Pflichten gehören zu den fünf Säulen. Das Fasten im Ramadan fehlt in der Aufzählung. Diese Einordnung betrifft die Glaubenspflichten.",
+      "shortReason": "Die vier genannten Pflichten gehören dazu, es fehlt aber die fünfte Säule, das Fasten im Ramadan.",
       "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1946,6 +1960,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Linke wurde mit 25,7 Prozent der Zweitstimmen stärkste Kraft. In der Wahltagsbefragung der Forschungsgruppe Wahlen wählten 51 Prozent der muslimischen Befragten die Linke. Das belegt überdurchschnittliche Unterstützung in dieser Gruppe. Der Wert beziffert den Anteil unter muslimischen Befragten. Für den umgekehrten Anteil muslimischer Stimmen an allen Linke-Stimmen und die Frage, ob diese den Wahlsieg entschieden, wären weitere Angaben nötig.",
+      "shortReason": "Die Linke wurde stärkste Kraft und 51 % der muslimischen Befragten wählten sie; ob das die Wahl entschied, ist nicht belegt.",
       "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1994,6 +2009,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das Auswärtige Amt verurteilte im Juni 2013 einen öffentlich bekannt gewordenen Mordaufruf. Das Autorenporträt des dtv bestätigt eine Fatwa in diesem Jahr. Die genaue Zahl von drei predigenden Personen und deren jeweilige Äußerungen sind damit nicht abgesichert.",
+      "shortReason": "Ein Mordaufruf 2013 ist durch das Auswärtige Amt belegt; die Zahl von drei Predigern nicht.",
       "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2134,6 +2150,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Für die Präsidentschaftswahl 2023 stimmt der Vergleich in der Richtung. Erdoğan schnitt in den genannten deutschen Konsularbezirken besser ab als im türkischen Inland. Nach dem Wahlrat erhielt er dort im ersten Wahlgang 49,24 Prozent und in der Stichwahl 51,91 Prozent. In der Stichwahl lagen Münster laut einer Tabelle im NRW-Landtagsprotokoll bei 74,6 Prozent und Köln bei 68,5 Prozent. Die im Gespräch genannten Werte passen damit nur teilweise zu dieser Wahl. Das Gespräch nennt kein Wahljahr.",
+      "shortReason": "Erdoğan schnitt in Deutschland besser ab als in der Türkei; die genannten Prozentwerte passen nur teilweise zur Wahl 2023.",
       "assessmentBasis": "[Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2186,6 +2203,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Artikel 39 der DDR-Verfassung garantierte formal Glaubensbekenntnis und Religionsausübung und erkannte die Tätigkeit von Religionsgemeinschaften an. Die Verfassung widerlegt ein generelles gesetzliches Verbot. Die tatsächliche Benachteiligung und staatliche Kontrolle religiöser Menschen ist davon getrennt zu betrachten.",
+      "shortReason": "Die DDR-Verfassung garantierte formal die Religionsausübung; ein Verbot gab es nicht, wohl aber Benachteiligung und Kontrolle.",
       "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2230,6 +2248,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Das im Gespräch wiedergegebene Motto passt sehr deutlich zur von einer Mitorganisatorin dokumentierten Wiener Demonstration am 4. Februar 2017. Zu diesem Zeitpunkt war das Anti-Gesichtsverhüllungsgesetz erst in Vorbereitung. Der Nationalrat nahm das Paket im Mai an. Der beschlossene § 2 betrifft die Verhüllung des Gesichts an öffentlichen Orten und in öffentlichen Gebäuden. § 70 des Richterdienstrechts regelt die Amtskleidung. Das Gespräch stellt eine rechtspolitische Debatte als Protest gegen ein bereits erlassenes allgemeines Verbot religiöser Symbole für Richterinnen dar.",
+      "shortReason": "Zum Zeitpunkt der Demonstration 2017 gab es kein solches Gesetz; das spätere betrifft die Gesichtsverhüllung, nicht religiöse Symbole.",
       "assessmentBasis": "[Codex] Originaltranskript und die bezeichneten Quellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2290,6 +2309,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Dubai ist eines von sieben Emiraten der Vereinigten Arabischen Emirate. Art. 7 der Bundesverfassung bestimmt den Islam als offizielle Religion der Föderation. Die Bezeichnung trifft den religiösen Bezug, verwechselt aber das Emirat mit dem souveränen Bundesstaat.",
+      "shortReason": "Der Islam ist Staatsreligion der Vereinigten Arabischen Emirate; Dubai ist eines ihrer Emirate, kein eigener Staat.",
       "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2378,6 +2398,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Der Bußgeldkatalog nennt für diese Fallgruppe 30 Euro innerorts und 20 Euro außerorts. Er sieht abweichende Regelsätze für andere Fahrzeugklassen und gefährliche Sonderfälle vor. Im Gespräch dient der Betrag als Beispiel für ein Gedankenexperiment.",
+      "shortReason": "Laut Bußgeldkatalog kostet das 30 Euro innerorts und 20 Euro außerorts, nicht 50 Euro.",
       "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2466,6 +2487,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Patriarch Kyrill erklärte den Konflikt im März 2022 vor allem mit dem Verhalten des Westens und berief sich auf die gemeinsame religiöse Geschichte Russlands und der Ukraine. Diese Stellungnahme stützt die Aussage zur Rolle der Kirchenführung. Sie belegt keine einheitliche Haltung aller Gemeinden und Geistlichen.",
+      "shortReason": "Patriarch Kyrill rechtfertigte den Krieg 2022 öffentlich; eine einheitliche Haltung aller Gemeinden belegt das nicht.",
       "assessmentBasis": "[Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2510,6 +2532,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "DITIB ist ein deutscher Verband, Diyanet ist die türkische staatliche Religionsbehörde. Die Bundesregierung dokumentiert personelle und strukturelle Bindungen, einschließlich der Entsendung von Imamen und der Dienstaufsicht durch türkische Religionsattachés. Das belegt institutionellen Einfluss, aber keine persönliche Steuerung jeder Verbandsentscheidung durch den türkischen Präsidenten.",
+      "shortReason": "Enge Bindungen von DITIB an die türkische Religionsbehörde sind belegt, eine persönliche Steuerung durch Erdoğan nicht.",
       "assessmentBasis": "[Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2554,6 +2577,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Abdel-Samad schilderte dieselbe Wortmeldung schon in seinem öffentlichen Rücktrittsbrief im November 2020. Ein Bericht einer teilnehmenden Gemeinde bestätigt das Thema der Fachtagung und die Eröffnung durch den Innenminister. Die veröffentlichte Schilderung der Tagung und die offiziellen Ausbildungsinformationen bestätigen den genauen Wortlaut des DITIB-Vertreters nicht unabhängig. Das ist keine Widerlegung der Schilderung.",
+      "shortReason": "Die Schilderung stammt von Abdel-Samad selbst; den genauen Wortlaut bestätigt keine unabhängige Quelle, widerlegt ist er nicht.",
       "assessmentBasis": "[Codex] Deutsches Originaltranskript und Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2640,6 +2664,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "4,2 Millionen Euro ergeben sich ab 2026 aus 35 Prozent von 12 Millionen Euro förderfähigen Aufwendungen, wenn ein anspruchsberechtigtes kleines oder mittleres Unternehmen die Erhöhung beantragt. Der allgemeine Satz beträgt 25 Prozent. In den zurückliegenden Jahren galten niedrigere Bemessungsgrenzen, für 2022 etwa vier Millionen Euro als Bemessungsgrundlage. Ob für ein bestimmtes Jahr rückwirkend noch ein Anspruch besteht, richtet sich nach den gesetzlichen und verfahrensrechtlichen Voraussetzungen.",
+      "shortReason": "4,2 Mio. Euro gelten erst ab 2026 und nur für kleine und mittlere Unternehmen mit erhöhtem Satz; für 2022 galten niedrigere Grenzen.",
       "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2684,6 +2709,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Die geprüften Veröffentlichungen belegen sexuelle Belästigung in einzelnen Ländern. Die länderübergreifenden WHO-Schätzungen erfassen überwiegend andere Gewaltindikatoren. Die geprüfte Studie aus Pakistan vergleicht Kleidungsgruppen in einem lokalen Kontext. Keine dieser Quellen trägt eine Rangfolge von Ländern nach sexueller Belästigung und Verbreitung der Verschleierung.",
+      "shortReason": "Keine geprüfte Quelle liefert eine Länderrangfolge nach Belästigung und Verbreitung der Verschleierung.",
       "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2897,6 +2923,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Gesetzentwurf der Fraktion Die Linke von 2025 fordert die Aufhebung des Berliner Neutralitätsgesetzes. Er nennt in seiner Begründung ausdrücklich Lehrkräfte sowie Richter, Staatsanwälte und Rechtsreferendare. Das verfassungsrechtliche Neutralitätsgebot, das der Senat aus dem Grundgesetz ableitet, ist davon zu unterscheiden und würde durch diesen Gesetzentwurf nicht aufgehoben.",
+      "shortReason": "Die Linke will das Berliner Neutralitätsgesetz aufheben; das Neutralitätsgebot des Grundgesetzes bliebe davon unberührt.",
       "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2989,6 +3016,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "In Ägypten etwa erhalten Töchter neben Söhnen nach dem dortigen Erbrecht pro Person einen halb so großen Anteil. Der Bericht knüpft die Aufteilung an das jeweilige Verwandtschaftsverhältnis. Aus dem Verhältnis zwischen Töchtern und Söhnen folgt keine allgemeine Quote für alle weiblichen und männlichen Erben oder für alle Staaten.",
+      "shortReason": "Töchter erben etwa in Ägypten neben Söhnen halb so viel; eine allgemeine Quote für alle Erben und Staaten folgt daraus nicht.",
       "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
       "migration": {
         "changeType": "Neuerfassung",

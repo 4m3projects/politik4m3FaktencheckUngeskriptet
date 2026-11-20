@@ -467,6 +467,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der falsche Rechenkern ist erfasst, die Wiedergabe präzisiert aber zu stark: Im Original stehen sechs, 4,8 und 1,2 Billionen; 1,2/6 entspricht 20 Prozent. Die direkte 22-Prozent-Verlustformulierung ist so im abgeglichenen Text nicht enthalten.",
+      "shortReason": "Der Rechenfehler ist richtig erkannt, Krall rechnet aber mit 1,2 von 6 Billionen, also 20 %; „22 % Verlust“ sagt er so nicht.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1003,6 +1004,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "In der abgeglichenen Passage werden grobe Streichungen genannt, aber keine vollständige Titel-/Folgenrechnung. Ein außerhalb des Interviews existierender Plan ist damit nicht ausgeschlossen.",
+      "shortReason": "In der gezeigten Passage gibt es nur grobe Streichungen ohne Folgenrechnung; ein Plan außerhalb des Interviews ist nicht ausgeschlossen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1047,6 +1049,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Gerundet mit deutschem Referenzmix gestützt, bei anderen Referenzmixen längere Zeiten. Die Bezugsgröße ist Primärenergieersatz, nicht identisch mit dem Vestas-Nettorücklauf. Die Kurzfassung nennt diese Bedingung nicht.",
+      "shortReason": "Gerundet stimmt das mit deutschem Strommix; mit anderen Referenzmixen dauert es länger, und diese Bedingung fehlt.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1541,6 +1544,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Rede über künftiges Lebenseinkommen ist vorhanden; im Original steht sie im Kontext einer Unternehmensgründung. Die Erweiterung auf jeden Auswanderer ist im abgeglichenen Text nicht ausdrücklich enthalten.",
+      "shortReason": "Krall spricht vom künftigen Einkommen im Zusammenhang mit einer Unternehmensgründung, nicht von jedem Auswanderer.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
