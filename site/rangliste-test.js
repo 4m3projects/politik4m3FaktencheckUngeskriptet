@@ -9,8 +9,8 @@ const FactIndex = require('./faktenindex.js');
 const FactRanking = require('./rangliste.js');
 
 /* Künstliche Ergebnisse: rate liefert, was im Test vorgegeben ist. */
-const fake = (id, key, idx, coverage = 1, indexed = 20, title = id) =>
-  ({ id, title, data: { key, indexRounded: idx, coverage, indexed }, video: null });
+const fake = (id, key, idx, coverage = 1, indexed = 20, title = id, channel = '') =>
+  ({ id, title, data: { key, indexRounded: idx, coverage, indexed }, video: channel ? { channel } : null });
 const rate = d => d;
 
 test('belastbare Videos nach Index absteigend, gute oben', () => {
@@ -37,6 +37,38 @@ test('graue Ampel bekommt keinen Platz, auch mit hohem vorläufigem Index', () =
   assert.ok(unranked.every(x => x.place === undefined));
 });
 
+test('Kanalname: video.json zuerst, sonst README ohne Klammerzusatz; stabile Adresse', () => {
+  assert.equal(FactRanking.channelOf({ video: { channel: 'MrWissen2go' }, meta: { Kanal: 'MrWissen2go (funk)' } }), 'MrWissen2go');
+  assert.equal(FactRanking.channelOf({ meta: { Kanal: 'Breaking Lab (Jacob Beautemps)' } }), 'Breaking Lab');
+  assert.equal(FactRanking.channelOf({ meta: { Kanal: '[Alfred räumt auf](https://example.org)' } }), 'Alfred räumt auf');
+  assert.equal(FactRanking.channelOf({}), '');
+  assert.equal(FactRanking.channelSlug('{ungeskriptet} by Ben'), 'ungeskriptet-by-ben');
+  assert.equal(FactRanking.channelSlug('Alfred räumt auf'), 'alfred-raumt-auf');
+  assert.equal(FactRanking.channelSlug('Straße'), 'strasse');
+  assert.equal(FactRanking.channelHref('Alfred räumt auf'), '#/rangliste/kanal/alfred-raumt-auf');
+});
+
+test('Kanäle: Durchschnitt nur aus Videos mit Platz, gleicher Wert gleicher Platz', () => {
+  const res = FactRanking.rank([
+    fake('a1', 'gruen', 0.9, 1, 20, 'a1', 'Kanal A'), fake('a2', 'gelb', 0.6, 1, 20, 'a2', 'Kanal A'),
+    fake('a3', 'vorlaeufig', 0.1, 1, 20, 'a3', 'Kanal A'),
+    fake('b1', 'gelb', 0.75, 1, 20, 'b1', 'Kanal B'),
+    fake('c1', 'gruen', 0.95, 1, 20, 'c1', 'Kanal C'),
+    fake('d1', 'nicht_bewertbar', null, 1, 20, 'd1', 'Kanal D'),
+    fake('x1', 'gruen', 0.99)
+  ], rate);
+  const ch = FactRanking.channels(res);
+  assert.deepEqual(ch.ranked.map(c => [c.name, c.score, c.place]), [['Kanal C', 0.95, 1], ['Kanal A', 0.75, 2], ['Kanal B', 0.75, 2]]);
+  const a = ch.ranked.find(c => c.slug === 'kanal-a');
+  assert.equal(a.videos.length, 3, 'auch Videos ohne Platz gehören zum Kanal');
+  assert.equal(a.rankedVideos.length, 2, 'vorläufiger Index zählt nicht');
+  assert.deepEqual(ch.unranked.map(c => c.name), ['Kanal D']);
+  assert.equal(FactRanking.levelOfScore(0.8), 'gruen');
+  assert.equal(FactRanking.levelOfScore(0.4), 'gelb');
+  assert.equal(FactRanking.levelOfScore(0.399), 'rot');
+  assert.equal(FactRanking.levelOfScore(null), 'nicht_bewertbar');
+});
+
 test('leere Eingabe', () => {
   assert.deepEqual(FactRanking.rank([], rate), { ranked: [], unranked: [] });
   assert.deepEqual(FactRanking.rank(null, rate), { ranked: [], unranked: [] });
@@ -57,4 +89,9 @@ test('echte Videos: Reihenfolge folgt genau dem Faktenindex, keine Daten werden 
   for (let i = 1; i < ranked.length; i++) assert.ok(ranked[i - 1].r.indexRounded >= ranked[i].r.indexRounded);
   for (const x of ranked) assert.ok(['gruen', 'gelb', 'rot'].includes(x.r.key));
   for (const x of unranked) assert.ok(!['gruen', 'gelb', 'rot'].includes(x.r.key));
+  const ch = FactRanking.channels({ ranked, unranked });
+  for (const c of ch.ranked) {
+    const mean = c.rankedVideos.reduce((s, x) => s + x.r.indexRounded, 0) / c.rankedVideos.length;
+    assert.ok(Math.abs(c.score - mean) < 0.0006, c.name);
+  }
 });
