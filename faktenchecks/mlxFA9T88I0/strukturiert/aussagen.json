@@ -2731,6 +2731,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die für Kapitel 3 neu gelesene Firmenchronik nennt den Erwerb von whisky.de im Jahr 2010; das Lokalporträt von 2021 führt denselben Vorgang. Dies stützt den bislang offenen Erwerb als veröffentlichte Unternehmensgeschichte, ersetzt aber keine unabhängige Vertrags- oder Registerprüfung. Preis, früherer Inhaber und behaupteter Registrierungsabstand werden dadurch nicht bestätigt.",
+      "shortReason": "Firmenchronik und Lokalporträt nennen den Erwerb 2010; eine unabhängige Vertrags- oder Registerprüfung fehlt.",
       "assessmentBasis": "Aktualisierung im Kapitel-3-Auftrag am 17./18.11.2026: Firmenchronik und Lokalporträt tatsächlich gelesen. Vorher Offen ohne Erwerbsbeleg; jetzt begrenzte Bestätigung durch veröffentlichte Unternehmensgeschichte. ID, Fundstelle und ursprüngliche Herkunft bleiben erhalten.",
       "migration": {
         "changeType": "Offenen Teil separat ausgewiesen",
@@ -2975,6 +2976,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Unternehmen haben weiter investiert: Laut KfW lagen die Unternehmensinvestitionen 2025 bei rund 487 Milliarden Euro, knapp die Hälfte davon Ausrüstungen. Richtig ist, dass die Ausrüstungsinvestitionen real 2024 um 5,4 und 2025 um 2,3 Prozent sanken und die Investitionsquote so niedrig ist wie seit der Finanzkrise nicht mehr. Ein Investitionsstopp seit 2017 ist nicht belegt; eine schwache Entwicklung schon.",
+      "shortReason": "Unternehmen investierten weiter, 2025 rund 487 Mrd. Euro; die Ausrüstungsinvestitionen sanken aber 2024 und 2025.",
       "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
       "migration": {
         "changeType": "Offenen Teil separat ausgewiesen",
@@ -3034,6 +3036,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Arbeitsproduktivität je Stunde und je Erwerbstätigem stagniert seit einigen Jahren; Destatis weist 2022 +0,3, 2023 −1,2, 2024 −0,3 und 2025 +0,4 Prozent je Stunde aus. Den Beginn der Stagnation um 2017 belegen die gelesenen Quellen nicht ausdrücklich.",
+      "shortReason": "Die Produktivität stagniert seit einigen Jahren; einen Beginn um 2017 belegen die Quellen nicht.",
       "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
       "migration": {
         "changeType": "Offenen Teil separat ausgewiesen",
@@ -3223,6 +3226,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der Erststand bewertet diese Rechtsfolgerung ausdrücklich als irreführend. Er verweist auf die verfassungsrechtlich begrenzten Fälle von Bundesreferenden und das Erfordernis einer entsprechenden Verfassungsänderung für die dort beschriebene allgemeine Volksgesetzgebung. Dieser eng abgegrenzte Teilbefund wird übernommen, ohne eine neue Rechtsprüfung zu behaupten.",
+      "shortReason": "Allgemeine Volksabstimmungen im Bund bräuchten eine Verfassungsänderung, ein einfaches Gesetz genügt nicht.",
       "assessmentBasis": "Redaktionelle Differenzierung des übernommenen Erststands; keine neue Sachrecherche.",
       "migration": {
         "changeType": "Expliziter Teilbefund extrahiert",
@@ -3795,6 +3799,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "S&P beschrieb im April 2026 nur ein bedingtes Abwärtsszenario bei deutlich schwächerer Wirtschaftsentwicklung, keinen angekündigten Verlust noch 2026. Eine Analyse der LBBW vom 18.09.2026 erwartete 2026 nicht einmal einen negativen Ausblick; S&P bestätigte im Oktober 2026 AAA mit stabilem Ausblick. Ein Risiko bestand, eine Ankündigung mit Termin nicht.",
+      "shortReason": "S&P beschrieb nur ein bedingtes Abwärtsszenario und bestätigte im Oktober 2026 AAA mit stabilem Ausblick.",
       "assessmentBasis": "Migration am 17.11.2026 nach Textkontrolle und den ausdrücklich zugeordneten neuen Quellenzugriffen. Früheres Sammelurteil nicht automatisch übernommen. Kein Audio-/Videoabgleich.",
       "migration": {
         "changeType": "Kapitel 1 einzeln migriert",
@@ -4006,6 +4011,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Firmenchronik nennt ebenfalls 2007. Das stützt die Erinnerung durch eine weitere unternehmenseigene Veröffentlichung; Originalupload und unabhängige Datierung sind nicht geprüft. Deshalb nur teilweise belegt.",
+      "shortReason": "Die Firmenchronik nennt ebenfalls 2007; Originalupload und unabhängige Datierung sind nicht geprüft.",
       "assessmentBasis": "Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.",
       "migration": {
         "changeType": "Kapitel 2 einzeln migriert",
@@ -4184,6 +4190,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Auch unter Berücksichtigung der Begabungs-Einschränkung ist daraus keine universelle Schwelle ableitbar. Das gelesene Originalabstract der Metaanalyse berichtet stark unterschiedliche Erklärungsanteile gezielter Übung nach Gebiet. Es prüft keine garantierte 10.000-Stunden-Regel und rechtfertigt eine solche Zusicherung nicht.",
+      "shortReason": "Eine Metaanalyse zeigt je nach Gebiet sehr unterschiedliche Wirkung gezielter Übung; eine universelle 10.000-Stunden-Schwelle gibt es nicht.",
       "assessmentBasis": "Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.",
       "migration": {
         "changeType": "Kapitel 2 einzeln migriert",
@@ -5232,6 +5239,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die heutige Hilfeseite bestätigt den Regelkern: Drei Strikes innerhalb von 90 Tagen können zur Kanalbeendigung führen. Das Gespräch erläutert drei Verstöße und zeitliche Abstände, nennt aber kein eindeutiges 90-Tage-Fenster und verkürzt die Eskalation. Warnungen, Ausnahmen und weitere Beendigungsgründe fehlen. Deshalb teilweise belegt, keine nachträglich als Originalbehauptung ausgegebene präzise Vollregel. Der persönliche Sperrfall bleibt davon unabhängig offen. Das Copyright-Beispiel des Moderators ist eine Rückfrage und keine Behauptung gleicher Verfahren.",
+      "shortReason": "Drei Strikes innerhalb von 90 Tagen können zur Kanalbeendigung führen; Zeitfenster, Warnungen und Ausnahmen fehlen.",
       "assessmentBasis": "Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.",
       "migration": {
         "changeType": "Kapitel 2 einzeln migriert",
@@ -6092,6 +6100,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der recherchierende Biograf Walter Isaacson beschreibt in einer vom Veranstalter veröffentlichten Gesprächsfassung die Auflösung des Serverstandorts Sacramento und eine eigenmächtige Serververlagerung Ende 2022. Das stützt den Ereigniskern als recherchierten Autorenbericht. Vollständiger betrieblicher Abschluss, Ausmaß und störungsfreier Ersatz sind dadurch nicht belegt; die Darstellung nennt vielmehr anschließende Betriebsprobleme. Die technische Erfolgserzählung und Wachstum bleiben getrennte offene Prüfungen.",
+      "shortReason": "Der Biograf Isaacson beschreibt die Auflösung eines Serverstandorts Ende 2022; Ausmaß und reibungsloser Ersatz sind nicht belegt.",
       "assessmentBasis": "Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.",
       "migration": {
         "changeType": "Kapitel 2 einzeln migriert",
@@ -7098,6 +7107,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Produktdarstellung beschreibt Aufnahmen und Highlights. Das stützt die angebotenen Funktionen als Herstellerangabe, ohne Bedienzuverlässigkeit oder Tonqualität unabhängig zu bestätigen.",
+      "shortReason": "Aufnahme und Markierungen sind laut Hersteller möglich; unabhängig getestet ist das nicht.",
       "assessmentBasis": "Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.",
       "migration": {
         "changeType": "Kapitel 2 einzeln migriert",
@@ -7204,6 +7214,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die gelesene Produktübersicht nennt mindestens diesen Sprachumfang. Belegt ist das Angebot nach Herstellerangabe; weder gleiche Genauigkeit für alle Sprachen noch ein unabhängiger Funktionsnachweis.",
+      "shortReason": "Die Herstellerseite nennt diesen Sprachumfang; gleiche Genauigkeit in allen Sprachen ist nicht belegt.",
       "assessmentBasis": "Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.",
       "migration": {
         "changeType": "Kapitel 2 einzeln migriert",
@@ -7257,6 +7268,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Produktseite nennt einen kostenlosen Umfang von 300 Minuten pro Monat. Tarifbedingungen, Region und spätere Änderungen bleiben zu beachten; die Darstellung ist kein Checkout-Test.",
+      "shortReason": "Die Produktseite nennt 300 kostenlose Minuten im Monat; Tarifbedingungen und spätere Änderungen sind zu beachten.",
       "assessmentBasis": "Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.",
       "migration": {
         "changeType": "Kapitel 2 einzeln migriert",
@@ -7310,6 +7322,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Zahl findet sich auf der Herstellerseite als Angabe über berufliche Nutzer. Eine unabhängige Zählung, Stichtagsdefinition oder Abgrenzung aktiver Nutzer fehlt. Deshalb nur als unternehmenseigene Größenangabe teilweise belegt.",
+      "shortReason": "Die Zahl ist eine Herstellerangabe ohne unabhängige Zählung.",
       "assessmentBasis": "Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.",
       "migration": {
         "changeType": "Kapitel 2 einzeln migriert",
@@ -7737,6 +7750,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das Lokalporträt nennt für 2020 einen Umsatz von 32 Millionen Euro. Das passt zur Größenordnung, belegt aber ohne aktuellen geprüften Abschluss weder das Geschäftsjahr der Aufnahme noch dauerhaft gültige Grenzen.",
+      "shortReason": "Ein Lokalporträt nennt 32 Mio. Euro Umsatz für 2020; ein aktueller geprüfter Abschluss fehlt.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -7843,6 +7857,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Firmenchronik und das Lokalporträt stimmen beim Gründungsjahr überein. Das sind sich ergänzende Veröffentlichungen mit Unternehmensbezug; eine originale Gewerbeanmeldung wurde nicht eingesehen.",
+      "shortReason": "Firmenchronik und Lokalporträt nennen 1993; eine Gewerbeanmeldung wurde nicht eingesehen.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -7953,6 +7968,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das Lokalporträt bestätigt elf Kisten als Anfangslieferung. Die zusätzliche genaue Flaschenzahl ist darin nicht belegt; sechs Flaschen pro Kiste werden nicht ohne Rechnung als sichere Verpackungseinheit unterstellt.",
+      "shortReason": "Elf Kisten bestätigt das Lokalporträt; die Zahl von 66 Flaschen ist nicht belegt.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -8284,6 +8300,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Vergleich trifft einen belastbaren Kern: Für Getränke ab zehn Volumenprozent entfällt nach Anhang X die Pflicht zum Mindesthaltbarkeitsdatum; der Hersteller beschreibt lange Lagerung ungeöffneter Flaschen. Das garantiert keine unbegrenzt unveränderte Qualität. Verschluss, Licht und Temperatur bleiben relevante Bedingungen. Eine unabhängige Langzeitstudie oder konkrete Olivenölprüfung wurde nicht gelesen.",
+      "shortReason": "Für Spirituosen gilt keine Pflicht zum Mindesthaltbarkeitsdatum und sie halten lange; unbegrenzt gleichbleibende Qualität ist nicht garantiert.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -8365,6 +8382,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Ein Mindesthaltbarkeitsdatum und ein Verbrauchsdatum haben unterschiedliche Bedeutung. Artikel 24 verknüpft die automatische Unsicherheitsfolge mit dem Verbrauchsdatum sehr leicht verderblicher Ware. Ein pauschaler Entsorgungszwang allein wegen überschrittenem MHD folgt daraus nicht; der konkrete Warenzustand bleibt zu prüfen.",
+      "shortReason": "Ein überschrittenes Mindesthaltbarkeitsdatum erzwingt keine Entsorgung; das gilt nur beim Verbrauchsdatum leicht verderblicher Ware.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -8471,6 +8489,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Chronik bestätigt einen Erweiterungskeller und späteren Platzmangel, nennt aber diese genaue Fläche und Dauer nicht. Der Lokaltext datiert den Ausbau auf 1997. Baupläne und Nutzflächenaufmaß fehlen.",
+      "shortReason": "Erweiterungskeller und späterer Platzmangel sind belegt, die genaue Fläche und Dauer nicht.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -8528,6 +8547,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Firmenbesichtigung bestätigt die spätere Halle, nennt insgesamt 1.000 Quadratmeter. Die im Gespräch unsicher addierten Teilflächen erklären diese Größe nicht vollständig. Ohne Plan kein scheinbar exakter Flächenabgleich.",
+      "shortReason": "Die spätere Halle mit 1.000 m² ist belegt; die genannten Teilflächen ergeben diese Größe nicht vollständig.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -8581,6 +8601,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Firmenbesichtigung ordnet die Entscheidung für Fremdlogistik 2012 zu, nennt im einschlägigen Absatz aber nicht ausdrücklich DHL. Das Lokalporträt ordnet DHL stattdessen 2016 zu. Beginn, schrittweiser Übergang und vollständige Verlagerung bleiben auseinanderzuhalten.",
+      "shortReason": "Fremdlogistik ab 2012 ist belegt; DHL nennt das Lokalporträt aber erst für 2016.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -8739,6 +8760,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Firmenbesichtigung nennt den Raum Nürnberg für 2021; das Lokalporträt nennt dafür TOPCO. Die zusätzliche aktuelle Ortsangabe Aurach und ein weiterer Umzug werden damit nicht unabhängig bestätigt.",
+      "shortReason": "Der Umzug in den Raum Nürnberg 2021 ist belegt; der heutige Standort Aurach nicht.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -8892,6 +8914,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Firmenbesichtigung beschreibt den Umbau frei gewordener Hallenflächen 2013 zu Büros. Das stützt den Vorgang, bleibt aber eine Unternehmensselbstauskunft ohne Bauaktenkontrolle.",
+      "shortReason": "Der Umbau zu Büros 2013 ist laut Firmenbesichtigung belegt, aber nur als Selbstauskunft.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -9051,6 +9074,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Firmenchronik und Lokalporträt nennen beide 1994. Damit ist der Beginn durch veröffentlichte Darstellungen gestützt; ein damaliger Servernachweis oder vollständiges Webarchiv wurde nicht eingesehen.",
+      "shortReason": "Firmenchronik und Lokalporträt nennen 1994; ein damaliger Nachweis wurde nicht eingesehen.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -9683,6 +9707,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Cloudflare beschreibt regelbasierte Verkehrsfilterung und die Auslieferung zwischengespeicherter Inhalte. Diese Mechanismen stützen den technischen Kern. Sie garantieren weder Erkennung jedes Angreifers noch Schutz gegen jede Überlastung der vorgelagerten Verbindung.",
+      "shortReason": "Filter und Caches entlasten den Server, erkennen aber nicht jeden Angriff und schützen nicht vor jeder Überlastung.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -9974,6 +9999,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der veröffentlichte EZB-Referenzkurs vom 03.03.2014 beträgt 1,3768 US-Dollar je Euro. 3,1 Millionen US-Dollar entsprechen damit rechnerisch rund 2,25 Millionen Euro. Dies bestätigt nur die Größenrelation zum Mitteilungsdatum, nicht den konkreten Zahlungszeitpunkt oder Bankkurs.",
+      "shortReason": "Zum EZB-Kurs vom März 2014 entsprechen 3,1 Mio. Dollar rund 2,25 Mio. Euro; der tatsächliche Zahlungskurs ist offen.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -10237,6 +10263,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Chronik verbindet die Domain ausdrücklich mit parallelen englischen Informationsseiten und Internationalisierung. Das stützt den Zweck als Unternehmensdarstellung; eine Absicht von Anfang an oder ihr wirtschaftlicher Erfolg werden damit nicht unabhängig bewiesen.",
+      "shortReason": "Die Firmenchronik verbindet die Domain mit Internationalisierung; das ist eine Unternehmensdarstellung.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -10434,6 +10461,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Google nennt Domainwörter als einen von mehreren Faktoren und ein System gegen ihre Überbewertung. Der allgemeine Kern passt dazu. Die aktuelle Beschreibung legt jedoch weder den behaupteten historischen Wechselzeitpunkt noch die damalige Größenordnung fest.",
+      "shortReason": "Google nennt Domainwörter als einen Faktor und begrenzt ihre Überbewertung; Zeitpunkt und Ausmaß der Änderung sind nicht belegt.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -10747,6 +10775,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Chronik stützt weltweite Dokumentationsreisen des Sohnes und zusätzliche Spirituosenthemen. Den konkreten Mauritius-Aufenthalt während der Aufnahme bestätigt sie nicht.",
+      "shortReason": "Weltweite Reisen und neue Spirituosenthemen sind belegt, die Mauritius-Reise nicht.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -10848,6 +10877,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "DSEAR verlangt das Vermeiden von Zündquellen aus ungeschützten Geräten in entsprechend eingestuften Zonen. Eine HSE-Anordnung zu einer Brennerei nennt konkret ungeeignete Elektrogeräte und entzündbare Alkoholdämpfe. Damit ist die pauschale Entwarnung nicht tragfähig. Nicht jede Kamera und nicht jeder Raum sind gleichermaßen gefährlich.",
+      "shortReason": "Ungeschützte Elektrogeräte sind in Zonen mit Alkoholdämpfen eine anerkannte Zündquelle; die Entwarnung ist nicht tragfähig.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -10958,6 +10988,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der Moderator formuliert diese Folgerung im fragenden Gesprächszusammenhang; der Gast reagiert zustimmend, die Sprechergrenze bleibt textlich unsicher. HSE beschreibt risikobezogene Pflichten und Zonen. Aus diesen Regeln folgt kein pauschales Fotoverbot für jeden Bereich einer Brennerei.",
+      "shortReason": "Die Vorschriften gelten risikobezogen für bestimmte Zonen; ein allgemeines Fotoverbot in Brennereien folgt daraus nicht.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -11206,6 +11237,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der räumliche und zeitliche Bezug der absoluten Form bleibt unklar. Als allgemeine historische Entwarnung ist sie nicht haltbar: Die Betreiberunterlagen von Talisker nennen die Zerstörung des Brennhauses durch Feuer 1960; laut Betreiberzeitleiste wurden die verlorenen Brennblasen 1962 ersetzt. Das ist kein Beleg für einen Kamerafunken und auch keine vollständige Schadensstatistik.",
+      "shortReason": "Es gab auch früher Brände, etwa 1960 bei Talisker.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -11603,6 +11635,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der gelesene Herstellerbeitrag bestätigt Führungen und Verkostung grundsätzlich. Die im Gespräch genannten fünf oder sieben Pfund sind ohne bestimmtes Angebot, Jahr und Leistungsumfang keine geprüften aktuellen Preise.",
+      "shortReason": "Führungen mit Verkostung gibt es; die genannten Preise sind nicht geprüft.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -11708,6 +11741,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Firmenchronik beschreibt ihn als Luft- und Raumfahrtingenieur. Das stützt die fachliche Grundrichtung, bestätigt aber weder die genaue Studienfolge noch Abschlussurkunde und Hochschule.",
+      "shortReason": "Die Firmenchronik nennt ihn Luft- und Raumfahrtingenieur; Studienfolge und Abschluss sind nicht bestätigt.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -12210,6 +12244,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der spätere Hallenbezug wird auf der Firmenbesichtigung beschrieben. Das stützt die tatsächliche Fertigstellung, aber nicht den genauen zwischenzeitlichen Entscheidungsprozess und die erwogene Unterbrechung.",
+      "shortReason": "Der spätere Bezug der Halle ist belegt; der Entscheidungsprozess dazwischen nicht.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -12566,6 +12601,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Chronik und Lokalporträt stützen die Führungsnachfolge grundsätzlich. Die Prozentzahl bleibt sprachlich unklar und wird nicht als gesicherter Eigentumsanteil ausgegeben. Auch eine konkrete Arbeitszeitquote ist ohne zusätzliche Erklärung nicht bestätigt.",
+      "shortReason": "Die Führungsnachfolge durch den Sohn ist belegt; die 25-Prozent-Angabe bleibt unklar.",
       "assessmentBasis": "Kapitel-3-Prüfung vom 17.11.2026: vollständige automatische deutsche Originaluntertitel 00:36:58–01:15:16 mit Anschlusskontext 00:36:30–01:15:40 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle, privaten Geschäftsakten oder Zugriffe auf interne Systeme. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 3 einzeln migriert",
@@ -13260,6 +13296,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Bierabsatz sank 2025 um 6 Prozent und liegt fast 19 Prozent unter 2015; das stützt einen Rückgang des Alkoholkonsums. Zahlen zu alkoholfreien Getränken und zur Pandemiezeit wurden nicht gelesen.",
+      "shortReason": "Sinkender Bierabsatz stützt einen Rückgang des Alkoholkonsums; Zahlen zu alkoholfreien Getränken und zur Pandemiezeit fehlen.",
       "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -13455,6 +13492,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Scotch-Exporte sanken 2024 und 2025 nach Wert und Menge. Der Branchenverband führt das auf Zölle, Kosten und schwächere Nachfrage zurück, nicht auf eigene Preiserhöhungen. Der Rückgang ist belegt, die behauptete Ursache nicht.",
+      "shortReason": "Die Exporte sanken 2024 und 2025; der Verband nennt aber Zölle, Kosten und Nachfrage als Grund, nicht eigene Preiserhöhungen.",
       "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -13866,6 +13904,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "KfW Research berichtet erneut wachsende Stilllegungspläne: rund ein Viertel der Unternehmen will ohne Nachfolgelösung schließen, etwa 114.000 pro Jahr bis 2029. Als häufigsten Grund nennt die Meldung jedoch das Alter, zuletzt mit wachsender Bedeutung von Bürokratie; fehlende Rentabilität wird dort nicht als Hauptgrund ausgewiesen. Die Größenordnung der Schließungen ist gestützt, die behauptete Ursache nicht.",
+      "shortReason": "Viele Schließungen sind geplant, häufigster Grund ist laut KfW aber das Alter, nicht fehlende Rentabilität.",
       "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -13919,6 +13958,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Sozialversicherungsbeiträge sind gestiegen: Der Gesamtbeitrag liegt 2026 bei 42,3 Prozent des Bruttolohns, nach rund 42,1 Prozent 2025 und 35,6 Prozent 1990; der Sachverständigenrat erwartet bis 2030 rund 45 Prozent. Dieser Teil ist belegt. Bei den Energiepreisen ist das Bild gemischt: Der Industriestrompreis liegt laut BDEW 2026 mit rund 17,9 ct/kWh wieder etwa auf dem Niveau von 2019/2020, weit unter dem Krisenwert 2022 (43,2 ct/kWh). Im internationalen Vergleich ist er deutlich höher als in Frankreich, Nordeuropa, den USA oder China, aber ähnlich wie in mehreren EU-Ländern. Dass die Industrie „besonders“ leide, ist daher nur gegenüber bestimmten Konkurrenzstandorten gestützt.",
+      "shortReason": "Lohnnebenkosten steigen; der Industriestrompreis liegt aber wieder etwa auf dem Niveau von 2019 und ist nur im Vergleich zu manchen Ländern hoch.",
       "assessmentBasis": "BDEW-Strompreisanalyse 10/2026, Avenir-Suisse-Vergleich 04/2026, Frühjahrsgutachten 2026 des Sachverständigenrats (Kapitel 2) und Beitragsübersicht 2026 gelesen. Keine Gaspreise und keine Branchenkostenstruktur gelesen.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -13982,6 +14022,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die DIHK-Umfrage 2025 zeigt, dass Industrieunternehmen per Saldo eher im Ausland (+9 Punkte) als im Inland (−17 Punkte) investieren wollen und Kostenersparnis als Motiv so wichtig ist wie zuletzt in der Finanzkrise; große Unternehmen planen deutlich häufiger Auslandsinvestitionen als kleine. Das stützt die Tendenz. Dass größere Unternehmen im Inland gar nicht mehr investierten, geben die Daten aber nicht her, und 2025 flossen nach IW-Hochrechnung erstmals seit Langem mehr Direktinvestitionen nach Deutschland hinein als hinaus.",
+      "shortReason": "Industriefirmen planen eher Auslands- als Inlandsinvestitionen; dass Große im Inland gar nicht mehr investieren, zeigen die Daten nicht.",
       "assessmentBasis": "DIHK-Umfragezusammenfassung 2025 und zwei IW-Veröffentlichungen (Bestand 2024, Ströme 2025) gelesen; Bundesbank-Direktinvestitionsstatistik nicht selbst gelesen, IW-Werte für 2025 sind Hochrechnungen.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -14096,6 +14137,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Ein wahrer Kern besteht: STIHL stoppte im Februar 2024 die Planung eines neuen Werks für Führungsschienen in Ludwigsburg, nannte Kosten, Energiepreise und Arbeitszeitforderungen als Gründe und wollte die Schweiz als Vergleichsstandort prüfen; der Beiratsvorsitzende sagte, dort sei die Produktion inzwischen günstiger. Eine Entscheidung zur Verlagerung war das nicht; die Schienenfertigung in Waiblingen ist bis 2030 gesichert, und STIHL nennt Deutschland 2025 weiter einen strategischen Pfeiler. Neu investiert wird vor allem in Rumänien. Sägeketten werden schon seit 1974 in der Schweiz gefertigt. Dass „viele Unternehmen“ in die Schweiz gegangen seien, ist nicht belegt.",
+      "shortReason": "STIHL prüfte die Schweiz als Standort, entschied aber keine Verlagerung; dass viele Firmen dorthin gingen, ist nicht belegt.",
       "assessmentBasis": "Regionalzeitung 02/2024, STIHL-Pressemitteilung 04/2025 und die bereits gelesenen STIHL-Seiten; eine spätere Standortentscheidung wurde nicht gefunden.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -14161,6 +14203,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Nach OECD-Daten lag die Arbeitsproduktivität (BIP je Arbeitsstunde, kaufkraftbereinigt) 2023 in der Schweiz bei rund 101 US-Dollar und in Deutschland bei rund 94 US-Dollar, also etwa 7 Prozent höher; eine ILO-Schätzung für 2025 zeigt dieselbe Reihenfolge. Die Schweiz ist damit produktiver, aber nicht „weit“ produktiver. Ein Wert je Beschäftigtem wurde nicht gelesen. Der Schluss auf bessere Rentabilität lässt das deutlich höhere Schweizer Lohnniveau und die Lohnstückkosten außer Acht.",
+      "shortReason": "Die Schweiz ist je Stunde rund 7 % produktiver, nicht „weit“; die höheren Schweizer Löhne bleiben unberücksichtigt.",
       "assessmentBasis": "OECD-Werte zur Arbeitsproduktivität je Stunde über die Übersicht der englischsprachigen Wikipedia gelesen; die OECD-Kompendien 2025/2026 enthalten die Länderwerte nur in Grafiken. Keine Daten je Beschäftigtem und keine Lohnstückkosten gelesen.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -14308,6 +14351,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die BA meldet für Berlin im September 2026 genau 10,4 Prozent, im August 10,6 Prozent. Die Zahl stimmt damit für einen Monat, dessen Wert erst am 30.09.2026 und damit nach der Aufnahme am 23.09.2026 veröffentlicht wurde. Zum Aufnahmezeitpunkt lag als jüngster Wert 10,6 Prozent vor. Die Größenordnung trifft zu, der genaue Wert passt nicht zum damals bekannten Stand.",
+      "shortReason": "10,4 % galt erst für September und wurde nach der Aufnahme veröffentlicht; damals bekannt waren 10,6 %.",
       "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -14359,6 +14403,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Der Gast äußert dies mit erkennbarem Vorbehalt. Laut BA lag Bremen sowohl im August 2026 (11,5 Prozent) als auch im September 2026 (11,2 Prozent) über Berlin (10,6 bzw. 10,4 Prozent). Damit hatte Berlin weder nach dem damals bekannten noch nach dem späteren Monatswert die höchste Quote. Eine vollständige Länderrangliste wurde nicht gelesen; für die Widerlegung genügt der Vergleich mit Bremen.",
+      "shortReason": "Bremen hatte mit 11,5 % (August) und 11,2 % (September 2026) eine höhere Arbeitslosenquote als Berlin.",
       "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -14517,6 +14562,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Für Öl und Sprit trifft es zu: Nach der befristeten Steuersenkung auf Kraftstoffe bis Ende Juni 2026 stiegen die Energiepreise wieder; im August 2026 lagen Kraftstoffe 27,7 % und leichtes Heizöl 49,6 % über dem Vorjahresmonat, Energie insgesamt 10,5 %. Erdgas war dagegen 2,9 % billiger als ein Jahr zuvor. Dass die Preise Erwerbstätige belasten, ist eine allgemeine Folgerung.",
+      "shortReason": "Sprit und Heizöl waren deutlich teurer als ein Jahr zuvor, Erdgas aber 2,9 % billiger.",
       "assessmentBasis": "Destatis-Pressemitteilungen zu Juni und August 2026 gelesen (Aufnahme laut Beschreibung 23.09.2026).",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -14788,6 +14834,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "KMU sind der größte Arbeitgeber, tragen aber weniger als die Hälfte der Wertschöpfung: Nach einer Datev-Studie mit Daten des Statistischen Bundesamts stellten sie 2023 gut 99 Prozent der Unternehmen, rund 53 Prozent der Beschäftigung, aber nur rund 41 Prozent der Bruttowertschöpfung und 26 Prozent des Umsatzes, jeweils mit sinkender Tendenz seit 2018. „Kern“ ist eine Wertung; für die Beschäftigung trifft sie zu, als größter Teil der Wertschöpfung nicht.",
+      "shortReason": "KMU stellen rund 53 % der Beschäftigten, aber nur rund 41 % der Wertschöpfung.",
       "assessmentBasis": "Pressebericht über eine Datev-Studie; KMU-Abgrenzung laut Bericht in der Regel bis 500 Beschäftigte.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -14839,6 +14886,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Im November 2026 berichtete dpa, dass Betriebsräte und IG Metall wegen der Produktionskürzungen im VW-Werk Zwickau vor dem Verlust von Hunderten bis Tausenden Stellen bei Zulieferern und Logistikern warnen; anders als bei VW gibt es dort keine Beschäftigungssicherung. Die Richtung der Aussage ist damit gestützt. Die gelesenen Berichte nennen aber keinen konkreten Zulieferer mit bereits vollzogenem Abbau, sondern Befürchtungen vor allem für 2027; dass die Entwicklung „nach und nach weitere Betriebe“ erreicht, wird nur allgemein beschrieben.",
+      "shortReason": "Gewerkschaften warnen vor Stellenabbau bei VW-Zulieferern, vor allem für 2027; vollzogenen Abbau nennen die Berichte nicht.",
       "assessmentBasis": "Zwei dpa-Berichte vom 12./13.11.2026 gelesen; keine Unternehmensmitteilungen einzelner Zulieferer und keine Arbeitsmarktstatistik gelesen.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -14894,6 +14942,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "KfW Research meldet erneut wachsende Pläne, Betriebe ohne Nachfolgelösung stillzulegen: rund ein Viertel der Unternehmen, etwa 114.000 pro Jahr bis 2029. Pläne sind keine vollzogenen Schließungen. Häufigster Grund ist laut Meldung das Alter, nicht ausdrücklich ein erfolglos gesuchter Nachfolger. Der Trend ist gestützt, der unterstellte Mechanismus nur teilweise.",
+      "shortReason": "Viele Schließungen ohne Nachfolge sind geplant; häufigster Grund ist laut KfW aber das Alter, nicht ein erfolglos gesuchter Nachfolger.",
       "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -15019,6 +15068,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Lohnsteuer- und Umsatzsteuerabführung gehört zum gewöhnlichen Pflichtenkreis eines Arbeitgebers und Händlers; der Umsatzsteuerregelsatz beträgt 19 Prozent. Die Alkoholsteuer beträgt 1.303 Euro je Hektoliter reinen Alkohols. Ob das Unternehmen sie selbst als Steuerschuldner abführt (etwa als Empfänger aus anderen Mitgliedstaaten) oder sie im Einkaufspreis trägt, wurde nicht geprüft. Die Sozialabgaben sind keine Steuern im rechtlichen Sinn.",
+      "shortReason": "Lohn- und Umsatzsteuer abzuführen ist üblich; ob die Firma die Alkoholsteuer selbst abführt, ist offen, Sozialabgaben sind keine Steuern.",
       "assessmentBasis": "Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 4 einzeln migriert",
@@ -15232,6 +15282,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Laut amtlicher Reihe betrugen die Zinsausgaben 2022 15,3, 2023 37,6 und 2024 34,2 Milliarden Euro. Ein Wert um 17 Milliarden passt allenfalls zum ersten Ampeljahr, nicht zum Ende der Regierung. Die Zeitzuordnung ist falsch.",
+      "shortReason": "Die Zinsausgaben lagen 2023 bei 37,6 und 2024 bei 34,2 Mrd. Euro; rund 17 Mrd. passen allenfalls zum ersten Ampeljahr.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -15307,6 +15358,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der vorläufige Ist-Wert 2025 beträgt 29,9, das Soll 2026 30,3 Milliarden Euro; der höchste ausgewiesene Wert war 37,6 Milliarden (2023). 40 Milliarden liegen über allen ausgewiesenen Jahreswerten, und das Verhältnis zu 2021 beträgt eher das Sieben- bis Achtfache. Die 2025 eingeführte periodengerechte Buchung senkt laut Bundesrechnungshof den Ausweis und erschwert den Vergleich; deshalb keine vollständige Widerlegung, aber die Zahl ist ohne diesen Kontext überhöht.",
+      "shortReason": "Ausgewiesen sind rund 30 Mrd. Euro für 2025 und 2026, etwa das Sieben- bis Achtfache von 2021, nicht 40 Mrd. und das Zehnfache.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -15358,6 +15410,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die Kreditaufnahmeberichte weisen die durchschnittliche Restlaufzeit des Schuldenportfolios ohne Zinsswaps für Ende 2021 mit 6,90, Ende 2024 mit 7,63 und Ende 2025 mit 7,76 Jahren aus. Die Restlaufzeit ist während der Ampeljahre gestiegen. Einzelne Emissionen können kürzer sein, eine Durchschnittslaufzeit um 3,7 Jahre ist jedoch nicht zutreffend. Der Gast nannte die Zahl mit Vorbehalt.",
+      "shortReason": "Die durchschnittliche Restlaufzeit der Bundesschulden lag Ende 2025 bei 7,76 Jahren und ist gestiegen, nicht bei 3,7.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -15690,6 +15743,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Artikel 143h GG schafft ein Sondervermögen bis 500 Milliarden Euro für zusätzliche Investitionen in Infrastruktur und Klimaneutralität. Für Verteidigung gibt es kein Sondervermögen, sondern nach Artikel 115 GG eine Ausnahme: Ausgaben oberhalb von 1 Prozent des BIP werden nicht auf die Schuldenregel angerechnet, ohne betragsmäßige Obergrenze. Unbegrenzt trifft insofern zu, Sonderschulden ist eine verkürzte Bezeichnung.",
+      "shortReason": "Das 500-Mrd.-Sondervermögen gibt es; für Verteidigung gibt es kein Sondervermögen, sondern eine unbegrenzte Ausnahme von der Schuldenregel.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -15745,6 +15799,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "ifo errechnet eine Zweckentfremdung von 95 Prozent: 24,3 Milliarden Euro zusätzlichen Schulden standen nur 1,3 Milliarden Euro zusätzliche Investitionen gegenüber, weil Investitionen im Kernhaushalt sanken. Das betrifft fehlende Zusätzlichkeit, nicht die Art der aus dem Sondervermögen bezahlten Ausgaben. Die Kurzform Konsum ist eine Vereinfachung; der Kern der Kritik ist richtig wiedergegeben.",
+      "shortReason": "ifo errechnet 95 % fehlende Zusätzlichkeit, weil Kerninvestitionen sanken; „Konsum“ ist eine Vereinfachung.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -16051,6 +16106,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Als allgemeine Aussage über Deutschland trifft das nicht zu. Laut Bundesagentur für Arbeit (Juni 2024) hatten rund 21,5 Prozent der Beschäftigten in Bau- und Ausbauberufen keine deutsche Staatsangehörigkeit, mit Entsandten knapp ein Viertel. Die größten Herkunftsländer sind danach Rumänien, Polen und die Balkanstaaten; Tschechien und die Slowakei werden nicht als Hauptherkunft genannt. Eine örtliche Beobachtung des Sprechers auf bestimmten Baustellen kann davon abweichen, ist aber nicht prüfbar.",
+      "shortReason": "Die meisten ausländischen Bauarbeitskräfte kommen aus Rumänien, Polen und den Balkanstaaten, nicht aus Tschechien und der Slowakei.",
       "assessmentBasis": "Branchendossier mit BA- und SOKA-BAU-Daten; keine Länderzahlen je Staatsangehörigkeit gelesen.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -16201,6 +16257,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Laut ONS lag die britische Nettoschuld des öffentlichen Sektors ohne öffentliche Banken Ende Juni 2026 bei 94,9 Prozent des BIP. Auch der ausgewiesene Bruttoschuldstand liegt rechnerisch (Verhältnis zur Nettoschuld) bei rund 101 Prozent. Ein Maß bei 114 Prozent findet sich in der gelesenen Veröffentlichung nicht.",
+      "shortReason": "Die britische Nettoschuld lag Mitte 2026 bei 94,9 % des BIP, brutto bei rund 101 %, nicht bei 114 %.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -16252,6 +16309,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Eurostat nennt für Spanien 101,4 Prozent. Das ist hoch, aber deutlich unter den zuvor genannten 114 bis 120 Prozent.",
+      "shortReason": "Spanien liegt bei 101,4 %; das ist hoch, aber deutlich unter den zuvor genannten 114 bis 120 %.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -16303,6 +16361,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Eurostat weist 63,5 Prozent (Q1 2026) und 63,4 Prozent (Q2 2026) aus. Die Aussage, Deutschland liege deutlich unter Frankreich und Spanien, trifft zu; der genannte Wert ist um rund fünf Prozentpunkte zu hoch.",
+      "shortReason": "Eurostat nennt für 2026 rund 63,5 %; der genannte Wert ist etwa fünf Punkte zu hoch.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -16402,6 +16461,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "In den gelesenen Quellen findet sich keine allgemeine Übernahme früher von USAID finanzierter Programme durch Deutschland. Die SWP beschreibt im April 2025 erwartete Kürzungen auch bei europäischen Gebern und fordert lediglich, Folgen abzufedern; Deutschland sagte im Oktober 2025 trotz Haushaltskürzungen 1 Mrd. Euro für den Globalen Fonds 2026–2028 zu, ohne dass dies als Ersatz für US-Mittel ausgewiesen ist. Ob einzelne frühere USAID-Projekte von Deutschland weitergeführt werden, bleibt ohne konkrete Programme und Beträge offen. Eine zweite Recherche (BMZ-Reformstrategie laut Devex, Januar 2026) nennt ebenfalls keine Übernahme konkreter USAID-Programme.",
+      "shortReason": "In den gelesenen Quellen findet sich keine Übernahme konkreter USAID-Programme durch Deutschland.",
       "assessmentBasis": "SWP-Analyse (04/2025) und dpa-Bericht zur Zusage an den Globalen Fonds (10/2025) gelesen; keine Haushaltstitel des BMZ geprüft.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -16490,6 +16550,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Größenordnung der Pflichtbeiträge stimmt: rund 0,59 Milliarden Euro 2024 und gut 0,8 Milliarden 2025. Freiwillige Beiträge sind tatsächlich ein Vielfaches davon. Insgesamt zahlte der Bund aber 4,16 Milliarden Euro (2024) und 3,24 Milliarden (2025), also nicht „etwa fünf Milliarden“ freiwillig; die freiwilligen Anteile lagen bei rund 3,6 beziehungsweise 2,4 Milliarden.",
+      "shortReason": "Pflichtbeiträge von rund 0,6 bis 0,8 Mrd. Euro stimmen; freiwillig zahlte Deutschland aber 2,4 bis 3,6 Mrd., nicht etwa fünf.",
       "assessmentBasis": "Bundestagsmeldung zur Unterrichtung 21/7580 und Presseaufschlüsselung derselben Zahlen; dazu die bereits gelesene Seite des Auswärtigen Amts.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -16755,6 +16816,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Eine EZB-Rede von 2019 nennt für den Euroraum rund 55 Prozent Bankanteil an der Fremdfinanzierung, für die USA rund 30 Prozent Banken und 70 Prozent Nichtbanken. Der Unterschied besteht, ist aber kleiner als genannt. Nichtbanken-Finanzierung besteht überwiegend aus Anleihen und ist nicht gleich Wagniskapital.",
+      "shortReason": "Laut EZB liegt der Bankanteil bei rund 55 % im Euroraum und 30 % in den USA; Nichtbanken-Finanzierung ist meist Anleihen, kein Wagniskapital.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -16806,6 +16868,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Gemeint ist erkennbar das PEPP der EZB. Es war ein öffentlich angekündigtes Wertpapierankaufprogramm über bis zu 1,85 Billionen Euro, keine Eigenkapitalzuführung an Banken. Dass Ankaufprogramme die Finanzierungsbedingungen auch für Banken verbesserten, ist plausibel; eine verdeckte Rekapitalisierung ist damit nicht belegt.",
+      "shortReason": "Das EZB-Pandemieprogramm war öffentlich angekündigt und ein Anleihekaufprogramm, keine verdeckte Rekapitalisierung von Banken.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -16905,6 +16968,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Zum Aufnahmezeitpunkt war der jüngste Wert August 2026 mit 2,9 Prozent. Der Septemberwert von 3,3 Prozent wurde erst am 30.09.2026 veröffentlicht. Ein Wiederanstieg ist zutreffend, die Höhe lag zum Aufnahmezeitpunkt knapp unter drei Prozent.",
+      "shortReason": "Die Inflation stieg wieder, lag zum Aufnahmezeitpunkt mit 2,9 % aber knapp unter drei Prozent.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -17182,6 +17246,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Auktionsliste der Finanzagentur zeigt im April 2026 mehrere Auktionen mit Geboten unter dem Emissionsvolumen; zugeteilt wurden etwa 76 Prozent (01.04., siebenjährige Bundesanleihe), 52 Prozent (07.04., grüne 30-jährige) und 79 Prozent (14.04., Bobl). Die Größenordnung trifft zu. Der Rest geht als Marktpflegequote an den Bund und wird später verkauft; daraus folgt kein Finanzierungsengpass. Ähnliche Ergebnisse gab es auch im März 2026, eine Seltenheit ist daher nicht belegt. Eine vorgezogene Folgeauktion wurde nicht geprüft.",
+      "shortReason": "Im April 2026 wurden teils nur 52 bis 79 % zugeteilt; der Rest geht an den Bund, ein Finanzierungsengpass folgt daraus nicht.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -17235,6 +17300,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Die gelesenen Einzelberichte ergeben kein klares Bild: 2019 war eine zehnjährige Bundesanleihe 2,4-fach gedeckt, 2012 und 2020 gab es aber auch unterdeckte Bund-Auktionen. 2026 liegen die Deckungsquoten bei Bundesanleihen meist zwischen 1,0 und 1,8. Eine Zeitreihe, die eine frühere regelmäßige zwei- bis dreifache Überzeichnung belegt oder widerlegt, wurde nicht gefunden. Eine zweite Recherche mit Primärdaten der Bundesbank ergab für zehnjährige Bund-Auktionen 2011, 2015 und 2016 Deckungsquoten von 1,2 bis 1,9. Diese Stichproben sprechen eher gegen eine regelmäßige zwei- bis dreifache Überzeichnung, ersetzen aber keine vollständige Zeitreihe.",
+      "shortReason": "Eine Zeitreihe fehlt; Stichproben früherer Jahre zeigen eher 1,2- bis 1,9-fache Deckung als regelmäßig zwei- bis dreifache.",
       "assessmentBasis": "Auktionsliste 2026 der Finanzagentur sowie Marktberichte von 2012, 2019 und 2020 gelesen; keine durchgehende Zeitreihe.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -17348,6 +17414,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Studien zu Staatenratings finden eine deutliche gegenseitige Abhängigkeit: Nach einer Herabstufung durch eine Agentur werden Herabstufungen durch andere Agenturen wahrscheinlicher (Alsakka/ap Gwilym 2010). Eine EZB-Studie zu europäischen Daten findet aber, dass die Agenturen innerhalb von ein bis zwei Wochen aufeinander reagieren, ohne feste Führungsrolle einer Agentur. Dass andere Agenturen regelmäßig folgen, ist damit gestützt; die genannte Frist von einem Viertel- bis halben Jahr als Erfahrungsregel ist mit den gelesenen Quellen nicht belegt, und ein Nachziehen ist keine feste Regel.",
+      "shortReason": "Andere Agenturen folgen oft, laut EZB-Studie aber innerhalb von ein bis zwei Wochen, nicht nach einem Viertel- bis halben Jahr.",
       "assessmentBasis": "Kurzfassung von Alsakka/ap Gwilym (2010) und EZB-Working-Paper 1347 (Afonso/Furceri/Gomes 2011), Abschnitt 4.3, gelesen; Volltext der erstgenannten Studie nicht zugänglich.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -17403,6 +17470,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Bundesregierung bestätigt eine Energiesteuersenkung um 14 Cent je Liter vom 1. Oktober bis Jahresende 2026; befristet trifft zu. Ob sie geringer ist als zusätzliche Umsatzsteuereinnahmen durch höhere Spritpreise, wurde nicht berechnet.",
+      "shortReason": "Die befristete Senkung um 14 Cent ab 1. Oktober ist belegt; der Vergleich mit Mehrwertsteuer-Mehreinnahmen wurde nicht berechnet.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -17456,6 +17524,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der Gesetzentwurf belastet Versicherte (höhere Zuzahlungen, Beitragszuschlag, Anhebung der Beitragsbemessungsgrenze). Laut Ministerium entfallen aber rund 70 Prozent der Entlastung 2030 auf Ausgabenbegrenzungen bei Leistungserbringern. Ausschließlich mehr vom Bürger trifft deshalb nicht zu; der Status ist ein Entwurf.",
+      "shortReason": "Versicherte werden stärker belastet, rund 70 % der Entlastung entfallen laut Entwurf aber auf Ausgabenbegrenzungen bei Leistungserbringern.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -17682,6 +17751,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Nach der ESMT-Studie (Rocholl/Stahmer 2016) flossen von rund 216 Mrd. Euro der ersten beiden Programme weniger als 5 % in den griechischen Haushalt für andere Zwecke als den Schuldendienst; rund 64 % dienten Tilgung und Zinsen, rund 17 % der Rekapitalisierung griechischer Banken und rund 14 % dem Schuldenschnitt privater Gläubiger 2012. Dass vor allem Gläubiger, darunter Banken, profitierten, ist damit gut gestützt. Die Gegenposition, ein ungeordneter Staatsbankrott hätte auch Griechenland selbst schwer getroffen, wird in der Debatte ebenfalls vertreten; „nicht Griechenland gerettet“ ist daher eine Deutung. Lebensversicherer werden in den gelesenen Quellen nicht eigens beziffert.",
+      "shortReason": "Laut Studie dienten rund 64 % der Hilfen Tilgung und Zinsen, Gläubiger profitierten stark; „nicht Griechenland gerettet“ bleibt Deutung.",
       "assessmentBasis": "Debattenbeitrag des INET mit den Zahlen der ESMT-Studie und Dokumentation der Blätter gelesen; Vollstudie nicht gelesen.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -17785,6 +17855,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Ein wahrer Kern besteht: Mit der Personalabbauverordnung vom 27. Oktober 1923 wurden in den folgenden Monaten rund 400.000 Beamte, Angestellte und Arbeiter des öffentlichen Dienstes entlassen. Das war nach den Wissenschaftlichen Diensten des Bundestages rund ein Viertel der Beschäftigten, nicht die Hälfte. Zudem war es eine Verordnung, kein Gesetz; Gehälter wurden zugleich gekürzt.",
+      "shortReason": "1923 wurden per Verordnung rund 400.000 Beschäftigte entlassen, etwa ein Viertel, nicht die Hälfte.",
       "assessmentBasis": "Darstellung der Wissenschaftlichen Dienste des Bundestages (10/2023) gelesen; Zahlen für einzelne Verwaltungen nicht geprüft.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -17838,6 +17909,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Laut Alterssicherungsbericht 2024 lagen die durchschnittlichen Ruhegehälter von Bundes- und Landesbeamten ab 65 je nach Gruppe zwischen rund 3.000 und 3.800 Euro brutto und damit deutlich über typischen gesetzlichen Renten. Ein amtlicher Rentendurchschnitt und die Qualifikationsstruktur wurden nicht gelesen.",
+      "shortReason": "Ruhegehälter von rund 3.000 bis 3.800 Euro liegen über typischen Renten; die Ausbildung wurde nicht geprüft.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -17889,6 +17961,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die EZB schließt programmierbares Geld mit Einschränkungen, wo oder wofür es verwendet wird, ausdrücklich aus. Für das veröffentlichte Konzept trifft die Behauptung nicht zu. Ein künftiger Missbrauch durch geänderte Gesetze ist eine Hypothese, keine gegenwärtige Funktion.",
+      "shortReason": "Die EZB schließt programmierbares Geld mit Verwendungsbeschränkungen für den digitalen Euro ausdrücklich aus.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -17940,6 +18013,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die EZB sieht begrenzte Haltebeträge vor (getestet bis 3.000 Euro je Person). Eine Obergrenze für das Halten trifft damit zu; sie begrenzt aber nicht Bargeld- oder Kontoabhebungen allgemein.",
+      "shortReason": "Eine Haltegrenze ist vorgesehen (getestet bis 3.000 Euro), aber keine allgemeine Begrenzung von Abhebungen.",
       "assessmentBasis": "Kapitel-5-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:27:58–01:48:29 mit Anschlusskontext 01:27:30–01:49:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -18039,6 +18113,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Ein Kaufkraftüberhang in der DDR ist belegt: Haushalte hielten mehr Geld, als sie mangels Warenangebot ausgeben konnten (zurückgestaute Inflation). Bei der Währungsunion am 1. Juli 1990 wurden Guthaben nach Alter bis 2.000, 4.000 oder 6.000 Mark 1:1 umgestellt, darüber 2:1. Dass die Menschen damit plötzlich Autos kauften, ist in den gelesenen Quellen nicht belegt; die Leipziger Zeitung beschreibt eher, dass ein Kaufrausch ausblieb.",
+      "shortReason": "Den Kaufkraftüberhang in der DDR gab es; ein Autokaufrausch nach der Währungsunion ist nicht belegt.",
       "assessmentBasis": "Fachbeitrag in APuZ (1998) und Rückblick der Leipziger Zeitung (2020) gelesen; keine Zulassungs- oder Absatzstatistik für Autos 1990 gelesen.",
       "migration": {
         "changeType": "Kapitel 5 einzeln migriert",
@@ -18147,6 +18222,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die EZB-Präsidenten werden vom Europäischen Rat, also von den Staats- und Regierungschefs, mit qualifizierter Mehrheit ernannt; insofern ist die Besetzung ein politischer Vorgang. Danach sind sie für acht Jahre ohne Wiederernennung im Amt und weisungsfrei. Die Aussage verschweigt diese vertraglichen Sicherungen.",
+      "shortReason": "Ernannt werden sie politisch durch den Europäischen Rat, danach aber für acht Jahre ohne Wiederwahl und weisungsfrei.",
       "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 6 einzeln migriert",
@@ -18253,6 +18329,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Lagarde wurde im Dezember 2016 vom Gerichtshof der Republik wegen Fahrlässigkeit im Zusammenhang mit der Tapie-Schiedszahlung über 403 Millionen Euro schuldig gesprochen, nicht wegen Veruntreuung. Das Gericht verhängte keine Strafe und ordnete keinen Registereintrag an; es gab deshalb nichts zu vollstrecken.",
+      "shortReason": "Lagarde wurde 2016 wegen Fahrlässigkeit schuldig gesprochen, nicht wegen Veruntreuung, und ohne Strafe; es gab nichts zu vollstrecken.",
       "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 6 einzeln migriert",
@@ -18359,6 +18436,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die EZB darf öffentliche Schuldtitel nicht unmittelbar erwerben und kaufte im Ankaufprogramm nur am Sekundärmarkt von anderen Marktteilnehmern gegen Zentralbankgeld. Dass Banken und Versicherer Anleihen nur gegen eine Gebühr zum Weiterreichen kaufen, belegen die gelesenen Quellen nicht.",
+      "shortReason": "Die EZB kauft nur am Zweitmarkt gegen Zentralbankgeld; eine Gebühr fürs Weiterreichen belegen die Quellen nicht.",
       "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 6 einzeln migriert",
@@ -18414,6 +18492,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Der Moderator fasst so zusammen, der Gast stimmt zu. Die EZB entscheidet selbst über Ankäufe und begrenzte sie im Programm auf höchstens 33 Prozent je Emission und Emittent. Eine unbegrenzte Finanzierung nach Wunsch einer Regierung ist mit diesen Regeln nicht vereinbar.",
+      "shortReason": "Die EZB entscheidet selbst über Ankäufe und begrenzte sie auf höchstens 33 % je Emission; unbegrenzt ist das nicht.",
       "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 6 einzeln migriert",
@@ -18537,6 +18616,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Destatis meldet für 2024 ein Plus von 95.900 und für 2025 ein Plus von 95.100 Beschäftigten im öffentlichen Dienst, vor allem in Bildung und Kinderbetreuung. Die Größenordnung trifft zu; es handelt sich überwiegend nicht um Beamte, sondern um alle Beschäftigtengruppen.",
+      "shortReason": "Rund 95.000 neue Beschäftigte pro Jahr stimmen, überwiegend aber keine Beamten.",
       "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 6 einzeln migriert",
@@ -18691,6 +18771,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Für den Staat trifft die Messlogik zu: Seine Leistung wird zu Kosten bewertet, Lohnzahlungen erhöhen daher die gemessene Produktion. Im Unternehmen senkt ein untätiger Mitarbeiter den Gewinn, aber nicht die gemessene Wertschöpfung um seinen Lohn; die Gegenüberstellung von minus und plus 200 Euro vermischt Gewinn und BIP.",
+      "shortReason": "Beim Staat stimmt die Messlogik; im Unternehmen sinkt der Gewinn, nicht die gemessene Wertschöpfung um den Lohn.",
       "assessmentBasis": "Kapitel-6-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:48:29–02:05:02 mit Anschlusskontext 01:48:00–02:05:30 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 6 einzeln migriert",
@@ -18906,6 +18987,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Fachartikel für Apothekenpersonal bestätigen, dass Rindertalg als tierisches Fett dem menschlichen Hautfett ähnelt und Fettsäuren sowie etwas Vitamin A und E enthält. Am nächsten ist er dem Hautfett danach aber nicht (Schweineschmalz gilt als ähnlicher), die Vitaminmengen sind für eine Hautwirkung zu gering, und gegenüber pflanzlichen Fetten zeigen Studien keinen Vorteil; wegen seines hohen Anteils gesättigter Fettsäuren kann er Poren verstopfen. Die Werbeaussage stellt ihn damit deutlich günstiger dar, als die Fachquellen es tun.",
+      "shortReason": "Rindertalg ähnelt Hautfett, ist ihm aber nicht am nächsten; die Vitaminmengen sind zu gering, und er kann Poren verstopfen.",
       "assessmentBasis": "Zwei pharmazeutische Fachartikel (PTAheute 07/2025, apotheken.de 09/2025) gelesen; keine Primärstudien zur Lipidzusammensetzung.",
       "migration": {
         "changeType": "Kapitel 6 einzeln migriert",
@@ -19153,6 +19235,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Bauzinsen sind 2026 deutlich gestiegen: Zehnjährige Darlehen kosteten im Herbst rund 4,3 bis 4,5 Prozent, den höchsten Stand seit 2009 bzw. 2011. Das trifft aber nur Käufer mit neuer Finanzierung und Eigentümer, deren Zinsbindung ausläuft (Anschlussfinanzierung); wer eine laufende Zinsbindung hat, zahlt bis zu deren Ende den vereinbarten Zins. Bei der Grundsteuer meldet der Eigentümerverband Haus & Grund für rund 80 Prozent der von ihm ausgewerteten Bescheide eine Erhöhung nach der Reform 2025; die Stichprobe ist aber nicht repräsentativ, und für rund ein Fünftel sank die Steuer. Die Aussage trifft damit auf viele, aber nicht pauschal auf alle Immobilienfinanzierer zu.",
+      "shortReason": "Höhere Zinsen treffen nur neue oder auslaufende Finanzierungen; die Grundsteuer stieg für viele, aber nicht für alle.",
       "assessmentBasis": "Zwei Fachberichte zu Bauzinsen (Biallo 10/2026, Haufe/dpa 10/2026) sowie Bericht und Auswertung von Haus & Grund zur Grundsteuer gelesen. Keine amtliche Statistik zum Grundsteueraufkommen und keine Bundesbank-Zinsstatistik gelesen.",
       "migration": {
         "changeType": "Kapitel 6 einzeln migriert",
@@ -19706,6 +19789,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Gast äußert dies mit Unsicherheit. Der Gesetzentwurf sieht laut Bundesgesundheitsministerium einen Beitragszuschlag von 2,5 Prozent für mitversicherte Partner ohne eigenes Einkommen vor, berechnet auf das Einkommen des Hauptversicherten. Ein Beitrag für die Mitversicherung ist damit vorgesehen; er ist nicht von der Ehefrau selbst aus eigenem Einkommen zu zahlen, und der Stand ist ein Entwurf.",
+      "shortReason": "Geplant ist ein Zuschlag von 2,5 % auf das Einkommen des Hauptversicherten, nicht ein eigener Beitrag der Ehefrau; es ist ein Entwurf.",
       "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
@@ -19853,6 +19937,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die Monroe-Doktrin wurde am 2. Dezember 1823 verkündet, nicht 1826. Sie enthielt die Selbstverpflichtung, sich nicht in europäische Angelegenheiten einzumischen, aber zugleich den Anspruch, dass Europa keine neuen Kolonien in Amerika gründen und dort nicht intervenieren solle. Eine allgemeine Nichteinmischung überall gibt den Inhalt verkürzt wieder.",
+      "shortReason": "Die Monroe-Doktrin stammt von 1823 und beanspruchte zugleich, Europa aus Amerika herauszuhalten; keine allgemeine Nichteinmischung.",
       "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
@@ -19952,6 +20037,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die gemessenen Kompetenzen von Schülerinnen und Schülern sinken: Der IQB-Bildungstrend 2024 fand bei Neuntklässlern deutliche Rückgänge in Mathematik und den Naturwissenschaften seit 2018, auch am Gymnasium. Formale Abschlüsse nehmen dagegen nicht ab; die Zahl der Hochschulabschlüsse stieg 2025 das zweite Jahr in Folge. Ob der „durchschnittliche Bildungsstand der Bevölkerung“ sinkt, hängt damit vom Maßstab ab: Für Schulleistungen ist die Aussage gestützt, für formale Bildungsabschlüsse nicht.",
+      "shortReason": "Schulleistungen sinken laut IQB-Bildungstrend; formale Abschlüsse nehmen dagegen nicht ab.",
       "assessmentBasis": "KMK-Mitteilung zum IQB-Bildungstrend 2024 und Bericht zur Hochschulabschlussstatistik 2025 gelesen; keine Bevölkerungsstatistik zum Bildungsstand (Mikrozensus) und keine Erwachsenenkompetenzstudie gelesen.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
@@ -20007,6 +20093,7 @@
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
       "reason": "Die gelesene Befragung (2015) bestätigt, dass Hochqualifizierte unter Auswandernden überrepräsentiert sind, sieht aber eine „Brain Circulation“ ohne Anzeichen eines dauerhaften Weggangs. Eine Zeitreihe, die eine zunehmende Auslandsorientierung von Absolventen wegen schwieriger Jobsuche für die Zeit um 2026 zeigt, wurde nicht gefunden. Eine zweite Recherche zeigt 2025 eine Rekordzahl deutscher Fortzüge und einen hohen Akademikeranteil unter Auswandernden; dass Absolventen zunehmend wegen schwieriger Jobsuche gehen, wird darin nicht belegt, sondern nur als Risiko genannt.",
+      "shortReason": "Fortzüge erreichten 2025 einen Rekord mit hohem Akademikeranteil; dass Absolventen wegen schwieriger Jobsuche gehen, ist nicht belegt.",
       "assessmentBasis": "Pressemitteilung und Studienseite zur Befragung von 2015 gelesen; keine aktuellen Absolventenbefragungen.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
@@ -20090,6 +20177,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Destatis weist für 2024 269.986 und für 2025 288.579 Fortzüge Deutscher aus. Der Anstieg trifft zu; der Wert für 2024 ist um rund 10.000 zu hoch angegeben.",
+      "shortReason": "Der Anstieg stimmt, 2024 waren es aber rund 270.000 Fortzüge Deutscher, 2025 rund 289.000.",
       "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
@@ -20141,6 +20229,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Eine BiB-Befragung von 2018/19 ergab, dass drei Viertel der befragten Aus- und Rückwanderer einen Hochschulabschluss haben. Die Größenordnung ist damit gestützt; es handelt sich um eine ältere Befragung, nicht um die Fortzüge 2025.",
+      "shortReason": "Eine Befragung von 2018/19 fand drei Viertel Akademiker; die Zahl ist älter und gilt nicht für die Fortzüge 2025.",
       "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
@@ -20194,6 +20283,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Rechnerisch entsprechen 288.579 Fortzüge rund 44 Prozent der 654.241 Geburten 2025 und rund 32 bis 38 Prozent der Jahrgänge 1990 bis 1999. Die Gesprächspartner korrigieren den Bezug selbst auf frühere Jahrgänge. Fortziehende stammen aber aus vielen Jahrgängen, und jährlich kehren rund 190.000 Deutsche zurück; ein Anteil eines einzelnen Jahrgangs, der dauerhaft geht, folgt daraus nicht.",
+      "shortReason": "Fortziehende stammen aus vielen Jahrgängen, und jährlich kehren rund 190.000 Deutsche zurück; ein Jahrgangsanteil folgt daraus nicht.",
       "assessmentBasis": "Kapitel-7-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:05:02–02:17:49 mit Anschlusskontext 02:05:00–02:18:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
@@ -20308,6 +20398,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die einzige gelesene Befragung von Rückkehrern (SVR, BiB und Universität Duisburg-Essen, 2015) zeichnet ein anderes Bild: Rückwanderer sind deutlich jünger als die Gesamtbevölkerung und zu rund 64 % hochqualifiziert; meist kehren sie aus familiären oder beruflichen Gründen zurück. Für eine typischerweise ältere, gescheiterte Rückkehrergruppe, die ins Sozialsystem kommt, gibt es dort keinen Anhaltspunkt. Die Studie ist nicht repräsentativ und enthält keine Angaben zum Bezug von Sozialleistungen.",
+      "shortReason": "Laut Befragung sind Rückkehrer deutlich jünger als der Durchschnitt und zu rund 64 % hochqualifiziert.",
       "assessmentBasis": "Pressemitteilung und Studienseite zur Befragung von 2015 gelesen; spätere GERPS-Ergebnisse nicht gelesen.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
@@ -20365,6 +20456,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Berufliche Gründe sind laut der Befragung von 2015 eines der wichtigsten Auswanderungsmotive (rund 67 %), ebenso ein höheres Einkommen im Ausland (rund 47 %). Noch häufiger genannt wurde aber der Wunsch nach neuen Erfahrungen (rund 72 %). Dass Hochqualifizierte vor allem gehen, weil sie im Inland keinen passenden Job finden, wird so nicht erhoben; Auswanderung ist nach der Studie überwiegend befristet.",
+      "shortReason": "Berufliche Gründe sind wichtig, häufiger genannt werden aber neue Erfahrungen; fehlende passende Jobs im Inland wurden nicht erhoben.",
       "assessmentBasis": "Pressemitteilung und Studienseite zur Befragung von 2015 gelesen.",
       "migration": {
         "changeType": "Kapitel 7 einzeln migriert",
@@ -20954,6 +21046,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Je nach Maßstab: Der Bürokratiekostenindex des Statistischen Bundesamtes, der die Kosten von Informations- und Meldepflichten misst, ist seit seiner Einführung 2012 gesunken; nach diesem Maß hat Bürokratie also abgenommen. Der umfassendere Erfüllungsaufwand ist dagegen in den letzten Jahren gestiegen. Die absolute Aussage „nie abgenommen“ trifft so nicht zu; dass die Belastung insgesamt zuletzt gestiegen ist, ist belegt. Der Gast spricht ausdrücklich von seiner Wahrnehmung.",
+      "shortReason": "Die Kosten von Meldepflichten sind seit 2012 gesunken; der gesamte Erfüllungsaufwand stieg zuletzt aber.",
       "assessmentBasis": "KfW-Research-Analyse (04/2025) gelesen; Indexwerte je Regierung nicht einzeln gelesen.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -21062,6 +21155,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Bundesrat schlägt ein fakultatives Staatsvertragsreferendum vor; eine Volksabstimmung findet dann nur statt, wenn das Referendum ergriffen wird. Über die Referendumsart entscheidet das Parlament. Eine Abstimmung ist damit möglich und politisch erwartbar, aber nicht zwingend vorgeschrieben.",
+      "shortReason": "Vorgesehen ist ein fakultatives Referendum; abgestimmt wird nur, wenn es ergriffen wird, das Parlament entscheidet über die Art.",
       "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -21257,6 +21351,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Das als Ten Pound Poms bekannte australische Programm begann 1945, nicht um 1870. Teilnehmende mussten zwei Jahre bleiben oder die Überfahrt zurückzahlen; eine Rückreise kostete ein Vielfaches. Unmöglich war die Rückkehr also nicht, und die Jahresangabe stimmt nicht.",
+      "shortReason": "Das Zehn-Pfund-Programm begann 1945, nicht um 1870, und eine Rückkehr war möglich, nur teuer.",
       "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -21308,6 +21403,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Name ist in der Automatik verballhornt. Rolf Dobelli beschreibt in einem gelesenen Essay von 2019, dass er seit fast zehn Jahren keine Nachrichten liest, und empfiehlt ein anderes Format. Der Kern der Empfehlung ist damit gestützt; der genannte Titel erscheint auf den gelesenen Seiten nicht.",
+      "shortReason": "Dobelli empfiehlt in einem Essay von 2019, auf Nachrichten zu verzichten; der genannte Titel fand sich nicht.",
       "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -21527,6 +21623,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Für Vorlesungsmitschriften von Studierenden gibt es Belege für einen kleinen Vorteil der Handschrift: Eine Metaanalyse von 2024 über 24 Studien fand bessere Testleistungen (kleiner Effekt). Eine direkte Replikation der bekanntesten Studie fand dagegen keinen Vorteil. Als allgemeine Gedächtnisregel ist die Aussage damit zu weit; im Kern der Mitschriften-Forschung ist sie teilweise gestützt.",
+      "shortReason": "Für Vorlesungsmitschriften gibt es einen kleinen Vorteil der Handschrift; eine allgemeine Gedächtnisregel ist das nicht.",
       "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -21610,6 +21707,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Schwarzeneggers Vater war örtlicher Polizeichef, und Schwarzenegger war von 2003 bis 2011 Gouverneur Kaliforniens. Die Liste mit fünf Zielen fand sich im gelesenen Teil der Quelle nicht.",
+      "shortReason": "Vater als Polizeichef und Gouverneursamt 2003 bis 2011 stimmen; die Liste mit fünf Zielen fand sich nicht.",
       "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -21760,6 +21858,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Seit 2026 beträgt die maximale Bemessungsgrundlage 12 Millionen Euro; für kleine und mittlere Unternehmen gilt ein Satz von 35 Prozent. Das ergibt rechnerisch 4,2 Millionen Euro, aber nur für KMU; größere Unternehmen erhalten 25 Prozent. Aufwendungen können innerhalb der vierjährigen Festsetzungsfrist geltend gemacht werden, für 2022 also noch bis Ende 2026. Die Werbeaussage ist im Kern zutreffend, lässt aber die Begrenzung auf KMU weg.",
+      "shortReason": "4,2 Mio. Euro gelten nur für kleine und mittlere Unternehmen; rückwirkend für 2022 ist es noch bis Ende 2026 möglich.",
       "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -22089,6 +22188,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Für die erste private Axiom-Mission mit SpaceX zur ISS zahlten die Teilnehmenden 2021 rund 55 Millionen US-Dollar pro Person. Die genannte Größenordnung von etwa 40 Millionen liegt darunter; aktuelle Preise sind nicht veröffentlicht.",
+      "shortReason": "Die erste private Axiom-Mission kostete 2021 rund 55 Mio. Dollar pro Person; aktuelle Preise sind nicht veröffentlicht.",
       "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -22140,6 +22240,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Gemeint sind Experimente nach Libet. Eine Übersichtsarbeit von 2021 hält das Bereitschaftspotenzial möglicherweise für ein Artefakt der Mittelung und Libets Methodik für fehlerhaft. Dass Gedanken nachweislich vor dem Bewusstsein entstehen, ist deshalb keine gesicherte Erkenntnis.",
+      "shortReason": "Die Libet-Experimente sind methodisch umstritten; dass Gedanken vor dem Bewusstsein entstehen, ist nicht gesichert.",
       "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -22191,6 +22292,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Für den zweiten Teil gibt es einen bekannten Beleg: In der Lübecker Studie (Wagner, Born u. a., Nature 2004) fanden nach einer Nacht Schlaf rund 60 % der Teilnehmenden eine verborgene Abkürzung in einer Rechenaufgabe, nach gleich langer Wachzeit nur rund 20 %. Schlaf kann also das Finden von Lösungen fördern. Dass das Gehirn nachts „Ballast aussortiert“, ist eine starke Vereinfachung der Gedächtnisforschung und wurde nicht eigens geprüft.",
+      "shortReason": "Eine Studie zeigt, dass Schlaf das Finden von Lösungen fördern kann; „Ballast aussortieren“ ist stark vereinfacht.",
       "assessmentBasis": "Wissenschaftsbericht von Spektrum.de zur Studie gelesen; Originalaufsatz nicht gelesen.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -22690,6 +22792,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Moderator äußert sich unsicher. Die Wegzugsbesteuerung nach § 6 AStG erfasst nur Beteiligungen im Sinne von § 17 EStG; gewöhnliche Streubesitzdepots sind davon nicht betroffen. Die Schwelle in § 17 EStG wurde nicht gelesen, ebenso keine Regeln des Zuzugsstaates.",
+      "shortReason": "Die Wegzugsteuer erfasst nur größere Beteiligungen; gewöhnliche Aktiendepots sind davon nicht betroffen.",
       "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -22890,6 +22993,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Im Kern zutreffend: Jüdische Auswanderer wurden ab 1933 fiskalisch ausgeplündert (Reichsfluchtsteuer von 25 % des Vermögens, hohe Abgaben für Umzugsgut und Devisen, Sicherstellung von Besitz); wer blieb, wurde ab 1938 weiter enteignet und ab Ende 1941 deportiert. Die konkrete Schilderung, Flüchtenden sei Gold an der Grenze abgenommen worden, und der Zusammenhang „wegen Firmen und Häusern geblieben“ werden in den gelesenen Quellen nicht behandelt. Die Zeitangabe „vor hundert Jahren“ ist ungenau.",
+      "shortReason": "Ausplünderung der Auswanderer und Deportation der Gebliebenen sind belegt; die Goldabnahme an der Grenze nicht.",
       "assessmentBasis": "Darstellungen der Berliner Finanzverwaltung und des Deutschen Historischen Museums gelesen; keine Fachliteratur zu Kontrollen an der Grenze.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -23091,6 +23195,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Teilweise zutreffend: Merz hat Tafeln kurz vor der Aufnahme im Bundestag positiv erwähnt, allerdings nicht in einer Regierungserklärung, sondern in der Haushaltsrede vom 9. September 2026, und nicht in eigenen Worten: Er zitierte einen Brief, der Tafeln neben Vereinen und Nachbarschaftshilfe als Beispiel für Deutschlands Chancen nennt. Suppenküchen kommen dort nicht vor; die Regierungserklärung vom 9. Juli 2026 erwähnt weder Tafeln noch Suppenküchen.",
+      "shortReason": "Merz erwähnte Tafeln in der Haushaltsrede, aber in einem zitierten Brief und ohne Suppenküchen; nicht in der Regierungserklärung.",
       "assessmentBasis": "Kapitel-8-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:17:49–02:51:43 mit Anschlusskontext 02:17:30–02:52:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 8 einzeln migriert",
@@ -23862,6 +23967,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Laut Verteidigungsministerium lag der Einzelplan 14 2017 bei rund 37 und 2024 bei 51,95 Milliarden Euro, 2025 bei rund 62,4 Milliarden. Die höchsten Zinsausgaben des Bundes betrugen 37,6 Milliarden (2023). Die Größenordnungen passen zu den Jahren vor 2025; eine vollständige Jahresreihe wurde nicht gelesen, und Sondervermögen sind nicht eingerechnet.",
+      "shortReason": "Die Größenordnungen passen zu den Jahren vor 2025; 2025 lag der Wehretat schon bei rund 62 Mrd. Euro.",
       "assessmentBasis": "Kapitel-9-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:51:43–03:03:00 mit Anschlusskontext 02:51:30–03:03:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 9 einzeln migriert",
@@ -24159,6 +24265,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Im ARD-DeutschlandTrend vom September 2026 waren 84 Prozent mit der Arbeit der Koalition unzufrieden. Die Größenordnung trifft zu, die genannte Zahl ist etwas zu hoch. Die Demonstrationsbeteiligung wurde nicht geprüft.",
+      "shortReason": "Im ARD-DeutschlandTrend waren 84 % unzufrieden; die Größenordnung stimmt, die Zahl ist etwas zu hoch.",
       "assessmentBasis": "Kapitel-9-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:51:43–03:03:00 mit Anschlusskontext 02:51:30–03:03:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 9 einzeln migriert",
@@ -24212,6 +24319,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Nationalversammlung wählte am 28. März 1849 den preußischen König Friedrich Wilhelm IV. zum Kaiser der Deutschen; er lehnte ab. Der Kern trifft zu; er war König, nicht bereits Kaiser.",
+      "shortReason": "Gewählt wurde 1849 der preußische König Friedrich Wilhelm IV., der ablehnte; er war König, nicht Kaiser.",
       "assessmentBasis": "Kapitel-9-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:51:43–03:03:00 mit Anschlusskontext 02:51:30–03:03:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 9 einzeln migriert",
@@ -24263,6 +24371,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die Revolution von 1918/19 führte zum Thronverzicht des Kaisers und zur Ausrufung der Republik; auch 1848/49 war eine Revolution, wenn auch gescheitert. Als Aussage über erfolgreiche Umwälzungen lässt die Formulierung 1918/19 weg.",
+      "shortReason": "Die Revolution von 1918/19 stürzte die Monarchie, und auch 1848/49 war eine Revolution.",
       "assessmentBasis": "Kapitel-9-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 02:51:43–03:03:00 mit Anschlusskontext 02:51:30–03:03:10 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.",
       "migration": {
         "changeType": "Kapitel 9 einzeln migriert",

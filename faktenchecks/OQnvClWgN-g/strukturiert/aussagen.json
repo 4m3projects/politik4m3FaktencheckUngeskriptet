@@ -361,6 +361,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Eine Summierung ohne Ein-/Austritte und Erholung misst keinen Bestand. Die BIS arbeitet mit anhaltender Ertragsschwäche und weiteren Kriterien; die konkrete Deutschlandquote ist damit nicht nachgewiesen.",
+      "shortReason": "Aufsummierte ausgebliebene Insolvenzen messen keinen Bestand; eine Zombie-Quote von 15 % für Deutschland ist nicht nachgewiesen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -405,6 +406,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Mechanismus findet empirische Unterstützung; die Alleinursache und der behauptete heutige Anteil folgen daraus nicht.",
+      "shortReason": "Der Mechanismus ist empirisch gestützt; die Alleinursache und der behauptete heutige Anteil folgen daraus nicht.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -449,6 +451,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Bei unverändertem unverzinstem Nominalvermögen: 6/1,22 = 4,9180; Verlust 1,0820 Billionen bzw. 18,0328 Prozent. 1,2/6 sind 20 Prozent, nicht 22. Das ist eine bedingte Rechenkorrektur, keine Bestätigung der sechs Billionen oder einer gemessenen Inflationsrate.",
+      "shortReason": "Bei 22 % Inflation bleiben rund 4,92 Billionen Kaufkraft; der Verlust beträgt etwa 1,08 Billionen (18 %), nicht 1,2.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -493,6 +496,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Schnabels akademischer Lebenslauf liefert für den Aufnahmezeitpunkt ein Gegenbeispiel. Die falsche Pauschalaussage klärt nicht jede Frage informeller Einflussnahme.",
+      "shortReason": "Isabel Schnabel saß im Direktorium und war keine Finanzministerin, sondern Wissenschaftlerin.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -616,6 +620,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das Eurosystem kann Staatsanleihen am Sekundärmarkt kaufen. Für das PSPP beschreibt der EuGH eine Sperrfrist nach der Emission und weitere Sicherungen gegen einen vorhersehbaren, dem unmittelbaren Kauf gleichkommenden Weiterverkauf. Ein feststehender Aufschlag oder eine Umgehung per Buchung allein folgt daraus nicht. Das Urteil betrifft das PSPP. Kralls Einschränkung, dass Anleihen regelmäßig nicht sofort bei Emission durchgereicht würden, ist Teil des Kontexts.",
+      "shortReason": "Die EZB kauft Anleihen am Zweitmarkt, aber mit Sperrfrist und Schutzregeln; ein fester Aufschlag beim Durchreichen folgt daraus nicht.",
       "assessmentBasis": "[Codex] Originalstelle 01:08:48–01:09:48 im YouTube-Transkript und die Randnummern 104–117 im Urteil Weiss geprüft.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -664,6 +669,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die Kreditbuchung kann Einlagen erzeugen; überschüssige Zentralbankguthaben sind keine vorherige notwendige Bedingung. Refinanzierung und Regulierung bleiben erforderlich. Das vereinfachte Weiterverleihmodell ist keine allgemeine kausale Beschreibung.",
+      "shortReason": "Banken schaffen Einlagen durch Kreditvergabe; vorheriges Zentralbankgeld ist dafür keine notwendige Bedingung.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -774,6 +780,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die untersuchten Lebenszyklusmodelle zeigen Rückgewinnung innerhalb der Nutzungsdauer. Sie stützen die pauschale negative Energiebilanz nicht; eine Bestandszählung aller realen Anlagen wird damit nicht behauptet. Ergänzend ergibt die historische Metaanalyse von Kubiszewski et al. für 60 betriebsbezogene Fälle im Mittel einen EROI von 19,8. Auch diese Auswahl ist keine Zählung sämtlicher heutiger Anlagen.",
+      "shortReason": "Lebenszyklusstudien zeigen, dass Windanlagen ihre Herstellungsenergie innerhalb der Nutzungsdauer vielfach zurückgewinnen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -905,6 +912,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Der Bundeszuschuss fließt in die GKV-Finanzierung. Indirekte Finanzierung ist von eigener Leistungserbringung des Ministeriums zu unterscheiden. Daraus folgt keine Bewertung jeder Einzelposition.",
+      "shortReason": "Der Bundeszuschuss aus dem Gesundheitsetat fließt in die gesetzliche Krankenversicherung und finanziert so Versorgung mit.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1015,6 +1023,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die Synthese benennt menschliche Aktivitäten als Ursache der beobachteten globalen Erwärmung. Frühere natürliche Klimaänderungen schließen gegenwärtige menschliche Wirkung nicht aus.",
+      "shortReason": "Die Forschungssynthese benennt menschliche Aktivitäten als Ursache der beobachteten Erwärmung.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1059,6 +1068,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Meereisfläche, Landmasse und Zeitraum bleiben vermischt: Ein Meereisrekord 2014 trägt keine aktuelle pauschale Aussage über das gesamte antarktische Eis.",
+      "shortReason": "Hier werden Meereis und Landeis vermischt; ein Meereisrekord von 2014 sagt nichts über das gesamte antarktische Eis heute.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1111,6 +1121,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Der langfristige gesamte Massenbefund ist negativ. Lokaler Schneezuwachs ist keine positive Gesamtbilanz.",
+      "shortReason": "Grönland verliert langfristig insgesamt Eismasse; lokaler Schneezuwachs ändert daran nichts.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1410,6 +1421,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Der genannte Verbraucherpreisindex liefert 40,5/321,9 = 12,5816 Prozent Restkaufkraft bis 2025. Einzelne Güter oder Gold sind eine andere Bezugsgröße.",
+      "shortReason": "Nach Verbraucherpreisindex hat der Dollar seit 1971 noch rund 12,6 % seiner Kaufkraft, nicht 1 %.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1454,6 +1466,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Dieselbe Indexrechnung ergibt rund 87,42 Prozent Verlust bis 2025. Die spätere Abschwächung von 99 auf 95 wird separat erhalten; keine stillschweigende Korrektur zu 87.",
+      "shortReason": "Nach Verbraucherpreisindex beträgt der Verlust seit 1971 rund 87 %, nicht 95 %.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1542,6 +1555,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "§ 6 knüpft an einen fingierten Veräußerungsgewinn bestimmter Anteile an. Künftige Ertragserwartungen können in Unternehmenswerte eingehen; eine allgemeine Besteuerung des gesamten künftigen Arbeitseinkommens folgt daraus nicht.",
+      "shortReason": "Die Wegzugsteuer greift auf einen fiktiven Veräußerungsgewinn von Anteilen zu, nicht auf das künftige Arbeitseinkommen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1586,6 +1600,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die Einführung erfolgte 1931 unter Brüning; die spätere nationalsozialistische Nutzung zur Verfolgung wird damit nicht bestritten.",
+      "shortReason": "Die Reichsfluchtsteuer wurde 1931 unter Reichskanzler Brüning eingeführt; die Nationalsozialisten nutzten sie später zur Verfolgung.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1630,6 +1645,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "INDEC unterscheidet Personen und Haushalte: Die konkret verglichenen Endwerte sind 28,2 und 21,0 Prozent. Ohne Messgröße ist die Aussage verkürzt; der Rückgang wird nicht bestritten. Der Ausgangswert von 52,9 Prozent gehört zum ersten Halbjahr 2024 und liegt nach dem Amtsantritt Mileis am 10.12.2023. Die zeitliche Einordnung entscheidet keine Kausalfrage.",
+      "shortReason": "Der Rückgang ist echt, die Werte mischen aber Personen und Haushalte; vergleichbar sind 28,2 und 21,0 %, Startwert erst nach Mileis Amtsantritt.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1815,6 +1831,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Staatsausgaben/BIP und Aufträge/Unternehmensumsatz haben andere Nenner. Die Ausgaben umfassen auch Transfers und Löhne. Die behauptete Identität folgt daraus nicht; die genaue Staatsquote bleibt hier ungeprüft.",
+      "shortReason": "Staatsquote und Anteil an Unternehmensaufträgen haben verschiedene Bezugsgrößen; Staatsausgaben umfassen auch Transfers und Löhne.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",

@@ -700,6 +700,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der gelesene TIME-Bericht stützt Alfreds Darstellung. Die verlinkten Originalakten waren hinter einer Altersabfrage und wurden hier nicht gelesen.",
+      "shortReason": "Der TIME-Bericht stützt die Darstellung; die Originalakten selbst wurden nicht gelesen.",
       "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -763,6 +764,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "TIME zieht aus den beschriebenen Nachrichten keinen Straftatnachweis. Das ist auf diesen Quellenbestand begrenzt; Alfreds weitergehende Aussage über sämtliche veröffentlichten Dokumente wurde nicht vollständig geprüft.",
+      "shortReason": "TIME zieht daraus keinen Straftatnachweis; alle veröffentlichten Dokumente wurden aber nicht geprüft.",
       "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1285,6 +1287,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die taz berichtet über das LG Verden, die abgegrenzte Gruppe und 100 Tagessätze zu 60 Euro unter Bezug auf eine Gerichtssprecherin. Der Urteilsvolltext wurde nicht gelesen; Alfreds präzise Abgrenzung der bestraften Inhalte bleibt insoweit sekundär gestützt.",
+      "shortReason": "Urteil und Strafe (100 Tagessätze zu 60 Euro) berichtet die taz; den Urteilstext selbst haben wir nicht gelesen.",
       "assessmentBasis": "Eigenständige Quellen- und Textprüfung am 19.11.2026. Sprecher und Zeitgrenzen nur plausibel bzw. ungefähr; keine Audio-/Videosichtung.",
       "migration": {
         "changeType": "Neuerfassung",

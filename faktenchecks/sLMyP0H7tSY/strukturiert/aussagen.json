@@ -721,6 +721,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Ministerantwort nennt eine geplante Ausnahme, damit der herkömmliche Fass-Transport im Vereinigten Königreich fortgesetzt werden konnte. Sie belegt die Absicht der Regierung, enthält aber noch keinen in Kraft getretenen Ausnahmetext.",
+      "shortReason": "Die Regierung kündigte eine Ausnahme für den Fass-Transport an; ein in Kraft getretener Ausnahmetext ist damit noch nicht belegt.",
       "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
@@ -958,6 +959,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Lüning projiziert rund 80 Milliarden Euro am Ende der laufenden Koalition. Die Finanzplanung erreicht diesen Betrag mit 80,7 Milliarden für 2030. Im regulären Wahljahr 2029 sind 68,1 Milliarden vorgesehen. Die ähnliche Größenordnung gilt für ein späteres Bezugsjahr und Planwerte statt tatsächlicher Ausgaben.",
+      "shortReason": "Die Planung erreicht 80,7 Mrd. erst 2030, im Wahljahr 2029 sind es 68,1 Mrd.; es sind zudem Plan-, keine Istwerte.",
       "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
@@ -1635,6 +1637,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Für den Zugang zur Werbeumsatzbeteiligung bei Langformaten nennt YouTube 1.000 Abonnenten und 4.000 gültige öffentliche Wiedergabestunden innerhalb von zwölf Monaten. Dazu kommen weitere Teilnahmebedingungen und eine Kanalprüfung. Eine andere Schwelle gilt für Shorts.",
+      "shortReason": "Die Schwellen stimmen; dazu kommen aber weitere Teilnahmebedingungen und eine Kanalprüfung.",
       "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",

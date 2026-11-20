@@ -101,7 +101,8 @@ function diffSnapshots(prev, cur, opts = {}) {
       else if (p.status === 'Abgeschlossen' || p.status === 'Nicht überprüfbar') reopened++;
       else status++;
     } else if (vChanged && !p.verdict) finished++;
-    if (!vChanged && !sChanged && !same(p, c)) content++;
+    /* Die Kurzbegründung (shortReason) fasst nur die bestehende Begründung zusammen und zählt nicht als Überarbeitung. */
+    if (!vChanged && !sChanged && !same({ ...p, shortReason: null }, { ...c, shortReason: null })) content++;
   }
   for (const id of before.keys()) if (!after.has(id)) removed++;
   if (verdict) add('bewertung', n(verdict, 'Bewertung geändert', 'Bewertungen geändert'));

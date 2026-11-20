@@ -123,26 +123,79 @@ function distribution(claims) {
   return `<div class="dist" role="img" aria-label="Verteilung der ${claims.length} strukturierten Aussagen – ${esc(label)}">${bar}</div><ul class="legend">${legend}</ul>`;
 }
 
-function bindTips(root) {
-  root.querySelectorAll('[data-tip]').forEach(el => {
-    el.addEventListener('pointerenter', e => showTip(e, el.dataset.tip));
-    el.addEventListener('pointermove', e => moveTip(e));
-    el.addEventListener('pointerleave', hideTip);
-  });
+/* ---------- Hinweistafeln (Tooltips) ----------
+   Keine Blase, die dem Mauszeiger folgt, sondern eine schwebende Tafel an fester Stelle direkt unter
+   dem Element, die nach unten ausklappt. Sie überdeckt den Inhalt darunter, verschiebt aber nichts.
+   - Elemente mit data-tip: Tafel mit fester Breite; beim Verteilungsbalken immer unter dem ganzen
+     Balken, damit sie beim Wandern über die Segmente nicht springt.
+   - Faktenampel (data-ampel-*): Tafel mindestens so breit wie die Ampel, ohne zu wiederholen, was
+     schon in der Ampel steht.
+   Maus: Überfahren öffnet, Verlassen schließt. Touch/Stift: Tippen auf ein Element, das kein Link und
+   kein Knopf ist, öffnet oder schließt die Tafel; Tippen woanders schließt sie. Ereignisse laufen über
+   das Dokument, deshalb funktionieren auch nachträglich eingefügte Elemente ohne eigenes Binden. */
+const TIP_SEL = '[data-tip], .ampel[data-ampel-key]';
+const TIP_WIDTH = 340;
+const AMPEL_TIP_NOTE = 'Nur geprüfte Aussagen, kein Urteil über das ganze Video oder Personen; Darstellungshinweise zählen nicht.';
+function tipPanel() {
+  if (!state.tip) {
+    state.tip = document.createElement('div');
+    state.tip.setAttribute('aria-hidden', 'true'); state.tip.hidden = true;
+    document.body.appendChild(state.tip);
+  }
+  return state.tip;
 }
-function showTip(e, text) {
-  if (!state.tip) { state.tip = document.createElement('div'); state.tip.className = 'dist-tip'; document.body.appendChild(state.tip); }
-  state.tip.textContent = text; state.tip.hidden = false; moveTip(e);
+function showTip(el) {
+  const tip = tipPanel();
+  const vw = document.documentElement.clientWidth;
+  let anchor = el, w;
+  if (el.dataset.ampelKey) {
+    const d = el.dataset;
+    tip.className = 'tip-panel ampel-tip-' + d.ampelKey;
+    /* Nichts doppelt: Titel und Basis stehen schon in der Ampel selbst (die Basis nur nicht in der kompakten
+       Form), der Hinweis „nur geprüfte Aussagen“ steht auf der Videoseite schon unter der Ampel. */
+    const showSub = el.classList.contains('compact');
+    const showNote = !el.closest('.video-head');
+    tip.innerHTML = `${showSub ? `<p class="tip-sub">${esc(d.ampelSub)}</p>` : ''}<p>${esc(d.ampelText)}</p>${showNote ? `<p class="tip-note">${esc(AMPEL_TIP_NOTE)}</p>` : ''}`;
+    w = Math.max(el.getBoundingClientRect().width, 300);
+  } else {
+    anchor = el.closest('.dist') || el;
+    tip.className = 'tip-panel';
+    tip.innerHTML = `<p>${esc(el.dataset.tip)}</p>`;
+    w = TIP_WIDTH;
+  }
+  w = Math.min(vw - 16, w);
+  const a = anchor.getBoundingClientRect();
+  tip.style.width = w + 'px';
+  tip.style.left = (window.scrollX + Math.min(vw - w - 8, Math.max(8, a.left))) + 'px';
+  tip.style.top = (window.scrollY + a.bottom + 4) + 'px';
+  /* Ausklappen nur beim Öffnen, nicht beim Wechsel zwischen Elementen unter demselben Anker. */
+  if (tip.hidden || state.tipAnchor !== anchor) { tip.style.animation = 'none'; void tip.offsetWidth; tip.style.animation = ''; }
+  tip.hidden = false;
+  state.tipFor = el; state.tipAnchor = anchor;
 }
-function moveTip(e) {
-  if (!state.tip) return;
-  const w = state.tip.offsetWidth;
-  state.tip.style.left = Math.min(window.innerWidth - w - 8, Math.max(8, e.clientX - w / 2)) + 'px';
-  /* Mehrzeilige Hinweise: über dem Mauszeiger, bei zu wenig Platz darunter. */
-  const h = state.tip.offsetHeight;
-  state.tip.style.top = (e.clientY - h - 12 >= 8 ? e.clientY - h - 12 : Math.min(window.innerHeight - h - 8, e.clientY + 18)) + 'px';
+function hideTip() {
+  if (state.tip) state.tip.hidden = true;
+  state.tipFor = null; state.tipAnchor = null;
 }
-function hideTip() { if (state.tip) state.tip.hidden = true; }
+document.addEventListener('pointerover', e => {
+  if (e.pointerType !== 'mouse') return;
+  const el = e.target.closest?.(TIP_SEL);
+  if (el && el !== state.tipFor) showTip(el);
+});
+document.addEventListener('pointerout', e => {
+  if (e.pointerType !== 'mouse' || !state.tipFor) return;
+  const to = e.relatedTarget?.closest?.(TIP_SEL);
+  if (to !== state.tipFor && !state.tipFor.contains(e.relatedTarget)) { if (to) showTip(to); else hideTip(); }
+});
+document.addEventListener('pointerdown', e => { state.lastPointer = e.pointerType; }, true);
+document.addEventListener('click', e => {
+  if (state.lastPointer === 'mouse') return;
+  const el = e.target.closest?.(TIP_SEL);
+  if (el && !el.closest('a, button')) { if (state.tipFor === el) hideTip(); else showTip(el); return; }
+  if (state.tipFor) hideTip();
+});
+window.addEventListener('resize', hideTip);
+window.addEventListener('hashchange', hideTip);
 
 /* ---------- Kleiner Markdown-Renderer für die eigenen Berichte ---------- */
 /* Unterstützt Überschriften, Absätze, Listen, Tabellen, Fett, Code und Links. HTML im Quelltext wird immer maskiert. */
@@ -333,6 +386,104 @@ document.addEventListener('click', e => {
   if (e.target.closest('#thumb-setting')) setThumbChoice(thumbChoice() === 'ja' ? 'nein' : 'ja');
 });
 
+/* ---------- Vorschaubild unter Videolinks ---------- */
+/* Sind die YouTube-Vorschaubilder eingeschaltet, klappt beim Überfahren eines Links auf ein Video
+   (Seite hier oder auf YouTube) direkt unter dem Link eine Tafel mit dessen Vorschaubild auf – im
+   selben Stil wie die Hinweistafeln. Ohne Zustimmung lädt nichts. Keine Vorschau bekommen Links, die
+   schon ein Vorschaubild zeigen oder neben einem stehen (Videokarten, Listen mit Bild), Links auf
+   Stellen im gerade geöffneten Video und Elemente mit eigenem Hinweis. Tastatur: Fokus zeigt die
+   Vorschau ebenfalls. Touch: Ein Tippen öffnet den Link sofort, deshalb dort keine Vorschau; die
+   Videokarten und Listen zeigen die Bilder dort ohnehin direkt. */
+const LINK_THUMB_DELAY = 120;
+function linkThumbCurrentId() {
+  const m = /^#\/video\/([A-Za-z0-9_-]+)/.exec(location.hash);
+  return m ? m[1] : null;
+}
+function linkThumbEntry(id) { return (state.index?.videos || []).find(v => v.id === id) || null; }
+function linkThumbEntryUrl(e) { return e?.video?.videoUrl || e?.scope?.videoUrl || ''; }
+function linkThumbId(a) {
+  if (!a || thumbChoice() !== 'ja' || a.hasAttribute('data-tip') || a.querySelector('img')) return null;
+  const href = a.getAttribute('href') || '';
+  const cur = linkThumbCurrentId();
+  let id = null;
+  const internal = /^#\/video\/([A-Za-z0-9_-]+)/.exec(href);
+  if (internal) {
+    if (internal[1] === cur) return null;
+    const e = linkThumbEntry(internal[1]);
+    if (!e) return null;
+    id = ytIdOf(internal[1], linkThumbEntryUrl(e));
+  } else {
+    id = FactSync.youtubeId(href);
+    /* Zeitmarken im gerade geöffneten Video zeigen immer dasselbe Bild – dort keine Vorschau. */
+    if (id && cur && /[?&](?:t|start)=/.test(href) && id === ytIdOf(cur, linkThumbEntryUrl(linkThumbEntry(cur)))) return null;
+  }
+  if (!id) return null;
+  /* Nichts doppelt zeigen: Steht das Bild schon daneben, braucht es keine Vorschau. */
+  const box = a.closest('li, .card');
+  if (box && box.querySelector(`img[src*="/vi/${id}/"]`)) return null;
+  return id;
+}
+function linkThumbPanel() {
+  if (!state.linkThumb) {
+    const d = document.createElement('div');
+    d.className = 'thumb-tip'; d.hidden = true; d.setAttribute('aria-hidden', 'true');
+    d.innerHTML = '<img alt="" width="320" height="180" decoding="async" referrerpolicy="no-referrer">';
+    d.querySelector('img').addEventListener('error', hideLinkThumb);
+    document.body.appendChild(d);
+    state.linkThumb = d;
+  }
+  return state.linkThumb;
+}
+function showLinkThumb(a, id) {
+  const tip = linkThumbPanel();
+  const img = tip.querySelector('img');
+  const src = `https://i.ytimg.com/vi/${encodeURIComponent(id)}/mqdefault.jpg`;
+  if (img.getAttribute('src') !== src) img.setAttribute('src', src);
+  const vw = document.documentElement.clientWidth;
+  /* Bei umbrechenden Links unter der letzten Zeile, beginnend an deren Anfang. */
+  const rects = a.getClientRects();
+  const r = rects.length ? rects[rects.length - 1] : a.getBoundingClientRect();
+  const w = Math.min(vw - 16, 248);
+  tip.style.width = w + 'px';
+  tip.style.left = (window.scrollX + Math.min(vw - w - 8, Math.max(8, r.left))) + 'px';
+  tip.style.top = (window.scrollY + r.bottom + 4) + 'px';
+  if (tip.hidden || state.linkThumbFor !== a) { tip.style.animation = 'none'; void tip.offsetWidth; tip.style.animation = ''; }
+  tip.hidden = false;
+  state.linkThumbFor = a;
+}
+function hideLinkThumb() {
+  clearTimeout(state.linkThumbTimer);
+  if (state.linkThumb) state.linkThumb.hidden = true;
+  state.linkThumbFor = null;
+}
+function linkThumbTarget(node) {
+  if (!node?.closest || node.closest('[data-tip], .ampel[data-ampel-key]')) return null;
+  const a = node.closest('a[href]');
+  const id = linkThumbId(a);
+  return id ? { a, id } : null;
+}
+document.addEventListener('pointerover', e => {
+  if (e.pointerType !== 'mouse') return;
+  const t = linkThumbTarget(e.target);
+  if (t && t.a === state.linkThumbFor) return;
+  clearTimeout(state.linkThumbTimer);
+  if (!t) { if (state.linkThumbFor && !state.linkThumbFor.contains(e.target)) hideLinkThumb(); return; }
+  state.linkThumbTimer = setTimeout(() => showLinkThumb(t.a, t.id), state.linkThumbFor ? 0 : LINK_THUMB_DELAY);
+});
+document.addEventListener('pointerout', e => {
+  if (e.pointerType !== 'mouse') return;
+  const from = e.target.closest?.('a[href]');
+  if (from && !from.contains(e.relatedTarget)) { clearTimeout(state.linkThumbTimer); if (state.linkThumbFor === from) hideLinkThumb(); }
+});
+document.addEventListener('focusin', e => {
+  const t = e.target.matches?.(':focus-visible') ? linkThumbTarget(e.target) : null;
+  if (t) showLinkThumb(t.a, t.id); else hideLinkThumb();
+});
+document.addEventListener('focusout', () => hideLinkThumb());
+document.addEventListener('pointerdown', hideLinkThumb, true);
+window.addEventListener('resize', hideLinkThumb);
+window.addEventListener('hashchange', hideLinkThumb);
+
 /* ---------- Originale, Reaktionen und Beziehungen (site/relations.js) ---------- */
 
 function roleOf(id) { return state.index.videos.find(v => v.id === id)?.video?.role || null; }
@@ -442,7 +593,7 @@ async function relationsSection(v) {
 /* Kurze Rolle im Kopf jeder Videoseite, bei Reaktionen mit Rückverlinkung. */
 /* Kennzeichen für YouTube Shorts (docs/SHORTS.md): kurzes Hochkantvideo. */
 function shortBadge(v) {
-  return FactRelations.isShort(v?.video, v?.data?.scope?.videoUrl) ? '<span class="badge format-short" title="Kurzes Hochkantvideo von YouTube; der ganze Short ist erfasst">Short</span> ' : '';
+  return FactRelations.isShort(v?.video, v?.data?.scope?.videoUrl) ? '<span class="badge format-short" data-tip="Kurzes Hochkantvideo von YouTube; der ganze Short ist erfasst">Short</span> ' : '';
 }
 
 function roleLine(v) {
@@ -467,7 +618,6 @@ function setPage(html, nav) {
   document.querySelectorAll('.mainnav a[data-nav]').forEach(a => {
     if (a.dataset.nav === nav) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
   });
-  bindTips(main());
 }
 
 function videoFacts(v) {
@@ -541,8 +691,9 @@ function ampelDemo(key) {
 function ampelView(v, variant = '') {
   const r = FactAmpel.rate(v?.stats || null, v?.video || null, v?.data?.scope?.durationSeconds);
   const title = r.key === 'gruen' || r.key === 'gelb' || r.key === 'rot' ? `${r.name} · ${r.label}` : r.label;
-  const tip = `Faktenampel: ${title}. ${ampelSub(r)}. ${r.text} Nur geprüfte Aussagen, kein Urteil über das ganze Video oder Personen; Darstellungshinweise zählen nicht.`;
-  return `<div class="ampel ampel-${r.key}${variant ? ' ' + (variant === 'big' ? 'ampel-big' : variant) : ''}" role="img" aria-label="${esc(tip)}" data-tip="${esc(tip)}">
+  const tip = `Faktenampel: ${title}. ${ampelSub(r)}. ${r.text} ${AMPEL_TIP_NOTE}`;
+  /* Kein mitwandernder Hinweis (data-tip): Die Erklärung erscheint als feste Tafel unter der Ampel (showTip). */
+  return `<div class="ampel ampel-${r.key}${variant ? ' ' + (variant === 'big' ? 'ampel-big' : variant) : ''}" role="img" aria-label="${esc(tip)}" data-ampel-key="${esc(r.key)}" data-ampel-title="${esc('Faktenampel: ' + title)}" data-ampel-sub="${esc(ampelSub(r))}" data-ampel-text="${esc(r.text)}">
     <span class="ampel-lights" aria-hidden="true"><i></i><i></i><i></i></span>
     <span class="ampel-text" aria-hidden="true"><span class="ampel-title">Faktenampel: ${esc(title)}</span><span class="ampel-sub">${esc(ampelSub(r))}</span></span>
   </div>`;
@@ -674,7 +825,7 @@ function rhetBlock(list, v) {
   const url = v.data?.scope?.videoUrl || v.video?.videoUrl;
   const items = list.map(a => {
     const t = `${hms(a.startSeconds)}–${hms(a.endSeconds)}`;
-    const time = videoTimeUrl(url, a.startSeconds) ? extLink(videoTimeUrl(url, a.startSeconds), `<span class="time">▶ ${t}</span>`) : `<span class="time">${t}</span>`;
+    const time = videoTimeUrl(url, a.startSeconds) ? extLink(videoTimeUrl(url, a.startSeconds), `<span class="time">${t}</span>`) : `<span class="time">${t}</span>`;
     return `<li class="rhet-item">
       <div class="rhet-top">${rhetBadge(a)}<span class="small">${time} · ${rhetSpeaker(a, v.data)}</span></div>
       <p class="rhet-obs">${esc(a.observation)}</p>
@@ -749,7 +900,7 @@ function counterBlock(list, compact) {
       ${ov ? `<div class="occ-ampel">${ampelView(ov, 'compact')}</div>` : ''}
       <p class="counter-desc">${esc(x.claim.description)}</p>
       ${main && !compact ? `<p class="small">${esc(x.claim.reason)}</p>` : ''}
-      <p class="small occ-links">${yt ? extLink(yt, `▶ ab ${hms(sec)} bei YouTube`) + ' · ' : ''}<a href="${href}">Geprüfte Aussage ${esc(shortClaim(x.claimId, x.videoId))}</a> · <span class="muted">${esc(how)}</span></p>
+      <p class="small occ-links">${yt ? extLink(yt, `ab ${hms(sec)} bei YouTube`) + ' · ' : ''}<a href="${href}">Geprüfte Aussage ${esc(shortClaim(x.claimId, x.videoId))}</a> · <span class="muted">${esc(how)}</span></p>
     </div>`;
   };
   const [best, ...rest] = list;
@@ -778,7 +929,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
     const url = videoTimeUrl(d.scope.videoUrl, o.startSeconds);
     const hist = (o.timeHistory || []).map(h => `<li>${hms(h.startSeconds)}–${hms(h.endSeconds)} (${esc(h.precision)}): ${esc(h.basis)}</li>`).join('');
     return `<div class="occ">
-      <div class="occ-top">${url ? extLink(url, `<span class="time">▶ ${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`) : `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`}
+      <div class="occ-top">${url ? extLink(url, `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`) : `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`}
         <span class="badge plain">Zeit ${esc(o.precision)}</span>${who}<span class="badge plain">${esc(o.role)} (${esc(o.roleStatus)})</span></div>
       <dl class="kv">
         ${o.note ? `<dt>Hinweis</dt><dd>${esc(o.note)}</dd>` : ''}
@@ -819,7 +970,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
         <div class="claim-top">${verdictBadge(c.verdict, c.status, c.reason)}
           <span class="badge kind">${esc(c.kind)}</span>
           <span class="badge kind">Kapitel ${esc(c.chapter)}${chapter ? ' · ' + esc(chapter) : ''}</span>
-          <a class="claim-id" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}" title="Direktlink zu dieser Aussage">${esc(shortId)}</a>
+          <a class="claim-id" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}" data-tip="Direktlink zu dieser Aussage">${esc(shortId)}</a>
           ${hasConflict ? '<span class="badge rel-state rel-conflict">⚠ Prüfkonflikt mit verknüpfter Aussage</span>' : ''}
           ${[...new Set((rhetList || []).map(a => a.feature))].map(k => `<span class="badge rhet-badge rhet-flag" data-tip="Darstellungshinweis (KI), getrennt von der Faktenbewertung">Darstellung: ${esc(FactRhetoric.FEATURES[k]?.name || k)}</span>`).join('')}</div>
         <div class="claim-desc-label">Prüfgegenstand – unsere Beschreibung, kein Zitat</div>
@@ -908,7 +1059,7 @@ function videoHeader(v, tab) {
     <p class="small ampel-note">Die Faktenampel fasst nur die bereits entschiedenen Tatsachenbehauptungen zusammen, nicht das ganze Video und keine Person. Darstellungshinweise fließen nicht ein. <a href="#/methodik">Regel in der Methodik</a></p>
     <ul class="facts">${videoFacts(v)}</ul>
     <div class="btn-row">
-      ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" title="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
+      ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" data-tip="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
       ${(scope?.videoUrl || v.video?.videoUrl) ? extLink(scope?.videoUrl || v.video.videoUrl, `<span class="btn ghost">${v.video?.role === 'reaction' ? 'Video' : 'Originalvideo'} auf YouTube</span>`) : ''}
       <a class="btn ghost" href="${esc(blobUrl('faktenchecks/' + v.id))}" rel="noopener noreferrer" target="_blank">Daten auf GitHub</a>
     </div>
@@ -1370,3 +1521,25 @@ async function routePage() {
 
 window.addEventListener('hashchange', route);
 document.addEventListener('DOMContentLoaded', route);
+
+/* Dropdown „weitere Faktenchecks“ am Titel. Mit Maus öffnet es per Hover (CSS);
+   auf Touchgeräten und per Tastatur über den Pfeil-Knopf. Ein Klick auf den Titel führt zur Startseite. */
+(function brandMenu() {
+  // Node-Tests laden app.js mit einem minimalen document ohne getElementById.
+  if (typeof document === 'undefined' || typeof document.getElementById !== 'function') return;
+  const menu = document.getElementById('brand-menu');
+  const toggle = document.getElementById('brand-toggle');
+  if (!menu || !toggle) return;
+  const setOpen = open => {
+    menu.classList.toggle('open', open);
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  };
+  toggle.addEventListener('click', e => { e.stopPropagation(); setOpen(!menu.classList.contains('open')); });
+  document.addEventListener('click', e => { if (!menu.contains(e.target)) setOpen(false); });
+  menu.addEventListener('click', e => { if (e.target.closest('.brand-dropdown a, .brand')) setOpen(false); });
+  menu.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && menu.classList.contains('open')) { setOpen(false); toggle.focus(); }
+  });
+  menu.addEventListener('focusout', e => { if (e.relatedTarget && !menu.contains(e.relatedTarget)) setOpen(false); });
+  window.addEventListener('hashchange', () => setOpen(false));
+})();

@@ -608,6 +608,8 @@ Case 'Spaetere Kapitel decken alle Altpunkte ab und bleiben im Kapitel' {
 Case 'Kapitel-3-Bestand bleibt bis auf dokumentierte Hauptgespraechsvorkommen erhalten' {
     foreach($old in $script:chapterThree.claims){
         $now=ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson @($script:current.claims | Where-Object id -CEQ $old.id)[0])
+        # Kurzbegruendung (docs/KURZBEGRUENDUNG.md) verdichtet nur die bestehende Begruendung; kein Altbestandsinhalt.
+        $now.PSObject.Properties.Remove('shortReason')
         $added=@($now.occurrences | Where-Object {$_.id -cnotin $old.occurrences.id})
         if($added.Count){
             Check-True ($script:laterExtraOccurrences -ccontains $old.id) ('Unerwartetes Zusatzvorkommen: '+$old.id)
@@ -810,6 +812,19 @@ Case 'Recherche: Kandidaten fuer gezielte Nachpruefung nur offene Faelle' {
     $c2=$d.claims[0];$c2.PSObject.Properties.Remove('research');$c2.status='Nicht überprüfbar';$c2.verdict=$null;$c2.reason='Nicht überprüfbar – synthetisch.';$c2.openQuestions=@('Keine.');Assert-FactcheckData $d
     $k=@(Get-FactcheckRecheckCandidates $d)
     Check-True ((($k | ForEach-Object {$_.claimId.Substring(12)+':'+$_.category+':'+$_.documented}) -join '|') -ceq 'A0001:Nicht überprüfbar:False|A0002:Noch nicht geprüft:True|A0004:Nicht ausreichend belegbar:True') ('Falsche Kandidaten: '+(($k | ForEach-Object claimId) -join ','))
+}
+Case 'Kurzbegruendung: Pflicht bei kritischen Bewertungen, eine Zeile, kein Widerspruch' {
+    $d=New-ResearchVideo;$c=$d.claims[5];Check-True ($c.verdict -ceq 'Teilweise belegt') 'Testfall braucht kritische Bewertung.'
+    Expect-Rejection { Assert-FactcheckShortReasonComplete $d } 'Kurzbegruendung \(shortReason\) fehlt'
+    foreach ($k in @($d.claims | Where-Object { $script:FactcheckShortReasonVerdicts -ccontains $_.verdict })) { $k | Add-Member -NotePropertyName shortReason -NotePropertyValue 'Im Kern richtig, die Zahl gilt aber nur brutto.' }
+    Assert-FactcheckData $d;Assert-FactcheckShortReasonComplete $d
+    $c.shortReason=$c.reason;Expect-Rejection { Assert-FactcheckData $d } 'nicht wiederholen'
+    $c.shortReason=('x' * 201);Expect-Rejection { Assert-FactcheckData $d } 'hoechstens 200'
+    $c.shortReason="Zwei`nZeilen";Expect-Rejection { Assert-FactcheckData $d } 'einer Zeile'
+    $c.shortReason='Stimmt, alles korrekt.';$c.verdict='Widerlegt';Expect-Rejection { Assert-FactcheckData $d } 'widerspricht'
+    $c.shortReason='   ';$c.verdict='Teilweise belegt';Expect-Rejection { Assert-FactcheckData $d } 'nichtleerer Text'
+    $o=$d.claims[1];$o.status='Offen';$o.verdict=$null;$o.reason='Noch nicht geprüft – synthetisch.';$o.openQuestions=@('Quelle lesen.');$o.research.gap=$null;$o.PSObject.Properties.Remove('shortReason')
+    $c.shortReason='Im Kern richtig.';$o | Add-Member -NotePropertyName shortReason -NotePropertyValue 'Noch kein Ergebnis.';Expect-Rejection { Assert-FactcheckData $d } 'abschliessend eingeordneten'
 }
 Case 'Lokale Factcheck-Markdownlinks existieren' {
     foreach ($f in Get-ChildItem -LiteralPath $root -Filter '*.md' -File -Recurse) {
