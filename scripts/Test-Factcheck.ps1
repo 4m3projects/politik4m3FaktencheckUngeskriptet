@@ -622,6 +622,14 @@ Case 'Kapitel-3-Bestand bleibt bis auf dokumentierte Hauptgespraechsvorkommen er
             Check-True ($now.migration.assessmentChange.StartsWith($old.migration.assessmentChange.Trim())) ('Abschlusspruefung ueberschreibt Migrationsgeschichte: '+$old.id)
             foreach($key in $script:finalReviewKeys){$now.$key=$old.$key}
         }
+        # Autorisierte Nachpruefung #77: neue Recherchedokumentation der zwei zuvor offenen Fass-Aussagen.
+        # Sachfelder werden oben nur bei erhaltener Migrationsgeschichte auf den historischen Stand zurueckgesetzt.
+        if($old.id -cin @('mlxFA9T88I0-A0147','mlxFA9T88I0-A0148')){
+            Check-True ($now.migration.assessmentChange -ceq $old.migration.assessmentChange) 'Migrationsgeschichte nach Normalisierung abweichend.'
+            $live=@($script:current.claims | Where-Object id -CEQ $old.id)[0]
+            Check-True ($live.migration.assessmentChange.Contains('Nachprüfung 20.11.2026 (Codex)') -and $live.research.rounds.Count -ge 2 -and $live.research.rounds[0].agent -ceq 'Codex') 'Fass-Nachpruefung ohne dokumentierte Recherche.'
+            $now.PSObject.Properties.Remove('research')
+        }
         Check-True (Test-FactcheckEqual $now $old) ('Undokumentierte Altbestandsaenderung: '+$old.id)
     }
     foreach($old in $script:chapterThree.sources){$now=@($script:current.sources | Where-Object id -CEQ $old.id);Check-True ($now.Count -eq 1 -and (Test-FactcheckEqual $now[0] $old)) 'Alte Quellengrundlage veraendert.'}
@@ -657,8 +665,8 @@ Case 'Zinsreihe und Restlaufzeit an amtlichen Daten statt Erinnerung bewertet' {
 Case 'Aktueller Endstand trennt Migration Forschung und Referenzfragen' {
     $s=Get-FactcheckStatistics $script:current
     Check-True ($s.statementRecords -eq 395 -and $s.uniqueStatements -eq 392 -and $s.referenceOnlyStatements -eq 3 -and $s.assertionOccurrences -eq 436 -and $s.referenceOccurrences -eq 11 -and $s.additionalAssertionOccurrences -eq 44) 'Aktuelle Vorkommenszaehlung falsch.'
-    Check-True ($s.statusCounts.Abgeschlossen -eq 237 -and $s.statusCounts.Offen -eq 7 -and $s.statusCounts.'Nicht überprüfbar' -eq 148 -and $s.statusCounts.'In Bearbeitung' -eq 0 -and $s.completedFacts -eq 157 -and $s.openFacts -eq 7 -and $s.unverifiableFacts -eq 148) 'Aktueller Forschungsstand falsch.'
-    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '38,85,23,7,4,80') 'Aktuelle Kategorien falsch.'
+    Check-True ($s.statusCounts.Abgeschlossen -eq 238 -and $s.statusCounts.Offen -eq 6 -and $s.statusCounts.'Nicht überprüfbar' -eq 148 -and $s.statusCounts.'In Bearbeitung' -eq 0 -and $s.completedFacts -eq 158 -and $s.openFacts -eq 6 -and $s.unverifiableFacts -eq 148) 'Aktueller Forschungsstand falsch.'
+    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '38,86,23,7,4,80') 'Aktuelle Kategorien falsch.'
     Check-True ($script:current.scope.unmigratedLegacyPoints -eq 0 -and $script:current.scope.kind -ceq 'Teilbestand') 'Vollstaendige Migration darf ohne Vollpruefung kein Vollbestand sein.'
     $w=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0207')[0]
     Check-True ($w.verdict -ceq 'Belegt' -and ($w.sourceRefs.sourceId -join ',') -ceq 'S100' -and $w.migration.assessmentChange.Contains('Kapitel-7-Prüfung')) 'Fortschreibung A0207 nicht dokumentiert.'

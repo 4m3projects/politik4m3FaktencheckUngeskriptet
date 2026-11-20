@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Nachprüfungsstand 20.11.2026: Alle 99 ursprünglichen Prüfpunkte sind übertragen; der Bestand enthält 395 Datensätze, darunter drei reine Fremdbezüge. Von 312 eigenen Tatsachenbehauptungen sind 157 mit Urteil abgeschlossen, 148 mit begründeter Grenze der Überprüfbarkeit eingeordnet und 7 noch offen. Dazu kommen 80 Meinungen oder Prognosen. Erfasst sind die Prüfgegenstände der Altpunkte und gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs. Einzelne frühere Grenzen der Überprüfbarkeit werden außerdem gezielt kontrolliert; keine vollständige Hör-/Sichtprüfung und keine bestätigte Sprecherstatistik. Keine Statistik des vollständigen Videos.",
+  "coverageNote": "Nachprüfungsstand 20.11.2026: Alle 99 ursprünglichen Prüfpunkte sind übertragen; der Bestand enthält 395 Datensätze, darunter drei reine Fremdbezüge. Von 312 eigenen Tatsachenbehauptungen sind 158 mit Urteil abgeschlossen, 148 mit begründeter Grenze der Überprüfbarkeit eingeordnet und 6 noch offen. Dazu kommen 80 Meinungen oder Prognosen. Erfasst sind die Prüfgegenstände der Altpunkte und gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs. Einzelne frühere Grenzen der Überprüfbarkeit werden außerdem gezielt kontrolliert; keine vollständige Hör-/Sichtprüfung und keine bestätigte Sprecherstatistik. Keine Statistik des vollständigen Videos.",
   "videoId": "mlxFA9T88I0",
   "selectedLegacyPoints": 99,
   "totalLegacyPoints": 99,
@@ -15,32 +15,32 @@
   "referenceOccurrences": 11,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 7,
+    "Offen": 6,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 148,
-    "Abgeschlossen": 237
+    "Abgeschlossen": 238
   },
   "kindCounts": {
     "Tatsachenbehauptung": 312,
     "Meinung": 63,
     "Prognose": 17
   },
-  "completedFacts": 157,
-  "openFacts": 7,
+  "completedFacts": 158,
+  "openFacts": 6,
   "inProgressFacts": 0,
   "unverifiableFacts": 148,
-  "percentageDenominator": 157,
+  "percentageDenominator": 158,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
       "completedCount": 38,
-      "completedFactPercent": 24.2
+      "completedFactPercent": 24.1
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 85,
-      "completedFactPercent": 54.1
+      "completedCount": 86,
+      "completedFactPercent": 54.4
     },
     {
       "category": "Irreführend / Kontext fehlt",
@@ -50,7 +50,7 @@
     {
       "category": "Widerlegt",
       "completedCount": 7,
-      "completedFactPercent": 4.5
+      "completedFactPercent": 4.4
     },
     {
       "category": "Nicht ausreichend belegbar",
