@@ -28,14 +28,14 @@ test('Alle Aussagen belegt → 1,000; alle widerlegt → 0,000', () => {
   assert.equal(idx(many(10, 'Widerlegt')), 0);
 });
 
-test('Beispiele aus dem Auftrag (Faktor 1): 10:1 → 0,500, 20:1 → 0,667, 100:1 → 0,909', () => {
-  assert.equal(idx([...many(10, 'Belegt'), claim('Widerlegt')]), 0.5);
-  assert.equal(idx([...many(20, 'Belegt'), claim('Widerlegt')]), 0.667);
-  assert.equal(idx([...many(100, 'Belegt'), claim('Widerlegt')]), 0.909);
+test('Beispiele (Bedeutungsfaktor 1, Widerlegungsfaktor 5): 10:1 → 0,667, 20:1 → 0,800, 100:1 → 0,952', () => {
+  assert.equal(idx([...many(10, 'Belegt'), claim('Widerlegt')]), 0.667);
+  assert.equal(idx([...many(20, 'Belegt'), claim('Widerlegt')]), 0.8);
+  assert.equal(idx([...many(100, 'Belegt'), claim('Widerlegt')]), 0.952);
 });
 
-test('30 belegte mit Faktor 1 und 1 widerlegte mit Faktor 3 → 0,500', () => {
-  assert.equal(idx([...many(30, 'Belegt'), claim('Widerlegt', weighted(3))]), 0.5);
+test('30 belegte mit Faktor 1 und 1 widerlegte mit Faktor 3 → 0,667', () => {
+  assert.equal(idx([...many(30, 'Belegt'), claim('Widerlegt', weighted(3))]), 0.667);
 });
 
 test('Eine Widerlegung führt bei endlich vielen belegten Aussagen nie zu exakt 1', () => {
@@ -75,7 +75,7 @@ test('Nicht überprüfbar, Meinungen, Fremdbezüge und Wiederholungen bleiben au
     claim('Widerlegt', { occurrences: [{ role: 'Zurückweisung', roleStatus: 'Bestätigt' }] }),
     claim('Widerlegt', { factIndex: { duplicateOf: main.id } })];
   const r = FI.compute(claims);
-  assert.equal(r.indexRounded, 0.5);
+  assert.equal(r.indexRounded, 0.667);
   assert.deepEqual([r.counts.nicht_pruefbar, r.counts.meinung, r.counts.fremdbezug, r.counts.duplikat], [1, 1, 1, 1]);
   assert.equal(r.coverage, 1);
 });
@@ -105,7 +105,7 @@ test('Höhere Bedeutung einer belegten Aussage erhöht den Index, wenn negative 
 
 test('Mischkategorien: Standardanteile und begründete eigene Anteile', () => {
   assert.equal(idx([claim('Teilweise belegt')]), 0.5);
-  assert.equal(idx([claim('Irreführend / Kontext fehlt')]), 0.091);
+  assert.equal(idx([claim('Irreführend / Kontext fehlt')]), 0.167);
   const own = claim('Teilweise belegt', { factIndex: { shares: { p: 0.75, f: 0, u: 0.25 }, sharesReason: 'Kernzahl belegt, nur Jahreszahl offen.' } });
   assert.equal(idx([own]), 0.75);
   assert.deepEqual(FI.validateData(data([own])), []);
@@ -127,9 +127,9 @@ test('Der Index bleibt immer zwischen 0 und 1 (Zufallsfälle)', () => {
 
 test('Ungewichteter Vergleichsindex und Differenz', () => {
   const r = FI.compute([...many(30, 'Belegt'), claim('Widerlegt', weighted(3))]);
-  assert.equal(r.unweightedRounded, 0.75);
-  assert.equal(r.indexRounded, 0.5);
-  assert.equal(r.difference, -0.25);
+  assert.equal(r.unweightedRounded, 0.857);
+  assert.equal(r.indexRounded, 0.667);
+  assert.equal(r.difference, -0.19);
   assert.equal(r.weightedClaims, 1);
 });
 
@@ -137,10 +137,10 @@ test('Ampel nur aus Index und Bewertbarkeit: Schwellen 0,800 und 0,400 (gerundet
   const done = { workStatus: 'Abgeschlossen' };
   const at = (p, f) => FI.rate(data([...many(p, 'Belegt'), ...many(f, 'Widerlegt')]), done);
   assert.equal(at(10, 0).key, 'gruen');
-  assert.equal(at(40, 1).key, 'gruen');       // 40/50 = 0,800
-  assert.equal(at(39, 1).key, 'gelb');        // 0,796
-  assert.equal(at(20, 3).key, 'gelb');        // 20/50 = 0,400
-  assert.equal(at(19, 3).key, 'rot');         // 0,388
+  assert.equal(at(20, 1).key, 'gruen');       // 20/25 = 0,800
+  assert.equal(at(19, 1).key, 'gelb');        // 0,792
+  assert.equal(at(10, 3).key, 'gelb');        // 10/25 = 0,400
+  assert.equal(at(9, 3).key, 'rot');          // 0,375
   assert.equal(at(0, 10).key, 'rot');
   for (const k of ['gruen', 'gelb', 'rot']) assert.equal(FI.levelFor(k === 'gruen' ? 0.9 : k === 'gelb' ? 0.5 : 0.1), k);
   assert.equal(FI.rate(data(many(10, 'Belegt')), { workStatus: 'Abgeschlossen', ampel: 'rot' }).key, 'gruen', 'eine gesetzte Farbe wird ignoriert');
@@ -195,7 +195,7 @@ test('Bedeutungsfaktor: Standard 1,0 und Stufenbezeichnungen', () => {
 test('Konfiguration ist zentral und unveränderlich', () => {
   assert.ok(Object.isFrozen(FI.CONFIG) && Object.isFrozen(FI.CONFIG.thresholds) && Object.isFrozen(FI.CONFIG.shares.Belegt));
   for (const s of Object.values(FI.CONFIG.shares)) assert.equal(s.p + s.f + s.u, 1);
-  assert.equal(FI.CONFIG.refutedFactor, 10);
+  assert.equal(FI.CONFIG.refutedFactor, 5);
 });
 
 /* Anzeige: faktenindex-ui.js wird mit FactIndex in einem leeren Kontext geladen (kein DOM nötig). */
@@ -209,12 +209,12 @@ test('Anzeige: Index, Ampel und Prüfabdeckung; Rechnung aufklappbar; graue Ampe
   const ctx = ui();
   ctx.v = { id: 'X', video: { workStatus: 'Abgeschlossen' }, data: data([...many(30, 'Belegt'), claim('Widerlegt', weighted(3))]) };
   const head = vm.runInContext('fiHeader(v)', ctx);
-  assert.match(head, /Faktenindex<\/dt><dd>0,500/);
+  assert.match(head, /Faktenindex<\/dt><dd>0,667/);
   assert.match(head, /Ampel<\/dt><dd>Gelb/);
   assert.match(head, /Prüfabdeckung<\/dt><dd>100 %/);
-  assert.match(head, /zehnmal stärker gewichtet/);
+  assert.match(head, /fünfmal stärker gewichtet/);
   assert.match(head, /<details class="fi-details">/);
-  assert.match(head, /Ungewichteter Index: <b>0,750<\/b>.*Differenz: <b>−0,250<\/b>/s);
+  assert.match(head, /Ungewichteter Index: <b>0,857<\/b>.*Differenz: <b>−0,190<\/b>/s);
   ctx.w = { id: 'Y', video: { workStatus: 'Teilbestand geprüft' }, data: data([...many(10, 'Belegt'), ...open(10)]) };
   const card = vm.runInContext("fiAmpelView(w, '')", ctx);
   assert.match(card, /ampel-vorlaeufig/);
@@ -242,8 +242,8 @@ test('Anzeige je Aussage: Faktor, Begründung, Anteile, Kontrollen, Agenten; Ung
 
 test('Methodik nennt Formel, Schwellen und Beispiele aus der zentralen Konfiguration', () => {
   const html = vm.runInContext("fiMethod(k => '<i>' + k + '</i>')", ui());
-  assert.match(html, /10 belegt, 1 widerlegt → 0,500/);
-  assert.match(html, /100 belegt, 1 widerlegt → 0,909/);
+  assert.match(html, /10 belegt, 1 widerlegt → 0,667/);
+  assert.match(html, /100 belegt, 1 widerlegt → 0,952/);
   assert.match(html, /Grün: Faktenindex ab 0,800/);
   assert.match(html, /Prüfabdeckung unter 80 %/);
 });
