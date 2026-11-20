@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0004",
+  "kind": "Fehlbewertung",
+  "status": "Gemeldet",
+  "reportedOn": "2026-11-20",
+  "reportedBy": "Codex",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0298",
+    "entryId": null,
+    "description": "Mögliche Verwechslung eines ausdrücklich hypothetischen Host-Geldkreislaufs mit einer Tatsachenbehauptung: Originalumfeld 02:03:41–02:04:45 am 20.11.2026 erneut gelesen. Ob die bestehende Einstufung als Nicht überprüfbar statt Meinung/Modell zutrifft, getrennt prüfen. A0299 wird unabhängig davon anhand amtlicher Zahlungswege nachgeprüft; noch keine Änderung an A0298."
+  },
+  "evidence": [],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0298",
+      "reason": "Ausgangspunkt"
+    }
+  ],
+  "decision": null,
+  "changes": [],
+  "history": [
+    {
+      "date": "2026-11-20",
+      "agent": "Codex",
+      "change": "Gemeldet; Betroffene automatisch über gleiche Quelle, Verknüpfungen und Abhängigkeiten ermittelt."
+    }
+  ]
+}

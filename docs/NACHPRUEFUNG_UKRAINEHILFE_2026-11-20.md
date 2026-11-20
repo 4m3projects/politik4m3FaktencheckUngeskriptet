@@ -1,0 +1,7 @@
+# Waffenhilfe und Zahlungswege
+
+[Codex], 20.11.2026, Issue #77, Basis e6c8495. Offene Aussage A0299 nach UG-/HP-Suche mit zwei unterschiedlichen Formulierungen und erneuter Originaltextlektüre 02:03:41–02:05:29 geprüft. Keine vollständige Hör-/Sichtkontrolle. Beide Gesprächsrollen bleiben getrennt: Der Gast widerspricht einem zuvor vom Host hypothetisch beschriebenen Geldkreislauf.
+
+Ergebnis: **Teilweise belegt**. Die gelesene Regierungsantwort vom 10.02.2023 (20/5615, Frage 132, Seite 86) benennt ausdrücklich fehlende Rückzahlungs-/Rückgabepflicht materieller Hilfen. Diese historische Aussage ist kein Generalbeweis für sämtliche späteren Verträge. Die vollständig gelesene NATO-Mitteilung vom 08.09.2026 dokumentiert US-Beschaffung und unterscheidet Geberfinanzierung über PURL von anderen Mitteln einschließlich eines EU-Darlehens. Daraus wird keine allgemeine Überweisung deutscher Hilfsgelder durch die Ukraine an die USA abgeleitet. Keine zugesagten oder zugewiesenen Mittel als bereits gelieferte Einzelposten ausgegeben.
+
+Keine passende direkte Reaktionsverknüpfung vorhanden. Andere Urteile und alle Bedeutungsfaktoren bleiben unverändert. A0298 zum hypothetischen Geldkreislauf wird nicht automatisch umgewertet; dessen gesonderte Einordnung ist ein möglicher späterer Reviewpunkt. Nur eigene Paraphrasen und Quellenlinks veröffentlicht. Danach drei offene eigene Lüning-Tatsachen: A0283, A0296 und A0358. Gesamtprüfung weiterhin unvollständig.
