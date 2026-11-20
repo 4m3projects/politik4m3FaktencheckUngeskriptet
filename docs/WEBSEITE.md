@@ -33,7 +33,7 @@ Andere Dateien werden nicht übernommen. Der Titel stammt aus der ersten Übersc
 - Je Fundstelle: Zeitmarke mit Link zum Original, Zeitpräzision, Sprecherzuordnung (bestätigt / plausibel / ungeklärt) und Aussagebezug mit Begründung.
 - Quellen mit direktem Link, Datenstand, Abrufdatum und Zugriffsgrundlage.
 - Keine Personenrankings oder Glaubwürdigkeitsnoten.
-- Faktenampel je Video (Startseitenkarten, Videokopf, Listen von Originalen und Reaktionen), zur Laufzeit aus den Einzelbewertungen berechnet; Regel nur in `site/ampel.js`, siehe [AMPEL.md](AMPEL.md).
+- Faktenampel je Video (Startseitenkarten, Videokopf, Listen von Originalen und Reaktionen), zur Laufzeit aus den Einzelbewertungen berechnet; Regel nur in `site/faktenindex.js`, siehe [FAKTENINDEX.md](FAKTENINDEX.md).
 
 ## Einmalige Einrichtung
 
@@ -136,4 +136,4 @@ Erstellt von: Claude. Ein Klick auf einen Bericht (Berichtsnavigation oder Link 
 
 ## YouTube Shorts
 
-Videos mit `"format": "short"` in `video.json` (oder ohne `video.json` mit einer `/shorts/`-Adresse) tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „Short“. In der Video-Ansicht steht der Player im Hochformat 9:16 und ist höchstens so hoch wie das Fenster; nebeneinander bekommt die Aussagenliste den übrigen Platz, untereinander ist der Player schmal und mittig. Die Faktenampel nutzt für Shorts eine eigene Mindestgrundlage (docs/AMPEL.md). Erfassung und Datenmodell: [SHORTS.md](SHORTS.md).
+Videos mit `"format": "short"` in `video.json` (oder ohne `video.json` mit einer `/shorts/`-Adresse) tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „Short“. In der Video-Ansicht steht der Player im Hochformat 9:16 und ist höchstens so hoch wie das Fenster; nebeneinander bekommt die Aussagenliste den übrigen Platz, untereinander ist der Player schmal und mittig. Die Faktenampel nutzt für Shorts eine eigene Mindestgrundlage (docs/FAKTENINDEX.md). Erfassung und Datenmodell: [SHORTS.md](SHORTS.md).

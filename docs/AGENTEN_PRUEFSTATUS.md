@@ -26,7 +26,7 @@ Für jede Tatsachenbehauptung ohne Urteil der Reihe nach fragen:
 - **`Nicht überprüfbar` nur für Tatsachenbehauptungen.** Meinungen und Prognosen werden `Abgeschlossen` mit `Meinung / Prognose` eingeordnet.
 - **Offene Aussagen werden nachgearbeitet.** Wer an einem Video arbeitet, sieht zuerst die Aussagen mit Status `Offen` durch und recherchiert sie, bevor neue Aussagen erfasst werden. Eine Aussage verlässt `Offen` nur durch tatsächliche Recherche (Urteil oder begründetes `Nicht ausreichend belegbar`) oder durch die Feststellung, dass sie grundsätzlich nicht prüfbar ist.
 - **Wortlautprüfungen** an YouTube-Stellen sind aus der Cloud-Umgebung nicht möglich; sie bleiben `Offen` und werden auf Jens' Rechner nachgeholt.
-- **Kein Ampel-Effekt.** Keiner der drei Fälle ohne Urteil zählt als Fehler. Noch nicht geprüfte und nicht überprüfbare Aussagen zählen in der Faktenampel nur zu den „erfassten“ Tatsachenbehauptungen ([AMPEL.md](AMPEL.md)). Keine Einstufung ändern, um eine Ampelfarbe zu erreichen.
+- **Wirkung im Faktenindex** ([FAKTENINDEX.md](FAKTENINDEX.md)): Keiner der drei Fälle ohne Urteil zählt als widerlegt. Noch nicht geprüfte und laufende Aussagen gehen gar nicht in den Index ein, senken aber die Prüfabdeckung. Nicht überprüfbare zählen weder im Index noch in der Prüfabdeckung. „Nicht ausreichend belegbar“ ist ein geprüftes, ungeklärtes Ergebnis und geht als ungeklärter Anteil ein. Keine Einstufung ändern, um einen Indexwert oder eine Ampelfarbe zu erreichen.
 - **Nachvollziehbarkeit.** Jede Umstufung wird in `migration.assessmentChange` mit Datum und Agent festgehalten; die frühere Begründung bleibt erkennbar.
 
 ## Prüfen bestehender Einstufungen

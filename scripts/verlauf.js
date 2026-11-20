@@ -15,6 +15,8 @@ const { execFileSync } = require('child_process');
 const fs = require('fs');
 const path = require('path');
 
+const FactIndex = require('../site/faktenindex.js');
+
 const ROOT = path.join(__dirname, '..');
 const ID_RE = /^[A-Za-z0-9_-]{11}$/;
 
@@ -34,8 +36,19 @@ const KINDS = {
   zurueck: { rank: 12, label: 'Prüfstand zurückgesetzt' },
   angaben: { rank: 13, label: 'Videoangaben aktualisiert' },
   themen: { rank: 14, label: 'Themenzuordnung aktualisiert' },
-  bericht: { rank: 15, label: 'Berichte aktualisiert' }
+  bericht: { rank: 15, label: 'Berichte aktualisiert' },
+  bedeutung: { rank: 6, label: 'Bedeutungsfaktoren geändert' },
+  faktenindex: { rank: 16, label: 'Faktenindex geändert' }
 };
+
+/* Faktenindex eines Stands (site/faktenindex.js, immer nach der aktuellen Regel berechnet), gerundet. */
+function indexOf(snapshot) {
+  const claims = snapshot?.claims?.claims;
+  return Array.isArray(claims) ? FactIndex.compute(claims).indexRounded : null;
+}
+const fiText = x => (x == null ? 'nicht bewertbar' : FactIndex.format(x));
+/* Bedeutungsfaktor samt Einschätzung (factIndex) zählt nicht als inhaltliche Überarbeitung, sondern eigens. */
+const withoutIndexFields = c => ({ ...c, shortReason: null, factIndex: null });
 
 const n = (k, one, many) => `${k} ${k === 1 ? one : many}`;
 
@@ -89,7 +102,7 @@ function diffSnapshots(prev, cur, opts = {}) {
   /* Einzelne Aussagen (strukturiert/aussagen.json), zugeordnet über ihre ID. */
   const before = new Map(claimsPrev.map(c => [c.id, c]));
   const after = new Map(claimsCur.map(c => [c.id, c]));
-  let added = 0, removed = 0, verdict = 0, finished = 0, reopened = 0, status = 0, content = 0;
+  let added = 0, removed = 0, verdict = 0, finished = 0, reopened = 0, status = 0, content = 0, weights = 0;
   for (const [id, c] of after) {
     const p = before.get(id);
     if (!p) { added++; continue; }
@@ -102,10 +115,12 @@ function diffSnapshots(prev, cur, opts = {}) {
       else status++;
     } else if (vChanged && !p.verdict) finished++;
     /* Die Kurzbegründung (shortReason) fasst nur die bestehende Begründung zusammen und zählt nicht als Überarbeitung. */
-    if (!vChanged && !sChanged && !same({ ...p, shortReason: null }, { ...c, shortReason: null })) content++;
+    if (!vChanged && !sChanged && !same(withoutIndexFields(p), withoutIndexFields(c))) content++;
+    if (!same(p.factIndex || null, c.factIndex || null)) weights++;
   }
   for (const id of before.keys()) if (!after.has(id)) removed++;
   if (verdict) add('bewertung', n(verdict, 'Bewertung geändert', 'Bewertungen geändert'));
+  if (weights) add('bedeutung', n(weights, 'Bedeutungsfaktor oder Indexanteil geändert', 'Bedeutungsfaktoren oder Indexanteile geändert'));
   if (finished) add('geprueft', n(finished, 'Aussage fertig geprüft', 'Aussagen fertig geprüft'));
   if (added) add('aussagen', n(added, 'Aussage neu erfasst', 'Aussagen neu erfasst'));
   if (removed) add('aussagen', n(removed, 'Aussage entfernt oder zusammengeführt', 'Aussagen entfernt oder zusammengeführt'));
@@ -126,6 +141,8 @@ function diffSnapshots(prev, cur, opts = {}) {
   if (!same(vPrev, vCur)) add('angaben');
   if (!same(prev.topics, cur.topics)) add('themen');
   if (!same(prev.reports || {}, cur.reports || {})) add('bericht');
+  const iPrev = indexOf(prev), iCur = indexOf(cur);
+  if (iPrev !== iCur) add('faktenindex', `Faktenindex ${fiText(iPrev)} → ${fiText(iCur)}`);
   return items;
 }
 
@@ -183,7 +200,7 @@ function buildHistory(ref = 'HEAD') {
       const root = !parents || shallow.has(sha);
       if (root && (!start || date < start.date)) start = { commit: sha, date };
       const items = sortItems(diffSnapshots(prev, cur, { root }));
-      if (cur && items.length) events.push({ date, commit: sha, items });
+      if (cur && items.length) events.push({ date, commit: sha, items, factIndex: { before: indexOf(prev), after: indexOf(cur) } });
       prev = cur;
     }
     if (events.length) videos.push({ id, events: events.reverse() });
@@ -211,4 +228,4 @@ if (require.main === module) {
   }
 }
 
-module.exports = { KINDS, diffSnapshots, sortItems, buildHistory, canon };
+module.exports = { KINDS, diffSnapshots, sortItems, buildHistory, canon, indexOf };

@@ -190,6 +190,12 @@ function Assert-FactcheckData($Data) {
         if (@($c.PSObject.Properties.Name) -ccontains 'research') { $claimKeys += 'research' }
         # Kurzbegruendung (docs/KURZBEGRUENDUNG.md): ein Satz, der schon im zugeklappten Zustand sichtbar ist.
         if (@($c.PSObject.Properties.Name) -ccontains 'shortReason') { $claimKeys += 'shortReason' }
+        # Faktenindex (docs/FAKTENINDEX.md): optionaler Bedeutungsfaktor, eigene Anteile, Kontrollen und Aenderungen.
+        # Inhaltlich geprueft von site/faktenindex.js (node scripts/faktenindex.js pruefen); hier nur die Form.
+        if (@($c.PSObject.Properties.Name) -ccontains 'factIndex') {
+            $claimKeys += 'factIndex'
+            if ($c.factIndex -isnot [pscustomobject]) { throw 'factIndex muss ein Objekt sein.' }
+        }
         Assert-FactcheckKeys $c $claimKeys 'Aussage'
         if ($c.id -cnotmatch ('^' + [regex]::Escape($s.videoId) + '-A[0-9]{4,}$') -or $claimIds.ContainsKey($c.id)) { throw 'Doppelte/ungueltige Aussage-ID.' }
         if ($c.videoId -cne $s.videoId -or ($null -ne $c.legacyId -and $s.selectedLegacyIds -cnotcontains $c.legacyId)) { throw 'Aussage hat falsche Video-/Herkunftszuordnung.' }

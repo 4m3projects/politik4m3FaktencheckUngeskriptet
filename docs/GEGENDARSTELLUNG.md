@@ -16,7 +16,7 @@ Sagt jemand in einem Video etwas Falsches oder Unsicheres, und ein anderes gepr�
 3. **Nur aus gepflegten Verknüpfungen**, nie aus Wortähnlichkeit:
    - `faktenchecks/beziehungen.json`: Verknüpfung vom Typ `gegenbehauptung` (in beide Richtungen: auch ein Original kann eine falsche Reaktionsaussage korrigieren).
    - Wissenseinträge `wissen/eintraege/*.json` mit Status `Geprüft` und entschiedenem Urteil: Die kritische Aussage ist mit `gleichwertig`/`teilaspekt` verknüpft und die Gegenaussage mit `widerspricht` (oder umgekehrt), und die Haltung der Gegenaussage folgt dem Urteil des Eintrags. `verwandt` zählt nie, ebenso Verweise in andere Repos (`repo`).
-4. **Mehrere Gegenaussagen:** Belegt vor Teilweise belegt, dann das Video mit der besseren Faktenampel (Grün, Gelb, Nicht bewertbar, Vorläufig, Rot; berechnet nur in `site/ampel.js`), dann die direkte Reaktionsverknüpfung vor der Wissensdatenbank. Die beste steht vorn, die übrigen sind aufklappbar.
+4. **Mehrere Gegenaussagen:** Belegt vor Teilweise belegt, dann das Video mit der besseren Faktenampel (Grün, Gelb, Nicht bewertbar, Vorläufig, Rot; berechnet nur in `site/faktenindex.js`), dann die direkte Reaktionsverknüpfung vor der Wissensdatenbank. Die beste steht vorn, die übrigen sind aufklappbar.
 5. **Keine Rückwirkung:** Es wird nichts gespeichert. Bewertungen, Statistik und Faktenampel bleiben unverändert.
 
 Tests: `node --test site/gegendarstellung-test.js` (im Workflow, mit Prüfung der echten Projektdaten) und Abschnitte „Gegendarstellung“ in `node site/wissen-browser-test.js`.
