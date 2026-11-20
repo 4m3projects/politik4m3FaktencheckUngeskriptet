@@ -51,7 +51,7 @@ Baue eine eigenständige, möglichst neutrale, faktenorientierte Prüfumgebung f
 
 ## Rangliste (seit 20.11.2026)
 
-[docs/RANGLISTE.md](docs/RANGLISTE.md): Die Seite „Rangliste“ ordnet Videos ausschließlich nach dem berechneten Faktenindex (gute oben, schlechte unten); nur Videos mit Ampel Grün, Gelb oder Rot bekommen einen Platz. Kein Platz wird gespeichert oder von Hand gesetzt, keine Bewertung wird dafür geändert. Logik in `site/rangliste.js`, in allen drei Repositories gleich. Die Rangliste bewertet Videos, nicht Personen.
+[docs/RANGLISTE.md](docs/RANGLISTE.md): Die Seite „Rangliste“ ordnet Videos ausschließlich nach dem berechneten Faktenindex (gute oben, schlechte unten); nur Videos mit Ampel Grün, Gelb oder Rot bekommen einen Platz. Kein Platz wird gespeichert oder von Hand gesetzt, keine Bewertung wird dafür geändert. Logik in `site/rangliste.js`, in allen drei Repositories gleich. Dazu eine Kanal-Rangliste (Kanalwert = Durchschnitt der Faktenindizes der Videos mit Platz); Kanalnamen verlinken auf sie. Die Rangliste bewertet geprüfte Videos, nicht Personen.
 
 ## YouTube Shorts
 

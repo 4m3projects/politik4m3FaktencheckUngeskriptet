@@ -553,7 +553,7 @@ function relationSummary(r, videos, side) {
     <div class="rel-body">
     <a href="#/video/${esc(other)}"><strong>${esc(videoName(other))}</strong></a>
     <div>${ampelView(videos.get(other), 'compact')}</div>
-    <div class="small">${esc(e?.video?.channel || '')}${side === 'original' && e?.video?.reactionType ? ' · ' + esc(reactionTypeName(e.video.reactionType)) : ''} · Analyse: ${esc(e?.video?.workStatus || 'unbekannt')} · Zuordnung ${esc(r.certainty.toLowerCase())}</div>
+    <div class="small">${channelLink(e?.video?.channel || '')}${side === 'original' && e?.video?.reactionType ? ' · ' + esc(reactionTypeName(e.video.reactionType)) : ''} · Analyse: ${esc(e?.video?.workStatus || 'unbekannt')} · Zuordnung ${esc(r.certainty.toLowerCase())}</div>
     <div class="small">${esc(r.basis)}</div>
     <div class="small">${(r.claimLinks || []).length} verknüpfte Aussagen${conflicts ? ` · <span class="rel-conflict-text">⚠ ${conflicts} offene${conflicts === 1 ? 'r' : ''} Prüfkonflikt${conflicts === 1 ? '' : 'e'}</span>` : ''}</div>
     </div>
@@ -604,7 +604,7 @@ function roleLine(v) {
     return `<p class="role-line">${shortBadge(v)}<span class="badge kind">Originalinterview</span>${n ? ` <a href="#/video/${esc(v.id)}/reaktionen">${n} zugeordnete Reaktion${n === 1 ? '' : 'en'}</a>` : ''}</p>`;
   }
   const origs = (state.rel.byReaction.get(v.id) || []).map(r => `<a href="#/video/${esc(r.originalVideoId)}">${esc(videoName(r.originalVideoId))}</a>`);
-  return `<p class="role-line">${shortBadge(v)}<span class="badge kind">${esc(reactionTypeName(m.reactionType))}</span> von ${esc(m.channel)}${origs.length ? ` · bezieht sich auf: ${origs.join(', ')}` : ''}</p>`;
+  return `<p class="role-line">${shortBadge(v)}<span class="badge kind">${esc(reactionTypeName(m.reactionType))}</span> von ${channelLink(m.channel)}${origs.length ? ` · bezieht sich auf: ${origs.join(', ')}` : ''}</p>`;
 }
 
 /* ---------- Seiten ---------- */
@@ -620,11 +620,19 @@ function setPage(html, nav) {
   });
 }
 
-function videoFacts(v) {
+/* Kanalname als Link auf die Rangliste dieses Kanals (site/rangliste.js). label: angezeigter Text. */
+function channelLink(name, label) {
+  const n = String(name || '').trim();
+  const text = label ?? n;
+  if (!n || typeof FactRanking === 'undefined') return esc(text);
+  return `<a class="channel-link" href="${esc(FactRanking.channelHref(n))}" title="Rangliste dieses Kanals">${esc(text)}</a>`;
+}
+
+function videoFacts(v, link = false) {
   const m = v.meta;
   const items = [];
   const channel = m.Kanal || v.video?.channel;
-  if (channel) items.push(`<li>Kanal: <strong>${esc(stripMd(channel))}</strong></li>`);
+  if (channel) items.push(`<li>Kanal: <strong>${link ? channelLink(typeof FactRanking === 'undefined' ? stripMd(channel) : FactRanking.channelOf(v) || stripMd(channel), stripMd(channel)) : esc(stripMd(channel))}</strong></li>`);
   const pub = FactRelations.videoPublication(m);
   if (pub) items.push(`<li>Veröffentlicht: <strong>${esc(stripMd(pub))}</strong></li>`);
   const duration = m.Laufzeit || (v.data?.scope?.durationSeconds > 0 ? hms(v.data.scope.durationSeconds) : null);
@@ -1043,7 +1051,7 @@ function videoHeader(v, tab) {
     ${roleLine(v)}
     ${typeof videoTopicLine === 'function' ? videoTopicLine(v.id) : ''}
     ${fiHeader(v)}
-    <ul class="facts">${videoFacts(v)}</ul>
+    <ul class="facts">${videoFacts(v, true)}</ul>
     <div class="btn-row">
       ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" data-tip="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
       ${(scope?.videoUrl || v.video?.videoUrl) ? extLink(scope?.videoUrl || v.video.videoUrl, `<span class="btn ghost">${v.video?.role === 'reaction' ? 'Video' : 'Originalvideo'} auf YouTube</span>`) : ''}
@@ -1365,7 +1373,7 @@ async function pageVerlauf() {
   const row = v => {
     const meta = byId.get(v.id);
     const name = meta.video?.title || meta.title || v.id;
-    const role = meta.video?.role === 'reaction' ? `Reaktion von ${meta.video.channel}` : meta.video?.role === 'original' ? 'Originalinterview' : 'Faktencheck';
+    const role = meta.video?.role === 'reaction' ? `Reaktion von ${channelLink(meta.video.channel)}` : meta.video?.role === 'original' ? 'Originalinterview' : 'Faktencheck';
     const [last, ...older] = v.events;
     const rest = verlaufItems(last.items);
     return `<li class="verlauf-item" id="verlauf-${esc(v.id)}">
@@ -1373,7 +1381,7 @@ async function pageVerlauf() {
       <div class="verlauf-body">
         <p class="verlauf-event"><span class="badge verlauf-kind verlauf-${esc(last.items[0].kind)}">${esc(last.items[0].text)}</span></p>
         <h2 class="verlauf-title"><a href="#/video/${esc(v.id)}">${esc(name)}</a></h2>
-        <p class="small muted">${esc(role)}${rest ? ' · ' + rest : ''} · ${commitLink(last.commit)}</p>
+        <p class="small muted">${role}${rest ? ' · ' + rest : ''} · ${commitLink(last.commit)}</p>
         ${older.length ? `<details class="verlauf-older"><summary>Früherer Verlauf (${older.length})</summary><ol>${older.map(e => `<li><time datetime="${esc(e.date)}">${esc(verlaufDate(e.date))}</time>: ${e.items.map(i => esc(i.text)).join(' · ')} · ${commitLink(e.commit)}</li>`).join('')}</ol></details>` : ''}
       </div>
     </li>`;
@@ -1392,14 +1400,16 @@ async function pageVerlauf() {
 }
 
 /* Rangliste: Videos nach ihrem berechneten Faktenindex, gute oben (site/rangliste.js, docs/RANGLISTE.md). */
-async function pageRangliste() {
+async function pageRangliste(view = 'videos', channel = '') {
   const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   setPage(FactRanking.renderPage(all, {
+    view, channel,
     roleKey: v => v.video?.role || '',
     roleLabel: v => v.video?.role === 'reaction' ? `${reactionTypeName(v.video.reactionType)} von ${v.video.channel}` : v.video?.role === 'original' ? 'Originalinterview' : ''
   }), 'rangliste');
   FactRanking.bindFilter(main());
-  document.title = 'Rangliste – Politik4M3 Faktencheck Ungeskriptet';
+  const name = view === 'kanal' ? (main().querySelector('h1')?.textContent || 'Kanal') + ' – ' : view === 'kanaele' ? 'Kanäle – ' : '';
+  document.title = name + 'Rangliste – Politik4M3 Faktencheck Ungeskriptet';
   window.scrollTo(0, 0);
 }
 
@@ -1499,7 +1509,11 @@ async function routePage() {
     }
     if (parts[0] === 'jens') return pageJens();
     if (parts[0] === 'verlauf') return await pageVerlauf();
-    if (parts[0] === 'rangliste') return await pageRangliste();
+    if (parts[0] === 'rangliste') {
+      if (parts[1] === 'kanaele') return await pageRangliste('kanaele');
+      if (parts[1] === 'kanal' && parts[2]) return await pageRangliste('kanal', parts.slice(2).join('/'));
+      return await pageRangliste();
+    }
     if (parts[0] === 'themen') return await pageTopics();
     if (parts[0] === 'thema' && parts[1]) return await pageTopic(parts.slice(1).join('/'));
     return await pageHome();

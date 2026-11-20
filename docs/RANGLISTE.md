@@ -1,6 +1,6 @@
-# Rangliste – Videos nach Faktenindex
+# Rangliste – Videos und Kanäle nach Faktenindex
 
-Erstellt von: Claude, auf Auftrag von Jens (20.11.2026).
+Erstellt von: Claude, auf Auftrag von Jens (20.11.2026); Kanal-Rangliste ergänzt am selben Tag.
 
 **Diese Regel und `site/rangliste.js` sind in allen drei Repositories gleich** (`politik4m3Facktencheck`, `politik4m3FaktencheckUngeskriptet`, `politik4m3FaktencheckKlima`).
 
@@ -14,6 +14,15 @@ Die Seite „Rangliste“ (`#/rangliste`, Menüpunkt in der oberen Leiste) ordne
 2. **Platz nur mit belastbarer Ampel.** Einen Platz bekommen nur Videos mit Ampel Grün, Gelb oder Rot. Videos mit grauer Ampel (nicht bewertbar oder Prüfung läuft) stehen getrennt unter „Noch ohne Platz“; ein vorläufiger Index wird dort nur angezeigt und zählt nicht.
 3. **Reihenfolge.** Höherer Index (auf drei Stellen gerundet, wie angezeigt) zuerst. Gleicher Index heißt gleicher Platz („1, 1, 3“). Innerhalb gleicher Plätze ordnen höhere Prüfabdeckung, dann mehr bewertete Aussagen, dann der Titel.
 4. **Videos, keine Personen.** Die Rangliste bewertet die Faktenlage der geprüften Aussagen eines Videos. Sie ist keine Glaubwürdigkeitsnote für Gäste, Moderatoren oder Kanäle.
-5. Wo es Originale und Reaktionen gibt, lässt sich die Liste danach filtern.
+5. Wo es Originale und Reaktionen gibt, lässt sich die Liste danach filtern; außerdem nach Kanal.
 
-Agenten setzen nie einen Platz von Hand und ändern nie eine Einzelbewertung, um einen Platz zu erreichen. Änderungen an der Reihenfolge nur in `site/rangliste.js` mit Tests (`site/rangliste-test.js`) und dieser Datei, in allen drei Repositories gleich.
+## Kanäle
+
+- **Seiten:** `#/rangliste/kanaele` (alle Kanäle) und `#/rangliste/kanal/<adresse>` (ein Kanal mit seinen Videos, ihrem Platz im Kanal und ihrem Gesamtplatz). Die Adresse wird aus dem Kanalnamen gebildet („{ungeskriptet} by Ben“ → `ungeskriptet-by-ben`).
+- **Kanalname:** `channel` aus `video.json`, sonst der README-Stichpunkt „- Kanal: …“ ohne Klammerzusatz. Videos ohne Kanalangabe zählen bei keinem Kanal.
+- **Kanalwert:** Durchschnitt der angezeigten Faktenindizes aller Videos des Kanals, die einen Platz haben; jedes Video zählt gleich. Videos mit grauer Ampel gehören zum Kanal, zählen aber nicht. Kanäle ohne Video mit Platz bekommen keinen Platz.
+- **Reihenfolge:** höherer Kanalwert zuerst; gleicher Wert heißt gleicher Platz; danach mehr Videos mit Platz, dann der Name. Die Farbe folgt denselben Schwellen wie die Ampel eines Videos.
+- **Einordnung:** Der Kanalwert beschreibt nur die hier geprüften Videos, nicht den ganzen Kanal und nicht die Glaubwürdigkeit von Personen. Bei Interviewformaten stammen viele Aussagen von Gästen. Ein Kanal mit nur einem geprüften Video hat eine schmale Grundlage; die Zahl der Videos steht immer dabei.
+- **Verlinkung:** Wo die Seite einen Kanalnamen außerhalb eines Kartenlinks zeigt (Videokopf, Einordnung „Reaktion von …“, Bezüge zwischen Videos, Verlauf, Rangliste), führt er zur Rangliste dieses Kanals.
+
+Agenten setzen nie einen Platz oder Kanalwert von Hand und ändern nie eine Einzelbewertung, um einen Platz zu erreichen. Änderungen an der Reihenfolge nur in `site/rangliste.js` mit Tests (`site/rangliste-test.js`) und dieser Datei, in allen drei Repositories gleich.
