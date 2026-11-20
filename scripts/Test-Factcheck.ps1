@@ -643,7 +643,7 @@ Case 'Nicht Ueberpruefbares ist eigener Status ohne Endurteil, Ungeprueftes blei
     foreach($c in $marked){Check-True ($c.status -ceq 'Nicht überprüfbar' -and $null -eq $c.verdict -and $c.openQuestions.Count -gt 0) ('Nicht Ueberpruefbares falsch eingestuft: '+$c.id)}
     foreach($c in @($script:current.claims | Where-Object status -CEQ 'Offen')){Check-True ($c.reason.StartsWith('Noch nicht geprüft – ') -and $c.migration.assessmentChange.Contains($script:statusReview)) ('Offene Aussage ohne Kennzeichnung als noch nicht geprueft: '+$c.id)}
     Check-True (@($script:current.claims | Where-Object status -CEQ 'In Bearbeitung').Count -eq 0) 'Laufende Pruefung ohne Abschluss.'
-    $d=ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson $script:current);$c=@($d.claims | Where-Object status -CEQ 'Offen')[0];$c.reason='Nicht überprüfbar – getarnte offene Prüfung.'
+    $d=ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson $script:current);$c=$d.claims[0];$c.status='Offen';$c.verdict=$null;$c.reason='Nicht überprüfbar – getarnte offene Prüfung.'
     Expect-Rejection { Assert-FactcheckData $d } 'nur mit Status'
     $c.status='Nicht überprüfbar';$c.reason='Noch nicht geprüft – Status ohne passenden Grund.'
     Expect-Rejection { Assert-FactcheckData $d } 'Begruendung mit'
@@ -666,8 +666,8 @@ Case 'Zinsreihe und Restlaufzeit an amtlichen Daten statt Erinnerung bewertet' {
 Case 'Aktueller Endstand trennt Migration Forschung und Referenzfragen' {
     $s=Get-FactcheckStatistics $script:current
     Check-True ($s.statementRecords -eq 395 -and $s.uniqueStatements -eq 392 -and $s.referenceOnlyStatements -eq 3 -and $s.assertionOccurrences -eq 436 -and $s.referenceOccurrences -eq 11 -and $s.additionalAssertionOccurrences -eq 44) 'Aktuelle Vorkommenszaehlung falsch.'
-    Check-True ($s.statusCounts.Abgeschlossen -eq 241 -and $s.statusCounts.Offen -eq 3 -and $s.statusCounts.'Nicht überprüfbar' -eq 148 -and $s.statusCounts.'In Bearbeitung' -eq 0 -and $s.completedFacts -eq 161 -and $s.openFacts -eq 3 -and $s.unverifiableFacts -eq 148) 'Aktueller Forschungsstand falsch.'
-    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '39,87,24,7,4,80') 'Aktuelle Kategorien falsch.'
+    Check-True ($s.statusCounts.Abgeschlossen -eq 244 -and $s.statusCounts.Offen -eq 0 -and $s.statusCounts.'Nicht überprüfbar' -eq 148 -and $s.statusCounts.'In Bearbeitung' -eq 0 -and $s.completedFacts -eq 163 -and $s.openFacts -eq 0 -and $s.unverifiableFacts -eq 148) 'Aktueller Forschungsstand falsch.'
+    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '39,89,24,7,4,81') 'Aktuelle Kategorien falsch.'
     Check-True ($script:current.scope.unmigratedLegacyPoints -eq 0 -and $script:current.scope.kind -ceq 'Teilbestand') 'Vollstaendige Migration darf ohne Vollpruefung kein Vollbestand sein.'
     $w=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0207')[0]
     Check-True ($w.verdict -ceq 'Belegt' -and ($w.sourceRefs.sourceId -join ',') -ceq 'S100' -and $w.migration.assessmentChange.Contains('Kapitel-7-Prüfung')) 'Fortschreibung A0207 nicht dokumentiert.'
