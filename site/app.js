@@ -1525,6 +1525,8 @@ document.addEventListener('DOMContentLoaded', route);
 /* Dropdown „weitere Faktenchecks“ am Titel. Mit Maus öffnet es per Hover (CSS);
    auf Touchgeräten und per Tastatur über den Pfeil-Knopf. Ein Klick auf den Titel führt zur Startseite. */
 (function brandMenu() {
+  // Node-Tests laden app.js mit einem minimalen document ohne getElementById.
+  if (typeof document === 'undefined' || typeof document.getElementById !== 'function') return;
   const menu = document.getElementById('brand-menu');
   const toggle = document.getElementById('brand-toggle');
   if (!menu || !toggle) return;
