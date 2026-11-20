@@ -14,7 +14,7 @@
  *  - Angezeigt werden nur Gegenaussagen, die selbst abgeschlossen als „Belegt“ oder „Teilweise belegt“ bewertet sind.
  *  - Belegte und teilweise belegte Aussagen erhalten nie eine Gegendarstellung.
  *  - Bei mehreren Gegenaussagen gewinnt die besser bewertete (Belegt vor Teilweise belegt), danach das
- *    Video mit der besseren Faktenampel (berechnet nur in site/ampel.js und hier nur übergeben).
+ *    Video mit der besseren Faktenampel (berechnet nur in site/faktenindex.js und hier nur übergeben).
  */
 (function (root, factory) {
   const api = factory();
@@ -84,7 +84,7 @@
 
   /*
    * Gegendarstellungen zu einer Aussage, beste zuerst.
-   * lookup(claimId) -> { claim, ampel } oder null; ampel ist der Schlüssel aus FactAmpel.rate (optional).
+   * lookup(claimId) -> { claim, ampel } oder null; ampel ist der Schlüssel aus FactIndex.rate (optional).
    * Ergebnis: [{ claimId, videoId, claim, ampel, via, ref, note, seconds }]
    */
   function forClaim(claim, index, lookup) {

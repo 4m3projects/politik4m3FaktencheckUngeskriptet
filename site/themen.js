@@ -64,7 +64,7 @@ function timeLink(videoId, sec, label) {
 }
 function claimHref(videoId, claimId) { return `#/video/${esc(videoId)}/aussage/${esc(claimId)}`; }
 
-/* Gesamt-Faktenampel eines Videos (berechnet nur in site/ampel.js über ampelView), damit man vor dem
+/* Gesamt-Faktenampel eines Videos (berechnet nur in site/faktenindex.js über ampelView), damit man vor dem
    Klick sieht, wie das ganze Video abschneidet – nicht nur die eine Aussage. Setzt voraus, dass
    pageTopic die Videos vorher geladen hat; sonst bleibt die Stelle leer. */
 function videoAmpel(videoId) {
