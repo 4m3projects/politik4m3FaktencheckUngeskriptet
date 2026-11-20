@@ -636,7 +636,7 @@ Case 'Nicht Ueberpruefbares ist eigener Status ohne Endurteil, Ungeprueftes blei
     Expect-Rejection { Assert-FactcheckData $d } 'nur mit Status'
     $c.status='Nicht überprüfbar';$c.reason='Noch nicht geprüft – Status ohne passenden Grund.'
     Expect-Rejection { Assert-FactcheckData $d } 'Begruendung mit'
-    Check-True ($script:current.scope.coverageNote.StartsWith('Recherche weitgehend abgeschlossen') -and $script:current.scope.coverageNote.Contains('Keine Statistik des vollständigen Videos')) 'Abschlussvermerk oder Teilbestandsgrenze fehlt.'
+    Check-True ($script:current.scope.kind -ceq 'Teilbestand' -and $script:current.scope.coverageNote.Contains('Keine Statistik des vollständigen Videos')) 'Abschlussvermerk oder Teilbestandsgrenze fehlt.'
 }
 Case 'Berliner Quote nach Zeitstand und Laendervergleich getrennt' {
     $q=@($script:current.claims | Where-Object {$_.legacyId -ceq 'C04-P07'})
@@ -655,8 +655,8 @@ Case 'Zinsreihe und Restlaufzeit an amtlichen Daten statt Erinnerung bewertet' {
 Case 'Aktueller Endstand trennt Migration Forschung und Referenzfragen' {
     $s=Get-FactcheckStatistics $script:current
     Check-True ($s.statementRecords -eq 395 -and $s.uniqueStatements -eq 392 -and $s.referenceOnlyStatements -eq 3 -and $s.assertionOccurrences -eq 436 -and $s.referenceOccurrences -eq 11 -and $s.additionalAssertionOccurrences -eq 44) 'Aktuelle Vorkommenszaehlung falsch.'
-    Check-True ($s.statusCounts.Abgeschlossen -eq 227 -and $s.statusCounts.Offen -eq 17 -and $s.statusCounts.'Nicht überprüfbar' -eq 148 -and $s.statusCounts.'In Bearbeitung' -eq 0 -and $s.completedFacts -eq 147 -and $s.openFacts -eq 17 -and $s.unverifiableFacts -eq 148) 'Aktueller Forschungsstand falsch.'
-    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '36,79,22,7,3,80') 'Aktuelle Kategorien falsch.'
+    Check-True ($s.statusCounts.Abgeschlossen -eq 232 -and $s.statusCounts.Offen -eq 12 -and $s.statusCounts.'Nicht überprüfbar' -eq 148 -and $s.statusCounts.'In Bearbeitung' -eq 0 -and $s.completedFacts -eq 152 -and $s.openFacts -eq 12 -and $s.unverifiableFacts -eq 148) 'Aktueller Forschungsstand falsch.'
+    Check-True ((($s.categories | ForEach-Object {$_.completedCount}) -join ',') -ceq '37,82,23,7,3,80') 'Aktuelle Kategorien falsch.'
     Check-True ($script:current.scope.unmigratedLegacyPoints -eq 0 -and $script:current.scope.kind -ceq 'Teilbestand') 'Vollstaendige Migration darf ohne Vollpruefung kein Vollbestand sein.'
     $w=@($script:current.claims | Where-Object id -CEQ 'mlxFA9T88I0-A0207')[0]
     Check-True ($w.verdict -ceq 'Belegt' -and ($w.sourceRefs.sourceId -join ',') -ceq 'S100' -and $w.migration.assessmentChange.Contains('Kapitel-7-Prüfung')) 'Fortschreibung A0207 nicht dokumentiert.'
@@ -717,7 +717,7 @@ Case 'Index-Snapshot wird eigenstaendig validiert' {
     Expect-Rejection { Assert-FactcheckCollection $snapshot } 'Factcheckartefakt'
     Assert-FactcheckCollection $workTexts
 }
-Case 'Alle 14 veroeffentlichten Berichtdateien und Lizenz unveraendert' {
+Case '13 historische Berichtdateien und Lizenz unveraendert; README gezielt fortgeschrieben' {
     $gitArgs=@('-c',('safe.directory='+$root.Replace('\','/')),'-C',$root)
     $tree=@(& git @gitArgs ls-tree -r $script:baseline.scope.baselineCommit -- faktenchecks LICENSE)
     if ($LASTEXITCODE -ne 0) { throw 'Baseline nicht lesbar.' }
@@ -725,6 +725,9 @@ Case 'Alle 14 veroeffentlichten Berichtdateien und Lizenz unveraendert' {
     foreach ($entry in $tree) {
         if ($entry -notmatch '^100644 blob ([0-9a-f]+)\t(.+)$') { throw 'Ungueltiger Baselineeintrag.' }
         $expected=$Matches[1]; $path=$Matches[2]
+        # Nutzerauftrag zur Nachpruefung vom 20.11.2026: nur die Uebersicht wird mit dem aktuellen Stand fortgeschrieben.
+        # Die 13 historischen Detailberichte und die Lizenz bleiben gegen die urspruenglichen Blobs geschuetzt.
+        if ($path -ceq 'faktenchecks/mlxFA9T88I0/README.md') { continue }
         $actual=& git @gitArgs hash-object -- (Join-Path $root $path)
         if ($LASTEXITCODE -ne 0) { throw 'Dateihash nicht lesbar.' }
         Check-True ($actual -ceq $expected) ('Veroeffentlichte Datei veraendert: '+$path)
