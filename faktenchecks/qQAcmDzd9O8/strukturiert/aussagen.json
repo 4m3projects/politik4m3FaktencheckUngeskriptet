@@ -299,7 +299,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0002",
@@ -347,7 +355,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Beantwortet die im Titel gestellte Frage zum Eis an den Polen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0003",
@@ -409,7 +425,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Das Vereinsregister nennt 50 Jahre und rund 82 Meter; der ursprüngliche Bergungs- und Messbericht wurde nicht kontrolliert."
+      "shortReason": "Das Vereinsregister nennt 50 Jahre und rund 82 Meter; der ursprüngliche Bergungs- und Messbericht wurde nicht kontrolliert.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0004",
@@ -453,7 +477,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0005",
@@ -497,7 +529,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0006",
@@ -563,6 +603,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -607,7 +655,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kernpunkt zur im Titel gestellten Frage (antarktischer Rekord).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0008",
@@ -668,6 +724,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kernpunkt zur im Titel gestellten Frage (NASA-Studie zum Landeis).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -743,7 +807,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Die Nachprüfung betrifft die Ostantarktis und andere Zeiträume; etwa ein Drittel ergibt sich nur für eine Modellvariante."
+      "shortReason": "Die Nachprüfung betrifft die Ostantarktis und andere Zeiträume; etwa ein Drittel ergibt sich nur für eine Modellvariante.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kernpunkt zur im Titel gestellten Frage (Nachrechnung der NASA-Studie).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0010",
@@ -787,7 +859,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kernpunkt zur im Titel gestellten Frage (Ostantarktis).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0011",
@@ -831,7 +911,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0012",
@@ -875,7 +963,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0013",
@@ -919,7 +1015,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0014",
@@ -963,7 +1067,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0015",
@@ -1025,7 +1137,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Rund 8,7 Monate ergeben sich als eigene Näherung aus gerundeten Bilanzdaten ohne die negative End-of-life-Gutschrift."
+      "shortReason": "Rund 8,7 Monate ergeben sich als eigene Näherung aus gerundeten Bilanzdaten ohne die negative End-of-life-Gutschrift.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0016",
@@ -1074,7 +1194,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0017",
@@ -1135,6 +1263,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1179,7 +1315,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0019",
@@ -1223,7 +1367,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0020",
@@ -1298,7 +1450,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "87 Millionen DM waren 1981 eine Schätzung des gesamten GROWIAN-Programms; die historische Forschung nennt rund 90 Millionen."
+      "shortReason": "87 Millionen DM waren 1981 eine Schätzung des gesamten GROWIAN-Programms; die historische Forschung nennt rund 90 Millionen.",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Historisches Detail zu Growian ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0021",
@@ -1359,6 +1519,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1420,6 +1588,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1464,7 +1640,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0024",
@@ -1539,7 +1723,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Die frühere Prognose ist dokumentiert, enthielt jedoch Bedingungen und zeitliche Unsicherheiten, die Alfreds Kurzfassung auslässt."
+      "shortReason": "Die frühere Prognose ist dokumentiert, enthielt jedoch Bedingungen und zeitliche Unsicherheiten, die Alfreds Kurzfassung auslässt.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0025",
@@ -1614,7 +1806,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Der EBA-Rekord bezeichnet die Kernkapitalquote einer Teststichprobe, nicht den absoluten Geldbestand sämtlicher EU-Banken."
+      "shortReason": "Der EBA-Rekord bezeichnet die Kernkapitalquote einer Teststichprobe, nicht den absoluten Geldbestand sämtlicher EU-Banken.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0026",
@@ -1658,7 +1858,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0027",
@@ -1720,7 +1928,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Die Hilfen gingen wesentlich an pandemiebetroffene Unternehmen und schützten zugleich Banken indirekt vor Kreditausfällen."
+      "shortReason": "Die Hilfen gingen wesentlich an pandemiebetroffene Unternehmen und schützten zugleich Banken indirekt vor Kreditausfällen.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0028",
@@ -1771,7 +1987,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0029",
@@ -1815,7 +2039,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0030",
@@ -1860,7 +2092,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0031",
@@ -1906,7 +2146,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0032",
@@ -1952,7 +2200,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0033",
@@ -2042,7 +2298,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0035",
@@ -2088,7 +2352,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0036",
@@ -2132,7 +2404,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0037",
@@ -2176,7 +2456,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0038",
@@ -2237,6 +2525,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Historisches Detail zu Growian ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -2298,6 +2594,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Historisches Detail zu Growian ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -2359,6 +2663,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Historisches Detail zu Growian ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -2404,7 +2716,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0042",
@@ -2448,7 +2768,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0043",
@@ -2492,7 +2820,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     }
   ]
 }

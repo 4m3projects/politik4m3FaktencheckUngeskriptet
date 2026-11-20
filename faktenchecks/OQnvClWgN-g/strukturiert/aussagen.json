@@ -394,7 +394,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Tragende Begründung der Titelthese vom Ende Deutschlands (Zombie-Unternehmen).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0002",
@@ -439,7 +447,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0003",
@@ -484,7 +500,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Zahlenbegründung für den behaupteten Vermögensverlust.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0004",
@@ -529,7 +553,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0005",
@@ -657,7 +689,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0007",
@@ -702,7 +742,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0008",
@@ -769,7 +817,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Neben Bankenstützung dokumentiert die EZB einen schweren realwirtschaftlichen Einbruch und Hilfen für Unternehmenskredite."
+      "shortReason": "Neben Bankenstützung dokumentiert die EZB einen schweren realwirtschaftlichen Einbruch und Hilfen für Unternehmenskredite.",
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kernthese zur Deutung der Corona-Krise, im Gespräch mehrfach aufgegriffen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0009",
@@ -822,7 +878,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0010",
@@ -902,7 +966,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Hollandse Kust Zuid wurde ohne Erzeugungssubvention realisiert; der Netzanschluss war öffentlich finanziert."
+      "shortReason": "Hollandse Kust Zuid wurde ohne Erzeugungssubvention realisiert; der Netzanschluss war öffentlich finanziert.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0011",
@@ -947,7 +1019,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0012",
@@ -1058,7 +1138,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Grundsätzliche Aussage zum Klimawandel, zentral im Klimakapitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0014",
@@ -1111,7 +1199,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0015",
@@ -1156,7 +1252,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0016",
@@ -1243,7 +1347,15 @@
         "missingInformation": "Weltweit vergleichbare Flächen- und Volumenmessungen mit der behaupteten Definition, historischem Maximum und Enddatum zum Aufnahmezeitpunkt.",
         "conflicts": null
       },
-      "shortReason": "Die gelesenen globalen Daten reichen bis 2024 und messen Hartkorallenbedeckung, keinen aktuellen Weltvolumenrekord."
+      "shortReason": "Die gelesenen globalen Daten reichen bis 2024 und messen Hartkorallenbedeckung, keinen aktuellen Weltvolumenrekord.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0017",
@@ -1412,7 +1524,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0020",
@@ -1457,7 +1577,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0021",
@@ -1502,7 +1630,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0022",
@@ -1591,7 +1727,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0024",
@@ -1636,7 +1780,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0025",
@@ -1689,7 +1841,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0026",
@@ -1823,7 +1983,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Kralls bedingte Prognose beschrieb Kreditkontraktion; 2020 stiegen Unternehmenskredite und die Kapitalquote der EBA-Testbanken."
+      "shortReason": "Kralls bedingte Prognose beschrieb Kreditkontraktion; 2020 stiegen Unternehmenskredite und die Kapitalquote der EBA-Testbanken.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0028",
@@ -1868,7 +2036,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "OQnvClWgN-g-A0029",
@@ -2011,7 +2187,15 @@
         "missingInformation": "Definierte deutsche Politikerpopulation, Erhebungszeitpunkt, vergleichbarer Intelligenztest und repräsentative Bevölkerungsstichprobe.",
         "conflicts": null
       },
-      "shortReason": "Schwedische Messdaten und deutsche Einschätzungsumfragen belegen keinen niedrigeren Intelligenzdurchschnitt deutscher Politiker."
+      "shortReason": "Schwedische Messdaten und deutsche Einschätzungsumfragen belegen keinen niedrigeren Intelligenzdurchschnitt deutscher Politiker.",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     }
   ]
 }

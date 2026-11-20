@@ -269,7 +269,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Die Firmenchronik stützt Jahr und Ausbildung, nennt aber Theresia als Gründerin und belegt keine bestimmte Berufsakademie."
+      "shortReason": "Die Firmenchronik stützt Jahr und Ausbildung, nennt aber Theresia als Gründerin und belegt keine bestimmte Berufsakademie.",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0002",
@@ -320,7 +328,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0003",
@@ -447,6 +463,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -508,6 +532,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -574,6 +606,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -622,7 +662,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0008",
@@ -666,7 +714,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0009",
@@ -710,7 +766,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0010",
@@ -755,7 +819,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0011",
@@ -799,7 +871,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0012",
@@ -861,7 +941,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Die bestätigten Werte betreffen die Zinsbindungsfrist des Bundesportfolios, keine vollständige Statistik aller Restlaufzeiten."
+      "shortReason": "Die bestätigten Werte betreffen die Zinsbindungsfrist des Bundesportfolios, keine vollständige Statistik aller Restlaufzeiten.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0013",
@@ -905,7 +993,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0014",
@@ -949,7 +1045,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0015",
@@ -1002,7 +1106,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0016",
@@ -1069,7 +1181,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Öffentliche Unternehmenshilfen stabilisierten Banken auch indirekt; damit ist nicht jeder einzelne Bankenhilfefall untersucht."
+      "shortReason": "Öffentliche Unternehmenshilfen stabilisierten Banken auch indirekt; damit ist nicht jeder einzelne Bankenhilfefall untersucht.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0017",
@@ -1117,7 +1237,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Grundlage zum Titelthema digitaler Euro.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0018",
@@ -1161,7 +1289,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Grundlage zum Titelthema digitaler Euro.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0019",
@@ -1205,7 +1341,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Beantwortet die im Titel gestellte Frage, ob der digitale Euro Käufe verbieten kann.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0020",
@@ -1267,7 +1411,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Der Entwurf verbietet programmierbares Geld; andere gesetzliche Zahlungsbeschränkungen werden dadurch nicht ausgeschlossen."
+      "shortReason": "Der Entwurf verbietet programmierbares Geld; andere gesetzliche Zahlungsbeschränkungen werden dadurch nicht ausgeschlossen.",
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Beantwortet die im Titel gestellte Frage, ob der digitale Euro Käufe verbieten kann.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0021",
@@ -1311,7 +1463,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0022",
@@ -1355,7 +1515,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0023",
@@ -1399,7 +1567,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0024",
@@ -1568,7 +1744,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0027",
@@ -1674,7 +1858,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0029",
@@ -1721,7 +1913,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0030",
@@ -1772,7 +1972,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     }
   ],
   "speakers": [
