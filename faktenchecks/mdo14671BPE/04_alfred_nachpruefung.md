@@ -2,6 +2,8 @@
 
 [Codex] · Teilprüfung · ausgelöst durch [Alfreds Video BOIqGtGuShM](../BOIqGtGuShM/README.md).
 
+**Fortsetzung:** Die nachfolgenden Abschnitte dokumentieren den ersten Reaktionsdurchgang. Die spätere [Originalnachprüfung](05_nachpruefung.md) schließt die allgemeine Rechtsfrage A0228 mit eigener Normlektüre ab und korrigiert den Originalcheck (UG-C0002). Offen bleibt die Identifikation des unbenannten Einzelfalls. Die früheren Review-Hinweise unten sind in diesem Punkt historisch zu lesen.
+
 ## Korrektur des Zeitbezugs
 
 Die am 19.11.2026 erneut direkt abgerufene [Originalbeschreibung](https://www.youtube.com/watch?v=mdo14671BPE) nennt **30. September 2026 als Aufnahmedatum**. Der bisherige Prüfstand führte es als unbekannt. Das ist eine überprüfte Herausgeberangabe, keine unabhängige Dateidatierung. Alfreds Hinweis war Anlass für den erneuten Abruf, nicht alleiniger Beleg.

@@ -18,7 +18,7 @@ const ROOT = path.join(__dirname, '..');
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung, nur JSON-Daten). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-wissen-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   fs.mkdirSync(path.join(out, 'daten'));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
@@ -46,7 +46,7 @@ function buildSite() {
 }
 
 function serve(dir) {
-  const types = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css', '.json': 'application/json', '.md': 'text/plain; charset=utf-8' };
+  const types = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css', '.svg': 'image/svg+xml', '.ico': 'image/x-icon', '.png': 'image/png', '.json': 'application/json', '.md': 'text/plain; charset=utf-8' };
   const server = http.createServer((req, res) => {
     const p = path.join(dir, decodeURIComponent(new URL(req.url, 'http://x').pathname).replace(/\/$/, '/index.html'));
     if (!p.startsWith(dir) || !fs.existsSync(p)) { res.writeHead(404); res.end(); return; }
@@ -170,11 +170,11 @@ async function step(name, fn) {
     const t = await page.locator('#korrekturen').innerText();
     assert.match(t, /UG-C9999/);
     assert.match(t, /Teilweise belegt\s*→\s*Belegt/);
-    assert.match(await page.locator('#korrekturen .kb-changes a').first().getAttribute('href'), /^#\/video\/L7E04TJtRBU\/aussage\/L7E04TJtRBU-A0012$/);
+    assert.match(await page.locator('#korrekturen .kb-correction').filter({ hasText: 'UG-C9999' }).locator('.kb-changes a').first().getAttribute('href'), /^#\/video\/L7E04TJtRBU\/aussage\/L7E04TJtRBU-A0012$/);
     for (const [id, expect] of [['geld', true], ['geld/ezb', true], ['klima', false]]) {
       await page.goto(url + '#/thema/' + id);
       await page.waitForSelector('h1');
-      assert.equal(await page.locator('#korrekturen').count(), expect ? 1 : 0, id);
+      assert.equal(await page.locator('#korrekturen .kb-correction').filter({ hasText: 'UG-C9999' }).count(), expect ? 1 : 0, id);
     }
   });
   await step('Internes Thema ist erreichbar und gekennzeichnet', async () => {

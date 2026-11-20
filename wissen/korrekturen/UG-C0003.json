@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0003",
+  "kind": "Quelle falsch interpretiert",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-19",
+  "reportedBy": "Codex",
+  "trigger": {
+    "claimId": "mdo14671BPE-A0204",
+    "entryId": null,
+    "description": "Amtsangabe Blanche weiterhin wegen angeblich unbekanntem Aufnahmezeitpunkt eingeschränkt, obwohl die Aufnahmeangabe bereits geklärt war."
+  },
+  "evidence": [
+    {
+      "title": "Meet the Attorney General",
+      "url": "https://www.justice.gov/ag/staff-profile/meet-attorney-general",
+      "accessedOn": "2026-11-19",
+      "finding": "Offizielles Amtsprofil gelesen: Ernennung Todd Blanches zum Attorney General am 10.08.2026 nach kommissarischer Tätigkeit. [Codex] 19.11.2026: amtliches Profil erneut geöffnet; Vereidigung als Attorney General am 10.08.2026 bestätigt, damit vor dem angegebenen Aufnahmetag 30.09.2026."
+    },
+    {
+      "title": "Naomi Seibt bei Ben: Originalinterview",
+      "url": "https://www.youtube.com/watch?v=mdo14671BPE",
+      "accessedOn": "2026-11-19",
+      "finding": "Aktuelle Uploadbeschreibung direkt abgerufen; private deutsche Originaluntertitel an 00:31:10–00:32:05, 01:13:50–01:15:50, 02:16:25–02:17:10 und 02:30:45–02:32:15 erneut gelesen. Personen nur textlich plausibel."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mdo14671BPE-A0204",
+      "reason": "Unabhängige Nachprüfung der im bisherigen Prüfstand zu weit gefassten Unsicherheit."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EindeutigerDatumsabgleich",
+    "date": "2026-11-19",
+    "basis": "Ein eindeutiger Datumsvergleich zwischen amtlichem Amtsprofil und Herausgeber-Aufnahmeangabe. Ergänzt den zeitlichen Folgeabgleich zu UG-C0001; verändert dessen historische drei Änderungen nicht."
+  },
+  "changes": [
+    {
+      "target": "mdo14671BPE-A0204",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "mdo14671BPE-A0204",
+      "field": "reason",
+      "before": "Das aktuelle offizielle Profil dokumentiert die Vereidigung am 10.08.2026. Für den Veröffentlichungsmonat passt die Amtsangabe; der genaue Aufnahmezeitpunkt bleibt unbekannt.",
+      "after": "Das erneut gelesene amtliche DOJ-Profil datiert Blanches Vereidigung als Attorney General auf den 10.08.2026. Das liegt vor dem in der Originalbeschreibung genannten Aufnahmetag 30.09.2026. Die Amtsangabe passt damit auch zum Gesprächszeitpunkt; die frühere Einschränkung wegen angeblich unbekannten Aufnahmetermins entfällt."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Bisherigen Zustand erhalten, Quellen selbst gelesen, begrenzte Korrektur umgesetzt; Veröffentlichung nur nach PR-Freigabe."
+    }
+  ]
+}

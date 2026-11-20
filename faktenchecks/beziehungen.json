@@ -507,6 +507,10 @@
         {
           "date": "2026-11-18",
           "change": "[Codex] Erstaufnahme zu Issue #10, Vergleich mit main @ 7341daa; bestehende Originaldaten unverändert."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "[Codex] Folgeabgleich nach Originalnachprüfung, Basis 8205fdc: 0 direkte Links zu geänderten IDs. Keine direkt betroffenen Verknüpfungen; keine schematische Änderung fremder Bewertungen."
         }
       ],
       "claimLinks": [
@@ -1690,6 +1694,10 @@
         {
           "date": "2026-11-19",
           "change": "[Codex] Erstprüfung als ausdrücklich freigegebene Teilveröffentlichung; keine Personenrangliste übernommen."
+        },
+        {
+          "date": "2026-11-19",
+          "change": "[Codex] Folgeabgleich nach Originalnachprüfung, Basis 8205fdc: 2 direkte Links zu geänderten IDs. Allgemeine Gesetzesfrage jetzt am Original bewertet, unbenannter Kaiser-Bezug weiter offen."
         }
       ],
       "claimLinks": [
@@ -1853,35 +1861,39 @@
           "originalClaimId": "mdo14671BPE-A0228",
           "reactionClaimId": "BOIqGtGuShM-A0017",
           "reactionSeconds": 650,
-          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "note": "[Codex] 19.11.2026: Alfreds Kaiser-Zuordnung bleibt eine Vermutung. A0228 ist inzwischen unabhängig davon am allgemeinen Norminhalt bewertet; keine gesicherte Identifikation des von Seibt gemeinten Falls.",
           "history": [
             {
               "date": "2026-11-19",
               "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            },
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Originalnachprüfung UG-C0002 abgeglichen; Gesetzesfrage und unbenannten Fall getrennt."
             }
           ],
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/71",
-            "note": "Allgemeinen Gesetzesinhalt vom unbenannten Einzelfall trennen; Kaiser-Zuordnung ungesichert, Gerichtsoriginal und Rechtskraft offen."
+            "note": "Nur der unbenannte Einzelfall bleibt zu identifizieren. Allgemeine Gesetzesfrage in A0228 erledigt; Rechtskraft Kaiser durch zeitgenössische OLG-Auskunft gestützt, Vollentscheidung nicht gelesen."
           }
         },
         {
           "id": "L1364",
-          "type": "ergaenzt",
+          "type": "gegenbehauptung",
           "originalClaimId": "mdo14671BPE-A0228",
           "reactionClaimId": "BOIqGtGuShM-A0021",
           "reactionSeconds": 723,
-          "note": "[Codex] 19.11.2026: Originalstelle separat im Untertiteltext geprüft. Inhalt und Grenzen im Reaktionsbefund; A0228 hat weiterhin keine gesicherte Einzelfallzuordnung. Keine schematische Gleichsetzung von Gegenbehauptung und gleichem Wortlaut.",
+          "note": "[Codex] 19.11.2026: Alfred widerspricht dem behaupteten allgemeinen Statistikverbot. Amtlichen § 130 erneut direkt gelesen, Original A0228 als Irreführend / Kontext fehlt präzisiert (UG-C0002). Der unbenannte Einzelfall ist davon getrennt. Alfreds Sachurteil bleibt belegt.",
           "history": [
             {
               "date": "2026-11-19",
               "change": "[Codex] Erstzuordnung nach Text- und Quellenvergleich."
+            },
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Originalnachprüfung UG-C0002 abgeglichen; Gesetzesfrage und unbenannten Fall getrennt."
             }
-          ],
-          "review": {
-            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/71",
-            "note": "Allgemeinen Gesetzesinhalt vom unbenannten Einzelfall trennen; Kaiser-Zuordnung ungesichert, Gerichtsoriginal und Rechtskraft offen."
-          }
+          ]
         }
       ]
     }

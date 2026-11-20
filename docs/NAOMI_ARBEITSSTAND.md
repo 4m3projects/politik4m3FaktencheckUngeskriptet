@@ -1,5 +1,15 @@
 # Übernahme und Arbeitsstand: Naomi-Seibt-Interview
 
+## Aktuelle Fortsetzung auf Nutzerauftrag, 19.11.2026
+
+[Codex] Der Nutzer hat ausdrücklich die Wiederaufnahme und Abschlussnachprüfung des Originals beauftragt. Die frühere Übergabe ist damit kein Verbot weiterer Arbeit. Koordination: [Issue #75](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/75), Branch `codex/naomi-abschlusspruefung`, Ausgangsbasis `8205fdccb78cf2a267aa84e7b943f2ef601cae91`; beim Beginn keine offenen konkurrierenden PRs. Nur freie Quellen, keine vidIQ-Credits.
+
+Maßgeblicher aktueller Prüfstand: [Nachprüfung am Original](../faktenchecks/mdo14671BPE/05_nachpruefung.md) und generierte Statistik. 251 Prüfgegenstände, 212 eigene Tatsachen: 107 mit Rechercheurteil, 103 begründet nicht überprüfbar, zwei offen; 37 Meinungen/Prognosen. Alle zwölf zuvor offenen Einträge nachbearbeitet, zwei vollständige Buchprüfungen bleiben offen. Drei öffentliche Sachkerne und eine veraltete Amtszeitbegründung mit Korrekturverlauf verbessert. Zwei allgemeine Asylbehauptungen aus dem zuvor textfreien Fenster zusätzlich erfasst.
+
+Zwei private lokale Whisper-Arbeitstexte der Originaltonpassage ergänzen die Untertitellücke; keine menschliche Hör-/Sichtkontrolle und keine bestätigten Sprecher. Keine vollständige Gesamtabdeckung behaupten. Am 20.11.2026 wird der Entwurf aus PR #79 mit dem aktuellen Hauptstand integriert und erneut technisch geprüft. Die aktuelle ausdrückliche Nutzerfreigabe erlaubt die sofortige Veröffentlichung veröffentlichungsfähiger Ergebnisse einschließlich Merge. Die zwei Buchprüfungen bleiben offen; ein Gesamtabschluss wird nicht behauptet.
+
+## Historischer Übergabestand
+
 Bearbeitet von: Codex. Aktualisierung: 18.11.2026. **Teilprüfung; vollständige Projektverantwortung an Claude übergeben. Keine fertige Gesamtprüfung.**
 
 Die aktuelle Nutzeranweisung zur vollständigen Übergabe wurde aus dem parallelen Codex-Chat übermittelt. Codex sichert den begonnenen Abschnitt und stellt anschließend die fachliche Weiterbearbeitung sowie eigene Merges ein. Claude übernimmt Recherche, Integration und weitere Veröffentlichungen nach den dokumentierten Nutzerfreigaben. Letzten geprüften Commit und Freigabe des Worktrees im Abschlusskommentar von Issue #3 prüfen. Kein automatischer Neustart dieses Codex-Arbeitsstrangs.
@@ -83,3 +93,7 @@ Die erste Teilveröffentlichung bestand 83 Faktenchecktests, Generator-/Publikat
 Neu: A0072 ist mit dem zeitgenössischen Bericht von The Verge (S075, direkte YouTube-Auskunft) belegt. A0103 ist durch den früheren Express-Sendungsbericht (S076) teilweise belegt; WND (S074) ist eine abhängige Übernahme, kein zweiter unabhängiger Beleg. Die Korrektur der Fragestellung ist keine Bestätigung sämtlicher Klimapositionen. S073 (Yahoo/Bloomberg, HTTP 429) und S077 (anderer Express-Link, gesperrter Zugriff) sind erfolglose Abrufe. S072 bestätigt Heartlands institutionelle Kooperation 2020, nicht alle Detail- oder Zahlungsbehauptungen.
 
 Im Folgeabschnitt sind die Auftritte A0102 belegt und der Rechtsfallkern A0168 teilweise belegt, ohne private Motive als bestätigt auszugeben. Das Berufungsurteil S080 liefert für A0211 Gegenkontext zur behaupteten Gefährdungsabsicht, klärt aber nicht alle Haftzeiten; weiterhin laufend. A0212 ist nach Nahkontext eine Meinung, die Teilbehauptung zu Auslandsverbindungen wurde als A0249 separat offen erhalten. Keine Löschung einer ungeklärten Tatsachenbehauptung zugunsten besserer Zahlen.
+
+## Integrationsprüfung am 20.11.2026
+
+[Codex] Neueren gemeinsamen Faktenindex aus PR #89 konfliktfrei übernommen; keine Indexregel oder Bedeutungsfaktoren geändert. 149 JavaScript-Tests und Faktenindex-Feldprüfung erfolgreich. Vor dieser Integration bestanden 117 PowerShell-Testfälle; der integrierte Stand wird zusätzlich durch die vollständige GitHub-CI geprüft. Browserprüfungen: 21 Hauptansicht, 17 Original-/Reaktionsansicht, 12 Rhetorik und 18 Wissensansicht erfolgreich. Die lokalen Testaufbauten kopieren jetzt die inzwischen eingeführten Seitensymbole; der Test des synthetischen Korrekturvorgangs wählt gezielt diesen Vorgang statt pauschal den ersten echten Eintrag. Die Sachbewertungen bleiben dadurch unverändert.
