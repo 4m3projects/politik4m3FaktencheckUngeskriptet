@@ -6,17 +6,17 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 Stand: 2026-11-19 · Video: OQnvClWgN-g
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 29
-- Abgeschlossen: 20
+- Abgeschlossen: 28
 - Offen (noch nicht geprueft): 0
-- In Bearbeitung: 9
-- Nicht ueberpruefbar (abschliessend ohne Urteil): 0
+- In Bearbeitung: 0
+- Nicht ueberpruefbar (abschliessend ohne Urteil): 1
 - Erfasste Behauptungsvorkommen: 29
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0
@@ -24,24 +24,24 @@ Stand: 2026-11-19 · Video: OQnvClWgN-g
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
 - Nur referenzierte Aussagen ohne eigene Behauptung: 1
-- Meinungen: 0; Prognosen: 2
+- Meinungen: 3; Prognosen: 2
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 18 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 23 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 1 | 5.6 % |
-| Teilweise belegt | 2 | 11.1 % |
-| Irreführend / Kontext fehlt | 6 | 33.3 % |
-| Widerlegt | 9 | 50.0 % |
-| Nicht ausreichend belegbar | 0 | 0.0 % |
-| Meinung / Prognose | 2 | nicht anwendbar |
+| Belegt | 1 | 4.3 % |
+| Teilweise belegt | 2 | 8.7 % |
+| Irreführend / Kontext fehlt | 9 | 39.1 % |
+| Widerlegt | 9 | 39.1 % |
+| Nicht ausreichend belegbar | 2 | 8.7 % |
+| Meinung / Prognose | 5 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
@@ -52,9 +52,9 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 27. Ohne verlaessliche Personenzuordnung: 27.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 24. Ohne verlaessliche Personenzuordnung: 24.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 27; mit unsicherem eigenem Aussagebezug: 27. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 24; mit unsicherem eigenem Aussagebezug: 24. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 - Plausibel: Sprecherzuordnung 30, Aussagebezug 30 Vorkommen.

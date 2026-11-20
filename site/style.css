@@ -124,21 +124,49 @@ p { margin: 0 0 1em; }
 }
 .topbar-inner { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 60px; flex-wrap: wrap; }
 .brand { display: flex; align-items: center; gap: 10px; color: var(--text); text-decoration: none; }
-.brand-mark {
-  display: grid; place-items: center; width: 34px; height: 34px; border-radius: 10px;
-  background: linear-gradient(135deg, var(--hero-2), var(--hero-1)); color: #fff;
-  font-weight: 700; font-size: 13px; letter-spacing: -.04em;
-}
-.brand-text { font-size: 1.02rem; letter-spacing: -.005em; }
+/* Logo vor dem Titel = Favicon (site/favicon.svg); Klick führt zur Startseite dieses Projekts. */
+.brand-mark { display: block; flex: none; width: 30px; height: 30px; }
+.brand-text { font-size: 1.02rem; letter-spacing: -.005em; display: flex; align-items: center; gap: 6px; flex-wrap: wrap; }
+.brand-sub-group { display: inline-flex; align-items: center; }
+.brand-text .brand-menu { flex-shrink: 0; }
 /* „Ungeskriptet“ steht zuerst und führt zur Startseite dieses Unterprojekts; das Hauptprojekt
    folgt als Link (dort können später weitere Projekte angebunden werden). */
 .brand { gap: 6px; flex-wrap: wrap; }
 .brand a { text-decoration: none; }
 .brand-parent { color: var(--text-2); border-bottom: 1px dotted var(--line-strong); }
 .brand-parent:hover, .brand-parent:focus-visible { color: var(--accent); border-bottom-color: var(--accent); }
-.brand-sub { color: var(--text); }
+.brand-sub { color: var(--text); display: inline-flex; align-items: center; gap: 8px; }
 .brand-sub:hover { color: var(--accent); }
 .brand-sep { color: var(--text-3); }
+/* Dropdown am Titel: weitere Faktenchecks. Hover nur auf Geräten mit Maus; per Tippen/Tastatur über den Pfeil-Knopf. */
+.brand-menu { position: relative; display: flex; align-items: center; gap: 2px; }
+.brand-toggle {
+  display: grid; place-items: center; width: 32px; height: 32px; padding: 0; border: 0; border-radius: 8px;
+  background: transparent; color: var(--text-2); cursor: pointer; -webkit-tap-highlight-color: transparent;
+}
+.brand-toggle:hover, .brand-toggle[aria-expanded="true"] { background: var(--surface-2); color: var(--text); }
+.brand-toggle .chev {
+  width: 8px; height: 8px; margin-top: -4px; border: solid currentColor; border-width: 0 2px 2px 0;
+  transform: rotate(45deg); transition: transform .15s;
+}
+.brand-toggle[aria-expanded="true"] .chev { transform: rotate(225deg); margin-top: 4px; }
+.brand-dropdown {
+  display: none; position: absolute; left: 0; top: 100%; z-index: 6;
+  width: max-content; max-width: min(340px, calc(100vw - 32px)); padding-top: 8px;
+}
+.brand-menu.open .brand-dropdown { display: block; }
+@media (hover: hover) { .brand-menu:hover .brand-dropdown { display: block; } }
+.brand-dropdown-head, .brand-dropdown ul { background: var(--surface); border: 1px solid var(--line); }
+.brand-dropdown-head {
+  margin: 0; padding: 10px 14px 6px; border-bottom: 0; border-radius: var(--radius-s) var(--radius-s) 0 0;
+  font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--text-3);
+}
+.brand-dropdown ul { list-style: none; margin: 0; padding: 4px 6px 6px; border-top: 0; border-radius: 0 0 var(--radius-s) var(--radius-s); box-shadow: var(--shadow); }
+.brand-dropdown a { display: block; padding: 8px 10px; border-radius: 6px; color: var(--text); text-decoration: none; }
+.brand-dropdown a:hover, .brand-dropdown a:focus-visible { background: var(--surface-2); }
+.brand-dropdown a strong { display: block; font-weight: 600; }
+.brand-dropdown a span { display: block; font-size: .85rem; color: var(--text-2); }
+.brand-dropdown a[aria-current] strong { color: var(--accent-ink); }
 .mainnav { display: flex; gap: 4px; flex-wrap: wrap; }
 .mainnav a { color: var(--text-2); text-decoration: none; padding: 6px 10px; border-radius: 8px; font-size: .95rem; }
 .mainnav a:hover { background: var(--surface-2); color: var(--text); }
@@ -210,11 +238,6 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
 .dist span { display: block; min-width: 4px; position: relative; }
 .dist span:first-child { border-radius: 4px 0 0 4px; }
 .dist span:last-child { border-radius: 0 4px 4px 0; }
-.dist-tip {
-  position: fixed; z-index: 20; pointer-events: none; background: var(--text); color: var(--bg);
-  font-size: .82rem; line-height: 1.45; padding: 7px 10px; border-radius: 6px; white-space: normal; overflow-wrap: break-word;
-  max-width: min(340px, calc(100vw - 16px)); box-shadow: var(--shadow);
-}
 .legend { display: flex; flex-wrap: wrap; gap: 6px 14px; padding: 0; margin: 8px 0 0; list-style: none; font-size: .85rem; color: var(--text-2); }
 .legend li { display: flex; align-items: center; gap: 6px; }
 .legend i { width: 10px; height: 10px; border-radius: 3px; display: inline-block; flex: none; }
@@ -442,6 +465,8 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
 .vc-flag:empty { display: none; }
 .vc-item.is-current .vc-flag { background: var(--accent-soft); border-radius: 999px; padding: 1px 8px; }
 .vc-desc { font-weight: 550; margin: 8px 0 6px; }
+/* Kurzbegründung (shortReason): schon im zugeklappten Zustand sichtbar, Details beim Aufklappen. */
+.vc-short { margin: 0 0 6px; color: var(--text-2); }
 .vc-meta { display: flex; flex-wrap: wrap; gap: 6px; }
 .warn-badge { border-color: var(--v-irrefuehrend); white-space: normal; }
 .vc-details { margin-top: 8px; }
@@ -482,6 +507,19 @@ body.vc-lock { overflow: hidden; }
 @media print { .vc-toolbar, .vc-frame { display: none; } .vc-scroll { max-height: none; overflow: visible; } }
 /* Zustimmungs- und Fehlerhinweis bestimmen ihre Höhe selbst (auf schmalen Bildschirmen wäre 16:9 zu niedrig). */
 .vc-frame:has(> .vc-consent) { aspect-ratio: auto; min-height: 220px; }
+/* YouTube Shorts (docs/SHORTS.md): Hochformat 9:16. Der Player wird höchstens so hoch wie das Fenster
+   erlaubt und steht mittig; die Aussagenliste bekommt nebeneinander den übrigen Platz. */
+.vc[data-format="short"] .vc-frame { aspect-ratio: 9 / 16; width: min(100%, calc((100vh - 140px) * 9 / 16)); min-width: min(100%, 240px); margin: 0 auto; }
+.vc[data-format="short"] .vc-frame:has(> .vc-consent) { aspect-ratio: auto; width: 100%; }
+.vc[data-format="short"][data-layout="stack"] .vc-player-col { max-width: 480px; }
+@media (min-width: 900px) {
+  .vc[data-format="short"][data-layout="side"] .vc-grid { grid-template-columns: minmax(280px, 440px) minmax(0, 1fr); }
+  .vc.is-expanded[data-format="short"][data-layout="side"] .vc-grid { grid-template-columns: minmax(280px, calc((100vh - 120px) * 9 / 16)) minmax(340px, 1fr); }
+  .vc.is-expanded[data-format="short"][data-layout="side"] .vc-frame { width: 100%; max-height: calc(100vh - 120px); }
+  .vc.is-expanded[data-format="short"][data-layout="stack"] .vc-player-col { max-width: max(240px, calc((100vh - 360px) * 9 / 16)); }
+  .vc.is-expanded[data-format="short"][data-layout="stack"] .vc-frame { width: 100%; }
+}
+.badge.format-short { background: var(--accent-soft); color: var(--accent-ink); border-color: transparent; font-weight: 600; }
 .vc-frame > .vc-consent { position: static; min-height: 100%; }
 @media (max-width: 899px) { .vc .seg { display: none; } }
 
@@ -581,6 +619,27 @@ button.rhet-chip:hover { background: var(--surface); }
 .ampel-big { padding: 12px 16px; }
 .ampel-big .ampel-lights i { width: 16px; height: 16px; }
 .ampel-big .ampel-title { font-size: 1.1rem; }
+/* Hinweistafel (app.js showTip): schwebt an fester Stelle unter dem Element und klappt nach unten aus. */
+.tip-panel {
+  position: absolute; z-index: 20; pointer-events: none; box-sizing: border-box;
+  background: var(--surface); color: var(--text); border: 1px solid var(--line-strong); border-top-width: 4px;
+  border-radius: var(--radius-s); box-shadow: var(--shadow), 0 10px 28px rgba(0, 0, 0, .14);
+  padding: 10px 14px 12px; font-size: .88rem; line-height: 1.5;
+  animation: tip-in .22s cubic-bezier(.2, .7, .3, 1);
+}
+.tip-panel:not([class*="ampel-tip-"]) { border-top-color: var(--accent); }
+.tip-panel[hidden] { display: none; }
+.tip-panel p { margin: 6px 0 0; }
+.tip-panel p:first-child { margin-top: 0; }
+.tip-sub { font-weight: 600; }
+.tip-note { color: var(--text-2); font-size: .82rem; }
+.ampel-tip-rot { border-top-color: #e34948; }
+.ampel-tip-gelb { border-top-color: #f2b300; }
+.ampel-tip-gruen { border-top-color: #1fa040; }
+@keyframes tip-in { from { opacity: 0; clip-path: inset(0 0 100% 0 round var(--radius-s)); transform: translateY(-6px); } to { opacity: 1; clip-path: inset(0 0 -40px 0 round var(--radius-s)); transform: none; } }
+@media (prefers-reduced-motion: reduce) { .tip-panel { animation: none; } }
+.ampel[data-ampel-key] { cursor: help; }
+a .ampel[data-ampel-key] { cursor: pointer; }
 .ampel-list { display: grid; gap: 10px; padding: 0; list-style: none; }
 .ampel-list li .ampel { margin: 0 0 4px; }
 .ampel-overview { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; grid-template-columns: repeat(auto-fill, minmax(min(100%, 340px), 1fr)); }
@@ -662,3 +721,27 @@ button.rhet-chip:hover { background: var(--surface); }
 @media (max-width: 640px) {
   .verlauf-item { grid-template-columns: 1fr; padding-left: 16px; }
 }
+
+/* ---------- Vorschaubild unter Videolinks (app.js showLinkThumb) ---------- */
+.thumb-tip {
+  position: absolute; z-index: 21; pointer-events: none; box-sizing: border-box; padding: 5px;
+  background: var(--surface); border: 1px solid var(--line-strong); border-top: 4px solid var(--accent);
+  border-radius: var(--radius-s); box-shadow: var(--shadow), 0 10px 28px rgba(0, 0, 0, .14);
+  animation: thumb-tip-in .22s cubic-bezier(.2, .7, .3, 1);
+}
+.thumb-tip[hidden] { display: none; }
+.thumb-tip img { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 4px; background: var(--line); }
+@keyframes thumb-tip-in { from { opacity: 0; clip-path: inset(0 0 100% 0 round var(--radius-s)); transform: translateY(-6px); } to { opacity: 1; clip-path: inset(0 0 -40px 0 round var(--radius-s)); transform: none; } }
+@media (prefers-reduced-motion: reduce) { .thumb-tip { animation: none; } }
+
+/* ---------- YouTube-Kennzeichen vor YouTube-Links ----------
+   Kleines Abspielsymbol (lokal als data-URI, lädt nichts von YouTube) vor jedem Link auf youtube.com
+   oder youtu.be. Links mit Bild bekommen keins; bei Knöpfen steht es im Knopf. */
+a[href*="youtube.com/"]:not(:has(img, .btn))::before,
+a[href*="youtu.be/"]:not(:has(img, .btn))::before,
+a[href*="youtube.com/"] .btn::before,
+a[href*="youtu.be/"] .btn::before {
+  content: ""; display: inline-block; flex: none; width: 1.15em; height: .8em; margin-right: .3em; vertical-align: -.06em;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 28 20'%3E%3Crect width='28' height='20' rx='5' fill='%23ff0000'/%3E%3Cpath d='M11 5.5v9l8-4.5z' fill='%23fff'/%3E%3C/svg%3E") no-repeat center / contain;
+}
+a[href*="youtube.com/"] .btn::before, a[href*="youtu.be/"] .btn::before { margin-right: 0; }

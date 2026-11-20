@@ -40,6 +40,8 @@ source.*
 *.jpg
 *.jpeg
 *.png
+# Ausnahme: Favicon der Webseite (site/apple-touch-icon.png).
+!/site/apple-touch-icon.png
 *.webp
 *.gif
 *.pdf

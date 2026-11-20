@@ -9,7 +9,9 @@
 <meta name="color-scheme" content="light dark">
 <meta name="referrer" content="strict-origin-when-cross-origin">
 <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' https://www.youtube.com; frame-src https://www.youtube-nocookie.com; img-src 'self' data: https://i.ytimg.com; style-src 'self' 'unsafe-inline'; connect-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'">
-<link rel="icon" href="data:,">
+<link rel="icon" href="favicon.ico" sizes="32x32">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 <link rel="stylesheet" href="style.css">
 <script src="sync.js" defer></script>
 <script src="relations.js" defer></script>
@@ -26,9 +28,21 @@
 <header class="topbar">
   <div class="wrap topbar-inner">
     <div class="brand brand-text">
-      <a class="brand-sub" href="#/" title="Startseite von Faktencheck Ungeskriptet"><strong>Ungeskriptet</strong></a>
+      <div class="brand-sub-group">
+        <a class="brand-sub" href="#/" title="Startseite von Faktencheck Ungeskriptet"><img class="brand-mark" src="favicon.svg" alt="" width="30" height="30"><strong>Ungeskriptet</strong></a>
+      </div>
       <span class="brand-sep" aria-hidden="true">·</span>
-      <a class="brand-parent" href="https://4m3projects.github.io/politik4m3Facktencheck/" title="Zum Hauptprojekt Politik4M3 Faktencheck">Politik4M3 Faktencheck</a>
+      <div class="brand-menu" id="brand-menu">
+        <a class="brand-parent" href="https://4m3projects.github.io/politik4m3Facktencheck/" title="Zum Hauptprojekt Politik4M3 Faktencheck">Politik4M3 Faktencheck</a>
+      <button type="button" class="brand-toggle" id="brand-toggle" aria-expanded="false" aria-controls="brand-dropdown" aria-label="Weitere Faktenchecks anzeigen"><span class="chev" aria-hidden="true"></span></button>
+      <div class="brand-dropdown" id="brand-dropdown">
+        <p class="brand-dropdown-head">Faktenchecks von Politik4M3</p>
+        <ul>
+          <li><a href="https://4m3projects.github.io/politik4m3Facktencheck/" rel="noopener"><strong>Politik4M3 Faktencheck ↗</strong><span>Hauptseite: politische Videos und Reaktionen</span></a></li>
+          <li><a href="#/" aria-current="true"><strong>Startseite</strong><span>Faktencheck Ungeskriptet (diese Seite)</span></a></li>
+          <li><a href="https://4m3projects.github.io/politik4m3FaktencheckKlima/" rel="noopener"><strong>Faktencheck Klima &amp; Energie ↗</strong><span>Klima, Wetter, Energie, Atomkraft und Umwelt</span></a></li>
+        </ul>
+      </div>
     </div>
     <nav class="mainnav" aria-label="Hauptnavigation">
       <a href="#/" data-nav="start">Faktenchecks</a>

@@ -25,6 +25,10 @@ Baue eine eigenständige, möglichst neutrale, faktenorientierte Prüfumgebung f
 
 **Pflichtlektüre für alle Agenten:** [docs/AGENTEN_RHETORIK.md](docs/AGENTEN_RHETORIK.md). Die bestehende sachliche Faktenprüfung (einschließlich Meinung/Prognose und aller bisherigen Kategorien) bleibt unverändert. Zusätzlich können Aussagen mit begründeten Rhetorik-Hinweisen wie Abwertung, Ironie oder möglichem Tunnelblick versehen werden. Rhetorische Hinweise verändern weder Wahr/Falsch-Bewertungen noch bestehende Fehlerstatistiken und dürfen nicht automatisch als Fehlerpunkte zählen.
 
+## Kurzbegründung im zugeklappten Zustand (Regel von Jens, 20.11.2026)
+
+**Pflichtlektüre für alle Agenten:** [docs/KURZBEGRUENDUNG.md](docs/KURZBEGRUENDUNG.md). Jede Aussage mit der Bewertung `Widerlegt`, `Teilweise belegt`, `Irreführend / Kontext fehlt` oder `Nicht ausreichend belegbar` erhält in `strukturiert/aussagen.json` zusätzlich zu `reason` das Feld `shortReason`: ein Satz mit höchstens 200 Zeichen, der die Richtigstellung bzw. den entscheidenden Grund nennt (z. B. „Tatsächlich kostet eine typische neue Anlage etwa 7 bis 10 Mio. Euro.“). Er ist auf der Webseite ohne Aufklappen sichtbar; Details stehen weiter beim Aufklappen. Bei `Belegt`, `Meinung / Prognose` und `Nicht überprüfbar` ist das Feld freiwillig, bei offenen Aussagen unzulässig. Die Kurzbegründung verdichtet nur die bestehende Begründung, bringt keine neuen Tatsachen und darf der Kategorie nie widersprechen. Wird `reason` oder `verdict` geändert, im selben Schritt `shortReason` anpassen. Das gilt für neue Videos ebenso wie für jede Nachprüfung; die CI bricht ab, wenn die Pflicht fehlt.
+
 ## Prüfstatus: noch nicht geprüft ≠ nicht überprüfbar ≠ nicht belegbar
 
 **Pflichtlektüre für alle Agenten:** [docs/AGENTEN_PRUEFSTATUS.md](docs/AGENTEN_PRUEFSTATUS.md). `Offen` heißt ausschließlich „noch nicht geprüft“ und ist ein Arbeitsauftrag, der nachgearbeitet wird. `Nicht überprüfbar` ist ein eigener, abschließender Status nur für Aussagen ohne grundsätzlich öffentliche Prüfgrundlage. `Nicht ausreichend belegbar` ist ein Urteil nach tatsächlicher Recherche mit gelesenen Quellen. Fehlender Zugang, fehlende Zeit oder eine nicht kontrollierte Originalstelle sind nie ein Ergebnis: die Aussage bleibt `Offen`. Bei jeder Arbeit an einem Video zuerst die offenen Aussagen bearbeiten und bestehende Einstufungen ohne Urteil gegen die Regel prüfen.
@@ -44,6 +48,10 @@ Baue eine eigenständige, möglichst neutrale, faktenorientierte Prüfumgebung f
 ## Faktenampel
 
 Die Gesamteinschätzung je Video (Ampel) wird **ausschließlich berechnet**, zentral in `site/ampel.js`, aus den vorhandenen Einzelbewertungen. Agenten setzen, speichern oder überschreiben keine Ampel und ändern keine Einzelbewertung, um eine Ampelfarbe zu erreichen. Änderungen an Schwellen oder Regel nur in `site/ampel.js` mit Tests und Dokumentation in [docs/AMPEL.md](docs/AMPEL.md) sowie in der Methodik der Webseite. Darstellungshinweise fließen nie ein; vorläufige Prüfungen bleiben „Noch in Prüfung“.
+
+## YouTube Shorts
+
+Shorts (`youtube.com/shorts/<ID>`) werden wie andere Videos geprüft. Gespeichert wird die normale watch-Adresse; `video.json` erhält `"format": "short"`. Ein Short wird vollständig erfasst und braucht keine Kapitelgliederung. Einzelheiten: [docs/SHORTS.md](docs/SHORTS.md).
 
 ## Arbeitsweise
 - **Keine Videoauswertungen importieren**, bevor der Nutzer die Fertigstellung und Übertragung ausdrücklich freigibt.

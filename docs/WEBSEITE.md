@@ -6,6 +6,10 @@ Die öffentliche Webseite stellt die Faktenchecks dieses Repositorys lesbar dar.
 
 Die Startseite zeigt die zuletzt veröffentlichten oder inhaltlich geprüften Videos zuerst. Für die Reihenfolge zählt das jüngere Datum aus der Veröffentlichung im Video-README und dem Prüfstichtag in `scope.asOf`. Bei Gleichstand entscheidet das Veröffentlichungsdatum. Einträge ohne Datum folgen am Ende.
 
+Die Übersicht „Prüfstand aller Videos“ führt zusätzlich Originale und zugeordnete Reaktionen mit ihren aktuellen Restaufgaben und dem getrennten Darstellungsprüfstand auf. Die Hauptkarten bleiben auf Originalinterviews beschränkt. „Keine offenen erfassten Aussagen“ bestätigt keine vollständige Erfassung oder Hör-/Sichtprüfung. Gezählt werden nur Aussagen ohne Urteil mit Status `Offen` oder `In Bearbeitung`; `Nicht überprüfbar` und abgeschlossene Rechercheergebnisse zählen nicht als unbearbeitet.
+
+`#/video/<ID>/pruefaufgaben` führt zum Prüfumfang und den offenen Einzelaufgaben mit stabilen Aussageverweisen. Kanal und Laufzeit können aus `video.json` beziehungsweise `scope.durationSeconds` stammen, wenn sie nicht als README-Stichpunkte vorliegen. Test: `node --test site/progress-test.js` und die Browserprüfungen in `site/relations-browser-test.js`. Bestandsprüfung vom 19.11.2026: [Video-Aufarbeitung](VIDEO_AUFARBEITUNG_2026-11-19.md).
+
 ## Aufbau
 
 - `site/index.html`, `site/style.css`, `site/app.js`: statische Seite aus eigenem Code. Keine Fremdbibliotheken, keine externen Schriften, keine Tracker.
@@ -129,3 +133,7 @@ Erstellt von: Claude. Überschrift „Fundstellen im Zeitverlauf“, Genauigkeit
 ## Berichtswechsel ohne Sprung nach oben
 
 Erstellt von: Claude. Ein Klick auf einen Bericht (Berichtsnavigation oder Link im Berichtstext) scrollt direkt zum Anfang des gewählten Berichts, knapp unter der Kopfleiste; die Scrollposition der Berichtsnavigation bleibt erhalten. Direktaufrufe und Neuladen beginnen oben. Geprüft in `site/relations-browser-test.js` (Desktop und 390 px).
+
+## YouTube Shorts
+
+Videos mit `"format": "short"` in `video.json` (oder ohne `video.json` mit einer `/shorts/`-Adresse) tragen auf der Startseitenkarte und im Videokopf das Kennzeichen „Short“. In der Video-Ansicht steht der Player im Hochformat 9:16 und ist höchstens so hoch wie das Fenster; nebeneinander bekommt die Aussagenliste den übrigen Platz, untereinander ist der Player schmal und mittig. Die Faktenampel nutzt für Shorts eine eigene Mindestgrundlage (docs/AMPEL.md). Erfassung und Datenmodell: [SHORTS.md](SHORTS.md).

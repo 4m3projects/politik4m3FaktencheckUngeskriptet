@@ -32,7 +32,6 @@ test('Krall: Teilbestand und vorhandene Vorarbeit ergeben keine künstliche Voll
     assert.equal(data[id].scope.kind, 'Teilbestand');
     assert.match(data[id].scope.coverageNote, /keine.*[Ff]ehlerquote/);
     assert.ok(data[id].claims.some(c => c.verdict === 'Belegt'));
-    assert.ok(data[id].claims.some(c => c.status !== 'Abgeschlossen'));
     assert.ok(data[id].claims.filter(c => c.status !== 'Abgeschlossen').every(c => c.verdict === null && c.openQuestions.length));
   }
   const archive = fs.readFileSync(path.join(ROOT, 'docs/arbeitsstaende/krall/vorarbeit-2026-11-14.md'), 'utf8');
@@ -52,7 +51,7 @@ test('Krall: Hosteinwand, Gast und fremde Wiedergaben bleiben getrennt', () => {
     assert.equal(o.precision, 'Ungefähr');
     assert.ok(o.endSeconds <= d.scope.durationSeconds);
   }
-  assert.equal(byText(O, /Unabhängigkeit der EZB/).verdict, null, 'Rechtsnorm widerlegt praktische Einflussbehauptung nicht allein');
+  assert.equal(byText(O, /Unabhängigkeit der EZB/).verdict, 'Meinung / Prognose', 'praktisches Gesamturteil nicht allein durch Rechtsnorm als falsch einstufen');
 });
 
 test('Krall: richtige Rechnungen und zu starke Wiedergaben getrennt prüfen', () => {
@@ -67,31 +66,34 @@ test('Krall: richtige Rechnungen und zu starke Wiedergaben getrennt prüfen', ()
 });
 
 test('Krall: regionale und globale Korallenfragen nicht zu künstlichem Konflikt vereinigen', () => {
-  assert.equal(byText(O, /weltweiten Korallenflächen/).verdict, null);
+  assert.equal(byText(O, /weltweiten Korallenflächen/).verdict, 'Nicht ausreichend belegbar');
   assert.equal(byText(P, /AIMS dokumentiere/).verdict, 'Belegt');
-  assert.equal(byText(P, /weltweiten aktuellen Korallenrekord/).verdict, null);
+  assert.equal(byText(P, /weltweiten aktuellen Korallenrekord/).verdict, 'Irreführend / Kontext fehlt');
   const link = relations.relations.find(r => r.reactionVideoId === P).claimLinks.find(l => l.reactionClaimId === byText(P, /AIMS dokumentiere/).id);
   assert.equal(link.type, 'ergaenzt', 'regionaler Beleg hat anderen Prüfumfang');
 });
 
-test('Krall: über Alfred neu identifizierte Originalbehauptungen bleiben offene Kandidaten', () => {
+test('Krall: über Alfred identifizierte Aussagen getrennt von ihrer Wiedergabe nachprüfen', () => {
   for (const re of [/gesamte Corona-Zeit/, /Politiker seien im Durchschnitt/]) {
     const original = byText(O, re);
-    assert.equal(original.status, 'In Bearbeitung');
-    assert.equal(original.verdict, null);
-    assert.ok(original.openQuestions.length);
+    assert.equal(original.status, 'Abgeschlossen');
+    assert.ok(original.research.rounds.length >= (original.verdict === 'Nicht ausreichend belegbar' ? 2 : 1));
     const links = relations.relations.find(r => r.reactionVideoId === A).claimLinks.filter(l => l.originalClaimId === original.id);
     assert.ok(links.length > 0);
     assert.ok(links.every(l => l.type === 'gibt_wieder'));
   }
 });
 
-test('Krall: Index-Selbstauskunft und gesperrte Sachbelege bleiben offen', () => {
-  for (const re of [/Jeder Satz/, /alle zehn Minuten/, /alle acht Minuten/, /1.360 Punkten/, /Rekordkapitalpolster/]) {
+test('Krall: fehlende Indexdaten bleiben offen, zugängliche EBA-Belege werden ausgewertet', () => {
+  for (const re of [/Jeder Satz/, /alle zehn Minuten/, /alle acht Minuten/, /1.360 Punkten/]) {
     const c = byText(A, re);
     assert.equal(c.verdict, null);
     assert.notEqual(c.status, 'Abgeschlossen');
   }
+  const capital = byText(A, /Rekordkapitalpolster/);
+  assert.equal(capital.verdict, 'Teilweise belegt');
+  assert.match(capital.reason, /Quote|quote/);
+  assert.ok(capital.sourceRefs.every(ref => data[A].sources.some(s => s.id === ref.sourceId && /eba\.europa\.eu/.test(s.url))));
   const may = byText(A, /Mai 2020.*Vorhersage/);
   assert.equal(may.verdict, 'Irreführend / Kontext fehlt');
   assert.match(may.reason, /12\.03\.2020/);

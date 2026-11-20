@@ -17,6 +17,9 @@
  *    und nicht überprüfbare Aussagen (docs/AGENTEN_PRUEFSTATUS.md).
  *  - Vorläufig (keine Ampel), solange die Analyse als „In Bearbeitung“ geführt wird oder bei zu
  *    kleiner Grundlage noch Prüfungen ausstehen (noch nicht geprüft oder in Bearbeitung).
+ *  - YouTube Shorts (video.json format "short"): Ein Short wird vollständig erfasst (Vollerhebung statt
+ *    Auswahl). Deshalb genügen 3 entschiedene Tatsachenbehauptungen, sofern mindestens die Hälfte aller
+ *    erfassten entschieden ist (RULES.short). Alles andere gilt unverändert.
  *  - Darstellungshinweise (Rhetorik) gehen nie ein. Die Ampel beschreibt den geprüften Bestand,
  *    nicht das ganze Video und keine Person.
  */
@@ -32,7 +35,9 @@
     minShare: 0.2,       // und mindestens dieser Anteil aller erfassten Tatsachenbehauptungen
     minPerHour: 20,      // erfasste Tatsachenbehauptungen je Stunde Videolaufzeit (Schutz vor gezielter Kleinauswahl)
     yellowFrom: 0.10,    // Fehleranteil ab hier gelb
-    redFrom: 0.25        // Fehleranteil ab hier rot
+    redFrom: 0.25,       // Fehleranteil ab hier rot
+    /* YouTube Shorts: ganze Laufzeit erfasst, wenige Aussagen; siehe docs/SHORTS.md */
+    short: Object.freeze({ minDecided: 3, minShare: 0.5 })
   });
 
   const DECIDED = ['Belegt', 'Teilweise belegt', 'Irreführend / Kontext fehlt', 'Widerlegt'];
@@ -42,7 +47,7 @@
     gruen: { name: 'Grün', label: 'Überwiegend zutreffend', text: 'Weniger als 10 % der entschiedenen Tatsachenbehauptungen sind widerlegt oder irreführend.' },
     gelb: { name: 'Gelb', label: 'Gemischt', text: '10 bis unter 25 % der entschiedenen Tatsachenbehauptungen sind widerlegt oder irreführend.' },
     rot: { name: 'Rot', label: 'Viele Fehler', text: 'Mindestens 25 % der entschiedenen Tatsachenbehauptungen sind widerlegt oder irreführend.' },
-    nicht_bewertbar: { name: 'Nicht bewertbar', label: 'Nicht bewertbar', text: 'Zu wenige prüfbare Tatsachen: weniger als 10 entschieden, weniger als 20 % der erfassten Tatsachenbehauptungen entschieden oder weniger als 20 erfasste Tatsachenbehauptungen je Stunde Video (nur eine kleine Auswahl geprüft).' },
+    nicht_bewertbar: { name: 'Nicht bewertbar', label: 'Nicht bewertbar', text: 'Zu wenige prüfbare Tatsachen: weniger als 10 entschieden, weniger als 20 % der erfassten Tatsachenbehauptungen entschieden oder weniger als 20 erfasste Tatsachenbehauptungen je Stunde Video (nur eine kleine Auswahl geprüft). Bei YouTube Shorts: weniger als 3 entschieden oder weniger als die Hälfte der erfassten.' },
     vorlaeufig: { name: 'Vorläufig', label: 'Noch in Prüfung', text: 'Die Prüfung läuft noch; bis zum Abschluss gibt es keine Ampel.' }
   });
 
@@ -72,10 +77,13 @@
       return out('vorlaeufig', 'Die Analyse läuft noch.' + progress + minimum);
     }
     if (!stats) return out('nicht_bewertbar', 'Für dieses Video liegen keine strukturierten Prüfdaten vor.');
-    const tooFew = decided < RULES.minDecided || !facts || decided / facts < RULES.minShare;
+    const short = video?.format === 'short';
+    const minDecided = short ? RULES.short.minDecided : RULES.minDecided;
+    const minShare = short ? RULES.short.minShare : RULES.minShare;
+    const tooFew = decided < minDecided || !facts || decided / facts < minShare;
     if (tooFew) {
       if (inProgress + unchecked > 0) return out('vorlaeufig', `Erst ${decided} Tatsachenbehauptungen entschieden, ${inProgress + unchecked} noch nicht fertig geprüft.`);
-      return out('nicht_bewertbar', `Nur ${decided} von ${facts} erfassten Tatsachenbehauptungen sind entschieden; nötig sind mindestens ${RULES.minDecided} und mindestens ${Math.round(RULES.minShare * 100)} %.`);
+      return out('nicht_bewertbar', `Nur ${decided} von ${facts} erfassten Tatsachenbehauptungen sind entschieden; nötig sind ${short ? 'bei einem Short ' : ''}mindestens ${minDecided} und mindestens ${Math.round(minShare * 100)} %.`);
     }
     if (hours && facts / hours < RULES.minPerHour) {
       if (inProgress + unchecked > 0) {

@@ -4,18 +4,18 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 **Abdeckung: Teilbestand.** Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote.
 
-Stand: 2026-11-18 · Video: qQAcmDzd9O8
+Stand: 2026-11-20 · Video: qQAcmDzd9O8
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 43
-- Abgeschlossen: 24
+- Abgeschlossen: 39
 - Offen (noch nicht geprueft): 0
-- In Bearbeitung: 19
+- In Bearbeitung: 4
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
 - Erfasste Behauptungsvorkommen: 43
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
@@ -30,15 +30,15 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 23 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 38 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 19 | 82.6 % |
-| Teilweise belegt | 3 | 13.0 % |
-| Irreführend / Kontext fehlt | 1 | 4.3 % |
+| Belegt | 27 | 71.1 % |
+| Teilweise belegt | 10 | 26.3 % |
+| Irreführend / Kontext fehlt | 1 | 2.6 % |
 | Widerlegt | 0 | 0.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 1 | nicht anwendbar |

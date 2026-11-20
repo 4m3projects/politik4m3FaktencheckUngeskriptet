@@ -6,7 +6,7 @@
 
 Maßgeblicher aktueller Prüfstand: [Nachprüfung am Original](../faktenchecks/mdo14671BPE/05_nachpruefung.md) und generierte Statistik. 251 Prüfgegenstände, 212 eigene Tatsachen: 107 mit Rechercheurteil, 103 begründet nicht überprüfbar, zwei offen; 37 Meinungen/Prognosen. Alle zwölf zuvor offenen Einträge nachbearbeitet, zwei vollständige Buchprüfungen bleiben offen. Drei öffentliche Sachkerne und eine veraltete Amtszeitbegründung mit Korrekturverlauf verbessert. Zwei allgemeine Asylbehauptungen aus dem zuvor textfreien Fenster zusätzlich erfasst.
 
-Zwei private lokale Whisper-Arbeitstexte der Originaltonpassage ergänzen die Untertitellücke; keine menschliche Hör-/Sichtkontrolle und keine bestätigten Sprecher. Keine vollständige Gesamtabdeckung behaupten. Der Stand ist für einen eigenen Draft-PR bestimmt; die Freigaben für PR #72/#74 ersetzen keine konkrete Mergefreigabe dieses neuen PRs.
+Zwei private lokale Whisper-Arbeitstexte der Originaltonpassage ergänzen die Untertitellücke; keine menschliche Hör-/Sichtkontrolle und keine bestätigten Sprecher. Keine vollständige Gesamtabdeckung behaupten. Am 20.11.2026 wird der Entwurf aus PR #79 mit dem aktuellen Hauptstand integriert und erneut technisch geprüft. Die aktuelle ausdrückliche Nutzerfreigabe erlaubt die sofortige Veröffentlichung veröffentlichungsfähiger Ergebnisse einschließlich Merge. Die zwei Buchprüfungen bleiben offen; ein Gesamtabschluss wird nicht behauptet.
 
 ## Historischer Übergabestand
 

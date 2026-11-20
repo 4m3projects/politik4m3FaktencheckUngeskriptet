@@ -21,7 +21,13 @@
           "originalClaimId": "mlxFA9T88I0-A0084",
           "reactionClaimId": "sLMyP0H7tSY-A0001",
           "reactionSeconds": 16,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ]
         },
         {
           "id": "L0002",
@@ -29,7 +35,17 @@
           "originalClaimId": "mlxFA9T88I0-A0345",
           "reactionClaimId": "sLMyP0H7tSY-A0001",
           "reactionSeconds": 16,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ],
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/77",
+            "note": "Öffentliche Quellen zu Ausbildung beziehungsweise Sicherheitsregeln widersprechen einer pauschal fehlenden öffentlichen Prüfgrundlage. Bestehende abschließende Originalstatus gezielt im Korrekturverfahren prüfen; Quelle beweist nicht jede konkrete persönliche oder historische Einzelangabe."
+          }
         },
         {
           "id": "L0003",
@@ -37,7 +53,17 @@
           "originalClaimId": "mlxFA9T88I0-A0025",
           "reactionClaimId": "sLMyP0H7tSY-A0001",
           "reactionSeconds": 16,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ],
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/77",
+            "note": "Öffentliche Quellen zu Ausbildung beziehungsweise Sicherheitsregeln widersprechen einer pauschal fehlenden öffentlichen Prüfgrundlage. Bestehende abschließende Originalstatus gezielt im Korrekturverfahren prüfen; Quelle beweist nicht jede konkrete persönliche oder historische Einzelangabe."
+          }
         },
         {
           "id": "L0004",
@@ -61,7 +87,17 @@
           "originalClaimId": "mlxFA9T88I0-A0143",
           "reactionClaimId": "sLMyP0H7tSY-A0004",
           "reactionSeconds": 180,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ],
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/77",
+            "note": "Öffentliche Quellen zu Ausbildung beziehungsweise Sicherheitsregeln widersprechen einer pauschal fehlenden öffentlichen Prüfgrundlage. Bestehende abschließende Originalstatus gezielt im Korrekturverfahren prüfen; Quelle beweist nicht jede konkrete persönliche oder historische Einzelangabe."
+          }
         },
         {
           "id": "L0007",
@@ -69,7 +105,17 @@
           "originalClaimId": "mlxFA9T88I0-A0144",
           "reactionClaimId": "sLMyP0H7tSY-A0004",
           "reactionSeconds": 180,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ],
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/77",
+            "note": "Öffentliche Quellen zu Ausbildung beziehungsweise Sicherheitsregeln widersprechen einer pauschal fehlenden öffentlichen Prüfgrundlage. Bestehende abschließende Originalstatus gezielt im Korrekturverfahren prüfen; Quelle beweist nicht jede konkrete persönliche oder historische Einzelangabe."
+          }
         },
         {
           "id": "L0008",
@@ -77,7 +123,17 @@
           "originalClaimId": "mlxFA9T88I0-A0145",
           "reactionClaimId": "sLMyP0H7tSY-A0004",
           "reactionSeconds": 180,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ],
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/77",
+            "note": "Öffentliche Quellen zu Ausbildung beziehungsweise Sicherheitsregeln widersprechen einer pauschal fehlenden öffentlichen Prüfgrundlage. Bestehende abschließende Originalstatus gezielt im Korrekturverfahren prüfen; Quelle beweist nicht jede konkrete persönliche oder historische Einzelangabe."
+          }
         },
         {
           "id": "L0009",
@@ -85,7 +141,17 @@
           "originalClaimId": "mlxFA9T88I0-A0141",
           "reactionClaimId": "sLMyP0H7tSY-A0005",
           "reactionSeconds": 180,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ],
+          "review": {
+            "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/77",
+            "note": "Öffentliche Quellen zu Ausbildung beziehungsweise Sicherheitsregeln widersprechen einer pauschal fehlenden öffentlichen Prüfgrundlage. Bestehende abschließende Originalstatus gezielt im Korrekturverfahren prüfen; Quelle beweist nicht jede konkrete persönliche oder historische Einzelangabe."
+          }
         },
         {
           "id": "L0010",
@@ -93,7 +159,13 @@
           "originalClaimId": "mlxFA9T88I0-A0142",
           "reactionClaimId": "sLMyP0H7tSY-A0005",
           "reactionSeconds": 180,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ]
         },
         {
           "id": "L0011",
@@ -101,7 +173,13 @@
           "originalClaimId": "mlxFA9T88I0-A0140",
           "reactionClaimId": "sLMyP0H7tSY-A0006",
           "reactionSeconds": 195,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ]
         },
         {
           "id": "L0012",
@@ -237,7 +315,13 @@
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
             "note": "Reviewvorschlag R02 von Codex: Zinsausgaben: unterschiedliche Haushaltsabgrenzungen getrennt halten. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
-          }
+          },
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ]
         },
         {
           "id": "L0022",
@@ -301,7 +385,13 @@
           "originalClaimId": "mlxFA9T88I0-A0250",
           "reactionClaimId": "sLMyP0H7tSY-A0016",
           "reactionSeconds": 463,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ]
         },
         {
           "id": "L0028",
@@ -341,7 +431,13 @@
           "originalClaimId": "mlxFA9T88I0-A0269",
           "reactionClaimId": "sLMyP0H7tSY-A0020",
           "reactionSeconds": 578,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ]
         },
         {
           "id": "L0033",
@@ -864,6 +960,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -878,6 +978,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -892,6 +996,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -910,6 +1018,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -924,6 +1036,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -938,6 +1054,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -952,6 +1072,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -966,6 +1090,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -980,6 +1108,38 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
+            }
+          ]
+        },
+        {
+          "id": "L1365",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0014",
+          "reactionClaimId": "qQAcmDzd9O8-A0008",
+          "reactionSeconds": 219,
+          "note": "Zwally-Studie von 2015 beschreibt frühere Messzeiträume 1992–2001 und 2003–2008. Bestätigt die historische Existenz des Zuwachs-Befunds, nicht Kralls aktuellen Rekord oder dessen Geltung für die Gesamtbilanz.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Nach eigener Originaltext- und Primärquellenprüfung zugeordnet; Original und zweite Krall-Reaktion auf direkte Folgen abgeglichen (Issue #77)."
+            }
+          ]
+        },
+        {
+          "id": "L1366",
+          "type": "ergaenzt",
+          "originalClaimId": "OQnvClWgN-g-A0009",
+          "reactionClaimId": "qQAcmDzd9O8-A0017",
+          "reactionSeconds": 394,
+          "note": "Historische Metaanalyse: mittlerer EROI 19,8 für die operational-Untergruppe n=60. Ergänzt die positive Lebenszyklusbilanz, ohne sämtliche realen Anlagen zu zählen oder Geldrentabilität zu behaupten.",
+          "history": [
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Nach eigener Originaltext- und Primärquellenprüfung zugeordnet; Original und zweite Krall-Reaktion auf direkte Folgen abgeglichen (Issue #77)."
             }
           ]
         }
@@ -1167,6 +1327,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -1241,6 +1405,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -1297,6 +1465,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -1353,6 +1525,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -1365,12 +1541,16 @@
           "note": "Ungeklärte globale Reichweite und anderer Endzeitpunkt.",
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/13",
-            "note": "Globaler Messbereich, Originalintention und Zeitbezug 2026 gegenüber AIMS bis Mai 2025 abklären."
+            "note": "[Codex] 20.11.2026: Die regionale-zu-globale Schlussfolgerung ist als irreführend eingeordnet. Globaler GCRMN-Bericht mit Daten bis 2024 zusätzlich geprüft; weltweites Korallenvolumen und aktueller Messrekord 2026 dadurch nicht belegt. Kein automatisch bestätigtes Gegenurteil aus regionalen Daten."
           },
           "history": [
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -1385,6 +1565,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -1399,6 +1583,10 @@
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Folgeabgleich #77: neue Einzelbefunde und Quellenreichweite mit dem verknüpften Prüfgegenstand verglichen. Ergänzung oder Wiedergabe bleibt von gleicher Tatsachenbehauptung getrennt; keine automatische Urteilsangleichung."
             }
           ]
         },
@@ -1482,11 +1670,15 @@
           "originalClaimId": "OQnvClWgN-g-A0025",
           "reactionClaimId": "L7E04TJtRBU-A0033",
           "reactionSeconds": 1407,
-          "note": "Historischer Ausgangszeitpunkt zusätzlich zu klären.",
+          "note": "52,9 Prozent Personenarmut beziehen sich auf das erste Halbjahr 2024, nach Mileis Amtsantritt am 10.12.2023; Primärquellen am 19.11.2026 gelesen. Zeitfolge ist kein Kausalnachweis.",
           "history": [
             {
               "date": "2026-11-18",
               "change": "Textstellen und Geltungsbereich separat zugeordnet; keine Übernahme fremder Autorität."
+            },
+            {
+              "date": "2026-11-19",
+              "change": "[Codex] Historischen Ausgangszeitpunkt geprüft und im Original A0025 ergänzt (Issue #77); Originalurteil unverändert."
             }
           ]
         }

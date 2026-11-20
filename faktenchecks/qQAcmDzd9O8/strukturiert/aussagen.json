@@ -5,12 +5,12 @@
     "videoId": "qQAcmDzd9O8",
     "videoUrl": "https://www.youtube.com/watch?v=qQAcmDzd9O8",
     "durationSeconds": 1003,
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-20",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.",
+    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen.",
     "coverageNote": "Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote."
   },
   "legacyPoints": [],
@@ -44,8 +44,8 @@
       "title": "Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020",
       "url": "https://essd.copernicus.org/articles/15/1597/2023/",
       "details": "Otosaka et al., Earth System Science Data 15, 1597–1616 (2023), DOI 10.5194/essd-15-1597-2023; Abstract und Methodik.",
-      "accessedOn": "2026-11-18",
-      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks."
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. [Codex] 19.11.2026: Abstract selbst erneut gelesen; 105 Gt/Jahr (1992–1996), 372 Gt/Jahr (2016–2020)."
     },
     {
       "id": "S006",
@@ -134,6 +134,118 @@
       "details": "Jürgen Quentin, Fachagentur Wind und Solar, 15.01.2026; S. 10–11, Tabelle 4; Marktstammdatenregister/Anlagenregister, Stand der Auswertung.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Relevanten Berichtstext und Tabelle 4 selbst gelesen. Registerauswertung einer Fachagentur im Auftrag von Branchenverbänden, keine eigene Vollerhebung oder unabhängige Einzelanlagenprüfung."
+    },
+    {
+      "id": "S033",
+      "title": "IGKB: Seedaten zum Bodensee",
+      "url": "https://www.igkb.org/bodensee/seedaten",
+      "details": "Internationale Gewässerschutzkommission für den Bodensee; Kenndaten für Ober- und Untersee, gerundeter Rauminhalt 48 km³.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Kenndatentabelle mit Abgrenzung Ober-/Untersee und Rauminhalt selbst gelesen."
+    },
+    {
+      "id": "S034",
+      "title": "Zwally et al. (2015): Mass gains of the Antarctic ice sheet exceed losses",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/983F196E23C3A6E7908E5FB32EB42268/S0022143000200221a.pdf/mass_gains_of_the_antarctic_ice_sheet_exceed_losses.pdf",
+      "details": "Journal of Glaciology 61, 1019–1036, DOI 10.3189/2015JoG15J071; Abstract und Gesamtbilanz auf S. 1019 und 1026.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abstract und Abschnitt zur gesamten antarktischen Eismassenbilanz selbst gelesen. Die Studie ist ein historischer Befund, keine Bestätigung einer aktuellen positiven Gesamtbilanz."
+    },
+    {
+      "id": "S035",
+      "title": "Kubiszewski, Cleveland, Endres (2010): Meta-analysis of net energy return for wind power systems",
+      "url": "https://www.soest.hawaii.edu/earthsciences_archive/FACULTY/ITO/GG410/Wind/Kubiszewski_EROI_Wind_RenEn10.pdf",
+      "details": "Renewable Energy 35, 218–225; 50 Analysen von 1977–2007; operational-Untergruppe n=60, mittlerer EROI 19,8, Standardabweichung 13,7.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abstract, Methodenabschnitte 3.1–3.4, Ergebnisabschnitt 4 und Tabellenkontext selbst gelesen. Keine unabhängige Neuberechnung aller Eingangsstudien."
+    },
+    {
+      "id": "S036",
+      "title": "Krall bei Thorsten Wittmann, 31.05.2019",
+      "url": "https://www.youtube.com/watch?v=wFBvqwscyew",
+      "details": "Prognose und Einschränkungen insbesondere 01:50–07:49.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Originalplayer, Datum und dortiges deutsches Transkript selbst kontrolliert; vollständigen Text privat gelesen. Keine akustische Bestätigung."
+    },
+    {
+      "id": "S037",
+      "title": "Tichys Einblick: Krall-Interviewhinweis, 18.08.2019",
+      "url": "https://www.tichyseinblick.de/video/interview/markus-krall-wie-sichert-man-sein-geld-vor-dem-banken-crash/",
+      "details": "Veröffentlichungsdatum und Einleitung zum Prognosemechanismus.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Datierte Originalveröffentlichung des Interviewherausgebers selbst gelesen. Nicht das gesamte eingebettete Sommerinterview audiovisuelle kontrolliert."
+    },
+    {
+      "id": "S038",
+      "title": "EBA: Annual Report 2021",
+      "url": "https://www.eba.europa.eu/sites/default/files/document_library/About%20Us/Annual%20Reports/2021/1035237/EBA%202021%20Annual%20Report.pdf",
+      "details": "Abschnitt The 2021 EU-wide stress test, S. 35; Stichprobe 50 Banken, rund 70 Prozent der EU-Aktiva.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Passage zur CET1-Ausgangsquote 15 Prozent und historischem Vergleich selbst gelesen."
+    },
+    {
+      "id": "S039",
+      "title": "EBA: EU-wide stress test 2021, results",
+      "url": "https://www.eba.europa.eu/sites/default/files/document_library/Risk%20Analysis%20and%20Data/EU-wide%20Stress%20Testing/2021/ST%20results/1017864/2021-EU-wide-stress-test-Results.pdf",
+      "details": "S. 9–10: fully loaded 15,0 Prozent, transitional 15,3 Prozent Ende 2020.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zusammenfassung, Tabellen, Stichprobenabgrenzung und Vergleich zur vorigen Übung selbst gelesen; die zuvor gesperrte Pressemitteilung ist nicht Grundlage."
+    },
+    {
+      "id": "S040",
+      "title": "Bundesregierung: GROWIAN, Drucksache 9/1249",
+      "url": "https://dserver.bundestag.de/btd/09/012/0901249.pdf",
+      "details": "Antwort vom 30.12.1981, veröffentlicht 05.01.1982; Fragen 1 und 4.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Kostenaufstellung und Definition des geschätzten Gesamtprogramms selbst gelesen; kein Schlussverwendungsnachweis."
+    },
+    {
+      "id": "S041",
+      "title": "Hesse (2021): Visible winds",
+      "url": "https://publikationen.bibliothek.kit.edu/1000158846/150748865",
+      "details": "Centaurus, Abschnitt zu GROWIAN auf S. 707; eigene historische Forschungsarbeit mit Archivquellen, DOI 10.1111/1600-0498.12420.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Passage zu Inbetriebnahme, Demontage, Betriebsstunden und Kosten einschließlich Quellenverweisen selbst gelesen."
+    },
+    {
+      "id": "S042",
+      "title": "UBA: Rotorblattaufbereitung und Recycling von Faserverbundwerkstoffen",
+      "url": "https://www.umweltbundesamt.de/themen/abfall-ressourcen/produktverantwortung-in-der-abfallwirtschaft/windenergieanlagen/rotorblattaufbereitung-recycling-von",
+      "details": "26.09.2022; Abschnitte Aufbereitung und hochwertiges Recycling.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Relevanten Bericht der auftraggebenden Behörde über ihre Untersuchung selbst gelesen."
+    },
+    {
+      "id": "S043",
+      "title": "EU-Kommission: State Aid Scoreboard 2021",
+      "url": "https://competition-policy.ec.europa.eu/system/files/2023-04/state_aid_scoreboard_note_2021.pdf",
+      "details": "Executive Summary und Abschnitt 5.6; Berichtsjahr 2020, EU27 und Vereinigtes Königreich.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abgrenzung tatsächlicher Beihilfen von genehmigten Volumen und gesonderte Darstellung des Finanzsektors selbst gelesen."
+    },
+    {
+      "id": "S044",
+      "title": "Martín-Español et al. (2017): Constraining the mass balance of East Antarctica",
+      "url": "https://research-information.bris.ac.uk/files/112767398/Martin_Espa_ol_et_al_2017_Geophysical_Research_Letters.pdf",
+      "details": "Geophysical Research Letters, DOI 10.1002/2017GL072937; Abstract, Vergleich mit Zwally, Abschnitt 3.2 und Schlussfolgerungen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Bezeichnete Abschnitte selbst gelesen; Kombinationen verschiedener Messverfahren und nicht identische Zeiträume berücksichtigt."
+    },
+    {
+      "id": "S045",
+      "title": "P-38 National Association: Surviving P-38 Lightnings",
+      "url": "https://www.p38assn.org/surviving.htm",
+      "details": "Flugzeugregister des spezialisierten Vereins/Museums, Eintrag Glacier Girl, Seriennummer 41-7630.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Registereintrag selbst gelesen. Ausführlicher Bergungsbericht nicht zugänglich; keine eigene Kontrolle der Tiefenmessung."
+    },
+    {
+      "id": "S046",
+      "title": "Weißbach et al. (2013): Energy intensities, EROIs, and energy payback times",
+      "url": "https://festkoerper-kernphysik.de/Weissbach_EROI_Energy.pdf",
+      "details": "Energy 52, 210–221; DOI 10.1016/j.energy.2013.01.029; Abschnitte 2, 4 und 7.4 sowie Tabelle 5.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Frei zugängliche Autoren-PDF privat geladen und bezeichnete Abschnitte selbst gelesen, nachdem der Web-Lesezugang nicht funktionierte. Keine unabhängige Reproduktion des Modells."
     }
   ],
   "speakers": [
@@ -244,24 +356,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ein 1942 notgelandetes Flugzeug sei 50 Jahre später unter 82 Metern grönländischem Schnee und Eis geborgen worden.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Die Anekdote misst keine gesamte Eisschildbilanz. Bergungsbericht, Tiefe und Ort noch nicht unabhängig geprüft.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Die Anekdote misst keine gesamte Eisschildbilanz. Bergungsbericht, Tiefe und Ort noch nicht unabhängig geprüft.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Teilweise belegt. Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S045",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Primären Bergungsbericht und Messung lesen; historische Zahlen prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0003",
@@ -281,7 +391,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP nach Flugzeugbergung und Glacier Girl durchsucht; Register des spezialisierten Vereins gelesen.",
+            "sourceIds": [
+              "S045"
+            ],
+            "result": "50 Jahre und 268 Fuß dokumentiert; historische Einzelmessung nicht selbst reproduziert."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Das Vereinsregister nennt 50 Jahre und rund 82 Meter; der ursprüngliche Bergungs- und Messbericht wurde nicht kontrolliert."
     },
     {
       "id": "qQAcmDzd9O8-A0004",
@@ -378,24 +506,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die jährlichen Eisverluste entsprächen Anfang der 1990er gut zwei und 2016–2020 fast acht Bodenseefüllungen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "IMBIE nennt 105 und 372 Gigatonnen jährlich. Bei angenommenen 48 Kubikkilometern Wasservolumen wären das 2,19 und 7,75 Füllungen. Der Seevolumenbeleg und seine Abgrenzung bleiben offen.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "IMBIE/Otosaka et al. nennen 105 Gt jährlichen Gesamtverlust 1992–1996 und 372 Gt 2016–2020. Mit dem von der IGKB gerundet genannten Bodenseevolumen von 48 km³ und 1 Gt Wasser ≈ 1 km³ ergeben sich 105/48 = 2,19 und 372/48 = 7,75 Seefüllungen jährlich. Die Formulierungen gut zwei und fast acht passen als gerundeter Wasseräquivalent-Vergleich, nicht als Volumenrechnung von ungeschmolzenem Eis.",
+      "assessmentBasis": "[Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: IMBIE nennt 105 und 372 Gigatonnen jährlich. Bei angenommenen 48 Kubikkilometern Wasservolumen wären das 2,19 und 7,75 Füllungen. Der Seevolumenbeleg und seine Abgrenzung bleiben offen. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle."
       },
       "sourceRefs": [
         {
           "sourceId": "S005",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen."
         }
       ],
-      "openQuestions": [
-        "Amtlichen Beleg des verwendeten Bodenseevolumens und die Umrechnung von Eisverlustmasse in Wasseräquivalent ergänzen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0006",
@@ -415,7 +545,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). IMBIE-Originalabstract und IGKB-Kenndatentabelle gelesen; beide Quotienten selbst berechnet und Reaktionsstelle 02:51–03:14 erneut gelesen.",
+            "sourceIds": [
+              "S005",
+              "S033"
+            ],
+            "result": "IMBIE/Otosaka et al. nennen 105 Gt jährlichen Gesamtverlust 1992–1996 und 372 Gt 2016–2020. Mit dem von der IGKB gerundet genannten Bodenseevolumen von 48 km³ und 1 Gt Wasser ≈ 1 km³ ergeben sich 105/48 = 2,19 und 372/48 = 7,75 Seefüllungen jährlich. Die Formulierungen gut zwei und fast acht passen als gerundeter Wasseräquivalent-Vergleich, nicht als Volumenrechnung von ungeschmolzenem Eis."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0007",
@@ -468,24 +616,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine NASA-Studie von 2015 berichtete über antarktischen Landeiszuwachs.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Alfred verweist auf eine damalige Studie. Der konkrete Primärtext und Messzeitraum sind hier noch nicht geprüft; keine Gleichsetzung mit der gesamten späteren Forschung.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die 2015 veröffentlichte Studie von Zwally et al. berichtet für die gesamte Antarktis Nettomassenzuwächse von 112 ± 61 Gt/Jahr 1992–2001 und 82 ± 25 Gt/Jahr 2003–2008. Alfreds historische Aussage über die Existenz dieses Studienbefunds trifft zu. Damit ist weder die damalige Kontroverse entschieden noch ein heutiger Eiszuwachs nachgewiesen.",
+      "assessmentBasis": "[Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: Alfred verweist auf eine damalige Studie. Der konkrete Primärtext und Messzeitraum sind hier noch nicht geprüft; keine Gleichsetzung mit der gesamten späteren Forschung. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S034",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0008",
@@ -505,7 +651,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). Studienabstract und Gesamtbilanz im Originalartikel gelesen, zusätzlich NASA-Pressebericht vom 05.11.2015 mit ausdrücklichem Kontroversenhinweis gelesen. Reaktionsstelle 03:39–03:52 kontrolliert; behauptete spätere Drittel-Korrektur A0009 bleibt separat offen.",
+            "sourceIds": [
+              "S034"
+            ],
+            "result": "Die 2015 veröffentlichte Studie von Zwally et al. berichtet für die gesamte Antarktis Nettomassenzuwächse von 112 ± 61 Gt/Jahr 1992–2001 und 82 ± 25 Gt/Jahr 2003–2008. Alfreds historische Aussage über die Existenz dieses Studienbefunds trifft zu. Damit ist weder die damalige Kontroverse entschieden noch ein heutiger Eiszuwachs nachgewiesen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0009",
@@ -514,24 +677,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine spätere Nachrechnung habe den berichteten Zuwachs ungefähr auf ein Drittel reduziert.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Ausgangsarbeit, Korrekturarbeit, Region und genaue Vergleichsgröße fehlen in dieser Gegenprüfung. Ein journalistischer Link allein ist kein gelesener Primärbeleg.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Eine einschlägige Nachprüfung von 2017 findet für die Ostantarktis 2003–2013 je nach Modell und Messkombination rund 39 bis 57 Gigatonnen Zuwachs jährlich, gegenüber 136 in Zwallys Auswertung 2003–2008. Der reine Altimetrieversuch liegt ungefähr bei einem Drittel, andere Hauptvarianten darüber. Die verkürzte Formulierung lässt Region, unterschiedliche Zeiträume und Modellspanne weg; sie beschreibt keine bloß durch drei geteilte Gesamtbilanz der Antarktis.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Ausgangsarbeit, Korrekturarbeit, Region und genaue Vergleichsgröße fehlen in dieser Gegenprüfung. Ein journalistischer Link allein ist kein gelesener Primärbeleg.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Teilweise belegt. Eine einschlägige Nachprüfung von 2017 findet für die Ostantarktis 2003–2013 je nach Modell und Messkombination rund 39 bis 57 Gigatonnen Zuwachs jährlich, gegenüber 136 in Zwallys Auswertung 2003–2008. Der reine Altimetrieversuch liegt ungefähr bei einem Drittel, andere Hauptvarianten darüber. Die verkürzte Formulierung lässt Region, unterschiedliche Zeiträume und Modellspanne weg; sie beschreibt keine bloß durch drei geteilte Gesamtbilanz der Antarktis."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S034",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S044",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0009",
@@ -551,7 +716,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP durchsucht und Zwallys ursprünglichen Abstract mit Regionsabgrenzung gelesen.",
+            "sourceIds": [
+              "S034"
+            ],
+            "result": "Ostantarktische Teilbilanz von gesamtantarktischer Bilanz getrennt."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Anderer Suchweg über Titel, Folgeforschung und institutionelles Volltextarchiv; Originalarbeit von 2017 gelesen.",
+            "sourceIds": [
+              "S044"
+            ],
+            "result": "Kleinerer regionaler Zuwachs bestätigt; Drittel nur näherungsweise für eine Variante."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die Nachprüfung betrifft die Ostantarktis und andere Zeiträume; etwa ein Drittel ergibt sich nur für eine Modellvariante."
     },
     {
       "id": "qQAcmDzd9O8-A0010",
@@ -780,24 +972,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ohne Recyclinggutschrift betrage der energetische Rücklauf gut acht Monate.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Der Wert ohne Gutschrift wurde hier nicht reproduziert; nicht aus dem bestätigten 6,5-Monatswert ableiten.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Als grobe Überschlagsrechnung ist gut acht Monate mit der Vestas-Bilanz vereinbar: Die gerundeten Energiewerte in Tabelle 9 ergeben ohne die negative End-of-life-Gutschrift etwa 0,13 statt rund 0,10 MJ je kWh. Bei 20 Jahren Modelllaufzeit entspricht das ungefähr 8,7 statt 6,5 Monaten. Das ist eine eigene Näherung aus gerundeten Bilanzdaten, kein separat ausgewiesener exakter Messwert ohne Recycling; Entsorgungsaufwand und vermiedene Neuproduktion sind methodisch zu unterscheiden.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Der Wert ohne Gutschrift wurde hier nicht reproduziert; nicht aus dem bestätigten 6,5-Monatswert ableiten.\",\"sourceIds\":[\"S008\"]}. Jetzt Abgeschlossen / Teilweise belegt. Als grobe Überschlagsrechnung ist gut acht Monate mit der Vestas-Bilanz vereinbar: Die gerundeten Energiewerte in Tabelle 9 ergeben ohne die negative End-of-life-Gutschrift etwa 0,13 statt rund 0,10 MJ je kWh. Bei 20 Jahren Modelllaufzeit entspricht das ungefähr 8,7 statt 6,5 Monaten. Das ist eine eigene Näherung aus gerundeten Bilanzdaten, kein separat ausgewiesener exakter Messwert ohne Recycling; Entsorgungsaufwand und vermiedene Neuproduktion sind methodisch zu unterscheiden."
       },
       "sourceRefs": [
         {
           "sourceId": "S008",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0015",
@@ -817,7 +1007,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissenssuche UG/HP; Vestas-Originalstudie, Tabelle 9 und Abschnitt 6 erneut gelesen.",
+            "sourceIds": [
+              "S008"
+            ],
+            "result": "Eigene Überschlagsrechnung: 240 Monate × 0,13 MJ/kWh ÷ 3,6 MJ/kWh ≈ 8,7 Monate. Keine Reproduktion des ungerundeten Inventarmodells."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Rund 8,7 Monate ergeben sich als eigene Näherung aus gerundeten Bilanzdaten ohne die negative End-of-life-Gutschrift."
     },
     {
       "id": "qQAcmDzd9O8-A0016",
@@ -829,6 +1037,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Tabelle 97 stützt gerundet drei bis fünf Monate beim deutschen Referenzmix; andere Referenzmixe ergeben längere Zeiten. Die nötige Methodenabgrenzung zum Vestas-Nettorücklauf fehlt in der Kurzfassung. Kein nachgewiesener Zahlenwiderspruch.",
+      "shortReason": "Gerundet stimmt das mit deutschem Strommix; andere Referenzmixe ergeben längere Zeiten, die Methodenabgrenzung fehlt.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -874,24 +1083,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine Auswertung von 50 Studien finde bei betriebenen Windanlagen einen mittleren Energierücklauf von fast 20.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Metaanalyse, Auswahl, Gewichte und Untergruppe noch nicht unabhängig gelesen. Nicht als Statistik aller Anlagen übernehmen.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Metaanalyse von Kubiszewski et al. (2010) umfasst 50 Analysen aus 1977–2007. Für die Untergruppe der auf betriebenen Anlagen beruhenden Fälle nennt sie einen mittleren EROI von 19,8 (n=60; Standardabweichung 13,7). Das stützt Alfreds gerundete Wiedergabe fast zwanzig für diese Auswahl. Es ist keine Bestandsstatistik aller Windanlagen und kein Nachweis wirtschaftlicher Rentabilität. Unterschiedliche Systemgrenzen und Laufzeitannahmen bleiben relevant.",
+      "assessmentBasis": "[Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: Metaanalyse, Auswahl, Gewichte und Untergruppe noch nicht unabhängig gelesen. Nicht als Statistik aller Anlagen übernehmen. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S035",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0017",
@@ -911,7 +1118,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). Originalaufsatz (Abstract, Methoden und Ergebnisteil) gelesen, empirische und konzeptionelle Anlagenfälle unterschieden; Reaktionsstelle 06:34–06:44 und Kralls Windenergiepassage 01:17 erneut gegengelesen.",
+            "sourceIds": [
+              "S035"
+            ],
+            "result": "Die Metaanalyse von Kubiszewski et al. (2010) umfasst 50 Analysen aus 1977–2007. Für die Untergruppe der auf betriebenen Anlagen beruhenden Fälle nennt sie einen mittleren EROI von 19,8 (n=60; Standardabweichung 13,7). Das stützt Alfreds gerundete Wiedergabe fast zwanzig für diese Auswahl. Es ist keine Bestandsstatistik aller Windanlagen und kein Nachweis wirtschaftlicher Rentabilität. Unterschiedliche Systemgrenzen und Laufzeitannahmen bleiben relevant."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0018",
@@ -1008,24 +1232,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Growian habe 87 Millionen Mark gekostet.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S040",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S041",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Originalen Projekt-/Kostenbericht für die genannte Summe lesen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0020",
@@ -1045,7 +1271,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissenssuche UG/HP und zeitgenössische parlamentarische Kostenunterlagen geprüft.",
+            "sourceIds": [
+              "S040"
+            ],
+            "result": "87 Millionen als damalige Schätzung des Gesamtprogramms, nicht nur Anlagenbau."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Historische Forschungsarbeit als anderen Prüfweg gelesen.",
+            "sourceIds": [
+              "S041"
+            ],
+            "result": "Rund 90 Millionen; Reichweite der präzisen Zahl begrenzt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "87 Millionen DM waren 1981 eine Schätzung des gesamten GROWIAN-Programms; die historische Forschung nennt rund 90 Millionen."
     },
     {
       "id": "qQAcmDzd9O8-A0021",
@@ -1054,24 +1307,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Rotorblätter lassen sich nur schwer wiederverwerten.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Verfahren, Material und technischer Stand sind zu präzisieren. Die allgemeine Bewertung wird nicht allein aus einem Hersteller-Rücklaufwert übernommen.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Für die herkömmlichen faserverstärkten Rotorblätter ist die knappe Aussage zutreffend: Das UBA beschreibt aufwendige Zerkleinerung und Trennung sowie Grenzen hochwertigen Recyclings. In der Praxis bestehen unter anderem Verwertungswege in Zementwerken und Pyrolyse für Carbonfasern. Schwierig bedeutet daher weder unmöglich noch, dass alle übrigen Teile eines Windrads schlecht verwertbar wären.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Verfahren, Material und technischer Stand sind zu präzisieren. Die allgemeine Bewertung wird nicht allein aus einem Hersteller-Rücklaufwert übernommen.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Belegt. Für die herkömmlichen faserverstärkten Rotorblätter ist die knappe Aussage zutreffend: Das UBA beschreibt aufwendige Zerkleinerung und Trennung sowie Grenzen hochwertigen Recyclings. In der Praxis bestehen unter anderem Verwertungswege in Zementwerken und Pyrolyse für Carbonfasern. Schwierig bedeutet daher weder unmöglich noch, dass alle übrigen Teile eines Windrads schlecht verwertbar wären."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S042",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0021",
@@ -1091,7 +1342,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP und die Untersuchung der zuständigen Umweltbehörde zu Rotorblattmaterialien geprüft.",
+            "sourceIds": [
+              "S042"
+            ],
+            "result": "Schwierigkeiten und vorhandene Verwertungswege getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0022",
@@ -1100,24 +1368,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Eine Studie von 2013 erhalte mit Speichern und zusätzlicher Windkapazität eine energetische Amortisation von ungefähr fünf Jahren.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Studienmodell und zitierte Gegenrede noch nicht selbst gegeneinander geprüft. Systembilanz mit Speicher ist ein anderer Prüfumfang als Anlagenbilanz.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Originalstudie von Weißbach und Kollegen nennt in Tabelle 5 für eine Enercon E-66 mit 1,5 MW und 20 Jahren Modelllaufzeit etwa fünf Jahre energetische Amortisation im gepufferten Szenario. Abschnitt 4 setzt für Wind zehn Volllasttage Speicher und einen Überkapazitätsfaktor von 1,5 an. Alfred gibt diesen Studienbefund zutreffend wieder. Das bestätigt weder die Allgemeingültigkeit der Annahmen für heutige Verbundnetze noch einen Energieverlust über die gesamte Anlagenlebenszeit.",
+      "assessmentBasis": "[Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Studienmodell und zitierte Gegenrede noch nicht selbst gegeneinander geprüft. Systembilanz mit Speicher ist ein anderer Prüfumfang als Anlagenbilanz.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Belegt. Die Originalstudie von Weißbach und Kollegen nennt in Tabelle 5 für eine Enercon E-66 mit 1,5 MW und 20 Jahren Modelllaufzeit etwa fünf Jahre energetische Amortisation im gepufferten Szenario. Abschnitt 4 setzt für Wind zehn Volllasttage Speicher und einen Überkapazitätsfaktor von 1,5 an. Alfred gibt diesen Studienbefund zutreffend wieder. Das bestätigt weder die Allgemeingültigkeit der Annahmen für heutige Verbundnetze noch einen Energieverlust über die gesamte Anlagenlebenszeit."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S046",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0022",
@@ -1137,7 +1403,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "UG/HP nach Weißbach, Enercon und Speicherbilanz durchsucht; Autoren-Originalarbeit über einen zweiten technischen Zugangsweg gelesen.",
+            "sourceIds": [
+              "S046"
+            ],
+            "result": "Bezeichnetes Modell und Fünfjahreswert bestätigt; keine Übertragung auf alle heutigen Windanlagen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0023",
@@ -1190,28 +1473,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Krall habe im Sommer 2019 für 2020 einen Bankencrash infolge niedriger Zinsen vorhergesagt.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Die angeführte frühere Veröffentlichung und das vollständige Vorhersageinterview sind noch nicht selbst gelesen. Die spätere Selbstdarstellung belegt den damaligen Wortlaut nicht.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das im Originalplayer kontrollierte Interview vom 31.05.2019 belegt den wesentlichen Kern: Krall erwartete unter benannten Annahmen für das dritte oder vierte Quartal 2020 Probleme aus Ertragserosion und anschließender Kreditkontraktion. Die datierte Veröffentlichung bei Tichys Einblick vom August 2019 dokumentiert ebenfalls die frühere Prognose. Alfreds Kurzfassung lässt die Bedingungen und zeitlichen Unsicherheiten weg; die konkrete Sommeraufnahme wurde nicht vollständig kontrolliert.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Die angeführte frühere Veröffentlichung und das vollständige Vorhersageinterview sind noch nicht selbst gelesen. Die spätere Selbstdarstellung belegt den damaligen Wortlaut nicht.\",\"sourceIds\":[\"S002\",\"S001\"]}. Jetzt Abgeschlossen / Teilweise belegt. Das im Originalplayer kontrollierte Interview vom 31.05.2019 belegt den wesentlichen Kern: Krall erwartete unter benannten Annahmen für das dritte oder vierte Quartal 2020 Probleme aus Ertragserosion und anschließender Kreditkontraktion. Die datierte Veröffentlichung bei Tichys Einblick vom August 2019 dokumentiert ebenfalls die frühere Prognose. Alfreds Kurzfassung lässt die Bedingungen und zeitlichen Unsicherheiten weg; die konkrete Sommeraufnahme wurde nicht vollständig kontrolliert."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S036",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         },
         {
-          "sourceId": "S001",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S037",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0024",
@@ -1231,7 +1512,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP nach der früheren Prognose durchsucht; Originalinterview vom 31.05.2019 vollständig im Transkript gelesen.",
+            "sourceIds": [
+              "S036"
+            ],
+            "result": "Mechanismus, Schätzung und Unsicherheiten festgestellt."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Zeitbezug Sommer 2019 separat an der Originalveröffentlichung des Interviewherausgebers vom 18.08.2019 geprüft.",
+            "sourceIds": [
+              "S037"
+            ],
+            "result": "Frühere Prognose öffentlich dokumentiert; Kurzfassung ist enger als die bedingte Originalprognose."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die frühere Prognose ist dokumentiert, enthielt jedoch Bedingungen und zeitliche Unsicherheiten, die Alfreds Kurzfassung auslässt."
     },
     {
       "id": "qQAcmDzd9O8-A0025",
@@ -1240,24 +1548,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ende 2020 hätten EU-Banken ein Rekordkapitalpolster seit Beginn der Stresstests gehabt.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "EBA-Zugriff gesperrt. Kapitalquote, absolute Eigenmittel und Teststichprobe sind zu trennen; ein Rekord wäre allein kein Beweis für Abwesenheit aller Krisenrisiken.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die EBA nennt für Ende 2020 die höchste harte Kernkapitalquote seit Beginn ihrer Stresstests: 15,0 Prozent fully loaded beziehungsweise 15,3 Prozent transitional. Das gilt für die jeweilige Teststichprobe und eine Quote, nicht ohne Weiteres für den absoluten Geldbestand sämtlicher EU-Banken. Der bestätigte Rekord ist daher enger als die bildhafte Aussage über so viel eigenes Geld wie nie; er beweist auch keine Abwesenheit aller Krisenrisiken.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"EBA-Zugriff gesperrt. Kapitalquote, absolute Eigenmittel und Teststichprobe sind zu trennen; ein Rekord wäre allein kein Beweis für Abwesenheit aller Krisenrisiken.\",\"sourceIds\":[\"S013\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die EBA nennt für Ende 2020 die höchste harte Kernkapitalquote seit Beginn ihrer Stresstests: 15,0 Prozent fully loaded beziehungsweise 15,3 Prozent transitional. Das gilt für die jeweilige Teststichprobe und eine Quote, nicht ohne Weiteres für den absoluten Geldbestand sämtlicher EU-Banken. Der bestätigte Rekord ist daher enger als die bildhafte Aussage über so viel eigenes Geld wie nie; er beweist auch keine Abwesenheit aller Krisenrisiken."
       },
       "sourceRefs": [
         {
-          "sourceId": "S013",
-          "note": "Erfolgloser Abrufversuch – kein Sachbeleg."
+          "sourceId": "S038",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S039",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0025",
@@ -1277,7 +1587,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP nach Kapitalpolster und EBA gesucht; statt der gesperrten Pressemitteilung den EBA-Jahresbericht 2021 selbst gelesen.",
+            "sourceIds": [
+              "S038"
+            ],
+            "result": "Rekord der Kapitalquote bestätigt."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Anderer Primärweg über den vollständigen Stresstest-Ergebnisbericht und dessen Tabellen.",
+            "sourceIds": [
+              "S039"
+            ],
+            "result": "Quoten, Stichprobe und absolute Kapitalbeträge voneinander abgegrenzt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Der EBA-Rekord bezeichnet die Kernkapitalquote einer Teststichprobe, nicht den absoluten Geldbestand sämtlicher EU-Banken."
     },
     {
       "id": "qQAcmDzd9O8-A0026",
@@ -1330,24 +1667,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "2020 mussten vor allem geschlossene Unternehmen anstelle von Banken gerettet werden.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Die historische Gegenüberstellung erfordert vergleichbare Volumen und Instrumente. Der EZB-Bericht dokumentiert Firmenhilfen und Bankenrisiken, aber keine vollständige Verteilung sämtlicher Rettungsausgaben.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die EU-Kommission dokumentiert für 2020 außergewöhnliche Hilfen an pandemiebetroffene Unternehmen, während direkte Beihilfen an Banken stabil blieben oder zurückgingen. Damit ist Alfreds Unterscheidung im Kern gestützt. Sie ist kein striktes Entweder-oder: Unternehmenshilfen und Garantien schützten auch Banken vor Kreditausfällen. Außerdem betrafen Hilfen nicht ausschließlich behördlich geschlossene Betriebe; der Bericht erfasst keine weltweite Vollbilanz aller Rettungsinstrumente.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Die historische Gegenüberstellung erfordert vergleichbare Volumen und Instrumente. Der EZB-Bericht dokumentiert Firmenhilfen und Bankenrisiken, aber keine vollständige Verteilung sämtlicher Rettungsausgaben.\",\"sourceIds\":[\"S012\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die EU-Kommission dokumentiert für 2020 außergewöhnliche Hilfen an pandemiebetroffene Unternehmen, während direkte Beihilfen an Banken stabil blieben oder zurückgingen. Damit ist Alfreds Unterscheidung im Kern gestützt. Sie ist kein striktes Entweder-oder: Unternehmenshilfen und Garantien schützten auch Banken vor Kreditausfällen. Außerdem betrafen Hilfen nicht ausschließlich behördlich geschlossene Betriebe; der Bericht erfasst keine weltweite Vollbilanz aller Rettungsinstrumente."
       },
       "sourceRefs": [
         {
-          "sourceId": "S012",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S043",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0027",
@@ -1367,7 +1702,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP durchsucht; statt nur geldpolitischer Berichte den EU-Beihilfenbericht für 2020 gelesen.",
+            "sourceIds": [
+              "S043"
+            ],
+            "result": "Reale Unternehmenshilfen und indirekte Bankenstabilisierung gleichzeitig dokumentiert."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die Hilfen gingen wesentlich an pandemiebetroffene Unternehmen und schützten zugleich Banken indirekt vor Kreditausfällen."
     },
     {
       "id": "qQAcmDzd9O8-A0028",
@@ -1379,6 +1732,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die konkret herangezogene Pufferfreigabe wurde bereits am 12.03.2020 angekündigt. Der Mai-Begleittext betrifft zudem die Verbuchung ausfallender Kredite. Ein später eingetroffener identischer Prognoseinhalt ist so nicht belegt; Originalinterviewprüfung bleibt offen.",
+      "shortReason": "Die herangezogene Pufferfreigabe war schon am 12.03.2020 angekündigt; eine später eingetroffene Vorhersage ist nicht belegt.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1473,6 +1827,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Zinsrisiko war wesentlich; der Aufsichtsbericht nennt auch Liquiditätsrisiken, Management- und Aufsichtsversagen. Eine monokausale Kurzfassung lässt Ursachen aus.",
+      "shortReason": "Das Zinsrisiko war wesentlich, der Aufsichtsbericht nennt aber auch Liquiditätsrisiken sowie Management- und Aufsichtsversagen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1830,24 +2185,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Growian habe insgesamt ungefähr 420 Betriebsstunden erreicht.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Originaler Betriebsbericht fehlt in dieser Gegenprüfung. Daraus wird keine bestätigte negative Lebenszyklusbilanz abgeleitet.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die historische Forschungsarbeit Hesse (2021) nennt unter Verweis auf Pulczynskis Untersuchung 418,8 Betriebsstunden. Die im Video verwendete Rundung auf etwa 420 Stunden passt. Das ist keine energetische Gesamtbilanz des Prototyps.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Originaler Betriebsbericht fehlt in dieser Gegenprüfung. Daraus wird keine bestätigte negative Lebenszyklusbilanz abgeleitet.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Belegt. Die historische Forschungsarbeit Hesse (2021) nennt unter Verweis auf Pulczynskis Untersuchung 418,8 Betriebsstunden. Die im Video verwendete Rundung auf etwa 420 Stunden passt. Das ist keine energetische Gesamtbilanz des Prototyps."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S041",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0038",
@@ -1867,7 +2220,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP nach GROWIAN und historischen Betriebsdaten durchsucht; historische Originalforschung mit Archivbezügen gelesen.",
+            "sourceIds": [
+              "S041"
+            ],
+            "result": "Jahr und Betriebszeit in der Untersuchung abgeglichen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0039",
@@ -1876,24 +2246,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Growian sei 1983 in Betrieb gegangen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Datierung der Inbetriebnahme am ursprünglichen Projektbericht noch zu kontrollieren.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Hesses historische Untersuchung datiert die erste Inbetriebnahme auf Oktober 1983. Alfred nennt nur das Jahr und trifft damit den dokumentierten Sachkern; Beginn einzelner Tests und offizielle Inbetriebnahme müssen nicht denselben Tag haben.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Datierung der Inbetriebnahme am ursprünglichen Projektbericht noch zu kontrollieren.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Belegt. Hesses historische Untersuchung datiert die erste Inbetriebnahme auf Oktober 1983. Alfred nennt nur das Jahr und trifft damit den dokumentierten Sachkern; Beginn einzelner Tests und offizielle Inbetriebnahme müssen nicht denselben Tag haben."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S041",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0039",
@@ -1913,7 +2281,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP nach GROWIAN und historischen Betriebsdaten durchsucht; historische Originalforschung mit Archivbezügen gelesen.",
+            "sourceIds": [
+              "S041"
+            ],
+            "result": "Jahr und Betriebszeit in der Untersuchung abgeglichen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0040",
@@ -1922,24 +2307,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Growian sei 1988 abgerissen worden.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Abrissdatum und die zeitliche Abgrenzung zum vorherigen Ende des Testbetriebs noch primär zu prüfen.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Hesses historische Untersuchung unterscheidet die Stilllegung 1987 von der Demontage 1988. Alfreds Jahresangabe für den Abriss ist damit belegt.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Abrissdatum und die zeitliche Abgrenzung zum vorherigen Ende des Testbetriebs noch primär zu prüfen.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Belegt. Hesses historische Untersuchung unterscheidet die Stilllegung 1987 von der Demontage 1988. Alfreds Jahresangabe für den Abriss ist damit belegt."
       },
       "sourceRefs": [
         {
-          "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S041",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "qQAcmDzd9O8-O0040",
@@ -1959,7 +2342,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP nach GROWIAN und historischen Betriebsdaten durchsucht; historische Originalforschung mit Archivbezügen gelesen.",
+            "sourceIds": [
+              "S041"
+            ],
+            "result": "Jahr und Betriebszeit in der Untersuchung abgeglichen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "qQAcmDzd9O8-A0041",
@@ -1971,6 +2371,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die UBA-Modellbandbreite reicht ungefähr bis ein Jahr; sie hängt zusätzlich zum Standort vom Referenzstrommix ab. Schwachwind allein erklärt die längste Dauer nicht.",
+      "shortReason": "Bis etwa ein Jahr reicht die UBA-Bandbreite, das hängt aber vor allem auch vom Referenzstrommix ab, nicht nur vom Standort.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",

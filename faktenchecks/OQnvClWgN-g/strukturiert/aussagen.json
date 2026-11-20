@@ -10,7 +10,7 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.",
+    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert.",
     "coverageNote": "Gezielte atomare Auswahl als Referenz für zwei Reaktionsvideos. Nicht das gesamte 3:21-Stunden-Interview geprüft. 178 frühere Gruppenpositionen separat als historischer Arbeitsstand erhalten; keine Hochrechnung und keine Video-Fehlerquote."
   },
   "legacyPoints": [],
@@ -198,6 +198,142 @@
       "details": "Urteil vom 11.12.2018, Rn. 104–117, zum PSPP.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Urteilsvolltext als PDF geöffnet und die Randnummern zu Sekundärmarkt, Emissionssperrfrist und faktischer Vermittlung gelesen."
+    },
+    {
+      "id": "S032",
+      "title": "INDEC: Armut und extreme Armut, erstes Halbjahr 2024",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_241C2355AD3A.pdf",
+      "details": "INDEC, 26.09.2024; S. 3–5, Personenarmut 52,9 Prozent, 31 urbane Agglomerationen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zusammenfassung und Ergebnisse selbst gelesen, als zeitliche Ergänzung zum bestehenden Endwert."
+    },
+    {
+      "id": "S033",
+      "title": "Casa Rosada: Ansprache nach Mileis Amtsantritt, 10.12.2023",
+      "url": "https://www.casarosada.gob.ar/informacion/discursos/50257-palabras-del-presidente-de-la-nacion-javier-milei-luego-de-la-asuncion-presidencial-desde-el-balcon-de-la-casa-rosada",
+      "details": "Offizielle Amtseinführungsansprache, datiert 10.12.2023.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Titel, Datum und Anfang der offiziellen Ansprache selbst gelesen."
+    },
+    {
+      "id": "S034",
+      "title": "Kubiszewski et al. (2010): Meta-analysis of net energy return for wind power systems",
+      "url": "https://www.soest.hawaii.edu/earthsciences_archive/FACULTY/ITO/GG410/Wind/Kubiszewski_EROI_Wind_RenEn10.pdf",
+      "details": "Renewable Energy 35, 218–225; empirische Auswahl n=60, mittlerer EROI 19,8.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abstract, Methoden und Ergebnisse selbst gelesen; nur Ergänzung der Quellenbasis, keine heutige Bestandszählung."
+    },
+    {
+      "id": "S035",
+      "title": "EZB: Central bank independence in an era of volatility",
+      "url": "https://www.ecb.europa.eu/press/key/date/2025/html/ecb.sp250127~16c35af0c0.en.html",
+      "details": "Lagarde, 27.01.2025; Abschnitte zu rechtlicher und tatsächlicher Unabhängigkeit.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Rede selbst gelesen, insbesondere zur Unterscheidung von de jure und de facto. Selbstdarstellung der Institution, kein Beweis vollständiger Einflussfreiheit."
+    },
+    {
+      "id": "S036",
+      "title": "EZB-Jahresbericht 2020",
+      "url": "https://www.ecb.europa.eu/press/annual-reports-financial-statements/annual/html/ar2020~4960fb81ae.en.html",
+      "details": "Abschnitte 1, 2 und 3: Realwirtschaft, Kreditentwicklung und öffentliche Stützungsmaßnahmen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Einleitung und Passagen zu Wirtschaftseinbruch, Bankkreditwachstum und Kriseninstrumenten selbst gelesen; keine Aussage über sämtliche privaten Motive."
+    },
+    {
+      "id": "S037",
+      "title": "Niederländische Verordnung: Hollandse Kust Zuid III/IV",
+      "url": "https://zoek.officielebekendmakingen.nl/stcrt-2018-67681.html",
+      "details": "Staatscourant 2018, 67681; Erläuterung Abschnitte 1–2.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Amtliche Vergaberegeln und Erläuterung zum Verfahren ohne Erzeugungssubvention selbst gelesen."
+    },
+    {
+      "id": "S038",
+      "title": "Vattenfall: Einweihung Hollandse Kust Zuid",
+      "url": "https://group.vattenfall.com/press-and-media/pressreleases/2023/offshore-windfarm-hollandse-kust-zuid-inaugurated.-vattenfall-basf-and-allianz-showcase-innovation-and-biodiversity",
+      "details": "29.09.2023; ausdrücklich subventionsfreie Projektvergabe und öffentlich finanzierter Netzanschluss.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Projektangaben und Abschnitt Grid connection selbst gelesen. Betreiberangaben, keine Einsicht in die vollständige private Investitionsrechnung."
+    },
+    {
+      "id": "S039",
+      "title": "Bundesregierung: Bundeshaushalt 2025, Fragen und Antworten",
+      "url": "https://www.bundesregierung.de/breg-de/bundesregierung/bundeskanzleramt/faq-bundeshaushalt-2025-2356272",
+      "details": "Ausgabenansatz rund 502,5 Milliarden Euro; erläuterte Aufgaben und Investitionen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abschnitte zu Etatvolumen, Investitionen und Sondervermögen selbst gelesen. Planansatz, kein nachgewiesenes Ist und keine Rechnung eines radikalen Alternativhaushalts."
+    },
+    {
+      "id": "S040",
+      "title": "GCRMN: Status of Coral Reefs of the World 2025, Executive Summary",
+      "url": "https://gcrmn.net/wp-content/uploads/2026/08/gcrmn_2025_executive-summary.pdf",
+      "details": "S. 14–19 des Berichts; globale Hartkorallenbedeckung bis 2024.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zusammenfassung einschließlich Methodik, globalen und regionalen Befunden sowie Datenbegrenzungen selbst gelesen. Keine weltweite Korallenvolumen-Zeitreihe."
+    },
+    {
+      "id": "S041",
+      "title": "UNSW: Coral recovery time cut short by warming oceans",
+      "url": "https://www.unsw.edu.au/newsroom/news/2026/08/coral-recovery-time-cut-short-by-warming-oceans-new-report",
+      "details": "Berichtsvorstellung August 2026 durch beteiligte Forschungsinstitution.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Veröffentlichungskontext und Beschreibung des globalen Berichts gelesen; bereits vor dem Interviewaufnahmedatum verfügbar."
+    },
+    {
+      "id": "S042",
+      "title": "SIPRI: The Top 100 arms-producing companies, 2024",
+      "url": "https://www.sipri.org/sites/default/files/2025-11/fs_2512_top_100_2024.pdf",
+      "details": "Fact Sheet Dezember 2025; Rüstungsumsätze und Definition der Kennzahl.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Einleitung, Definition und regionale Ergebnisse selbst gelesen; Umsätze sind keine Bestechungszahlungen und keine direkte Friedens-Kausalanalyse."
+    },
+    {
+      "id": "S043",
+      "title": "Rat der EU: Aufruf zu einer Waffenruhe vom 10.05.2025",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2025/05/10/ukrainerussia-statement-by-the-high-representative-on-behalf-of-the-european-union-on-call-for-ceasefire/pdf/",
+      "details": "Erklärung zur bedingungslosen Waffenruhe für mindestens 30 Tage.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Gesamte amtliche Erklärung gelesen. Dokumentiert öffentliche Position, beweist keine privaten Motive und keinen alternativen Kriegsverlauf."
+    },
+    {
+      "id": "S044",
+      "title": "Krall bei Thorsten Wittmann, 31.05.2019",
+      "url": "https://www.youtube.com/watch?v=wFBvqwscyew",
+      "details": "Originalinterview; Prognosemechanismus 01:50–07:49, Termin 06:03 und Einschränkungen ab 07:20.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Originalplayer geöffnet, Beschreibung und Veröffentlichungsdatum kontrolliert, dortiges deutsches Transkript vollständig privat gelesen. Kein fremder Volltext veröffentlicht, keine akustische Sprecherbestätigung."
+    },
+    {
+      "id": "S045",
+      "title": "Thorsten Wittmann: Interview mit Krall während der Corona-Krise",
+      "url": "https://thorstenwittmann.com/dr-markus-krall-der-finanzcrash-kommt-2020-blog/",
+      "details": "Vom Interviewer veröffentlichte Textfassung, insbesondere Rückblick auf ursprüngliche Prognose und Abweichungen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Einschlägige Antworten zur ursprünglichen Prognose und den zwei Abweichungen selbst gelesen; spätere Selbstauskunft, kein Ersatz für das Original von 2019."
+    },
+    {
+      "id": "S046",
+      "title": "EBA: Ergebnisse des EU-weiten Stresstests 2021",
+      "url": "https://www.eba.europa.eu/sites/default/files/document_library/Risk%20Analysis%20and%20Data/EU-wide%20Stress%20Testing/2021/ST%20results/1017864/2021-EU-wide-stress-test-Results.pdf",
+      "details": "Ausgangsdaten Ende 2020; Stichprobe 50 Banken, rund 70 Prozent der EU-Bankaktiva; S. 9–10.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zusammenfassung, Kapitalquoten und Tabellen selbst gelesen. Kein Nachweis vollständiger Risikofreiheit sämtlicher Banken."
+    },
+    {
+      "id": "S047",
+      "title": "Dal Bó et al.: Who Becomes a Politician?",
+      "url": "https://www.nber.org/system/files/working_papers/w23120/w23120.pdf",
+      "details": "NBER Working Paper 23120 (2017), Schweden; kognitive Vergleichsdaten bei Männern bestimmter Jahrgänge.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Abstract, Daten-/Methodenabschnitt und Kompetenzvergleich gelesen. Kein Deutschlanddatensatz; vorläufige Arbeit, keine Übertragung auf alle deutschen Politiker."
+    },
+    {
+      "id": "S048",
+      "title": "YouGov: Gysi und Obama gelten als besonders intelligent",
+      "url": "https://yougov.com/de-de/artikel/15577-gysi-und-obama-gelten-als-besonders-intelligent",
+      "details": "07.06.2016; Befragung zur zugeschriebenen Intelligenz einzelner Politiker.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Beschreibung der Frage und Stichprobe selbst gelesen. Imagebefragung, kein Intelligenztest und kein Mittelwert aller deutschen Politiker."
     }
   ],
   "speakers": [
@@ -225,6 +361,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Eine Summierung ohne Ein-/Austritte und Erholung misst keinen Bestand. Die BIS arbeitet mit anhaltender Ertragsschwäche und weiteren Kriterien; die konkrete Deutschlandquote ist damit nicht nachgewiesen.",
+      "shortReason": "Aufsummierte ausgebliebene Insolvenzen messen keinen Bestand; eine Zombie-Quote von 15 % für Deutschland ist nicht nachgewiesen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -269,6 +406,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der Mechanismus findet empirische Unterstützung; die Alleinursache und der behauptete heutige Anteil folgen daraus nicht.",
+      "shortReason": "Der Mechanismus ist empirisch gestützt; die Alleinursache und der behauptete heutige Anteil folgen daraus nicht.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -313,6 +451,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Bei unverändertem unverzinstem Nominalvermögen: 6/1,22 = 4,9180; Verlust 1,0820 Billionen bzw. 18,0328 Prozent. 1,2/6 sind 20 Prozent, nicht 22. Das ist eine bedingte Rechenkorrektur, keine Bestätigung der sechs Billionen oder einer gemessenen Inflationsrate.",
+      "shortReason": "Bei 22 % Inflation bleiben rund 4,92 Billionen Kaufkraft; der Verlust beträgt etwa 1,08 Billionen (18 %), nicht 1,2.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -357,6 +496,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Schnabels akademischer Lebenslauf liefert für den Aufnahmezeitpunkt ein Gegenbeispiel. Die falsche Pauschalaussage klärt nicht jede Frage informeller Einflussnahme.",
+      "shortReason": "Isabel Schnabel saß im Direktorium und war keine Finanzministerin, sondern Wissenschaftlerin.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -396,26 +536,32 @@
       "videoId": "OQnvClWgN-g",
       "chapter": 10,
       "legacyId": null,
-      "kind": "Tatsachenbehauptung",
+      "kind": "Meinung",
       "description": "Die Unabhängigkeit der EZB existiere praktisch nicht.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Krall bestreitet tatsächliche Unabhängigkeit. Das gesetzliche Weisungsverbot allein widerlegt keine informelle Einflussnahme. Konkrete nachweisbare Weisungen oder Entscheidungsfälle wären getrennt zu untersuchen.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Bezeichnung der praktischen EZB-Unabhängigkeit als bloße Fiktion ist hier eine politische Gesamteinschätzung ohne benannten Messmaßstab oder konkreten Weisungsfall. Rechtliche Unabhängigkeit und mögliche informelle Einflussnahme sind zu unterscheiden; auch die EZB diskutiert diese Unterscheidung. Die gesonderte Behauptung über lauter frühere Finanzminister bleibt separat sachlich bewertet. Keine Widerlegung der politischen Einschätzung allein aus dem Vertrag.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-10.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-10.02: Widerlegt als Rechtsbeschreibung; tatsächlicher Einfluss offen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-10.02: Widerlegt als Rechtsbeschreibung; tatsächlicher Einfluss offen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Krall bestreitet tatsächliche Unabhängigkeit. Das gesetzliche Weisungsverbot allein widerlegt keine informelle Einflussnahme. Konkrete nachweisbare Weisungen oder Entscheidungsfälle wären getrennt zu untersuchen.\",\"sourceIds\":[\"S020\"]}. Jetzt Abgeschlossen / Meinung / Prognose. Die Bezeichnung der praktischen EZB-Unabhängigkeit als bloße Fiktion ist hier eine politische Gesamteinschätzung ohne benannten Messmaßstab oder konkreten Weisungsfall. Rechtliche Unabhängigkeit und mögliche informelle Einflussnahme sind zu unterscheiden; auch die EZB diskutiert diese Unterscheidung. Die gesonderte Behauptung über lauter frühere Finanzminister bleibt separat sachlich bewertet. Keine Widerlegung der politischen Einschätzung allein aus dem Vertrag."
       },
       "sourceRefs": [
         {
+          "sourceId": "S001",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
           "sourceId": "S020",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S035",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche konkrete Einflussnahme wird behauptet und mit welchen Entscheidungsunterlagen belegt?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0005",
@@ -435,7 +581,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP-Suche nach praktischer und rechtlicher EZB-Unabhängigkeit; Originalkontext 01:07:34–01:07:54 und institutionelle Regel selbst gelesen.",
+            "sourceIds": [
+              "S001",
+              "S020"
+            ],
+            "result": "Gesamtwertung und getrennt prüfbare Personalbehauptung unterschieden."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielt de-facto/de-jure-Diskussion gesucht und Lagardes Rede vom 27.01.2025 gelesen.",
+            "sourceIds": [
+              "S035"
+            ],
+            "result": "Einflussrisiken sind diskutierbar; die pauschale Einschätzung nennt keinen überprüfbaren Einzelmaßstab."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "OQnvClWgN-g-A0006",
@@ -447,6 +620,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Das Eurosystem kann Staatsanleihen am Sekundärmarkt kaufen. Für das PSPP beschreibt der EuGH eine Sperrfrist nach der Emission und weitere Sicherungen gegen einen vorhersehbaren, dem unmittelbaren Kauf gleichkommenden Weiterverkauf. Ein feststehender Aufschlag oder eine Umgehung per Buchung allein folgt daraus nicht. Das Urteil betrifft das PSPP. Kralls Einschränkung, dass Anleihen regelmäßig nicht sofort bei Emission durchgereicht würden, ist Teil des Kontexts.",
+      "shortReason": "Die EZB kauft Anleihen am Zweitmarkt, aber mit Sperrfrist und Schutzregeln; ein fester Aufschlag beim Durchreichen folgt daraus nicht.",
       "assessmentBasis": "[Codex] Originalstelle 01:08:48–01:09:48 im YouTube-Transkript und die Randnummern 104–117 im Urteil Weiss geprüft.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -495,6 +669,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die Kreditbuchung kann Einlagen erzeugen; überschüssige Zentralbankguthaben sind keine vorherige notwendige Bedingung. Refinanzierung und Regulierung bleiben erforderlich. Das vereinfachte Weiterverleihmodell ist keine allgemeine kausale Beschreibung.",
+      "shortReason": "Banken schaffen Einlagen durch Kreditvergabe; vorheriges Zentralbankgeld ist dafür keine notwendige Bedingung.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -536,28 +711,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Corona-Krise sei lediglich eine Staats- und Bankenrettung unter anderem Namen gewesen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Stützungsmaßnahmen sind belegt; deren Existenz beweist keine ausschließliche verdeckte Ursache der gesamten Krise. Zu prüfen bleiben Ereignisdefinition und behauptete Motive. Keine medizinische oder weltweite Tatsachenbewertung aus einem Bankenbericht ableiten.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Geld- und Bankenstützung gehörten tatsächlich zur Krisenreaktion. Der EZB-Jahresbericht dokumentiert zugleich einen schweren realwirtschaftlichen Einbruch und ausdrücklich auch die Sicherung von Unternehmenskrediten. Die Gleichsetzung der gesamten Krise mit einer nur anders benannten Staats- und Bankenrettung lässt diese eigenständigen Vorgänge weg. Daraus wird kein Beweis über verdeckte persönliche Motive abgeleitet.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-10.09; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-10.09: Nicht ausreichend belegbar / ausschließliche Zweckbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-10.09: Nicht ausreichend belegbar / ausschließliche Zweckbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Stützungsmaßnahmen sind belegt; deren Existenz beweist keine ausschließliche verdeckte Ursache der gesamten Krise. Zu prüfen bleiben Ereignisdefinition und behauptete Motive. Keine medizinische oder weltweite Tatsachenbewertung aus einem Bankenbericht ableiten.\",\"sourceIds\":[\"S011\",\"S012\"]}. Jetzt Abgeschlossen / Irreführend / Kontext fehlt. Geld- und Bankenstützung gehörten tatsächlich zur Krisenreaktion. Der EZB-Jahresbericht dokumentiert zugleich einen schweren realwirtschaftlichen Einbruch und ausdrücklich auch die Sicherung von Unternehmenskrediten. Die Gleichsetzung der gesamten Krise mit einer nur anders benannten Staats- und Bankenrettung lässt diese eigenständigen Vorgänge weg. Daraus wird kein Beweis über verdeckte persönliche Motive abgeleitet."
       },
       "sourceRefs": [
         {
-          "sourceId": "S011",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S001",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         },
         {
-          "sourceId": "S012",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S036",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0008",
@@ -577,7 +750,26 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originalpassage 01:14 und UG/HP-Vorarbeiten gegen den EZB-Jahresbericht 2020 gelesen.",
+            "sourceIds": [
+              "S001",
+              "S036"
+            ],
+            "result": "Bankenstützung ist ein Teil der Krisenreaktion; die exklusive Gleichsetzung ist sachlich verkürzend."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Neben Bankenstützung dokumentiert die EZB einen schweren realwirtschaftlichen Einbruch und Hilfen für Unternehmenskredite."
     },
     {
       "id": "OQnvClWgN-g-A0009",
@@ -588,12 +780,13 @@
       "description": "Die meisten Windanlagen erzeugten nicht einmal die für ihre Herstellung benötigte Energie.",
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
-      "reason": "Die untersuchten Lebenszyklusmodelle zeigen Rückgewinnung innerhalb der Nutzungsdauer. Sie stützen die pauschale negative Energiebilanz nicht; eine Bestandszählung aller realen Anlagen wird damit nicht behauptet.",
+      "reason": "Die untersuchten Lebenszyklusmodelle zeigen Rückgewinnung innerhalb der Nutzungsdauer. Sie stützen die pauschale negative Energiebilanz nicht; eine Bestandszählung aller realen Anlagen wird damit nicht behauptet. Ergänzend ergibt die historische Metaanalyse von Kubiszewski et al. für 60 betriebsbezogene Fälle im Mittel einen EROI von 19,8. Auch diese Auswahl ist keine Zählung sämtlicher heutiger Anlagen.",
+      "shortReason": "Lebenszyklusstudien zeigen, dass Windanlagen ihre Herstellungsenergie innerhalb der Nutzungsdauer vielfach zurückgewinnen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-11.01; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-11.01: Widerlegt als allgemeine Aussage. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-11.01: Widerlegt als allgemeine Aussage. Aktuelle abgegrenzte Prüfung: Widerlegt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Ergänzung 19.11.2026 (Codex), Issue #77: zusätzliche Primärbelege nach Reaktionsrückabgleich; bisherige Begründung und Bewertung erhalten."
       },
       "sourceRefs": [
         {
@@ -603,6 +796,10 @@
         {
           "sourceId": "S008",
           "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S034",
+          "note": "Quellengeprüfte Ergänzung aus dem Rückabgleich mit den Reaktionen am 19.11.2026; Urteil unverändert."
         }
       ],
       "openQuestions": [],
@@ -634,24 +831,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Alle Windanlagen seien ohne umfangreiche Subventionen unrentabel.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Rentabilität erfordert konkrete Kosten, Marktpreise, Standort, Finanzierung und Förderdefinition. Eine positive Energiebilanz beantwortet diese universelle Geldfrage nicht.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die pauschale Aussage unterscheidet Erzeugungsförderung, öffentlich finanzierte Netze und einzelne Projektkalkulationen nicht. Für Hollandse Kust Zuid dokumentiert die amtliche Vergaberegel ausdrücklich ein Verfahren ohne Erzeugungssubvention; das Projekt wurde realisiert. Der Betreiber nennt zugleich einen öffentlich finanzierten Netzanschluss. Das widerlegt weder sämtliche indirekte Unterstützung noch beweist es jede Projektrendite, trägt aber keine universelle Abhängigkeit aller Anlagen von gigantischen Einspeisevergütungen.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-11.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-11.02: Nicht ausreichend belegbar / unterschiedliche Fragen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-11.02: Nicht ausreichend belegbar / unterschiedliche Fragen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Rentabilität erfordert konkrete Kosten, Marktpreise, Standort, Finanzierung und Förderdefinition. Eine positive Energiebilanz beantwortet diese universelle Geldfrage nicht.\",\"sourceIds\":[\"S009\"]}. Jetzt Abgeschlossen / Irreführend / Kontext fehlt. Die pauschale Aussage unterscheidet Erzeugungsförderung, öffentlich finanzierte Netze und einzelne Projektkalkulationen nicht. Für Hollandse Kust Zuid dokumentiert die amtliche Vergaberegel ausdrücklich ein Verfahren ohne Erzeugungssubvention; das Projekt wurde realisiert. Der Betreiber nennt zugleich einen öffentlich finanzierten Netzanschluss. Das widerlegt weder sämtliche indirekte Unterstützung noch beweist es jede Projektrendite, trägt aber keine universelle Abhängigkeit aller Anlagen von gigantischen Einspeisevergütungen."
       },
       "sourceRefs": [
         {
-          "sourceId": "S009",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S001",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S037",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S038",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0010",
@@ -671,7 +874,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Nach subventionsfrei realisierten Windparks gesucht und niederländische Vergaberegel selbst gelesen.",
+            "sourceIds": [
+              "S037"
+            ],
+            "result": "Verfahren ohne Erzeugungssubvention ist amtlich dokumentiert."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Betreiberveröffentlichung zur Realisierung und ausdrücklich zum Netzanschluss gegen den Originalwortlaut 01:17 gelesen.",
+            "sourceIds": [
+              "S001",
+              "S038"
+            ],
+            "result": "Öffentlicher Netzanschluss und Förderung der Erzeugung sind nicht identisch; die pauschale Behauptung vermischt sie."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Hollandse Kust Zuid wurde ohne Erzeugungssubvention realisiert; der Netzanschluss war öffentlich finanziert."
     },
     {
       "id": "OQnvClWgN-g-A0011",
@@ -683,6 +914,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Der Bundeszuschuss fließt in die GKV-Finanzierung. Indirekte Finanzierung ist von eigener Leistungserbringung des Ministeriums zu unterscheiden. Daraus folgt keine Bewertung jeder Einzelposition.",
+      "shortReason": "Der Bundeszuschuss aus dem Gesundheitsetat fließt in die gesetzliche Krankenversicherung und finanziert so Versorgung mit.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -722,26 +954,28 @@
       "videoId": "OQnvClWgN-g",
       "chapter": 13,
       "legacyId": null,
-      "kind": "Tatsachenbehauptung",
+      "kind": "Meinung",
       "description": "Von ungefähr 500 Milliarden Bundesausgaben ließen sich problemlos rund 400 Milliarden streichen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Eine nachvollziehbare titelgenaue Rechnung mit Folgekosten fehlt in der betrachteten Passage. Die normative Auswahl echter Kernaufgaben ersetzt keine Wirkungsrechnung; keine eigene exakte Gegensumme erfunden.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Stelle schlägt eine radikale politische Neudefinition staatlicher Kernaufgaben vor. Rund 500 Milliarden Euro passen als gerundeter Haushaltsansatz 2025; die Auswahl, welche Aufgaben entfallen sollen und was problemlos bedeutet, bleibt eine normative Einschätzung. Eine vollständige titelgenaue Einspar- und Folgekostenrechnung wird nicht vorgelegt. Die politische Forderung wird nicht als erwiesener Haushaltsfehler gezählt.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-13.10; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-13.10: Nicht ausreichend belegbar. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-13.10: Nicht ausreichend belegbar. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Eine nachvollziehbare titelgenaue Rechnung mit Folgekosten fehlt in der betrachteten Passage. Die normative Auswahl echter Kernaufgaben ersetzt keine Wirkungsrechnung; keine eigene exakte Gegensumme erfunden.\",\"sourceIds\":[\"S021\"]}. Jetzt Abgeschlossen / Meinung / Prognose. Die Stelle schlägt eine radikale politische Neudefinition staatlicher Kernaufgaben vor. Rund 500 Milliarden Euro passen als gerundeter Haushaltsansatz 2025; die Auswahl, welche Aufgaben entfallen sollen und was problemlos bedeutet, bleibt eine normative Einschätzung. Eine vollständige titelgenaue Einspar- und Folgekostenrechnung wird nicht vorgelegt. Die politische Forderung wird nicht als erwiesener Haushaltsfehler gezählt."
       },
       "sourceRefs": [
         {
-          "sourceId": "S021",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S001",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S039",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0012",
@@ -761,7 +995,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originalkontext 01:34–01:35 und Haushaltsansatz der Bundesregierung gelesen; UG/HP-Suche nach Kürzung und Kernaufgaben.",
+            "sourceIds": [
+              "S001",
+              "S039"
+            ],
+            "result": "Zahlengrößenordnung von der politischen Auswahl staatlicher Aufgaben getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "OQnvClWgN-g-A0013",
@@ -773,6 +1025,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die Synthese benennt menschliche Aktivitäten als Ursache der beobachteten globalen Erwärmung. Frühere natürliche Klimaänderungen schließen gegenwärtige menschliche Wirkung nicht aus.",
+      "shortReason": "Die Forschungssynthese benennt menschliche Aktivitäten als Ursache der beobachteten Erwärmung.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -817,6 +1070,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Meereisfläche, Landmasse und Zeitraum bleiben vermischt: Ein Meereisrekord 2014 trägt keine aktuelle pauschale Aussage über das gesamte antarktische Eis.",
+      "shortReason": "Hier werden Meereis und Landeis vermischt; ein Meereisrekord von 2014 sagt nichts über das gesamte antarktische Eis heute.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -869,6 +1123,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Der langfristige gesamte Massenbefund ist negativ. Lokaler Schneezuwachs ist keine positive Gesamtbilanz.",
+      "shortReason": "Grönland verliert langfristig insgesamt Eismasse; lokaler Schneezuwachs ändert daran nichts.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -910,23 +1165,35 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die weltweiten Korallenflächen und -volumina erreichten aktuell einen Messrekord.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Kein Messgebiet genannt. AIMS misst regionale Hartkorallenbedeckung und zeigt Rückgänge 2025; dies reicht allein nicht zur Prüfung eines weltweiten Volumenrekords.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die zweite, globale Recherche findet im GCRMN-Bericht bis 2024 keinen passenden Rekordbeleg. Der Bericht untersucht Hartkorallenbedeckung, nicht das gesamte weltweite Korallenvolumen oder einen Bestand am Aufnahmetag 2026. AIMS betrifft dagegen nur das Great Barrier Reef. Die pauschale Behauptung eines aktuellen weltweiten Flächen- und Volumenrekords ist mit diesen gelesenen Quellen nicht ausreichend belegbar; sie wird nicht allein aus regionalen Rückgängen als widerlegt ausgegeben.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-15.08; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-15.08: Widerlegt als pauschale Gegenwartsbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-15.08: Widerlegt als pauschale Gegenwartsbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Kein Messgebiet genannt. AIMS misst regionale Hartkorallenbedeckung und zeigt Rückgänge 2025; dies reicht allein nicht zur Prüfung eines weltweiten Volumenrekords.\",\"sourceIds\":[\"S023\"]}. Jetzt Abgeschlossen / Nicht ausreichend belegbar. Die zweite, globale Recherche findet im GCRMN-Bericht bis 2024 keinen passenden Rekordbeleg. Der Bericht untersucht Hartkorallenbedeckung, nicht das gesamte weltweite Korallenvolumen oder einen Bestand am Aufnahmetag 2026. AIMS betrifft dagegen nur das Great Barrier Reef. Die pauschale Behauptung eines aktuellen weltweiten Flächen- und Volumenrekords ist mit diesen gelesenen Quellen nicht ausreichend belegbar; sie wird nicht allein aus regionalen Rückgängen als widerlegt ausgegeben."
       },
       "sourceRefs": [
         {
+          "sourceId": "S001",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
           "sourceId": "S023",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S040",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S041",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
       "openQuestions": [
-        "Welche weltweite konsistente Flächen-/Volumenreihe und welches Enddatum meint Krall?"
+        "Welche globale Messreihe und welchen Rekordzeitpunkt meint Krall? Bedeckung, Riffgebiet und dreidimensionales Korallenvolumen getrennt angeben."
       ],
       "occurrences": [
         {
@@ -947,7 +1214,36 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP und AIMS-Bericht 2024/25 gezielt nach regionalem Messgebiet und Originalkontext durchsucht und gelesen.",
+            "sourceIds": [
+              "S001",
+              "S023"
+            ],
+            "result": "Regionale Bedeckung kann einen weltweiten Volumenrekord nicht allein entscheiden."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Anders angesetzt: globales Monitoring GCRMN und Veröffentlichung vor September 2026 gesucht; Executive Summary einschließlich Datenbegrenzungen und UNSW-Vorstellung gelesen.",
+            "sourceIds": [
+              "S040",
+              "S041"
+            ],
+            "result": "Globale Bedeckungsdaten bis 2024 verfügbar, kein passender weltweiter Flächen-/Volumenrekord 2026 belegt."
+          }
+        ],
+        "missingInformation": "Weltweit vergleichbare Flächen- und Volumenmessungen mit der behaupteten Definition, historischem Maximum und Enddatum zum Aufnahmezeitpunkt.",
+        "conflicts": null
+      },
+      "shortReason": "Die gelesenen globalen Daten reichen bis 2024 und messen Hartkorallenbedeckung, keinen aktuellen Weltvolumenrekord."
     },
     {
       "id": "OQnvClWgN-g-A0017",
@@ -956,23 +1252,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ohne westliche Profiteure und gekaufte Politiker wäre der Ukrainekrieg bereits beendet.",
-      "status": "In Bearbeitung",
+      "status": "Nicht überprüfbar",
       "verdict": null,
-      "reason": "Kontrafaktische Hauptursache und konkrete Bestechung werden behauptet, aber in der Passage keine überprüfbaren Zahlungsnachweise vorgelegt. Fehlender Nachweis ist kein Beweis, dass Korruption unmöglich ist.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "reason": "Nicht überprüfbar – die pauschale kontrafaktische Kausalbehauptung nennt keine konkreten gekauften Politiker, Zahlungen oder überprüfbare Bedingungen, unter denen der Krieg bereits beendet wäre. SIPRI belegt Rüstungsumsätze, aber keine solchen Bestechungszahlungen; die amtliche Waffenruheforderung dokumentiert eine öffentliche Position, keinen alternativen Kriegsverlauf. Einzelne konkretisierte Korruptionsvorwürfe wären gesondert prüfbar. Nicht überprüfbar heißt hier nicht falsch.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-14.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-14.02: Nicht ausreichend belegbar / Motivbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-14.02: Nicht ausreichend belegbar / Motivbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Kontrafaktische Hauptursache und konkrete Bestechung werden behauptet, aber in der Passage keine überprüfbaren Zahlungsnachweise vorgelegt. Fehlender Nachweis ist kein Beweis, dass Korruption unmöglich ist.\",\"sourceIds\":[\"S001\"]}. Jetzt Nicht überprüfbar / ohne Urteil. Nicht überprüfbar – die pauschale kontrafaktische Kausalbehauptung nennt keine konkreten gekauften Politiker, Zahlungen oder überprüfbare Bedingungen, unter denen der Krieg bereits beendet wäre. SIPRI belegt Rüstungsumsätze, aber keine solchen Bestechungszahlungen; die amtliche Waffenruheforderung dokumentiert eine öffentliche Position, keinen alternativen Kriegsverlauf. Einzelne konkretisierte Korruptionsvorwürfe wären gesondert prüfbar. Nicht überprüfbar heißt hier nicht falsch."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S042",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S043",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
       "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+        "Bei Benennung konkreter Zahlungen, Personen oder Entscheidungen deren Belege unabhängig prüfen; Umsätze nicht mit Bestechung gleichsetzen."
       ],
       "occurrences": [
         {
@@ -993,7 +1297,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originalkontext zu Profiteuren, Offshorekonten und künftigen Enthüllungen gelesen; UG/HP nach Behauptung gesucht.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Keine konkrete überprüfbare Zahlung oder Person bezeichnet."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Indirekter Prüfweg über SIPRI-Umsatzdaten und amtlich dokumentierte Waffenruheforderung; beide Quellen gelesen.",
+            "sourceIds": [
+              "S042",
+              "S043"
+            ],
+            "result": "Ökonomischer Nutzen und öffentliche Diplomatie entscheiden den unbestimmten kontrafaktischen Kriegsverlauf nicht."
+          }
+        ],
+        "missingInformation": "Identifizierbare Beteiligte, Zahlungsnachweise und ein prüfbarer Zusammenhang mit konkreten verhinderten Friedensentscheidungen.",
+        "conflicts": null
+      }
     },
     {
       "id": "OQnvClWgN-g-A0018",
@@ -1093,6 +1424,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Der genannte Verbraucherpreisindex liefert 40,5/321,9 = 12,5816 Prozent Restkaufkraft bis 2025. Einzelne Güter oder Gold sind eine andere Bezugsgröße.",
+      "shortReason": "Nach Verbraucherpreisindex hat der Dollar seit 1971 noch rund 12,6 % seiner Kaufkraft, nicht 1 %.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1137,6 +1469,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Dieselbe Indexrechnung ergibt rund 87,42 Prozent Verlust bis 2025. Die spätere Abschwächung von 99 auf 95 wird separat erhalten; keine stillschweigende Korrektur zu 87.",
+      "shortReason": "Nach Verbraucherpreisindex beträgt der Verlust seit 1971 rund 87 %, nicht 95 %.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1225,6 +1558,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "§ 6 knüpft an einen fingierten Veräußerungsgewinn bestimmter Anteile an. Künftige Ertragserwartungen können in Unternehmenswerte eingehen; eine allgemeine Besteuerung des gesamten künftigen Arbeitseinkommens folgt daraus nicht.",
+      "shortReason": "Die Wegzugsteuer greift auf einen fiktiven Veräußerungsgewinn von Anteilen zu, nicht auf das künftige Arbeitseinkommen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1269,6 +1603,7 @@
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
       "reason": "Die Einführung erfolgte 1931 unter Brüning; die spätere nationalsozialistische Nutzung zur Verfolgung wird damit nicht bestritten.",
+      "shortReason": "Die Reichsfluchtsteuer wurde 1931 unter Reichskanzler Brüning eingeführt; die Nationalsozialisten nutzten sie später zur Verfolgung.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1312,17 +1647,26 @@
       "description": "Die argentinische Armut sei von über 50 auf knapp über 20 Prozent gesunken.",
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
-      "reason": "INDEC unterscheidet Personen und Haushalte: Die konkret verglichenen Endwerte sind 28,2 und 21,0 Prozent. Ohne Messgröße ist die Aussage verkürzt; der Rückgang wird nicht bestritten.",
+      "reason": "INDEC unterscheidet Personen und Haushalte: Die konkret verglichenen Endwerte sind 28,2 und 21,0 Prozent. Ohne Messgröße ist die Aussage verkürzt; der Rückgang wird nicht bestritten. Der Ausgangswert von 52,9 Prozent gehört zum ersten Halbjahr 2024 und liegt nach dem Amtsantritt Mileis am 10.12.2023. Die zeitliche Einordnung entscheidet keine Kausalfrage.",
+      "shortReason": "Der Rückgang ist echt, die Werte mischen aber Personen und Haushalte; vergleichbar sind 28,2 und 21,0 %, Startwert erst nach Mileis Amtsantritt.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-25.04; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-25.04: Teilweise belegt, zentrale Vergleichszahl irreführend. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-25.04: Teilweise belegt, zentrale Vergleichszahl irreführend. Aktuelle abgegrenzte Prüfung: Irreführend / Kontext fehlt. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Ergänzung 19.11.2026 (Codex), Issue #77: zusätzliche Primärbelege nach Reaktionsrückabgleich; bisherige Begründung und Bewertung erhalten."
       },
       "sourceRefs": [
         {
           "sourceId": "S026",
           "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S032",
+          "note": "Quellengeprüfte Ergänzung aus dem Rückabgleich mit den Reaktionen am 19.11.2026; Urteil unverändert."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Quellengeprüfte Ergänzung aus dem Rückabgleich mit den Reaktionen am 19.11.2026; Urteil unverändert."
         }
       ],
       "openQuestions": [],
@@ -1398,28 +1742,38 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Corona-Krise habe seine vorherige Bankenkrisenvorhersage erfüllt.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Für einen Treffer sind ursprünglicher Wortlaut, Termin, Mechanismus und Erfolgskriterium nötig. Unterstützte Banken und eine eingetretene Pandemie allein entscheiden die behauptete Prognoseerfüllung nicht.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Im Original vom 31.05.2019 skizziert Krall für das dritte oder vierte Quartal 2020 einen bedingten Ablauf aus Ertragserosion, Verlusten und Kreditkontraktion. 2020 gab es tatsächlich schwere Finanzmarktturbulenzen und Stützung; laut EZB wuchsen Unternehmenskredite und die EBA dokumentiert eine höhere Kapitalquote der Teststichprobe. Auch Kralls eigene spätere Textfassung benennt Abweichungen der Prognose. Eine Krisenreaktion allein bestätigt nicht den behaupteten ursprünglichen Mechanismus; unbeobachtete Verläufe ohne Hilfen bleiben damit unentschieden.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Atomarer Gegenstand aus eigener Vorarbeit V14-25.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.",
-        "assessmentChange": "Historische Gruppenbewertung V14-25.02: Nicht ausreichend belegbar / Prognosebilanz offen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen."
+        "assessmentChange": "Historische Gruppenbewertung V14-25.02: Nicht ausreichend belegbar / Prognosebilanz offen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Für einen Treffer sind ursprünglicher Wortlaut, Termin, Mechanismus und Erfolgskriterium nötig. Unterstützte Banken und eine eingetretene Pandemie allein entscheiden die behauptete Prognoseerfüllung nicht.\",\"sourceIds\":[\"S012\",\"S015\"]}. Jetzt Abgeschlossen / Irreführend / Kontext fehlt. Im Original vom 31.05.2019 skizziert Krall für das dritte oder vierte Quartal 2020 einen bedingten Ablauf aus Ertragserosion, Verlusten und Kreditkontraktion. 2020 gab es tatsächlich schwere Finanzmarktturbulenzen und Stützung; laut EZB wuchsen Unternehmenskredite und die EBA dokumentiert eine höhere Kapitalquote der Teststichprobe. Auch Kralls eigene spätere Textfassung benennt Abweichungen der Prognose. Eine Krisenreaktion allein bestätigt nicht den behaupteten ursprünglichen Mechanismus; unbeobachtete Verläufe ohne Hilfen bleiben damit unentschieden."
       },
       "sourceRefs": [
         {
-          "sourceId": "S012",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S001",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         },
         {
-          "sourceId": "S015",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S044",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S045",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S036",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S046",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0027",
@@ -1439,7 +1793,37 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Vorhersage nicht aus fremdem Faktencheck übernommen: Originalplayer vom 31.05.2019 und vollständigen dortigen Transkripttext gelesen.",
+            "sourceIds": [
+              "S044"
+            ],
+            "result": "Termin, Annahmen und Unsicherheiten der Prognose identifiziert."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Mit Kralls späterem Rückblick, EZB-Kreditentwicklung und EBA-Kapitaldaten abgeglichen; Original-Selbsteinschätzung 03:16 gelesen.",
+            "sourceIds": [
+              "S001",
+              "S045",
+              "S036",
+              "S046"
+            ],
+            "result": "Eingetretene Krise und Gegenmaßnahmen sind kein deckungsgleicher Nachweis des prognostizierten Ablaufs."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Kralls bedingte Prognose beschrieb Kreditkontraktion; 2020 stiegen Unternehmenskredite und die Kapitalquote der EBA-Testbanken."
     },
     {
       "id": "OQnvClWgN-g-A0028",
@@ -1451,6 +1835,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Staatsausgaben/BIP und Aufträge/Unternehmensumsatz haben andere Nenner. Die Ausgaben umfassen auch Transfers und Löhne. Die behauptete Identität folgt daraus nicht; die genaue Staatsquote bleibt hier ungeprüft.",
+      "shortReason": "Staatsquote und Anteil an Unternehmensaufträgen haben verschiedene Bezugsgrößen; Staatsausgaben umfassen auch Transfers und Löhne.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1490,26 +1875,24 @@
       "videoId": "OQnvClWgN-g",
       "chapter": 16,
       "legacyId": null,
-      "kind": "Tatsachenbehauptung",
+      "kind": "Meinung",
       "description": "Die gesamte Corona-Zeit sei ein riesiges Lügenkonstrukt.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Neu über Alfreds Wiedergabe identifizierter Original-Prüfkandidat. Die globale Formulierung benennt keine einzeln falsifizierbare Maßnahme oder Lüge. Erst konkretisieren; nicht aus rhetorischer Schärfe einen nachgewiesenen Faktenfehler machen.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die pauschale Charakterisierung der gesamten Corona-Zeit als Lügenkonstrukt ist im Kontext eine politische Gesamtwertung. Sie benennt an dieser Stelle keine einzelne Falschaussage samt Urheber, Zeitpunkt oder Wahrheitsmaßstab. Konkrete Tatsachenbehauptungen, etwa zur Krisenursache, werden separat geprüft; aus der scharfen Formulierung wird kein zusätzlicher Faktenfehler erzeugt.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Neu über Alfreds Wiedergabe identifizierter Original-Prüfkandidat. Die globale Formulierung benennt keine einzeln falsifizierbare Maßnahme oder Lüge. Erst konkretisieren; nicht aus rhetorischer Schärfe einen nachgewiesenen Faktenfehler machen.\",\"sourceIds\":[\"S001\"]}. Jetzt Abgeschlossen / Meinung / Prognose. Die pauschale Charakterisierung der gesamten Corona-Zeit als Lügenkonstrukt ist im Kontext eine politische Gesamtwertung. Sie benennt an dieser Stelle keine einzelne Falschaussage samt Urheber, Zeitpunkt oder Wahrheitsmaßstab. Konkrete Tatsachenbehauptungen, etwa zur Krisenursache, werden separat geprüft; aus der scharfen Formulierung wird kein zusätzlicher Faktenfehler erzeugt."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Welche konkrete Tatsachenbehauptung, Entscheidung oder Täuschung ist gemeint? Kontext und Originalton kontrollieren."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0029",
@@ -1529,7 +1912,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originalstelle 01:50:11–01:51:00 mit den benachbarten Themen gelesen und UG/HP nach der Behauptung durchsucht.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Gesamtwertung von einzelnen überprüfbaren Voraussetzungen getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "OQnvClWgN-g-A0030",
@@ -1538,23 +1938,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Politiker seien im Durchschnitt weniger intelligent als durchschnittliche Deutsche.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Neu über Alfreds Beispiel konkretisierter Original-Prüfkandidat. Grundgesamtheit, Intelligenzmaß und Erhebung fehlen. Die pauschale Herabsetzung ersetzt keine Messung; sachliche Prüfung bleibt unabhängig von rhetorischer Bewertung offen.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Für den behaupteten deutschen Intelligenzdurchschnitt wurde in zwei unterschiedlich angelegten Recherchen keine passende Messung gefunden. Die gelesene schwedische Auswahlstudie untersucht einen anderen Personenkreis und ist nicht auf Deutschland übertragbar. Die deutsche YouGov-Erhebung misst zugeschriebene Intelligenz, keine Testleistung. Beide sind kein Nachweis für Kralls deutschen Durchschnitt; aus dem Rechercheergebnis folgt nicht, dass keine geeignete Studie existiert.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Neu über Alfreds Beispiel konkretisierter Original-Prüfkandidat. Grundgesamtheit, Intelligenzmaß und Erhebung fehlen. Die pauschale Herabsetzung ersetzt keine Messung; sachliche Prüfung bleibt unabhängig von rhetorischer Bewertung offen.\",\"sourceIds\":[\"S001\"]}. Jetzt Abgeschlossen / Nicht ausreichend belegbar. Für den behaupteten deutschen Intelligenzdurchschnitt wurde in zwei unterschiedlich angelegten Recherchen keine passende Messung gefunden. Die gelesene schwedische Auswahlstudie untersucht einen anderen Personenkreis und ist nicht auf Deutschland übertragbar. Die deutsche YouGov-Erhebung misst zugeschriebene Intelligenz, keine Testleistung. Beide sind kein Nachweis für Kralls deutschen Durchschnitt; aus dem Rechercheergebnis folgt nicht, dass keine geeignete Studie existiert."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S047",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
       "openQuestions": [
-        "Welche Grundgesamtheit, Messung und Vergleichsstichprobe sollen den behaupteten Durchschnitt belegen?"
+        "Eine tatsächlich passende deutsche Vergleichsstudie mit Methode und Daten vorlegen; Bildungsabschlüsse, Wählermeinungen und ausländische Stichproben nicht als Ersatz behandeln."
       ],
       "occurrences": [
         {
@@ -1575,7 +1983,35 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "UG/HP sowie deutsch-/englischsprachig nach Politikerselektion, Intelligenz und Deutschland gesucht; Originalumfeld und Datengrundlage der schwedischen Originalstudie gelesen.",
+            "sourceIds": [
+              "S001",
+              "S047"
+            ],
+            "result": "Die Studie erlaubt keinen deutschen Mittelwertvergleich."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielt nach deutschen Politiker-IQ-Erhebungen und Messung statt Image gesucht; Frage und Methode der YouGov-Originalauswertung gelesen.",
+            "sourceIds": [
+              "S048"
+            ],
+            "result": "Gefundene deutsche Erhebung betrifft Wahrnehmungen und belegt keine durchschnittliche Testintelligenz."
+          }
+        ],
+        "missingInformation": "Definierte deutsche Politikerpopulation, Erhebungszeitpunkt, vergleichbarer Intelligenztest und repräsentative Bevölkerungsstichprobe.",
+        "conflicts": null
+      },
+      "shortReason": "Schwedische Messdaten und deutsche Einschätzungsumfragen belegen keinen niedrigeren Intelligenzdurchschnitt deutscher Politiker."
     }
   ]
 }

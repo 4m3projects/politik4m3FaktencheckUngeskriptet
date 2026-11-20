@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen.
 
 ## qQAcmDzd9O8-A0001
 
@@ -82,7 +82,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020](https://essd.copernicus.org/articles/15/1597/2023/) · Otosaka et al., Earth System Science Data 15, 1597–1616 (2023), DOI 10.5194/essd-15-1597-2023; Abstract und Methodik.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-19. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. [Codex] 19.11.2026: Abstract selbst erneut gelesen; 105 Gt/Jahr (1992–1996), 372 Gt/Jahr (2016–2020). Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 - [NASA: Ice Sheets](https://science.nasa.gov/earth/explore/earth-indicators/ice-sheets/) · NASA, GRACE/GRACE-FO; explizite Animation 2002–2025. Die Seite enthält leicht unterschiedliche gerundete Werte; maßgeblich ist die ausdrücklich bezeichnete Zeitreihe.
   Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
@@ -97,7 +97,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein 1942 notgelandetes Flugzeug sei 50 Jahre später unter 82 Metern grönländischem Schnee und Eis geborgen worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -116,22 +116,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Anekdote misst keine gesamte Eisschildbilanz. Bergungsbericht, Tiefe und Ort noch nicht unabhängig geprüft.
+Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Die Anekdote misst keine gesamte Eisschildbilanz. Bergungsbericht, Tiefe und Ort noch nicht unabhängig geprüft.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [P-38 National Association: Surviving P-38 Lightnings](https://www.p38assn.org/surviving.htm) · Flugzeugregister des spezialisierten Vereins/Museums, Eintrag Glacier Girl, Seriennummer 41-7630.
+  Quellenzugriff am 2026-11-19. Registereintrag selbst gelesen. Ausführlicher Bergungsbericht nicht zugänglich; keine eigene Kontrolle der Tiefenmessung. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Primären Bergungsbericht und Messung lesen; historische Zahlen prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): UG/HP nach Flugzeugbergung und Glacier Girl durchsucht; Register des spezialisierten Vereins gelesen. Gepruefte Quellen: S045. Ergebnis: 50 Jahre und 268 Fuß dokumentiert; historische Einzelmessung nicht selbst reproduziert.
 
 ## qQAcmDzd9O8-A0004
 
@@ -169,7 +175,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020](https://essd.copernicus.org/articles/15/1597/2023/) · Otosaka et al., Earth System Science Data 15, 1597–1616 (2023), DOI 10.5194/essd-15-1597-2023; Abstract und Methodik.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-19. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. [Codex] 19.11.2026: Abstract selbst erneut gelesen; 105 Gt/Jahr (1992–1996), 372 Gt/Jahr (2016–2020). Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -223,7 +229,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die jährlichen Eisverluste entsprächen Anfang der 1990er gut zwei und 2016–2020 fast acht Bodenseefüllungen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -242,22 +248,31 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-IMBIE nennt 105 und 372 Gigatonnen jährlich. Bei angenommenen 48 Kubikkilometern Wasservolumen wären das 2,19 und 7,75 Füllungen. Der Seevolumenbeleg und seine Abgrenzung bleiben offen.
+IMBIE/Otosaka et al. nennen 105 Gt jährlichen Gesamtverlust 1992–1996 und 372 Gt 2016–2020. Mit dem von der IGKB gerundet genannten Bodenseevolumen von 48 km³ und 1 Gt Wasser ≈ 1 km³ ergeben sich 105/48 = 2,19 und 372/48 = 7,75 Seefüllungen jährlich. Die Formulierungen gut zwei und fast acht passen als gerundeter Wasseräquivalent-Vergleich, nicht als Volumenrechnung von ungeschmolzenem Eis.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: IMBIE nennt 105 und 372 Gigatonnen jährlich. Bei angenommenen 48 Kubikkilometern Wasservolumen wären das 2,19 und 7,75 Füllungen. Der Seevolumenbeleg und seine Abgrenzung bleiben offen. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle.
 
 ### Zugeordnete Quellen
 
 - [Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020](https://essd.copernicus.org/articles/15/1597/2023/) · Otosaka et al., Earth System Science Data 15, 1597–1616 (2023), DOI 10.5194/essd-15-1597-2023; Abstract und Methodik.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-19. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. [Codex] 19.11.2026: Abstract selbst erneut gelesen; 105 Gt/Jahr (1992–1996), 372 Gt/Jahr (2016–2020). Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
+
+- [IGKB: Seedaten zum Bodensee](https://www.igkb.org/bodensee/seedaten) · Internationale Gewässerschutzkommission für den Bodensee; Kenndaten für Ober- und Untersee, gerundeter Rauminhalt 48 km³.
+  Quellenzugriff am 2026-11-19. Kenndatentabelle mit Abgrenzung Ober-/Untersee und Rauminhalt selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Amtlichen Beleg des verwendeten Bodenseevolumens und die Umrechnung von Eisverlustmasse in Wasseräquivalent ergänzen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). IMBIE-Originalabstract und IGKB-Kenndatentabelle gelesen; beide Quotienten selbst berechnet und Reaktionsstelle 02:51–03:14 erneut gelesen. Gepruefte Quellen: S005, S033. Ergebnis: IMBIE/Otosaka et al. nennen 105 Gt jährlichen Gesamtverlust 1992–1996 und 372 Gt 2016–2020. Mit dem von der IGKB gerundet genannten Bodenseevolumen von 48 km³ und 1 Gt Wasser ≈ 1 km³ ergeben sich 105/48 = 2,19 und 372/48 = 7,75 Seefüllungen jährlich. Die Formulierungen gut zwei und fast acht passen als gerundeter Wasseräquivalent-Vergleich, nicht als Volumenrechnung von ungeschmolzenem Eis.
 
 ## qQAcmDzd9O8-A0007
 
@@ -307,7 +322,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine NASA-Studie von 2015 berichtete über antarktischen Landeiszuwachs.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -326,22 +341,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Alfred verweist auf eine damalige Studie. Der konkrete Primärtext und Messzeitraum sind hier noch nicht geprüft; keine Gleichsetzung mit der gesamten späteren Forschung.
+Die 2015 veröffentlichte Studie von Zwally et al. berichtet für die gesamte Antarktis Nettomassenzuwächse von 112 ± 61 Gt/Jahr 1992–2001 und 82 ± 25 Gt/Jahr 2003–2008. Alfreds historische Aussage über die Existenz dieses Studienbefunds trifft zu. Damit ist weder die damalige Kontroverse entschieden noch ein heutiger Eiszuwachs nachgewiesen.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: Alfred verweist auf eine damalige Studie. Der konkrete Primärtext und Messzeitraum sind hier noch nicht geprüft; keine Gleichsetzung mit der gesamten späteren Forschung. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Zwally et al. (2015): Mass gains of the Antarctic ice sheet exceed losses](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/983F196E23C3A6E7908E5FB32EB42268/S0022143000200221a.pdf/mass_gains_of_the_antarctic_ice_sheet_exceed_losses.pdf) · Journal of Glaciology 61, 1019–1036, DOI 10.3189/2015JoG15J071; Abstract und Gesamtbilanz auf S. 1019 und 1026.
+  Quellenzugriff am 2026-11-19. Abstract und Abschnitt zur gesamten antarktischen Eismassenbilanz selbst gelesen. Die Studie ist ein historischer Befund, keine Bestätigung einer aktuellen positiven Gesamtbilanz. Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). Studienabstract und Gesamtbilanz im Originalartikel gelesen, zusätzlich NASA-Pressebericht vom 05.11.2015 mit ausdrücklichem Kontroversenhinweis gelesen. Reaktionsstelle 03:39–03:52 kontrolliert; behauptete spätere Drittel-Korrektur A0009 bleibt separat offen. Gepruefte Quellen: S034. Ergebnis: Die 2015 veröffentlichte Studie von Zwally et al. berichtet für die gesamte Antarktis Nettomassenzuwächse von 112 ± 61 Gt/Jahr 1992–2001 und 82 ± 25 Gt/Jahr 2003–2008. Alfreds historische Aussage über die Existenz dieses Studienbefunds trifft zu. Damit ist weder die damalige Kontroverse entschieden noch ein heutiger Eiszuwachs nachgewiesen.
 
 ## qQAcmDzd9O8-A0009
 
@@ -349,7 +370,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine spätere Nachrechnung habe den berichteten Zuwachs ungefähr auf ein Drittel reduziert.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -368,22 +389,33 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ausgangsarbeit, Korrekturarbeit, Region und genaue Vergleichsgröße fehlen in dieser Gegenprüfung. Ein journalistischer Link allein ist kein gelesener Primärbeleg.
+Eine einschlägige Nachprüfung von 2017 findet für die Ostantarktis 2003–2013 je nach Modell und Messkombination rund 39 bis 57 Gigatonnen Zuwachs jährlich, gegenüber 136 in Zwallys Auswertung 2003–2008. Der reine Altimetrieversuch liegt ungefähr bei einem Drittel, andere Hauptvarianten darüber. Die verkürzte Formulierung lässt Region, unterschiedliche Zeiträume und Modellspanne weg; sie beschreibt keine bloß durch drei geteilte Gesamtbilanz der Antarktis.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Ausgangsarbeit, Korrekturarbeit, Region und genaue Vergleichsgröße fehlen in dieser Gegenprüfung. Ein journalistischer Link allein ist kein gelesener Primärbeleg.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Eine einschlägige Nachprüfung von 2017 findet für die Ostantarktis 2003–2013 je nach Modell und Messkombination rund 39 bis 57 Gigatonnen Zuwachs jährlich, gegenüber 136 in Zwallys Auswertung 2003–2008. Der reine Altimetrieversuch liegt ungefähr bei einem Drittel, andere Hauptvarianten darüber. Die verkürzte Formulierung lässt Region, unterschiedliche Zeiträume und Modellspanne weg; sie beschreibt keine bloß durch drei geteilte Gesamtbilanz der Antarktis.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Zwally et al. (2015): Mass gains of the Antarctic ice sheet exceed losses](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/983F196E23C3A6E7908E5FB32EB42268/S0022143000200221a.pdf/mass_gains_of_the_antarctic_ice_sheet_exceed_losses.pdf) · Journal of Glaciology 61, 1019–1036, DOI 10.3189/2015JoG15J071; Abstract und Gesamtbilanz auf S. 1019 und 1026.
+  Quellenzugriff am 2026-11-19. Abstract und Abschnitt zur gesamten antarktischen Eismassenbilanz selbst gelesen. Die Studie ist ein historischer Befund, keine Bestätigung einer aktuellen positiven Gesamtbilanz. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [Martín-Español et al. (2017): Constraining the mass balance of East Antarctica](https://research-information.bris.ac.uk/files/112767398/Martin_Espa_ol_et_al_2017_Geophysical_Research_Letters.pdf) · Geophysical Research Letters, DOI 10.1002/2017GL072937; Abstract, Vergleich mit Zwally, Abschnitt 3.2 und Schlussfolgerungen.
+  Quellenzugriff am 2026-11-19. Bezeichnete Abschnitte selbst gelesen; Kombinationen verschiedener Messverfahren und nicht identische Zeiträume berücksichtigt. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): UG/HP durchsucht und Zwallys ursprünglichen Abstract mit Regionsabgrenzung gelesen. Gepruefte Quellen: S034. Ergebnis: Ostantarktische Teilbilanz von gesamtantarktischer Bilanz getrennt.
+
+- Durchgang 2 am 2026-11-19 (Codex): Anderer Suchweg über Titel, Folgeforschung und institutionelles Volltextarchiv; Originalarbeit von 2017 gelesen. Gepruefte Quellen: S044. Ergebnis: Kleinerer regionaler Zuwachs bestätigt; Drittel nur näherungsweise für eine Variante.
 
 ## qQAcmDzd9O8-A0010
 
@@ -421,7 +453,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [Mass balance of the Greenland and Antarctic ice sheets from 1992 to 2020](https://essd.copernicus.org/articles/15/1597/2023/) · Otosaka et al., Earth System Science Data 15, 1597–1616 (2023), DOI 10.5194/essd-15-1597-2023; Abstract und Methodik.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-19. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. [Codex] 19.11.2026: Abstract selbst erneut gelesen; 105 Gt/Jahr (1992–1996), 372 Gt/Jahr (2016–2020). Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -601,7 +633,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ohne Recyclinggutschrift betrage der energetische Rücklauf gut acht Monate.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -620,22 +652,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Wert ohne Gutschrift wurde hier nicht reproduziert; nicht aus dem bestätigten 6,5-Monatswert ableiten.
+Als grobe Überschlagsrechnung ist gut acht Monate mit der Vestas-Bilanz vereinbar: Die gerundeten Energiewerte in Tabelle 9 ergeben ohne die negative End-of-life-Gutschrift etwa 0,13 statt rund 0,10 MJ je kWh. Bei 20 Jahren Modelllaufzeit entspricht das ungefähr 8,7 statt 6,5 Monaten. Das ist eine eigene Näherung aus gerundeten Bilanzdaten, kein separat ausgewiesener exakter Messwert ohne Recycling; Entsorgungsaufwand und vermiedene Neuproduktion sind methodisch zu unterscheiden.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Der Wert ohne Gutschrift wurde hier nicht reproduziert; nicht aus dem bestätigten 6,5-Monatswert ableiten.","sourceIds":["S008"]}. Jetzt Abgeschlossen / Teilweise belegt. Als grobe Überschlagsrechnung ist gut acht Monate mit der Vestas-Bilanz vereinbar: Die gerundeten Energiewerte in Tabelle 9 ergeben ohne die negative End-of-life-Gutschrift etwa 0,13 statt rund 0,10 MJ je kWh. Bei 20 Jahren Modelllaufzeit entspricht das ungefähr 8,7 statt 6,5 Monaten. Das ist eine eigene Näherung aus gerundeten Bilanzdaten, kein separat ausgewiesener exakter Messwert ohne Recycling; Entsorgungsaufwand und vermiedene Neuproduktion sind methodisch zu unterscheiden.
 
 ### Zugeordnete Quellen
 
 - [LCA: EnVentus V162-6.2 MW](https://www.vestas.com/content/dam/vestas-com/global/en/sustainability/reports-and-ratings/lcas/LCA%20of%20Electricity%20Production%20from%20an%20onshore%20EnVentus%20V162-6.2.pdf.coredownload.inline.pdf) · Mali/Garrett, Vestas, 31.01.2023; S. 3–4 und 67. Herstellerstudie mit externer Methodenprüfung; keine unabhängige Kontrolle sämtlicher Inventardaten.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Fortsetzung 18.11.2026: Zusätzlich Tabelle 6/S. 42–43 zur Materialmenge gelesen und auf 16 Anlagen umgerechnet. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Fortsetzung 18.11.2026: Zusätzlich Tabelle 6/S. 42–43 zur Materialmenge gelesen und auf 16 Anlagen umgerechnet. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Wissenssuche UG/HP; Vestas-Originalstudie, Tabelle 9 und Abschnitt 6 erneut gelesen. Gepruefte Quellen: S008. Ergebnis: Eigene Überschlagsrechnung: 240 Monate × 0,13 MJ/kWh ÷ 3,6 MJ/kWh ≈ 8,7 Monate. Keine Reproduktion des ungerundeten Inventarmodells.
 
 ## qQAcmDzd9O8-A0016
 
@@ -688,7 +726,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine Auswertung von 50 Studien finde bei betriebenen Windanlagen einen mittleren Energierücklauf von fast 20.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -707,22 +745,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Metaanalyse, Auswahl, Gewichte und Untergruppe noch nicht unabhängig gelesen. Nicht als Statistik aller Anlagen übernehmen.
+Die Metaanalyse von Kubiszewski et al. (2010) umfasst 50 Analysen aus 1977–2007. Für die Untergruppe der auf betriebenen Anlagen beruhenden Fälle nennt sie einen mittleren EROI von 19,8 (n=60; Standardabweichung 13,7). Das stützt Alfreds gerundete Wiedergabe fast zwanzig für diese Auswahl. Es ist keine Bestandsstatistik aller Windanlagen und kein Nachweis wirtschaftlicher Rentabilität. Unterschiedliche Systemgrenzen und Laufzeitannahmen bleiben relevant.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: Metaanalyse, Auswahl, Gewichte und Untergruppe noch nicht unabhängig gelesen. Nicht als Statistik aller Anlagen übernehmen. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Kubiszewski, Cleveland, Endres (2010): Meta-analysis of net energy return for wind power systems](https://www.soest.hawaii.edu/earthsciences_archive/FACULTY/ITO/GG410/Wind/Kubiszewski_EROI_Wind_RenEn10.pdf) · Renewable Energy 35, 218–225; 50 Analysen von 1977–2007; operational-Untergruppe n=60, mittlerer EROI 19,8, Standardabweichung 13,7.
+  Quellenzugriff am 2026-11-19. Abstract, Methodenabschnitte 3.1–3.4, Ergebnisabschnitt 4 und Tabellenkontext selbst gelesen. Keine unabhängige Neuberechnung aller Eingangsstudien. Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). Originalaufsatz (Abstract, Methoden und Ergebnisteil) gelesen, empirische und konzeptionelle Anlagenfälle unterschieden; Reaktionsstelle 06:34–06:44 und Kralls Windenergiepassage 01:17 erneut gegengelesen. Gepruefte Quellen: S035. Ergebnis: Die Metaanalyse von Kubiszewski et al. (2010) umfasst 50 Analysen aus 1977–2007. Für die Untergruppe der auf betriebenen Anlagen beruhenden Fälle nennt sie einen mittleren EROI von 19,8 (n=60; Standardabweichung 13,7). Das stützt Alfreds gerundete Wiedergabe fast zwanzig für diese Auswahl. Es ist keine Bestandsstatistik aller Windanlagen und kein Nachweis wirtschaftlicher Rentabilität. Unterschiedliche Systemgrenzen und Laufzeitannahmen bleiben relevant.
 
 ## qQAcmDzd9O8-A0018
 
@@ -814,7 +858,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Growian habe 87 Millionen Mark gekostet.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -833,22 +877,33 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.
+Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Bundesregierung: GROWIAN, Drucksache 9/1249](https://dserver.bundestag.de/btd/09/012/0901249.pdf) · Antwort vom 30.12.1981, veröffentlicht 05.01.1982; Fragen 1 und 4.
+  Quellenzugriff am 2026-11-19. Kostenaufstellung und Definition des geschätzten Gesamtprogramms selbst gelesen; kein Schlussverwendungsnachweis. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [Hesse (2021): Visible winds](https://publikationen.bibliothek.kit.edu/1000158846/150748865) · Centaurus, Abschnitt zu GROWIAN auf S. 707; eigene historische Forschungsarbeit mit Archivquellen, DOI 10.1111/1600-0498.12420.
+  Quellenzugriff am 2026-11-19. Passage zu Inbetriebnahme, Demontage, Betriebsstunden und Kosten einschließlich Quellenverweisen selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Originalen Projekt-/Kostenbericht für die genannte Summe lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Wissenssuche UG/HP und zeitgenössische parlamentarische Kostenunterlagen geprüft. Gepruefte Quellen: S040. Ergebnis: 87 Millionen als damalige Schätzung des Gesamtprogramms, nicht nur Anlagenbau.
+
+- Durchgang 2 am 2026-11-19 (Codex): Historische Forschungsarbeit als anderen Prüfweg gelesen. Gepruefte Quellen: S041. Ergebnis: Rund 90 Millionen; Reichweite der präzisen Zahl begrenzt.
 
 ## qQAcmDzd9O8-A0021
 
@@ -856,7 +911,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Rotorblätter lassen sich nur schwer wiederverwerten.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -875,22 +930,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Verfahren, Material und technischer Stand sind zu präzisieren. Die allgemeine Bewertung wird nicht allein aus einem Hersteller-Rücklaufwert übernommen.
+Für die herkömmlichen faserverstärkten Rotorblätter ist die knappe Aussage zutreffend: Das UBA beschreibt aufwendige Zerkleinerung und Trennung sowie Grenzen hochwertigen Recyclings. In der Praxis bestehen unter anderem Verwertungswege in Zementwerken und Pyrolyse für Carbonfasern. Schwierig bedeutet daher weder unmöglich noch, dass alle übrigen Teile eines Windrads schlecht verwertbar wären.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Verfahren, Material und technischer Stand sind zu präzisieren. Die allgemeine Bewertung wird nicht allein aus einem Hersteller-Rücklaufwert übernommen.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Belegt. Für die herkömmlichen faserverstärkten Rotorblätter ist die knappe Aussage zutreffend: Das UBA beschreibt aufwendige Zerkleinerung und Trennung sowie Grenzen hochwertigen Recyclings. In der Praxis bestehen unter anderem Verwertungswege in Zementwerken und Pyrolyse für Carbonfasern. Schwierig bedeutet daher weder unmöglich noch, dass alle übrigen Teile eines Windrads schlecht verwertbar wären.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [UBA: Rotorblattaufbereitung und Recycling von Faserverbundwerkstoffen](https://www.umweltbundesamt.de/themen/abfall-ressourcen/produktverantwortung-in-der-abfallwirtschaft/windenergieanlagen/rotorblattaufbereitung-recycling-von) · 26.09.2022; Abschnitte Aufbereitung und hochwertiges Recycling.
+  Quellenzugriff am 2026-11-19. Relevanten Bericht der auftraggebenden Behörde über ihre Untersuchung selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): UG/HP und die Untersuchung der zuständigen Umweltbehörde zu Rotorblattmaterialien geprüft. Gepruefte Quellen: S042. Ergebnis: Schwierigkeiten und vorhandene Verwertungswege getrennt.
 
 ## qQAcmDzd9O8-A0022
 
@@ -898,7 +959,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Eine Studie von 2013 erhalte mit Speichern und zusätzlicher Windkapazität eine energetische Amortisation von ungefähr fünf Jahren.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -917,22 +978,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Studienmodell und zitierte Gegenrede noch nicht selbst gegeneinander geprüft. Systembilanz mit Speicher ist ein anderer Prüfumfang als Anlagenbilanz.
+Die Originalstudie von Weißbach und Kollegen nennt in Tabelle 5 für eine Enercon E-66 mit 1,5 MW und 20 Jahren Modelllaufzeit etwa fünf Jahre energetische Amortisation im gepufferten Szenario. Abschnitt 4 setzt für Wind zehn Volllasttage Speicher und einen Überkapazitätsfaktor von 1,5 an. Alfred gibt diesen Studienbefund zutreffend wieder. Das bestätigt weder die Allgemeingültigkeit der Annahmen für heutige Verbundnetze noch einen Energieverlust über die gesamte Anlagenlebenszeit.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Studienmodell und zitierte Gegenrede noch nicht selbst gegeneinander geprüft. Systembilanz mit Speicher ist ein anderer Prüfumfang als Anlagenbilanz.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Belegt. Die Originalstudie von Weißbach und Kollegen nennt in Tabelle 5 für eine Enercon E-66 mit 1,5 MW und 20 Jahren Modelllaufzeit etwa fünf Jahre energetische Amortisation im gepufferten Szenario. Abschnitt 4 setzt für Wind zehn Volllasttage Speicher und einen Überkapazitätsfaktor von 1,5 an. Alfred gibt diesen Studienbefund zutreffend wieder. Das bestätigt weder die Allgemeingültigkeit der Annahmen für heutige Verbundnetze noch einen Energieverlust über die gesamte Anlagenlebenszeit.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Weißbach et al. (2013): Energy intensities, EROIs, and energy payback times](https://festkoerper-kernphysik.de/Weissbach_EROI_Energy.pdf) · Energy 52, 210–221; DOI 10.1016/j.energy.2013.01.029; Abschnitte 2, 4 und 7.4 sowie Tabelle 5.
+  Quellenzugriff am 2026-11-20. Frei zugängliche Autoren-PDF privat geladen und bezeichnete Abschnitte selbst gelesen, nachdem der Web-Lesezugang nicht funktionierte. Keine unabhängige Reproduktion des Modells. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): UG/HP nach Weißbach, Enercon und Speicherbilanz durchsucht; Autoren-Originalarbeit über einen zweiten technischen Zugangsweg gelesen. Gepruefte Quellen: S046. Ergebnis: Bezeichnetes Modell und Fünfjahreswert bestätigt; keine Übertragung auf alle heutigen Windanlagen.
 
 ## qQAcmDzd9O8-A0023
 
@@ -982,7 +1049,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Krall habe im Sommer 2019 für 2020 einen Bankencrash infolge niedriger Zinsen vorhergesagt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1001,25 +1068,33 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die angeführte frühere Veröffentlichung und das vollständige Vorhersageinterview sind noch nicht selbst gelesen. Die spätere Selbstdarstellung belegt den damaligen Wortlaut nicht.
+Das im Originalplayer kontrollierte Interview vom 31.05.2019 belegt den wesentlichen Kern: Krall erwartete unter benannten Annahmen für das dritte oder vierte Quartal 2020 Probleme aus Ertragserosion und anschließender Kreditkontraktion. Die datierte Veröffentlichung bei Tichys Einblick vom August 2019 dokumentiert ebenfalls die frühere Prognose. Alfreds Kurzfassung lässt die Bedingungen und zeitlichen Unsicherheiten weg; die konkrete Sommeraufnahme wurde nicht vollständig kontrolliert.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Die angeführte frühere Veröffentlichung und das vollständige Vorhersageinterview sind noch nicht selbst gelesen. Die spätere Selbstdarstellung belegt den damaligen Wortlaut nicht.","sourceIds":["S002","S001"]}. Jetzt Abgeschlossen / Teilweise belegt. Das im Originalplayer kontrollierte Interview vom 31.05.2019 belegt den wesentlichen Kern: Krall erwartete unter benannten Annahmen für das dritte oder vierte Quartal 2020 Probleme aus Ertragserosion und anschließender Kreditkontraktion. Die datierte Veröffentlichung bei Tichys Einblick vom August 2019 dokumentiert ebenfalls die frühere Prognose. Alfreds Kurzfassung lässt die Bedingungen und zeitlichen Unsicherheiten weg; die konkrete Sommeraufnahme wurde nicht vollständig kontrolliert.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Krall bei Thorsten Wittmann, 31.05.2019](https://www.youtube.com/watch?v=wFBvqwscyew) · Prognose und Einschränkungen insbesondere 01:50–07:49.
+  Quellenzugriff am 2026-11-19. Originalplayer, Datum und dortiges deutsches Transkript selbst kontrolliert; vollständigen Text privat gelesen. Keine akustische Bestätigung. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
-- [Originalinterview: Krall bei ungeskriptet](https://www.youtube.com/watch?v=OQnvClWgN-g) · {ungeskriptet} by Ben; Aufnahme laut Beschreibung 15.09.2026; Upload 17.10.2026; 03:21:01.
-  Quellenzugriff am 2026-11-18. oEmbed und gespeicherte Uploadmetadaten identifiziert. Nur die jeweils angegebenen deutschen automatischen Textstellen erneut gelesen; keine vollständige audiovisuelle Kontrolle. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Tichys Einblick: Krall-Interviewhinweis, 18.08.2019](https://www.tichyseinblick.de/video/interview/markus-krall-wie-sichert-man-sein-geld-vor-dem-banken-crash/) · Veröffentlichungsdatum und Einleitung zum Prognosemechanismus.
+  Quellenzugriff am 2026-11-19. Datierte Originalveröffentlichung des Interviewherausgebers selbst gelesen. Nicht das gesamte eingebettete Sommerinterview audiovisuelle kontrolliert. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): UG/HP nach der früheren Prognose durchsucht; Originalinterview vom 31.05.2019 vollständig im Transkript gelesen. Gepruefte Quellen: S036. Ergebnis: Mechanismus, Schätzung und Unsicherheiten festgestellt.
+
+- Durchgang 2 am 2026-11-19 (Codex): Zeitbezug Sommer 2019 separat an der Originalveröffentlichung des Interviewherausgebers vom 18.08.2019 geprüft. Gepruefte Quellen: S037. Ergebnis: Frühere Prognose öffentlich dokumentiert; Kurzfassung ist enger als die bedingte Originalprognose.
 
 ## qQAcmDzd9O8-A0025
 
@@ -1027,7 +1102,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ende 2020 hätten EU-Banken ein Rekordkapitalpolster seit Beginn der Stresstests gehabt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1046,22 +1121,33 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-EBA-Zugriff gesperrt. Kapitalquote, absolute Eigenmittel und Teststichprobe sind zu trennen; ein Rekord wäre allein kein Beweis für Abwesenheit aller Krisenrisiken.
+Die EBA nennt für Ende 2020 die höchste harte Kernkapitalquote seit Beginn ihrer Stresstests: 15,0 Prozent fully loaded beziehungsweise 15,3 Prozent transitional. Das gilt für die jeweilige Teststichprobe und eine Quote, nicht ohne Weiteres für den absoluten Geldbestand sämtlicher EU-Banken. Der bestätigte Rekord ist daher enger als die bildhafte Aussage über so viel eigenes Geld wie nie; er beweist auch keine Abwesenheit aller Krisenrisiken.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"EBA-Zugriff gesperrt. Kapitalquote, absolute Eigenmittel und Teststichprobe sind zu trennen; ein Rekord wäre allein kein Beweis für Abwesenheit aller Krisenrisiken.","sourceIds":["S013"]}. Jetzt Abgeschlossen / Teilweise belegt. Die EBA nennt für Ende 2020 die höchste harte Kernkapitalquote seit Beginn ihrer Stresstests: 15,0 Prozent fully loaded beziehungsweise 15,3 Prozent transitional. Das gilt für die jeweilige Teststichprobe und eine Quote, nicht ohne Weiteres für den absoluten Geldbestand sämtlicher EU-Banken. Der bestätigte Rekord ist daher enger als die bildhafte Aussage über so viel eigenes Geld wie nie; er beweist auch keine Abwesenheit aller Krisenrisiken.
 
 ### Zugeordnete Quellen
 
-- [2021 EU-wide stress test](https://www.eba.europa.eu/eba-publishes-results-its-2021-eu-wide-stress-test) · EBA, 2021; angeblicher Kapitalrekord Ende 2020.
-  Quellenzugriff am 2026-11-18. Direktseite und aktuelle Pfadvariante lieferten HTTP 403; PDF-Versuch nicht zugänglich. Kapitalzahl und Rekordbehauptung daher nicht abschließend verifiziert. Erfolgloser Abrufversuch – kein Sachbeleg.
+- [EBA: Annual Report 2021](https://www.eba.europa.eu/sites/default/files/document_library/About%20Us/Annual%20Reports/2021/1035237/EBA%202021%20Annual%20Report.pdf) · Abschnitt The 2021 EU-wide stress test, S. 35; Stichprobe 50 Banken, rund 70 Prozent der EU-Aktiva.
+  Quellenzugriff am 2026-11-19. Passage zur CET1-Ausgangsquote 15 Prozent und historischem Vergleich selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [EBA: EU-wide stress test 2021, results](https://www.eba.europa.eu/sites/default/files/document_library/Risk%20Analysis%20and%20Data/EU-wide%20Stress%20Testing/2021/ST%20results/1017864/2021-EU-wide-stress-test-Results.pdf) · S. 9–10: fully loaded 15,0 Prozent, transitional 15,3 Prozent Ende 2020.
+  Quellenzugriff am 2026-11-19. Zusammenfassung, Tabellen, Stichprobenabgrenzung und Vergleich zur vorigen Übung selbst gelesen; die zuvor gesperrte Pressemitteilung ist nicht Grundlage. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): UG/HP nach Kapitalpolster und EBA gesucht; statt der gesperrten Pressemitteilung den EBA-Jahresbericht 2021 selbst gelesen. Gepruefte Quellen: S038. Ergebnis: Rekord der Kapitalquote bestätigt.
+
+- Durchgang 2 am 2026-11-19 (Codex): Anderer Primärweg über den vollständigen Stresstest-Ergebnisbericht und dessen Tabellen. Gepruefte Quellen: S039. Ergebnis: Quoten, Stichprobe und absolute Kapitalbeträge voneinander abgegrenzt.
 
 ## qQAcmDzd9O8-A0026
 
@@ -1111,7 +1197,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** 2020 mussten vor allem geschlossene Unternehmen anstelle von Banken gerettet werden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1130,22 +1216,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die historische Gegenüberstellung erfordert vergleichbare Volumen und Instrumente. Der EZB-Bericht dokumentiert Firmenhilfen und Bankenrisiken, aber keine vollständige Verteilung sämtlicher Rettungsausgaben.
+Die EU-Kommission dokumentiert für 2020 außergewöhnliche Hilfen an pandemiebetroffene Unternehmen, während direkte Beihilfen an Banken stabil blieben oder zurückgingen. Damit ist Alfreds Unterscheidung im Kern gestützt. Sie ist kein striktes Entweder-oder: Unternehmenshilfen und Garantien schützten auch Banken vor Kreditausfällen. Außerdem betrafen Hilfen nicht ausschließlich behördlich geschlossene Betriebe; der Bericht erfasst keine weltweite Vollbilanz aller Rettungsinstrumente.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Die historische Gegenüberstellung erfordert vergleichbare Volumen und Instrumente. Der EZB-Bericht dokumentiert Firmenhilfen und Bankenrisiken, aber keine vollständige Verteilung sämtlicher Rettungsausgaben.","sourceIds":["S012"]}. Jetzt Abgeschlossen / Teilweise belegt. Die EU-Kommission dokumentiert für 2020 außergewöhnliche Hilfen an pandemiebetroffene Unternehmen, während direkte Beihilfen an Banken stabil blieben oder zurückgingen. Damit ist Alfreds Unterscheidung im Kern gestützt. Sie ist kein striktes Entweder-oder: Unternehmenshilfen und Garantien schützten auch Banken vor Kreditausfällen. Außerdem betrafen Hilfen nicht ausschließlich behördlich geschlossene Betriebe; der Bericht erfasst keine weltweite Vollbilanz aller Rettungsinstrumente.
 
 ### Zugeordnete Quellen
 
-- [ECB review sees increased medium-term vulnerabilities](https://www.ecb.europa.eu/press/pr/date/2020/html/ecb.pr201125~01dfca322a.en.html) · EZB, 25.11.2020; stärkere Ausgangsbilanzen und fortbestehende Risiken.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [EU-Kommission: State Aid Scoreboard 2021](https://competition-policy.ec.europa.eu/system/files/2023-04/state_aid_scoreboard_note_2021.pdf) · Executive Summary und Abschnitt 5.6; Berichtsjahr 2020, EU27 und Vereinigtes Königreich.
+  Quellenzugriff am 2026-11-19. Abgrenzung tatsächlicher Beihilfen von genehmigten Volumen und gesonderte Darstellung des Finanzsektors selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): UG/HP durchsucht; statt nur geldpolitischer Berichte den EU-Beihilfenbericht für 2020 gelesen. Gepruefte Quellen: S043. Ergebnis: Reale Unternehmenshilfen und indirekte Bankenstabilisierung gleichzeitig dokumentiert.
 
 ## qQAcmDzd9O8-A0028
 
@@ -1576,7 +1668,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Growian habe insgesamt ungefähr 420 Betriebsstunden erreicht.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1595,22 +1687,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Originaler Betriebsbericht fehlt in dieser Gegenprüfung. Daraus wird keine bestätigte negative Lebenszyklusbilanz abgeleitet.
+Die historische Forschungsarbeit Hesse (2021) nennt unter Verweis auf Pulczynskis Untersuchung 418,8 Betriebsstunden. Die im Video verwendete Rundung auf etwa 420 Stunden passt. Das ist keine energetische Gesamtbilanz des Prototyps.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Originaler Betriebsbericht fehlt in dieser Gegenprüfung. Daraus wird keine bestätigte negative Lebenszyklusbilanz abgeleitet.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Belegt. Die historische Forschungsarbeit Hesse (2021) nennt unter Verweis auf Pulczynskis Untersuchung 418,8 Betriebsstunden. Die im Video verwendete Rundung auf etwa 420 Stunden passt. Das ist keine energetische Gesamtbilanz des Prototyps.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Hesse (2021): Visible winds](https://publikationen.bibliothek.kit.edu/1000158846/150748865) · Centaurus, Abschnitt zu GROWIAN auf S. 707; eigene historische Forschungsarbeit mit Archivquellen, DOI 10.1111/1600-0498.12420.
+  Quellenzugriff am 2026-11-19. Passage zu Inbetriebnahme, Demontage, Betriebsstunden und Kosten einschließlich Quellenverweisen selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): UG/HP nach GROWIAN und historischen Betriebsdaten durchsucht; historische Originalforschung mit Archivbezügen gelesen. Gepruefte Quellen: S041. Ergebnis: Jahr und Betriebszeit in der Untersuchung abgeglichen.
 
 ## qQAcmDzd9O8-A0039
 
@@ -1618,7 +1716,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Growian sei 1983 in Betrieb gegangen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1637,22 +1735,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Datierung der Inbetriebnahme am ursprünglichen Projektbericht noch zu kontrollieren.
+Hesses historische Untersuchung datiert die erste Inbetriebnahme auf Oktober 1983. Alfred nennt nur das Jahr und trifft damit den dokumentierten Sachkern; Beginn einzelner Tests und offizielle Inbetriebnahme müssen nicht denselben Tag haben.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Datierung der Inbetriebnahme am ursprünglichen Projektbericht noch zu kontrollieren.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Belegt. Hesses historische Untersuchung datiert die erste Inbetriebnahme auf Oktober 1983. Alfred nennt nur das Jahr und trifft damit den dokumentierten Sachkern; Beginn einzelner Tests und offizielle Inbetriebnahme müssen nicht denselben Tag haben.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Hesse (2021): Visible winds](https://publikationen.bibliothek.kit.edu/1000158846/150748865) · Centaurus, Abschnitt zu GROWIAN auf S. 707; eigene historische Forschungsarbeit mit Archivquellen, DOI 10.1111/1600-0498.12420.
+  Quellenzugriff am 2026-11-19. Passage zu Inbetriebnahme, Demontage, Betriebsstunden und Kosten einschließlich Quellenverweisen selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): UG/HP nach GROWIAN und historischen Betriebsdaten durchsucht; historische Originalforschung mit Archivbezügen gelesen. Gepruefte Quellen: S041. Ergebnis: Jahr und Betriebszeit in der Untersuchung abgeglichen.
 
 ## qQAcmDzd9O8-A0040
 
@@ -1660,7 +1764,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Growian sei 1988 abgerissen worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1679,22 +1783,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Abrissdatum und die zeitliche Abgrenzung zum vorherigen Ende des Testbetriebs noch primär zu prüfen.
+Hesses historische Untersuchung unterscheidet die Stilllegung 1987 von der Demontage 1988. Alfreds Jahresangabe für den Abriss ist damit belegt.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Abrissdatum und die zeitliche Abgrenzung zum vorherigen Ende des Testbetriebs noch primär zu prüfen.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Belegt. Hesses historische Untersuchung unterscheidet die Stilllegung 1987 von der Demontage 1988. Alfreds Jahresangabe für den Abriss ist damit belegt.
 
 ### Zugeordnete Quellen
 
-- [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Hesse (2021): Visible winds](https://publikationen.bibliothek.kit.edu/1000158846/150748865) · Centaurus, Abschnitt zu GROWIAN auf S. 707; eigene historische Forschungsarbeit mit Archivquellen, DOI 10.1111/1600-0498.12420.
+  Quellenzugriff am 2026-11-19. Passage zu Inbetriebnahme, Demontage, Betriebsstunden und Kosten einschließlich Quellenverweisen selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): UG/HP nach GROWIAN und historischen Betriebsdaten durchsucht; historische Originalforschung mit Archivbezügen gelesen. Gepruefte Quellen: S041. Ergebnis: Jahr und Betriebszeit in der Untersuchung abgeglichen.
 
 ## qQAcmDzd9O8-A0041
 

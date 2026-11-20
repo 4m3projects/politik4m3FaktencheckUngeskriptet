@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gezielte atomare Auswahl als Referenz für zwei Reaktionsvideos. Nicht das gesamte 3:21-Stunden-Interview geprüft. 178 frühere Gruppenpositionen separat als historischer Arbeitsstand erhalten; keine Hochrechnung und keine Video-Fehlerquote.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert.
 
 ## OQnvClWgN-g-A0013
 
@@ -142,7 +142,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die weltweiten Korallenflächen und -volumina erreichten aktuell einen Messrekord.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -161,21 +161,40 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Kein Messgebiet genannt. AIMS misst regionale Hartkorallenbedeckung und zeigt Rückgänge 2025; dies reicht allein nicht zur Prüfung eines weltweiten Volumenrekords.
+Die zweite, globale Recherche findet im GCRMN-Bericht bis 2024 keinen passenden Rekordbeleg. Der Bericht untersucht Hartkorallenbedeckung, nicht das gesamte weltweite Korallenvolumen oder einen Bestand am Aufnahmetag 2026. AIMS betrifft dagegen nur das Great Barrier Reef. Die pauschale Behauptung eines aktuellen weltweiten Flächen- und Volumenrekords ist mit diesen gelesenen Quellen nicht ausreichend belegbar; sie wird nicht allein aus regionalen Rückgängen als widerlegt ausgegeben.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-15.08; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Historische Gruppenbewertung V14-15.08: Widerlegt als pauschale Gegenwartsbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
+Bewertungsuebergang: Historische Gruppenbewertung V14-15.08: Widerlegt als pauschale Gegenwartsbehauptung. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Kein Messgebiet genannt. AIMS misst regionale Hartkorallenbedeckung und zeigt Rückgänge 2025; dies reicht allein nicht zur Prüfung eines weltweiten Volumenrekords.","sourceIds":["S023"]}. Jetzt Abgeschlossen / Nicht ausreichend belegbar. Die zweite, globale Recherche findet im GCRMN-Bericht bis 2024 keinen passenden Rekordbeleg. Der Bericht untersucht Hartkorallenbedeckung, nicht das gesamte weltweite Korallenvolumen oder einen Bestand am Aufnahmetag 2026. AIMS betrifft dagegen nur das Great Barrier Reef. Die pauschale Behauptung eines aktuellen weltweiten Flächen- und Volumenrekords ist mit diesen gelesenen Quellen nicht ausreichend belegbar; sie wird nicht allein aus regionalen Rückgängen als widerlegt ausgegeben.
 
 ### Zugeordnete Quellen
 
+- [Originalinterview: Krall bei ungeskriptet](https://www.youtube.com/watch?v=OQnvClWgN-g) · {ungeskriptet} by Ben; Aufnahme laut Beschreibung 15.09.2026; Upload 17.10.2026; 03:21:01.
+  Quellenzugriff am 2026-11-18. oEmbed und gespeicherte Uploadmetadaten identifiziert. Nur die jeweils angegebenen deutschen automatischen Textstellen erneut gelesen; keine vollständige audiovisuelle Kontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
 - [Annual Summary Report of Coral Reef Condition 2024/25](https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2024-25) · AIMS, 06.08.2025; 124 Riffe, Erhebungen August 2024–Mai 2025; Hartkorallenbedeckung, keine weltweite Korallenbiomasse.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [GCRMN: Status of Coral Reefs of the World 2025, Executive Summary](https://gcrmn.net/wp-content/uploads/2026/08/gcrmn_2025_executive-summary.pdf) · S. 14–19 des Berichts; globale Hartkorallenbedeckung bis 2024.
+  Quellenzugriff am 2026-11-19. Zusammenfassung einschließlich Methodik, globalen und regionalen Befunden sowie Datenbegrenzungen selbst gelesen. Keine weltweite Korallenvolumen-Zeitreihe. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [UNSW: Coral recovery time cut short by warming oceans](https://www.unsw.edu.au/newsroom/news/2026/08/coral-recovery-time-cut-short-by-warming-oceans-new-report) · Berichtsvorstellung August 2026 durch beteiligte Forschungsinstitution.
+  Quellenzugriff am 2026-11-19. Veröffentlichungskontext und Beschreibung des globalen Berichts gelesen; bereits vor dem Interviewaufnahmedatum verfügbar. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche weltweite konsistente Flächen-/Volumenreihe und welches Enddatum meint Krall?
+- Welche globale Messreihe und welchen Rekordzeitpunkt meint Krall? Bedeckung, Riffgebiet und dreidimensionales Korallenvolumen getrennt angeben.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Weltweit vergleichbare Flächen- und Volumenmessungen mit der behaupteten Definition, historischem Maximum und Enddatum zum Aufnahmezeitpunkt.
+
+- Durchgang 1 am 2026-11-19 (Codex): UG/HP und AIMS-Bericht 2024/25 gezielt nach regionalem Messgebiet und Originalkontext durchsucht und gelesen. Gepruefte Quellen: S001, S023. Ergebnis: Regionale Bedeckung kann einen weltweiten Volumenrekord nicht allein entscheiden.
+
+- Durchgang 2 am 2026-11-19 (Codex): Anders angesetzt: globales Monitoring GCRMN und Veröffentlichung vor September 2026 gesucht; Executive Summary einschließlich Datenbegrenzungen und UNSW-Vorstellung gelesen. Gepruefte Quellen: S040, S041. Ergebnis: Globale Bedeckungsdaten bis 2024 verfügbar, kein passender weltweiter Flächen-/Volumenrekord 2026 belegt.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0033 nach Originaltext- und Primärquellenprüfung abgeschlossen; kein Urteil anderer Aussagen geändert.
 
 ## L7E04TJtRBU-A0001
 
@@ -1075,7 +1075,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die regionale AIMS-Reihe widerlege damit einen weltweiten aktuellen Korallenrekord.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1094,22 +1094,33 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Politik4M3 begrenzt die Aussage zunächst regional, zieht dann einen pauschalen Rekordschluss. Eine weltweite Flächen-/Volumenreihe fehlt; 2026 ist nicht dasselbe wie Erhebungen bis Mai 2025.
+Die Reaktion begrenzt AIMS zunächst zutreffend auf drei Regionen des Great Barrier Reef, zieht daraus aber einen weltweiten Rekordschluss. Regionale Bedeckung bis Mai 2025 entscheidet keinen globalen Flächen-/Volumenrekord 2026. Die zusätzlich gelesene globale GCRMN-Auswertung liefert eigenen Kontext bis 2024, macht diesen Schluss aus AIMS allein jedoch nicht tragfähig. Unterschiedliche Messgrößen und Endzeitpunkte müssen sichtbar bleiben.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Politik4M3 begrenzt die Aussage zunächst regional, zieht dann einen pauschalen Rekordschluss. Eine weltweite Flächen-/Volumenreihe fehlt; 2026 ist nicht dasselbe wie Erhebungen bis Mai 2025.","sourceIds":["S023"]}. Jetzt Abgeschlossen / Irreführend / Kontext fehlt. Die Reaktion begrenzt AIMS zunächst zutreffend auf drei Regionen des Great Barrier Reef, zieht daraus aber einen weltweiten Rekordschluss. Regionale Bedeckung bis Mai 2025 entscheidet keinen globalen Flächen-/Volumenrekord 2026. Die zusätzlich gelesene globale GCRMN-Auswertung liefert eigenen Kontext bis 2024, macht diesen Schluss aus AIMS allein jedoch nicht tragfähig. Unterschiedliche Messgrößen und Endzeitpunkte müssen sichtbar bleiben.
 
 ### Zugeordnete Quellen
 
 - [Annual Summary Report of Coral Reef Condition 2024/25](https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2024-25) · AIMS, 06.08.2025; 124 Riffe, Erhebungen August 2024–Mai 2025; Hartkorallenbedeckung, keine weltweite Korallenbiomasse.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [GCRMN: Status of Coral Reefs of the World 2025, Executive Summary](https://gcrmn.net/wp-content/uploads/2026/08/gcrmn_2025_executive-summary.pdf) · Globale Hartkorallenbedeckung bis 2024; Datenbegrenzungen.
+  Quellenzugriff am 2026-11-19. Zusammenfassung und Methodik selbst gelesen; keine weltweite Volumenmessung und keine Messung am Aufnahmetag 2026. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Originalaussage auf Region und Zeitpunkt präzisieren; globale Daten statt eines einzelnen Riffgebiets prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Originaltext 17:18–18:04 und AIMS-Messgebiet erneut abgeglichen. Gepruefte Quellen: S023. Ergebnis: Der Schluss reicht weiter als das angeführte regionale Monitoring.
+
+- Durchgang 2 am 2026-11-19 (Codex): Globale GCRMN-Zusammenfassung als unabhängigen Prüfweg gelesen. Gepruefte Quellen: S034. Ergebnis: Zusätzliche globale Quelle bestätigt die methodische Trennung; keine weltweite 2026-Volumenreihe.
 
 ## L7E04TJtRBU-A0027
 
@@ -1369,7 +1380,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Personenarmutswert von 52,9 Prozent lag nach Mileis Amtsantritt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1388,22 +1399,31 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Für die genaue Zeitfolge werden der frühere INDEC-Bericht und ein unabhängiger Amtsantrittsbeleg noch gezielt gelesen; nicht allein aus Politik4M3 übernehmen.
+INDEC weist 52,9 Prozent Personenarmut für das erste Halbjahr 2024 in 31 urbanen Agglomerationen aus. Die datierte Ansprache nach Mileis Amtsantritt stammt vom 10.12.2023. Damit liegt dieser Messzeitraum nach seinem Amtsantritt. Daraus folgt für sich keine Aussage über die Ursachen der Armut und kein Nachweis eines absoluten historischen Höchstwerts.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: Für die genaue Zeitfolge werden der frühere INDEC-Bericht und ein unabhängiger Amtsantrittsbeleg noch gezielt gelesen; nicht allein aus Politik4M3 übernehmen. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle.
 
 ### Zugeordnete Quellen
 
-- [Pobreza e indigencia, segundo semestre de 2025](https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_03_269225CA3217.pdf) · INDEC, 31.03.2026, Tabelle 1/S. 5; 31 städtische Ballungsräume; Haushalte und Personen getrennt.
-  Quellenzugriff am 2026-11-18. PDF erfolgreich geöffnet; relevante Zahlen und Erhebungsumfang gelesen. Spätere erneute Abrufe teilweise Timeout; keine Behauptung eines dauerhaft zuverlässigen Zugangs. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [INDEC: Armut und extreme Armut, erstes Halbjahr 2024](https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_241C2355AD3A.pdf) · INDEC, 26.09.2024; S. 3–5: Personenarmut 52,9 Prozent in 31 urbanen Agglomerationen, Haushaltsarmut 42,5 Prozent.
+  Quellenzugriff am 2026-11-19. Zusammenfassung und Ergebnisse selbst gelesen; keine Gleichsetzung mit einer Vollerhebung der gesamten Landesbevölkerung. Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
+
+- [Casa Rosada: Ansprache nach Mileis Amtsantritt, 10.12.2023](https://www.casarosada.gob.ar/informacion/discursos/50257-palabras-del-presidente-de-la-nacion-javier-milei-luego-de-la-asuncion-presidencial-desde-el-balcon-de-la-casa-rosada) · Offizielle datierte Ansprache am Tag der Amtseinführung.
+  Quellenzugriff am 2026-11-19. Titel, Datum und Anfang der offiziellen Ansprache selbst gelesen; nur Beleg des Zeitpunkts, keine Übernahme politischer Wertungen. Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). INDEC-Bericht für das erste Halbjahr 2024 (Zusammenfassung, S. 3–5) und datierte Amtseinführungsansprache gelesen; mit der Reaktionsstelle 23:27–23:35 und dem Originalabschnitt 03:17 verglichen. Gepruefte Quellen: S032, S033. Ergebnis: INDEC weist 52,9 Prozent Personenarmut für das erste Halbjahr 2024 in 31 urbanen Agglomerationen aus. Die datierte Ansprache nach Mileis Amtsantritt stammt vom 10.12.2023. Damit liegt dieser Messzeitraum nach seinem Amtsantritt. Daraus folgt für sich keine Aussage über die Ursachen der Armut und kein Nachweis eines absoluten historischen Höchstwerts.
 
 ## L7E04TJtRBU-A0034
 

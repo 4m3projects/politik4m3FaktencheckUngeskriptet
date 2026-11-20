@@ -50,7 +50,7 @@ function videoTopicLine(videoId) {
   const order = { Schwerpunkt: 0, Behandelt: 1, 'Erwähnt': 2 };
   const items = v.topics.slice().sort((a, b) => order[a.relevance] - order[b.relevance]).map(t => {
     const pub = w.stats.get(t.topic)?.public;
-    return `<a class="badge kind topic-chip${pub ? '' : ' topic-internal'}" href="${esc(topicHref(t.topic))}" title="${esc(t.relevance)}${pub ? '' : ' · noch keine eigene Themenseite in der Übersicht'}">${esc(topicName(t.topic))}</a>`;
+    return `<a class="badge kind topic-chip${pub ? '' : ' topic-internal'}" href="${esc(topicHref(t.topic))}" data-tip="${esc(t.relevance)}${pub ? '' : ' · noch keine eigene Themenseite in der Übersicht'}">${esc(topicName(t.topic))}</a>`;
   });
   return `<p class="topic-line"><span class="small">Themen:</span> ${items.join(' ')}</p>`;
 }
@@ -60,7 +60,7 @@ function videoUrlOf(videoId) { return state.index.videos.find(v => v.id === vide
 function timeLink(videoId, sec, label) {
   if (sec == null) return '';
   const u = videoTimeUrl(videoUrlOf(videoId), sec);
-  return u ? extLink(u, label || `▶ ${hms(sec)}`) : hms(sec);
+  return u ? extLink(u, label || hms(sec)) : hms(sec);
 }
 function claimHref(videoId, claimId) { return `#/video/${esc(videoId)}/aussage/${esc(claimId)}`; }
 
@@ -79,7 +79,7 @@ function occurrenceItem(link, c) {
   const vid = link.claimId.slice(0, 11);
   const href = claimHref(vid, link.claimId);
   const thumb = thumbImg(vid, videoUrlOf(vid), 'occ-thumb');
-  const t = c ? timeLink(vid, c.startSeconds, `▶ ab ${hms(c.startSeconds)} bei YouTube`) : '';
+  const t = c ? timeLink(vid, c.startSeconds, `ab ${hms(c.startSeconds)} bei YouTube`) : '';
   return `<li class="occ-item${thumb ? ' has-thumb' : ''}">
     ${thumb ? `<a href="${href}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}
     <div class="occ-body">
@@ -200,7 +200,6 @@ async function pageTopics() {
         const c = w.claims.get(r.id);
         return `<li>${verdictBadge(c.verdict, c.status, c.reason)} <a href="#/video/${esc(c.videoId)}/aussage/${esc(c.id)}">${esc(c.description)}</a> <span class="small">${esc(videoName(c.videoId))}</span></li>`;
       }).join('')}</ul>` : '<p class="small">Keine Treffer. Andere Begriffe versuchen.</p>';
-      bindTips(out);
     }, 150);
   });
   window.scrollTo(0, 0);
@@ -224,7 +223,7 @@ async function pageTopic(id) {
     const url = videoUrlOf(r.videoId);
     const thumb = thumbImg(r.videoId, url, 'occ-thumb');
     return `<li class="kb-item occ-item${thumb ? ' has-thumb' : ''}">${thumb ? `<a href="#/video/${esc(r.videoId)}" tabindex="-1" aria-hidden="true">${thumb}</a>` : ''}<div class="occ-body"><a href="#/video/${esc(r.videoId)}"><strong>${esc(videoName(r.videoId))}</strong></a>${videoAmpel(r.videoId)}
-      ${seg ? `<p class="small">Abschnitt ${videoTimeUrl(url, seg.startSeconds) ? extLink(videoTimeUrl(url, seg.startSeconds), `▶ ${hms(seg.startSeconds)}–${hms(seg.endSeconds)}`) : ''}: ${esc(seg.note)}</p>` : ''}
+      ${seg ? `<p class="small">Abschnitt ${videoTimeUrl(url, seg.startSeconds) ? extLink(videoTimeUrl(url, seg.startSeconds), `${hms(seg.startSeconds)}–${hms(seg.endSeconds)}`) : ''}: ${esc(seg.note)}</p>` : ''}
       <p class="small">Warum: ${esc(r.reason)}</p></div></li>`;
   }).join('');
   const empty = !sec.belegt.length && !sec.teilweise.length && !sec.falsch.length && !sec.unbelegt.length;

@@ -5,12 +5,12 @@
     "videoId": "L7E04TJtRBU",
     "videoUrl": "https://www.youtube.com/watch?v=L7E04TJtRBU",
     "durationSeconds": 1811,
-    "asOf": "2026-11-18",
+    "asOf": "2026-11-19",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.",
+    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0033 nach Originaltext- und Primärquellenprüfung abgeschlossen; kein Urteil anderer Aussagen geändert.",
     "coverageNote": "Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote."
   },
   "legacyPoints": [],
@@ -206,6 +206,30 @@
       "details": "Eigene redaktionelle Daten vom 14.11.2026; Übernahme mit SHA-256, 178 Gruppenpositionen in 26 Kapiteln.",
       "accessedOn": "2026-11-18",
       "accessBasis": "Lokale Herkunftsdaten und übernommenen Registerumfang strukturell gezählt. Kein unabhängiger Sachbeleg für die Richtigkeit der alten Urteile."
+    },
+    {
+      "id": "S032",
+      "title": "INDEC: Armut und extreme Armut, erstes Halbjahr 2024",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/eph_pobreza_09_241C2355AD3A.pdf",
+      "details": "INDEC, 26.09.2024; S. 3–5: Personenarmut 52,9 Prozent in 31 urbanen Agglomerationen, Haushaltsarmut 42,5 Prozent.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zusammenfassung und Ergebnisse selbst gelesen; keine Gleichsetzung mit einer Vollerhebung der gesamten Landesbevölkerung."
+    },
+    {
+      "id": "S033",
+      "title": "Casa Rosada: Ansprache nach Mileis Amtsantritt, 10.12.2023",
+      "url": "https://www.casarosada.gob.ar/informacion/discursos/50257-palabras-del-presidente-de-la-nacion-javier-milei-luego-de-la-asuncion-presidencial-desde-el-balcon-de-la-casa-rosada",
+      "details": "Offizielle datierte Ansprache am Tag der Amtseinführung.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Titel, Datum und Anfang der offiziellen Ansprache selbst gelesen; nur Beleg des Zeitpunkts, keine Übernahme politischer Wertungen."
+    },
+    {
+      "id": "S034",
+      "title": "GCRMN: Status of Coral Reefs of the World 2025, Executive Summary",
+      "url": "https://gcrmn.net/wp-content/uploads/2026/08/gcrmn_2025_executive-summary.pdf",
+      "details": "Globale Hartkorallenbedeckung bis 2024; Datenbegrenzungen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zusammenfassung und Methodik selbst gelesen; keine weltweite Volumenmessung und keine Messung am Aufnahmetag 2026."
     }
   ],
   "speakers": [
@@ -451,6 +475,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Der falsche Rechenkern ist erfasst, die Wiedergabe präzisiert aber zu stark: Im Original stehen sechs, 4,8 und 1,2 Billionen; 1,2/6 entspricht 20 Prozent. Die direkte 22-Prozent-Verlustformulierung ist so im abgeglichenen Text nicht enthalten.",
+      "shortReason": "Der Rechenfehler ist richtig erkannt, Krall rechnet aber mit 1,2 von 6 Billionen, also 20 %; „22 % Verlust“ sagt er so nicht.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -987,6 +1012,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "In der abgeglichenen Passage werden grobe Streichungen genannt, aber keine vollständige Titel-/Folgenrechnung. Ein außerhalb des Interviews existierender Plan ist damit nicht ausgeschlossen.",
+      "shortReason": "In der gezeigten Passage gibt es nur grobe Streichungen ohne Folgenrechnung; ein Plan außerhalb des Interviews ist nicht ausgeschlossen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1031,6 +1057,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Gerundet mit deutschem Referenzmix gestützt, bei anderen Referenzmixen längere Zeiten. Die Bezugsgröße ist Primärenergieersatz, nicht identisch mit dem Vestas-Nettorücklauf. Die Kurzfassung nennt diese Bedingung nicht.",
+      "shortReason": "Gerundet stimmt das mit deutschem Strommix; mit anderen Referenzmixen dauert es länger, und diese Bedingung fehlt.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1344,24 +1371,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die regionale AIMS-Reihe widerlege damit einen weltweiten aktuellen Korallenrekord.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Politik4M3 begrenzt die Aussage zunächst regional, zieht dann einen pauschalen Rekordschluss. Eine weltweite Flächen-/Volumenreihe fehlt; 2026 ist nicht dasselbe wie Erhebungen bis Mai 2025.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Reaktion begrenzt AIMS zunächst zutreffend auf drei Regionen des Great Barrier Reef, zieht daraus aber einen weltweiten Rekordschluss. Regionale Bedeckung bis Mai 2025 entscheidet keinen globalen Flächen-/Volumenrekord 2026. Die zusätzlich gelesene globale GCRMN-Auswertung liefert eigenen Kontext bis 2024, macht diesen Schluss aus AIMS allein jedoch nicht tragfähig. Unterschiedliche Messgrößen und Endzeitpunkte müssen sichtbar bleiben.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Politik4M3 begrenzt die Aussage zunächst regional, zieht dann einen pauschalen Rekordschluss. Eine weltweite Flächen-/Volumenreihe fehlt; 2026 ist nicht dasselbe wie Erhebungen bis Mai 2025.\",\"sourceIds\":[\"S023\"]}. Jetzt Abgeschlossen / Irreführend / Kontext fehlt. Die Reaktion begrenzt AIMS zunächst zutreffend auf drei Regionen des Great Barrier Reef, zieht daraus aber einen weltweiten Rekordschluss. Regionale Bedeckung bis Mai 2025 entscheidet keinen globalen Flächen-/Volumenrekord 2026. Die zusätzlich gelesene globale GCRMN-Auswertung liefert eigenen Kontext bis 2024, macht diesen Schluss aus AIMS allein jedoch nicht tragfähig. Unterschiedliche Messgrößen und Endzeitpunkte müssen sichtbar bleiben."
       },
       "sourceRefs": [
         {
           "sourceId": "S023",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S034",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Originalaussage auf Region und Zeitpunkt präzisieren; globale Daten statt eines einzelnen Riffgebiets prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "L7E04TJtRBU-O0026",
@@ -1381,7 +1410,34 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originaltext 17:18–18:04 und AIMS-Messgebiet erneut abgeglichen.",
+            "sourceIds": [
+              "S023"
+            ],
+            "result": "Der Schluss reicht weiter als das angeführte regionale Monitoring."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Globale GCRMN-Zusammenfassung als unabhängigen Prüfweg gelesen.",
+            "sourceIds": [
+              "S034"
+            ],
+            "result": "Zusätzliche globale Quelle bestätigt die methodische Trennung; keine weltweite 2026-Volumenreihe."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Regionale Korallenbedeckung bis Mai 2025 erlaubt keinen weltweiten Flächen- oder Volumenrekordschluss für 2026."
     },
     {
       "id": "L7E04TJtRBU-A0027",
@@ -1525,6 +1581,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die Rede über künftiges Lebenseinkommen ist vorhanden; im Original steht sie im Kontext einer Unternehmensgründung. Die Erweiterung auf jeden Auswanderer ist im abgeglichenen Text nicht ausdrücklich enthalten.",
+      "shortReason": "Krall spricht vom künftigen Einkommen im Zusammenhang mit einer Unternehmensgründung, nicht von jedem Auswanderer.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1654,24 +1711,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Personenarmutswert von 52,9 Prozent lag nach Mileis Amtsantritt.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Für die genaue Zeitfolge werden der frühere INDEC-Bericht und ein unabhängiger Amtsantrittsbeleg noch gezielt gelesen; nicht allein aus Politik4M3 übernehmen.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "INDEC weist 52,9 Prozent Personenarmut für das erste Halbjahr 2024 in 31 urbanen Agglomerationen aus. Die datierte Ansprache nach Mileis Amtsantritt stammt vom 10.12.2023. Damit liegt dieser Messzeitraum nach seinem Amtsantritt. Daraus folgt für sich keine Aussage über die Ursachen der Armut und kein Nachweis eines absoluten historischen Höchstwerts.",
+      "assessmentBasis": "[Codex] 19.11.2026: Originalstelle im im Originalplayer geöffneten automatischen deutschen Transkript mit Umfeld gelesen und die bezeichneten Primärquellen selbst geöffnet. Keine Hör-/Sichtkontrolle; Sprecher und Zeitgrenzen bleiben plausibel bzw. ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachrecherche 19.11.2026 (Codex), Issue #77: vorher In Bearbeitung, ohne Urteil, Begründung: Für die genaue Zeitfolge werden der frühere INDEC-Bericht und ein unabhängiger Amtsantrittsbeleg noch gezielt gelesen; nicht allein aus Politik4M3 übernehmen. Jetzt Abgeschlossen / Belegt nach eigener Primärquellenkontrolle."
       },
       "sourceRefs": [
         {
-          "sourceId": "S026",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "sourceId": "S032",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; keine Bestätigung weiterer Aussagen."
         }
       ],
-      "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "L7E04TJtRBU-O0033",
@@ -1691,7 +1750,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP (zwei Formulierungen, keine übernommene KI-Bewertung). INDEC-Bericht für das erste Halbjahr 2024 (Zusammenfassung, S. 3–5) und datierte Amtseinführungsansprache gelesen; mit der Reaktionsstelle 23:27–23:35 und dem Originalabschnitt 03:17 verglichen.",
+            "sourceIds": [
+              "S032",
+              "S033"
+            ],
+            "result": "INDEC weist 52,9 Prozent Personenarmut für das erste Halbjahr 2024 in 31 urbanen Agglomerationen aus. Die datierte Ansprache nach Mileis Amtsantritt stammt vom 10.12.2023. Damit liegt dieser Messzeitraum nach seinem Amtsantritt. Daraus folgt für sich keine Aussage über die Ursachen der Armut und kein Nachweis eines absoluten historischen Höchstwerts."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "L7E04TJtRBU-A0034",

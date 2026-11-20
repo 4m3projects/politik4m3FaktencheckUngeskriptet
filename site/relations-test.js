@@ -66,6 +66,20 @@ test('Video-Metadaten: Pflichtfelder, Rolle und belegte Identifikation', () => {
   assert.deepEqual(R.validateVideoMeta({ ...F.VIDEOS[F.RB].meta, identification: { ...ok.identification, certainty: 'Plausibel' } }, F.RB), []);
 });
 
+test('Videoformat: optional video oder short; Shorts auch an der Adresse erkennbar', () => {
+  const ok = F.VIDEOS[F.O1].meta;
+  assert.deepEqual(R.validateVideoMeta({ ...ok, format: 'short' }, F.O1), []);
+  assert.deepEqual(R.validateVideoMeta({ ...ok, format: 'video' }, F.O1), []);
+  has(R.validateVideoMeta({ ...ok, format: 'Short' }, F.O1), /format/);
+  has(R.validateVideoMeta({ ...ok, format: 'reel' }, F.O1), /format/);
+  assert.equal(R.isShort({ ...ok, format: 'short' }), true);
+  assert.equal(R.isShort({ ...ok, format: 'video' }, 'https://www.youtube.com/shorts/gVQeb83GHDQ'), false, 'video.json geht vor');
+  assert.equal(R.isShort(ok), false);
+  assert.equal(R.isShort(null, 'https://www.youtube.com/shorts/gVQeb83GHDQ'), true);
+  assert.equal(R.isShort(null, 'https://www.youtube.com/watch?v=gVQeb83GHDQ'), false);
+  assert.equal(R.isShort(null, 'https://evil.example/shorts/gVQeb83GHDQ'), false);
+});
+
 test('Fehlende Referenzen werden erkannt', () => {
   let rel = clone(F.RELATIONS); rel.relations[0].originalVideoId = 'FEHLTXXXXXX';
   has(errs(rel), /Original FEHLTXXXXXX existiert nicht/);

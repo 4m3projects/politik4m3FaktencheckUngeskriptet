@@ -123,26 +123,79 @@ function distribution(claims) {
   return `<div class="dist" role="img" aria-label="Verteilung der ${claims.length} strukturierten Aussagen – ${esc(label)}">${bar}</div><ul class="legend">${legend}</ul>`;
 }
 
-function bindTips(root) {
-  root.querySelectorAll('[data-tip]').forEach(el => {
-    el.addEventListener('pointerenter', e => showTip(e, el.dataset.tip));
-    el.addEventListener('pointermove', e => moveTip(e));
-    el.addEventListener('pointerleave', hideTip);
-  });
+/* ---------- Hinweistafeln (Tooltips) ----------
+   Keine Blase, die dem Mauszeiger folgt, sondern eine schwebende Tafel an fester Stelle direkt unter
+   dem Element, die nach unten ausklappt. Sie überdeckt den Inhalt darunter, verschiebt aber nichts.
+   - Elemente mit data-tip: Tafel mit fester Breite; beim Verteilungsbalken immer unter dem ganzen
+     Balken, damit sie beim Wandern über die Segmente nicht springt.
+   - Faktenampel (data-ampel-*): Tafel mindestens so breit wie die Ampel, ohne zu wiederholen, was
+     schon in der Ampel steht.
+   Maus: Überfahren öffnet, Verlassen schließt. Touch/Stift: Tippen auf ein Element, das kein Link und
+   kein Knopf ist, öffnet oder schließt die Tafel; Tippen woanders schließt sie. Ereignisse laufen über
+   das Dokument, deshalb funktionieren auch nachträglich eingefügte Elemente ohne eigenes Binden. */
+const TIP_SEL = '[data-tip], .ampel[data-ampel-key]';
+const TIP_WIDTH = 340;
+const AMPEL_TIP_NOTE = 'Nur geprüfte Aussagen, kein Urteil über das ganze Video oder Personen; Darstellungshinweise zählen nicht.';
+function tipPanel() {
+  if (!state.tip) {
+    state.tip = document.createElement('div');
+    state.tip.setAttribute('aria-hidden', 'true'); state.tip.hidden = true;
+    document.body.appendChild(state.tip);
+  }
+  return state.tip;
 }
-function showTip(e, text) {
-  if (!state.tip) { state.tip = document.createElement('div'); state.tip.className = 'dist-tip'; document.body.appendChild(state.tip); }
-  state.tip.textContent = text; state.tip.hidden = false; moveTip(e);
+function showTip(el) {
+  const tip = tipPanel();
+  const vw = document.documentElement.clientWidth;
+  let anchor = el, w;
+  if (el.dataset.ampelKey) {
+    const d = el.dataset;
+    tip.className = 'tip-panel ampel-tip-' + d.ampelKey;
+    /* Nichts doppelt: Titel und Basis stehen schon in der Ampel selbst (die Basis nur nicht in der kompakten
+       Form), der Hinweis „nur geprüfte Aussagen“ steht auf der Videoseite schon unter der Ampel. */
+    const showSub = el.classList.contains('compact');
+    const showNote = !el.closest('.video-head');
+    tip.innerHTML = `${showSub ? `<p class="tip-sub">${esc(d.ampelSub)}</p>` : ''}<p>${esc(d.ampelText)}</p>${showNote ? `<p class="tip-note">${esc(AMPEL_TIP_NOTE)}</p>` : ''}`;
+    w = Math.max(el.getBoundingClientRect().width, 300);
+  } else {
+    anchor = el.closest('.dist') || el;
+    tip.className = 'tip-panel';
+    tip.innerHTML = `<p>${esc(el.dataset.tip)}</p>`;
+    w = TIP_WIDTH;
+  }
+  w = Math.min(vw - 16, w);
+  const a = anchor.getBoundingClientRect();
+  tip.style.width = w + 'px';
+  tip.style.left = (window.scrollX + Math.min(vw - w - 8, Math.max(8, a.left))) + 'px';
+  tip.style.top = (window.scrollY + a.bottom + 4) + 'px';
+  /* Ausklappen nur beim Öffnen, nicht beim Wechsel zwischen Elementen unter demselben Anker. */
+  if (tip.hidden || state.tipAnchor !== anchor) { tip.style.animation = 'none'; void tip.offsetWidth; tip.style.animation = ''; }
+  tip.hidden = false;
+  state.tipFor = el; state.tipAnchor = anchor;
 }
-function moveTip(e) {
-  if (!state.tip) return;
-  const w = state.tip.offsetWidth;
-  state.tip.style.left = Math.min(window.innerWidth - w - 8, Math.max(8, e.clientX - w / 2)) + 'px';
-  /* Mehrzeilige Hinweise: über dem Mauszeiger, bei zu wenig Platz darunter. */
-  const h = state.tip.offsetHeight;
-  state.tip.style.top = (e.clientY - h - 12 >= 8 ? e.clientY - h - 12 : Math.min(window.innerHeight - h - 8, e.clientY + 18)) + 'px';
+function hideTip() {
+  if (state.tip) state.tip.hidden = true;
+  state.tipFor = null; state.tipAnchor = null;
 }
-function hideTip() { if (state.tip) state.tip.hidden = true; }
+document.addEventListener('pointerover', e => {
+  if (e.pointerType !== 'mouse') return;
+  const el = e.target.closest?.(TIP_SEL);
+  if (el && el !== state.tipFor) showTip(el);
+});
+document.addEventListener('pointerout', e => {
+  if (e.pointerType !== 'mouse' || !state.tipFor) return;
+  const to = e.relatedTarget?.closest?.(TIP_SEL);
+  if (to !== state.tipFor && !state.tipFor.contains(e.relatedTarget)) { if (to) showTip(to); else hideTip(); }
+});
+document.addEventListener('pointerdown', e => { state.lastPointer = e.pointerType; }, true);
+document.addEventListener('click', e => {
+  if (state.lastPointer === 'mouse') return;
+  const el = e.target.closest?.(TIP_SEL);
+  if (el && !el.closest('a, button')) { if (state.tipFor === el) hideTip(); else showTip(el); return; }
+  if (state.tipFor) hideTip();
+});
+window.addEventListener('resize', hideTip);
+window.addEventListener('hashchange', hideTip);
 
 /* ---------- Kleiner Markdown-Renderer für die eigenen Berichte ---------- */
 /* Unterstützt Überschriften, Absätze, Listen, Tabellen, Fett, Code und Links. HTML im Quelltext wird immer maskiert. */
@@ -333,6 +386,104 @@ document.addEventListener('click', e => {
   if (e.target.closest('#thumb-setting')) setThumbChoice(thumbChoice() === 'ja' ? 'nein' : 'ja');
 });
 
+/* ---------- Vorschaubild unter Videolinks ---------- */
+/* Sind die YouTube-Vorschaubilder eingeschaltet, klappt beim Überfahren eines Links auf ein Video
+   (Seite hier oder auf YouTube) direkt unter dem Link eine Tafel mit dessen Vorschaubild auf – im
+   selben Stil wie die Hinweistafeln. Ohne Zustimmung lädt nichts. Keine Vorschau bekommen Links, die
+   schon ein Vorschaubild zeigen oder neben einem stehen (Videokarten, Listen mit Bild), Links auf
+   Stellen im gerade geöffneten Video und Elemente mit eigenem Hinweis. Tastatur: Fokus zeigt die
+   Vorschau ebenfalls. Touch: Ein Tippen öffnet den Link sofort, deshalb dort keine Vorschau; die
+   Videokarten und Listen zeigen die Bilder dort ohnehin direkt. */
+const LINK_THUMB_DELAY = 120;
+function linkThumbCurrentId() {
+  const m = /^#\/video\/([A-Za-z0-9_-]+)/.exec(location.hash);
+  return m ? m[1] : null;
+}
+function linkThumbEntry(id) { return (state.index?.videos || []).find(v => v.id === id) || null; }
+function linkThumbEntryUrl(e) { return e?.video?.videoUrl || e?.scope?.videoUrl || ''; }
+function linkThumbId(a) {
+  if (!a || thumbChoice() !== 'ja' || a.hasAttribute('data-tip') || a.querySelector('img')) return null;
+  const href = a.getAttribute('href') || '';
+  const cur = linkThumbCurrentId();
+  let id = null;
+  const internal = /^#\/video\/([A-Za-z0-9_-]+)/.exec(href);
+  if (internal) {
+    if (internal[1] === cur) return null;
+    const e = linkThumbEntry(internal[1]);
+    if (!e) return null;
+    id = ytIdOf(internal[1], linkThumbEntryUrl(e));
+  } else {
+    id = FactSync.youtubeId(href);
+    /* Zeitmarken im gerade geöffneten Video zeigen immer dasselbe Bild – dort keine Vorschau. */
+    if (id && cur && /[?&](?:t|start)=/.test(href) && id === ytIdOf(cur, linkThumbEntryUrl(linkThumbEntry(cur)))) return null;
+  }
+  if (!id) return null;
+  /* Nichts doppelt zeigen: Steht das Bild schon daneben, braucht es keine Vorschau. */
+  const box = a.closest('li, .card');
+  if (box && box.querySelector(`img[src*="/vi/${id}/"]`)) return null;
+  return id;
+}
+function linkThumbPanel() {
+  if (!state.linkThumb) {
+    const d = document.createElement('div');
+    d.className = 'thumb-tip'; d.hidden = true; d.setAttribute('aria-hidden', 'true');
+    d.innerHTML = '<img alt="" width="320" height="180" decoding="async" referrerpolicy="no-referrer">';
+    d.querySelector('img').addEventListener('error', hideLinkThumb);
+    document.body.appendChild(d);
+    state.linkThumb = d;
+  }
+  return state.linkThumb;
+}
+function showLinkThumb(a, id) {
+  const tip = linkThumbPanel();
+  const img = tip.querySelector('img');
+  const src = `https://i.ytimg.com/vi/${encodeURIComponent(id)}/mqdefault.jpg`;
+  if (img.getAttribute('src') !== src) img.setAttribute('src', src);
+  const vw = document.documentElement.clientWidth;
+  /* Bei umbrechenden Links unter der letzten Zeile, beginnend an deren Anfang. */
+  const rects = a.getClientRects();
+  const r = rects.length ? rects[rects.length - 1] : a.getBoundingClientRect();
+  const w = Math.min(vw - 16, 248);
+  tip.style.width = w + 'px';
+  tip.style.left = (window.scrollX + Math.min(vw - w - 8, Math.max(8, r.left))) + 'px';
+  tip.style.top = (window.scrollY + r.bottom + 4) + 'px';
+  if (tip.hidden || state.linkThumbFor !== a) { tip.style.animation = 'none'; void tip.offsetWidth; tip.style.animation = ''; }
+  tip.hidden = false;
+  state.linkThumbFor = a;
+}
+function hideLinkThumb() {
+  clearTimeout(state.linkThumbTimer);
+  if (state.linkThumb) state.linkThumb.hidden = true;
+  state.linkThumbFor = null;
+}
+function linkThumbTarget(node) {
+  if (!node?.closest || node.closest('[data-tip], .ampel[data-ampel-key]')) return null;
+  const a = node.closest('a[href]');
+  const id = linkThumbId(a);
+  return id ? { a, id } : null;
+}
+document.addEventListener('pointerover', e => {
+  if (e.pointerType !== 'mouse') return;
+  const t = linkThumbTarget(e.target);
+  if (t && t.a === state.linkThumbFor) return;
+  clearTimeout(state.linkThumbTimer);
+  if (!t) { if (state.linkThumbFor && !state.linkThumbFor.contains(e.target)) hideLinkThumb(); return; }
+  state.linkThumbTimer = setTimeout(() => showLinkThumb(t.a, t.id), state.linkThumbFor ? 0 : LINK_THUMB_DELAY);
+});
+document.addEventListener('pointerout', e => {
+  if (e.pointerType !== 'mouse') return;
+  const from = e.target.closest?.('a[href]');
+  if (from && !from.contains(e.relatedTarget)) { clearTimeout(state.linkThumbTimer); if (state.linkThumbFor === from) hideLinkThumb(); }
+});
+document.addEventListener('focusin', e => {
+  const t = e.target.matches?.(':focus-visible') ? linkThumbTarget(e.target) : null;
+  if (t) showLinkThumb(t.a, t.id); else hideLinkThumb();
+});
+document.addEventListener('focusout', () => hideLinkThumb());
+document.addEventListener('pointerdown', hideLinkThumb, true);
+window.addEventListener('resize', hideLinkThumb);
+window.addEventListener('hashchange', hideLinkThumb);
+
 /* ---------- Originale, Reaktionen und Beziehungen (site/relations.js) ---------- */
 
 function roleOf(id) { return state.index.videos.find(v => v.id === id)?.video?.role || null; }
@@ -440,15 +591,20 @@ async function relationsSection(v) {
 }
 
 /* Kurze Rolle im Kopf jeder Videoseite, bei Reaktionen mit Rückverlinkung. */
+/* Kennzeichen für YouTube Shorts (docs/SHORTS.md): kurzes Hochkantvideo. */
+function shortBadge(v) {
+  return FactRelations.isShort(v?.video, v?.data?.scope?.videoUrl) ? '<span class="badge format-short" data-tip="Kurzes Hochkantvideo von YouTube; der ganze Short ist erfasst">Short</span> ' : '';
+}
+
 function roleLine(v) {
   const m = v.video;
-  if (!m) return '<p class="role-line small">Noch nicht als Original oder Reaktion eingeordnet.</p>';
+  if (!m) return `<p class="role-line small">${shortBadge(v)}Noch nicht als Original oder Reaktion eingeordnet.</p>`;
   if (m.role === 'original') {
     const n = (state.rel.byOriginal.get(v.id) || []).length;
-    return `<p class="role-line"><span class="badge kind">Originalinterview</span>${n ? ` <a href="#/video/${esc(v.id)}/reaktionen">${n} zugeordnete Reaktion${n === 1 ? '' : 'en'}</a>` : ''}</p>`;
+    return `<p class="role-line">${shortBadge(v)}<span class="badge kind">Originalinterview</span>${n ? ` <a href="#/video/${esc(v.id)}/reaktionen">${n} zugeordnete Reaktion${n === 1 ? '' : 'en'}</a>` : ''}</p>`;
   }
   const origs = (state.rel.byReaction.get(v.id) || []).map(r => `<a href="#/video/${esc(r.originalVideoId)}">${esc(videoName(r.originalVideoId))}</a>`);
-  return `<p class="role-line"><span class="badge kind">${esc(reactionTypeName(m.reactionType))}</span> von ${esc(m.channel)}${origs.length ? ` · bezieht sich auf: ${origs.join(', ')}` : ''}</p>`;
+  return `<p class="role-line">${shortBadge(v)}<span class="badge kind">${esc(reactionTypeName(m.reactionType))}</span> von ${esc(m.channel)}${origs.length ? ` · bezieht sich auf: ${origs.join(', ')}` : ''}</p>`;
 }
 
 /* ---------- Seiten ---------- */
@@ -462,18 +618,41 @@ function setPage(html, nav) {
   document.querySelectorAll('.mainnav a[data-nav]').forEach(a => {
     if (a.dataset.nav === nav) a.setAttribute('aria-current', 'page'); else a.removeAttribute('aria-current');
   });
-  bindTips(main());
 }
 
 function videoFacts(v) {
   const m = v.meta;
   const items = [];
-  if (m.Kanal) items.push(`<li>Kanal: <strong>${esc(stripMd(m.Kanal))}</strong></li>`);
+  const channel = m.Kanal || v.video?.channel;
+  if (channel) items.push(`<li>Kanal: <strong>${esc(stripMd(channel))}</strong></li>`);
   const pub = FactRelations.videoPublication(m);
   if (pub) items.push(`<li>Veröffentlicht: <strong>${esc(stripMd(pub))}</strong></li>`);
-  if (m.Laufzeit) items.push(`<li>Laufzeit: <strong>${esc(stripMd(m.Laufzeit))}</strong></li>`);
+  const duration = m.Laufzeit || (v.data?.scope?.durationSeconds > 0 ? hms(v.data.scope.durationSeconds) : null);
+  if (duration) items.push(`<li>Laufzeit: <strong>${esc(stripMd(duration))}</strong></li>`);
   if (v.data?.scope?.asOf) items.push(`<li>Datenstand: <strong>${esc(deDate(v.data.scope.asOf))}</strong></li>`);
   return items.join('');
+}
+
+/* Arbeitsstand aus den aktuellen Einzelstatus, getrennt von Ergebnis und Ampel.
+   Auch ein Bestand ohne offene Einträge kann eine unvollständige Videoauswahl sein. */
+function pendingClaims(v) {
+  return (v.data?.claims || []).filter(c => !c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status));
+}
+function progressOverview(videos) {
+  if (!videos.length) return '';
+  const sorted = [...videos].sort((a, b) => (a.video?.role === 'reaction') - (b.video?.role === 'reaction') || FactRelations.compareVideoRecency(a, b));
+  const row = v => {
+    const pending = pendingClaims(v);
+    const status = !v.data ? 'Keine strukturierten Aussagen' : pending.length ? `${pending.length} noch offen oder in Bearbeitung` : 'Keine offenen erfassten Aussagen';
+    const rhetoric = FactRhetoric.reviewState(v.rhet);
+    return `<tr><th scope="row"><a href="#/video/${esc(v.id)}">${esc(v.title)}</a><div class="small muted">${v.video?.role === 'reaction' ? 'Reaktion' : 'Originalinterview'}</div></th><td>${esc(status)}${v.data ? `<br><a href="#/video/${esc(v.id)}/pruefaufgaben">Umfang und nächste Schritte</a>` : ''}</td><td>${esc(rhetoric.status)}${v.rhet ? ` · ${rhetoric.annotations} KI-Hinweise` : ''}</td></tr>`;
+  };
+  return `<section class="section" id="pruefstand" aria-labelledby="h-pruefstand"><div class="section-head"><h2 id="h-pruefstand">Prüfstand aller Videos</h2><p>Originale und zugehörige Reaktionen: Was ist noch zu bearbeiten? Die Zahl offener Aussagen beschreibt nur den erfassten Bestand. Auch ohne offene Einträge ist damit keine vollständige Prüfung des Videos bestätigt. Darstellungshinweise werden getrennt geprüft.</p></div><div class="table-wrap"><table><thead><tr><th>Video</th><th>Sachprüfung</th><th>Darstellung</th></tr></thead><tbody>${sorted.map(row).join('')}</tbody></table></div></section>`;
+}
+function pendingSection(v) {
+  const pending = pendingClaims(v);
+  const item = c => `<li><a href="#/video/${esc(v.id)}/aussage/${esc(c.id)}">${esc(c.description)}</a><p class="small">${esc(c.status === 'Offen' ? 'Noch nicht geprüft' : c.status)} · ${esc(c.id)}</p>${c.openQuestions?.length ? `<ul>${c.openQuestions.map(q => `<li>${esc(q)}</li>`).join('')}</ul>` : `<p>${esc(c.reason)}</p>`}</li>`;
+  return `<section class="section" id="pruefaufgaben" aria-labelledby="h-pruefaufgaben"><h2 id="h-pruefaufgaben">Umfang und nächste Prüfschritte</h2><p>${esc(v.data.scope.coverageNote)}</p>${pending.length ? `<details><summary>${pending.length} erfasste Aussagen noch offen oder in Bearbeitung</summary><ol>${pending.map(item).join('')}</ol></details>` : '<p>Keine offenen erfassten Aussagen. Das bestätigt keine Vollerfassung sämtlicher Aussagen oder eine vollständige Hör- und Sichtprüfung.</p>'}<p class="small">„Nicht überprüfbar“ ist eine abgeschlossene Einordnung ohne Wahr/Falsch-Urteil. „Nicht ausreichend belegbar“ ist ein Rechercheergebnis. Beide werden hier nicht als unbearbeitete Aussagen gezählt. Konkrete Grenzen und weitere Fragen stehen bei den Einzelprüfungen.</p></section>`;
 }
 
 /* Übersicht der Darstellungshinweise eines Videos: Anzahl je Merkmal, getrennt von der Faktenstatistik.
@@ -512,14 +691,16 @@ function ampelDemo(key) {
 function ampelView(v, variant = '') {
   const r = FactAmpel.rate(v?.stats || null, v?.video || null, v?.data?.scope?.durationSeconds);
   const title = r.key === 'gruen' || r.key === 'gelb' || r.key === 'rot' ? `${r.name} · ${r.label}` : r.label;
-  const tip = `Faktenampel: ${title}. ${ampelSub(r)}. ${r.text} Nur geprüfte Aussagen, kein Urteil über das ganze Video oder Personen; Darstellungshinweise zählen nicht.`;
-  return `<div class="ampel ampel-${r.key}${variant ? ' ' + (variant === 'big' ? 'ampel-big' : variant) : ''}" role="img" aria-label="${esc(tip)}" data-tip="${esc(tip)}">
+  const tip = `Faktenampel: ${title}. ${ampelSub(r)}. ${r.text} ${AMPEL_TIP_NOTE}`;
+  /* Kein mitwandernder Hinweis (data-tip): Die Erklärung erscheint als feste Tafel unter der Ampel (showTip). */
+  return `<div class="ampel ampel-${r.key}${variant ? ' ' + (variant === 'big' ? 'ampel-big' : variant) : ''}" role="img" aria-label="${esc(tip)}" data-ampel-key="${esc(r.key)}" data-ampel-title="${esc('Faktenampel: ' + title)}" data-ampel-sub="${esc(ampelSub(r))}" data-ampel-text="${esc(r.text)}">
     <span class="ampel-lights" aria-hidden="true"><i></i><i></i><i></i></span>
     <span class="ampel-text" aria-hidden="true"><span class="ampel-title">Faktenampel: ${esc(title)}</span><span class="ampel-sub">${esc(ampelSub(r))}</span></span>
   </div>`;
 }
 
-/* Übersicht auf der Startseite: alle Videos mit ihrer Faktenampel, Originale zuerst. */
+/* Methodik, Abschnitt Faktenampel: aktuelle Einstufung aller Videos, Originale zuerst.
+   Steht nicht auf der Startseite, damit dort direkt die geprüften Videos folgen. */
 function ampelOverview(all) {
   const list = all.filter(v => v.data).sort((a, b) => (a.video?.role === 'reaction') - (b.video?.role === 'reaction') || FactRelations.compareVideoRecency(a, b));
   if (!list.length) return '';
@@ -527,11 +708,11 @@ function ampelOverview(all) {
     const role = v.video?.role === 'reaction' ? `Reaktion von ${v.video.channel}` : (v.video?.channel || v.meta?.Kanal && stripMd(v.meta.Kanal) || 'Faktencheck');
     return `<li><a class="ampel-row" href="#/video/${esc(v.id)}">${ampelView(v, 'big')}<span class="ampel-row-title"><strong>${esc(v.video?.title || v.title)}</strong><span class="small">${esc(role)}</span></span></a></li>`;
   };
-  return `<section class="section" id="ampel-uebersicht" aria-labelledby="h-ampel">
-      <div class="section-head"><h2 id="h-ampel">Faktenampel: alle Interviews auf einen Blick</h2>
-      <p>Grün, Gelb oder Rot ergibt sich nur aus dem Anteil widerlegter oder irreführender Aussagen unter den bereits entschiedenen Tatsachenbehauptungen. Grau heißt: noch nicht bewertbar. Die Ampeln der Reaktionsvideos stehen auf der Seite des jeweiligen Interviews. <a href="#/methodik">So wird gerechnet</a></p></div>
+  return `<div id="ampel-uebersicht">
+      <h3 id="h-ampel">Alle Videos auf einen Blick</h3>
+      <p>So stehen die Ampeln nach dieser Regel gerade. Die Ampeln der Reaktionsvideos stehen zusätzlich auf der Seite des jeweiligen Interviews.</p>
       <ul class="ampel-overview">${list.map(item).join('')}</ul>
-    </section>`;
+    </div>`;
 }
 
 async function pageHome() {
@@ -553,7 +734,7 @@ async function pageHome() {
     return `<a class="card" href="#/video/${esc(v.id)}">
       ${thumbImg(v.id, v.video?.videoUrl || scope?.videoUrl, 'card-thumb')}
       ${ampelView(v)}
-      <div class="claim-top">${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
+      <div class="claim-top">${shortBadge(v)}${scope ? `<span class="badge kind">${esc(scope.kind)}</span>` : '<span class="badge kind">Bericht</span>'}
       ${v.meta.Status ? `<span class="small">${esc(v.meta.Status)}</span>` : ''}</div>
       <h3>${esc(v.title)}</h3>
       <ul class="facts">${videoFacts(v)}</ul>
@@ -585,7 +766,6 @@ async function pageHome() {
     </div>
   </section>
   <div class="wrap">
-    ${ampelOverview(shown)}
     <section class="section" aria-labelledby="h-hintergrund">
       <div class="section-head"><h2 id="h-hintergrund">Warum wir „ungeskriptet“ prüfen</h2></div>
       <p>Die Frage nach der Verantwortung für Tatsachenbehauptungen in Interviews wurde 2026 öffentlich diskutiert: Nach einem Interview mit Björn Höcke wies die Landesanstalt für Medien NRW in einem Hinweisschreiben darauf hin, dass eine nachweislich falsche Aussage über eine Losung der SA im Interview nicht eingeordnet worden war. Die Behörde ordnet „ungeskriptet by Ben“ als journalistisch-redaktionelles Angebot ein und verweist auf die journalistischen Sorgfaltspflichten.</p>
@@ -594,10 +774,11 @@ async function pageHome() {
       <p class="small">Zum Hintergrund: <a href="https://www.medienanstalt-nrw.de/presse/pressemitteilungen/pressemitteilungen-2026/2026/september/landesanstalt-fuer-medien-nrw-schliesst-pruefung-im-fall-ungeskriptet-by-ben-ab.html" target="_blank" rel="noopener noreferrer">Mitteilung der Landesanstalt für Medien NRW vom 24.09.2026</a> · <a href="https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-hoecke-interview-podcaster-verklagt-die-nrw-medienaufsicht-wegen-pruefung-100.html" target="_blank" rel="noopener noreferrer">WDR-Bericht vom 29.10.2026 zur Klage</a></p>
     </section>
     <section class="section" aria-labelledby="h-videos">
-      <div class="section-head"><h2 id="h-videos">Geprüfte Originalinterviews</h2><p>Zuletzt veröffentlichte oder geprüfte Interviews zuerst. Reaktionen und Faktenchecks anderer Kanäle stehen jeweils auf der Seite des Interviews, auf das sie sich beziehen.</p></div>
+      <div class="section-head"><h2 id="h-videos">Geprüfte Originalinterviews</h2><p>Zuletzt veröffentlichte oder geprüfte Interviews zuerst. Reaktionen und Faktenchecks anderer Kanäle stehen jeweils auf der Seite des Interviews, auf das sie sich beziehen. Was die Faktenampel auf jeder Karte bedeutet, erklärt die <a href="#/methodik#ampel">Methodik</a>.</p></div>
       ${cards ? thumbPrompt() : ''}
       <div class="cards">${cards || '<p class="muted">Noch keine Faktenchecks veröffentlicht.</p>'}</div>
     </section>
+    ${progressOverview(all)}
     ${otherCards ? `<section class="section" aria-labelledby="h-other">
       <div class="section-head"><h2 id="h-other">Noch nicht eingeordnet</h2><p>Für diese Analysen ist noch nicht belegt, ob es sich um ein Originalinterview oder eine Reaktion handelt.</p></div>
       <div class="cards">${otherCards}</div>
@@ -644,7 +825,7 @@ function rhetBlock(list, v) {
   const url = v.data?.scope?.videoUrl || v.video?.videoUrl;
   const items = list.map(a => {
     const t = `${hms(a.startSeconds)}–${hms(a.endSeconds)}`;
-    const time = videoTimeUrl(url, a.startSeconds) ? extLink(videoTimeUrl(url, a.startSeconds), `<span class="time">▶ ${t}</span>`) : `<span class="time">${t}</span>`;
+    const time = videoTimeUrl(url, a.startSeconds) ? extLink(videoTimeUrl(url, a.startSeconds), `<span class="time">${t}</span>`) : `<span class="time">${t}</span>`;
     return `<li class="rhet-item">
       <div class="rhet-top">${rhetBadge(a)}<span class="small">${time} · ${rhetSpeaker(a, v.data)}</span></div>
       <p class="rhet-obs">${esc(a.observation)}</p>
@@ -719,7 +900,7 @@ function counterBlock(list, compact) {
       ${ov ? `<div class="occ-ampel">${ampelView(ov, 'compact')}</div>` : ''}
       <p class="counter-desc">${esc(x.claim.description)}</p>
       ${main && !compact ? `<p class="small">${esc(x.claim.reason)}</p>` : ''}
-      <p class="small occ-links">${yt ? extLink(yt, `▶ ab ${hms(sec)} bei YouTube`) + ' · ' : ''}<a href="${href}">Geprüfte Aussage ${esc(shortClaim(x.claimId, x.videoId))}</a> · <span class="muted">${esc(how)}</span></p>
+      <p class="small occ-links">${yt ? extLink(yt, `ab ${hms(sec)} bei YouTube`) + ' · ' : ''}<a href="${href}">Geprüfte Aussage ${esc(shortClaim(x.claimId, x.videoId))}</a> · <span class="muted">${esc(how)}</span></p>
     </div>`;
   };
   const [best, ...rest] = list;
@@ -748,7 +929,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
     const url = videoTimeUrl(d.scope.videoUrl, o.startSeconds);
     const hist = (o.timeHistory || []).map(h => `<li>${hms(h.startSeconds)}–${hms(h.endSeconds)} (${esc(h.precision)}): ${esc(h.basis)}</li>`).join('');
     return `<div class="occ">
-      <div class="occ-top">${url ? extLink(url, `<span class="time">▶ ${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`) : `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`}
+      <div class="occ-top">${url ? extLink(url, `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`) : `<span class="time">${hms(o.startSeconds)}–${hms(o.endSeconds)}</span>`}
         <span class="badge plain">Zeit ${esc(o.precision)}</span>${who}<span class="badge plain">${esc(o.role)} (${esc(o.roleStatus)})</span></div>
       <dl class="kv">
         ${o.note ? `<dt>Hinweis</dt><dd>${esc(o.note)}</dd>` : ''}
@@ -789,7 +970,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
         <div class="claim-top">${verdictBadge(c.verdict, c.status, c.reason)}
           <span class="badge kind">${esc(c.kind)}</span>
           <span class="badge kind">Kapitel ${esc(c.chapter)}${chapter ? ' · ' + esc(chapter) : ''}</span>
-          <a class="claim-id" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}" title="Direktlink zu dieser Aussage">${esc(shortId)}</a>
+          <a class="claim-id" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}" data-tip="Direktlink zu dieser Aussage">${esc(shortId)}</a>
           ${hasConflict ? '<span class="badge rel-state rel-conflict">⚠ Prüfkonflikt mit verknüpfter Aussage</span>' : ''}
           ${[...new Set((rhetList || []).map(a => a.feature))].map(k => `<span class="badge rhet-badge rhet-flag" data-tip="Darstellungshinweis (KI), getrennt von der Faktenbewertung">Darstellung: ${esc(FactRhetoric.FEATURES[k]?.name || k)}</span>`).join('')}</div>
         <div class="claim-desc-label">Prüfgegenstand – unsere Beschreibung, kein Zitat</div>
@@ -878,7 +1059,7 @@ function videoHeader(v, tab) {
     <p class="small ampel-note">Die Faktenampel fasst nur die bereits entschiedenen Tatsachenbehauptungen zusammen, nicht das ganze Video und keine Person. Darstellungshinweise fließen nicht ein. <a href="#/methodik">Regel in der Methodik</a></p>
     <ul class="facts">${videoFacts(v)}</ul>
     <div class="btn-row">
-      ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" title="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
+      ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" data-tip="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
       ${(scope?.videoUrl || v.video?.videoUrl) ? extLink(scope?.videoUrl || v.video.videoUrl, `<span class="btn ghost">${v.video?.role === 'reaction' ? 'Video' : 'Originalvideo'} auf YouTube</span>`) : ''}
       <a class="btn ghost" href="${esc(blobUrl('faktenchecks/' + v.id))}" rel="noopener noreferrer" target="_blank">Daten auf GitHub</a>
     </div>
@@ -920,6 +1101,7 @@ async function pageVideo(id, focusClaim) {
     ${videoHeader(v, 'aussagen')}
     ${scope.kind === 'Teilbestand' && !researchDone(scope) ? `<p class="notice warn"><strong>Teilbestand – keine Bilanz des ganzen Videos.</strong> ${esc(scope.coverageNote)}</p>` : `<p class="notice"><strong>Umfang der Prüfung.</strong> ${esc(scope.coverageNote)}</p>`}
     ${nOpen ? `<p class="notice todo"><strong>${num(nOpen)} ${nOpen === 1 ? 'Aussage ist' : 'Aussagen sind'} noch nicht geprüft.</strong> Sie wären mit öffentlichen Quellen prüfbar, die Recherche steht aber noch aus; sie werden nachgearbeitet. Das ist etwas anderes als „nicht überprüfbar“ oder „nicht ausreichend belegbar“ – <a href="#/methodik#pruefstatus">zur Erklärung</a>.</p>` : ''}
+    ${pendingSection(v)}
     <div class="grid-2" style="margin-top:20px">
       <div>
         <section class="section" style="margin-bottom:28px">
@@ -1068,7 +1250,8 @@ async function pageRelations(id) {
   window.scrollTo(0, 0);
 }
 
-function pageMethod() {
+async function pageMethod() {
+  const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
   setPage(`<div class="wrap">
     <nav class="crumbs" aria-label="Brotkrumen"><a href="#/">Faktenchecks</a> / Methodik</nav>
     <header class="video-head"><h1>So prüfen wir</h1>
@@ -1095,6 +1278,7 @@ function pageMethod() {
       <ul>
         <li><strong>Grundlage:</strong> nur abgeschlossen bewertete Tatsachenbehauptungen mit dem Ergebnis belegt, teilweise belegt, irreführend oder widerlegt („entschieden“). Meinungen, Prognosen, offene, laufende, nicht überprüfbare und nicht ausreichend belegbare Aussagen zählen nicht mit.</li>
         <li><strong>Fehleranteil</strong> = (widerlegt + irreführend) ÷ entschiedene Tatsachenbehauptungen. Teilweise belegt zählt nicht als Fehler.</li>
+        <li><strong>YouTube Shorts:</strong> Ein Short wird immer vollständig erfasst, nicht nur in Auswahl. Weil er meist nur wenige Aussagen enthält, reichen dort ${FactAmpel.RULES.short.minDecided} entschiedene Tatsachenbehauptungen, wenn mindestens die Hälfte der erfassten entschieden ist. Bei so wenigen Aussagen kann schon eine einzige widerlegte die Farbe ändern; die Basis steht deshalb immer daneben.</li>
       </ul>
       <ul class="verdict-list">
         <li>${ampelDemo('gruen')}<p>${esc(FactAmpel.LEVELS.gruen.text)}</p></li>
@@ -1104,6 +1288,7 @@ function pageMethod() {
         <li>${ampelDemo('vorlaeufig')}<p>${esc(FactAmpel.LEVELS.vorlaeufig.text)} Das gilt bei laufender Analyse oder wenn Einzelprüfungen ausstehen und die Grundlage noch zu klein ist, etwa gemessen an der Videolaufzeit.</p></li>
       </ul>
       <p class="small">Die Ampel beschreibt nur den geprüften Bestand, nicht das ganze Video, und ist keine Glaubwürdigkeitsnote für Personen. Neben ihr steht immer, auf wie vielen Aussagen sie beruht. Darstellungshinweise (Maßstab 2) verändern sie nie. Die Ampel wird nirgends gespeichert und von niemandem gesetzt: Sie wird bei jedem Aufruf nach einer einzigen, hier beschriebenen Regel berechnet. Ändert sich eine Einzelbewertung oder die Regel selbst, werden alle Videos automatisch neu eingestuft, ohne neue Prüfung.</p>
+      ${ampelOverview(all)}
     </section>
 
     <section class="section prose-plain" id="gegendarstellung"><h2>Gegendarstellung aus einem anderen Video</h2>
@@ -1310,10 +1495,15 @@ async function routePage() {
       if (parts[2] === 'bericht') return await pageReport(parts[1], parts.slice(3).join('/'));
       if (parts[2] === 'reaktionen') return await pageRelations(parts[1]);
       if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
+      if (parts[2] === 'pruefaufgaben') {
+        await pageVideo(parts[1]);
+        document.getElementById('pruefaufgaben')?.scrollIntoView();
+        return;
+      }
       return await pageVideo(parts[1]);
     }
     if (parts[0].split('#')[0] === 'methodik') {
-      pageMethod();
+      await pageMethod();
       const anchor = parts[0].split('#')[1];
       if (anchor) document.getElementById(anchor)?.scrollIntoView();
       return;
@@ -1331,3 +1521,25 @@ async function routePage() {
 
 window.addEventListener('hashchange', route);
 document.addEventListener('DOMContentLoaded', route);
+
+/* Dropdown „weitere Faktenchecks“ am Titel. Mit Maus öffnet es per Hover (CSS);
+   auf Touchgeräten und per Tastatur über den Pfeil-Knopf. Ein Klick auf den Titel führt zur Startseite. */
+(function brandMenu() {
+  // Node-Tests laden app.js mit einem minimalen document ohne getElementById.
+  if (typeof document === 'undefined' || typeof document.getElementById !== 'function') return;
+  const menu = document.getElementById('brand-menu');
+  const toggle = document.getElementById('brand-toggle');
+  if (!menu || !toggle) return;
+  const setOpen = open => {
+    menu.classList.toggle('open', open);
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  };
+  toggle.addEventListener('click', e => { e.stopPropagation(); setOpen(!menu.classList.contains('open')); });
+  document.addEventListener('click', e => { if (!menu.contains(e.target)) setOpen(false); });
+  menu.addEventListener('click', e => { if (e.target.closest('.brand-dropdown a, .brand')) setOpen(false); });
+  menu.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && menu.classList.contains('open')) { setOpen(false); toggle.focus(); }
+  });
+  menu.addEventListener('focusout', e => { if (e.relatedTarget && !menu.contains(e.relatedTarget)) setOpen(false); });
+  window.addEventListener('hashchange', () => setOpen(false));
+})();

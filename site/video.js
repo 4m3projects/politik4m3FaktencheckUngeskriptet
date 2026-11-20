@@ -73,6 +73,7 @@ function vcItem(entry, c, o, v, ctx) {
       <span class="vc-flag" aria-hidden="true"></span>
     </div>
     <p class="vc-desc">${esc(c.description)}</p>
+    ${c.shortReason ? `<p class="vc-short">${esc(c.shortReason)}</p>` : ''}
     ${counterBlock(ctx.counterOf ? ctx.counterOf(c) : [], true)}
     <div class="vc-meta">
       <span class="badge plain">Zeit ${esc(entry.precision || 'unbekannt')}</span>
@@ -83,7 +84,7 @@ function vcItem(entry, c, o, v, ctx) {
       ${vcRhetFlags(rhetList)}
     </div>
     <details class="vc-details">
-      <summary>Einordnung, Quellen und Zuordnung</summary>
+      <summary>${c.shortReason ? 'Ausführliche Begründung, Quellen und Zuordnung' : 'Einordnung, Quellen und Zuordnung'}</summary>
       <div class="vc-body">
         ${c.reason ? `<p>${esc(c.reason)}</p>` : ''}
         ${c.assessmentBasis ? `<p class="small"><strong>Grundlage:</strong> ${esc(c.assessmentBasis)}</p>` : ''}
@@ -104,7 +105,7 @@ function vcItem(entry, c, o, v, ctx) {
 
 /* Kurze Darstellungs-Merkmale (KI-Hinweise, zweite Ebene) als Badges; per Einstellung ausblendbar (.hide-rhet). */
 function vcRhetFlags(list) {
-  return [...new Set(list.map(a => a.feature))].map(k => `<span class="badge rhet-badge rhet-flag" title="Darstellungshinweis (KI), getrennt von der Faktenbewertung">Darstellung: ${esc(FactRhetoric.FEATURES[k]?.name || k)}</span>`).join('');
+  return [...new Set(list.map(a => a.feature))].map(k => `<span class="badge rhet-badge rhet-flag" data-tip="Darstellungshinweis (KI), getrennt von der Faktenbewertung">Darstellung: ${esc(FactRhetoric.FEATURES[k]?.name || k)}</span>`).join('');
 }
 
 async function pageVideoSync(id, opts = {}) {
@@ -137,7 +138,7 @@ async function pageVideoSync(id, opts = {}) {
     ${videoHeader(v, 'video')}
     ${d.scope.kind === 'Teilbestand' && !researchDone(d.scope) ? `<p class="notice warn"><strong>Teilbestand:</strong> Nur ein Teil der Aussagen dieses Videos ist strukturiert geprüft. Stellen ohne Eintrag sind nicht automatisch unproblematisch.</p>` : ''}
   </div>
-  <section class="vc" id="vc" data-layout="${prefs.layout === 'stack' ? 'stack' : 'side'}" aria-label="Video mit Faktencheck">
+  <section class="vc" id="vc" data-layout="${prefs.layout === 'stack' ? 'stack' : 'side'}" data-format="${FactRelations.isShort(v.video, d.scope.videoUrl) ? 'short' : 'video'}" aria-label="Video mit Faktencheck">
     <div class="vc-shell">
       <div class="vc-toolbar">
         <div class="seg" role="group" aria-label="Anordnung von Video und Aussagen">

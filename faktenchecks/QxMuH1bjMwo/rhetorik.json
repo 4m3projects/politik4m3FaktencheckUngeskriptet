@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "videoId": "QxMuH1bjMwo",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-19",
+    "by": "Codex",
+    "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+    "coverage": "Ein Hinweis zur erfassten Zukunftsbefürchtung im Vorspann; Zusammenhang von 00:00 bis etwa 07:10 sowie die Schlussantwort ab 03:11 textlich gelesen. Keine vollständige Darstellungsauswertung.",
+    "limits": [
+      "Auswahl einzelner Stellen, keine systematische Vollprüfung der Darstellung des gesamten Videos.",
+      "Keine eigene Hör- oder Sichtkontrolle; Sprecher nur plausibel, Zeitgrenzen ungefähr.",
+      "Alle Hinweise sind KI-Vorschläge ohne unabhängige redaktionelle Bestätigung. Aussagen ohne Hinweis sind nicht als unauffällig bestätigt."
+    ],
+    "history": [
+      {
+        "date": "2026-11-19",
+        "by": "Codex",
+        "change": "Fehlende zweite Bewertungsebene um textgeprüfte Beispiele ergänzt (Issue #77)."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "QxMuH1bjMwo-R0001",
+      "claimId": "QxMuH1bjMwo-A0002",
+      "feature": "emotionalisierung",
+      "startSeconds": 90,
+      "endSeconds": 102,
+      "speaker": {
+        "id": "SP02",
+        "attribution": "Plausibel",
+        "basis": "Rolle und Gesprächsfluss im automatischen Originaltext; keine akustische Bestätigung."
+      },
+      "observation": "Im Vorspann wird die Sorge vor Kontrollverlust mit dem Bild einer Rückkehr ins Mittelalter und dem Verlust des Bürgerstatus verbunden.",
+      "reason": "Das historische Bedrohungsbild spricht Angst um die politische Selbstbestimmung an. Es ist eine beschreibende Stilbeobachtung, kein Fehlerpunkt.",
+      "context": "Zusammengeschnittener Vorspann; der Gast führt den Mittelaltervergleich im anschließenden Gespräch ab etwa 03:24 aus. Diesen Anschluss bis etwa 07:10 mitgelesen.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatische Untertitel können Wörter und Sprecherwechsel verwechseln. Tonfall und Bild sind nicht kontrolliert; die Kennzeichnung ist ein korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "Am 19.11.2026 im Originalplayer das deutsche automatische Transkript geöffnet und privat exportiert; die bezeichnete Stelle mit ihrem Gesprächsumfeld selbst gelesen. Keine Hör- oder Sichtkontrolle, keine bestätigte Stimme. Nur eigene Paraphrase veröffentlicht.",
+      "history": [
+        {
+          "date": "2026-11-19",
+          "by": "Codex",
+          "change": "Erstmals nach eigener Lektüre der Originaltextstelle mit Umfeld erfasst (Issue #77). Keine Faktenbewertung geändert."
+        }
+      ]
+    }
+  ]
+}

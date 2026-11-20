@@ -323,6 +323,13 @@ test('Hilfsfunktionen: Zustände, Fehlertexte, Video-ID', () => {
   assert.equal(S.youtubeId('https://evil.example/watch?v=mlxFA9T88I0'), null);
   assert.equal(S.youtubeId('https://www.youtube.com/watch?v=mlxFA9T88I0"><script>'), null);
   assert.equal(S.youtubeId('https://www.youtube.com/watch?v=short'), null);
+  // YouTube Shorts (docs/SHORTS.md)
+  assert.equal(S.youtubeId('https://www.youtube.com/shorts/gVQeb83GHDQ'), 'gVQeb83GHDQ');
+  assert.equal(S.youtubeId('https://youtube.com/shorts/gVQeb83GHDQ?si=abc'), 'gVQeb83GHDQ');
+  assert.equal(S.youtubeId('https://m.youtube.com/shorts/gVQeb83GHDQ/'), 'gVQeb83GHDQ');
+  assert.equal(S.youtubeId('http://www.youtube.com/shorts/gVQeb83GHDQ'), null);
+  assert.equal(S.youtubeId('https://www.youtube.com/shorts/gVQeb83GHDQx'), null);
+  assert.equal(S.youtubeId('https://evil.example/shorts/gVQeb83GHDQ'), null);
 });
 
 test('Echte Projektdaten: alle Fundstellen synchronisierbar, Überlappung und Wiederholung vorhanden', () => {
