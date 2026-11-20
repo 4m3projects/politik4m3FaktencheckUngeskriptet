@@ -76,7 +76,7 @@
     const filter = keys.has('original') && keys.has('reaction')
       ? `<div class="rang-filter" role="group" aria-label="Rangliste filtern">
           <button type="button" data-rang-filter="" aria-pressed="true">Alle Videos</button>
-          <button type="button" data-rang-filter="original" aria-pressed="false">Nur Originalinterviews</button>
+          <button type="button" data-rang-filter="original" aria-pressed="false">Nur Originale</button>
           <button type="button" data-rang-filter="reaction" aria-pressed="false">Nur Reaktionen</button>
         </div>` : '';
 
