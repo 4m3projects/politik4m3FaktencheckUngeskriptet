@@ -10,3 +10,7 @@
 Die technischen Zugangsprobleme zur Herausgeberseite wurden durch Browserbedienung überwunden. Eine nicht erreichbare Webseite wird somit nicht als abschließendes Ergebnis behandelt. Aus fehlenden Unterlagen auf den tatsächlich gelesenen Seiten folgt kein allgemeiner Negativbeweis über anderswo verfügbare Nachweise.
 
 Die Prüfung bleibt eine Gegenprüfung des erfassten Bestands. Keine durchgängige audiovisuelle Verifikation, bestätigte Sprecherstatistik oder menschliche Zweitprüfung behauptet. Eigene Fakten, wiedergegebene Eigenangaben, interne Prozessangaben und rhetorische Kennzahlen bleiben voneinander getrennt. Weder fremde Indexwerte noch Rhetorikpunkte fließen als Faktenfehler in unsere Bewertung ein.
+
+## Ergänzende offene Originalaussage
+
+Lüning-Original A0289 zur historischen Hautpflege nach zwei unterschiedlich angelegten Recherchedurchgängen als nicht ausreichend belegbar eingeordnet: historische Herstellerdarstellung und Chronicle gelesen, danach Smithsonian-Überblick und datiertes Museumsobjekt im Browser erfolgreich geprüft. Die Quellen dokumentieren Produkte, aber keine repräsentative Rangfolge der Pflegegrundlagen um 1926. Keine Behauptung fehlender Gegenwartspflegewirkung oder falscher Werbeaussage aus einem fehlenden Häufigkeitsnachweis abgeleitet. Original jetzt 153 eigene Tatsachen mit Urteil, 148 begründet nicht überprüfbar und elf offen.

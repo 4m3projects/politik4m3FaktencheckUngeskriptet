@@ -16,6 +16,10 @@ const { chromium } = require('playwright');
 const F = require('./relations-fixtures.js');
 
 const ROOT = path.join(__dirname, '..');
+const PENDING_VIDEO_ID = fs.readdirSync(path.join(ROOT, 'faktenchecks')).find(id => {
+  const file = path.join(ROOT, 'faktenchecks', id, 'strukturiert', 'aussagen.json');
+  return /^[A-Za-z0-9_-]{11}$/.test(id) && fs.existsSync(file) && JSON.parse(fs.readFileSync(file, 'utf8')).claims.some(c => !c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status));
+}) || 'qQAcmDzd9O8';
 const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png'];
 
 function buildSite(withFixtures) {
@@ -137,16 +141,22 @@ async function step(name, fn) {
   });
 
   await step('Prüfaufgaben: Direktlink, genaue Aussageverweise und Metadaten ohne README-Duplikate', async () => {
-    const id = 'qQAcmDzd9O8';
+    const id = PENDING_VIDEO_ID;
     const d = JSON.parse(fs.readFileSync(path.join(ROOT, 'faktenchecks', id, 'strukturiert', 'aussagen.json'), 'utf8'));
     const pending = d.claims.filter(c => !c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status));
     await open(urlOf(real), `#/video/${id}/pruefaufgaben`);
     assert.equal(await page.locator('#pruefaufgaben ol > li').count(), pending.length);
     assert.equal(await page.locator(`#pruefaufgaben a[href$="${id}-A0006"]`).count(), 0, 'abgeschlossene Recherche nicht als offene Aufgabe');
-    await page.click('#pruefaufgaben summary');
-    await page.click(`#pruefaufgaben a[href$="${pending[0].id}"]`);
-    await page.waitForSelector('#' + pending[0].id);
-    assert.equal(new URL(page.url()).hash, `#/video/${id}/aussage/${pending[0].id}`);
+    if (pending.length) {
+      await page.click('#pruefaufgaben summary');
+      await page.click(`#pruefaufgaben a[href$="${pending[0].id}"]`);
+      await page.waitForSelector('#' + pending[0].id);
+      assert.equal(new URL(page.url()).hash, `#/video/${id}/aussage/${pending[0].id}`);
+    } else {
+      assert.match(await page.innerText('#pruefaufgaben'), /Keine offenen erfassten Aussagen/);
+    }
+    await open(urlOf(real), '#/video/qQAcmDzd9O8/pruefaufgaben');
+    assert.match(await page.innerText('#pruefaufgaben'), /Keine offenen erfassten Aussagen/);
     await open(urlOf(real), '#/video/QxMuH1bjMwo/pruefaufgaben');
     assert.match(await page.innerText('#pruefaufgaben'), /Keine offenen erfassten Aussagen/);
     assert.match(await page.innerText('.video-head .facts'), /Kanal:.*ungeskriptet/s);
@@ -157,8 +167,8 @@ async function step(name, fn) {
     await page.setViewportSize({ width: 390, height: 800 });
     await open(urlOf(real), '#/');
     assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth));
-    await open(urlOf(real), '#/video/qQAcmDzd9O8/pruefaufgaben');
-    await page.click('#pruefaufgaben summary');
+    await open(urlOf(real), `#/video/${PENDING_VIDEO_ID}/pruefaufgaben`);
+    if (await page.locator('#pruefaufgaben summary').count()) await page.click('#pruefaufgaben summary');
     assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth));
     await page.setViewportSize({ width: 1280, height: 900 });
   });
