@@ -1,16 +1,20 @@
 # Horst Lüning bei Ben: Wirtschafts- und Staatsfinanzthesen
 
-**Status: Erststand mit offenen Teilprüfungen.** Diese Fassung wurde am 17.11.2026 aus einer privaten Arbeitsauswertung redaktionell für die Veröffentlichung vorbereitet. Keine erneute vollständige Recherche im Rahmen der Übernahme.
+**Status: Teilbestand nachgeprüft, 13 erfasste Tatsachenbehauptungen noch offen.** Der Erststand vom 17.11.2026 wurde am 20.11.2026 gezielt mit Originalstellen und externen Quellen nachgeprüft. Eine vollständige Hör-/Sichtprüfung steht weiterhin aus.
 
 - Original: [Schau dieses Video, bevor Deutschland kippt (Horst Lüning)](https://www.youtube.com/watch?v=mlxFA9T88I0)
 - Kanal: {ungeskriptet} by Ben
 - Video-ID: mlxFA9T88I0
-- Veröffentlichung laut erfassten Metadaten: 14.11.2026
+- Veröffentlichung: 2026-11-14
 - Aufnahme laut damaliger Beschreibung: 23.09.2026
 - Laufzeit: 03:06:06
 - Grundlage des Erststands: gesamtes verfügbares automatisches deutsches Originaltranskript, außerdem Metadaten und Beschreibung; keine vollständige Audio-/Videosichtung.
 - Inhaltsabdeckung: vom Auftakt bis zum letzten verfügbaren Untertitelsegment bei 03:06:02; restlicher Schluss bis zum Metadatenende nicht textlich belegt.
 - Öffentliche Fassung: nur unsere eigenen Texte, knappe bibliografische Daten, Zeitmarken und externe Links. Keine Quellenkopien, Transkripte, Medien oder Bilder.
+
+## Nachprüfung am 20.11.2026
+
+Der aktuelle strukturierte Bestand enthält 395 Datensätze: 312 eigene Tatsachenbehauptungen (151 mit Urteil, 148 begründet nicht überprüfbar, 13 offen), 80 Meinungen/Prognosen und drei reine Fremdbezüge. Nach den bereits veröffentlichten Prüfungen zu Bankverlusten und Staatsanleihen wurden A0190 (Discounterabsatz), A0191 (Preisbeispiele), A0196 (Umsatz und Lohnspielraum) und A0287 (Pflegewerbung des Hosts) nachgearbeitet. Zwei zu starke eigene Paraphrasen wurden auf die tatsächliche Aussage zurückgeführt; Quellenreichweite und Zeitbezug bleiben ausdrücklich begrenzt. Die aktuellen Einzelprüfungen stehen in den [generierten Berichten](strukturiert/README.md); die folgenden älteren Übersichten dokumentieren den Erststand.
 
 ## Lesen
 

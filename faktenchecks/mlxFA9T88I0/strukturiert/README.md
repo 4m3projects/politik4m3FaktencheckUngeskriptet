@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Recherche weitgehend abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+**Abdeckung: Teilbestand.** Nachprüfungsstand 20.11.2026: Alle 99 ursprünglichen Prüfpunkte sind übertragen; der Bestand enthält 395 Datensätze, darunter drei reine Fremdbezüge. Von 312 eigenen Tatsachenbehauptungen sind 151 mit Urteil abgeschlossen, 148 mit begründeter Grenze der Überprüfbarkeit eingeordnet und 13 noch offen. Dazu kommen 80 Meinungen oder Prognosen. Erfasst sind die Prüfgegenstände der Altpunkte und gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs. Einzelne frühere Grenzen der Überprüfbarkeit werden außerdem gezielt kontrolliert; keine vollständige Hör-/Sichtprüfung und keine bestätigte Sprecherstatistik.
 
 Stand: 2026-11-20 · Video: mlxFA9T88I0
 
@@ -13,8 +13,8 @@ A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfo
 - Ausgewaehlte bisherige Pruefpunkte: 99 von 99
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 392
-- Abgeschlossen: 227
-- Offen (noch nicht geprueft): 17
+- Abgeschlossen: 231
+- Offen (noch nicht geprueft): 13
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 148
 - Erfasste Behauptungsvorkommen: 436
@@ -30,16 +30,16 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 147 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 151 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 36 | 24.5 % |
-| Teilweise belegt | 79 | 53.7 % |
-| Irreführend / Kontext fehlt | 22 | 15.0 % |
-| Widerlegt | 7 | 4.8 % |
+| Belegt | 36 | 23.8 % |
+| Teilweise belegt | 82 | 54.3 % |
+| Irreführend / Kontext fehlt | 23 | 15.2 % |
+| Widerlegt | 7 | 4.6 % |
 | Nicht ausreichend belegbar | 3 | 2.0 % |
 | Meinung / Prognose | 80 | nicht anwendbar |
 
