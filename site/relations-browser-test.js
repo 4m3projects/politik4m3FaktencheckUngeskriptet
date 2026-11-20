@@ -16,7 +16,7 @@ const { chromium } = require('playwright');
 const F = require('./relations-fixtures.js');
 
 const ROOT = path.join(__dirname, '..');
-const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png'];
+const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png'];
 
 function buildSite(withFixtures) {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-rel-'));
