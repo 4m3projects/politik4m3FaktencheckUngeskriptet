@@ -1,8 +1,8 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Keine menschliche Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Zwei Buchaussagen bleiben wegen fehlender Vollbuchprüfung ausdrücklich offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge.
 
 ## mdo14671BPE-A0001
 
@@ -113,7 +113,7 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 ### Zugeordnete Quellen
 
 - [Interview mit Naomi Seibt bei Ben](https://www.youtube.com/watch?v=mdo14671BPE) · {ungeskriptet} by Ben; veröffentlicht 16.11.2026, Laufzeit 10118 Sekunden; Aufnahme laut am 19.11.2026 erneut direkt abgerufener Originalbeschreibung: 30.09.2026. Frühere Angabe Aufnahmezeitpunkt ungeklärt korrigiert.
-  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle. Gastgeber nennt Vereidigungszeremonie, Seibt selbst den Inauguration Ball.
+  Quellenzugriff am 2026-11-19. Projekt-Importskript erfolgreich: deutsche automatische Originaluntertitel vollständig gelesen; Metadaten nur für bibliografische Angaben. Keine Hör-/Sichtkontrolle. Webabruf zusätzlich gedrosselt; kein Ersatz für die importierte Textgrundlage. [Codex] 19.11.2026: Beschreibung für die Aufnahmedatumsangabe erneut mit yt-dlp direkt abgerufen; keine Hör-/Sichtkontrolle. [Codex] 19.11.2026: Untertitel erneut abgerufen, identische Lücke bestätigt. Originalton-Ausschnitt um 02:10:30–02:13:00 privat lokal mit whisper.cpp 1.8.4 / Whisper small und base (Deutsch) automatisch transkribiert. Beide Fassungen am Text miteinander und mit angrenzenden Originaluntertiteln sowie ergänzendem Podcasttext verglichen. Keine menschliche Hör-/Sichtkontrolle; alle Medien und Arbeitstexte außerhalb Git. Gastgeber nennt Vereidigungszeremonie, Seibt selbst den Inauguration Ball.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -222,7 +222,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein reguläres Folgen des Podcasts auf YouTube oder Spotify koste kein Geld.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -241,21 +241,31 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Gemeint ist offenbar das kostenlose Folgen, nicht Bezahlabonnements oder Datenkosten. Plattformbedingungen sind für diese konkrete Aussage noch zu prüfen.
+Die offiziellen Hilfeseiten beschreiben das normale Abonnieren beziehungsweise Folgen als Bibliotheks-/Abofeed-Funktion, auch bei kostenloser Nutzung. Kostenpflichtige Mitgliedschaften oder Premiumangebote sind andere Funktionen. Das stützt den im Nahkontext gemeinten kostenlosen Follow-Aufruf.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Abgeschlossen / Belegt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [YouTube-Hilfe: Kanäle abonnieren](https://support.google.com/youtube/answer/4489286?hl=de) · Offizielle Funktionsbeschreibung, Abruf 19.11.2026.
+  Quellenzugriff am 2026-11-19. Anmelden, Abonnieren und Abofeed gelesen; Abgrenzung zu kostenpflichtiger Mitgliedschaft. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
+
+- [Spotify Support: Podcasts und Shows](https://support.spotify.com/de/article/podcasts-and-shows/) · Offizielle Funktionsbeschreibung, Abruf 19.11.2026.
+  Quellenzugriff am 2026-11-19. Folgen als Speichern in der Bibliothek und Nutzung von Podcasts im kostenlosen Dienst gelesen. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Kostenfreie Follow-Funktionen zum Veröffentlichungszeitpunkt belegen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-19 (Codex): Originalaufruf und offizielle Plattformhilfen statt Bezahlangebote verglichen. Gepruefte Quellen: S139, S140. Ergebnis: Kostenfreies Folgen ist vom Kauf einer Mitgliedschaft zu unterscheiden.
 
 ## mdo14671BPE-A0006
 

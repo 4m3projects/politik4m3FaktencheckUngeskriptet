@@ -16,7 +16,7 @@ const { chromium } = require('playwright');
 const F = require('./relations-fixtures.js');
 
 const ROOT = path.join(__dirname, '..');
-const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js'];
+const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png'];
 
 function buildSite(withFixtures) {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-rel-'));
@@ -71,7 +71,7 @@ function buildSite(withFixtures) {
 }
 
 function serve(dir) {
-  const types = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css', '.json': 'application/json', '.md': 'text/plain; charset=utf-8' };
+  const types = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; charset=utf-8', '.css': 'text/css', '.svg': 'image/svg+xml', '.ico': 'image/x-icon', '.png': 'image/png', '.json': 'application/json', '.md': 'text/plain; charset=utf-8' };
   const server = http.createServer((req, res) => {
     const p = path.join(dir, decodeURIComponent(new URL(req.url, 'http://x').pathname).replace(/\/$/, '/index.html'));
     if (!p.startsWith(dir) || !fs.existsSync(p)) { res.writeHead(404); res.end(); return; }

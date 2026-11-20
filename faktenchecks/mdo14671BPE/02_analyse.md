@@ -16,7 +16,7 @@ Im Mittelpunkt stehen zunächst Aufenthaltsfragen und berichtete Strafverfahren,
 
 ## 03 · 00:09:45–00:11:11 · Werbung für ein Optionshandelsbuch
 
-Ben bewirbt eine Strategie für Zusatzeinnahmen. Die Prüfung trennt Optionsprämien, verbleibendes Aktienrisiko und Produktleistungen. Eine Prämie begrenzt einen Verlust nur teilweise; der tatsächliche Buchinhalt war nicht zugänglich.
+Ben bewirbt eine Strategie für Zusatzeinnahmen. Die Prüfung trennt Optionsprämien, verbleibendes Aktienrisiko und Produktleistungen. Eine Prämie begrenzt einen Verlust nur teilweise. Nachprüfung 19.11.2026: Die beworbene Adresse und ihre Buch-Zusatzangebote sind inzwischen direkt zugänglich und gelesen; zwei Aussagen zum vollständigen Buchinhalt und zur praktischen Anleitung bleiben offen.
 
 [Einzelprüfungen und offene Punkte](strukturiert/berichte/kapitel-03.md)
 

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0007",
+  "revision": 1,
+  "claim": "§ 130 StGB verbietet Kriminalstatistiken nicht als Gattung; strafrechtlich entscheidend sind die gesetzlichen Inhalts- und Kontextmerkmale.",
+  "topics": [
+    "meinungsfreiheit/strafrecht"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Der gelesene Normtext nennt unter anderem Hassaufstachelung, Gewalt-/Willküraufforderungen und Menschenwürdeangriffe unter den jeweiligen Voraussetzungen. Auch statistische Angaben können in einem strafbaren Gesamtzusammenhang stehen; ihr bloßes Statistikformat begründet weder Verbot noch Immunität. Kein konkreter unbenannter Fall wird damit entschieden.",
+  "validity": {
+    "asOf": "2026-11-19",
+    "timeScope": "Amtlicher Normstand beim Abruf; keine Aussage über jede historische Fassung.",
+    "subjectScope": "Allgemeine Abgrenzung des Norminhalts, keine Einzelfallberatung.",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-19",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "§ 130 StGB: Volksverhetzung",
+      "url": "https://www.gesetze-im-internet.de/stgb/__130.html",
+      "details": "Amtlicher Normtext; Absätze 1–8 am 19.11.2026 erneut direkt gelesen.",
+      "accessedOn": "2026-11-19",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "mdo14671BPE-A0228",
+      "repo": null,
+      "relation": "widerspricht",
+      "contextNote": "Das Original leitet aus einem unbenannten Beispiel ein allgemeines Statistikverbot ab. Die Normabgrenzung erklärt den fehlenden Kontext; kein automatisches Urteil über das unbekannte Verfahren.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-19"
+    },
+    {
+      "claimId": "BOIqGtGuShM-A0021",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Alfreds Aussage enthält dieselbe allgemeine Normabgrenzung; die vermutete Kaiser-Zuordnung ist eine andere Aussage.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-19"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Gemeinsamen Sachkern nach unabhängiger Normlektüre und Originalnachprüfung verknüpft; keine Reaktionsbewertung als Beleg übernommen.",
+      "previous": null
+    }
+  ]
+}

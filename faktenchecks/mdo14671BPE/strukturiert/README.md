@@ -2,22 +2,22 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+**Abdeckung: Teilbestand.** Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Keine menschliche Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Zwei Buchaussagen bleiben wegen fehlender Vollbuchprüfung ausdrücklich offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9.
 
 Stand: 2026-11-19 · Video: mdo14671BPE
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 247
-- Abgeschlossen: 132
-- Offen (noch nicht geprueft): 12
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 249
+- Abgeschlossen: 144
+- Offen (noch nicht geprueft): 2
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 103
-- Erfasste Behauptungsvorkommen: 277
+- Erfasste Behauptungsvorkommen: 279
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 30
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 4
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 95 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 107 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 29 | 30.5 % |
-| Teilweise belegt | 29 | 30.5 % |
-| Irreführend / Kontext fehlt | 18 | 18.9 % |
-| Widerlegt | 13 | 13.7 % |
-| Nicht ausreichend belegbar | 6 | 6.3 % |
+| Belegt | 36 | 33.6 % |
+| Teilweise belegt | 29 | 27.1 % |
+| Irreführend / Kontext fehlt | 20 | 18.7 % |
+| Widerlegt | 13 | 12.1 % |
+| Nicht ausreichend belegbar | 9 | 8.4 % |
 | Meinung / Prognose | 37 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
@@ -52,12 +52,12 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 210. Ohne verlaessliche Personenzuordnung: 210.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 212. Ohne verlaessliche Personenzuordnung: 212.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 210; mit unsicherem eigenem Aussagebezug: 210. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 212; mit unsicherem eigenem Aussagebezug: 212. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 282, Aussagebezug 281 Vorkommen.
+- Plausibel: Sprecherzuordnung 284, Aussagebezug 283 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 1 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |

@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Grundlage ist der verfügbare Text von 00:00:00 bis 02:48:34 bei Metadatenlaufzeit 02:48:38; Untertitellücke 02:10:47,880–02:12:43,970, letzte vier Sekunden ohne Inhaltsnachweis. Alle 25 Themenbereiche sind mit Aussagen A0001–A0249 erfasst, aber nicht jede Teilbehauptung des Gesprächs; deshalb keine Statistik des gesamten Videos. Alle namentlichen Sprecherzurechnungen nur plausibel; Fragen und Übernahmen getrennt. Werbung in Kapitel 3 und 9. Zwei Aussagen im Untertitellückenfenster stammen nur aus ergänzendem, nicht synchronisiertem Podcasttext.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Keine menschliche Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Zwei Buchaussagen bleiben wegen fehlender Vollbuchprüfung ausdrücklich offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Geöffnete Primärquellen und ausdrücklich bezeichnete Sekundärberichte. Sachrecherche mit öffentlichen Quellen am 18.11.2026 abgeschlossen; nicht Überprüfbares ist mit Grund gekennzeichnet. Sprecher nicht bestätigt. Automatische deutsche Originaluntertitel vollständig gelesen, keine Audio-/Videokontrolle. Öffentliche Podcast-Transkription nur ergänzend für eine Quellenlücke; deren Zeitachse und Namensetiketten sind nicht verifiziert. [Codex] 19.11.2026: gezielte Nachprüfung durch Alfreds Reaktion BOIqGtGuShM; Datumskorrektur UG-C0001 und zwei zusätzliche EOIR-Primärquellen, keine erneute Gesamtprüfung.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge.
 
 ## mdo14671BPE-A0054
 
@@ -94,7 +94,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Seibt habe sich niemals mit QAnon zusammengeschlossen, obwohl Medien dies behauptet hätten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -113,22 +113,35 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Formal ist kein Zusammenschluss belegt; Seibt erklärte 2020 selbst, keine aktive Teilnehmerin zu sein. Zugleich behandelte sie 2020 QAnon-Themen in eigenen Videos und bewertete die Bewegung positiv. Der gelesene Bericht spricht von Annäherung, nicht von einem Beitritt. Ob „Medien“ einen Zusammenschluss behaupteten, ist mit den bisher gelesenen Quellen nicht belegt.
+Die gelesenen zeitgenössischen Berichte dokumentieren QAnon-bezogene Inhalte und Seibts eigene Abgrenzung von aktiver Beteiligung. Das belegt weder einen formalen Zusammenschluss noch die absolute Aussage, es habe niemals eine Zusammenarbeit gegeben. Im Original wird kein konkreter Artikel benannt; mediale Annäherungsbeschreibungen sind nicht mit einem Beitrittsvorwurf gleichzusetzen.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Abgeschlossen / Nicht ausreichend belegbar.
 
 ### Zugeordnete Quellen
 
 - [As QAnon Conspiracy Spreads on the Far Right, Climate Science Deniers Jump Aboard](https://www.desmog.com/2020/08/27/qanon-conspiracy-naomi-seibt-climate-science-deniers) · DeSmog, Sharon Kelly · 27.08.2020; berichtet über Seibts QAnon-Video und ihre eigene Einordnung.
-  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Seibt 2020: keine aktive Teilnehmerin, Bewegung aber positiv bewertet; Bericht spricht von Annäherung, nicht von Beitritt.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
+
+- [Teen Vogue / Nexus Media: Climate Change Deniers Are Embracing QAnon to Gain Followers](https://www.teenvogue.com/story/climate-change-denial-qanon) · Jeremy Deaton, 29.09.2020; Nachdruck von Nexus Media, keine zweite unabhängige Recherche.
+  Quellenzugriff am 2026-11-19. Seibt-Absätze gelesen: Berichte über verbreitete QAnon-Themen und ihre eigene Abgrenzung von aktiver Beteiligung. Kein Beleg eines formalen Zusammenschlusses. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Medienberichte sind gemeint? Weitere zeitgenössische Berichte (z. B. Teen Vogue, 24.09.2020) lesen, bevor die Medienbehauptung bewertet wird.
+- Gemeinten Medienartikel und konkrete Form der behaupteten Zusammenarbeit benennen; dann Bericht und dokumentierte Kontakte getrennt prüfen.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Gemeinten Medienartikel und konkrete Form der behaupteten Zusammenarbeit benennen; dann Bericht und dokumentierte Kontakte getrennt prüfen.
+
+- Durchgang 1 am 2026-11-18 (Claude): Vorarbeit von Claude: zeitgenössischen DeSmog-Bericht zu Seibts QAnon-Verhältnis recherchiert und gelesen. Gepruefte Quellen: S100. Ergebnis: Öffentliche Distanzierung von aktiver Beteiligung, zugleich positive Einordnung dokumentiert.
+
+- Durchgang 2 am 2026-11-19 (Codex): Zweiter Prüfweg: Nahkontext der Originaluntertitel erneut gelesen und Nexus-Nachdruck bei Teen Vogue auf den tatsächlich erhobenen Vorwurf geprüft. Gepruefte Quellen: S147. Ergebnis: Kein Beleg eines formalen Zusammenschlusses; unbenannter Artikel verhindert ein Gesamturteil über sämtliche Medienberichte.
 
 ## mdo14671BPE-A0057
 
@@ -223,7 +236,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Q-Anhänger hätten Trumps Wahlerfolg als Erfüllung einer Vorhersage Qs gedeutet.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -242,28 +255,38 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle. Grundsätzlich prüfbar, aber Claude hat am 18.11.2026 keine zugängliche Quelle gefunden; die Originalplattformen (YouTube, X, Händlerseiten) waren nicht abrufbar. Bisheriger Prüfstand: Die erneute Lektüre des Nahkontexts zeigt eine Beschreibung der Deutung durch Anhänger, verbunden mit einem Vergleich zu unbestimmten Vorhersagen. Das ist keine eindeutige eigene Bestätigung einer zutreffenden Prophezeiung. Die Forschung datiert erste Q-Beiträge auf Oktober 2017. Ohne genanntes Wahljahr und konkrete Fundstelle lässt sich damit die tatsächliche Zuschreibung nicht abschließend prüfen.
+Nicht überprüfbar – Bezug im Original nicht eindeutig bestimmt. Erneut gelesener Nahkontext beschreibt eine Deutung durch Anhänger und vergleicht Q-Beiträge mit Horoskopen. Er nennt weder Wahljahr noch konkreten Beitrag. Berichte über die Zeitfolge können diese fehlende Zuordnung nicht ersetzen. Eine eigene Bestätigung einer zutreffenden Prophezeiung wird hier nicht unterstellt.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Nicht überprüfbar.
 
 ### Zugeordnete Quellen
 
 - [The Gospel According to Q: Understanding the QAnon Conspiracy from the Perspective of Canonical Information](https://arxiv.org/html/2101.08750) · Antonis Papasavva und Mitautoren; ICWSM 2022, arXiv-Version 3 vom 29.04.2022.
-  Quellenzugriff am 2026-11-18. Abstract, Einleitung, Methodenüberblick und Hintergrundabschnitt zur Herkunft seit Oktober 2017 gelesen. Originalforschung mit Untersuchung archivierter Beiträge; historische Hintergrundangaben teils aus zitierten Vorarbeiten. Nicht als Nachweis einer tatsächlichen Insideridentität verwendet. Herkunft seit 2017, kein Nachweis einer zutreffenden Wahlvorhersage.
+  Quellenzugriff am 2026-11-18. Abstract, Einleitung, Methodenüberblick und Hintergrundabschnitt zur Herkunft seit Oktober 2017 gelesen. Originalforschung mit Untersuchung archivierter Beiträge; historische Hintergrundangaben teils aus zitierten Vorarbeiten. Nicht als Nachweis einer tatsächlichen Insideridentität verwendet. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 - [QAnon's Leader Has Not Posted Since Election Day](https://www.scrippsnews.com/science-and-tech/social-media/qanon-leader-hasn-t-posted-since-election-day) · Scripps News, Tyler Adkisson · 09.11.2020.
-  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Keine Q-Beiträge mehr seit der Wahl 2020.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 - [Q Is Dead, Long Live QAnon](https://www.vice.com/en/article/qanon-q-drop-midterms/) · VICE, M. Lamoureux, D. Gilbert · 15.11.2022; Aktivitätszeitraum von Q.
-  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Q aktiv Oktober 2017 bis Dezember 2020, danach nur vereinzelt 2022.
+  Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 im Recherchewerkzeug geöffnet und gelesen (Recherchepakete in Issue #3); keine Quellenkopie veröffentlicht. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche Wahl und welcher konkrete Beitrag sind gemeint? Zeitgenössische Belege für die beschriebene Anhängerdeutung fehlen.
+- Wahljahr, konkreten Q-Beitrag und zeitgenössische Reaktionen zuordnen; ohne diese Angaben keine nachträgliche Auswahl eines passenden Wahlerfolgs.
+
+### Recherchedokumentation
+
+Einordnung: Derzeit nicht überprüfbar. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Wahljahr, konkreten Q-Beitrag und zeitgenössische Reaktionen zuordnen; ohne diese Angaben keine nachträgliche Auswahl eines passenden Wahlerfolgs.
+
+- Durchgang 1 am 2026-11-19 (Codex): Originalnahkontext von etwa 00:27–00:29 erneut auf Wahljahr und eigene Zustimmungsrolle gelesen. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Kein Wahljahr und kein bestimmter Q-Beitrag genannt; Anhängerdeutung statt eigener Tatsachenbestätigung.
+
+- Durchgang 2 am 2026-11-19 (Codex): Vorhandene Chronologiequellen mit Herkunft und Aktivitätszeiträumen verglichen. Gepruefte Quellen: S069, S101, S102. Ergebnis: Chronologie identifiziert den unbenannten Bezug nicht.
 
 ## mdo14671BPE-A0060
 

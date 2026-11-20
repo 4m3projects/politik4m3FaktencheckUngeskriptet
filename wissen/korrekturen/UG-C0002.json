@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0002",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-19",
+  "reportedBy": "Codex",
+  "trigger": {
+    "claimId": "mdo14671BPE-A0036",
+    "entryId": null,
+    "description": "Drei öffentliche Berufs-/Rechtsbehauptungen waren pauschal als nicht überprüfbar klassifiziert."
+  },
+  "evidence": [
+    {
+      "title": "Guardian: Anti-Greta bei CPAC",
+      "url": "https://www.theguardian.com/us-news/2020/feb/25/anti-greta-teen-activist-cpac-conference-climate-sceptic",
+      "accessedOn": "2026-11-19",
+      "finding": "Zeitgenössischer Bericht nennt Seibts Mutter Anwältin; kein Registerabgleich."
+    },
+    {
+      "title": "§ 130 StGB",
+      "url": "https://www.gesetze-im-internet.de/stgb/__130.html",
+      "accessedOn": "2026-11-19",
+      "finding": "Tatbestandsvoraussetzungen der Volksverhetzung gelesen; keine Prüfung eines unbenannten Einzelfalls. [Codex] 19.11.2026: § 130 Absätze 1–8 erneut direkt gelesen; Inhalt und Kontext sind Tatbestandsmerkmale, Statistiken nicht als Gattung verboten."
+    },
+    {
+      "title": "§ 5 StGB: Auslandstaten mit besonderem Inlandsbezug",
+      "url": "https://www.gesetze-im-internet.de/stgb/__5.html",
+      "accessedOn": "2026-11-19",
+      "finding": "Insbesondere Nummer 3 Buchstaben a/b und Nummer 5a Buchstabe c direkt gelesen. Regeln können unter ihren Voraussetzungen unabhängig von Strafbarkeit am ausländischen Tatort gelten."
+    },
+    {
+      "title": "§ 7 StGB: Geltung für Auslandstaten in anderen Fällen",
+      "url": "https://www.gesetze-im-internet.de/stgb/__7.html",
+      "accessedOn": "2026-11-19",
+      "finding": "Beiderseitige Strafbarkeit und persönliche Anknüpfungspunkte gelesen; kein Ersatz für die Sonderregeln des § 5."
+    },
+    {
+      "title": "§ 9 StGB: Ort der Tat",
+      "url": "https://www.gesetze-im-internet.de/stgb/__9.html",
+      "accessedOn": "2026-11-19",
+      "finding": "Handlungs-, Erfolgs- und Teilnahmeort gelesen; bloße Abrufbarkeit nicht pauschal mit tatbestandlichem Erfolg gleichgesetzt."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mdo14671BPE-A0036",
+      "reason": "Unabhängige Nachprüfung der im bisherigen Prüfstand zu weit gefassten Unsicherheit."
+    },
+    {
+      "target": "mdo14671BPE-A0228",
+      "reason": "Unabhängige Nachprüfung der im bisherigen Prüfstand zu weit gefassten Unsicherheit."
+    },
+    {
+      "target": "mdo14671BPE-A0230",
+      "reason": "Unabhängige Nachprüfung der im bisherigen Prüfstand zu weit gefassten Unsicherheit."
+    }
+  ],
+  "decision": {
+    "by": "Regel:ÖffentlichePrüfgrundlage",
+    "date": "2026-11-19",
+    "basis": "Drei getrennte, anhand gelesener öffentlicher Quellen eindeutig prüfbare Sachkerne; keine Änderung eines Wissenseintrags und keine Entscheidung über private Verfahren. Offene konkrete Fallfragen bleiben ausdrücklich offen."
+  },
+  "changes": [
+    {
+      "target": "mdo14671BPE-A0036",
+      "field": "status",
+      "before": "Nicht überprüfbar",
+      "after": "Abgeschlossen"
+    },
+    {
+      "target": "mdo14671BPE-A0036",
+      "field": "verdict",
+      "before": null,
+      "after": "Belegt"
+    },
+    {
+      "target": "mdo14671BPE-A0036",
+      "field": "reason",
+      "before": "Nicht überprüfbar – persönliche Darstellung. Private Lebens-, Familien-, Gesundheits- oder Ausbildungsangabe. Öffentlich zugängliche Unterlagen, mit denen sie sich prüfen ließe, gibt es nicht. Fehlende Bestätigung heißt nicht, dass die Angabe falsch ist. Bisheriger Prüfstand: Familienberuf als biografische Angabe; kein Berufsregistereintrag unabhängig zugeordnet.",
+      "after": "Ein zeitgenössischer Guardian-Bericht nennt ihre Mutter Anwältin; ein Registerabgleich fehlt."
+    },
+    {
+      "target": "mdo14671BPE-A0228",
+      "field": "status",
+      "before": "Nicht überprüfbar",
+      "after": "Abgeschlossen"
+    },
+    {
+      "target": "mdo14671BPE-A0228",
+      "field": "verdict",
+      "before": null,
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "mdo14671BPE-A0228",
+      "field": "reason",
+      "before": "Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Der benannte Einzelfall ist nicht identifiziert. § 130 knüpft an Tatbestandsvoraussetzungen und Kontext an, nicht an ein abstraktes Verbot jeder Statistik.",
+      "after": "§ 130 verbietet nicht das Auflisten von Kriminalstatistiken als solches. Entscheidend sind die gesetzlichen Inhalts- und Kontextmerkmale, etwa Hassaufstachelung oder Menschenwürdeangriffe unter den jeweiligen Voraussetzungen. Auch eine richtige Zahl kann Bestandteil eines strafbaren Gesamtzusammenhangs sein; aus einem solchen Fall folgt kein allgemeines Statistikverbot. Die pauschale Aussage lässt diese Unterscheidung aus. Welchen unbenannten Fall Seibt meint, bleibt getrennt ungeklärt; Kaiser wird ihr nicht als sicherer Bezug zugeschrieben."
+    },
+    {
+      "target": "mdo14671BPE-A0230",
+      "field": "status",
+      "before": "Nicht überprüfbar",
+      "after": "Abgeschlossen"
+    },
+    {
+      "target": "mdo14671BPE-A0230",
+      "field": "verdict",
+      "before": null,
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "mdo14671BPE-A0230",
+      "field": "reason",
+      "before": "Nicht überprüfbar – zu unbestimmt. Ohne bestimmten Bezug, Zeitraum, Einzelfall oder Maßstab lässt sich die Aussage nicht an Daten oder Entscheidungen prüfen. Bisheriger Prüfstand: Auslandsäußerung, Staatsangehörigkeit, Tatort und Weiterverbreitung haben jeweils eigene Anknüpfungen. Die gelesenen Normen rechtfertigen kein abschließendes Urteil über die konkrete Aufnahme.",
+      "after": "Ein deutscher Upload kann eigene rechtliche Anknüpfungen begründen. Die vorgelagerte Vorstellung einer allein wegen des US-Aufenthalts außerhalb deutschen Strafrechts liegenden Äußerung ist jedoch zu weit: § 5 nennt für die hier besprochenen Kennzeichen- und bestimmten Volksverhetzungsdelikte besondere Auslandsanknüpfungen, unter anderem deutsche Täterschaft oder inländische Lebensgrundlage und inländische Verbreitung/Zugänglichkeit. § 7 und § 9 enthalten weitere, jeweils eigene Voraussetzungen. Keine pauschale US-Immunität und keine automatische Strafbarkeit jeder Veröffentlichung; der konkrete Mitschnitt wird damit nicht strafrechtlich entschieden."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-19",
+      "agent": "Codex",
+      "change": "Bisherigen Zustand erhalten, Quellen selbst gelesen, begrenzte Korrektur umgesetzt; Veröffentlichung nur nach PR-Freigabe."
+    }
+  ]
+}
