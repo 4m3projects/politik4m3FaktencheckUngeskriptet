@@ -39,7 +39,7 @@ Fälle A und B brauchen **mindestens zwei dokumentierte Recherchedurchgänge** (
 Ein Faktencheck soll nicht nur Fehler finden, sondern auch zutreffende Aussagen erkennen und dokumentieren. **Eine belegte Aussage ist ein vollwertiges Rechercheergebnis** und wird genauso sorgfältig erfasst, begründet und mit Quellen versehen wie eine widerlegte.
 
 - Gezielt nach Belegen **und** Gegenbelegen suchen, nicht nur nach Fehlern.
-- Die sachliche Bewertung (sechs Kategorien) bleibt von allen Zusatzkriterien getrennt: Rhetorik-Hinweise ([AGENTEN_RHETORIK.md](AGENTEN_RHETORIK.md)) und die berechnete Faktenampel ([AMPEL.md](AMPEL.md)) verändern keine Einzelbewertung und werden nicht vermischt.
+- Die sachliche Bewertung (sechs Kategorien) bleibt von allen Zusatzkriterien getrennt: Rhetorik-Hinweise ([AGENTEN_RHETORIK.md](AGENTEN_RHETORIK.md)) und die berechnete Faktenampel ([FAKTENINDEX.md](FAKTENINDEX.md)) verändern keine Einzelbewertung und werden nicht vermischt.
 - Keine Einstufung ändern, um eine Ampelfarbe, eine Quote oder ein „ausgewogenes“ Bild zu erreichen.
 
 ## 4. Recherche nachvollziehbar dokumentieren: Feld `research`
