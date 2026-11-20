@@ -32,3 +32,9 @@ Die betroffenen Krall-Verknüpfungen zu beiden Reaktionen und die neuen Alfred/L
 Weiterhin offen im hier bearbeiteten Stand: 17 Aussagen im Lüning-Original, vier in Alfred/Krall, vier in Alfred/Lüning, drei in Alfred/Naomi und 13 in Hank/Naomi. Die separate Naomi-Nachprüfung in PR #79 bleibt eigenständig und reduziert dort zwölf offene Aussagen auf zwei Buchprüfungen. Dieser Stand importiert sie nicht nochmals.
 
 Bei Krall und Abdel-Samad bestehen weiterhin erhebliche Erfassungslücken außerhalb der bisherigen Auswahl, auch wenn keine bereits erfasste Aussage mehr einen Arbeitsstatus hat. Die Ampelregeln und die Kennzeichnung des Prüfumfangs bleiben erhalten. Keine Behauptung, sämtliche Videos seien vollständig geprüft.
+
+## Technische Kontrolle
+
+Stand 2080c3e: 128 JavaScript-Tests, 116 PowerShell-Testfälle, 17 Browserprüfungen, Generator-Prüfmodus aller neun Videos, Wissensdatenbank und Publikationsfilter erfolgreich. Veraltete erwartete Bestandszahlen wurden nach dem ersten fehlgeschlagenen PowerShell-Lauf korrigiert; der erneute vollständige Lauf bestand.
+
+Anschließend neueren main-Stand 08a6a57 konfliktfrei integriert. Dessen verpflichtende Kurzbegründungen wurden für 19 neue eingeschränkte Bewertungen aus den bereits vorhandenen Begründungen verdichtet. Dadurch ändern sich weder Urteile noch Prüfstichtage. Der integrierte Veröffentlichungsstand durchläuft zusätzlich die GitHub-CI.

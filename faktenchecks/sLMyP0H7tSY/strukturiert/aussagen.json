@@ -268,7 +268,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Die Firmenchronik stützt Jahr und Ausbildung, nennt aber Theresia als Gründerin und belegt keine bestimmte Berufsakademie."
     },
     {
       "id": "sLMyP0H7tSY-A0002",
@@ -859,7 +860,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Die bestätigten Werte betreffen die Zinsbindungsfrist des Bundesportfolios, keine vollständige Statistik aller Restlaufzeiten."
     },
     {
       "id": "sLMyP0H7tSY-A0013",
@@ -1066,7 +1068,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Öffentliche Unternehmenshilfen stabilisierten Banken auch indirekt; damit ist nicht jeder einzelne Bankenhilfefall untersucht."
     },
     {
       "id": "sLMyP0H7tSY-A0017",
@@ -1263,7 +1266,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Der Entwurf verbietet programmierbares Geld; andere gesetzliche Zahlungsbeschränkungen werden dadurch nicht ausgeschlossen."
     },
     {
       "id": "sLMyP0H7tSY-A0021",

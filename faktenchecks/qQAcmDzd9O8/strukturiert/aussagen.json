@@ -408,7 +408,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Das Vereinsregister nennt 50 Jahre und rund 82 Meter; der ursprüngliche Bergungs- und Messbericht wurde nicht kontrolliert."
     },
     {
       "id": "qQAcmDzd9O8-A0004",
@@ -741,7 +742,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Die Nachprüfung betrifft die Ostantarktis und andere Zeiträume; etwa ein Drittel ergibt sich nur für eine Modellvariante."
     },
     {
       "id": "qQAcmDzd9O8-A0010",
@@ -1022,7 +1024,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Rund 8,7 Monate ergeben sich als eigene Näherung aus gerundeten Bilanzdaten ohne die negative End-of-life-Gutschrift."
     },
     {
       "id": "qQAcmDzd9O8-A0016",
@@ -1294,7 +1297,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "87 Millionen DM waren 1981 eine Schätzung des gesamten GROWIAN-Programms; die historische Forschung nennt rund 90 Millionen."
     },
     {
       "id": "qQAcmDzd9O8-A0021",
@@ -1534,7 +1538,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Die frühere Prognose ist dokumentiert, enthielt jedoch Bedingungen und zeitliche Unsicherheiten, die Alfreds Kurzfassung auslässt."
     },
     {
       "id": "qQAcmDzd9O8-A0025",
@@ -1608,7 +1613,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Der EBA-Rekord bezeichnet die Kernkapitalquote einer Teststichprobe, nicht den absoluten Geldbestand sämtlicher EU-Banken."
     },
     {
       "id": "qQAcmDzd9O8-A0026",
@@ -1713,7 +1719,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Die Hilfen gingen wesentlich an pandemiebetroffene Unternehmen und schützten zugleich Banken indirekt vor Kreditausfällen."
     },
     {
       "id": "qQAcmDzd9O8-A0028",

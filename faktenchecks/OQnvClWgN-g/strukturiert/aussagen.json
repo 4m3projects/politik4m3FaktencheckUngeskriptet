@@ -768,7 +768,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Neben Bankenstützung dokumentiert die EZB einen schweren realwirtschaftlichen Einbruch und Hilfen für Unternehmenskredite."
     },
     {
       "id": "OQnvClWgN-g-A0009",
@@ -900,7 +901,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Hollandse Kust Zuid wurde ohne Erzeugungssubvention realisiert; der Netzanschluss war öffentlich finanziert."
     },
     {
       "id": "OQnvClWgN-g-A0011",
@@ -1240,7 +1242,8 @@
         ],
         "missingInformation": "Weltweit vergleichbare Flächen- und Volumenmessungen mit der behaupteten Definition, historischem Maximum und Enddatum zum Aufnahmezeitpunkt.",
         "conflicts": null
-      }
+      },
+      "shortReason": "Die gelesenen globalen Daten reichen bis 2024 und messen Hartkorallenbedeckung, keinen aktuellen Weltvolumenrekord."
     },
     {
       "id": "OQnvClWgN-g-A0017",
@@ -1819,7 +1822,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Kralls bedingte Prognose beschrieb Kreditkontraktion; 2020 stiegen Unternehmenskredite und die Kapitalquote der EBA-Testbanken."
     },
     {
       "id": "OQnvClWgN-g-A0028",
@@ -2006,7 +2010,8 @@
         ],
         "missingInformation": "Definierte deutsche Politikerpopulation, Erhebungszeitpunkt, vergleichbarer Intelligenztest und repräsentative Bevölkerungsstichprobe.",
         "conflicts": null
-      }
+      },
+      "shortReason": "Schwedische Messdaten und deutsche Einschätzungsumfragen belegen keinen niedrigeren Intelligenzdurchschnitt deutscher Politiker."
     }
   ]
 }

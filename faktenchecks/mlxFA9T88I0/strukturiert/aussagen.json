@@ -16804,7 +16804,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Kreditausfälle können Banken belasten; der Einzelfall hängt von Betroffenheit, Sicherheiten und bereits gebildeter Vorsorge ab."
     },
     {
       "id": "mlxFA9T88I0-A0249",
@@ -22684,7 +22685,8 @@
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Der Inflationsvergleich lässt Zahlungsfunktion, Laufzeit und die möglichen Kursschwankungen von Staatsanleihen außer Betracht."
     },
     {
       "id": "mlxFA9T88I0-A0357",
