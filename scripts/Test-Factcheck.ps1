@@ -610,6 +610,8 @@ Case 'Kapitel-3-Bestand bleibt bis auf dokumentierte Hauptgespraechsvorkommen er
         $now=ConvertFrom-FactcheckJson (ConvertTo-FactcheckJson @($script:current.claims | Where-Object id -CEQ $old.id)[0])
         # Kurzbegruendung (docs/KURZBEGRUENDUNG.md) verdichtet nur die bestehende Begruendung; kein Altbestandsinhalt.
         $now.PSObject.Properties.Remove('shortReason')
+        # Bedeutungsfaktor (docs/FAKTENINDEX.md) ist eine Gewichtung fuer den Faktenindex, keine Aenderung des Altbestands.
+        $now.PSObject.Properties.Remove('factIndex')
         $added=@($now.occurrences | Where-Object {$_.id -cnotin $old.occurrences.id})
         if($added.Count){
             Check-True ($script:laterExtraOccurrences -ccontains $old.id) ('Unerwartetes Zusatzvorkommen: '+$old.id)
