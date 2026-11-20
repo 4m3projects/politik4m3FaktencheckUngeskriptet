@@ -783,8 +783,21 @@ a[href*="youtube.com/"] .btn::before, a[href*="youtu.be/"] .btn::before { margin
 .rang-filter { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 14px; }
 .rang-filter button { font: inherit; font-size: .9rem; padding: 5px 12px; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--text-2); cursor: pointer; }
 .rang-filter button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent-ink); border-color: transparent; }
+.rang-tabs { display: flex; gap: 4px; margin: 0 0 14px; border-bottom: 1px solid var(--line); }
+.rang-tabs a { padding: 8px 14px; text-decoration: none; color: var(--text-2); border-bottom: 2px solid transparent; margin-bottom: -1px; }
+.rang-tabs a[aria-current="page"] { color: var(--accent-ink); border-bottom-color: var(--accent); font-weight: 600; }
+.rang-filterzeile { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 8px 16px; margin: 0 0 14px; }
+.rang-filterzeile .rang-filter { margin: 0; }
+.rang-kanalwahl { font-size: .9rem; color: var(--text-2); }
+.rang-kanalwahl select { font: inherit; padding: 5px 8px; border-radius: 8px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--text); max-width: 100%; }
+.rang-kanal-kopf { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 14px; margin: 6px 0 4px; }
+.rang-kanal-kopf p { margin: 0; }
 @media (max-width: 640px) {
   .rang-item { grid-template-columns: 2.2rem 1fr; }
   .rang-score { grid-column: 2; }
   .rang-place { font-size: 1.15rem; }
 }
+.rang-kanal-titel { margin-bottom: 16px; }
+.rang-kanal-titel .eyebrow { margin: 0; }
+.rang-kanal-titel > p.small { color: var(--text-3); }
+.rang-links { margin-top: 14px; }

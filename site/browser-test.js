@@ -440,6 +440,37 @@ async function step(name, fn) {
     await page.waitForSelector('#claims .claim, .tabs');
   });
 
+  await step('Kanal-Rangliste: Reiter Kanäle, Kanalseite, Kanalauswahl, Kanalname auf der Videoseite verlinkt', async () => {
+    await page.goto(base + '#/rangliste');
+    await page.waitForSelector('.rang-tabs');
+    await page.locator('.rang-tabs a', { hasText: 'Kanäle' }).click();
+    await page.waitForSelector('.rang-kanal');
+    const scores = await page.locator('ol.rang > .rang-kanal .ampel').evaluateAll(els => els.map(e => Number(e.getAttribute('aria-label').replace(/[^0-9,]/g, '').replace(',', '.'))));
+    assert.ok(scores.length > 0, 'mindestens ein Kanal mit Platz');
+    for (let i = 1; i < scores.length; i++) assert.ok(scores[i - 1] >= scores[i], 'Kanäle absteigend nach Kanalwert');
+    const name = (await page.locator('ol.rang > .rang-kanal .rang-title a').first().textContent()).trim();
+    await page.locator('ol.rang > .rang-kanal .rang-title a').first().click();
+    await page.waitForSelector('.rang-kanal-kopf');
+    assert.equal((await page.locator('main h1, #inhalt h1').first().textContent()).trim(), name);
+    assert.equal(await page.locator('.mainnav a[aria-current="page"]').textContent(), 'Rangliste');
+    if (shots) await page.screenshot({ path: path.join(shots, 'rangliste-kanal.png'), fullPage: true });
+    /* Kanalauswahl in der Videoansicht führt zur Kanalseite. */
+    await page.goto(base + '#/rangliste');
+    await page.waitForSelector('[data-rang-kanal]');
+    const opt = await page.locator('[data-rang-kanal] option').nth(1).getAttribute('value');
+    await page.selectOption('[data-rang-kanal]', opt);
+    await page.waitForFunction(o => location.hash === '#/rangliste/kanal/' + o, opt);
+    await page.waitForSelector('.rang-kanal-kopf');
+    /* Auf einer Videoseite ist der Kanalname ein Link zur Kanal-Rangliste. */
+    await page.goto(base + '#/rangliste');
+    await page.waitForSelector('ol.rang .rang-title a');
+    await page.locator('ol.rang .rang-title a').first().click();
+    await page.waitForSelector('a.channel-link');
+    await page.locator('a.channel-link').first().click();
+    await page.waitForSelector('.rang-kanal-kopf');
+    if (shots) { await page.goto(base + '#/rangliste/kanaele'); await page.waitForSelector('.rang-kanal'); await page.screenshot({ path: path.join(shots, 'rangliste-kanaele.png'), fullPage: true }); }
+  });
+
   await step('Keine Skriptfehler in der Konsole', async () => {
     const relevant = consoleErrors.filter(e => !/net::ERR_FAILED|Failed to load resource/.test(e));
     assert.deepEqual(relevant, []);
