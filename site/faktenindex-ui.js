@@ -88,8 +88,9 @@ function fiDetails(v, r = fiRate(v)) {
       <li>Geprüft, Ergebnis ungeklärt (nicht ausreichend belegbar): <b>${cnt.ungeklaert}</b></li>
       <li>Prüfung begonnen: <b>${cnt.in_pruefung}</b></li>
       <li>Noch nicht geprüft: <b>${cnt.ungeprueft}</b></li>
+      ${cnt.zuordnung_offen ? `<li>Zitat, Haltung des Videos noch ungeklärt: <b>${cnt.zuordnung_offen}</b></li>` : ''}
     </ul>
-    <p class="small">Prüfabdeckung = geprüfte ÷ alle relevanten Tatsachenbehauptungen = ${r.done} ÷ ${r.done + r.pending}${r.coverage == null ? '' : ' = ' + FactIndex.percent(r.coverage)}. Sie ist unabhängig vom Index: Eine hohe Abdeckung heißt nicht, dass viel belegt ist. Nicht mitgezählt, weil keine bewertbare Tatsachenbehauptung: ${cnt.nicht_pruefbar} nicht überprüfbar, ${cnt.meinung} Meinungen oder Prognosen${cnt.fremdbezug ? `, ${cnt.fremdbezug} nur erwähnt oder zurückgewiesen` : ''}${cnt.duplikat ? `, ${cnt.duplikat} Wiederholungen` : ''}.</p>`;
+    <p class="small">Prüfabdeckung = geprüfte ÷ alle relevanten Tatsachenbehauptungen = ${r.done} ÷ ${r.done + r.pending}${r.coverage == null ? '' : ' = ' + FactIndex.percent(r.coverage)}. Sie ist unabhängig vom Index: Eine hohe Abdeckung heißt nicht, dass viel belegt ist. Nicht mitgezählt, weil keine bewertbare Tatsachenbehauptung: ${cnt.nicht_pruefbar} nicht überprüfbar, ${cnt.meinung} Meinungen oder Prognosen${cnt.fremdbezug ? `, ${cnt.fremdbezug} nur erwähnt oder zurückgewiesen` : ''}${cnt.zitat ? `, ${cnt.zitat} Aussagen anderer Personen, die das Video sich nicht zu eigen macht` : ''}${cnt.duplikat ? `, ${cnt.duplikat} Wiederholungen` : ''}.</p>`;
   const weighted = r.contributions.filter(x => x.R !== FactIndex.CONFIG.weight.default);
   const infl = weighted.slice().sort((a, b) => Math.abs(b.R - 1) - Math.abs(a.R - 1)).slice(0, 8).map(x => {
     const c = byId.get(x.id);
@@ -115,8 +116,37 @@ function fiDetails(v, r = fiRate(v)) {
   </details>`;
 }
 
-/* Kleine Kennzeichnung im Kopf einer Aussage, nur wenn der Faktor vom Standard abweicht oder strittig ist. */
+/* Wer sagt es? Haltung des Videos zu Aussagen anderer Personen (claims[].attribution) in Worten. */
+const FI_STANCE = {
+  'Übernommen': 'Das Video macht sich die Aussage zu eigen',
+  'Nur wiedergegeben': 'Das Video gibt die Aussage nur wieder, ohne sie sich zu eigen zu machen',
+  'Distanziert': 'Das Video widerspricht der Aussage oder stellt sie richtig',
+  'Ungeklärt': 'Die Haltung des Videos zu dieser Aussage ist noch nicht geklärt'
+};
+function fiSpeakerText(c) {
+  const a = FactIndex.attributionOf(c);
+  if (!a) return 'Das Video selbst (Ersteller, Moderation, Kanalfigur oder Gesprächsteilnehmer); nicht als Zitat gekennzeichnet.';
+  const who = a.statementBy === 'Gast' ? `Gast im Video: ${a.person}` : `Zitierte Person: ${a.person} (${a.presentation})`;
+  const stance = a.statementBy === 'Gast' && a.creatorStance === 'Nur wiedergegeben' ? 'Das Video lässt die Aussage des Gastes unwidersprochen stehen' : FI_STANCE[a.creatorStance] || a.creatorStance;
+  const fact = c.kind === 'Tatsachenbehauptung' && c.verdict !== 'Meinung / Prognose';
+  const effect = !fact ? '' : a.unresolved ? ' Bis das geklärt ist, zählt sie nicht im Faktenindex.' : a.counted ? ' Sie zählt deshalb wie eine eigene Aussage des Videos.' : ' Sie wird dem Video deshalb nicht als Fehler oder Beleg angerechnet.';
+  return `${who}. ${stance}: ${a.basis}${/[.!?]$/.test(String(a.basis).trim()) ? '' : '.'}${effect}`;
+}
+
+/* Kennzeichnung „Zitat: Person“ bzw. „Gast: Person“ im Kopf einer Aussage, nur bei Aussagen anderer Personen. */
+function fiSpeakerBadge(c) {
+  const a = FactIndex.attributionOf(c);
+  if (!a) return '';
+  const fact = c.kind === 'Tatsachenbehauptung' && c.verdict !== 'Meinung / Prognose';
+  const tail = !fact ? '' : a.unresolved ? ' · Haltung ungeklärt' : a.counted ? (a.statementBy === 'Gast' ? '' : ' · vom Video übernommen') : ' · nicht dem Video angerechnet';
+  return `<span class="badge plain fi-speaker${fact && !a.counted ? ' fi-speaker-foreign' : ''}" data-tip="${fiEsc(fiSpeakerText(c))}">${a.statementBy === 'Gast' ? 'Gast' : 'Zitat'}: ${fiEsc(a.person)}${tail}</span>`;
+}
+
+/* Kleine Kennzeichnung im Kopf einer Aussage: Zitat/Gast und Bedeutungsfaktor (nur wenn vom Standard abweichend oder strittig). */
 function fiClaimBadge(c) {
+  return fiSpeakerBadge(c) + fiWeightBadge(c);
+}
+function fiWeightBadge(c) {
   const x = c?.factIndex;
   if (!x || !('weight' in x)) return '';
   const R = FactIndex.weightOf(c);
@@ -132,6 +162,8 @@ function fiClaimBlock(c, v) {
   const why = {
     meinung: 'Meinungen, Prognosen und Werturteile gehen nicht in den Faktenindex ein.',
     fremdbezug: 'Das Video macht sich diese Aussage nicht zu eigen (nur erwähnt, nachgefragt oder zurückgewiesen); sie zählt deshalb nicht.',
+    zitat: 'Die Aussage stammt von einer anderen Person, und das Video macht sie sich nicht zu eigen. Ihr Faktenstatus steht zur Information hier, zählt aber weder für noch gegen das Video.',
+    zuordnung_offen: 'Die Aussage stammt von einer anderen Person; ob das Video sie sich zu eigen macht, ist noch nicht geklärt. Bis dahin zählt sie nicht im Index und senkt die Prüfabdeckung.',
     duplikat: `Wiederholung von ${x.duplicateOf ? String(x.duplicateOf).replace(v.id + '-', '') : 'einer anderen Aussage'}; sie wird nur dort einmal gezählt.`,
     nicht_pruefbar: 'Für diese Aussage gibt es keine öffentliche Prüfgrundlage. Sie zählt weder für noch gegen den Index und nicht zur Prüfabdeckung.',
     ungeprueft: 'Noch nicht geprüft: Die Aussage zählt nicht im Index (weder als widerlegt noch als ungeklärt), senkt aber die Prüfabdeckung, bis sie geprüft ist.',
@@ -141,7 +173,7 @@ function fiClaimBlock(c, v) {
   if (x.assessedBy) agents.add(x.assessedBy);
   (x.reviews || []).forEach(r => r?.agent && agents.add(r.agent));
   (c.research?.rounds || []).forEach(r => r?.agent && agents.add(r.agent));
-  const rows = [`<dt>Faktenstatus</dt><dd>${fiEsc(status)} · ${fiEsc(info.label)}</dd>`];
+  const rows = [`<dt>Faktenstatus</dt><dd>${fiEsc(status)} · ${fiEsc(info.label)}</dd>`, `<dt>Wer sagt das?</dt><dd>${fiEsc(fiSpeakerText(c))}</dd>`];
   if (!info.indexed) {
     rows.push(`<dt>Im Faktenindex</dt><dd>${fiEsc(why)}</dd>`);
   } else {
@@ -189,6 +221,7 @@ function fiMethod(demo) {
       <ul>
         <li><strong>Teilweise belegt</strong> und <strong>Irreführend / Kontext fehlt</strong> sind Mischfälle. Wenn die Prüfung genauer zeigt, welcher Teil belegt, widerlegt oder offen ist, dürfen die Prüfer andere Anteile setzen – nur mit Begründung, die bei der Aussage steht.</li>
         <li><strong>Gar nicht</strong> in den Index gehen ein: Meinungen, Prognosen, Werturteile und Satire; noch nicht geprüfte und laufende Prüfungen (ungeprüft ist weder falsch noch ungeklärt); nicht überprüfbare Aussagen ohne öffentliche Prüfgrundlage; Aussagen, die das Video nur erwähnt oder zurückweist; Wiederholungen derselben Aussage (jede Aussage zählt einmal, egal wie oft sie fällt).</li>
+        <li id="zitate"><strong>Wer sagt es?</strong> Gemessen wird das Video, nicht jede Person, die darin vorkommt. Zeigt ein Video einen Ausschnitt, liest ein Zitat vor oder blendet einen Beitrag ein, steht bei der Aussage „Zitat: Person“. Eine falsche Aussage einer zitierten Person zählt nur dann gegen das Video, wenn es sie sich zu eigen macht (etwa als Beleg für die eigene Argumentation). Gibt das Video sie nur wieder oder widerspricht es ihr, wird sie dem Video nicht angerechnet. Aussagen von Gästen in Gesprächen zählen wie Aussagen des Videos, außer das Video widerspricht ihnen deutlich. Der Faktenstatus der Aussage selbst bleibt sichtbar.</li>
         <li>Gibt es keine bewertbare Tatsachenbehauptung, steht „Nicht bewertbar“ statt einer Zahl.</li>
       </ul>
       <h3>Bedeutungsfaktor</h3>

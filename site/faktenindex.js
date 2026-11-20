@@ -15,6 +15,8 @@
  *   I = Σ(R·p) / Σ[R·(p + 5·f + u)]
  * Nur abgeschlossen bewertete Tatsachenbehauptungen gehen ein. Meinungen/Prognosen, noch nicht geprüfte, laufende
  * und nicht überprüfbare Aussagen zählen nicht (ungeprüft ist nicht falsch und nicht ungeklärt).
+ * Wer sagt es (claims[].attribution, seit Regelstand 1.3): Aussagen zitierter Dritter zählen nur, wenn das Video sie
+ * sich zu eigen macht; Aussagen von Gesprächsgästen zählen nicht, wenn das Video ihnen deutlich widerspricht.
  */
 (function (root, factory) {
   const api = factory();
@@ -27,7 +29,7 @@
 
   /* Zentrale Konfiguration. Schwellen und Mindestabdeckung gelten für alle Seiten gleich. */
   const CONFIG = deepFreeze({
-    version: '1.2',
+    version: '1.3',
     since: '2026-11-20',
     refutedFactor: 5,                  // widerlegter Anteil zählt fünffach (bis 20.11.2026: 10)
     decimals: 3,                       // Anzeige und Ampelvergleich auf drei Nachkommastellen
@@ -62,7 +64,16 @@
     weightStatuses: ['Vorläufig', 'Gegengeprüft', 'Strittig'],
     reviewResults: ['Bestätigt', 'Abweichend'],
     /* Vorkommen, mit denen sich das Video eine Aussage nicht selbst zu eigen macht (wie in statistik.json). */
-    foreignRoles: ['Rückfrage', 'Fremdbezug', 'Zurückweisung']
+    foreignRoles: ['Rückfrage', 'Fremdbezug', 'Zurückweisung'],
+    /* Wer sagt es? (claims[].attribution, docs/FAKTENINDEX.md Abschnitt 4a). Ohne Feld: Aussage des Videos selbst
+       (Ersteller, Moderation, Kanalfigur). Mit Feld: Aussage einer anderen Person; sie zählt nur bei den hier
+       genannten Haltungen des Videos zur Aussage. „Ungeklärt“ zählt nicht im Index, aber als ausstehend in der Prüfabdeckung. */
+    attribution: {
+      statementBy: ['Zitierte Person', 'Gast'],
+      presentations: ['Einspieler', 'Vorgelesenes Zitat', 'Einblendung', 'Sinngemäße Wiedergabe', 'Gespräch'],
+      stances: ['Übernommen', 'Nur wiedergegeben', 'Distanziert', 'Ungeklärt'],
+      counted: { 'Zitierte Person': ['Übernommen'], 'Gast': ['Übernommen', 'Nur wiedergegeben'] }
+    }
   });
 
   const LEVELS = deepFreeze({
@@ -82,6 +93,8 @@
     nicht_pruefbar: { label: 'Nicht überprüfbar', indexed: false, coverage: null },
     meinung: { label: 'Meinung, Prognose oder Werturteil', indexed: false, coverage: null },
     fremdbezug: { label: 'Nur erwähnt oder zurückgewiesen', indexed: false, coverage: null },
+    zitat: { label: 'Aussage einer anderen Person, nicht dem Video angerechnet', indexed: false, coverage: null },
+    zuordnung_offen: { label: 'Haltung des Videos zur zitierten Aussage ungeklärt', indexed: false, coverage: 'pending' },
     duplikat: { label: 'Wiederholung einer anderen Aussage', indexed: false, coverage: null }
   });
 
@@ -108,8 +121,19 @@
     return occ.some(o => !CONFIG.foreignRoles.includes(o.role) && o.roleStatus !== 'Ungeklärt');
   }
 
+  /* Wer sagt es? null = das Video selbst; sonst { statementBy, person, presentation, creatorStance, counted }. */
+  function attributionOf(c) {
+    const a = c && c.attribution && typeof c.attribution === 'object' && !Array.isArray(c.attribution) ? c.attribution : null;
+    if (!a) return null;
+    const ok = (CONFIG.attribution.counted[a.statementBy] || []).includes(a.creatorStance);
+    return { ...a, counted: ok, unresolved: a.creatorStance === 'Ungeklärt' };
+  }
+
   function classify(c) {
     if (!c || c.kind !== 'Tatsachenbehauptung' || c.verdict === 'Meinung / Prognose') return 'meinung';
+    const a = attributionOf(c);
+    if (a && a.unresolved) return 'zuordnung_offen';
+    if (a && !a.counted) return 'zitat';
     if (!ownStatement(c)) return 'fremdbezug';
     if (fi(c)?.duplicateOf) return 'duplikat';
     if (c.status === 'Nicht überprüfbar') return 'nicht_pruefbar';
@@ -154,10 +178,10 @@
     const index = den > 0 ? clamp(num / den) : null;
     const unweighted = den1 > 0 ? clamp(num1 / den1) : null;
     const done = counts.belastbar + counts.ungeklaert;
-    const pending = counts.ungeprueft + counts.in_pruefung;
+    const pending = counts.ungeprueft + counts.in_pruefung + counts.zuordnung_offen;
     const coverage = done + pending > 0 ? done / (done + pending) : null;
-    /* Erfasste Tatsachenbehauptungen (für die Erfassungsdichte je Stunde): auch nicht überprüfbare. */
-    const facts = done + pending + counts.nicht_pruefbar;
+    /* Erfasste Tatsachenbehauptungen (für die Erfassungsdichte je Stunde): auch nicht überprüfbare, ohne Zitate. */
+    const facts = done + pending - counts.zuordnung_offen + counts.nicht_pruefbar;
     const weighted = parts.filter(x => x.R !== CONFIG.weight.default).length;
     return {
       index, indexRounded: round(index), unweighted, unweightedRounded: round(unweighted),
@@ -225,7 +249,33 @@
   const txt = x => typeof x === 'string' && x.trim().length > 0;
   const KEYS = ['weight', 'weightReason', 'weightStatus', 'assessedBy', 'assessedOn', 'assessedBeforeVerdict', 'shares', 'sharesReason', 'duplicateOf', 'reviews', 'history'];
 
+  const AKEYS = ['statementBy', 'person', 'presentation', 'creatorStance', 'basis', 'assessedBy', 'assessedOn'];
+
+  /* claims[].attribution: Wer sagt es, und wie geht das Video damit um? */
+  function validateAttribution(c) {
+    const e = [];
+    if (c?.attribution === undefined) return e;
+    const a = c.attribution;
+    const at = `${c.id}: attribution`;
+    const A = CONFIG.attribution;
+    if (!a || typeof a !== 'object' || Array.isArray(a)) return [`${at} muss ein Objekt sein.`];
+    for (const k of Object.keys(a)) if (!AKEYS.includes(k)) e.push(`${at}.${k} ist kein bekanntes Feld.`);
+    if (!A.statementBy.includes(a.statementBy)) e.push(`${at}.statementBy muss ${A.statementBy.join(' oder ')} sein (Aussagen des Videos selbst brauchen kein attribution-Feld).`);
+    if (!txt(a.person)) e.push(`${at}.person (Name oder Beschreibung der Person) fehlt.`);
+    if (!A.presentations.includes(a.presentation)) e.push(`${at}.presentation muss ${A.presentations.join(', ')} sein.`);
+    else if ((a.statementBy === 'Gast') !== (a.presentation === 'Gespräch')) e.push(`${at}: „Gespräch“ gilt genau für Gäste; zitierte Personen erscheinen als ${A.presentations.filter(x => x !== 'Gespräch').join(', ')}.`);
+    if (!A.stances.includes(a.creatorStance)) e.push(`${at}.creatorStance muss ${A.stances.join(', ')} sein.`);
+    if (!txt(a.basis)) e.push(`${at}.basis (woran die Haltung des Videos erkennbar ist) fehlt.`);
+    if (!txt(a.assessedBy)) e.push(`${at}.assessedBy (zuordnender Agent) fehlt.`);
+    if (!ISO.test(a.assessedOn || '')) e.push(`${at}.assessedOn muss ein Datum JJJJ-MM-TT sein.`);
+    return e;
+  }
+
   function validateClaim(c, ids) {
+    return [...validateAttribution(c), ...validateFactIndexField(c, ids)];
+  }
+
+  function validateFactIndexField(c, ids) {
     const e = [];
     const x = c?.factIndex;
     if (x === undefined) return e;
@@ -290,5 +340,5 @@
     return errors;
   }
 
-  return { CONFIG, LEVELS, CLASSES, classify, sharesOf, weightOf, weightLabel, contribution, compute, withoutClaim, levelFor, reviewStatus, rate, validateClaim, validateData, format: fmt, percent: pctText, round };
+  return { CONFIG, LEVELS, CLASSES, attributionOf, classify, sharesOf, weightOf, weightLabel, contribution, compute, withoutClaim, levelFor, reviewStatus, rate, validateClaim, validateData, format: fmt, percent: pctText, round };
 });

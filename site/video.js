@@ -80,6 +80,7 @@ function vcItem(entry, c, o, v, ctx) {
       ${entry.count > 1 ? `<span class="badge plain">Vorkommen ${entry.index} von ${entry.count}</span>` : ''}
       <span class="badge kind">Kapitel ${esc(c.chapter)}</span>
       <span class="badge kind">${esc(c.kind)}</span>
+      ${typeof fiSpeakerBadge === 'function' ? fiSpeakerBadge(c) : ''}
       ${issues}
       ${vcRhetFlags(rhetList)}
     </div>

@@ -196,6 +196,12 @@ function Assert-FactcheckData($Data) {
             $claimKeys += 'factIndex'
             if ($c.factIndex -isnot [pscustomobject]) { throw 'factIndex muss ein Objekt sein.' }
         }
+        # Wer sagt es? (docs/FAKTENINDEX.md, Abschnitt 4a): Aussage einer zitierten Person oder eines Gastes.
+        # Inhaltlich geprueft von site/faktenindex.js (node scripts/faktenindex.js pruefen); hier nur die Form.
+        if (@($c.PSObject.Properties.Name) -ccontains 'attribution') {
+            $claimKeys += 'attribution'
+            if ($c.attribution -isnot [pscustomobject]) { throw 'attribution muss ein Objekt sein.' }
+        }
         Assert-FactcheckKeys $c $claimKeys 'Aussage'
         if ($c.id -cnotmatch ('^' + [regex]::Escape($s.videoId) + '-A[0-9]{4,}$') -or $claimIds.ContainsKey($c.id)) { throw 'Doppelte/ungueltige Aussage-ID.' }
         if ($c.videoId -cne $s.videoId -or ($null -ne $c.legacyId -and $s.selectedLegacyIds -cnotcontains $c.legacyId)) { throw 'Aussage hat falsche Video-/Herkunftszuordnung.' }
