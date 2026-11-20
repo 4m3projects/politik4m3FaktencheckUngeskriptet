@@ -97,4 +97,3 @@ Im Folgeabschnitt sind die Auftritte A0102 belegt und der Rechtsfallkern A0168 t
 ## Integrationsprüfung am 20.11.2026
 
 [Codex] Neueren gemeinsamen Faktenindex aus PR #89 konfliktfrei übernommen; keine Indexregel oder Bedeutungsfaktoren geändert. 149 JavaScript-Tests und Faktenindex-Feldprüfung erfolgreich. Vor dieser Integration bestanden 117 PowerShell-Testfälle; der integrierte Stand wird zusätzlich durch die vollständige GitHub-CI geprüft. Browserprüfungen: 21 Hauptansicht, 17 Original-/Reaktionsansicht, 12 Rhetorik und 18 Wissensansicht erfolgreich. Die lokalen Testaufbauten kopieren jetzt die inzwischen eingeführten Seitensymbole; der Test des synthetischen Korrekturvorgangs wählt gezielt diesen Vorgang statt pauschal den ersten echten Eintrag. Die Sachbewertungen bleiben dadurch unverändert.
-
