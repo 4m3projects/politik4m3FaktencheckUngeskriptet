@@ -27,7 +27,7 @@
 
   /* Zentrale Konfiguration. Schwellen und Mindestabdeckung gelten für alle Seiten gleich. */
   const CONFIG = deepFreeze({
-    version: '1.1',
+    version: '1.2',
     since: '2026-11-20',
     refutedFactor: 5,                  // widerlegter Anteil zählt fünffach (bis 20.11.2026: 10)
     decimals: 3,                       // Anzeige und Ampelvergleich auf drei Nachkommastellen
@@ -42,8 +42,8 @@
     /* Abbildung der bestehenden Bewertungskategorien auf belegt (p), widerlegt (f), ungeklärt (u). */
     shares: {
       'Belegt': { p: 1, f: 0, u: 0 },
-      'Teilweise belegt': { p: 0.5, f: 0, u: 0.5 },
-      'Irreführend / Kontext fehlt': { p: 0.5, f: 0.5, u: 0 },
+      'Teilweise belegt': { p: 0.75, f: 0, u: 0.25 },
+      'Irreführend / Kontext fehlt': { p: 0.75, f: 0.25, u: 0 },
       'Widerlegt': { p: 0, f: 1, u: 0 },
       'Nicht ausreichend belegbar': { p: 0, f: 0, u: 1 }
     },

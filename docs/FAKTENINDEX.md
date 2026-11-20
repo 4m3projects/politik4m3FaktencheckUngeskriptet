@@ -31,8 +31,8 @@ Beispiele (R = 1): 10 belegt/0 widerlegt → 1,000; 10/1 → 0,667; 20/1 → 0,8
 | Kategorie / Status | p | f | u | Index | Prüfabdeckung |
 | --- | --- | --- | --- | --- | --- |
 | Belegt | 1 | 0 | 0 | ja | geprüft |
-| Teilweise belegt | 0,5 | 0 | 0,5 | ja | geprüft |
-| Irreführend / Kontext fehlt | 0,5 | 0,5 | 0 | ja | geprüft |
+| Teilweise belegt | 0,75 | 0 | 0,25 | ja | geprüft |
+| Irreführend / Kontext fehlt | 0,75 | 0,25 | 0 | ja | geprüft |
 | Widerlegt | 0 | 1 | 0 | ja | geprüft |
 | Nicht ausreichend belegbar (geprüft, ungeklärt) | 0 | 0 | 1 | ja | geprüft |
 | Offen (noch nicht geprüft) | – | – | – | nein | ausstehend |
@@ -47,8 +47,8 @@ Begründung der Abbildung:
 - **Fehlende Quelle ist kein Gegenbeweis.** „Nicht ausreichend belegbar“ ist ungeklärt (u), nie widerlegt.
 - **Ungeprüft ist weder widerlegt noch ungeklärt.** Offene und laufende Prüfungen gehen gar nicht in den Index ein, senken aber die Prüfabdeckung. „Noch nicht geprüft“ und „geprüft, aber ungeklärt“ bleiben getrennt.
 - **Nicht überprüfbar** heißt: Es gibt grundsätzlich keine öffentliche Prüfgrundlage (private Erlebnisse, interne Vorgänge …). Das ist kein Mangel der Faktenlage des Videos, sondern keine bewertbare Tatsachenbehauptung. Die Zahl steht trotzdem sichtbar in der Rechnung.
-- **Teilweise belegt** heißt in den Altdaten nicht einheitlich, ob der nicht belegte Teil offen oder falsch ist. Ohne genauere Angabe wird er deshalb als ungeklärt geführt (keine künstliche Genauigkeit). Zeigt die Prüfung einen widerlegten Teil, setzt der Agent eigene Anteile (siehe 4).
-- **Irreführend / Kontext fehlt**: Der wörtliche Kern stimmt meist, der erzeugte Eindruck nicht; daher halb belegt, halb widerlegt.
+- **Teilweise belegt** heißt in den Altdaten nicht einheitlich, ob der nicht belegte Teil offen oder falsch ist. In der Prüfpraxis bedeutet die Kategorie meist: Der Kern stimmt, Reichweite oder Details sind nicht vollständig belegt. Ohne genauere Angabe zählt sie deshalb zu drei Vierteln belegt und zu einem Viertel ungeklärt. Zeigt die Prüfung einen widerlegten Teil, setzt der Agent eigene Anteile (siehe 4).
+- **Irreführend / Kontext fehlt**: Der wörtliche Kern stimmt meist, es fehlt aber Kontext, sodass ein schiefer Eindruck entsteht. Ohne genauere Angabe zählt die Aussage deshalb zu drei Vierteln belegt und zu einem Viertel widerlegt. Ist der erzeugte Eindruck überwiegend falsch, setzt der Agent eigene Anteile.
 - Jede Aussage zählt **einmal**, egal wie viele Fundstellen sie hat. Identische Aussagen werden ohnehin zusammengeführt (Validator); inhaltlich gleiche, getrennt erfasste Aussagen markiert man mit `duplicateOf`.
 
 ## 3. Prüfabdeckung, Ampel und Bewertbarkeit
@@ -127,6 +127,7 @@ Jede Änderung von `weight` oder `shares` erhält einen Eintrag in `history` (Da
 | --- | --- | --- | --- |
 | 1.0 | 20.11.2026 | Einführung mit Widerlegungsfaktor 10 | Auftrag Jens |
 | 1.1 | 20.11.2026 | Widerlegungsfaktor 10 → 5 | Mit 10 begann Rot schon bei etwa 13 % widerlegter Aussagen und Grün verlangte höchstens etwa 2,5 %. Das war gegenüber der früheren Ampel (Grün unter 10 %, Rot ab 25 % Fehleranteil) deutlich zu streng. Mit 5 liegt Rot bei etwa 23 %, Grün bei höchstens etwa 4,8 %. Freigabe durch Jens. |
+| 1.2 | 20.11.2026 | Standardanteile: Teilweise belegt 0,5/0/0,5 → 0,75/0/0,25; Irreführend / Kontext fehlt 0,5/0,5/0 → 0,75/0,25/0 | Beide Kategorien bedeuten in der Prüfpraxis meist „Kern stimmt, Details oder Kontext fehlen“. Die halbe Wertung als ungeklärt bzw. widerlegt zog Erklärvideos mit vielen Verallgemeinerungen unverhältnismäßig nach unten (Beispiel MrWissen2go Frankreich: nur 2 Widerlegungen, Index 0,417). Freigabe durch Jens. |
 
 ## 8. Darstellung
 
