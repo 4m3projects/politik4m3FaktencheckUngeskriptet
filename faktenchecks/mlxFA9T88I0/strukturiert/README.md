@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Nachprüfungsstand 20.11.2026: Alle 99 ursprünglichen Prüfpunkte sind übertragen; der Bestand enthält 395 Datensätze, darunter drei reine Fremdbezüge. Von 312 eigenen Tatsachenbehauptungen sind 161 mit Urteil abgeschlossen, 148 mit begründeter Grenze der Überprüfbarkeit eingeordnet und 3 noch offen. Dazu kommen 80 Meinungen oder Prognosen. Erfasst sind die Prüfgegenstände der Altpunkte und gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs. Einzelne frühere Grenzen der Überprüfbarkeit werden außerdem gezielt kontrolliert; keine vollständige Hör-/Sichtprüfung und keine bestätigte Sprecherstatistik. Keine Statistik des vollständigen Videos.
+**Abdeckung: Teilbestand.** Nachprüfungsstand 20.11.2026: Alle 99 ursprünglichen Prüfpunkte sind übertragen; der Bestand enthält 395 Datensätze, darunter drei reine Fremdbezüge. Von 311 eigenen Tatsachenbehauptungen sind 163 mit Urteil abgeschlossen, 148 mit begründeter Grenze der Überprüfbarkeit eingeordnet und keine noch offen geblieben. Dazu kommen 81 Meinungen oder Prognosen. Erfasst sind die Prüfgegenstände der Altpunkte und gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs. Einzelne frühere Grenzen der Überprüfbarkeit werden außerdem gezielt kontrolliert; keine vollständige Hör-/Sichtprüfung und keine bestätigte Sprecherstatistik. Keine Statistik des vollständigen Videos.
 
 Stand: 2026-11-20 · Video: mlxFA9T88I0
 
@@ -13,8 +13,8 @@ A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfo
 - Ausgewaehlte bisherige Pruefpunkte: 99 von 99
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 392
-- Abgeschlossen: 241
-- Offen (noch nicht geprueft): 3
+- Abgeschlossen: 244
+- Offen (noch nicht geprueft): 0
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 148
 - Erfasste Behauptungsvorkommen: 436
@@ -24,24 +24,24 @@ A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfo
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
 - Nur referenzierte Aussagen ohne eigene Behauptung: 3
-- Meinungen: 63; Prognosen: 17
+- Meinungen: 63; Prognosen: 18
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 161 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 163 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 39 | 24.2 % |
-| Teilweise belegt | 87 | 54.0 % |
-| Irreführend / Kontext fehlt | 24 | 14.9 % |
+| Belegt | 39 | 23.9 % |
+| Teilweise belegt | 89 | 54.6 % |
+| Irreführend / Kontext fehlt | 24 | 14.7 % |
 | Widerlegt | 7 | 4.3 % |
 | Nicht ausreichend belegbar | 4 | 2.5 % |
-| Meinung / Prognose | 80 | nicht anwendbar |
+| Meinung / Prognose | 81 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
@@ -52,9 +52,9 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 312. Ohne verlaessliche Personenzuordnung: 312.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 311. Ohne verlaessliche Personenzuordnung: 311.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 312; mit unsicherem eigenem Aussagebezug: 312. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 311; mit unsicherem eigenem Aussagebezug: 311. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 - Plausibel: Sprecherzuordnung 447, Aussagebezug 447 Vorkommen.
