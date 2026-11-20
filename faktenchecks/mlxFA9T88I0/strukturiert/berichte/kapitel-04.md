@@ -1,6 +1,6 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Recherche weitgehend abgeschlossen (18.11.2026): Alle 99 ursprünglichen Prüfpunkte sind übertragen. Jede erfasste Aussage ist bewertet, als Meinung oder Prognose eingeordnet oder mit Grund als nicht überprüfbar gekennzeichnet; was grundsätzlich prüfbar, aber noch nicht recherchiert ist, steht ausdrücklich als Offen (noch nicht geprüft) und wird nachgearbeitet. Erfasst sind die Prüfgegenstände der Altpunkte und der gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs; Sprecher sind nicht bestätigt. Zusätzliche Inhalte ohne Altpunkt sind gesondert gekennzeichnet. Keine Statistik des vollständigen Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nachprüfungsstand 20.11.2026: Alle 99 ursprünglichen Prüfpunkte sind übertragen; der Bestand enthält 395 Datensätze, darunter drei reine Fremdbezüge. Von 312 eigenen Tatsachenbehauptungen sind 152 mit Urteil abgeschlossen, 148 mit begründeter Grenze der Überprüfbarkeit eingeordnet und 12 noch offen. Dazu kommen 80 Meinungen oder Prognosen. Erfasst sind die Prüfgegenstände der Altpunkte und gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs. Einzelne frühere Grenzen der Überprüfbarkeit werden außerdem gezielt kontrolliert; keine vollständige Hör-/Sichtprüfung und keine bestätigte Sprecherstatistik. Keine Statistik des vollständigen Videos.
 
 A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten. [Codex] 20.11.2026: A0248 und A0356 anhand des Originalplayer-Transkripts und selbst gelesener Primärquellen nachgeprüft. Übrige Arbeitsstände und fehlende audiovisuelle Kontrolle bleiben ausdrücklich bestehen.
 
@@ -553,9 +553,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md), Pruefpunkt 3 (C04-P03).
 
-**Eigene Beschreibung:** Der größte Teil der Alkoholmengen wird in Deutschland über Discounter verkauft.
+**Eigene Beschreibung:** Große Alkoholmengen würden über deutsche Discounter verkauft; Lüning erläutert dies im Zusammenhang mit dem Whiskyabsatz.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -578,29 +578,41 @@ Frueherer Suchbereich: [01:17:29–01:18:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Mengenanteile nach Vertriebsweg stammen meist aus kommerziellen Handelspanels. Eine solche Quelle wurde nicht gelesen. Unklar bleibt außerdem, ob Spirituosen oder alle alkoholischen Getränke gemeint sind.
+Der erneut gelesene Originaltext spricht von großen Mengen, nicht eindeutig von einer Mehrheit; die bisherige eigene Paraphrase war insoweit zu stark. Der BSI veröffentlicht für 2024 Circana-Daten, nach denen Markendiscounter 23 Prozent des Spirituosenabsatzes im dort abgegrenzten Lebensmittel-Einzelhandel erreichen. Diese Erhebung schließt unter anderem Harddiscounter und Fachhandel aus und belegt damit einen erheblichen Absatzkanal, keine Mehrheitsquote für sämtliche alkoholischen Getränke. Die gesondert gelesene NIQ-Zahl von 54,5 Prozent für den Außer-Haus-Konsum betrifft Konsumausgaben und eignet sich weder als Beleg noch als Widerlegung einer Mengenquote. Die allgemeine Bedeutung der Discounter ist gestützt; eine umfassende Mengenstatistik aller Getränkekategorien wurde damit nicht erstellt.
 
-Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Präzisierung der eigenen Paraphrase 20.11.2026 (Codex): vorher "Der größte Teil der Alkoholmengen wird in Deutschland über Discounter verkauft."; jetzt "Große Alkoholmengen würden über deutsche Discounter verkauft; Lüning erläutert dies im Zusammenhang mit dem Whiskyabsatz.". Originalumfeld 01:17:22–01:18:57 erneut gelesen; keine zusätzliche Mehrheits- oder Durchschnittsbehauptung unterstellt. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"Offen","kind":"Tatsachenbehauptung","verdict":null,"reason":"Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Mengenanteile nach Vertriebsweg stammen meist aus kommerziellen Handelspanels. Eine solche Quelle wurde nicht gelesen. Unklar bleibt außerdem, ob Spirituosen oder alle alkoholischen Getränke gemeint sind.","sourceIds":[]}. Jetzt Abgeschlossen / Teilweise belegt. Der erneut gelesene Originaltext spricht von großen Mengen, nicht eindeutig von einer Mehrheit; die bisherige eigene Paraphrase war insoweit zu stark. Der BSI veröffentlicht für 2024 Circana-Daten, nach denen Markendiscounter 23 Prozent des Spirituosenabsatzes im dort abgegrenzten Lebensmittel-Einzelhandel erreichen. Diese Erhebung schließt unter anderem Harddiscounter und Fachhandel aus und belegt damit einen erheblichen Absatzkanal, keine Mehrheitsquote für sämtliche alkoholischen Getränke. Die gesondert gelesene NIQ-Zahl von 54,5 Prozent für den Außer-Haus-Konsum betrifft Konsumausgaben und eignet sich weder als Beleg noch als Widerlegung einer Mengenquote. Die allgemeine Bedeutung der Discounter ist gestützt; eine umfassende Mengenstatistik aller Getränkekategorien wurde damit nicht erstellt.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [BSI: Daten aus der Alkoholwirtschaft 2025](https://www.spirituosen-verband.de/fileadmin/Datenablage/downloads/BSI-Datenbroschuere_2025.pdf) · Absatzdaten 2024; gedruckte Seiten 20–26, insbesondere Seite 23 zu Geschäftstypen und ausdrücklich eingeschränkter Erhebung. Circana-Daten vom Branchenverband veröffentlicht.
+  Quellenzugriff am 2026-11-20. Öffentliche Tabellen und Fußnoten selbst gelesen; keine eigene Handelspanelauswertung und kein Vollabgleich aller alkoholischen Getränke. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [NielsenIQ: Spirituosenumsätze im On-Premise-Bereich](https://nielseniq.com/global/de/insights/analysis/2025/mehr-als-die-halfte-der-spirituosenumsatze-in-deutschland-werden-im-on-premise-bereich-generiert/) · Eigene Marktforscher-Veröffentlichung zu 2024; 54,5 Prozent der Konsumausgaben im Außer-Haus-Konsum, keine entsprechende Mengenquote.
+  Quellenzugriff am 2026-11-20. Abschnitte zur Marktentwicklung und zum Unterschied zwischen Volumen und Konsumausgaben selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Öffentlich zugängliche Angaben zu Absatzanteilen nach Vertriebskanal (Menge, nicht Wert) suchen und lesen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): UG/HP mit Begriffen zu Alkoholabsatz und Discounter-Mengenanteilen durchsucht; Originalumfeld erneut gelesen und gezielt Verbandsstatistik samt Tabellenfußnoten geprüft. Gepruefte Quellen: S211. Ergebnis: 23 Prozent für Markendiscounter in der ausdrücklich begrenzten Spirituosenerhebung; keine Aussage über die Mehrheit aller Alkoholmengen.
+
+- Durchgang 2 am 2026-11-20 (Codex): Anderer Prüfweg über die Veröffentlichung des Marktforschers selbst und den Unterschied zwischen Absatzvolumen und Konsumausgaben. Gepruefte Quellen: S212. Ergebnis: Die 54,5-Prozent-Angabe bezieht sich auf Ausgaben im Außer-Haus-Konsum, nicht auf die zu prüfende Mengenquote.
 
 ## mlxFA9T88I0-A0191
 
 Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/04_konjunktur.md), Pruefpunkt 3 (C04-P03).
 
-**Eigene Beschreibung:** Beim Discounter kostet eine Flasche Whisky 7,99 Euro, beim Händler dagegen meist 40 bis 50 Euro.
+**Eigene Beschreibung:** Lüning vergleicht eine Whiskyflasche für 7,99 Euro beim Discounter mit Flaschen für 40 oder 50 Euro im eigenen Handel.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -623,21 +635,33 @@ Frueherer Suchbereich: [01:17:29–01:18:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Discounterpreise ändern sich laufend; ohne Datum und Produkt kann ein Einzelpreis nicht nachgeprüft werden. Der eigene Preisbereich des Händlers ist eine Sortimentsangabe. Keine Preisquelle gelesen.
+Ein konkretes Discounterangebot in der genannten Höhe ist dokumentiert: ALDI kündigte im Februar 2026 STATESMAN Blended Scotch Whisky mit 700 ml für 7,99 Euro an. Beim Händler ist beim jetzigen Abruf beispielsweise Talisker Port Ruighe mit 700 ml für 45,90 Euro gelistet. Damit sind beide Preisbereiche an tatsächlichen Angeboten nachvollziehbar. Es handelt sich jedoch um unterschiedliche Produkte, und der aktuelle Händlerpreis belegt weder den exakten Preis am Aufnahmetag 23.09.2026 noch einen Durchschnitt des Sortiments. Die bisherige eigene Paraphrase mit meist war stärker als der Originaltext; dieser stellt Preisbeispiele gegenüber. Aus dem Unterschied folgt kein Preisvergleich identischer Ware.
 
-Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Preispolitik der schottischen Hersteller, Discounteranteil und Discounter-Einzelpreis getrennt.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Präzisierung der eigenen Paraphrase 20.11.2026 (Codex): vorher "Beim Discounter kostet eine Flasche Whisky 7,99 Euro, beim Händler dagegen meist 40 bis 50 Euro."; jetzt "Lüning vergleicht eine Whiskyflasche für 7,99 Euro beim Discounter mit Flaschen für 40 oder 50 Euro im eigenen Handel.". Originalumfeld 01:17:22–01:18:57 erneut gelesen; keine zusätzliche Mehrheits- oder Durchschnittsbehauptung unterstellt. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"Offen","kind":"Tatsachenbehauptung","verdict":null,"reason":"Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Discounterpreise ändern sich laufend; ohne Datum und Produkt kann ein Einzelpreis nicht nachgeprüft werden. Der eigene Preisbereich des Händlers ist eine Sortimentsangabe. Keine Preisquelle gelesen.","sourceIds":[]}. Jetzt Abgeschlossen / Teilweise belegt. Ein konkretes Discounterangebot in der genannten Höhe ist dokumentiert: ALDI kündigte im Februar 2026 STATESMAN Blended Scotch Whisky mit 700 ml für 7,99 Euro an. Beim Händler ist beim jetzigen Abruf beispielsweise Talisker Port Ruighe mit 700 ml für 45,90 Euro gelistet. Damit sind beide Preisbereiche an tatsächlichen Angeboten nachvollziehbar. Es handelt sich jedoch um unterschiedliche Produkte, und der aktuelle Händlerpreis belegt weder den exakten Preis am Aufnahmetag 23.09.2026 noch einen Durchschnitt des Sortiments. Die bisherige eigene Paraphrase mit meist war stärker als der Originaltext; dieser stellt Preisbeispiele gegenüber. Aus dem Unterschied folgt kein Preisvergleich identischer Ware.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [ALDI SÜD: Wein, Sekt und Snacks dauerhaft günstiger (2026)](https://www.aldi-sued.de/newsroom/alle-pressemitteilungen/marke-und-produkte/2026/aldi-dreht-an-der-preisschraube--wein--sekt-und-snacks-jetzt-dau) · Aktualisierte Pressemitteilung vom 12.02.2026; STATESMAN Blended Scotch Whisky, 700 ml, 7,99 Euro; Fußnote zur Geltung ab 16.02.2026 bei ALDI SÜD.
+  Quellenzugriff am 2026-11-20. Produkt- und Preisliste einschließlich Datumsfußnoten selbst gelesen; keine Testbestellung. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [Whisky.de: Talisker Port Ruighe, Produktangebot](https://www.whisky.de/shop/artikel/Talisker-Port-Ruighe.html) · Beim Abruf 0,7 l, 45,8 Prozent vol, 45,90 Euro einschließlich Mehrwertsteuer, zusätzlich Versand; konkreter Single Malt, kein repräsentativer Sortimentsdurchschnitt.
+  Quellenzugriff am 2026-11-20. Produktangaben und beim Abruf sichtbaren Preis selbst gelesen; kein historischer Preisnachweis für den Aufnahmetag. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Zeitnahe Discounterangebote (Produkt, Füllmenge, Datum) und Preisstruktur des Händlersortiments prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): UG/HP nach Whisky- und Discounterpreisen durchsucht; Originalkontext 01:18:07–01:18:23 kontrolliert und nach datierten Originalangeboten der Discounter gesucht. Gepruefte Quellen: S213. Ergebnis: Ein vor der Aufnahme veröffentlichtes 7,99-Euro-Angebot für 700 ml ist auf der offiziellen ALDI-Seite dokumentiert.
+
+- Durchgang 2 am 2026-11-20 (Codex): Eigenständiger Gegenabgleich beim genannten Händler über ein konkretes reguläres Produktangebot. Gepruefte Quellen: S214. Ergebnis: Beim Abruf 45,90 Euro für 700 ml; Produkt und Zeitpunkt unterscheiden sich vom Discounterangebot, kein Sortimentsdurchschnitt behauptet.
 
 ## mlxFA9T88I0-A0192
 
@@ -842,7 +866,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Bei Inflation steigen alle Kosten; ohne Umsatzwachstum bleibt nichts übrig, und Beschäftigte können dann per Definition nicht einmal einen Inflationsausgleich erhalten.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -865,21 +889,33 @@ Frueherer Suchbereich: [01:18:00–01:21:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Rechnerisch trifft zu: Bleibt der nominale Umsatz bei steigenden Kosten gleich, schrumpft die Marge. Der Gast schränkt selbst ein, dass ein Ausgleich aus der Marge kommen kann. Produktivität, Preisgestaltung und vorhandene Marge können Lohnerhöhungen dennoch ermöglichen; eine Definition schließt das nicht aus. Ohne gelesene Lohn- und Ertragsdaten keine Endbewertung der Verallgemeinerung.
+Zutreffend ist der bedingte Rechenkern: Bleiben die Erlöse und übrigen Erträge gleich und steigen die gesamten Aufwendungen, sinkt das Ergebnis. Die gesetzliche Gliederung der Gewinn- und Verlustrechnung trennt gerade Erlöse, Personal- und andere Aufwendungen vom Ergebnis. Daraus folgt aber kein definitorisches Verbot eines Inflationsausgleichs bei gleichbleibendem Umsatz. Rein hypothetisches Rechenbeispiel, keine Unternehmensdaten: Bei 100 Erlös und zunächst 90 Gesamtaufwand können 5 zusätzliche Lohnkosten getragen werden, während 5 Ergebnis verbleiben. Lüning nennt im unmittelbar anschließenden Satz selbst die vorhandene Marge als mögliche Finanzierung; diese Einschränkung wird berücksichtigt. Inflation bedeutet zudem einen allgemeinen beziehungsweise gewichteten Preisanstieg und nicht, dass jeder einzelne Kostenposten steigen muss. Ob ein konkreter Betrieb Spielraum hat, lässt sich aus Umsatzstagnation allein nicht entscheiden; eine gesamtwirtschaftliche Lohnstatistik ersetzt diese Betriebsrechnung nicht.
 
-Grundlage der Bewertung: Kapitel-4-Prüfung vom 18.11.2026 (Claude): vollständige automatische deutsche Originaluntertitel 01:15:16–01:27:58 mit Anschlusskontext 01:15:10–01:29:05 gelesen. Nur ausdrücklich zugeordnete Webstellen als Sachquellen geprüft. Keine Audio-/Videokontrolle und keine internen Unternehmensdaten. Migration vollständig für die Altpunkte dieses Kapitels; Sachrecherche bleibt Teilprüfung.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Unternehmerische Kostenregel, eigene Kostenstruktur, natürliche Personalfluktuation, Wachstumsprognose und Inflations-/Lohnlogik getrennt; die Margenbedingung des Gastes bleibt erhalten.
 
-Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt.
+Bewertungsuebergang: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"Offen","kind":"Tatsachenbehauptung","verdict":null,"reason":"Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Rechnerisch trifft zu: Bleibt der nominale Umsatz bei steigenden Kosten gleich, schrumpft die Marge. Der Gast schränkt selbst ein, dass ein Ausgleich aus der Marge kommen kann. Produktivität, Preisgestaltung und vorhandene Marge können Lohnerhöhungen dennoch ermöglichen; eine Definition schließt das nicht aus. Ohne gelesene Lohn- und Ertragsdaten keine Endbewertung der Verallgemeinerung.","sourceIds":[]}. Jetzt Abgeschlossen / Teilweise belegt. Zutreffend ist der bedingte Rechenkern: Bleiben die Erlöse und übrigen Erträge gleich und steigen die gesamten Aufwendungen, sinkt das Ergebnis. Die gesetzliche Gliederung der Gewinn- und Verlustrechnung trennt gerade Erlöse, Personal- und andere Aufwendungen vom Ergebnis. Daraus folgt aber kein definitorisches Verbot eines Inflationsausgleichs bei gleichbleibendem Umsatz. Rein hypothetisches Rechenbeispiel, keine Unternehmensdaten: Bei 100 Erlös und zunächst 90 Gesamtaufwand können 5 zusätzliche Lohnkosten getragen werden, während 5 Ergebnis verbleiben. Lüning nennt im unmittelbar anschließenden Satz selbst die vorhandene Marge als mögliche Finanzierung; diese Einschränkung wird berücksichtigt. Inflation bedeutet zudem einen allgemeinen beziehungsweise gewichteten Preisanstieg und nicht, dass jeder einzelne Kostenposten steigen muss. Ob ein konkreter Betrieb Spielraum hat, lässt sich aus Umsatzstagnation allein nicht entscheiden; eine gesamtwirtschaftliche Lohnstatistik ersetzt diese Betriebsrechnung nicht.
 
 ### Zugeordnete Quellen
 
-Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+- [Handelsgesetzbuch: §§ 275 und 277, Gewinn- und Verlustrechnung](https://www.gesetze-im-internet.de/hgb/BJNR002190897.html) · § 275 trennt Umsatzerlöse, Material- und Personalaufwand sowie weitere Erträge/Aufwendungen und Jahresergebnis; § 277 Absatz 1 definiert Umsatzerlöse.
+  Quellenzugriff am 2026-11-20. Bezeichnete Vorschriften in der amtlichen Gesamtausgabe selbst gelesen; kein Unternehmensabschluss und kein Nachweis über individuelle Lohnspielräume. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [Europäische Zentralbank: Was ist Inflation?](https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me-more/html/what_is_inflation.de.html) · Abschnitte Allgemeiner Preisanstieg, Gewichtung und Beispielrechnung des Warenkorbs.
+  Quellenzugriff am 2026-11-20. Erklärung und Rechenbeispiel selbst gelesen; Verbraucherpreisindex nicht mit sämtlichen einzelbetrieblichen Kosten gleichgesetzt. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Reallohn- und Produktivitätsentwicklung in Phasen ohne Wachstum (z. B. Destatis 2023–2025) lesen und von der Einzelbetriebsrechnung trennen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): UG/HP nach Umsatz, Inflation, Kosten und Marge mit zwei Formulierungen durchsucht; Original 01:19:58–01:21:11 einschließlich Margeneinschränkung gelesen; allgemeine Rechnungslogik anhand §§ 275/277 HGB geprüft. Gepruefte Quellen: S215. Ergebnis: Bedingte Ergebnisschmälerung bestätigt; vorhandene Marge kann zusätzliche Lohnkosten tragen. Das eigene Zahlenbeispiel veranschaulicht nur diese Rechnung.
+
+- Durchgang 2 am 2026-11-20 (Codex): Zweiter Prüfweg über die EZB-Definition und Gewichtung der Inflation statt einer ungeeigneten Gleichsetzung von Gesamtwirtschaft und Einzelbetrieb. Gepruefte Quellen: S216. Ergebnis: Ein allgemeiner Preisanstieg verlangt keine Erhöhung jedes einzelnen Kostenpostens. Amtliche Einzelabrufe zu Reallohn- und Preisdaten waren gesperrt und werden nicht als gelesene Belege geführt.
 
 ## mlxFA9T88I0-A0197
 
