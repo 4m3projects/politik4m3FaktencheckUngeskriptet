@@ -28,5 +28,5 @@ Shorts sind kurze Hochkantvideos (höchstens drei Minuten). Sie werden wie jedes
 
 ## Tests
 
-- `node --test site/sync-test.js` (Shorts-Adressen), `site/relations-test.js` (Feld `format`, `isShort`), `site/ampel-test.js` (Ampelregel für Shorts).
+- `node --test site/sync-test.js` (Shorts-Adressen), `site/relations-test.js` (Feld `format`, `isShort`), `site/faktenindex-test.js` (Ampelregel für Shorts).
 - `node site/browser-test.js` prüft lokal mit Playwright, dass ein Short in der Video-Ansicht hochkant dargestellt wird.

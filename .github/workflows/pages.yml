@@ -72,7 +72,8 @@ jobs:
           base=https://raw.githubusercontent.com/4m3projects/politik4m3Facktencheck/main
           level=warning; [[ "${{ github.event_name }}" == "pull_request" ]] && level=error
           bad=0
-          for f in site/faktenindex.js site/faktenindex-ui.js site/faktenindex-test.js scripts/faktenindex.js docs/FAKTENINDEX.md; do
+          for f in site/faktenindex.js site/faktenindex-ui.js site/faktenindex-test.js scripts/faktenindex.js docs/FAKTENINDEX.md \
+                   site/rangliste.js site/rangliste-test.js docs/RANGLISTE.md; do
             if ! curl -fsSL --retry 3 "$base/$f" -o "$RUNNER_TEMP/ref"; then echo "::warning file=$f::$f im Hauptprojekt nicht abrufbar, Vergleich übersprungen"; continue; fi
             if ! cmp -s "$RUNNER_TEMP/ref" "$f"; then echo "::$level file=$f::$f weicht vom Hauptprojekt ab; Änderungen dort vornehmen und unverändert übernehmen."; bad=1; fi
           done
@@ -88,6 +89,9 @@ jobs:
 
       - name: Verlauf prüfen (aus der Git-Historie berechnet)
         run: node --test site/verlauf-test.js
+
+      - name: Rangliste prüfen (nur aus dem Faktenindex berechnet)
+        run: node --test site/rangliste-test.js
 
       - name: Themen-Wissensdatenbank prüfen (Daten, Korrekturregeln, Schutz vor Überschreiben)
         run: |
@@ -106,12 +110,12 @@ jobs:
           set -euo pipefail
           rm -rf "$OUT"
           mkdir -p "$OUT/daten"
-          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js site/faktenindex.js site/faktenindex-ui.js site/wissen.js site/gegendarstellung.js site/themen.js site/favicon.svg site/favicon.ico site/apple-touch-icon.png "$OUT/"
+          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js site/faktenindex.js site/faktenindex-ui.js site/rangliste.js site/wissen.js site/gegendarstellung.js site/themen.js site/favicon.svg site/favicon.ico site/apple-touch-icon.png "$OUT/"
           # Versionsparameter je Commit: Browser und GitHub-Pages-Cache laden nach jedem Deploy alle Skripte neu
           # und mischen keine alten und neuen Dateien.
           ver="${GITHUB_SHA:0:12}"
-          sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js|rhetoric\.js|faktenindex\.js|faktenindex-ui\.js|wissen\.js|gegendarstellung\.js|themen\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
-          test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 11
+          sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js|rhetoric\.js|faktenindex\.js|faktenindex-ui\.js|rangliste\.js|wissen\.js|gegendarstellung\.js|themen\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
+          test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 12
           # Kompaktes Verzeichnis der Wissensdatenbank (Themen, Einträge, Aussagen mit Themen) für die Themenseiten.
           node scripts/wissen.js export "$OUT/daten/wissen.json"
           # Verlauf je Video (Seite „Verlauf“), berechnet aus der Git-Historie von faktenchecks/ (fetch-depth: 0).

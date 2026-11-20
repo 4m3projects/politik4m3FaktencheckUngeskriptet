@@ -215,7 +215,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0003",
@@ -259,7 +267,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0004",
@@ -303,7 +319,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0005",
@@ -353,7 +377,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0006",
@@ -501,7 +533,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0009",
@@ -545,7 +585,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0010",
@@ -589,7 +637,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0011",
@@ -639,7 +695,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0012",
@@ -733,7 +797,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0014",
@@ -870,7 +942,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0017",
@@ -914,7 +994,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0018",
@@ -958,7 +1046,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0019",
@@ -1008,7 +1104,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0020",
@@ -1141,7 +1245,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale zeitliche Einordnung zur im Titel gestellten Belegfrage zu Musk.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0023",
@@ -1185,7 +1297,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0024",
@@ -1320,7 +1440,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0027",
@@ -1368,7 +1496,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0028",
@@ -1412,7 +1548,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0029",
@@ -1460,7 +1604,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0030",
@@ -1504,7 +1656,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0031",
@@ -1549,7 +1709,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0032",
@@ -1725,7 +1893,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0036",
@@ -1769,7 +1945,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0037",
@@ -1863,7 +2047,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Gerichtliche Grundlage zur im Titel gestellten Belegfrage zu Merkel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0039",
@@ -1957,7 +2149,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Beantwortet die im Titel gestellte Belegfrage zu Merkel (Deckname Erika).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "zUnxDR5ttRU-A0041",

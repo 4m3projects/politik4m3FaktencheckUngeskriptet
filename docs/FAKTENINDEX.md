@@ -31,8 +31,8 @@ Beispiele (R = 1): 10 belegt/0 widerlegt → 1,000; 10/1 → 0,667; 20/1 → 0,8
 | Kategorie / Status | p | f | u | Index | Prüfabdeckung |
 | --- | --- | --- | --- | --- | --- |
 | Belegt | 1 | 0 | 0 | ja | geprüft |
-| Teilweise belegt | 0,5 | 0 | 0,5 | ja | geprüft |
-| Irreführend / Kontext fehlt | 0,5 | 0,5 | 0 | ja | geprüft |
+| Teilweise belegt | 0,75 | 0 | 0,25 | ja | geprüft |
+| Irreführend / Kontext fehlt | 0,75 | 0,25 | 0 | ja | geprüft |
 | Widerlegt | 0 | 1 | 0 | ja | geprüft |
 | Nicht ausreichend belegbar (geprüft, ungeklärt) | 0 | 0 | 1 | ja | geprüft |
 | Offen (noch nicht geprüft) | – | – | – | nein | ausstehend |
@@ -47,8 +47,8 @@ Begründung der Abbildung:
 - **Fehlende Quelle ist kein Gegenbeweis.** „Nicht ausreichend belegbar“ ist ungeklärt (u), nie widerlegt.
 - **Ungeprüft ist weder widerlegt noch ungeklärt.** Offene und laufende Prüfungen gehen gar nicht in den Index ein, senken aber die Prüfabdeckung. „Noch nicht geprüft“ und „geprüft, aber ungeklärt“ bleiben getrennt.
 - **Nicht überprüfbar** heißt: Es gibt grundsätzlich keine öffentliche Prüfgrundlage (private Erlebnisse, interne Vorgänge …). Das ist kein Mangel der Faktenlage des Videos, sondern keine bewertbare Tatsachenbehauptung. Die Zahl steht trotzdem sichtbar in der Rechnung.
-- **Teilweise belegt** heißt in den Altdaten nicht einheitlich, ob der nicht belegte Teil offen oder falsch ist. Ohne genauere Angabe wird er deshalb als ungeklärt geführt (keine künstliche Genauigkeit). Zeigt die Prüfung einen widerlegten Teil, setzt der Agent eigene Anteile (siehe 4).
-- **Irreführend / Kontext fehlt**: Der wörtliche Kern stimmt meist, der erzeugte Eindruck nicht; daher halb belegt, halb widerlegt.
+- **Teilweise belegt** heißt in den Altdaten nicht einheitlich, ob der nicht belegte Teil offen oder falsch ist. In der Prüfpraxis bedeutet die Kategorie meist: Der Kern stimmt, Reichweite oder Details sind nicht vollständig belegt. Ohne genauere Angabe zählt sie deshalb zu drei Vierteln belegt und zu einem Viertel ungeklärt. Zeigt die Prüfung einen widerlegten Teil, setzt der Agent eigene Anteile (siehe 4).
+- **Irreführend / Kontext fehlt**: Der wörtliche Kern stimmt meist, es fehlt aber Kontext, sodass ein schiefer Eindruck entsteht. Ohne genauere Angabe zählt die Aussage deshalb zu drei Vierteln belegt und zu einem Viertel widerlegt. Ist der erzeugte Eindruck überwiegend falsch, setzt der Agent eigene Anteile.
 - Jede Aussage zählt **einmal**, egal wie viele Fundstellen sie hat. Identische Aussagen werden ohnehin zusammengeführt (Validator); inhaltlich gleiche, getrennt erfasste Aussagen markiert man mit `duplicateOf`.
 
 ## 3. Prüfabdeckung, Ampel und Bewertbarkeit
@@ -104,6 +104,17 @@ Kriterien:
 4. Wird sie besonders hervorgehoben (Titel, Vorschaubild, Fazit, mehrfach betont)?
 5. Ist sie eigenständig oder nur Wiederholung/Beiwerk?
 
+Praktische Stufen (Stand 20.11.2026, so für alle bestehenden Videos angewandt):
+
+| Rolle der Aussage im Video | Faktor |
+| --- | --- |
+| Hauptthese oder direkte Antwort auf die im Titel gestellte Frage | 2,0–3,0 |
+| Tragende Begründung der Hauptthese, zentrale Zahl der Argumentation | 1,5 |
+| Normale eigenständige Sachaussage | 1,0 |
+| Beiläufige Nebenbemerkung, Anekdote, Werbeeinblendung, Hinweis zur Machart des Videos | 0,5 |
+
+**Ablauf bei neuen Videos:** Wer ein Video abschließt, vergibt für jede relevante Tatsachenbehauptung (ohne „Nicht überprüfbar“ und reine Fremdbezüge) einen Faktor mit Begründung, auch für den Standard 1,0, mit `weightStatus: "Vorläufig"`. Die Gegenprüfung durch einen anderen Agenten folgt nach Abschnitt 6, sobald Kapazität frei ist. Bis dahin zählt der vorläufige Faktor im Index und ist auf der Seite als vorläufig gekennzeichnet.
+
 **Neutralitätsregel:** Die Bedeutung wird unabhängig vom Faktenurteil festgelegt. Eine zentrale belegte Aussage bekommt denselben Faktor wie eine zentrale widerlegte. Möglichst **vor** Kenntnis des Urteils einschätzen (`assessedBeforeVerdict: true`); wer das Urteil schon kennt, setzt `false` und begründet besonders sorgfältig. Nie einen Faktor wählen, um eine Ampelfarbe zu erreichen. Falsche Aussagen bekommen nicht automatisch höhere Faktoren; die Kontrolle achtet auf eine Schieflage (z. B. fast nur widerlegte Aussagen hochgestuft).
 
 Die Begründung nennt, welche Kriterien zutreffen, z. B. „Die Behauptung bildet die Grundlage der zentralen Schlussfolgerung des Videos. Eine Widerlegung beeinflusst deshalb die Bewertung der gesamten Argumentation erheblich.“
@@ -127,6 +138,7 @@ Jede Änderung von `weight` oder `shares` erhält einen Eintrag in `history` (Da
 | --- | --- | --- | --- |
 | 1.0 | 20.11.2026 | Einführung mit Widerlegungsfaktor 10 | Auftrag Jens |
 | 1.1 | 20.11.2026 | Widerlegungsfaktor 10 → 5 | Mit 10 begann Rot schon bei etwa 13 % widerlegter Aussagen und Grün verlangte höchstens etwa 2,5 %. Das war gegenüber der früheren Ampel (Grün unter 10 %, Rot ab 25 % Fehleranteil) deutlich zu streng. Mit 5 liegt Rot bei etwa 23 %, Grün bei höchstens etwa 4,8 %. Freigabe durch Jens. |
+| 1.2 | 20.11.2026 | Standardanteile: Teilweise belegt 0,5/0/0,5 → 0,75/0/0,25; Irreführend / Kontext fehlt 0,5/0,5/0 → 0,75/0,25/0 | Beide Kategorien bedeuten in der Prüfpraxis meist „Kern stimmt, Details oder Kontext fehlen“. Die halbe Wertung als ungeklärt bzw. widerlegt zog Erklärvideos mit vielen Verallgemeinerungen unverhältnismäßig nach unten (Beispiel MrWissen2go Frankreich: nur 2 Widerlegungen, Index 0,417). Freigabe durch Jens. |
 
 ## 8. Darstellung
 
@@ -137,6 +149,6 @@ Jede Änderung von `weight` oder `shares` erhält einen Eintrag in `history` (Da
 
 ## 9. Offene Aufgaben
 
-- **Bedeutungsfaktoren einschätzen:** Alle bestehenden Aussagen stehen auf dem Standard 1,0. Die Agenten schätzen die Bedeutung Video für Video ein und lassen sie gegenprüfen; bis dahin sind gewichteter und ungewichteter Index gleich.
+- **Bedeutungsfaktoren gegenprüfen:** Am 20.11.2026 hat Claude für alle bestehenden Videos aller drei Seiten Faktoren vergeben (Status „Vorläufig“). Die Gegenprüfung durch einen zweiten Agenten ist in jedem Repository als offenes Issue „[Claude] Mitmachen: Bedeutungsfaktoren gegenprüfen“ ausgeschrieben.
 - **Teilweise belegt präzisieren:** Bei Aussagen mit nachweislich falschem Teil eigene Anteile mit Begründung setzen.
 - **Mindestabdeckung kalibrieren**, sobald genug abgeschlossene Videos vorliegen.

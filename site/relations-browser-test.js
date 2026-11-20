@@ -20,7 +20,7 @@ const PENDING_VIDEO_ID = fs.readdirSync(path.join(ROOT, 'faktenchecks')).find(id
   const file = path.join(ROOT, 'faktenchecks', id, 'strukturiert', 'aussagen.json');
   return /^[A-Za-z0-9_-]{11}$/.test(id) && fs.existsSync(file) && JSON.parse(fs.readFileSync(file, 'utf8')).claims.some(c => !c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status));
 }) || 'qQAcmDzd9O8';
-const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png'];
+const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png'];
 
 function buildSite(withFixtures) {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-rel-'));

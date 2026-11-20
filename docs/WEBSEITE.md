@@ -32,7 +32,7 @@ Andere Dateien werden nicht übernommen. Der Titel stammt aus der ersten Übersc
 - Teilbestände tragen einen deutlichen Hinweis, dass keine Bilanz des ganzen Videos vorliegt.
 - Je Fundstelle: Zeitmarke mit Link zum Original, Zeitpräzision, Sprecherzuordnung (bestätigt / plausibel / ungeklärt) und Aussagebezug mit Begründung.
 - Quellen mit direktem Link, Datenstand, Abrufdatum und Zugriffsgrundlage.
-- Keine Personenrankings oder Glaubwürdigkeitsnoten.
+- Keine Personenrankings oder Glaubwürdigkeitsnoten. Die Seite „Rangliste“ ordnet Videos (nicht Personen) allein nach dem berechneten Faktenindex, siehe [RANGLISTE.md](RANGLISTE.md).
 - Faktenampel je Video (Startseitenkarten, Videokopf, Listen von Originalen und Reaktionen), zur Laufzeit aus den Einzelbewertungen berechnet; Regel nur in `site/faktenindex.js`, siehe [FAKTENINDEX.md](FAKTENINDEX.md).
 
 ## Einmalige Einrichtung

@@ -1092,7 +1092,11 @@ async function pageVideo(id, focusClaim) {
       <div>
         <section class="section" style="margin-bottom:28px">
           ${statBlock}
-          <div style="margin-top:16px">${distribution(d.claims)}</div>
+          <div style="margin-top:16px">
+            <h2>Verteilung aller erfassten Aussagen</h2>
+            <p class="small">Hier zählen auch zitierte, hinterfragte und zurückgewiesene Aussagen mit.</p>
+            ${distribution(d.claims)}
+          </div>
           <div style="margin-top:16px">${rhetSummary(v, true)}</div>
         </section>
         <div class="filters" role="search">
@@ -1118,8 +1122,10 @@ async function pageVideo(id, focusClaim) {
         <div class="claims" id="claims">${d.claims.map(c => claimCard(c, v, titles, linkedVideos, rhetByClaim.get(c.id), counterOf(c))).join('')}</div>
       </div>
       <aside class="aside">
-        ${catRows ? `<div class="panel"><h3>Ergebnisse der abgeschlossenen Prüfungen</h3><ul class="legend" style="flex-direction:column;align-items:flex-start">${catRows}</ul>
-          <p class="small" style="margin-top:10px">Prozente beziehen sich nur auf ${s.percentageDenominator} abgeschlossene Tatsachenbehauptungen; Meinungen, Prognosen und offene Prüfungen zählen nicht mit. Bei so kleinen Zahlen sind Anteile kaum aussagekräftig.</p></div>` : ''}
+        ${catRows ? `<div class="panel"><h3>Abgeschlossene Prüfungen eigener Aussagen</h3>
+          <p class="small">Hier zählen eigene Behauptungen, ausdrückliche Zustimmungen und Selbstkorrekturen. Reine Fremdbezüge findest du in der Verteilung aller erfassten Aussagen.</p>
+          <ul class="legend" style="flex-direction:column;align-items:flex-start">${catRows}</ul>
+          <p class="small" style="margin-top:10px">Die Prozentwerte beziehen sich auf ${num(s.percentageDenominator)} abgeschlossene eigene Tatsachenbehauptungen. Meinungen und Prognosen erscheinen als Anzahl.</p></div>` : ''}
         ${rhetPanel(v)}
         <div class="panel"><h3>Recherchegrundlage</h3><p>${esc(scope.researchNote)}</p></div>
         ${speakers ? `<div class="panel"><h3>Personen im Video</h3><ul>${speakers}</ul><p class="small" style="margin-top:8px">Sprecherzuordnungen werden je Fundstelle als bestätigt, plausibel oder ungeklärt angegeben. Es gibt bewusst keine Glaubwürdigkeitsnoten oder Ranglisten von Personen.</p></div>` : ''}
@@ -1280,7 +1286,7 @@ async function pageMethod() {
         <li><strong>Vorsichtige Sprecherzuordnung.</strong> Je Fundstelle steht, ob die Person bestätigt, nur plausibel oder ungeklärt ist – und ob es eine eigene Behauptung, Zustimmung, Rückfrage oder Wiedergabe war.</li>
         <li><strong>Keine Doppelzählung.</strong> Wiederholungen werden als weitere Fundstellen derselben Aussage geführt, nicht als neue Aussagen.</li>
         <li><strong>Teilbestände ehrlich kennzeichnen.</strong> Wenn nur ein Teil eines Videos strukturiert geprüft ist, gibt es keine Gesamtbilanz des ganzen Videos; die Faktenampel nennt deshalb immer ihre Grundlage.</li>
-        <li><strong>Keine Rankings.</strong> Wir vergeben keine Glaubwürdigkeitsnoten für Personen.</li>
+        <li><strong>Keine Personenrankings.</strong> Wir vergeben keine Glaubwürdigkeitsnoten für Personen. Die <a href="#/rangliste">Rangliste</a> ordnet Videos allein nach ihrem berechneten Faktenindex.</li>
       </ul>
     </section>
 
@@ -1385,6 +1391,18 @@ async function pageVerlauf() {
   window.scrollTo(0, 0);
 }
 
+/* Rangliste: Videos nach ihrem berechneten Faktenindex, gute oben (site/rangliste.js, docs/RANGLISTE.md). */
+async function pageRangliste() {
+  const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
+  setPage(FactRanking.renderPage(all, {
+    roleKey: v => v.video?.role || '',
+    roleLabel: v => v.video?.role === 'reaction' ? `${reactionTypeName(v.video.reactionType)} von ${v.video.channel}` : v.video?.role === 'original' ? 'Originalinterview' : ''
+  }), 'rangliste');
+  FactRanking.bindFilter(main());
+  document.title = 'Rangliste – Politik4M3 Faktencheck Ungeskriptet';
+  window.scrollTo(0, 0);
+}
+
 function pageError(err) {
   setPage(`<div class="wrap"><p class="notice warn" style="margin-top:32px"><strong>Diese Seite konnte nicht geladen werden.</strong> ${esc(err.message || err)}</p><p><a href="#/">Zur Übersicht</a></p></div>`, '');
 }
@@ -1481,6 +1499,7 @@ async function routePage() {
     }
     if (parts[0] === 'jens') return pageJens();
     if (parts[0] === 'verlauf') return await pageVerlauf();
+    if (parts[0] === 'rangliste') return await pageRangliste();
     if (parts[0] === 'themen') return await pageTopics();
     if (parts[0] === 'thema' && parts[1]) return await pageTopic(parts.slice(1).join('/'));
     return await pageHome();

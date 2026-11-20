@@ -13,7 +13,7 @@ const assert = require('node:assert/strict');
 const { chromium } = require('playwright');
 
 const ROOT = path.join(__dirname, '..');
-const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png'];
+const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png'];
 
 function buildSite(withRhetoric) {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-rhet-'));

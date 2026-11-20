@@ -2889,7 +2889,15 @@
           "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0003",
@@ -2968,7 +2976,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0004",
@@ -3136,7 +3152,15 @@
           "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0007",
@@ -3220,7 +3244,15 @@
           "timeBasis": "Am 17.11.2026 anhand der tatsächlich vorhandenen zeitgestempelten automatischen Originaluntertitel eingegrenzt; Sekundenrundung und Schnittgrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Aussage zur wirtschaftlichen Lage, Grundlage der Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0008",
@@ -3275,7 +3307,15 @@
           "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0009",
@@ -3326,7 +3366,15 @@
           "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0010",
@@ -3386,7 +3434,15 @@
           "timeBasis": "Am 17.11.2026 anhand vorhandener zeitgestempelter automatischer deutscher Originaluntertitel eingegrenzt. Ungefähr; keine Audio-/Videokontrolle. Früherer Suchbereich und Hinweis bleiben in timeHistory erhalten."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0011",
@@ -3469,7 +3525,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0012",
@@ -3743,7 +3807,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Zahl zur Abwanderung, mehrfach als Beleg der Titelthese genutzt.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0015",
@@ -3987,7 +4059,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Tragende Aussage für die Titelthese, Deutschland stehe vor dem Kippen (Kreditwürdigkeit).",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0018",
@@ -4111,7 +4191,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0020",
@@ -4165,7 +4253,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0021",
@@ -4344,7 +4440,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0024",
@@ -5463,7 +5567,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0040",
@@ -5834,7 +5946,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0045",
@@ -6145,7 +6265,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0051",
@@ -6200,7 +6328,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0052",
@@ -6258,7 +6394,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0053",
@@ -6419,7 +6563,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0056",
@@ -7261,7 +7413,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung, gehört nicht zur inhaltlichen Argumentation des Videos.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0071",
@@ -7314,7 +7474,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung, gehört nicht zur inhaltlichen Argumentation des Videos.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0072",
@@ -7368,7 +7536,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung, gehört nicht zur inhaltlichen Argumentation des Videos.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0073",
@@ -7422,7 +7598,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung, gehört nicht zur inhaltlichen Argumentation des Videos.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0074",
@@ -7476,7 +7660,15 @@
           "timeBasis": "Am 17.11.2026 anhand der zeitgestempelten automatischen Originaluntertitel eingegrenzt. Sekunden und Sprechergrenzen bleiben ungefähr."
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung, gehört nicht zur inhaltlichen Argumentation des Videos.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0075",
@@ -7904,7 +8096,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0083",
@@ -8015,7 +8215,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0085",
@@ -8122,7 +8330,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0087",
@@ -8482,7 +8698,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0093",
@@ -8536,7 +8760,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0094",
@@ -8647,7 +8879,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0096",
@@ -8701,7 +8941,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0097",
@@ -8759,7 +9007,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0098",
@@ -8918,7 +9174,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0101",
@@ -9068,7 +9332,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0104",
@@ -9232,7 +9504,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0107",
@@ -9336,7 +9616,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0109",
@@ -9536,7 +9824,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0113",
@@ -9750,7 +10046,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0117",
@@ -9865,7 +10169,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0119",
@@ -10161,7 +10473,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0124",
@@ -10421,7 +10741,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0129",
@@ -10615,7 +10943,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0133",
@@ -10929,7 +11265,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0139",
@@ -11035,7 +11379,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0141",
@@ -11170,7 +11522,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0143",
@@ -11395,7 +11755,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0147",
@@ -11448,7 +11816,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0148",
@@ -11501,7 +11877,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0149",
@@ -11793,7 +12177,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0154",
@@ -11895,7 +12287,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0156",
@@ -11994,7 +12394,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0158",
@@ -12398,7 +12806,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0166",
@@ -12759,7 +13175,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Unternehmens- und Lebensgeschichte des Gastes, Nebenthema ohne Einfluss auf die Titelthese.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0172",
@@ -13448,7 +13872,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0186",
@@ -13644,7 +14076,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0190",
@@ -13726,7 +14166,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Discounter sind ein erheblicher Absatzkanal für Spirituosen; die gelesenen Daten belegen keine Mehrheit aller alkoholischen Getränke."
+      "shortReason": "Discounter sind ein erheblicher Absatzkanal für Spirituosen; die gelesenen Daten belegen keine Mehrheit aller alkoholischen Getränke.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0191",
@@ -13808,7 +14256,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "7,99 Euro beim Discounter und 45,90 Euro beim Händler sind an Angeboten belegt, betreffen aber unterschiedliche Produkte und Zeitpunkte."
+      "shortReason": "7,99 Euro beim Discounter und 45,90 Euro beim Händler sind an Angeboten belegt, betreffen aber unterschiedliche Produkte und Zeitpunkte.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0192",
@@ -14106,7 +14562,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Steigende Gesamtkosten drücken bei gleichen Erlösen das Ergebnis; vorhandene Marge kann trotzdem einen Inflationsausgleich ermöglichen."
+      "shortReason": "Steigende Gesamtkosten drücken bei gleichen Erlösen das Ergebnis; vorhandene Marge kann trotzdem einen Inflationsausgleich ermöglichen.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0197",
@@ -14160,7 +14624,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0198",
@@ -14224,7 +14696,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0199",
@@ -14284,7 +14764,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0200",
@@ -14339,7 +14827,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0201",
@@ -14405,7 +14901,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0202",
@@ -14457,7 +14961,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0203",
@@ -14605,7 +15117,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0206",
@@ -14665,7 +15185,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0207",
@@ -14716,7 +15244,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0208",
@@ -14820,7 +15356,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0210",
@@ -14988,7 +15532,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0213",
@@ -15088,7 +15640,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0215",
@@ -15144,7 +15704,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0216",
@@ -15222,7 +15790,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0217",
@@ -15328,7 +15904,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0219",
@@ -15484,7 +16068,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0222",
@@ -15560,7 +16152,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Zahl der Zinsargumentation.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0223",
@@ -15612,7 +16212,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Zahl der Zinsargumentation.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0224",
@@ -15668,7 +16276,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Begründung der Zinsargumentation.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0225",
@@ -15719,7 +16335,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0226",
@@ -16001,7 +16625,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0231",
@@ -16055,7 +16687,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0232",
@@ -16260,7 +16900,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0236",
@@ -16360,7 +17008,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0238",
@@ -16459,7 +17115,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0240",
@@ -16511,7 +17175,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0241",
@@ -16563,7 +17235,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0242",
@@ -16615,7 +17295,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0243",
@@ -16752,6 +17440,14 @@
         ],
         "missingInformation": "Eine Aufstellung konkreter, früher von USAID finanzierter Programme, die aus dem BMZ- oder AA-Haushalt weiterfinanziert werden.",
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -16812,7 +17508,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0246",
@@ -16860,7 +17564,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0247",
@@ -17019,7 +17731,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Kreditausfälle können Banken belasten; der Einzelfall hängt von Betroffenheit, Sicherheiten und bereits gebildeter Vorsorge ab."
+      "shortReason": "Kreditausfälle können Banken belasten; der Einzelfall hängt von Betroffenheit, Sicherheiten und bereits gebildeter Vorsorge ab.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0249",
@@ -17071,7 +17791,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0250",
@@ -17123,7 +17851,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0251",
@@ -17223,7 +17959,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0253",
@@ -17398,7 +18142,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0256",
@@ -17449,7 +18201,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0257",
@@ -17503,7 +18263,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende Aussage zur Nachfrage nach Bundesanleihen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0258",
@@ -17617,6 +18385,14 @@
         ],
         "missingInformation": "Eine durchgehende Zeitreihe der Deckungsquoten zehnjähriger Bund-Auktionen, etwa aus der Jahreshistorie der Finanzagentur.",
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -17673,7 +18449,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0260",
@@ -17727,7 +18511,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0261",
@@ -17779,7 +18571,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0262",
@@ -17882,7 +18682,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0264",
@@ -18010,7 +18818,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0266",
@@ -18112,7 +18928,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0268",
@@ -18164,7 +18988,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0269",
@@ -18216,7 +19048,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kernaussage zum digitalen Euro, im Gespräch ausführlich besprochen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0270",
@@ -18268,7 +19108,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0271",
@@ -18374,7 +19222,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0273",
@@ -18425,7 +19281,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0274",
@@ -18481,7 +19345,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0275",
@@ -18532,7 +19404,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0276",
@@ -18584,7 +19464,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0277",
@@ -18639,7 +19527,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0278",
@@ -18695,7 +19591,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0279",
@@ -18771,7 +19675,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Kernaussage zur Staatsfinanzierung über die Zentralbank.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0280",
@@ -18875,7 +19787,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0282",
@@ -18926,7 +19846,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0283",
@@ -18974,7 +19902,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0284",
@@ -19050,7 +19986,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0285",
@@ -19224,7 +20168,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Wasserbindung und gereinigtes Petrolatum können die Hautbarriere unterstützen; die Herkunft allein belegt keine Überlegenheit von Talgpflege."
+      "shortReason": "Wasserbindung und gereinigtes Petrolatum können die Hautbarriere unterstützen; die Herkunft allein belegt keine Überlegenheit von Talgpflege.",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung, gehört nicht zur inhaltlichen Argumentation des Videos.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0288",
@@ -19280,7 +20232,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung, gehört nicht zur inhaltlichen Argumentation des Videos.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0289",
@@ -19374,7 +20334,15 @@
         "missingInformation": "Zeitlich und regional abgegrenzte, vergleichende Nutzungs- oder Absatzdaten zu tierischen, pflanzlichen und mineralischen Pflegegrundlagen um 1926 sowie ein klarer Vergleichsmaßstab für gängigste Form.",
         "conflicts": null
       },
-      "shortReason": "Die gelesenen Marken- und Museumsquellen liefern keine belastbaren Nutzungsanteile tierischer Fette in der Hautpflege um 1926."
+      "shortReason": "Die gelesenen Marken- und Museumsquellen liefern keine belastbaren Nutzungsanteile tierischer Fette in der Hautpflege um 1926.",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung, gehört nicht zur inhaltlichen Argumentation des Videos.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0290",
@@ -19582,7 +20550,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0294",
@@ -19726,7 +20702,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0297",
@@ -19904,7 +20888,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0300",
@@ -20124,7 +21116,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0304",
@@ -20172,7 +21172,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0305",
@@ -20272,7 +21280,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0307",
@@ -20376,7 +21392,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0309",
@@ -20460,6 +21484,14 @@
         ],
         "missingInformation": "Eine Zeitreihe zur Auswanderung von Hochschulabsolventen mit erfassten Gründen.",
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -20512,7 +21544,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0311",
@@ -20566,7 +21606,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0312",
@@ -20626,7 +21674,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale Aussage zur Abwanderung Hochqualifizierter.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0313",
@@ -20681,7 +21737,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0314",
@@ -20739,7 +21803,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0315",
@@ -20797,7 +21869,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0316",
@@ -20926,6 +22006,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -21025,7 +22113,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0320",
@@ -21415,7 +22511,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0328",
@@ -21470,7 +22574,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0329",
@@ -21522,7 +22634,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0330",
@@ -21718,7 +22838,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0334",
@@ -21770,7 +22898,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0335",
@@ -22022,6 +23158,14 @@
         ],
         "missingInformation": null,
         "conflicts": "Die Replikation (S142) fand keinen Vorteil handschriftlicher Mitschriften, die umfassendere Metaanalyse (S200) einen kleinen Vorteil bei Testleistungen. Beide betreffen nur Vorlesungsmitschriften von Studierenden, nicht das Gedächtnis allgemein."
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -22074,7 +23218,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0340",
@@ -22125,7 +23277,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0341",
@@ -22233,7 +23393,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung, gehört nicht zur inhaltlichen Argumentation des Videos.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0343",
@@ -22452,7 +23620,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0347",
@@ -22503,7 +23679,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0348",
@@ -22555,7 +23739,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0349",
@@ -22607,7 +23799,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0350",
@@ -22661,7 +23861,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0351",
@@ -23012,7 +24220,15 @@
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Der Inflationsvergleich lässt Zahlungsfunktion, Laufzeit und die möglichen Kursschwankungen von Staatsanleihen außer Betracht."
+      "shortReason": "Der Inflationsvergleich lässt Zahlungsfunktion, Laufzeit und die möglichen Kursschwankungen von Staatsanleihen außer Betracht.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0357",
@@ -23108,7 +24324,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0359",
@@ -23162,7 +24386,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0360",
@@ -23213,7 +24445,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0361",
@@ -23367,7 +24607,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0364",
@@ -23605,6 +24853,14 @@
         ],
         "missingInformation": null,
         "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -23848,7 +25104,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0373",
@@ -23995,7 +25259,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0376",
@@ -24341,7 +25613,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0383",
@@ -24635,7 +25915,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0389",
@@ -24687,7 +25975,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0390",
@@ -24743,7 +26039,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "mlxFA9T88I0-A0391",
@@ -24863,7 +26167,15 @@
           ]
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Claude",
+        "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": true
+      }
     },
     {
       "id": "mlxFA9T88I0-A0393",
