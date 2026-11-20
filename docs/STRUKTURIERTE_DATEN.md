@@ -48,6 +48,8 @@ Eine neue Gegenbehauptung erhält einen eigenen Prüfgegenstand und gegebenenfal
 
 Nur diese sechs Kategorien sind erlaubt: Belegt, Teilweise belegt, Irreführend / Kontext fehlt, Widerlegt, Nicht ausreichend belegbar, Meinung / Prognose. Status: Offen (noch nicht geprüft), In Bearbeitung, Nicht überprüfbar oder Abgeschlossen; die verbindliche Abgrenzung steht in [AGENTEN_PRUEFSTATUS.md](AGENTEN_PRUEFSTATUS.md). Offene, laufende und nicht überprüfbare Aussagen haben verdict null und konkrete offene Fragen bzw. die fehlende Prüfgrundlage. Nicht überprüfbar gilt nur für Tatsachenbehauptungen, deren Begründung mit „Nicht überprüfbar – “ beginnt; eine solche Begründung ist bei anderen Status unzulässig. Noch nicht recherchierte Aussagen beginnen mit „Noch nicht geprüft – “. Abgeschlossene Tatsachen brauchen ein Urteil und zugeordnete Sachquellen. Nicht ausreichend belegbar ist ein begründetes abgeschlossenes Ergebnis, keine Kennzeichnung unbearbeiteter Recherche.
 
+Kritische Bewertungen (Widerlegt, Teilweise belegt, Irreführend / Kontext fehlt, Nicht ausreichend belegbar) brauchen zusätzlich `shortReason`: eine Kurzbegründung in einem Satz (höchstens 200 Zeichen), die auf der Webseite schon im zugeklappten Zustand sichtbar ist. Regeln: [KURZBEGRUENDUNG.md](KURZBEGRUENDUNG.md).
+
 Die Art ist Tatsachenbehauptung, Meinung oder Prognose. Letztere verwenden abgeschlossen Meinung / Prognose und bleiben außerhalb des Tatsachen-Nenners. Quellen tatsächlich lesen; ein Quellenverweis oder Statusfeld beweist allein keine Belegprüfung. Übernommene Teilbefunde werden ausdrücklich als solche gekennzeichnet, nicht als neue Recherche ausgegeben.
 
 ## Statistik ohne Doppelzählung

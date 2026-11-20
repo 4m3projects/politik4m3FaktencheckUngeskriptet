@@ -888,6 +888,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Tabelle 97 stützt gerundet drei bis fünf Monate beim deutschen Referenzmix; andere Referenzmixe ergeben längere Zeiten. Die nötige Methodenabgrenzung zum Vestas-Nettorücklauf fehlt in der Kurzfassung. Kein nachgewiesener Zahlenwiderspruch.",
+      "shortReason": "Gerundet stimmt das mit deutschem Strommix; andere Referenzmixe ergeben längere Zeiten, die Methodenabgrenzung fehlt.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1453,6 +1454,7 @@
       "status": "Abgeschlossen",
       "verdict": "Irreführend / Kontext fehlt",
       "reason": "Die konkret herangezogene Pufferfreigabe wurde bereits am 12.03.2020 angekündigt. Der Mai-Begleittext betrifft zudem die Verbuchung ausfallender Kredite. Ein später eingetroffener identischer Prognoseinhalt ist so nicht belegt; Originalinterviewprüfung bleibt offen.",
+      "shortReason": "Die herangezogene Pufferfreigabe war schon am 12.03.2020 angekündigt; eine später eingetroffene Vorhersage ist nicht belegt.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1547,6 +1549,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Zinsrisiko war wesentlich; der Aufsichtsbericht nennt auch Liquiditätsrisiken, Management- und Aufsichtsversagen. Eine monokausale Kurzfassung lässt Ursachen aus.",
+      "shortReason": "Das Zinsrisiko war wesentlich, der Aufsichtsbericht nennt aber auch Liquiditätsrisiken sowie Management- und Aufsichtsversagen.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -2045,6 +2048,7 @@
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
       "reason": "Die UBA-Modellbandbreite reicht ungefähr bis ein Jahr; sie hängt zusätzlich zum Standort vom Referenzstrommix ab. Schwachwind allein erklärt die längste Dauer nicht.",
+      "shortReason": "Bis etwa ein Jahr reicht die UBA-Bandbreite, das hängt aber vor allem auch vom Referenzstrommix ab, nicht nur vom Standort.",
       "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
       "migration": {
         "changeType": "Neuerfassung",

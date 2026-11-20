@@ -434,6 +434,8 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
 .vc-flag:empty { display: none; }
 .vc-item.is-current .vc-flag { background: var(--accent-soft); border-radius: 999px; padding: 1px 8px; }
 .vc-desc { font-weight: 550; margin: 8px 0 6px; }
+/* Kurzbegründung (shortReason): schon im zugeklappten Zustand sichtbar, Details beim Aufklappen. */
+.vc-short { margin: 0 0 6px; color: var(--text-2); }
 .vc-meta { display: flex; flex-wrap: wrap; gap: 6px; }
 .warn-badge { border-color: var(--v-irrefuehrend); white-space: normal; }
 .vc-details { margin-top: 8px; }

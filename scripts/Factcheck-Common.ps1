@@ -13,6 +13,24 @@ function Assert-FactcheckKeys($Object,[string[]]$Keys,[string]$Context) {
     foreach ($key in $Keys) { if ($actual -cnotcontains $key) { throw "$Context fehlt Feld $key." } }
     foreach ($key in $actual) { if ($Keys -cnotcontains $key) { throw "$Context unbekanntes Feld $key." } }
 }
+# Kurzbegruendung (shortReason, docs/KURZBEGRUENDUNG.md): Pflicht bei diesen Bewertungen, sonst freiwillig.
+$script:FactcheckShortReasonVerdicts = @('Teilweise belegt','Irreführend / Kontext fehlt','Widerlegt','Nicht ausreichend belegbar')
+$script:FactcheckShortReasonMax = 200
+function Assert-FactcheckShortReason($Claim) {
+    $t = $Claim.shortReason
+    Assert-FactcheckText $t 'Kurzbegruendung'
+    if ($Claim.status -cne 'Abgeschlossen' -and $Claim.status -cne 'Nicht überprüfbar') { throw 'Kurzbegruendung nur bei abschliessend eingeordneten Aussagen; offene Aussagen haben noch kein Ergebnis.' }
+    if ($t.Length -gt $script:FactcheckShortReasonMax -or $t -cmatch '[\r\n]') { throw "Kurzbegruendung hoechstens $($script:FactcheckShortReasonMax) Zeichen in einer Zeile." }
+    if ($t -ceq $Claim.reason) { throw 'Kurzbegruendung darf die vollstaendige Begruendung nicht wiederholen.' }
+    # Kein Widerspruch zur Kategorie: grobe Pruefung der Satzanfaenge.
+    if (($Claim.verdict -ceq 'Widerlegt' -or $Claim.verdict -ceq 'Irreführend / Kontext fehlt') -and $t -cmatch '^(Stimmt|Richtig|Belegt|Zutreffend|Korrekt)\b') { throw 'Kurzbegruendung widerspricht der Bewertung.' }
+    if ($Claim.verdict -ceq 'Belegt' -and $t -cmatch '^(Falsch|Widerlegt|Stimmt nicht|Unzutreffend)\b') { throw 'Kurzbegruendung widerspricht der Bewertung.' }
+}
+# Pflicht fuer den aktuellen Bestand (Build-Factcheck, auch im Pruefmodus); historische Staende ohne Feld bleiben lesbar.
+function Assert-FactcheckShortReasonComplete($Data) {
+    $missing = @($Data.claims | Where-Object { $script:FactcheckShortReasonVerdicts -ccontains $_.verdict -and @($_.PSObject.Properties.Name) -cnotcontains 'shortReason' } | ForEach-Object id)
+    if ($missing.Count) { throw ('Kurzbegruendung (shortReason) fehlt bei ' + $missing.Count + ' Aussage(n) mit kritischer Bewertung: ' + ($missing -join ', ')) }
+}
 function Assert-FactcheckText($Text,[string]$Context) {
     if ($Text -isnot [string] -or [string]::IsNullOrWhiteSpace($Text)) { throw "$Context muss ein nichtleerer Text sein." }
 }
@@ -170,6 +188,8 @@ function Assert-FactcheckData($Data) {
         $claimKeys = @('id','videoId','chapter','legacyId','kind','description','status','verdict','reason','assessmentBasis','migration','sourceRefs','openQuestions','occurrences','relations')
         # Optionale Recherchedokumentation (docs/AGENTEN_RECHERCHE.md); Bestand ohne das Feld bleibt gueltig.
         if (@($c.PSObject.Properties.Name) -ccontains 'research') { $claimKeys += 'research' }
+        # Kurzbegruendung (docs/KURZBEGRUENDUNG.md): ein Satz, der schon im zugeklappten Zustand sichtbar ist.
+        if (@($c.PSObject.Properties.Name) -ccontains 'shortReason') { $claimKeys += 'shortReason' }
         Assert-FactcheckKeys $c $claimKeys 'Aussage'
         if ($c.id -cnotmatch ('^' + [regex]::Escape($s.videoId) + '-A[0-9]{4,}$') -or $claimIds.ContainsKey($c.id)) { throw 'Doppelte/ungueltige Aussage-ID.' }
         if ($c.videoId -cne $s.videoId -or ($null -ne $c.legacyId -and $s.selectedLegacyIds -cnotcontains $c.legacyId)) { throw 'Aussage hat falsche Video-/Herkunftszuordnung.' }
@@ -185,6 +205,7 @@ function Assert-FactcheckData($Data) {
             if (-not ([string]$c.reason).StartsWith($script:FactcheckUnverifiablePrefix)) { throw 'Nicht ueberpruefbare Aussage braucht Begruendung mit Nicht überprüfbar – Grund.' }
         } elseif (([string]$c.reason) -cmatch '^Nicht überprüf') { throw 'Begruendung Nicht ueberpruefbar/ueberprueft nur mit Status Nicht überprüfbar; noch nicht gepruefte Aussagen bleiben Offen.' }
         foreach ($key in @('description','reason','assessmentBasis')) { Assert-FactcheckText $c.$key $key }
+        if ($claimKeys -ccontains 'shortReason') { Assert-FactcheckShortReason $c }
         Assert-FactcheckKeys $c.migration @('changeType','mapping','assessmentChange') 'Migrationszuordnung'
         foreach ($key in @('changeType','mapping','assessmentChange')) { Assert-FactcheckText $c.migration.$key $key }
         foreach ($key in @('sourceRefs','openQuestions','occurrences','relations')) { Assert-FactcheckArray $c.$key $key }

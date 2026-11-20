@@ -8,6 +8,7 @@ $dir = Join-Path $root ('faktenchecks/' + $VideoId + '/strukturiert')
 $utf = [Text.UTF8Encoding]::new($false,$true)
 $d = ConvertFrom-FactcheckJson ([IO.File]::ReadAllText((Join-Path $dir 'aussagen.json'),$utf))
 if ($d.scope.videoId -cne $VideoId) { throw 'Video-ID und Daten passen nicht zusammen.' }
+Assert-FactcheckShortReasonComplete $d
 $artifacts = Get-FactcheckArtifacts $d
 foreach ($name in $artifacts.Keys) {
     $path = Join-Path $dir $name
