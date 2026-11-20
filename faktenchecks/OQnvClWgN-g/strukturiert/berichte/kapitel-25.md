@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gezielte atomare Auswahl als Referenz für zwei Reaktionsvideos. Nicht das gesamte 3:21-Stunden-Interview geprüft. 178 frühere Gruppenpositionen separat als historischer Arbeitsstand erhalten; keine Hochrechnung und keine Video-Fehlerquote.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert.
 
 ## OQnvClWgN-g-A0025
 
@@ -100,7 +100,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Corona-Krise habe seine vorherige Bankenkrisenvorhersage erfüllt.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -119,24 +119,41 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Für einen Treffer sind ursprünglicher Wortlaut, Termin, Mechanismus und Erfolgskriterium nötig. Unterstützte Banken und eine eingetretene Pandemie allein entscheiden die behauptete Prognoseerfüllung nicht.
+Im Original vom 31.05.2019 skizziert Krall für das dritte oder vierte Quartal 2020 einen bedingten Ablauf aus Ertragserosion, Verlusten und Kreditkontraktion. 2020 gab es tatsächlich schwere Finanzmarktturbulenzen und Stützung; laut EZB wuchsen Unternehmenskredite und die EBA dokumentiert eine höhere Kapitalquote der Teststichprobe. Auch Kralls eigene spätere Textfassung benennt Abweichungen der Prognose. Eine Krisenreaktion allein bestätigt nicht den behaupteten ursprünglichen Mechanismus; unbeobachtete Verläufe ohne Hilfen bleiben damit unentschieden.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Atomarer Gegenstand aus eigener Vorarbeit V14-25.02; diese hat keine Git-Herkunft nach dem Legacy-Schema.
 
-Bewertungsuebergang: Historische Gruppenbewertung V14-25.02: Nicht ausreichend belegbar / Prognosebilanz offen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen.
+Bewertungsuebergang: Historische Gruppenbewertung V14-25.02: Nicht ausreichend belegbar / Prognosebilanz offen. Aktuelle abgegrenzte Prüfung: In Bearbeitung. Begründung und tatsächlich verwendete Quellen siehe aktuellen Datensatz; alte Begründung bleibt im historischen Register erhalten. Keine Gleichsetzung thematischer Gruppen mit atomaren Aussagen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Für einen Treffer sind ursprünglicher Wortlaut, Termin, Mechanismus und Erfolgskriterium nötig. Unterstützte Banken und eine eingetretene Pandemie allein entscheiden die behauptete Prognoseerfüllung nicht.","sourceIds":["S012","S015"]}. Jetzt Abgeschlossen / Irreführend / Kontext fehlt. Im Original vom 31.05.2019 skizziert Krall für das dritte oder vierte Quartal 2020 einen bedingten Ablauf aus Ertragserosion, Verlusten und Kreditkontraktion. 2020 gab es tatsächlich schwere Finanzmarktturbulenzen und Stützung; laut EZB wuchsen Unternehmenskredite und die EBA dokumentiert eine höhere Kapitalquote der Teststichprobe. Auch Kralls eigene spätere Textfassung benennt Abweichungen der Prognose. Eine Krisenreaktion allein bestätigt nicht den behaupteten ursprünglichen Mechanismus; unbeobachtete Verläufe ohne Hilfen bleiben damit unentschieden.
 
 ### Zugeordnete Quellen
 
-- [ECB review sees increased medium-term vulnerabilities](https://www.ecb.europa.eu/press/pr/date/2020/html/ecb.pr201125~01dfca322a.en.html) · EZB, 25.11.2020; stärkere Ausgangsbilanzen und fortbestehende Risiken.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Originalinterview: Krall bei ungeskriptet](https://www.youtube.com/watch?v=OQnvClWgN-g) · {ungeskriptet} by Ben; Aufnahme laut Beschreibung 15.09.2026; Upload 17.10.2026; 03:21:01.
+  Quellenzugriff am 2026-11-18. oEmbed und gespeicherte Uploadmetadaten identifiziert. Nur die jeweils angegebenen deutschen automatischen Textstellen erneut gelesen; keine vollständige audiovisuelle Kontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
-- [Krall-Interviewhinweis vom Mai 2020](https://finanzmarktwelt.de/coronakrise-markus-krall-ueber-legalisierten-bilanzbetrug-167683/) · Finanzmarktwelt, 18.05.2020; Begleitbericht zu einem damaligen Interview, kein Primärbeleg für vollständigen Interviewwortlaut.
-  Quellenzugriff am 2026-11-18. Datierter Begleittext gelesen. Er beschreibt erwartete Nichtverbuchung ausfallender Kredite; Originalinterview noch nicht unabhängig kontrolliert. Nicht gleichbedeutend mit Freigabe bestehender Kapitalpuffer. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+- [Krall bei Thorsten Wittmann, 31.05.2019](https://www.youtube.com/watch?v=wFBvqwscyew) · Originalinterview; Prognosemechanismus 01:50–07:49, Termin 06:03 und Einschränkungen ab 07:20.
+  Quellenzugriff am 2026-11-19. Originalplayer geöffnet, Beschreibung und Veröffentlichungsdatum kontrolliert, dortiges deutsches Transkript vollständig privat gelesen. Kein fremder Volltext veröffentlicht, keine akustische Sprecherbestätigung. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [Thorsten Wittmann: Interview mit Krall während der Corona-Krise](https://thorstenwittmann.com/dr-markus-krall-der-finanzcrash-kommt-2020-blog/) · Vom Interviewer veröffentlichte Textfassung, insbesondere Rückblick auf ursprüngliche Prognose und Abweichungen.
+  Quellenzugriff am 2026-11-19. Einschlägige Antworten zur ursprünglichen Prognose und den zwei Abweichungen selbst gelesen; spätere Selbstauskunft, kein Ersatz für das Original von 2019. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [EZB-Jahresbericht 2020](https://www.ecb.europa.eu/press/annual-reports-financial-statements/annual/html/ar2020~4960fb81ae.en.html) · Abschnitte 1, 2 und 3: Realwirtschaft, Kreditentwicklung und öffentliche Stützungsmaßnahmen.
+  Quellenzugriff am 2026-11-19. Einleitung und Passagen zu Wirtschaftseinbruch, Bankkreditwachstum und Kriseninstrumenten selbst gelesen; keine Aussage über sämtliche privaten Motive. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [EBA: Ergebnisse des EU-weiten Stresstests 2021](https://www.eba.europa.eu/sites/default/files/document_library/Risk%20Analysis%20and%20Data/EU-wide%20Stress%20Testing/2021/ST%20results/1017864/2021-EU-wide-stress-test-Results.pdf) · Ausgangsdaten Ende 2020; Stichprobe 50 Banken, rund 70 Prozent der EU-Bankaktiva; S. 9–10.
+  Quellenzugriff am 2026-11-19. Zusammenfassung, Kapitalquoten und Tabellen selbst gelesen. Kein Nachweis vollständiger Risikofreiheit sämtlicher Banken. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Vorhersage nicht aus fremdem Faktencheck übernommen: Originalplayer vom 31.05.2019 und vollständigen dortigen Transkripttext gelesen. Gepruefte Quellen: S044. Ergebnis: Termin, Annahmen und Unsicherheiten der Prognose identifiziert.
+
+- Durchgang 2 am 2026-11-19 (Codex): Mit Kralls späterem Rückblick, EZB-Kreditentwicklung und EBA-Kapitaldaten abgeglichen; Original-Selbsteinschätzung 03:16 gelesen. Gepruefte Quellen: S001, S045, S036, S046. Ergebnis: Eingetretene Krise und Gegenmaßnahmen sind kein deckungsgleicher Nachweis des prognostizierten Ablaufs.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

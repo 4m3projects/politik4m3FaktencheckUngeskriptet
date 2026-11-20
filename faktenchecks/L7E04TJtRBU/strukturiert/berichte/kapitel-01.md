@@ -1075,7 +1075,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die regionale AIMS-Reihe widerlege damit einen weltweiten aktuellen Korallenrekord.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1094,22 +1094,33 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Politik4M3 begrenzt die Aussage zunächst regional, zieht dann einen pauschalen Rekordschluss. Eine weltweite Flächen-/Volumenreihe fehlt; 2026 ist nicht dasselbe wie Erhebungen bis Mai 2025.
+Die Reaktion begrenzt AIMS zunächst zutreffend auf drei Regionen des Great Barrier Reef, zieht daraus aber einen weltweiten Rekordschluss. Regionale Bedeckung bis Mai 2025 entscheidet keinen globalen Flächen-/Volumenrekord 2026. Die zusätzlich gelesene globale GCRMN-Auswertung liefert eigenen Kontext bis 2024, macht diesen Schluss aus AIMS allein jedoch nicht tragfähig. Unterschiedliche Messgrößen und Endzeitpunkte müssen sichtbar bleiben.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Politik4M3 begrenzt die Aussage zunächst regional, zieht dann einen pauschalen Rekordschluss. Eine weltweite Flächen-/Volumenreihe fehlt; 2026 ist nicht dasselbe wie Erhebungen bis Mai 2025.","sourceIds":["S023"]}. Jetzt Abgeschlossen / Irreführend / Kontext fehlt. Die Reaktion begrenzt AIMS zunächst zutreffend auf drei Regionen des Great Barrier Reef, zieht daraus aber einen weltweiten Rekordschluss. Regionale Bedeckung bis Mai 2025 entscheidet keinen globalen Flächen-/Volumenrekord 2026. Die zusätzlich gelesene globale GCRMN-Auswertung liefert eigenen Kontext bis 2024, macht diesen Schluss aus AIMS allein jedoch nicht tragfähig. Unterschiedliche Messgrößen und Endzeitpunkte müssen sichtbar bleiben.
 
 ### Zugeordnete Quellen
 
 - [Annual Summary Report of Coral Reef Condition 2024/25](https://www.aims.gov.au/monitoring-great-barrier-reef/gbr-condition-summary-2024-25) · AIMS, 06.08.2025; 124 Riffe, Erhebungen August 2024–Mai 2025; Hartkorallenbedeckung, keine weltweite Korallenbiomasse.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [GCRMN: Status of Coral Reefs of the World 2025, Executive Summary](https://gcrmn.net/wp-content/uploads/2026/08/gcrmn_2025_executive-summary.pdf) · Globale Hartkorallenbedeckung bis 2024; Datenbegrenzungen.
+  Quellenzugriff am 2026-11-19. Zusammenfassung und Methodik selbst gelesen; keine weltweite Volumenmessung und keine Messung am Aufnahmetag 2026. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Originalaussage auf Region und Zeitpunkt präzisieren; globale Daten statt eines einzelnen Riffgebiets prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Originaltext 17:18–18:04 und AIMS-Messgebiet erneut abgeglichen. Gepruefte Quellen: S023. Ergebnis: Der Schluss reicht weiter als das angeführte regionale Monitoring.
+
+- Durchgang 2 am 2026-11-19 (Codex): Globale GCRMN-Zusammenfassung als unabhängigen Prüfweg gelesen. Gepruefte Quellen: S034. Ergebnis: Zusätzliche globale Quelle bestätigt die methodische Trennung; keine weltweite 2026-Volumenreihe.
 
 ## L7E04TJtRBU-A0027
 

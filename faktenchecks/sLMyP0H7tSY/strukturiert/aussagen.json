@@ -10,7 +10,7 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft.",
+    "researchNote": "Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen.",
     "coverageNote": "Unabhängige Teilprüfung der Reaktion. Fünfzehn Sachbewertungen sind nach Abgleich mit dem Original und den Sachquellen abgeschlossen. Weitere erfasste Aussagen, der durchgängige Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus."
   },
   "legacyPoints": [],
@@ -21,31 +21,31 @@
       "url": "https://www.youtube.com/watch?v=sLMyP0H7tSY",
       "details": "YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.",
       "accessedOn": "2026-11-18",
-      "accessBasis": "Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ."
+      "accessBasis": "Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle."
     },
     {
       "id": "S002",
       "title": "HSE: DSEAR",
       "url": "https://www.hse.gov.uk/fireandexplosion/dsear.htm",
       "details": "Abschnitte zu Pflichten, Zonen und Zündquellen; heutiger Erläuterungstext.",
-      "accessedOn": "2026-11-18",
-      "accessBasis": "Von Codex am Abrufdatum gelesen."
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen."
     },
     {
       "id": "S003",
       "title": "Diageo: Malt Brand Homes Terms and Conditions",
       "url": "https://www.malts.com/en/malt-brand-homes-terms-and-conditions",
       "details": "Abschnitt Filming and Photography; heutige Hausregeln, kein historischer Vorher-Nachher-Beleg.",
-      "accessedOn": "2026-11-18",
-      "accessBasis": "Von Codex am Abrufdatum gelesen."
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen."
     },
     {
       "id": "S004",
       "title": "Scotch Whisky Association: Health & Safety",
       "url": "https://scotch-whisky.org.uk/industry-insights/sustainability/health-safety/",
       "details": "Abschnitt Fire risks; Branchenverband als Quelle für eigene Sicherheitsbeschreibung, keine unabhängige Unfallvollerhebung.",
-      "accessedOn": "2026-11-18",
-      "accessBasis": "Von Codex am Abrufdatum gelesen."
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen."
     },
     {
       "id": "S005",
@@ -68,8 +68,8 @@
       "title": "BMF: Kreditaufnahmebericht des Bundes 2025",
       "url": "https://www.deutsche-finanzagentur.de/fileadmin/user_upload/Finanzagentur/pdf/kreditaufnahmeberichte/Kreditaufnahmebericht_2025.pdf",
       "details": "Text relevanter Abschnitte geprüft: Tabelle 7 (Druckseite 27), Tabelle 17 (55), Anhang 4.6 (83). Keine vollständige Prüfung der 96 PDF-Seiten; keine visuelle Tabellenkontrolle als Nachweis verwendet.",
-      "accessedOn": "2026-11-18",
-      "accessBasis": "Von Codex am Abrufdatum gelesen."
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen."
     },
     {
       "id": "S008",
@@ -132,16 +132,16 @@
       "title": "Whisky.de: Chronik 30 Jahre",
       "url": "https://www.whisky.de/ueber-uns/firmenportrait/chronik-30-jahre.html",
       "details": "Abschnitte 1990–1994 und 1995–2001: Gründung, technische Ausbildung, Direktmarketing. Unternehmensselbstauskunft, kein Studien- oder Registeraudit.",
-      "accessedOn": "2026-11-18",
-      "accessBasis": "Von Codex am Abrufdatum gelesen."
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen."
     },
     {
       "id": "S016",
       "title": "HSE: ATEX and explosive atmospheres",
       "url": "https://www.hse.gov.uk/fireandexplosion/atex.htm",
       "details": "Zuordnung Richtlinie 99/92/EC und britische Umsetzung durch DSEAR.",
-      "accessedOn": "2026-11-18",
-      "accessBasis": "Von Codex am Abrufdatum gelesen."
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen."
     },
     {
       "id": "S017",
@@ -190,6 +190,22 @@
       "details": "Reguläre Wahlzeitspanne Anfang 2029 gemäß Art. 39 GG.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Beginn der Wahlperiode und den regulären Wahlzeitraum gelesen."
+    },
+    {
+      "id": "S023",
+      "title": "Kommissionsentwurf COM(2023)369, amtliche Ratskopie",
+      "url": "https://data.consilium.europa.eu/doc/document/ST-11605-2023-INIT/en/pdf",
+      "details": "Deckblatt identifiziert COM(2023)369 final vom 28.06.2023; Artikel 24 Absatz 2 und Erwägungsgrund 55.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Amtliche PDF-Kopie selbst gelesen; direkter EUR-Lex-Zugang weiterhin blockiert. Entwurf, kein Beleg für ein schon geltendes Gesetz."
+    },
+    {
+      "id": "S024",
+      "title": "EU-Kommission: State Aid Scoreboard 2021",
+      "url": "https://competition-policy.ec.europa.eu/system/files/2023-04/state_aid_scoreboard_note_2021.pdf",
+      "details": "Zusammenfassung und Abschnitt 5.6, Berichtsjahr 2020.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Unternehmenshilfen, direkte Finanzsektorbeihilfen und indirekten Schutz der Banken selbst gelesen."
     }
   ],
   "claims": [
@@ -200,28 +216,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Lüning wird als technisch ausgebildeter Whiskyunternehmer mit Unternehmensbeginn 1993 vorgestellt.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: teilweise belegt. S015 stützt Jahr und Ausbildung als Unternehmensselbstauskunft. Die konkrete Berufsakademie und eine gemeinsame rechtliche Gründerrolle sind hier nicht unabhängig belegt; die Chronik bezeichnet Theresia als Gründerin.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Firmenchronik bestätigt den Unternehmensbeginn 1993 und bezeichnet Horst Lüning als studierten Luft- und Raumfahrtingenieur mit späterem Direktmarketingstudium. Sie nennt Theresia ausdrücklich als Gründerin und beschreibt Horsts späteren Einstieg. Damit sind Jahr und Ausbildung gestützt; die gemeinsame rechtliche Gründerrolle und die konkret genannte Berufsakademie sind dadurch nicht unabhängig belegt. Unternehmensselbstauskunft, kein Studien- oder Registeraudit.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0001 (Art: wiedergabe) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: teilweise belegt. S015 stützt Jahr und Ausbildung als Unternehmensselbstauskunft. Die konkrete Berufsakademie und eine gemeinsame rechtliche Gründerrolle sind hier nicht unabhängig belegt; die Chronik bezeichnet Theresia als Gründerin.\",\"sourceIds\":[\"S001\",\"S015\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die Firmenchronik bestätigt den Unternehmensbeginn 1993 und bezeichnet Horst Lüning als studierten Luft- und Raumfahrtingenieur mit späterem Direktmarketingstudium. Sie nennt Theresia ausdrücklich als Gründerin und beschreibt Horsts späteren Einstieg. Damit sind Jahr und Ausbildung gestützt; die gemeinsame rechtliche Gründerrolle und die konkret genannte Berufsakademie sind dadurch nicht unabhängig belegt. Unternehmensselbstauskunft, kein Studien- oder Registeraudit."
       },
       "sourceRefs": [
         {
-          "sourceId": "S001",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
-        },
-        {
           "sourceId": "S015",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0001",
@@ -241,7 +251,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S015"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die Firmenchronik stützt Jahr und Ausbildung, nennt aber Theresia als Gründerin und belegt keine bestimmte Berufsakademie."
     },
     {
       "id": "sLMyP0H7tSY-A0002",
@@ -301,24 +329,22 @@
       "legacyId": null,
       "kind": "Meinung",
       "description": "Aus beruflicher Erfahrung wird eine unterschiedliche fachliche Vertrauenswürdigkeit für Whisky und Staatsschulden abgeleitet.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Meinung / Wertung. Kompetenzurteil und satirische Zuspitzung, kein eigenständiger Zahlenbeleg. Fachfremdheit widerlegt keine Aussage; berufliche Erfahrung bestätigt sie nicht.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Alfred bewertet berufliche Erfahrung und fachliche Vertrauenswürdigkeit und spitzt dies satirisch zu. Das ist ein Kompetenzurteil ohne einheitlichen überprüfbaren Messmaßstab. Berufsfremdheit widerlegt eine Sachbehauptung nicht; Erfahrung allein bestätigt sie ebenfalls nicht.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0003 (Art: wertung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Meinung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: Meinung / Wertung. Kompetenzurteil und satirische Zuspitzung, kein eigenständiger Zahlenbeleg. Fachfremdheit widerlegt keine Aussage; berufliche Erfahrung bestätigt sie nicht.\",\"sourceIds\":[\"S001\"]}. Jetzt Abgeschlossen / Meinung / Prognose. Alfred bewertet berufliche Erfahrung und fachliche Vertrauenswürdigkeit und spitzt dies satirisch zu. Das ist ein Kompetenzurteil ohne einheitlichen überprüfbaren Messmaßstab. Berufsfremdheit widerlegt eine Sachbehauptung nicht; Erfahrung allein bestätigt sie ebenfalls nicht."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0003",
@@ -338,7 +364,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0004",
@@ -347,28 +390,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Europäischer Explosionsschutz um die Jahrtausendwende hat einen realen regulatorischen Hintergrund.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S016 ordnet die EU-Arbeitsschutzrichtlinie und britische Umsetzung zu. Keine Bestätigung der pauschalen Umklassifizierung jeder Brennerei oder konkreter Millionenaufwendungen.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der regulatorische Kern stimmt: Die Arbeitsschutzrichtlinie 1999/92/EG betrifft explosionsfähige Atmosphären und wurde in Großbritannien durch DSEAR umgesetzt. Die HSE beschreibt risikobezogene Pflichten und Zonen. Daraus folgt weder eine pauschale rechtliche Umwandlung aller Brennereien in Chemiewerke noch eine bestimmte Investitionssumme je Betrieb.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0004 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: Sachkern belegt. S016 ordnet die EU-Arbeitsschutzrichtlinie und britische Umsetzung zu. Keine Bestätigung der pauschalen Umklassifizierung jeder Brennerei oder konkreter Millionenaufwendungen.\",\"sourceIds\":[\"S002\",\"S016\"]}. Jetzt Abgeschlossen / Belegt. Der regulatorische Kern stimmt: Die Arbeitsschutzrichtlinie 1999/92/EG betrifft explosionsfähige Atmosphären und wurde in Großbritannien durch DSEAR umgesetzt. Die HSE beschreibt risikobezogene Pflichten und Zonen. Daraus folgt weder eine pauschale rechtliche Umwandlung aller Brennereien in Chemiewerke noch eine bestimmte Investitionssumme je Betrieb."
       },
       "sourceRefs": [
         {
           "sourceId": "S002",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         },
         {
           "sourceId": "S016",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0004",
@@ -388,7 +429,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S002",
+              "S016"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0005",
@@ -397,24 +456,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Diageo untersagt Foto- und Aufnahmegeräte aus Sicherheitsgründen in bestimmten Bereichen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S003 erlaubt private Kameranutzung grundsätzlich und mögliche Verbote in bezeichneten Bereichen. Betriebliche Besucherregeln sind kein generelles gesetzliches Fotografieverbot.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Diageos Besucherbedingungen erlauben private Kameranutzung grundsätzlich, lassen aber aus Sicherheitsgründen ein Verbot von Foto- und Aufnahmegeräten in bestimmten ausgewiesenen Bereichen zu. Genau diesen begrenzten Sachverhalt behauptet Alfred. Daraus wird kein allgemeines gesetzliches Fotografieverbot in jeder Brennerei.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0005 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: Sachkern belegt. S003 erlaubt private Kameranutzung grundsätzlich und mögliche Verbote in bezeichneten Bereichen. Betriebliche Besucherregeln sind kein generelles gesetzliches Fotografieverbot.\",\"sourceIds\":[\"S003\"]}. Jetzt Abgeschlossen / Belegt. Diageos Besucherbedingungen erlauben private Kameranutzung grundsätzlich, lassen aber aus Sicherheitsgründen ein Verbot von Foto- und Aufnahmegeräten in bestimmten ausgewiesenen Bereichen zu. Genau diesen begrenzten Sachverhalt behauptet Alfred. Daraus wird kein allgemeines gesetzliches Fotografieverbot in jeder Brennerei."
       },
       "sourceRefs": [
         {
           "sourceId": "S003",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0005",
@@ -434,7 +491,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S003"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0006",
@@ -443,28 +517,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Whiskybranche behandelt Feuer und Explosion wegen leicht entzündlichen Ethanols als reale Gefahren.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S004 benennt dies ausdrücklich; S002 verlangt risikobezogene Vermeidung von Zündquellen. Das belegt keinen bestimmten durch eine Kamera ausgelösten Unfall.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Branchenverband benennt Feuer und Explosion ausdrücklich als fortbestehende Gefahren beim Umgang mit großen Mengen leicht entzündlichen Ethanols. Die HSE verlangt, entsprechende Risiken und Zündquellen zu kontrollieren. Das belegt die reale Gefahr, keinen bestimmten von einer Kamera ausgelösten Unfall.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0006 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: Sachkern belegt. S004 benennt dies ausdrücklich; S002 verlangt risikobezogene Vermeidung von Zündquellen. Das belegt keinen bestimmten durch eine Kamera ausgelösten Unfall.\",\"sourceIds\":[\"S004\",\"S002\"]}. Jetzt Abgeschlossen / Belegt. Der Branchenverband benennt Feuer und Explosion ausdrücklich als fortbestehende Gefahren beim Umgang mit großen Mengen leicht entzündlichen Ethanols. Die HSE verlangt, entsprechende Risiken und Zündquellen zu kontrollieren. Das belegt die reale Gefahr, keinen bestimmten von einer Kamera ausgelösten Unfall."
       },
       "sourceRefs": [
         {
           "sourceId": "S004",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         },
         {
           "sourceId": "S002",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0006",
@@ -484,7 +556,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S004",
+              "S002"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0007",
@@ -718,24 +808,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die durchschnittliche Restlaufzeit des Bundesportfolios stieg zwischen Ende 2021 und Ende 2024.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Sachkern belegt. S007 Anhang 4.6: ohne Swaps 6,90 auf 7,63 Jahre. Keine Aussage über jede einzelne Neuemission oder die gesamte öffentliche Verschuldung einschließlich Länder und Gemeinden.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Zahlen sind im Bundesbericht nachvollziehbar: Anhang 4.6 nennt für das Portfolio ohne Zinsswaps 6,90 Jahre Ende 2021 und 7,63 Ende 2024. Die Tabelle bezeichnet diese Größe präzise als Zinsbindungsfrist. Das stützt die Aussage gegen eine generelle Verkürzung der Zinsbindung, ist aber keine vollständige Statistik sämtlicher Restlaufzeiten oder der Verschuldung von Ländern und Gemeinden. Alfreds alltagssprachliche Laufzeitdarstellung verkürzt diese Abgrenzung.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0012 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: Sachkern belegt. S007 Anhang 4.6: ohne Swaps 6,90 auf 7,63 Jahre. Keine Aussage über jede einzelne Neuemission oder die gesamte öffentliche Verschuldung einschließlich Länder und Gemeinden.\",\"sourceIds\":[\"S007\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die Zahlen sind im Bundesbericht nachvollziehbar: Anhang 4.6 nennt für das Portfolio ohne Zinsswaps 6,90 Jahre Ende 2021 und 7,63 Ende 2024. Die Tabelle bezeichnet diese Größe präzise als Zinsbindungsfrist. Das stützt die Aussage gegen eine generelle Verkürzung der Zinsbindung, ist aber keine vollständige Statistik sämtlicher Restlaufzeiten oder der Verschuldung von Ländern und Gemeinden. Alfreds alltagssprachliche Laufzeitdarstellung verkürzt diese Abgrenzung."
       },
       "sourceRefs": [
         {
           "sourceId": "S007",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0012",
@@ -755,7 +843,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S007"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die bestätigten Werte betreffen die Zinsbindungsfrist des Bundesportfolios, keine vollständige Statistik aller Restlaufzeiten."
     },
     {
       "id": "sLMyP0H7tSY-A0013",
@@ -905,28 +1011,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die wiederholte Erzählung einer heimlichen Bankenrettung wird zurückgewiesen.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: teilweise belegt. S012 dokumentiert ein öffentliches Wertpapierkaufprogramm, keine allgemeine Eigenkapitalzuführung. Dass es Finanzierungsbedingungen stützte, ist damit nicht ausgeschlossen. Das im Original unscharf benannte Pandemieprogramm ist nur plausibel PEPP; nicht alle Bankenhilfen untersucht.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die öffentlichen EU-Berichte dokumentieren massive Unternehmenshilfen und ein offen bekanntgegebenes Wertpapierkaufprogramm. Direkte Bankenbeihilfen blieben 2020 stabil oder gingen zurück; Unternehmenshilfen schützten Banken zugleich indirekt vor Kreditausfällen. Das stützt die Zurückweisung einer pauschalen geheimen Eigenkapitalrettung als Erklärung der Pandemieprogramme. Es widerlegt weder jeden möglichen Einzelfall von Bankenhilfe noch jede indirekte Stabilisierung. Die ungenaue Originalbezeichnung wird nicht sicher mit PEPP gleichgesetzt.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0016 (Art: schlussfolgerung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: teilweise belegt. S012 dokumentiert ein öffentliches Wertpapierkaufprogramm, keine allgemeine Eigenkapitalzuführung. Dass es Finanzierungsbedingungen stützte, ist damit nicht ausgeschlossen. Das im Original unscharf benannte Pandemieprogramm ist nur plausibel PEPP; nicht alle Bankenhilfen untersucht.\",\"sourceIds\":[\"S012\",\"S020\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die öffentlichen EU-Berichte dokumentieren massive Unternehmenshilfen und ein offen bekanntgegebenes Wertpapierkaufprogramm. Direkte Bankenbeihilfen blieben 2020 stabil oder gingen zurück; Unternehmenshilfen schützten Banken zugleich indirekt vor Kreditausfällen. Das stützt die Zurückweisung einer pauschalen geheimen Eigenkapitalrettung als Erklärung der Pandemieprogramme. Es widerlegt weder jeden möglichen Einzelfall von Bankenhilfe noch jede indirekte Stabilisierung. Die ungenaue Originalbezeichnung wird nicht sicher mit PEPP gleichgesetzt."
       },
       "sourceRefs": [
         {
           "sourceId": "S012",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         },
         {
-          "sourceId": "S020",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "sourceId": "S024",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0016",
@@ -946,7 +1050,26 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S012",
+              "S024"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Öffentliche Unternehmenshilfen stabilisierten Banken auch indirekt; damit ist nicht jeder einzelne Bankenhilfefall untersucht."
     },
     {
       "id": "sLMyP0H7tSY-A0017",
@@ -1091,29 +1214,22 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Kommissionsentwurf schließe programmierbares Geld ausdrücklich aus; Kaufverbote erforderten eine Gesetzesänderung.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: offen. Der genaue Entwurfstext S017 war nicht lesbar. Die Aussage ist mit S010 vereinbar, aber damit nicht wortlautgetreu juristisch verifiziert. Eine Garantie gegen jede anders begründete staatliche Zahlungsbeschränkung wäre weitergehend.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Artikel 24 Absatz 2 des Kommissionsentwurfs verbietet programmierbares Geld ausdrücklich. Erwägungsgrund 55 unterscheidet dies von bedingten Zahlungen auf Wunsch der Nutzer. Für eingebaute Waren- oder Verfallsbeschränkungen müsste dieser Entwurf daher geändert werden. Das ist keine allgemeine Garantie gegen Sanktionen oder andere gesetzliche Zahlungsbeschränkungen und bezeichnet noch kein verabschiedetes Gesetz. Die amtliche Ratskopie macht den zuvor nicht lesbaren Entwurf jetzt unmittelbar prüfbar.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0020 (Art: rechtsbehauptung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: offen. Der genaue Entwurfstext S017 war nicht lesbar. Die Aussage ist mit S010 vereinbar, aber damit nicht wortlautgetreu juristisch verifiziert. Eine Garantie gegen jede anders begründete staatliche Zahlungsbeschränkung wäre weitergehend.\",\"sourceIds\":[\"S010\",\"S017\"]}. Jetzt Abgeschlossen / Teilweise belegt. Artikel 24 Absatz 2 des Kommissionsentwurfs verbietet programmierbares Geld ausdrücklich. Erwägungsgrund 55 unterscheidet dies von bedingten Zahlungen auf Wunsch der Nutzer. Für eingebaute Waren- oder Verfallsbeschränkungen müsste dieser Entwurf daher geändert werden. Das ist keine allgemeine Garantie gegen Sanktionen oder andere gesetzliche Zahlungsbeschränkungen und bezeichnet noch kein verabschiedetes Gesetz. Die amtliche Ratskopie macht den zuvor nicht lesbaren Entwurf jetzt unmittelbar prüfbar."
       },
       "sourceRefs": [
         {
-          "sourceId": "S010",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
-        },
-        {
-          "sourceId": "S017",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "sourceId": "S023",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0020",
@@ -1133,7 +1249,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S023"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Der Entwurf verbietet programmierbares Geld; andere gesetzliche Zahlungsbeschränkungen werden dadurch nicht ausgeschlossen."
     },
     {
       "id": "sLMyP0H7tSY-A0021",
@@ -1274,24 +1408,22 @@
       "legacyId": null,
       "kind": "Meinung",
       "description": "Vier ausgewählte Sachkomplexe werden als wiederkehrendes Muster fehlerhafter Erklärungen zusammengefasst.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Meinung / Wertung. Übergreifende Bewertung, keine vollständige Fehlerstatistik des Interviews. Jeder Sachkomplex enthält zutreffende und eingeschränkte Teilbefunde.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Das übergreifende Urteil über vier ausgewählte Erklärungen ist Alfreds eigene Zusammenfassung. Es ist keine vollständige Fehlerquote des Interviews. Die jeweiligen Sachbehauptungen werden getrennt bewertet; die Auswahl rechtfertigt kein statistisches Personenurteil.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0024 (Art: wertung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Meinung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: Meinung / Wertung. Übergreifende Bewertung, keine vollständige Fehlerstatistik des Interviews. Jeder Sachkomplex enthält zutreffende und eingeschränkte Teilbefunde.\",\"sourceIds\":[\"S001\"]}. Jetzt Abgeschlossen / Meinung / Prognose. Das übergreifende Urteil über vier ausgewählte Erklärungen ist Alfreds eigene Zusammenfassung. Es ist keine vollständige Fehlerquote des Interviews. Die jeweiligen Sachbehauptungen werden getrennt bewertet; die Auswahl rechtfertigt kein statistisches Personenurteil."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0024",
@@ -1311,7 +1443,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0025",
@@ -1320,24 +1469,22 @@
       "legacyId": null,
       "kind": "Meinung",
       "description": "Die Indexregel fasst widerlegte und nicht überprüfbare Aussagen zusammen; daneben werden andere subjektive Kategorien gebildet.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Meinung / Wertung. Offengelegte eigene Bewertungsregel. Unser Projekt übernimmt weder diese Gleichsetzung noch Personennoten. Ungeprüft, nicht überprüfbar und falsch müssen weiterhin getrennt bleiben.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Alfred legt eine eigene normative Indexregel offen, die unter anderem Widerlegtes und nicht Überprüfbares gemeinsam zählt. Diese Regel ist als Bewertungsentscheidung einzuordnen und wird nicht als neutrale Fehlerdefinition übernommen. Ihre tatsächliche Anwendung und Häufigkeiten bleiben im gesonderten Eintrag A0026 offen.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0025 (Art: methodik) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Meinung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: Meinung / Wertung. Offengelegte eigene Bewertungsregel. Unser Projekt übernimmt weder diese Gleichsetzung noch Personennoten. Ungeprüft, nicht überprüfbar und falsch müssen weiterhin getrennt bleiben.\",\"sourceIds\":[\"S001\"]}. Jetzt Abgeschlossen / Meinung / Prognose. Alfred legt eine eigene normative Indexregel offen, die unter anderem Widerlegtes und nicht Überprüfbares gemeinsam zählt. Diese Regel ist als Bewertungsentscheidung einzuordnen und wird nicht als neutrale Fehlerdefinition übernommen. Ihre tatsächliche Anwendung und Häufigkeiten bleiben im gesonderten Eintrag A0026 offen."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0025",
@@ -1357,7 +1504,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0026",
@@ -1413,24 +1577,22 @@
       "legacyId": null,
       "kind": "Meinung",
       "description": "Alfred gibt einen persönlichen Gesprächseindruck und räumt Erklärungsbedarf bei der Messung ein.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: Meinung / Wertung. Subjektives Fazit; keine Personennote unsererseits. Die Ankündigung einer methodischen Weiterentwicklung ist kein Nachweis für falsche bisherige Zahlen.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Persönlicher Gesprächseindruck und Selbsteinschätzung zur erklärungsbedürftigen Messung. Die angekündigte Weiterentwicklung ist weder eine Sachfehlerstatistik noch ein Nachweis falscher früherer Zahlen.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0027 (Art: wertung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „Meinung / Wertung“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Meinung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: Meinung / Wertung. Subjektives Fazit; keine Personennote unsererseits. Die Ankündigung einer methodischen Weiterentwicklung ist kein Nachweis für falsche bisherige Zahlen.\",\"sourceIds\":[\"S001\"]}. Jetzt Abgeschlossen / Meinung / Prognose. Persönlicher Gesprächseindruck und Selbsteinschätzung zur erklärungsbedürftigen Messung. Die angekündigte Weiterentwicklung ist weder eine Sachfehlerstatistik noch ein Nachweis falscher früherer Zahlen."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0027",
@@ -1450,7 +1612,24 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0028",
