@@ -15,8 +15,8 @@ Stand: 2026-11-20 · Video: qQAcmDzd9O8
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 43
 - Abgeschlossen: 39
 - Offen (noch nicht geprueft): 0
-- In Bearbeitung: 4
-- Nicht ueberpruefbar (abschliessend ohne Urteil): 0
+- In Bearbeitung: 3
+- Nicht ueberpruefbar (abschliessend ohne Urteil): 1
 - Erfasste Behauptungsvorkommen: 43
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0

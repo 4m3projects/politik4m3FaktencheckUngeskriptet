@@ -5,7 +5,7 @@
     "videoId": "sLMyP0H7tSY",
     "videoUrl": "https://www.youtube.com/watch?v=sLMyP0H7tSY",
     "durationSeconds": 999,
-    "asOf": "2026-11-19",
+    "asOf": "2026-11-20",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
@@ -172,8 +172,8 @@
       "title": "Originalinterview",
       "url": "https://www.youtube.com/watch?v=mlxFA9T88I0",
       "details": "Relevante Original-Untertitelpassagen erneut gelesen; keine direkte akustische Sprecherkontrolle und keine neue Vollprüfung des dreistündigen Interviews.",
-      "accessedOn": "2026-11-18",
-      "accessBasis": "Nur zur Fundstellensuche genutzt; keine Inhalte übernommen."
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. [Codex] 20.11.2026: Originaltext 00:40:20–00:41:10 und 01:00:04–01:01:08 einschließlich Rückfragen selbst erneut gelesen, um die wiedergegebene Selbstauskunft abzugleichen; keine Hör-/Sichtkontrolle oder externe Bestätigung der Kennzahlen."
     },
     {
       "id": "S021",
@@ -278,29 +278,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Umsatz und 167 Brennereibesuche werden ausdrücklich als eigene Angaben Lünings berichtet.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: offen. Die entsprechenden Originalstellen und Vergleichs-IDs sind vorhanden. Die Genauigkeit von Besuchszählung und damaligem Umsatz ist damit extern nicht bestätigt. Alfreds Zuschreibung als Selbstauskunft ist von einer Übernahme als geprüfte Kennzahl zu unterscheiden.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Geprüft wird hier, ob Alfred die Zahlen als Selbstauskünfte kenntlich macht, nicht ob Umsatz und Reisezählung unabhängig verifiziert sind. Alfreds Text 00:54–01:09 kennzeichnet beide Angaben ausdrücklich als eigene Aussage beziehungsweise Zählung Lünings. Im Original spricht der Gast um 00:40:55 von einem Umsatz deutlich oberhalb zehn Millionen Euro und um 01:00:41 von 167 besuchten und fotografierten Brennereien. Damit passen Zuschreibung und Kennzeichnung im sachlichen Kern. Die genaue damalige Umsatzhöhe, vollständige Besuchsliste und bestätigte Sprecheridentitäten sind dadurch nicht geprüft. Die Originalurteile A0082 und A0134 bleiben unverändert; ein korrekt berichteter Eigenbericht ist kein unabhängiger Nachweis seines Inhalts.",
+      "assessmentBasis": "[Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0002 (Art: wiedergabe) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: offen. Die entsprechenden Originalstellen und Vergleichs-IDs sind vorhanden. Die Genauigkeit von Besuchszählung und damaligem Umsatz ist damit extern nicht bestätigt. Alfreds Zuschreibung als Selbstauskunft ist von einer Übernahme als geprüfte Kennzahl zu unterscheiden.\",\"sourceIds\":[\"S001\",\"S020\"]}. Jetzt Abgeschlossen / Belegt. Geprüft wird hier, ob Alfred die Zahlen als Selbstauskünfte kenntlich macht, nicht ob Umsatz und Reisezählung unabhängig verifiziert sind. Alfreds Text 00:54–01:09 kennzeichnet beide Angaben ausdrücklich als eigene Aussage beziehungsweise Zählung Lünings. Im Original spricht der Gast um 00:40:55 von einem Umsatz deutlich oberhalb zehn Millionen Euro und um 01:00:41 von 167 besuchten und fotografierten Brennereien. Damit passen Zuschreibung und Kennzeichnung im sachlichen Kern. Die genaue damalige Umsatzhöhe, vollständige Besuchsliste und bestätigte Sprecheridentitäten sind dadurch nicht geprüft. Die Originalurteile A0082 und A0134 bleiben unverändert; ein korrekt berichteter Eigenbericht ist kein unabhängiger Nachweis seines Inhalts."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         },
         {
           "sourceId": "S020",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0002",
@@ -320,7 +317,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "UG/HP mit zwei Formulierungen zu Umsatz, 167 Brennereien und Selbstauskunft durchsucht; Alfreds Originaltext 00:54–01:09 samt Einleitung erneut gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Beide Zahlen werden ausdrücklich als Eigenangaben kenntlich gemacht."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Rückabgleich mit den Originalstellen 00:40:20–00:41:10 und 01:00:04–01:01:08 sowie den bestehenden Original-Prüfgegenständen A0082/A0134.",
+            "sourceIds": [
+              "S020"
+            ],
+            "result": "Textlicher Eigenbericht mit passender Größenordnung gefunden; kein neuer Geschäftsabschluss oder Nachweis sämtlicher Reisen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "sLMyP0H7tSY-A0003",

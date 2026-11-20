@@ -364,7 +364,7 @@ Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung gena
   Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
 
 - [Originalinterview](https://www.youtube.com/watch?v=mlxFA9T88I0) · Relevante Original-Untertitelpassagen erneut gelesen; keine direkte akustische Sprecherkontrolle und keine neue Vollprüfung des dreistündigen Interviews.
-  Quellenzugriff am 2026-11-18. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-20. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. [Codex] 20.11.2026: Originaltext 00:40:20–00:41:10 und 01:00:04–01:01:08 einschließlich Rückfragen selbst erneut gelesen, um die wiedergegebene Selbstauskunft abzugleichen; keine Hör-/Sichtkontrolle oder externe Bestätigung der Kennzahlen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
 
 ### Offene Fragen und Unsicherheiten
 

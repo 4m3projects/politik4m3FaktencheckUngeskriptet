@@ -15,3 +15,5 @@ Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Ker
 [Zugehöriges Originalinterview](#/video/OQnvClWgN-g). Eigene Aussagen dieser Reaktion und ihre Wiedergabe des Originals werden getrennt beurteilt.
 
 [Codex] Nachprüfung 19.11.2026: A0006 (Bodensee-Vergleich), A0008 (historische NASA-Studie) und A0017 (Windenergie-Metaanalyse) nach Originaltext- und Primärquellenkontrolle abgeschlossen. Darstellungshinweise auf Grundlage ausgewählter Originaltextstellen ergänzt. Verbleibende Sachprüfungen und Grenzen sind in den strukturierten Einzelprüfungen ausgewiesen.
+
+[Codex] Nachprüfung 20.11.2026: A0031 zum behaupteten internen Mehrfachprüfverfahren ist begründet nicht überprüfbar. Originalabschnitt, aktuelle Uploadbeschreibung und die nun im Browser erreichbare Herausgeberseite mit Projektübersicht gelesen; keine Produktionsprotokolle kontrollierbar. Die drei gesonderten Häufigkeits-/Indexprüfungen bleiben in Bearbeitung. Kein fehlender Webzugriff als Urteil verwendet.

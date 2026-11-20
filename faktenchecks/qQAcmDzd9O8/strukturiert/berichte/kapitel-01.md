@@ -1374,7 +1374,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Jeder Satz Kralls sei mehrfach durch voneinander unabhängige Prüfer beurteilt und anschließend gemittelt worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1393,22 +1393,38 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Prozess-Selbstauskunft. Prüferidentitäten, Unabhängigkeit, Rohkodierungen, Konsensregeln und vollständige Abdeckung liegen nicht kontrollierbar vor. Keine technische oder methodische Unabhängigkeit unterstellt.
+Nicht überprüfbar – nicht öffentlich dokumentierter interner Produktions- und Prüfablauf. Der erneut gelesene Abschnitt 12:38–12:49 behauptet mehrfache Beurteilungen und Mittelung. Die am 20.11.2026 erneut geöffnete Uploadbeschreibung und die tatsächlich erreichbare Herausgeberseite mit Projektübersicht liefern dafür keine überprüfbaren Laufprotokolle oder Einzelkodierungen. Ob die bezeichneten Instanzen wirklich unabhängig waren und jeder Satz verarbeitet wurde, ist daher mit den vorliegenden öffentlichen Grundlagen nicht feststellbar. Es werden weder menschliche Prüfer noch eine bestimmte technische Unabhängigkeit aus der Katzenfigur oder ihrer Selbstauskunft abgeleitet. Das ist keine Widerlegung des behaupteten Ablaufs. Die öffentlich überprüfbaren Häufigkeits- und Indexbehauptungen bleiben als eigene Arbeitsaufträge bestehen.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Prozess-Selbstauskunft. Prüferidentitäten, Unabhängigkeit, Rohkodierungen, Konsensregeln und vollständige Abdeckung liegen nicht kontrollierbar vor. Keine technische oder methodische Unabhängigkeit unterstellt.","sourceIds":["S002"]}. Jetzt Nicht überprüfbar / ohne Urteil. Nicht überprüfbar – nicht öffentlich dokumentierter interner Produktions- und Prüfablauf. Der erneut gelesene Abschnitt 12:38–12:49 behauptet mehrfache Beurteilungen und Mittelung. Die am 20.11.2026 erneut geöffnete Uploadbeschreibung und die tatsächlich erreichbare Herausgeberseite mit Projektübersicht liefern dafür keine überprüfbaren Laufprotokolle oder Einzelkodierungen. Ob die bezeichneten Instanzen wirklich unabhängig waren und jeder Satz verarbeitet wurde, ist daher mit den vorliegenden öffentlichen Grundlagen nicht feststellbar. Es werden weder menschliche Prüfer noch eine bestimmte technische Unabhängigkeit aus der Katzenfigur oder ihrer Selbstauskunft abgeleitet. Das ist keine Widerlegung des behaupteten Ablaufs. Die öffentlich überprüfbaren Häufigkeits- und Indexbehauptungen bleiben als eigene Arbeitsaufträge bestehen.
 
 ### Zugeordnete Quellen
 
 - [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [SinansWoche: öffentliche Projekt- und Produktionsdarstellung](https://sinanswoche.de/) · Vom Alfred-Upload ausdrücklich verlinkte Herausgeberseite; Eigenproduktion und Finanzierung als Selbstdarstellung, Verweis auf Projekte.
+  Quellenzugriff am 2026-11-20. Am 20.11.2026 im Browser geöffnet und sichtbare Darstellung gelesen; keine Einsicht in interne Prüferläufe oder vollständige Rohkodierungen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [SinansWoche: öffentliche Projektübersicht](https://sinanswoche.de/projekte/) · Über die sichtbare Navigation geöffnete Übersicht; kein dort sichtbarer Nachweis der hier untersuchten Prüferläufe.
+  Quellenzugriff am 2026-11-20. Sichtbare Projektübersicht selbst gelesen. Aus dem fehlenden Eintrag auf dieser Seite wird nicht geschlossen, dass andernorts niemals Unterlagen existieren. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+- Bei Veröffentlichung eines nachvollziehbaren Methodennachweises durch den Herausgeber die bezeichneten Prüfläufe und ihre Unabhängigkeit erneut kontrollieren.
+
+### Recherchedokumentation
+
+Einordnung: Derzeit nicht überprüfbar. Sicherheit der Einordnung: Hoch.
+
+Fehlende Information: Kontrollierbare interne Prüfläufe mit Instanzen/Modellen, Eingaben, Einzelkodierungen, Abdeckungsregister und Mittelungsregeln.
+
+- Durchgang 1 am 2026-11-20 (Codex): UG/HP nach Satz-für-Satz-Prüfung, unabhängigen Bewertungsagenten und Index gesucht; Originaltext 12:04–15:13 erneut gelesen und Uploadbeschreibung im Player neu geöffnet. Gepruefte Quellen: S002. Ergebnis: Behaupteter interner Ablauf erkannt; veröffentlichte Sachquellen ersetzen dessen Durchführungskontrolle nicht.
+
+- Durchgang 2 am 2026-11-20 (Codex): Den bisherigen technischen Zugangsfehler mit Browserbedienung überwunden und die im Upload verlinkte Herausgeberseite samt sichtbarer Projektübersicht gelesen. Gepruefte Quellen: S047, S048. Ergebnis: Allgemeine öffentliche Projektdarstellung gefunden, aber kein kontrollierbarer Nachweis des internen Prüfablaufs auf den gelesenen Seiten. Kein allgemeiner Negativbeweis über unveröffentlichte oder anderswo vorhandene Unterlagen.
 
 ## qQAcmDzd9O8-A0032
 
