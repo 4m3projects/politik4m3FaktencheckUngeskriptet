@@ -222,15 +222,19 @@
           "originalClaimId": "mlxFA9T88I0-A0147",
           "reactionClaimId": "sLMyP0H7tSY-A0009",
           "reactionSeconds": 244,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "note": "[Codex] 20.11.2026: historische Fassproblematik und Intervention anhand der Regierungsantwort erneut abgeglichen; spätere begrenzte Zulässigkeit in Randnummer 2308 ergänzt. Die konkrete Norm in Lünings Erinnerung bleibt unbenannt; kein Nachweis eines beabsichtigten allgemeinen Holzfassverbots. Alfred A0009/A0010 bleiben in ihrem engeren Belegumfang unverändert.",
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
-            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md. Nachprüfung 20.11.2026: belegbaren Sachkern im Original als teilweise belegt abgeschlossen, keine sichere Identität der unbenannten Norm behauptet. Reaktionsurteile anhand derselben Originalstellen erneut abgeglichen; kein Widerspruch zu ihren engeren Aussagen."
           },
           "history": [
             {
               "date": "2026-11-19",
               "change": "[Codex] Reaktion und Original mit Hansard abgeglichen. Das Vorhaben von 1994 ist dokumentiert. Seine Zuordnung zur von Lüning gemeinten Regelung bleibt offen."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Original A0147/A0148 anhand gelesener historischer Regeltexte ergänzt; Alfred A0009/A0010 erneut abgeglichen. Keine Reaktionsbewertung verändert."
             }
           ]
         },
@@ -240,15 +244,19 @@
           "originalClaimId": "mlxFA9T88I0-A0148",
           "reactionClaimId": "sLMyP0H7tSY-A0009",
           "reactionSeconds": 244,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "note": "[Codex] 20.11.2026: historische Fassproblematik und Intervention anhand der Regierungsantwort erneut abgeglichen; spätere begrenzte Zulässigkeit in Randnummer 2308 ergänzt. Die konkrete Norm in Lünings Erinnerung bleibt unbenannt; kein Nachweis eines beabsichtigten allgemeinen Holzfassverbots. Alfred A0009/A0010 bleiben in ihrem engeren Belegumfang unverändert.",
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
-            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md. Nachprüfung 20.11.2026: belegbaren Sachkern im Original als teilweise belegt abgeschlossen, keine sichere Identität der unbenannten Norm behauptet. Reaktionsurteile anhand derselben Originalstellen erneut abgeglichen; kein Widerspruch zu ihren engeren Aussagen."
           },
           "history": [
             {
               "date": "2026-11-19",
               "change": "[Codex] Reaktion und Original mit Hansard abgeglichen. Das Vorhaben von 1994 ist dokumentiert. Seine Zuordnung zur von Lüning gemeinten Regelung bleibt offen."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Original A0147/A0148 anhand gelesener historischer Regeltexte ergänzt; Alfred A0009/A0010 erneut abgeglichen. Keine Reaktionsbewertung verändert."
             }
           ]
         },
@@ -258,15 +266,19 @@
           "originalClaimId": "mlxFA9T88I0-A0147",
           "reactionClaimId": "sLMyP0H7tSY-A0010",
           "reactionSeconds": 259,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "note": "[Codex] 20.11.2026: historische Fassproblematik und Intervention anhand der Regierungsantwort erneut abgeglichen; spätere begrenzte Zulässigkeit in Randnummer 2308 ergänzt. Die konkrete Norm in Lünings Erinnerung bleibt unbenannt; kein Nachweis eines beabsichtigten allgemeinen Holzfassverbots. Alfred A0009/A0010 bleiben in ihrem engeren Belegumfang unverändert.",
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
-            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md. Nachprüfung 20.11.2026: belegbaren Sachkern im Original als teilweise belegt abgeschlossen, keine sichere Identität der unbenannten Norm behauptet. Reaktionsurteile anhand derselben Originalstellen erneut abgeglichen; kein Widerspruch zu ihren engeren Aussagen."
           },
           "history": [
             {
               "date": "2026-11-19",
               "change": "[Codex] Reaktion und Original mit Hansard abgeglichen. Das Vorhaben von 1994 ist dokumentiert. Seine Zuordnung zur von Lüning gemeinten Regelung bleibt offen."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Original A0147/A0148 anhand gelesener historischer Regeltexte ergänzt; Alfred A0009/A0010 erneut abgeglichen. Keine Reaktionsbewertung verändert."
             }
           ]
         },
@@ -276,15 +288,19 @@
           "originalClaimId": "mlxFA9T88I0-A0148",
           "reactionClaimId": "sLMyP0H7tSY-A0010",
           "reactionSeconds": 259,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich.",
+          "note": "[Codex] 20.11.2026: historische Fassproblematik und Intervention anhand der Regierungsantwort erneut abgeglichen; spätere begrenzte Zulässigkeit in Randnummer 2308 ergänzt. Die konkrete Norm in Lünings Erinnerung bleibt unbenannt; kein Nachweis eines beabsichtigten allgemeinen Holzfassverbots. Alfred A0009/A0010 bleiben in ihrem engeren Belegumfang unverändert.",
           "review": {
             "task": "https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5",
-            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md."
+            "note": "Reviewvorschlag R01 von Codex: Fassregel: Regierungsantwort von 1994 als möglichen Bezug prüfen. Siehe docs/arbeitsstaende/reaktionen/alfred-luening/review.md. Nachprüfung 20.11.2026: belegbaren Sachkern im Original als teilweise belegt abgeschlossen, keine sichere Identität der unbenannten Norm behauptet. Reaktionsurteile anhand derselben Originalstellen erneut abgeglichen; kein Widerspruch zu ihren engeren Aussagen."
           },
           "history": [
             {
               "date": "2026-11-19",
               "change": "[Codex] Reaktion und Original mit Hansard abgeglichen. Das Vorhaben von 1994 ist dokumentiert. Seine Zuordnung zur von Lüning gemeinten Regelung bleibt offen."
+            },
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Original A0147/A0148 anhand gelesener historischer Regeltexte ergänzt; Alfred A0009/A0010 erneut abgeglichen. Keine Reaktionsbewertung verändert."
             }
           ]
         },
