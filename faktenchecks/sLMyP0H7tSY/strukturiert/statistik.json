@@ -1,7 +1,7 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Unabhängige Teilprüfung der Reaktion. Fünfzehn Sachbewertungen sind nach Abgleich mit dem Original und den Sachquellen abgeschlossen. Weitere erfasste Aussagen, der durchgängige Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus.",
+  "coverageNote": "Unabhängige Teilprüfung der Reaktion mit gezielten Nachprüfungen am Original und an den angegebenen Sachquellen. Die Einzelprüfungen unterscheiden abgeschlossene Bewertungen von noch offenen Arbeitsaufträgen. Durchgängiger Hör-/Sichtabgleich und redaktionelle Zweitprüfung stehen weiter aus; keine Gesamtabdeckung behauptet.",
   "videoId": "sLMyP0H7tSY",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
@@ -16,31 +16,31 @@
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
     "Offen": 0,
-    "In Bearbeitung": 4,
+    "In Bearbeitung": 3,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 26
+    "Abgeschlossen": 27
   },
   "kindCounts": {
     "Tatsachenbehauptung": 26,
     "Meinung": 4,
     "Prognose": 0
   },
-  "completedFacts": 22,
+  "completedFacts": 23,
   "openFacts": 0,
-  "inProgressFacts": 4,
+  "inProgressFacts": 3,
   "unverifiableFacts": 0,
-  "percentageDenominator": 22,
+  "percentageDenominator": 23,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 15,
-      "completedFactPercent": 68.2
+      "completedCount": 16,
+      "completedFactPercent": 69.6
     },
     {
       "category": "Teilweise belegt",
       "completedCount": 7,
-      "completedFactPercent": 31.8
+      "completedFactPercent": 30.4
     },
     {
       "category": "Irreführend / Kontext fehlt",

@@ -1,6 +1,6 @@
 # Horst Lüning bei Ben: Wirtschafts- und Staatsfinanzthesen
 
-**Status: Teilbestand nachgeprüft, 12 erfasste Tatsachenbehauptungen noch offen.** Der Erststand vom 17.11.2026 wurde am 20.11.2026 gezielt mit Originalstellen und externen Quellen nachgeprüft. Eine vollständige Hör-/Sichtprüfung steht weiterhin aus.
+**Status: Teilbestand nachgeprüft, 11 erfasste Tatsachenbehauptungen noch offen.** Der Erststand vom 17.11.2026 wurde am 20.11.2026 gezielt mit Originalstellen und externen Quellen nachgeprüft. Eine vollständige Hör-/Sichtprüfung steht weiterhin aus.
 
 - Original: [Schau dieses Video, bevor Deutschland kippt (Horst Lüning)](https://www.youtube.com/watch?v=mlxFA9T88I0)
 - Kanal: {ungeskriptet} by Ben
@@ -14,7 +14,9 @@
 
 ## Nachprüfung am 20.11.2026
 
-Der aktuelle strukturierte Bestand enthält 395 Datensätze: 312 eigene Tatsachenbehauptungen (152 mit Urteil, 148 begründet nicht überprüfbar, 12 offen), 80 Meinungen/Prognosen und drei reine Fremdbezüge. Nach den bereits veröffentlichten Prüfungen zu Bankverlusten und Staatsanleihen wurden A0190 (Discounterabsatz), A0191 (Preisbeispiele), A0196 (Umsatz und Lohnspielraum) A0287 (Pflegewerbung des Hosts) und A0317 (Merz-Sommerinterview) nachgearbeitet. Zwei zu starke eigene Paraphrasen wurden auf die tatsächliche Aussage zurückgeführt; Quellenreichweite und Zeitbezug bleiben ausdrücklich begrenzt. Die aktuellen Einzelprüfungen stehen in den [generierten Berichten](strukturiert/README.md); die folgenden älteren Übersichten dokumentieren den Erststand.
+Der aktuelle strukturierte Bestand enthält 395 Datensätze: 312 eigene Tatsachenbehauptungen (153 mit Urteil, 148 begründet nicht überprüfbar, 11 offen), 80 Meinungen/Prognosen und drei reine Fremdbezüge. Nach den bereits veröffentlichten Prüfungen zu Bankverlusten und Staatsanleihen wurden A0190 (Discounterabsatz), A0191 (Preisbeispiele), A0196 (Umsatz und Lohnspielraum) A0287 (Pflegewerbung des Hosts) und A0317 (Merz-Sommerinterview) nachgearbeitet. Zwei zu starke eigene Paraphrasen wurden auf die tatsächliche Aussage zurückgeführt; Quellenreichweite und Zeitbezug bleiben ausdrücklich begrenzt. Die aktuellen Einzelprüfungen stehen in den [generierten Berichten](strukturiert/README.md); die folgenden älteren Übersichten dokumentieren den Erststand.
+
+Zusätzlich wurde A0289 zur angeblich vorherrschenden tierischen Hautpflege um 1926 nach historischen Hersteller- und Museumsquellen nachgearbeitet. Die gelesenen Quellen erlauben keine belastbare Häufigkeitsrangfolge; die Aussage ist mit dokumentierten Grenzen nicht ausreichend belegbar.
 
 ## Lesen
 

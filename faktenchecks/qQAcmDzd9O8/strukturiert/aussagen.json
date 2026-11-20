@@ -28,8 +28,8 @@
       "title": "Alfred: Wächst das Eis am Südpol?",
       "url": "https://www.youtube.com/watch?v=qQAcmDzd9O8",
       "details": "Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.",
-      "accessedOn": "2026-11-18",
-      "accessBasis": "oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen."
+      "accessedOn": "2026-11-20",
+      "accessBasis": "oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. [Codex] 20.11.2026: Uploadbeschreibung erneut im Originalplayer geöffnet; Messabschnitt erneut textlich gelesen. Ausgewählte Bildtafeln zu zehn Minuten (um 13:02), acht Minuten (um 14:06–14:15) und Summenwerten (um 14:50–14:53) im laufenden Originalplayer visuell kontrolliert. Keine durchgängige audiovisuelle Kontrolle."
     },
     {
       "id": "S004",
@@ -246,6 +246,22 @@
       "details": "Energy 52, 210–221; DOI 10.1016/j.energy.2013.01.029; Abschnitte 2, 4 und 7.4 sowie Tabelle 5.",
       "accessedOn": "2026-11-20",
       "accessBasis": "Frei zugängliche Autoren-PDF privat geladen und bezeichnete Abschnitte selbst gelesen, nachdem der Web-Lesezugang nicht funktionierte. Keine unabhängige Reproduktion des Modells."
+    },
+    {
+      "id": "S047",
+      "title": "SinansWoche: öffentliche Projekt- und Produktionsdarstellung",
+      "url": "https://sinanswoche.de/",
+      "details": "Vom Alfred-Upload ausdrücklich verlinkte Herausgeberseite; Eigenproduktion und Finanzierung als Selbstdarstellung, Verweis auf Projekte.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Am 20.11.2026 im Browser geöffnet und sichtbare Darstellung gelesen; keine Einsicht in interne Prüferläufe oder vollständige Rohkodierungen."
+    },
+    {
+      "id": "S048",
+      "title": "SinansWoche: öffentliche Projektübersicht",
+      "url": "https://sinanswoche.de/projekte/",
+      "details": "Über die sichtbare Navigation geöffnete Übersicht; kein dort sichtbarer Nachweis der hier untersuchten Prüferläufe.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Sichtbare Projektübersicht selbst gelesen. Aus dem fehlenden Eintrag auf dieser Seite wird nicht geschlossen, dass andernorts niemals Unterlagen existieren."
     }
   ],
   "speakers": [
@@ -2109,23 +2125,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Jeder Satz Kralls sei mehrfach durch voneinander unabhängige Prüfer beurteilt und anschließend gemittelt worden.",
-      "status": "In Bearbeitung",
+      "status": "Nicht überprüfbar",
       "verdict": null,
-      "reason": "Prozess-Selbstauskunft. Prüferidentitäten, Unabhängigkeit, Rohkodierungen, Konsensregeln und vollständige Abdeckung liegen nicht kontrollierbar vor. Keine technische oder methodische Unabhängigkeit unterstellt.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "reason": "Nicht überprüfbar – nicht öffentlich dokumentierter interner Produktions- und Prüfablauf. Der erneut gelesene Abschnitt 12:38–12:49 behauptet mehrfache Beurteilungen und Mittelung. Die am 20.11.2026 erneut geöffnete Uploadbeschreibung und die tatsächlich erreichbare Herausgeberseite mit Projektübersicht liefern dafür keine überprüfbaren Laufprotokolle oder Einzelkodierungen. Ob die bezeichneten Instanzen wirklich unabhängig waren und jeder Satz verarbeitet wurde, ist daher mit den vorliegenden öffentlichen Grundlagen nicht feststellbar. Es werden weder menschliche Prüfer noch eine bestimmte technische Unabhängigkeit aus der Katzenfigur oder ihrer Selbstauskunft abgeleitet. Das ist keine Widerlegung des behaupteten Ablaufs. Die öffentlich überprüfbaren Häufigkeits- und Indexbehauptungen bleiben als eigene Arbeitsaufträge bestehen.",
+      "assessmentBasis": "[Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Prozess-Selbstauskunft. Prüferidentitäten, Unabhängigkeit, Rohkodierungen, Konsensregeln und vollständige Abdeckung liegen nicht kontrollierbar vor. Keine technische oder methodische Unabhängigkeit unterstellt.\",\"sourceIds\":[\"S002\"]}. Jetzt Nicht überprüfbar / ohne Urteil. Nicht überprüfbar – nicht öffentlich dokumentierter interner Produktions- und Prüfablauf. Der erneut gelesene Abschnitt 12:38–12:49 behauptet mehrfache Beurteilungen und Mittelung. Die am 20.11.2026 erneut geöffnete Uploadbeschreibung und die tatsächlich erreichbare Herausgeberseite mit Projektübersicht liefern dafür keine überprüfbaren Laufprotokolle oder Einzelkodierungen. Ob die bezeichneten Instanzen wirklich unabhängig waren und jeder Satz verarbeitet wurde, ist daher mit den vorliegenden öffentlichen Grundlagen nicht feststellbar. Es werden weder menschliche Prüfer noch eine bestimmte technische Unabhängigkeit aus der Katzenfigur oder ihrer Selbstauskunft abgeleitet. Das ist keine Widerlegung des behaupteten Ablaufs. Die öffentlich überprüfbaren Häufigkeits- und Indexbehauptungen bleiben als eigene Arbeitsaufträge bestehen."
       },
       "sourceRefs": [
         {
           "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S047",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
       "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+        "Bei Veröffentlichung eines nachvollziehbaren Methodennachweises durch den Herausgeber die bezeichneten Prüfläufe und ihre Unabhängigkeit erneut kontrollieren."
       ],
       "occurrences": [
         {
@@ -2147,6 +2171,33 @@
         }
       ],
       "relations": [],
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "UG/HP nach Satz-für-Satz-Prüfung, unabhängigen Bewertungsagenten und Index gesucht; Originaltext 12:04–15:13 erneut gelesen und Uploadbeschreibung im Player neu geöffnet.",
+            "sourceIds": [
+              "S002"
+            ],
+            "result": "Behaupteter interner Ablauf erkannt; veröffentlichte Sachquellen ersetzen dessen Durchführungskontrolle nicht."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Den bisherigen technischen Zugangsfehler mit Browserbedienung überwunden und die im Upload verlinkte Herausgeberseite samt sichtbarer Projektübersicht gelesen.",
+            "sourceIds": [
+              "S047",
+              "S048"
+            ],
+            "result": "Allgemeine öffentliche Projektdarstellung gefunden, aber kein kontrollierbarer Nachweis des internen Prüfablaufs auf den gelesenen Seiten. Kein allgemeiner Negativbeweis über unveröffentlichte oder anderswo vorhandene Unterlagen."
+          }
+        ],
+        "missingInformation": "Kontrollierbare interne Prüfläufe mit Instanzen/Modellen, Eingaben, Einzelkodierungen, Abdeckungsregister und Mittelungsregeln.",
+        "conflicts": null
+      },
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
@@ -2163,23 +2214,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ungefähr alle zehn Minuten äußere Krall etwas Widerlegtes oder nicht Nachprüfbares.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Ohne Fundstellenregister, Zählregel, Wiederholungsbehandlung und Nenner nicht reproduzierbar. Nicht nachprüfbar wird hier zudem mit widerlegt zusammengefasst; das ist keine neutrale Fehlerquote.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Der Originalabschnitt 12:53–13:29 nennt eine ungefähre Zehn-Minuten-Häufigkeit und erläutert eine gemeinsame Kategorie für widerlegte und einer Prüfung entzogene Aussagen. Er liefert dafür ein Beispiel, aber kein vollständiges Fundstellenregister mit Einzelurteilen, Wiederholungsregeln und gemittelten Zählerständen. Auch die im Browser gelesene aktuelle Uploadbeschreibung und die verlinkte Herausgeberseite mit Projektübersicht ermöglichen diese Gesamtrechnung nicht. Der erneut abgeglichene Originalbefund zur pauschalen Corona-Wertung ist als eigene Meinung eingeordnet; daraus folgt keine vollständige Häufigkeitsprüfung. Die veröffentlichte Häufigkeit ist mit den gelesenen Grundlagen weder bestätigt noch widerlegt. Eine fehlende Reproduktion beweist keine falsche Zählung; die Zusammenfassung verschiedener Kategorien ist zudem keine neutrale Faktenfehlerquote. Die zusätzlich im Originalplayer visuell kontrollierte Grafik um 13:02 zeigt ebenfalls die Häufigkeit von zehn Minuten, aber kein vollständiges Fundstellenregister und keine daraus reproduzierte Gesamtzählung.",
+      "assessmentBasis": "[Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Ohne Fundstellenregister, Zählregel, Wiederholungsbehandlung und Nenner nicht reproduzierbar. Nicht nachprüfbar wird hier zudem mit widerlegt zusammengefasst; das ist keine neutrale Fehlerquote.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Nicht ausreichend belegbar. Der Originalabschnitt 12:53–13:29 nennt eine ungefähre Zehn-Minuten-Häufigkeit und erläutert eine gemeinsame Kategorie für widerlegte und einer Prüfung entzogene Aussagen. Er liefert dafür ein Beispiel, aber kein vollständiges Fundstellenregister mit Einzelurteilen, Wiederholungsregeln und gemittelten Zählerständen. Auch die im Browser gelesene aktuelle Uploadbeschreibung und die verlinkte Herausgeberseite mit Projektübersicht ermöglichen diese Gesamtrechnung nicht. Der erneut abgeglichene Originalbefund zur pauschalen Corona-Wertung ist als eigene Meinung eingeordnet; daraus folgt keine vollständige Häufigkeitsprüfung. Die veröffentlichte Häufigkeit ist mit den gelesenen Grundlagen weder bestätigt noch widerlegt. Eine fehlende Reproduktion beweist keine falsche Zählung; die Zusammenfassung verschiedener Kategorien ist zudem keine neutrale Faktenfehlerquote. Ergänzende visuelle Stichprobe 20.11.2026 (Codex):  Die zusätzlich im Originalplayer visuell kontrollierte Grafik um 13:02 zeigt ebenfalls die Häufigkeit von zehn Minuten, aber kein vollständiges Fundstellenregister und keine daraus reproduzierte Gesamtzählung."
       },
       "sourceRefs": [
         {
           "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S047",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
       "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+        "Wenn der Herausgeber die in missingInformation genannten Unterlagen veröffentlicht, die gesamte Rechnung mit Zeitmarken reproduzieren; eine ergänzende eigene Vollcodierung des Originals muss eine ausdrücklich getrennte Methode verwenden."
       ],
       "occurrences": [
         {
@@ -2201,6 +2260,34 @@
         }
       ],
       "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "UG/HP mit zwei Formulierungen nach Krall-Frequenzen, Index und unabhängigen Bewertungsagenten durchsucht; gesamten Messabschnitt 12:04–15:13 erneut gelesen und aktuelle Original-Uploadbeschreibung im Player geöffnet. Zugehörige Häufigkeitsgrafik um 13:02 zusätzlich im Originalplayer angesehen.",
+            "sourceIds": [
+              "S002"
+            ],
+            "result": "Häufigkeit beziehungsweise Punktwert und einzelne Beispiele erkannt; keine vollständige öffentlich erklärte Rechen- und Codiergrundlage im gelesenen Material. Die sichtbare Häufigkeitsangabe stimmt mit dem gesprochenen Text überein, ersetzt aber keine vollständige Zählgrundlage."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Anders angelegter Prüfweg über die konkret im Upload verlinkte Herausgeberseite: technischen Webzugangsfehler mit Browserbedienung überwunden, öffentliche Produktionsdarstellung und sichtbare Projektübersicht gelesen und gegen die benötigten Rechenangaben abgegrenzt.",
+            "sourceIds": [
+              "S047",
+              "S048"
+            ],
+            "result": "Öffentliche Seiten zugänglich, aber die benötigten Einzelkodierungen und Rechenregeln auf den geprüften Seiten nicht enthalten. Keine Behauptung, dass entsprechende Unterlagen niemals oder nirgendwo existieren."
+          }
+        ],
+        "missingInformation": "Vollständiges Register der gezählten Stellen mit Zeitmarken, Einzelbewertung, Abgrenzung von Meinung und Tatsachen, Wiederholungs- und Mittelungsregel.",
+        "conflicts": null
+      },
+      "shortReason": "Die veröffentlichten Beispiele und Methodenangaben reichen nicht aus, um die Häufigkeit für das gesamte Interview nachzurechnen.",
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
@@ -2261,23 +2348,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Ungefähr alle acht Minuten werte Krall ganze Gruppen pauschal ab.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Ohne Liste, Definition, Mehrfachzählungsregel und Intercoder-Nachweis keine reproduzierbare Frequenz. Einzelne Beispiele bestätigen nicht die Gesamtzahl.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Der Originalabschnitt 13:59–14:38 berichtet eine ungefähr achtminütige Häufigkeit pauschaler Gruppenabwertung und zeigt ein Politiker-Beispiel. Das belegt die öffentliche Aussage über die Messung, aber keine Gesamtfrequenz. Weder der gelesene Methodenabschnitt und die aktuelle Uploadbeschreibung noch die erreichbare Herausgeberseite mit Projektübersicht stellen auf den gelesenen Seiten das vollständige annotierte Register, Schwellen und Mehrfachzählungsregeln bereit. Ein einzelner nachvollziehbarer Fall lässt sich nicht zur Gesamtzahl hochrechnen. Die Frequenz ist deshalb mit den vorliegenden Quellen nicht ausreichend belegbar; eine eigene vollständige Rhetorikcodierung des dreistündigen Originals wird nicht behauptet und die Zahl nicht als widerlegt behandelt. Die zusätzlich im Originalplayer visuell kontrollierte Grafik um 14:06–14:15 zeigt ebenfalls die Häufigkeit von acht Minuten, aber kein vollständiges Fundstellenregister und keine daraus reproduzierte Gesamtzählung.",
+      "assessmentBasis": "[Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Ohne Liste, Definition, Mehrfachzählungsregel und Intercoder-Nachweis keine reproduzierbare Frequenz. Einzelne Beispiele bestätigen nicht die Gesamtzahl.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Nicht ausreichend belegbar. Der Originalabschnitt 13:59–14:38 berichtet eine ungefähr achtminütige Häufigkeit pauschaler Gruppenabwertung und zeigt ein Politiker-Beispiel. Das belegt die öffentliche Aussage über die Messung, aber keine Gesamtfrequenz. Weder der gelesene Methodenabschnitt und die aktuelle Uploadbeschreibung noch die erreichbare Herausgeberseite mit Projektübersicht stellen auf den gelesenen Seiten das vollständige annotierte Register, Schwellen und Mehrfachzählungsregeln bereit. Ein einzelner nachvollziehbarer Fall lässt sich nicht zur Gesamtzahl hochrechnen. Die Frequenz ist deshalb mit den vorliegenden Quellen nicht ausreichend belegbar; eine eigene vollständige Rhetorikcodierung des dreistündigen Originals wird nicht behauptet und die Zahl nicht als widerlegt behandelt. Ergänzende visuelle Stichprobe 20.11.2026 (Codex):  Die zusätzlich im Originalplayer visuell kontrollierte Grafik um 14:06–14:15 zeigt ebenfalls die Häufigkeit von acht Minuten, aber kein vollständiges Fundstellenregister und keine daraus reproduzierte Gesamtzählung."
       },
       "sourceRefs": [
         {
           "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S047",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
       "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+        "Wenn der Herausgeber die in missingInformation genannten Unterlagen veröffentlicht, die gesamte Rechnung mit Zeitmarken reproduzieren; eine ergänzende eigene Vollcodierung des Originals muss eine ausdrücklich getrennte Methode verwenden."
       ],
       "occurrences": [
         {
@@ -2299,6 +2394,34 @@
         }
       ],
       "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "UG/HP mit zwei Formulierungen nach Krall-Frequenzen, Index und unabhängigen Bewertungsagenten durchsucht; gesamten Messabschnitt 12:04–15:13 erneut gelesen und aktuelle Original-Uploadbeschreibung im Player geöffnet. Zugehörige Häufigkeitsgrafik um 14:06–14:15 zusätzlich im Originalplayer angesehen.",
+            "sourceIds": [
+              "S002"
+            ],
+            "result": "Häufigkeit beziehungsweise Punktwert und einzelne Beispiele erkannt; keine vollständige öffentlich erklärte Rechen- und Codiergrundlage im gelesenen Material. Die sichtbare Häufigkeitsangabe stimmt mit dem gesprochenen Text überein, ersetzt aber keine vollständige Zählgrundlage."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Anders angelegter Prüfweg über die konkret im Upload verlinkte Herausgeberseite: technischen Webzugangsfehler mit Browserbedienung überwunden, öffentliche Produktionsdarstellung und sichtbare Projektübersicht gelesen und gegen die benötigten Rechenangaben abgegrenzt.",
+            "sourceIds": [
+              "S047",
+              "S048"
+            ],
+            "result": "Öffentliche Seiten zugänglich, aber die benötigten Einzelkodierungen und Rechenregeln auf den geprüften Seiten nicht enthalten. Keine Behauptung, dass entsprechende Unterlagen niemals oder nirgendwo existieren."
+          }
+        ],
+        "missingInformation": "Vollständige annotierte Fundstellenliste, Definition von Gruppenabwertung, Zähleinheit und Regeln für Wiederholungen sowie die gemittelten Ergebnisse.",
+        "conflicts": null
+      },
+      "shortReason": "Einzelne Beispiele belegen keine Gesamtfrequenz; das vollständige Register und die Zählregeln fehlen in den gelesenen Grundlagen.",
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
@@ -2315,23 +2438,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Aus den drei Kategorien ergebe sich für Krall ein Alfred-Index von 1.360 Punkten.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Alfred nennt diese Zahl; ihre Berechnung ist ohne Gewichte und Einzelkodierungen nicht nachvollzogen. Weder Personenrangliste noch eigene Glaubwürdigkeitsnote daraus abgeleitet.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung.",
+      "assessmentBasis": "[Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Alfred nennt diese Zahl; ihre Berechnung ist ohne Gewichte und Einzelkodierungen nicht nachvollzogen. Weder Personenrangliste noch eigene Glaubwürdigkeitsnote daraus abgeleitet.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung."
       },
       "sourceRefs": [
         {
           "sourceId": "S002",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S047",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
       "openQuestions": [
-        "Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?"
+        "Bei Veröffentlichung vollständiger Einzelkodierungen, Gewichte und Mittelungsregeln zusätzlich die Herleitung der drei Ausgangswerte nachrechnen."
       ],
       "occurrences": [
         {
@@ -2353,6 +2484,34 @@
         }
       ],
       "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "UG/HP mit zwei Formulierungen nach Krall-Index und Bewertungsverfahren durchsucht; Messabschnitt 12:04–15:13 und aktuelle Uploadbeschreibung gelesen; zusätzlich Summengrafik um 14:50–14:53 im Originalplayer visuell kontrolliert.",
+            "sourceIds": [
+              "S002"
+            ],
+            "result": "Drei sichtbare Teilwerte 590, 470 und 300 ergeben in eigener einfacher Addition korrekt 1360. Keine vollständige Herleitung der Teilwerte vorgefunden."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Anderer Prüfweg über die im Upload verlinkte Herausgeberseite: öffentlichen Produktionshinweis und sichtbare Projektübersicht im Browser gelesen und gegen die benötigten Eingangsdaten abgegrenzt.",
+            "sourceIds": [
+              "S047",
+              "S048"
+            ],
+            "result": "Die gelesenen Seiten liefern keine vollständige Codier- und Gewichtungsrechnung; daraus folgt kein allgemeiner Negativbeweis über andernorts vorhandene Unterlagen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "590 + 470 + 300 ergeben tatsächlich 1.360 Punkte; die Herleitung der drei Ausgangswerte ist damit noch nicht vollständig nachgewiesen.",
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",

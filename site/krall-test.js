@@ -84,12 +84,18 @@ test('Krall: über Alfred identifizierte Aussagen getrennt von ihrer Wiedergabe 
   }
 });
 
-test('Krall: fehlende Indexdaten bleiben offen, zugängliche EBA-Belege werden ausgewertet', () => {
-  for (const re of [/Jeder Satz/, /alle zehn Minuten/, /alle acht Minuten/, /1.360 Punkten/]) {
+test('Krall: Indexlücken nach Recherche ohne Falschbehauptung abgrenzen, EBA-Belege auswerten', () => {
+  assert.equal(byText(A, /Jeder Satz/).status, 'Nicht überprüfbar');
+  for (const re of [/alle zehn Minuten/, /alle acht Minuten/]) {
     const c = byText(A, re);
-    assert.equal(c.verdict, null);
-    assert.notEqual(c.status, 'Abgeschlossen');
+    assert.equal(c.status, 'Abgeschlossen');
+    assert.equal(c.verdict, 'Nicht ausreichend belegbar');
+    assert.ok(c.research.rounds.length >= 2);
+    assert.ok(c.research.missingInformation && c.openQuestions.length > 0);
   }
+  const index = byText(A, /1.360 Punkten/);
+  assert.equal(index.verdict, 'Teilweise belegt');
+  assert.match(index.reason, /590 \+ 470 \+ 300 = 1360/);
   const capital = byText(A, /Rekordkapitalpolster/);
   assert.equal(capital.verdict, 'Teilweise belegt');
   assert.match(capital.reason, /Quote|quote/);

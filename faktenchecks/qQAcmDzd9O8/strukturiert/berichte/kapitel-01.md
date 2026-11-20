@@ -1374,7 +1374,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Jeder Satz Kralls sei mehrfach durch voneinander unabhängige Prüfer beurteilt und anschließend gemittelt worden.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1393,22 +1393,38 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Prozess-Selbstauskunft. Prüferidentitäten, Unabhängigkeit, Rohkodierungen, Konsensregeln und vollständige Abdeckung liegen nicht kontrollierbar vor. Keine technische oder methodische Unabhängigkeit unterstellt.
+Nicht überprüfbar – nicht öffentlich dokumentierter interner Produktions- und Prüfablauf. Der erneut gelesene Abschnitt 12:38–12:49 behauptet mehrfache Beurteilungen und Mittelung. Die am 20.11.2026 erneut geöffnete Uploadbeschreibung und die tatsächlich erreichbare Herausgeberseite mit Projektübersicht liefern dafür keine überprüfbaren Laufprotokolle oder Einzelkodierungen. Ob die bezeichneten Instanzen wirklich unabhängig waren und jeder Satz verarbeitet wurde, ist daher mit den vorliegenden öffentlichen Grundlagen nicht feststellbar. Es werden weder menschliche Prüfer noch eine bestimmte technische Unabhängigkeit aus der Katzenfigur oder ihrer Selbstauskunft abgeleitet. Das ist keine Widerlegung des behaupteten Ablaufs. Die öffentlich überprüfbaren Häufigkeits- und Indexbehauptungen bleiben als eigene Arbeitsaufträge bestehen.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Prozess-Selbstauskunft. Prüferidentitäten, Unabhängigkeit, Rohkodierungen, Konsensregeln und vollständige Abdeckung liegen nicht kontrollierbar vor. Keine technische oder methodische Unabhängigkeit unterstellt.","sourceIds":["S002"]}. Jetzt Nicht überprüfbar / ohne Urteil. Nicht überprüfbar – nicht öffentlich dokumentierter interner Produktions- und Prüfablauf. Der erneut gelesene Abschnitt 12:38–12:49 behauptet mehrfache Beurteilungen und Mittelung. Die am 20.11.2026 erneut geöffnete Uploadbeschreibung und die tatsächlich erreichbare Herausgeberseite mit Projektübersicht liefern dafür keine überprüfbaren Laufprotokolle oder Einzelkodierungen. Ob die bezeichneten Instanzen wirklich unabhängig waren und jeder Satz verarbeitet wurde, ist daher mit den vorliegenden öffentlichen Grundlagen nicht feststellbar. Es werden weder menschliche Prüfer noch eine bestimmte technische Unabhängigkeit aus der Katzenfigur oder ihrer Selbstauskunft abgeleitet. Das ist keine Widerlegung des behaupteten Ablaufs. Die öffentlich überprüfbaren Häufigkeits- und Indexbehauptungen bleiben als eigene Arbeitsaufträge bestehen.
 
 ### Zugeordnete Quellen
 
 - [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-20. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. [Codex] 20.11.2026: Uploadbeschreibung erneut im Originalplayer geöffnet; Messabschnitt erneut textlich gelesen. Ausgewählte Bildtafeln zu zehn Minuten (um 13:02), acht Minuten (um 14:06–14:15) und Summenwerten (um 14:50–14:53) im laufenden Originalplayer visuell kontrolliert. Keine durchgängige audiovisuelle Kontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [SinansWoche: öffentliche Projekt- und Produktionsdarstellung](https://sinanswoche.de/) · Vom Alfred-Upload ausdrücklich verlinkte Herausgeberseite; Eigenproduktion und Finanzierung als Selbstdarstellung, Verweis auf Projekte.
+  Quellenzugriff am 2026-11-20. Am 20.11.2026 im Browser geöffnet und sichtbare Darstellung gelesen; keine Einsicht in interne Prüferläufe oder vollständige Rohkodierungen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [SinansWoche: öffentliche Projektübersicht](https://sinanswoche.de/projekte/) · Über die sichtbare Navigation geöffnete Übersicht; kein dort sichtbarer Nachweis der hier untersuchten Prüferläufe.
+  Quellenzugriff am 2026-11-20. Sichtbare Projektübersicht selbst gelesen. Aus dem fehlenden Eintrag auf dieser Seite wird nicht geschlossen, dass andernorts niemals Unterlagen existieren. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+- Bei Veröffentlichung eines nachvollziehbaren Methodennachweises durch den Herausgeber die bezeichneten Prüfläufe und ihre Unabhängigkeit erneut kontrollieren.
+
+### Recherchedokumentation
+
+Einordnung: Derzeit nicht überprüfbar. Sicherheit der Einordnung: Hoch.
+
+Fehlende Information: Kontrollierbare interne Prüfläufe mit Instanzen/Modellen, Eingaben, Einzelkodierungen, Abdeckungsregister und Mittelungsregeln.
+
+- Durchgang 1 am 2026-11-20 (Codex): UG/HP nach Satz-für-Satz-Prüfung, unabhängigen Bewertungsagenten und Index gesucht; Originaltext 12:04–15:13 erneut gelesen und Uploadbeschreibung im Player neu geöffnet. Gepruefte Quellen: S002. Ergebnis: Behaupteter interner Ablauf erkannt; veröffentlichte Sachquellen ersetzen dessen Durchführungskontrolle nicht.
+
+- Durchgang 2 am 2026-11-20 (Codex): Den bisherigen technischen Zugangsfehler mit Browserbedienung überwunden und die im Upload verlinkte Herausgeberseite samt sichtbarer Projektübersicht gelesen. Gepruefte Quellen: S047, S048. Ergebnis: Allgemeine öffentliche Projektdarstellung gefunden, aber kein kontrollierbarer Nachweis des internen Prüfablaufs auf den gelesenen Seiten. Kein allgemeiner Negativbeweis über unveröffentlichte oder anderswo vorhandene Unterlagen.
 
 ## qQAcmDzd9O8-A0032
 
@@ -1416,7 +1432,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ungefähr alle zehn Minuten äußere Krall etwas Widerlegtes oder nicht Nachprüfbares.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1435,22 +1451,38 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ohne Fundstellenregister, Zählregel, Wiederholungsbehandlung und Nenner nicht reproduzierbar. Nicht nachprüfbar wird hier zudem mit widerlegt zusammengefasst; das ist keine neutrale Fehlerquote.
+Der Originalabschnitt 12:53–13:29 nennt eine ungefähre Zehn-Minuten-Häufigkeit und erläutert eine gemeinsame Kategorie für widerlegte und einer Prüfung entzogene Aussagen. Er liefert dafür ein Beispiel, aber kein vollständiges Fundstellenregister mit Einzelurteilen, Wiederholungsregeln und gemittelten Zählerständen. Auch die im Browser gelesene aktuelle Uploadbeschreibung und die verlinkte Herausgeberseite mit Projektübersicht ermöglichen diese Gesamtrechnung nicht. Der erneut abgeglichene Originalbefund zur pauschalen Corona-Wertung ist als eigene Meinung eingeordnet; daraus folgt keine vollständige Häufigkeitsprüfung. Die veröffentlichte Häufigkeit ist mit den gelesenen Grundlagen weder bestätigt noch widerlegt. Eine fehlende Reproduktion beweist keine falsche Zählung; die Zusammenfassung verschiedener Kategorien ist zudem keine neutrale Faktenfehlerquote. Die zusätzlich im Originalplayer visuell kontrollierte Grafik um 13:02 zeigt ebenfalls die Häufigkeit von zehn Minuten, aber kein vollständiges Fundstellenregister und keine daraus reproduzierte Gesamtzählung.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Ohne Fundstellenregister, Zählregel, Wiederholungsbehandlung und Nenner nicht reproduzierbar. Nicht nachprüfbar wird hier zudem mit widerlegt zusammengefasst; das ist keine neutrale Fehlerquote.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Nicht ausreichend belegbar. Der Originalabschnitt 12:53–13:29 nennt eine ungefähre Zehn-Minuten-Häufigkeit und erläutert eine gemeinsame Kategorie für widerlegte und einer Prüfung entzogene Aussagen. Er liefert dafür ein Beispiel, aber kein vollständiges Fundstellenregister mit Einzelurteilen, Wiederholungsregeln und gemittelten Zählerständen. Auch die im Browser gelesene aktuelle Uploadbeschreibung und die verlinkte Herausgeberseite mit Projektübersicht ermöglichen diese Gesamtrechnung nicht. Der erneut abgeglichene Originalbefund zur pauschalen Corona-Wertung ist als eigene Meinung eingeordnet; daraus folgt keine vollständige Häufigkeitsprüfung. Die veröffentlichte Häufigkeit ist mit den gelesenen Grundlagen weder bestätigt noch widerlegt. Eine fehlende Reproduktion beweist keine falsche Zählung; die Zusammenfassung verschiedener Kategorien ist zudem keine neutrale Faktenfehlerquote. Ergänzende visuelle Stichprobe 20.11.2026 (Codex):  Die zusätzlich im Originalplayer visuell kontrollierte Grafik um 13:02 zeigt ebenfalls die Häufigkeit von zehn Minuten, aber kein vollständiges Fundstellenregister und keine daraus reproduzierte Gesamtzählung.
 
 ### Zugeordnete Quellen
 
 - [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-20. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. [Codex] 20.11.2026: Uploadbeschreibung erneut im Originalplayer geöffnet; Messabschnitt erneut textlich gelesen. Ausgewählte Bildtafeln zu zehn Minuten (um 13:02), acht Minuten (um 14:06–14:15) und Summenwerten (um 14:50–14:53) im laufenden Originalplayer visuell kontrolliert. Keine durchgängige audiovisuelle Kontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [SinansWoche: öffentliche Projekt- und Produktionsdarstellung](https://sinanswoche.de/) · Vom Alfred-Upload ausdrücklich verlinkte Herausgeberseite; Eigenproduktion und Finanzierung als Selbstdarstellung, Verweis auf Projekte.
+  Quellenzugriff am 2026-11-20. Am 20.11.2026 im Browser geöffnet und sichtbare Darstellung gelesen; keine Einsicht in interne Prüferläufe oder vollständige Rohkodierungen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [SinansWoche: öffentliche Projektübersicht](https://sinanswoche.de/projekte/) · Über die sichtbare Navigation geöffnete Übersicht; kein dort sichtbarer Nachweis der hier untersuchten Prüferläufe.
+  Quellenzugriff am 2026-11-20. Sichtbare Projektübersicht selbst gelesen. Aus dem fehlenden Eintrag auf dieser Seite wird nicht geschlossen, dass andernorts niemals Unterlagen existieren. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+- Wenn der Herausgeber die in missingInformation genannten Unterlagen veröffentlicht, die gesamte Rechnung mit Zeitmarken reproduzieren; eine ergänzende eigene Vollcodierung des Originals muss eine ausdrücklich getrennte Methode verwenden.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Vollständiges Register der gezählten Stellen mit Zeitmarken, Einzelbewertung, Abgrenzung von Meinung und Tatsachen, Wiederholungs- und Mittelungsregel.
+
+- Durchgang 1 am 2026-11-20 (Codex): UG/HP mit zwei Formulierungen nach Krall-Frequenzen, Index und unabhängigen Bewertungsagenten durchsucht; gesamten Messabschnitt 12:04–15:13 erneut gelesen und aktuelle Original-Uploadbeschreibung im Player geöffnet. Zugehörige Häufigkeitsgrafik um 13:02 zusätzlich im Originalplayer angesehen. Gepruefte Quellen: S002. Ergebnis: Häufigkeit beziehungsweise Punktwert und einzelne Beispiele erkannt; keine vollständige öffentlich erklärte Rechen- und Codiergrundlage im gelesenen Material. Die sichtbare Häufigkeitsangabe stimmt mit dem gesprochenen Text überein, ersetzt aber keine vollständige Zählgrundlage.
+
+- Durchgang 2 am 2026-11-20 (Codex): Anders angelegter Prüfweg über die konkret im Upload verlinkte Herausgeberseite: technischen Webzugangsfehler mit Browserbedienung überwunden, öffentliche Produktionsdarstellung und sichtbare Projektübersicht gelesen und gegen die benötigten Rechenangaben abgegrenzt. Gepruefte Quellen: S047, S048. Ergebnis: Öffentliche Seiten zugänglich, aber die benötigten Einzelkodierungen und Rechenregeln auf den geprüften Seiten nicht enthalten. Keine Behauptung, dass entsprechende Unterlagen niemals oder nirgendwo existieren.
 
 ## qQAcmDzd9O8-A0033
 
@@ -1488,7 +1520,7 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 ### Zugeordnete Quellen
 
 - [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-20. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. [Codex] 20.11.2026: Uploadbeschreibung erneut im Originalplayer geöffnet; Messabschnitt erneut textlich gelesen. Ausgewählte Bildtafeln zu zehn Minuten (um 13:02), acht Minuten (um 14:06–14:15) und Summenwerten (um 14:50–14:53) im laufenden Originalplayer visuell kontrolliert. Keine durchgängige audiovisuelle Kontrolle. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -1500,7 +1532,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ungefähr alle acht Minuten werte Krall ganze Gruppen pauschal ab.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1519,22 +1551,38 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ohne Liste, Definition, Mehrfachzählungsregel und Intercoder-Nachweis keine reproduzierbare Frequenz. Einzelne Beispiele bestätigen nicht die Gesamtzahl.
+Der Originalabschnitt 13:59–14:38 berichtet eine ungefähr achtminütige Häufigkeit pauschaler Gruppenabwertung und zeigt ein Politiker-Beispiel. Das belegt die öffentliche Aussage über die Messung, aber keine Gesamtfrequenz. Weder der gelesene Methodenabschnitt und die aktuelle Uploadbeschreibung noch die erreichbare Herausgeberseite mit Projektübersicht stellen auf den gelesenen Seiten das vollständige annotierte Register, Schwellen und Mehrfachzählungsregeln bereit. Ein einzelner nachvollziehbarer Fall lässt sich nicht zur Gesamtzahl hochrechnen. Die Frequenz ist deshalb mit den vorliegenden Quellen nicht ausreichend belegbar; eine eigene vollständige Rhetorikcodierung des dreistündigen Originals wird nicht behauptet und die Zahl nicht als widerlegt behandelt. Die zusätzlich im Originalplayer visuell kontrollierte Grafik um 14:06–14:15 zeigt ebenfalls die Häufigkeit von acht Minuten, aber kein vollständiges Fundstellenregister und keine daraus reproduzierte Gesamtzählung.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Ohne Liste, Definition, Mehrfachzählungsregel und Intercoder-Nachweis keine reproduzierbare Frequenz. Einzelne Beispiele bestätigen nicht die Gesamtzahl.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Nicht ausreichend belegbar. Der Originalabschnitt 13:59–14:38 berichtet eine ungefähr achtminütige Häufigkeit pauschaler Gruppenabwertung und zeigt ein Politiker-Beispiel. Das belegt die öffentliche Aussage über die Messung, aber keine Gesamtfrequenz. Weder der gelesene Methodenabschnitt und die aktuelle Uploadbeschreibung noch die erreichbare Herausgeberseite mit Projektübersicht stellen auf den gelesenen Seiten das vollständige annotierte Register, Schwellen und Mehrfachzählungsregeln bereit. Ein einzelner nachvollziehbarer Fall lässt sich nicht zur Gesamtzahl hochrechnen. Die Frequenz ist deshalb mit den vorliegenden Quellen nicht ausreichend belegbar; eine eigene vollständige Rhetorikcodierung des dreistündigen Originals wird nicht behauptet und die Zahl nicht als widerlegt behandelt. Ergänzende visuelle Stichprobe 20.11.2026 (Codex):  Die zusätzlich im Originalplayer visuell kontrollierte Grafik um 14:06–14:15 zeigt ebenfalls die Häufigkeit von acht Minuten, aber kein vollständiges Fundstellenregister und keine daraus reproduzierte Gesamtzählung.
 
 ### Zugeordnete Quellen
 
 - [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-20. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. [Codex] 20.11.2026: Uploadbeschreibung erneut im Originalplayer geöffnet; Messabschnitt erneut textlich gelesen. Ausgewählte Bildtafeln zu zehn Minuten (um 13:02), acht Minuten (um 14:06–14:15) und Summenwerten (um 14:50–14:53) im laufenden Originalplayer visuell kontrolliert. Keine durchgängige audiovisuelle Kontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [SinansWoche: öffentliche Projekt- und Produktionsdarstellung](https://sinanswoche.de/) · Vom Alfred-Upload ausdrücklich verlinkte Herausgeberseite; Eigenproduktion und Finanzierung als Selbstdarstellung, Verweis auf Projekte.
+  Quellenzugriff am 2026-11-20. Am 20.11.2026 im Browser geöffnet und sichtbare Darstellung gelesen; keine Einsicht in interne Prüferläufe oder vollständige Rohkodierungen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [SinansWoche: öffentliche Projektübersicht](https://sinanswoche.de/projekte/) · Über die sichtbare Navigation geöffnete Übersicht; kein dort sichtbarer Nachweis der hier untersuchten Prüferläufe.
+  Quellenzugriff am 2026-11-20. Sichtbare Projektübersicht selbst gelesen. Aus dem fehlenden Eintrag auf dieser Seite wird nicht geschlossen, dass andernorts niemals Unterlagen existieren. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+- Wenn der Herausgeber die in missingInformation genannten Unterlagen veröffentlicht, die gesamte Rechnung mit Zeitmarken reproduzieren; eine ergänzende eigene Vollcodierung des Originals muss eine ausdrücklich getrennte Methode verwenden.
+
+### Recherchedokumentation
+
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Vollständige annotierte Fundstellenliste, Definition von Gruppenabwertung, Zähleinheit und Regeln für Wiederholungen sowie die gemittelten Ergebnisse.
+
+- Durchgang 1 am 2026-11-20 (Codex): UG/HP mit zwei Formulierungen nach Krall-Frequenzen, Index und unabhängigen Bewertungsagenten durchsucht; gesamten Messabschnitt 12:04–15:13 erneut gelesen und aktuelle Original-Uploadbeschreibung im Player geöffnet. Zugehörige Häufigkeitsgrafik um 14:06–14:15 zusätzlich im Originalplayer angesehen. Gepruefte Quellen: S002. Ergebnis: Häufigkeit beziehungsweise Punktwert und einzelne Beispiele erkannt; keine vollständige öffentlich erklärte Rechen- und Codiergrundlage im gelesenen Material. Die sichtbare Häufigkeitsangabe stimmt mit dem gesprochenen Text überein, ersetzt aber keine vollständige Zählgrundlage.
+
+- Durchgang 2 am 2026-11-20 (Codex): Anders angelegter Prüfweg über die konkret im Upload verlinkte Herausgeberseite: technischen Webzugangsfehler mit Browserbedienung überwunden, öffentliche Produktionsdarstellung und sichtbare Projektübersicht gelesen und gegen die benötigten Rechenangaben abgegrenzt. Gepruefte Quellen: S047, S048. Ergebnis: Öffentliche Seiten zugänglich, aber die benötigten Einzelkodierungen und Rechenregeln auf den geprüften Seiten nicht enthalten. Keine Behauptung, dass entsprechende Unterlagen niemals oder nirgendwo existieren.
 
 ## qQAcmDzd9O8-A0035
 
@@ -1542,7 +1590,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Aus den drei Kategorien ergebe sich für Krall ein Alfred-Index von 1.360 Punkten.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1561,22 +1609,36 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Alfred nennt diese Zahl; ihre Berechnung ist ohne Gewichte und Einzelkodierungen nicht nachvollzogen. Weder Personenrangliste noch eigene Glaubwürdigkeitsnote daraus abgeleitet.
+Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Alfred nennt diese Zahl; ihre Berechnung ist ohne Gewichte und Einzelkodierungen nicht nachvollzogen. Weder Personenrangliste noch eigene Glaubwürdigkeitsnote daraus abgeleitet.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung.
 
 ### Zugeordnete Quellen
 
 - [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-18. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-20. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. [Codex] 20.11.2026: Uploadbeschreibung erneut im Originalplayer geöffnet; Messabschnitt erneut textlich gelesen. Ausgewählte Bildtafeln zu zehn Minuten (um 13:02), acht Minuten (um 14:06–14:15) und Summenwerten (um 14:50–14:53) im laufenden Originalplayer visuell kontrolliert. Keine durchgängige audiovisuelle Kontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [SinansWoche: öffentliche Projekt- und Produktionsdarstellung](https://sinanswoche.de/) · Vom Alfred-Upload ausdrücklich verlinkte Herausgeberseite; Eigenproduktion und Finanzierung als Selbstdarstellung, Verweis auf Projekte.
+  Quellenzugriff am 2026-11-20. Am 20.11.2026 im Browser geöffnet und sichtbare Darstellung gelesen; keine Einsicht in interne Prüferläufe oder vollständige Rohkodierungen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+
+- [SinansWoche: öffentliche Projektübersicht](https://sinanswoche.de/projekte/) · Über die sichtbare Navigation geöffnete Übersicht; kein dort sichtbarer Nachweis der hier untersuchten Prüferläufe.
+  Quellenzugriff am 2026-11-20. Sichtbare Projektübersicht selbst gelesen. Aus dem fehlenden Eintrag auf dieser Seite wird nicht geschlossen, dass andernorts niemals Unterlagen existieren. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Welche präzise Quelle, Bezugsgröße oder Originalkontrolle klärt die in der Begründung genannte Lücke?
+- Bei Veröffentlichung vollständiger Einzelkodierungen, Gewichte und Mittelungsregeln zusätzlich die Herleitung der drei Ausgangswerte nachrechnen.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): UG/HP mit zwei Formulierungen nach Krall-Index und Bewertungsverfahren durchsucht; Messabschnitt 12:04–15:13 und aktuelle Uploadbeschreibung gelesen; zusätzlich Summengrafik um 14:50–14:53 im Originalplayer visuell kontrolliert. Gepruefte Quellen: S002. Ergebnis: Drei sichtbare Teilwerte 590, 470 und 300 ergeben in eigener einfacher Addition korrekt 1360. Keine vollständige Herleitung der Teilwerte vorgefunden.
+
+- Durchgang 2 am 2026-11-20 (Codex): Anderer Prüfweg über die im Upload verlinkte Herausgeberseite: öffentlichen Produktionshinweis und sichtbare Projektübersicht im Browser gelesen und gegen die benötigten Eingangsdaten abgegrenzt. Gepruefte Quellen: S047, S048. Ergebnis: Die gelesenen Seiten liefern keine vollständige Codier- und Gewichtungsrechnung; daraus folgt kein allgemeiner Negativbeweis über andernorts vorhandene Unterlagen.
 
 ## qQAcmDzd9O8-A0036
 

@@ -12,6 +12,11 @@
         {
           "date": "2026-11-18",
           "change": "Zuordnung und Themenbezüge aus Codex-Arbeitsstand (PR #8) übernommen."
+        },
+        {
+          "date": "2026-11-20",
+          "agent": "Codex",
+          "change": "A0002 zu Umsatz und Brennereibesuchen mit Original A0082/A0134 abgeglichen; wahrheitsgemäße Zuschreibung von externer Bestätigung getrennt."
         }
       ],
       "claimLinks": [
@@ -71,7 +76,14 @@
           "originalClaimId": "mlxFA9T88I0-A0082",
           "reactionClaimId": "sLMyP0H7tSY-A0002",
           "reactionSeconds": 52,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Am 20.11.2026 [Codex] Alfreds ausdrückliche Kennzeichnung als Eigenangabe mit der bezeichneten Originalstelle abgeglichen. Belegt ist die korrekte Wiedergabe einer Selbstauskunft; Umsatz und vollständige Brennereiliste werden dadurch nicht unabhängig bestätigt. Originalurteil unverändert.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "agent": "Codex",
+              "change": "Wiedergabe im Originaltext kontrolliert; Sprecherzuordnung weiterhin plausibel, keine externe Kennzahlenprüfung."
+            }
+          ]
         },
         {
           "id": "L0005",
@@ -79,7 +91,14 @@
           "originalClaimId": "mlxFA9T88I0-A0134",
           "reactionClaimId": "sLMyP0H7tSY-A0002",
           "reactionSeconds": 52,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "Am 20.11.2026 [Codex] Alfreds ausdrückliche Kennzeichnung als Eigenangabe mit der bezeichneten Originalstelle abgeglichen. Belegt ist die korrekte Wiedergabe einer Selbstauskunft; Umsatz und vollständige Brennereiliste werden dadurch nicht unabhängig bestätigt. Originalurteil unverändert.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "agent": "Codex",
+              "change": "Wiedergabe im Originaltext kontrolliert; Sprecherzuordnung weiterhin plausibel, keine externe Kennzahlenprüfung."
+            }
+          ]
         },
         {
           "id": "L0006",
@@ -834,6 +853,11 @@
         {
           "date": "2026-11-18",
           "change": "[Codex] Neuer Krall-Fall, Issue #13; Zuordnung und abgegrenzte Gegenprüfung."
+        },
+        {
+          "date": "2026-11-20",
+          "agent": "Codex",
+          "change": "A0031 internen Produktionsablauf von öffentlich nachzurechnenden Frequenzen/Index A0032/A0034/A0035 getrennt. Originalbeispiele zu Corona und Politikervergleich bleiben im jeweiligen Originalcheck eigenständig bewertet; keine Index- oder Rhetorikzahl übernommen."
         }
       ],
       "claimLinks": [

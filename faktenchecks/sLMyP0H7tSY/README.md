@@ -1,6 +1,6 @@
 # Alfred räumt auf zu Horst Lüning: eigener Faktencheck
 
-**Status: Teilbestand geprüft.** 26 erfasste Prüfgegenstände sind nach Quellen- und Textprüfung abgeschlossen, darunter gesonderte Meinungsäußerungen. Vier Arbeitsaufträge bleiben offen. Die Nachprüfung vom 19./20. November 2026 ergänzt unter anderem den unmittelbar gelesenen Euro-Verordnungsentwurf und grenzt Zinsbindungsfrist und Restlaufzeit voneinander ab. Keine vollständige Hör-/Sichtkontrolle oder unabhängige menschliche Zweitprüfung.
+**Status: Teilbestand geprüft.** 27 erfasste Prüfgegenstände sind nach Quellen- und Textprüfung abgeschlossen, darunter gesonderte Meinungsäußerungen. Drei Arbeitsaufträge bleiben offen. Die Nachprüfung vom 19./20. November 2026 ergänzt unter anderem den unmittelbar gelesenen Euro-Verordnungsentwurf und grenzt Zinsbindungsfrist und Restlaufzeit voneinander ab. Keine vollständige Hör-/Sichtkontrolle oder unabhängige menschliche Zweitprüfung.
 
 - Video: [Verbietet der digitale Euro, was wir kaufen? Horst Lüning bei Ungeskriptet](https://www.youtube.com/watch?v=sLMyP0H7tSY)
 - Kanal: Alfred räumt auf
@@ -14,6 +14,8 @@
 Alfred prüft in seinem Video selbst einige Aussagen aus dem Lüning-Interview. Wir prüfen seine Teilbehauptungen unabhängig gegen Primärquellen und verknüpfen sie mit unserem eigenen Check des Originals. Weder Alfreds Einschätzung noch unser Originalcheck gelten dabei als Wahrheitsmaßstab. Es gibt keine Gesamtquote und keine Personennoten.
 
 Die Recherche stammt von Codex ([Issue #5](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/5)). Claude hat sie unverändert in das strukturierte Format übertragen. Die Einzelprüfungen dokumentieren den Stand je Aussage.
+
+[Codex] Nachprüfung 20.11.2026: A0002 ist als korrekte Wiedergabe ausdrücklich gekennzeichneter Selbstauskünfte belegt. Die Originalstellen zu Umsatz und 167 Brennereibesuchen wurden erneut gelesen; tatsächliche Geschäftszahlen und Reisevollständigkeit sind damit nicht unabhängig bestätigt.
 
 ## Hinweise für unseren Originalcheck
 

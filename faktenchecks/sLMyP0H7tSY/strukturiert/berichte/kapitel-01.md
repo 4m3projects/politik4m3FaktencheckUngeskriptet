@@ -1,6 +1,6 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Unabhängige Teilprüfung der Reaktion. Fünfzehn Sachbewertungen sind nach Abgleich mit dem Original und den Sachquellen abgeschlossen. Weitere erfasste Aussagen, der durchgängige Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Unabhängige Teilprüfung der Reaktion mit gezielten Nachprüfungen am Original und an den angegebenen Sachquellen. Die Einzelprüfungen unterscheiden abgeschlossene Bewertungen von noch offenen Arbeitsaufträgen. Durchgängiger Hör-/Sichtabgleich und redaktionelle Zweitprüfung stehen weiter aus; keine Gesamtabdeckung behauptet.
 
 Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen.
 
@@ -58,7 +58,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Umsatz und 167 Brennereibesuche werden ausdrücklich als eigene Angaben Lünings berichtet.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -77,27 +77,33 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: offen. Die entsprechenden Originalstellen und Vergleichs-IDs sind vorhanden. Die Genauigkeit von Besuchszählung und damaligem Umsatz ist damit extern nicht bestätigt. Alfreds Zuschreibung als Selbstauskunft ist von einer Übernahme als geprüfte Kennzahl zu unterscheiden.
+Geprüft wird hier, ob Alfred die Zahlen als Selbstauskünfte kenntlich macht, nicht ob Umsatz und Reisezählung unabhängig verifiziert sind. Alfreds Text 00:54–01:09 kennzeichnet beide Angaben ausdrücklich als eigene Aussage beziehungsweise Zählung Lünings. Im Original spricht der Gast um 00:40:55 von einem Umsatz deutlich oberhalb zehn Millionen Euro und um 01:00:41 von 167 besuchten und fotografierten Brennereien. Damit passen Zuschreibung und Kennzeichnung im sachlichen Kern. Die genaue damalige Umsatzhöhe, vollständige Besuchsliste und bestätigte Sprecheridentitäten sind dadurch nicht geprüft. Die Originalurteile A0082 und A0134 bleiben unverändert; ein korrekt berichteter Eigenbericht ist kein unabhängiger Nachweis seines Inhalts.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0002 (Art: wiedergabe) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Vorläufiger Befund [Codex]: offen. Die entsprechenden Originalstellen und Vergleichs-IDs sind vorhanden. Die Genauigkeit von Besuchszählung und damaligem Umsatz ist damit extern nicht bestätigt. Alfreds Zuschreibung als Selbstauskunft ist von einer Übernahme als geprüfte Kennzahl zu unterscheiden.","sourceIds":["S001","S020"]}. Jetzt Abgeschlossen / Belegt. Geprüft wird hier, ob Alfred die Zahlen als Selbstauskünfte kenntlich macht, nicht ob Umsatz und Reisezählung unabhängig verifiziert sind. Alfreds Text 00:54–01:09 kennzeichnet beide Angaben ausdrücklich als eigene Aussage beziehungsweise Zählung Lünings. Im Original spricht der Gast um 00:40:55 von einem Umsatz deutlich oberhalb zehn Millionen Euro und um 01:00:41 von 167 besuchten und fotografierten Brennereien. Damit passen Zuschreibung und Kennzeichnung im sachlichen Kern. Die genaue damalige Umsatzhöhe, vollständige Besuchsliste und bestätigte Sprecheridentitäten sind dadurch nicht geprüft. Die Originalurteile A0082 und A0134 bleiben unverändert; ein korrekt berichteter Eigenbericht ist kein unabhängiger Nachweis seines Inhalts.
 
 ### Zugeordnete Quellen
 
 - [Alfred-Upload und YouTube-oEmbed](https://www.youtube.com/watch?v=sLMyP0H7tSY) · YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.
-  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 - [Originalinterview](https://www.youtube.com/watch?v=mlxFA9T88I0) · Relevante Original-Untertitelpassagen erneut gelesen; keine direkte akustische Sprecherkontrolle und keine neue Vollprüfung des dreistündigen Interviews.
-  Quellenzugriff am 2026-11-18. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-20. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. [Codex] 20.11.2026: Originaltext 00:40:20–00:41:10 und 01:00:04–01:01:08 einschließlich Rückfragen selbst erneut gelesen, um die wiedergegebene Selbstauskunft abzugleichen; keine Hör-/Sichtkontrolle oder externe Bestätigung der Kennzahlen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): UG/HP mit zwei Formulierungen zu Umsatz, 167 Brennereien und Selbstauskunft durchsucht; Alfreds Originaltext 00:54–01:09 samt Einleitung erneut gelesen. Gepruefte Quellen: S001. Ergebnis: Beide Zahlen werden ausdrücklich als Eigenangaben kenntlich gemacht.
+
+- Durchgang 2 am 2026-11-20 (Codex): Rückabgleich mit den Originalstellen 00:40:20–00:41:10 und 01:00:04–01:01:08 sowie den bestehenden Original-Prüfgegenständen A0082/A0134. Gepruefte Quellen: S020. Ergebnis: Textlicher Eigenbericht mit passender Größenordnung gefunden; kein neuer Geschäftsabschluss oder Nachweis sämtlicher Reisen.
 
 ## sLMyP0H7tSY-A0003
 
