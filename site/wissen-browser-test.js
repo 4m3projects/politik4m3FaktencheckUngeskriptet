@@ -18,7 +18,7 @@ const ROOT = path.join(__dirname, '..');
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung, nur JSON-Daten). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-wissen-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   fs.mkdirSync(path.join(out, 'daten'));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');

@@ -19,7 +19,7 @@ const VIDEO = 'mlxFA9T88I0';
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-site-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
   for (const id of fs.readdirSync(base).filter(x => /^[A-Za-z0-9_-]{11}$/.test(x))) {
@@ -414,6 +414,30 @@ async function step(name, fn) {
     await page.locator('.verlauf-item .verlauf-title a').first().click();
     await page.waitForSelector('#claims .claim, .tabs');
     if (shots) { await page.goto(base + '#/verlauf'); await page.waitForSelector('.verlauf-item'); await page.screenshot({ path: path.join(shots, 'verlauf.png'), fullPage: true }); }
+  });
+
+  await step('Rangliste: oben in der Leiste, Index absteigend, graue Ampel ohne Platz', async () => {
+    await page.setViewportSize({ width: 1360, height: 860 });
+    await page.goto(base + '#/');
+    await page.waitForSelector('.card');
+    await page.locator('.mainnav a', { hasText: 'Rangliste' }).click();
+    await page.waitForSelector('.rang-item');
+    assert.equal(await page.locator('.mainnav a[aria-current="page"]').textContent(), 'Rangliste');
+    const idx = await page.locator('ol.rang > .rang-item').evaluateAll(els => els.map(e => Number(e.dataset.rangIndex.replace(',', '.'))));
+    assert.ok(idx.length > 0, 'mindestens ein Video mit Platz');
+    for (let i = 1; i < idx.length; i++) assert.ok(idx[i - 1] >= idx[i], 'absteigend nach Faktenindex');
+    const keys = await page.locator('ol.rang > .rang-item .ampel').evaluateAll(els => els.map(e => e.dataset.ampelKey));
+    assert.ok(keys.every(k => ['gruen', 'gelb', 'rot'].includes(k)), 'nur belastbare Ampeln mit Platz');
+    const grey = await page.locator('.rang-ohne .rang-item .ampel').evaluateAll(els => els.map(e => e.dataset.ampelKey));
+    assert.ok(grey.every(k => !['gruen', 'gelb', 'rot'].includes(k)), 'graue Ampeln ohne Platz');
+    if (await page.locator('[data-rang-filter="reaction"]').count()) {
+      await page.locator('[data-rang-filter="original"]').click();
+      const roles = await page.locator('.rang-item:not([hidden])').evaluateAll(els => els.map(e => e.dataset.rangRole));
+      assert.ok(roles.length && roles.every(r => r === 'original'), 'Filter zeigt nur Originale');
+    }
+    if (shots) await page.screenshot({ path: path.join(shots, 'rangliste.png'), fullPage: true });
+    await page.locator('ol.rang .rang-item:not([hidden]) .rang-title a').first().click();
+    await page.waitForSelector('#claims .claim, .tabs');
   });
 
   await step('Keine Skriptfehler in der Konsole', async () => {

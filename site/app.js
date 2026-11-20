@@ -1280,7 +1280,7 @@ async function pageMethod() {
         <li><strong>Vorsichtige Sprecherzuordnung.</strong> Je Fundstelle steht, ob die Person bestätigt, nur plausibel oder ungeklärt ist – und ob es eine eigene Behauptung, Zustimmung, Rückfrage oder Wiedergabe war.</li>
         <li><strong>Keine Doppelzählung.</strong> Wiederholungen werden als weitere Fundstellen derselben Aussage geführt, nicht als neue Aussagen.</li>
         <li><strong>Teilbestände ehrlich kennzeichnen.</strong> Wenn nur ein Teil eines Videos strukturiert geprüft ist, gibt es keine Gesamtbilanz des ganzen Videos; die Faktenampel nennt deshalb immer ihre Grundlage.</li>
-        <li><strong>Keine Rankings.</strong> Wir vergeben keine Glaubwürdigkeitsnoten für Personen.</li>
+        <li><strong>Keine Personenrankings.</strong> Wir vergeben keine Glaubwürdigkeitsnoten für Personen. Die <a href="#/rangliste">Rangliste</a> ordnet Videos allein nach ihrem berechneten Faktenindex.</li>
       </ul>
     </section>
 
@@ -1385,6 +1385,18 @@ async function pageVerlauf() {
   window.scrollTo(0, 0);
 }
 
+/* Rangliste: Videos nach ihrem berechneten Faktenindex, gute oben (site/rangliste.js, docs/RANGLISTE.md). */
+async function pageRangliste() {
+  const all = await Promise.all(state.index.videos.map(v => loadVideo(v.id).catch(() => ({ ...v, meta: {}, data: null }))));
+  setPage(FactRanking.renderPage(all, {
+    roleKey: v => v.video?.role || '',
+    roleLabel: v => v.video?.role === 'reaction' ? `${reactionTypeName(v.video.reactionType)} von ${v.video.channel}` : v.video?.role === 'original' ? 'Originalinterview' : ''
+  }), 'rangliste');
+  FactRanking.bindFilter(main());
+  document.title = 'Rangliste – Politik4M3 Faktencheck Ungeskriptet';
+  window.scrollTo(0, 0);
+}
+
 function pageError(err) {
   setPage(`<div class="wrap"><p class="notice warn" style="margin-top:32px"><strong>Diese Seite konnte nicht geladen werden.</strong> ${esc(err.message || err)}</p><p><a href="#/">Zur Übersicht</a></p></div>`, '');
 }
@@ -1481,6 +1493,7 @@ async function routePage() {
     }
     if (parts[0] === 'jens') return pageJens();
     if (parts[0] === 'verlauf') return await pageVerlauf();
+    if (parts[0] === 'rangliste') return await pageRangliste();
     if (parts[0] === 'themen') return await pageTopics();
     if (parts[0] === 'thema' && parts[1]) return await pageTopic(parts.slice(1).join('/'));
     return await pageHome();

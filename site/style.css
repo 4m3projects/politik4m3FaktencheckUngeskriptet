@@ -768,3 +768,23 @@ a[href*="youtube.com/"] .btn::before, a[href*="youtu.be/"] .btn::before { margin
 .fi-list { margin: 4px 0; padding-left: 20px; }
 .fi-claim { border-top: 1px dashed var(--line); padding-top: 8px; }
 .fi-badge { font-variant-numeric: tabular-nums; }
+
+/* Rangliste (#/rangliste): Videos nach berechnetem Faktenindex, site/rangliste.js. */
+.rang { list-style: none; margin: 0; padding: 0; border-top: 1px solid var(--line); }
+.rang-item { display: grid; grid-template-columns: 3rem 1fr auto; align-items: center; gap: 4px 16px; padding: 12px 0; border-bottom: 1px solid var(--line); }
+.rang-item[hidden] { display: none; }
+.rang-place { font-size: 1.35rem; font-weight: 700; color: var(--text-2); text-align: right; font-variant-numeric: tabular-nums; }
+.rang-title { font-size: 1.05rem; margin: 0 0 2px; line-height: 1.35; }
+.rang-title a { text-decoration: none; }
+.rang-title a:hover { text-decoration: underline; }
+.rang-body p { margin: 0; }
+.rang-score .ampel.compact { margin: 0; }
+.rang-ohne .rang-place { color: var(--text-3); }
+.rang-filter { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 14px; }
+.rang-filter button { font: inherit; font-size: .9rem; padding: 5px 12px; border-radius: 999px; border: 1px solid var(--line-strong); background: var(--surface); color: var(--text-2); cursor: pointer; }
+.rang-filter button[aria-pressed="true"] { background: var(--accent-soft); color: var(--accent-ink); border-color: transparent; }
+@media (max-width: 640px) {
+  .rang-item { grid-template-columns: 2.2rem 1fr; }
+  .rang-score { grid-column: 2; }
+  .rang-place { font-size: 1.15rem; }
+}
