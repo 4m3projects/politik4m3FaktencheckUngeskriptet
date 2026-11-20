@@ -11,7 +11,7 @@
  */
 'use strict';
 
-const FI_TEXT = 'Der Faktenindex berücksichtigt belegte, widerlegte und ungeklärte Aussagen. Widerlegte Aussagen werden zehnmal stärker gewichtet. Die KI-Prüfer berücksichtigen zusätzlich die Bedeutung einzelner Aussagen.';
+const FI_TEXT = 'Der Faktenindex berücksichtigt belegte, widerlegte und ungeklärte Aussagen. Widerlegte Aussagen werden fünfmal stärker gewichtet. Die KI-Prüfer berücksichtigen zusätzlich die Bedeutung einzelner Aussagen.';
 const FI_SCOPE = 'Er beschreibt nur die geprüften Tatsachenbehauptungen, nicht das ganze Video und keine Person. Meinungen, noch nicht geprüfte und nicht überprüfbare Aussagen zählen nicht; Darstellungshinweise fließen nie ein.';
 
 function fiEsc(s) {
