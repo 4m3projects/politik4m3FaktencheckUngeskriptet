@@ -1,0 +1,7 @@
+# Plaud-Werbepassage nachgeprüft
+
+[Codex], 20.11.2026, Issue #77, Ausgangspunkt 1f1cc0c nach PR #100. A0071 war offen, weil die visuelle Darstellung nicht kontrolliert war. Originaltext 00:09:56–00:10:57 erneut gelesen, ausgewählte Originalbilder bei etwa 00:10:19 und angehalten bei 00:10:28 angesehen: Host, fertige Transkriptansicht und passende Untertitel. Keine durchgehende Hörkontrolle, keine vollständige Bild-für-Bild-Prüfung, keine fremden Screenshots veröffentlicht.
+
+Ergebnis: **Irreführend / Kontext fehlt** hinsichtlich unmittelbarer Fertigstellung. Herstelleranleitung vom 03.03.2026 trennt Speicherung, Übertragung und Generierung; die Oktober-FAQ erläutert Wartezeiten, die laufende Produkt-FAQ verneint Echtzeittranskription. Spätere Hilfestände bleiben als solche gekennzeichnet. Keine eigene Zeitmessung oder rückwirkende Vollständigkeit des Produktstands behauptet. Die Transkriptionsfunktion selbst wird nicht bestritten. Sprecher ist der Host im Werbeteil, die Aussage wird Lüning nicht zugerechnet.
+
+UG/HP vorab mit zwei Formulierungen durchsucht. Neue Recherche, vorheriger Status und frühere Begründung dokumentiert. Alle anderen Urteile und Faktoren bleiben unverändert. Keine passenden direkten Reaktionsverknüpfungen zu dieser Werbung vorhanden. Im Originalbestand verbleiben vier offene eigene Tatsachen: A0283, A0296, A0299, A0358. Die Gesamtprüfung bleibt unvollständig.

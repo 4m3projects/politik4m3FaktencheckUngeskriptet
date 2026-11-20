@@ -1,6 +1,6 @@
 # Horst Lüning bei Ben: Wirtschafts- und Staatsfinanzthesen
 
-**Status: Teilbestand nachgeprüft, 5 erfasste Tatsachenbehauptungen noch offen.** Der Erststand vom 17.11.2026 wurde am 20.11.2026 gezielt mit Originalstellen und externen Quellen nachgeprüft. Eine vollständige Hör-/Sichtprüfung steht weiterhin aus.
+**Status: Teilbestand nachgeprüft, 4 erfasste Tatsachenbehauptungen noch offen.** Der Erststand vom 17.11.2026 wurde am 20.11.2026 gezielt mit Originalstellen und externen Quellen nachgeprüft. Eine vollständige Hör-/Sichtprüfung steht weiterhin aus.
 
 - Original: [Schau dieses Video, bevor Deutschland kippt (Horst Lüning)](https://www.youtube.com/watch?v=mlxFA9T88I0)
 - Kanal: {ungeskriptet} by Ben
@@ -14,7 +14,7 @@
 
 ## Nachprüfung am 20.11.2026
 
-Der aktuelle strukturierte Bestand enthält 395 Datensätze: 312 eigene Tatsachenbehauptungen (159 mit Urteil, 148 begründet nicht überprüfbar, 5 offen), 80 Meinungen/Prognosen und drei reine Fremdbezüge. Nach den bereits veröffentlichten Prüfungen zu Bankverlusten und Staatsanleihen wurden A0190 (Discounterabsatz), A0191 (Preisbeispiele), A0196 (Umsatz und Lohnspielraum) A0287 (Pflegewerbung des Hosts) und A0317 (Merz-Sommerinterview) nachgearbeitet. Zwei zu starke eigene Paraphrasen wurden auf die tatsächliche Aussage zurückgeführt; Quellenreichweite und Zeitbezug bleiben ausdrücklich begrenzt. Die aktuellen Einzelprüfungen stehen in den [generierten Berichten](strukturiert/README.md); die folgenden älteren Übersichten dokumentieren den Erststand.
+Der aktuelle strukturierte Bestand enthält 395 Datensätze: 312 eigene Tatsachenbehauptungen (160 mit Urteil, 148 begründet nicht überprüfbar, 4 offen), 80 Meinungen/Prognosen und drei reine Fremdbezüge. Nach den bereits veröffentlichten Prüfungen zu Bankverlusten und Staatsanleihen wurden A0190 (Discounterabsatz), A0191 (Preisbeispiele), A0196 (Umsatz und Lohnspielraum) A0287 (Pflegewerbung des Hosts) und A0317 (Merz-Sommerinterview) nachgearbeitet. Zwei zu starke eigene Paraphrasen wurden auf die tatsächliche Aussage zurückgeführt; Quellenreichweite und Zeitbezug bleiben ausdrücklich begrenzt. Die aktuellen Einzelprüfungen stehen in den [generierten Berichten](strukturiert/README.md); die folgenden älteren Übersichten dokumentieren den Erststand.
 
 Zusätzlich wurde A0289 zur angeblich vorherrschenden tierischen Hautpflege um 1926 nach historischen Hersteller- und Museumsquellen nachgearbeitet. Die gelesenen Quellen erlauben keine belastbare Häufigkeitsrangfolge; die Aussage ist mit dokumentierten Grenzen nicht ausreichend belegbar.
 
@@ -23,6 +23,8 @@ Weiterer Nachprüfungsstand: A0147/A0148 (Fassregel), A0212 (Müller-Zitat) und 
 Auch A0304 zu Belastungen der Privatversicherung wurde anhand amtlicher Äußerungen vom Aufnahmetag teilweise bestätigt: Angekündigte Gleichbehandlung und Beihilfe-Regeln sind von unbestimmten Zusatzbelastungen aller PKV-Kunden getrennt.
 
 A0392 wurde zusätzlich direkt mit dem Schlussabschnitt der Roger-Köppel-Originalfolge abgeglichen: sinngemäße Parallele der Ehefrau-Antwort belegt; keine wörtliche Gleichheit oder exakte Wochenzahl behauptet.
+
+A0071 zur Plaud-Werbung des Hosts wurde anschließend am Originalbild und anhand der Herstelleranleitung nachgeprüft: Die unmittelbare Fertigstellung ist irreführend verkürzt; die grundsätzliche Transkriptionsfunktion wird nicht bestritten.
 
 ## Lesen
 
