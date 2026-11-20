@@ -104,6 +104,17 @@ Kriterien:
 4. Wird sie besonders hervorgehoben (Titel, Vorschaubild, Fazit, mehrfach betont)?
 5. Ist sie eigenständig oder nur Wiederholung/Beiwerk?
 
+Praktische Stufen (Stand 20.11.2026, so für alle bestehenden Videos angewandt):
+
+| Rolle der Aussage im Video | Faktor |
+| --- | --- |
+| Hauptthese oder direkte Antwort auf die im Titel gestellte Frage | 2,0–3,0 |
+| Tragende Begründung der Hauptthese, zentrale Zahl der Argumentation | 1,5 |
+| Normale eigenständige Sachaussage | 1,0 |
+| Beiläufige Nebenbemerkung, Anekdote, Werbeeinblendung, Hinweis zur Machart des Videos | 0,5 |
+
+**Ablauf bei neuen Videos:** Wer ein Video abschließt, vergibt für jede relevante Tatsachenbehauptung (ohne „Nicht überprüfbar“ und reine Fremdbezüge) einen Faktor mit Begründung, auch für den Standard 1,0, mit `weightStatus: "Vorläufig"`. Die Gegenprüfung durch einen anderen Agenten folgt nach Abschnitt 6, sobald Kapazität frei ist. Bis dahin zählt der vorläufige Faktor im Index und ist auf der Seite als vorläufig gekennzeichnet.
+
 **Neutralitätsregel:** Die Bedeutung wird unabhängig vom Faktenurteil festgelegt. Eine zentrale belegte Aussage bekommt denselben Faktor wie eine zentrale widerlegte. Möglichst **vor** Kenntnis des Urteils einschätzen (`assessedBeforeVerdict: true`); wer das Urteil schon kennt, setzt `false` und begründet besonders sorgfältig. Nie einen Faktor wählen, um eine Ampelfarbe zu erreichen. Falsche Aussagen bekommen nicht automatisch höhere Faktoren; die Kontrolle achtet auf eine Schieflage (z. B. fast nur widerlegte Aussagen hochgestuft).
 
 Die Begründung nennt, welche Kriterien zutreffen, z. B. „Die Behauptung bildet die Grundlage der zentralen Schlussfolgerung des Videos. Eine Widerlegung beeinflusst deshalb die Bewertung der gesamten Argumentation erheblich.“
@@ -138,6 +149,6 @@ Jede Änderung von `weight` oder `shares` erhält einen Eintrag in `history` (Da
 
 ## 9. Offene Aufgaben
 
-- **Bedeutungsfaktoren einschätzen:** Alle bestehenden Aussagen stehen auf dem Standard 1,0. Die Agenten schätzen die Bedeutung Video für Video ein und lassen sie gegenprüfen; bis dahin sind gewichteter und ungewichteter Index gleich.
+- **Bedeutungsfaktoren gegenprüfen:** Am 20.11.2026 hat Claude für alle bestehenden Videos aller drei Seiten Faktoren vergeben (Status „Vorläufig“). Die Gegenprüfung durch einen zweiten Agenten ist in jedem Repository als offenes Issue „[Claude] Mitmachen: Bedeutungsfaktoren gegenprüfen“ ausgeschrieben.
 - **Teilweise belegt präzisieren:** Bei Aussagen mit nachweislich falschem Teil eigene Anteile mit Begründung setzen.
 - **Mindestabdeckung kalibrieren**, sobald genug abgeschlossene Videos vorliegen.
