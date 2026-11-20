@@ -72,7 +72,8 @@ jobs:
           base=https://raw.githubusercontent.com/4m3projects/politik4m3Facktencheck/main
           level=warning; [[ "${{ github.event_name }}" == "pull_request" ]] && level=error
           bad=0
-          for f in site/faktenindex.js site/faktenindex-ui.js site/faktenindex-test.js scripts/faktenindex.js docs/FAKTENINDEX.md; do
+          for f in site/faktenindex.js site/faktenindex-ui.js site/faktenindex-test.js scripts/faktenindex.js docs/FAKTENINDEX.md \
+                   site/rangliste.js site/rangliste-test.js docs/RANGLISTE.md; do
             if ! curl -fsSL --retry 3 "$base/$f" -o "$RUNNER_TEMP/ref"; then echo "::warning file=$f::$f im Hauptprojekt nicht abrufbar, Vergleich übersprungen"; continue; fi
             if ! cmp -s "$RUNNER_TEMP/ref" "$f"; then echo "::$level file=$f::$f weicht vom Hauptprojekt ab; Änderungen dort vornehmen und unverändert übernehmen."; bad=1; fi
           done

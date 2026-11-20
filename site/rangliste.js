@@ -67,7 +67,7 @@
   function renderPage(videos, opts = {}) {
     const esc = typeof fiEsc === 'function' ? fiEsc : String;
     const fmt = x => FactIndex.format(x);
-    const pct = x => FactIndex.percent(x);
+    const pct = x => FactIndex.percent(x).replace(' %', '\u00a0%');
     const roleLabel = opts.roleLabel || (() => '');
     const roleKey = opts.roleKey || (() => '');
     const { ranked, unranked } = rank(videos, FactIndex.rate);
