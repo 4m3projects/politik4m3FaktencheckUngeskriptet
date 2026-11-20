@@ -717,7 +717,7 @@ Case 'Index-Snapshot wird eigenstaendig validiert' {
     Expect-Rejection { Assert-FactcheckCollection $snapshot } 'Factcheckartefakt'
     Assert-FactcheckCollection $workTexts
 }
-Case 'Alle 14 veroeffentlichten Berichtdateien und Lizenz unveraendert' {
+Case '13 historische Berichtdateien und Lizenz unveraendert; README gezielt fortgeschrieben' {
     $gitArgs=@('-c',('safe.directory='+$root.Replace('\','/')),'-C',$root)
     $tree=@(& git @gitArgs ls-tree -r $script:baseline.scope.baselineCommit -- faktenchecks LICENSE)
     if ($LASTEXITCODE -ne 0) { throw 'Baseline nicht lesbar.' }
@@ -725,6 +725,9 @@ Case 'Alle 14 veroeffentlichten Berichtdateien und Lizenz unveraendert' {
     foreach ($entry in $tree) {
         if ($entry -notmatch '^100644 blob ([0-9a-f]+)\t(.+)$') { throw 'Ungueltiger Baselineeintrag.' }
         $expected=$Matches[1]; $path=$Matches[2]
+        # Nutzerauftrag zur Nachpruefung vom 20.11.2026: nur die Uebersicht wird mit dem aktuellen Stand fortgeschrieben.
+        # Die 13 historischen Detailberichte und die Lizenz bleiben gegen die urspruenglichen Blobs geschuetzt.
+        if ($path -ceq 'faktenchecks/mlxFA9T88I0/README.md') { continue }
         $actual=& git @gitArgs hash-object -- (Join-Path $root $path)
         if ($LASTEXITCODE -ne 0) { throw 'Dateihash nicht lesbar.' }
         Check-True ($actual -ceq $expected) ('Veroeffentlichte Datei veraendert: '+$path)
