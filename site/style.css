@@ -136,6 +136,35 @@ p { margin: 0 0 1em; }
 .brand-sub { color: var(--text); display: inline-flex; align-items: center; gap: 8px; }
 .brand-sub:hover { color: var(--accent); }
 .brand-sep { color: var(--text-3); }
+/* Dropdown am Titel: weitere Faktenchecks. Hover nur auf Geräten mit Maus; per Tippen/Tastatur über den Pfeil-Knopf. */
+.brand-menu { position: relative; display: flex; align-items: center; gap: 2px; }
+.brand-toggle {
+  display: grid; place-items: center; width: 32px; height: 32px; padding: 0; border: 0; border-radius: 8px;
+  background: transparent; color: var(--text-2); cursor: pointer; -webkit-tap-highlight-color: transparent;
+}
+.brand-toggle:hover, .brand-toggle[aria-expanded="true"] { background: var(--surface-2); color: var(--text); }
+.brand-toggle .chev {
+  width: 8px; height: 8px; margin-top: -4px; border: solid currentColor; border-width: 0 2px 2px 0;
+  transform: rotate(45deg); transition: transform .15s;
+}
+.brand-toggle[aria-expanded="true"] .chev { transform: rotate(225deg); margin-top: 4px; }
+.brand-dropdown {
+  display: none; position: absolute; left: 0; top: 100%; z-index: 6;
+  width: max-content; max-width: min(340px, calc(100vw - 32px)); padding-top: 8px;
+}
+.brand-menu.open .brand-dropdown { display: block; }
+@media (hover: hover) { .brand-menu:hover .brand-dropdown { display: block; } }
+.brand-dropdown-head, .brand-dropdown ul { background: var(--surface); border: 1px solid var(--line); }
+.brand-dropdown-head {
+  margin: 0; padding: 10px 14px 6px; border-bottom: 0; border-radius: var(--radius-s) var(--radius-s) 0 0;
+  font-size: .75rem; text-transform: uppercase; letter-spacing: .08em; color: var(--text-3);
+}
+.brand-dropdown ul { list-style: none; margin: 0; padding: 4px 6px 6px; border-top: 0; border-radius: 0 0 var(--radius-s) var(--radius-s); box-shadow: var(--shadow); }
+.brand-dropdown a { display: block; padding: 8px 10px; border-radius: 6px; color: var(--text); text-decoration: none; }
+.brand-dropdown a:hover, .brand-dropdown a:focus-visible { background: var(--surface-2); }
+.brand-dropdown a strong { display: block; font-weight: 600; }
+.brand-dropdown a span { display: block; font-size: .85rem; color: var(--text-2); }
+.brand-dropdown a[aria-current] strong { color: var(--accent-ink); }
 .mainnav { display: flex; gap: 4px; flex-wrap: wrap; }
 .mainnav a { color: var(--text-2); text-decoration: none; padding: 6px 10px; border-radius: 8px; font-size: .95rem; }
 .mainnav a:hover { background: var(--surface-2); color: var(--text); }
