@@ -80,6 +80,38 @@ test('Nicht überprüfbar, Meinungen, Fremdbezüge und Wiederholungen bleiben au
   assert.equal(r.coverage, 1);
 });
 
+const said = (statementBy, creatorStance, extra = {}) => ({ attribution: { statementBy, person: statementBy === 'Gast' ? 'Gastname' : 'Zitierte Politikerin', presentation: statementBy === 'Gast' ? 'Gespräch' : 'Einspieler', creatorStance, basis: 'Der Moderator kommentiert den Ausschnitt direkt danach.', assessedBy: 'Claude', assessedOn: '2026-11-20', ...extra } });
+
+test('Wer sagt es: Zitate zählen nur, wenn das Video sie übernimmt; Gäste, außer das Video widerspricht', () => {
+  const base = many(10, 'Belegt');
+  assert.equal(idx([...base, claim('Widerlegt', said('Zitierte Person', 'Nur wiedergegeben'))]), 1);
+  assert.equal(idx([...base, claim('Widerlegt', said('Zitierte Person', 'Distanziert'))]), 1);
+  assert.equal(idx([...base, claim('Widerlegt', said('Zitierte Person', 'Übernommen'))]), 0.667);
+  assert.equal(idx([...base, claim('Widerlegt', said('Gast', 'Nur wiedergegeben'))]), 0.667);
+  assert.equal(idx([...base, claim('Widerlegt', said('Gast', 'Übernommen'))]), 0.667);
+  assert.equal(idx([...base, claim('Widerlegt', said('Gast', 'Distanziert'))]), 1);
+  const r = FI.compute([...base, claim('Widerlegt', said('Zitierte Person', 'Distanziert')), claim('Belegt', said('Zitierte Person', 'Ungeklärt'))]);
+  assert.equal(r.counts.zitat, 1);
+  assert.equal(r.counts.zuordnung_offen, 1);
+  assert.equal(r.indexed, 10);
+  assert.equal(r.pending, 1, 'ungeklärte Haltung senkt die Prüfabdeckung');
+  assert.equal(r.facts, 10, 'Zitate zählen nicht zur Erfassungsdichte');
+  assert.equal(FI.classify(claim('Meinung / Prognose', said('Zitierte Person', 'Distanziert'))), 'meinung');
+});
+
+test('Wer sagt es: Feldprüfung', () => {
+  assert.deepEqual(FI.validateClaim(claim('Belegt', said('Zitierte Person', 'Übernommen'))), []);
+  const bad = (a, re) => assert.match(FI.validateClaim(claim('Belegt', { attribution: { ...said('Zitierte Person', 'Übernommen').attribution, ...a } })).join(' | '), re);
+  bad({ statementBy: 'Ersteller' }, /statementBy muss/);
+  bad({ person: ' ' }, /person/);
+  bad({ presentation: 'Gespräch' }, /„Gespräch“ gilt genau für Gäste/);
+  bad({ creatorStance: 'egal' }, /creatorStance muss/);
+  bad({ basis: '' }, /basis/);
+  bad({ assessedOn: '20.11.2026' }, /assessedOn/);
+  bad({ extra: 1 }, /extra ist kein bekanntes Feld/);
+  assert.match(FI.validateClaim(claim('Belegt', { attribution: [] })).join(), /muss ein Objekt sein/);
+});
+
 test('Wiederholungen derselben Aussage (mehrere Fundstellen) werden nur einmal gewichtet', () => {
   const once = claim('Widerlegt');
   const thrice = { ...claim('Widerlegt'), occurrences: Array(3).fill({ role: 'Behauptung', roleStatus: 'Bestätigt' }) };
@@ -238,6 +270,24 @@ test('Anzeige je Aussage: Faktor, Begründung, Anteile, Kontrollen, Agenten; Ung
   ctx.o = open(1)[0];
   assert.match(vm.runInContext('fiClaimBlock(o, v)', ctx), /zählt nicht im Index \(weder als widerlegt noch als ungeklärt\)/);
   assert.equal(vm.runInContext('fiClaimBadge(o)', ctx), '');
+});
+
+test('Anzeige: „Zitat: Person“ im Kopf und „Wer sagt das?“ in der Aussage', () => {
+  const ctx = ui();
+  ctx.z = claim('Widerlegt', said('Zitierte Person', 'Nur wiedergegeben'));
+  ctx.u = claim('Widerlegt', said('Zitierte Person', 'Übernommen'));
+  ctx.g = claim('Belegt', said('Gast', 'Nur wiedergegeben'));
+  ctx.e = claim('Belegt');
+  ctx.v = { id: 'X', data: data([...many(10, 'Belegt'), ctx.z]) };
+  assert.match(vm.runInContext('fiClaimBadge(z)', ctx), /Zitat: Zitierte Politikerin · nicht dem Video angerechnet/);
+  assert.match(vm.runInContext('fiSpeakerBadge(u)', ctx), /Zitat: Zitierte Politikerin · vom Video übernommen/);
+  assert.match(vm.runInContext('fiSpeakerBadge(g)', ctx), />Gast: Gastname<\/span>/);
+  assert.equal(vm.runInContext('fiSpeakerBadge(e)', ctx), '');
+  const html = vm.runInContext('fiClaimBlock(z, v)', ctx);
+  assert.match(html, /Wer sagt das\?<\/dt><dd>Zitierte Person: Zitierte Politikerin \(Einspieler\)\. Das Video gibt die Aussage nur wieder/);
+  assert.match(html, /zählt aber weder für noch gegen das Video/);
+  assert.match(vm.runInContext('fiClaimBlock(e, v)', ctx), /Das Video selbst/);
+  assert.match(vm.runInContext("fiMethod(k => '')", ctx), /Wer sagt es\?/);
 });
 
 test('Methodik nennt Formel, Schwellen und Beispiele aus der zentralen Konfiguration', () => {

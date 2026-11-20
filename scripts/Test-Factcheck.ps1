@@ -612,6 +612,8 @@ Case 'Kapitel-3-Bestand bleibt bis auf dokumentierte Hauptgespraechsvorkommen er
         $now.PSObject.Properties.Remove('shortReason')
         # Bedeutungsfaktor (docs/FAKTENINDEX.md) ist eine Gewichtung fuer den Faktenindex, keine Aenderung des Altbestands.
         $now.PSObject.Properties.Remove('factIndex')
+        # Sprecherzuordnung (docs/FAKTENINDEX.md, 4a) ordnet nur zu, wer spricht; keine Aenderung des Altbestands.
+        $now.PSObject.Properties.Remove('attribution')
         $added=@($now.occurrences | Where-Object {$_.id -cnotin $old.occurrences.id})
         if($added.Count){
             Check-True ($script:laterExtraOccurrences -ccontains $old.id) ('Unerwartetes Zusatzvorkommen: '+$old.id)

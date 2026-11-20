@@ -1,6 +1,6 @@
 # Faktenindex – gemeinsame Regel für alle Politik4M3-Faktenchecks
 
-Erstellt von: Claude, auf Auftrag von Jens (20.11.2026). Regelstand 1.0.
+Erstellt von: Claude, auf Auftrag von Jens (20.11.2026). Regelstand 1.3 (Verlauf in Abschnitt 7).
 
 **Diese Datei ist in allen drei Repositories gleich** (`politik4m3Facktencheck` maßgeblich, `politik4m3FaktencheckUngeskriptet`, `politik4m3FaktencheckKlima`). Sie ist Pflichtlektüre für alle KI-Agenten (Claude, Codex, ChatGPT), die Aussagen bewerten, Bedeutungsfaktoren vergeben oder kontrollieren. Sie ergänzt die bestehenden Regeln; die sechs Bewertungskategorien, die vier Prüfstatus und ihre Begründungen bleiben unverändert.
 
@@ -41,6 +41,8 @@ Beispiele (R = 1): 10 belegt/0 widerlegt → 1,000; 10/1 → 0,667; 20/1 → 0,8
 | Meinung / Prognose, Werturteil, Satire, künstlerische Zuspitzung | – | – | – | nein | nicht gezählt |
 | Nur erwähnt, nachgefragt oder zurückgewiesen (alle Vorkommen `Rückfrage`, `Fremdbezug`, `Zurückweisung` oder Rolle ungeklärt) | – | – | – | nein | nicht gezählt |
 | Wiederholung (`factIndex.duplicateOf`) | – | – | – | nein | nicht gezählt |
+| Aussage einer zitierten Person, die das Video nur wiedergibt oder zurückweist; Gastaussage, der das Video deutlich widerspricht (`attribution`, Abschnitt 4a) | – | – | – | nein | nicht gezählt |
+| Aussage einer anderen Person, Haltung des Videos ungeklärt (`attribution.creatorStance: "Ungeklärt"`) | – | – | – | nein | ausstehend |
 
 Begründung der Abbildung:
 
@@ -92,6 +94,50 @@ Fehlt das Feld, gilt **R = 1,0 (Standardwert, noch nicht einzeln eingeschätzt)*
 - `duplicateOf`: Verweis auf die zusammengeführte Hauptaussage (nicht auf eine weitere Wiederholung).
 - Geprüft wird alles von `node scripts/faktenindex.js pruefen` (CI).
 
+## 4a. Wer sagt es? Zitate nicht dem Video anlasten (`claims[].attribution`, optional)
+
+Regel von Jens (20.11.2026): Bewertet wird das Video, nicht jede Person, die darin vorkommt. Zeigt ein Video einen Ausschnitt, liest ein Zitat vor oder lässt eine andere Person etwas sagen, und diese Aussage ist falsch, ist das **nur dann ein Fehler des Videos, wenn das Video sie sich zu eigen macht**. Stellt das Video sie klar oder gibt es sie nur wieder, zählt sie nicht.
+
+Fehlt das Feld, gilt die Aussage als Aussage des Videos selbst (Ersteller, Moderation, Kanalfigur, Gesprächsteilnehmer) wie bisher.
+
+```json
+"attribution": {
+  "statementBy": "Zitierte Person",
+  "person": "Name oder kurze Beschreibung, z. B. „Bundesfinanzminister (Ausschnitt Tagesschau)“",
+  "presentation": "Einspieler",
+  "creatorStance": "Distanziert",
+  "basis": "Direkt nach dem Ausschnitt nennt der Moderator die korrekte Zahl und bezeichnet die Aussage als falsch.",
+  "assessedBy": "Claude",
+  "assessedOn": "2026-11-20"
+}
+```
+
+| Feld | Werte |
+| --- | --- |
+| `statementBy` | `Zitierte Person` (nimmt nicht selbst am Video teil: Einspieler, fremder Videoausschnitt, vorgelesenes Zitat, eingeblendeter Beitrag) · `Gast` (spricht selbst im Gespräch des Videos) |
+| `presentation` | `Einspieler`, `Vorgelesenes Zitat`, `Einblendung`, `Sinngemäße Wiedergabe` (nur zitierte Personen) · `Gespräch` (nur Gäste) |
+| `creatorStance` | `Übernommen` · `Nur wiedergegeben` · `Distanziert` · `Ungeklärt` |
+| `basis` | Woran die Haltung des Videos erkennbar ist (Paraphrase, kein Wortlaut) |
+
+Wirkung im Faktenindex:
+
+| Wer | Übernommen | Nur wiedergegeben | Distanziert | Ungeklärt |
+| --- | --- | --- | --- | --- |
+| Zitierte Person | zählt | zählt nicht | zählt nicht | nicht im Index, Abdeckung ausstehend |
+| Gast | zählt | zählt (das Video lässt die Aussage stehen) | zählt nicht | nicht im Index, Abdeckung ausstehend |
+
+So wird entschieden:
+
+- **Übernommen**: Das Video stimmt zu, nutzt das Zitat als Beleg oder Stütze der eigenen These oder stellt es als zutreffend dar. Auch ein unkommentiert eingesetzter Ausschnitt, der erkennbar die eigene Argumentation tragen soll, ist übernommen.
+- **Nur wiedergegeben**: Das Zitat ist Gegenstand, nicht Teil der eigenen Argumentation, z. B. „X behauptet …“ in einer Dokumentation der Positionen, eine Gegenposition, der Anlass einer Reaktion, ohne dass das Video es bestätigt.
+- **Distanziert**: Das Video widerspricht, korrigiert, ordnet das Zitat erkennbar als falsch oder zweifelhaft ein oder grenzt sich deutlich ab.
+- **Ungeklärt**: nur, solange die Stelle nicht im Zusammenhang geprüft wurde. Nicht raten.
+- Bei Reaktionsvideos ist das gezeigte Originalvideo eine zitierte Person; die Reaktion des Kanals ist die Aussage des Videos.
+- Die Rollen der einzelnen Fundstellen (`occurrences[].role`: `Fremdbezug`, `Zurückweisung` …) gelten weiter. `attribution` ergänzt sie um die Frage, **wessen** Aussage es ist, wenn eine andere Person sie im Video selbst ausspricht oder sie eingeblendet wird.
+- Der Faktenstatus (`verdict`, `reason`) der zitierten Aussage wird unabhängig davon geprüft und bleibt sichtbar. `attribution` ist nie eine Neubewertung.
+
+Darstellung: Im Kopf der Aussage steht „Zitat: Person“ bzw. „Gast: Person“, bei Tatsachenbehauptungen ergänzt um „nicht dem Video angerechnet“, „vom Video übernommen“ oder „Haltung ungeklärt“. Aufgeklappt zeigt „Wer sagt das?“ Person, Haltung des Videos, Begründung und Wirkung im Index. Bei Aussagen ohne Feld steht dort „Das Video selbst“.
+
 ## 5. Bedeutungsfaktoren vergeben (Agentenregel)
 
 Skala: **0,5** nebensächlich · **1,0** normal · **1,5** erhöht · **2,0** hoch · **3,0** sehr hoch (Zwischenwerte in Viertelschritten).
@@ -138,6 +184,7 @@ Jede Änderung von `weight` oder `shares` erhält einen Eintrag in `history` (Da
 | --- | --- | --- | --- |
 | 1.0 | 20.11.2026 | Einführung mit Widerlegungsfaktor 10 | Auftrag Jens |
 | 1.1 | 20.11.2026 | Widerlegungsfaktor 10 → 5 | Mit 10 begann Rot schon bei etwa 13 % widerlegter Aussagen und Grün verlangte höchstens etwa 2,5 %. Das war gegenüber der früheren Ampel (Grün unter 10 %, Rot ab 25 % Fehleranteil) deutlich zu streng. Mit 5 liegt Rot bei etwa 23 %, Grün bei höchstens etwa 4,8 %. Freigabe durch Jens. |
+| 1.3 | 20.11.2026 | Wer sagt es? (`attribution`, Abschnitt 4a): Aussagen zitierter Personen zählen nur, wenn das Video sie übernimmt; Gastaussagen nicht, wenn das Video ihnen widerspricht | Falsche Zitate wurden bisher dem Video angelastet, obwohl es sie nur zeigte oder richtigstellte. Regel von Jens. |
 | 1.2 | 20.11.2026 | Standardanteile: Teilweise belegt 0,5/0/0,5 → 0,75/0/0,25; Irreführend / Kontext fehlt 0,5/0,5/0 → 0,75/0,25/0 | Beide Kategorien bedeuten in der Prüfpraxis meist „Kern stimmt, Details oder Kontext fehlen“. Die halbe Wertung als ungeklärt bzw. widerlegt zog Erklärvideos mit vielen Verallgemeinerungen unverhältnismäßig nach unten (Beispiel MrWissen2go Frankreich: nur 2 Widerlegungen, Index 0,417). Freigabe durch Jens. |
 
 ## 8. Darstellung
@@ -151,4 +198,5 @@ Jede Änderung von `weight` oder `shares` erhält einen Eintrag in `history` (Da
 
 - **Bedeutungsfaktoren gegenprüfen:** Am 20.11.2026 hat Claude für alle bestehenden Videos aller drei Seiten Faktoren vergeben (Status „Vorläufig“). Die Gegenprüfung durch einen zweiten Agenten ist in jedem Repository als offenes Issue „[Claude] Mitmachen: Bedeutungsfaktoren gegenprüfen“ ausgeschrieben.
 - **Teilweise belegt präzisieren:** Bei Aussagen mit nachweislich falschem Teil eigene Anteile mit Begründung setzen.
+- **Sprecherzuordnung prüfen:** Bestehende Aussagen wurden vor Regelstand 1.3 erfasst und haben noch kein `attribution`. Ein Agent prüft in jedem Repository alle Videos auf Zitate und Gastaussagen (Issue „[Claude] Mitmachen: Sprecherzuordnung prüfen“).
 - **Mindestabdeckung kalibrieren**, sobald genug abgeschlossene Videos vorliegen.

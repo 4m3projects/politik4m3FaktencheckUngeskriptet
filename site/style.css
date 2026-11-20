@@ -801,3 +801,6 @@ a[href*="youtube.com/"] .btn::before, a[href*="youtu.be/"] .btn::before { margin
 .rang-kanal-titel .eyebrow { margin: 0; }
 .rang-kanal-titel > p.small { color: var(--text-3); }
 .rang-links { margin-top: 14px; }
+/* Wer sagt es? „Zitat: Person“ (faktenindex-ui.js, fiSpeakerBadge) */
+.fi-speaker { white-space: normal; }
+.fi-speaker-foreign { border-style: dashed; }

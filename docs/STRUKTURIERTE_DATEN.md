@@ -50,6 +50,8 @@ Nur diese sechs Kategorien sind erlaubt: Belegt, Teilweise belegt, Irreführend 
 
 Kritische Bewertungen (Widerlegt, Teilweise belegt, Irreführend / Kontext fehlt, Nicht ausreichend belegbar) brauchen zusätzlich `shortReason`: eine Kurzbegründung in einem Satz (höchstens 200 Zeichen), die auf der Webseite schon im zugeklappten Zustand sichtbar ist. Regeln: [KURZBEGRUENDUNG.md](KURZBEGRUENDUNG.md).
 
+Stammt eine Aussage nicht vom Video selbst, sondern von einer zitierten Person (Einspieler, Zitat, Einblendung) oder einem Gast, steht das in `attribution` mit der Haltung des Videos (`Übernommen`, `Nur wiedergegeben`, `Distanziert`, `Ungeklärt`). Falsche Zitate zählen nur gegen das Video, wenn es sie übernimmt. Regeln: [FAKTENINDEX.md](FAKTENINDEX.md), Abschnitt 4a.
+
 Die Art ist Tatsachenbehauptung, Meinung oder Prognose. Letztere verwenden abgeschlossen Meinung / Prognose und bleiben außerhalb des Tatsachen-Nenners. Quellen tatsächlich lesen; ein Quellenverweis oder Statusfeld beweist allein keine Belegprüfung. Übernommene Teilbefunde werden ausdrücklich als solche gekennzeichnet, nicht als neue Recherche ausgegeben.
 
 ## Statistik ohne Doppelzählung
