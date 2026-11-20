@@ -1092,7 +1092,11 @@ async function pageVideo(id, focusClaim) {
       <div>
         <section class="section" style="margin-bottom:28px">
           ${statBlock}
-          <div style="margin-top:16px">${distribution(d.claims)}</div>
+          <div style="margin-top:16px">
+            <h2>Verteilung aller erfassten Aussagen</h2>
+            <p class="small">Hier zählen auch zitierte, hinterfragte und zurückgewiesene Aussagen mit.</p>
+            ${distribution(d.claims)}
+          </div>
           <div style="margin-top:16px">${rhetSummary(v, true)}</div>
         </section>
         <div class="filters" role="search">
@@ -1118,8 +1122,10 @@ async function pageVideo(id, focusClaim) {
         <div class="claims" id="claims">${d.claims.map(c => claimCard(c, v, titles, linkedVideos, rhetByClaim.get(c.id), counterOf(c))).join('')}</div>
       </div>
       <aside class="aside">
-        ${catRows ? `<div class="panel"><h3>Ergebnisse der abgeschlossenen Prüfungen</h3><ul class="legend" style="flex-direction:column;align-items:flex-start">${catRows}</ul>
-          <p class="small" style="margin-top:10px">Prozente beziehen sich nur auf ${s.percentageDenominator} abgeschlossene Tatsachenbehauptungen; Meinungen, Prognosen und offene Prüfungen zählen nicht mit. Bei so kleinen Zahlen sind Anteile kaum aussagekräftig.</p></div>` : ''}
+        ${catRows ? `<div class="panel"><h3>Abgeschlossene Prüfungen eigener Aussagen</h3>
+          <p class="small">Hier zählen eigene Behauptungen, ausdrückliche Zustimmungen und Selbstkorrekturen. Reine Fremdbezüge findest du in der Verteilung aller erfassten Aussagen.</p>
+          <ul class="legend" style="flex-direction:column;align-items:flex-start">${catRows}</ul>
+          <p class="small" style="margin-top:10px">Die Prozentwerte beziehen sich auf ${num(s.percentageDenominator)} abgeschlossene eigene Tatsachenbehauptungen. Meinungen und Prognosen erscheinen als Anzahl.</p></div>` : ''}
         ${rhetPanel(v)}
         <div class="panel"><h3>Recherchegrundlage</h3><p>${esc(scope.researchNote)}</p></div>
         ${speakers ? `<div class="panel"><h3>Personen im Video</h3><ul>${speakers}</ul><p class="small" style="margin-top:8px">Sprecherzuordnungen werden je Fundstelle als bestätigt, plausibel oder ungeklärt angegeben. Es gibt bewusst keine Glaubwürdigkeitsnoten oder Ranglisten von Personen.</p></div>` : ''}
