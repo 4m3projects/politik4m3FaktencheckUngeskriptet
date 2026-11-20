@@ -104,10 +104,10 @@ test('Höhere Bedeutung einer belegten Aussage erhöht den Index, wenn negative 
 });
 
 test('Mischkategorien: Standardanteile und begründete eigene Anteile', () => {
-  assert.equal(idx([claim('Teilweise belegt')]), 0.5);
-  assert.equal(idx([claim('Irreführend / Kontext fehlt')]), 0.167);
-  const own = claim('Teilweise belegt', { factIndex: { shares: { p: 0.75, f: 0, u: 0.25 }, sharesReason: 'Kernzahl belegt, nur Jahreszahl offen.' } });
-  assert.equal(idx([own]), 0.75);
+  assert.equal(idx([claim('Teilweise belegt')]), 0.75);
+  assert.equal(idx([claim('Irreführend / Kontext fehlt')]), 0.375);
+  const own = claim('Teilweise belegt', { factIndex: { shares: { p: 0.5, f: 0, u: 0.5 }, sharesReason: 'Nur eine von zwei Kernzahlen belegt, die andere offen.' } });
+  assert.equal(idx([own]), 0.5);
   assert.deepEqual(FI.validateData(data([own])), []);
   const bad = claim('Belegt', { factIndex: { shares: { p: 0.5, f: 0, u: 0.5 }, sharesReason: 'x' } });
   assert.equal(idx([bad]), 1, 'feste Kategorien ignorieren eigene Anteile');
