@@ -50,3 +50,10 @@ Die vorhandene weitere Naomi-Reaktion ist die von **Hank Loose** (`zUnxDR5ttRU`)
 3. **Inventarabdeckung:** Alle 25 Themenbereiche sind vertreten; eine Vollerfassung jeder Teilbehauptung ist weiterhin nicht nachgewiesen. Die Nachprüfung schließt den erfassten Bestand nicht mit einer Behauptung lückenloser Videoabdeckung gleich.
 
 Deshalb bleibt der Gesamtstatus „Teilbestand geprüft“. Die frühere Behauptung einer abgeschlossenen öffentlichen Gesamtrecherche ist ausdrücklich zurückgenommen. Fehlender Zugriff wird nicht durch ein negatives Urteil ersetzt.
+
+## Buchnachprüfung vom 20.11.2026
+
+[Codex] Die automatischen deutschen Originaluntertitel im YouTube-Player wurden bei rund 00:10:31–00:10:54 erneut gelesen. Das Originalbild bei 00:10:39 kennzeichnet die Passage als Werbung. Eine akustische Sprecherbestätigung steht aus. [Originalstelle](https://www.youtube.com/watch?v=mdo14671BPE&t=631s).
+
+- **A0023:** Das Kindle-Inhaltsverzeichnis bestätigt das Beatrice-Beispiel bis Woche 16 und nennt auch ungünstige Kursverläufe. Die öffentlich gezeigten Seiten 186–189 dokumentieren den Einstieg in Woche 1. Die Vollständigkeit der späteren Transaktionsdarstellung bleibt offen. [Buchseiten des Eigenverlags](https://arcticbear.academy/buch-die-kunst-des-optionshandels/#blick-ins-buch), [Kindle-Leseprobe](https://www.amazon.de/dp/3911419007).
+- **A0024:** Die Vorschauseiten zeigen einen Aktienkauf und die Auswahl einer Kaufoption. Die Buchseiten verweisen für praktische Schritte auch auf Zusatzvideos. Ob die vollständige Anleitung Einsteigern die Umsetzung allein durch die Lektüre erklärt, bleibt offen. [Buchseiten des Eigenverlags](https://arcticbear.academy/buch-die-kunst-des-optionshandels/#blick-ins-buch), [Kindle-Leseprobe](https://www.amazon.de/dp/3911419007).

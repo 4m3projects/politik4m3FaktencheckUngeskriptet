@@ -1,6 +1,6 @@
 # Prüfergebnis
 
-Aktualisierung: 19.11.2026. Eigenständige Neuerfassung für [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3), fortgesetzt in [Issue #75](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/75). Alle verfügbaren deutschen Originaluntertitel wurden gelesen; das Lückenfenster wurde zusätzlich mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen. Die 251 Datensätze erfassen Prüfgegenstände aus sämtlichen 25 Themenbereichen, aber nicht jede Teilbehauptung des Gesprächs. Zwei Buchprüfungen und die menschliche Hör-/Sichtkontrolle bleiben offen. Frühere KI-Zahlen sind kein Sollwert. [Prüfwege und neue Ergebnisse](05_nachpruefung.md).
+Aktualisierung: 20.11.2026. Eigenständige Neuerfassung für [Issue #3](https://github.com/4m3projects/politik4m3Facktencheck/issues/3), fortgesetzt in [Issue #75](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/75). Alle verfügbaren deutschen Originaluntertitel wurden gelesen; das Lückenfenster wurde zusätzlich mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen. Die 251 Datensätze erfassen Prüfgegenstände aus sämtlichen 25 Themenbereichen, aber nicht jede Teilbehauptung des Gesprächs. Zwei Buchprüfungen und die menschliche Hör-/Sichtkontrolle bleiben offen. Frühere KI-Zahlen sind kein Sollwert. [Prüfwege und neue Ergebnisse](05_nachpruefung.md).
 
 ## Ergebnis
 
@@ -45,7 +45,7 @@ Diese Verteilung beschreibt weder alle Tatsachenbehauptungen noch das ganze Inte
 
 279 eigene Aussagevorkommen gehören zu diesen 249 Aussagen; 30 zusätzliche Vorkommen sind daher keine neuen Aussagen. Hinzu kommen vier referierende Vorkommen und ein Vorkommen mit ungeklärtem Aussagebezug. Zusätzliche Vorkommen können Übernahmen oder Wiederaufnahmen sein. Sie sind bei unbestätigter Identität nicht automatisch bestätigte Wiederholungen derselben Person.
 
-Die Humorbewertung A0212 wurde nach Kontextprüfung aus dem Tatsachennenner genommen und als Meinung erfasst. Die darin zuvor zusammengefasste Behauptung über Auslandsverbindungen bleibt gesondert als A0249 offen. A0059 beschreibt eine Zuschreibung durch Q-Anhänger; daraus wird keine eigene Bestätigung einer zutreffenden Prophezeiung gemacht. Diese Präzisierungen ändern das Inventar, ohne Wiederholungen als neue Fakten zu zählen.
+Die Humorbewertung A0212 wurde nach Kontextprüfung aus dem Tatsachennenner genommen und als Meinung erfasst. Die darin zuvor zusammengefasste Behauptung über Auslandsverbindungen ist gesondert unter A0249 als „Nicht überprüfbar“ eingeordnet. A0059 beschreibt eine Zuschreibung durch Q-Anhänger; daraus wird keine eigene Bestätigung einer zutreffenden Prophezeiung gemacht. Diese Präzisierungen ändern das Inventar, ohne Wiederholungen als neue Fakten zu zählen.
 
 | Person | Bestätigt zurechenbare Tatsachen | Persönliche Prozentverteilung |
 |---|---:|---|
@@ -56,7 +56,7 @@ Die Nullen bedeuten fehlende Bestätigung von Stimme und eigenem Aussagebezug, n
 
 ### Werbung gesondert
 
-Kapitel 3 und 9 enthalten elf erfasste Werbeprüfgegenstände (A0021–A0027 und A0081–A0084): zehn Tatsachenbehauptungen und eine subjektive Einschätzung. Fünf Tatsachen sind teilweise belegt (A0021, A0081–A0084). Die übrigen fünf (A0022–A0026, Versprechen zum beworbenen Buch und seinen Zusatzleistungen) sind offen und als nicht überprüft gekennzeichnet, weil die beworbene Anbieterseite nicht abrufbar war (S051); keine davon ist in Bearbeitung. Die subjektive Einschätzung A0027 ist Meinung. Korrigiert am 18.11.2026: Die frühere Angabe „fünf noch in Bearbeitung“ stammte aus einem älteren Datenstand und widersprach der aktuellen Statistik. Diese Teilmenge ist bereits im Gesamtbestand enthalten und darf nicht nochmals addiert werden. Eine vollständige Kontrolle aller beworbenen Buch- und Zusatzleistungen war nicht möglich.
+Kapitel 3 und 9 enthalten elf Werbeprüfgegenstände. Von den zehn Tatsachenbehauptungen sind fünf teilweise belegt (A0021, A0081–A0084), zwei belegt (A0025, A0026) und eine nicht ausreichend belegbar (A0022). A0023 und A0024 bleiben offen. Die Buchvorschauen bestätigen das Beatrice-Beispiel bis Woche 16 im Inhaltsverzeichnis und zeigen erste praktische Schritte in Woche 1. Die späteren Transaktionen und die vollständige Anleitung sind noch zu prüfen. A0027 ist eine Meinung. Die Werbeprüfgegenstände sind bereits im Gesamtbestand enthalten.
 
 Reproduzierbare Teilmengenauswertung mit derselben Statistikfunktion, ausgehend vom Repositoryverzeichnis:
 
