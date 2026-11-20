@@ -1,6 +1,6 @@
 # Alfred räumt auf zu Horst Lüning: eigener Faktencheck
 
-**Status: Teilbestand geprüft.** 15 Sachbewertungen wurden am 19. November 2026 nach Prüfung der Quellen und der zugehörigen Textstellen abgeschlossen. Weitere Aussagen, der Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus.
+**Status: Teilbestand geprüft.** 26 erfasste Prüfgegenstände sind nach Quellen- und Textprüfung abgeschlossen, darunter gesonderte Meinungsäußerungen. Vier Arbeitsaufträge bleiben offen. Die Nachprüfung vom 19./20. November 2026 ergänzt unter anderem den unmittelbar gelesenen Euro-Verordnungsentwurf und grenzt Zinsbindungsfrist und Restlaufzeit voneinander ab. Keine vollständige Hör-/Sichtkontrolle oder unabhängige menschliche Zweitprüfung.
 
 - Video: [Verbietet der digitale Euro, was wir kaufen? Horst Lüning bei Ungeskriptet](https://www.youtube.com/watch?v=sLMyP0H7tSY)
 - Kanal: Alfred räumt auf

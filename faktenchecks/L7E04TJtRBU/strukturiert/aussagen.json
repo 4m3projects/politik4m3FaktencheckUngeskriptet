@@ -222,6 +222,14 @@
       "details": "Offizielle datierte Ansprache am Tag der Amtseinführung.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Titel, Datum und Anfang der offiziellen Ansprache selbst gelesen; nur Beleg des Zeitpunkts, keine Übernahme politischer Wertungen."
+    },
+    {
+      "id": "S034",
+      "title": "GCRMN: Status of Coral Reefs of the World 2025, Executive Summary",
+      "url": "https://gcrmn.net/wp-content/uploads/2026/08/gcrmn_2025_executive-summary.pdf",
+      "details": "Globale Hartkorallenbedeckung bis 2024; Datenbegrenzungen.",
+      "accessedOn": "2026-11-19",
+      "accessBasis": "Zusammenfassung und Methodik selbst gelesen; keine weltweite Volumenmessung und keine Messung am Aufnahmetag 2026."
     }
   ],
   "speakers": [
@@ -1360,24 +1368,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die regionale AIMS-Reihe widerlege damit einen weltweiten aktuellen Korallenrekord.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Politik4M3 begrenzt die Aussage zunächst regional, zieht dann einen pauschalen Rekordschluss. Eine weltweite Flächen-/Volumenreihe fehlt; 2026 ist nicht dasselbe wie Erhebungen bis Mai 2025.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Reaktion begrenzt AIMS zunächst zutreffend auf drei Regionen des Great Barrier Reef, zieht daraus aber einen weltweiten Rekordschluss. Regionale Bedeckung bis Mai 2025 entscheidet keinen globalen Flächen-/Volumenrekord 2026. Die zusätzlich gelesene globale GCRMN-Auswertung liefert eigenen Kontext bis 2024, macht diesen Schluss aus AIMS allein jedoch nicht tragfähig. Unterschiedliche Messgrößen und Endzeitpunkte müssen sichtbar bleiben.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Politik4M3 begrenzt die Aussage zunächst regional, zieht dann einen pauschalen Rekordschluss. Eine weltweite Flächen-/Volumenreihe fehlt; 2026 ist nicht dasselbe wie Erhebungen bis Mai 2025.\",\"sourceIds\":[\"S023\"]}. Jetzt Abgeschlossen / Irreführend / Kontext fehlt. Die Reaktion begrenzt AIMS zunächst zutreffend auf drei Regionen des Great Barrier Reef, zieht daraus aber einen weltweiten Rekordschluss. Regionale Bedeckung bis Mai 2025 entscheidet keinen globalen Flächen-/Volumenrekord 2026. Die zusätzlich gelesene globale GCRMN-Auswertung liefert eigenen Kontext bis 2024, macht diesen Schluss aus AIMS allein jedoch nicht tragfähig. Unterschiedliche Messgrößen und Endzeitpunkte müssen sichtbar bleiben."
       },
       "sourceRefs": [
         {
           "sourceId": "S023",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S034",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Originalaussage auf Region und Zeitpunkt präzisieren; globale Daten statt eines einzelnen Riffgebiets prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "L7E04TJtRBU-O0026",
@@ -1397,7 +1407,33 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Originaltext 17:18–18:04 und AIMS-Messgebiet erneut abgeglichen.",
+            "sourceIds": [
+              "S023"
+            ],
+            "result": "Der Schluss reicht weiter als das angeführte regionale Monitoring."
+          },
+          {
+            "date": "2026-11-19",
+            "agent": "Codex",
+            "strategy": "Globale GCRMN-Zusammenfassung als unabhängigen Prüfweg gelesen.",
+            "sourceIds": [
+              "S034"
+            ],
+            "result": "Zusätzliche globale Quelle bestätigt die methodische Trennung; keine weltweite 2026-Volumenreihe."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "L7E04TJtRBU-A0027",

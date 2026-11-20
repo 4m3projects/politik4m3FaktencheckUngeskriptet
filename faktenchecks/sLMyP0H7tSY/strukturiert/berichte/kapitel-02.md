@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Unabhängige Teilprüfung der Reaktion. Fünfzehn Sachbewertungen sind nach Abgleich mit dem Original und den Sachquellen abgeschlossen. Weitere erfasste Aussagen, der durchgängige Hör- und Sichtabgleich und die redaktionelle Zweitprüfung stehen aus.
 
-Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft.
+Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen.
 
 ## sLMyP0H7tSY-A0004
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Europäischer Explosionsschutz um die Jahrtausendwende hat einen realen regulatorischen Hintergrund.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,25 +29,31 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. S016 ordnet die EU-Arbeitsschutzrichtlinie und britische Umsetzung zu. Keine Bestätigung der pauschalen Umklassifizierung jeder Brennerei oder konkreter Millionenaufwendungen.
+Der regulatorische Kern stimmt: Die Arbeitsschutzrichtlinie 1999/92/EG betrifft explosionsfähige Atmosphären und wurde in Großbritannien durch DSEAR umgesetzt. Die HSE beschreibt risikobezogene Pflichten und Zonen. Daraus folgt weder eine pauschale rechtliche Umwandlung aller Brennereien in Chemiewerke noch eine bestimmte Investitionssumme je Betrieb.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0004 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Vorläufiger Befund [Codex]: Sachkern belegt. S016 ordnet die EU-Arbeitsschutzrichtlinie und britische Umsetzung zu. Keine Bestätigung der pauschalen Umklassifizierung jeder Brennerei oder konkreter Millionenaufwendungen.","sourceIds":["S002","S016"]}. Jetzt Abgeschlossen / Belegt. Der regulatorische Kern stimmt: Die Arbeitsschutzrichtlinie 1999/92/EG betrifft explosionsfähige Atmosphären und wurde in Großbritannien durch DSEAR umgesetzt. Die HSE beschreibt risikobezogene Pflichten und Zonen. Daraus folgt weder eine pauschale rechtliche Umwandlung aller Brennereien in Chemiewerke noch eine bestimmte Investitionssumme je Betrieb.
 
 ### Zugeordnete Quellen
 
 - [HSE: DSEAR](https://www.hse.gov.uk/fireandexplosion/dsear.htm) · Abschnitte zu Pflichten, Zonen und Zündquellen; heutiger Erläuterungstext.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-19. Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 - [HSE: ATEX and explosive atmospheres](https://www.hse.gov.uk/fireandexplosion/atex.htm) · Zuordnung Richtlinie 99/92/EC und britische Umsetzung durch DSEAR.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-19. Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen. Gepruefte Quellen: S002, S016. Ergebnis: Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt.
 
 ## sLMyP0H7tSY-A0005
 
@@ -55,7 +61,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Diageo untersagt Foto- und Aufnahmegeräte aus Sicherheitsgründen in bestimmten Bereichen.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -74,22 +80,28 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. S003 erlaubt private Kameranutzung grundsätzlich und mögliche Verbote in bezeichneten Bereichen. Betriebliche Besucherregeln sind kein generelles gesetzliches Fotografieverbot.
+Diageos Besucherbedingungen erlauben private Kameranutzung grundsätzlich, lassen aber aus Sicherheitsgründen ein Verbot von Foto- und Aufnahmegeräten in bestimmten ausgewiesenen Bereichen zu. Genau diesen begrenzten Sachverhalt behauptet Alfred. Daraus wird kein allgemeines gesetzliches Fotografieverbot in jeder Brennerei.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0005 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Vorläufiger Befund [Codex]: Sachkern belegt. S003 erlaubt private Kameranutzung grundsätzlich und mögliche Verbote in bezeichneten Bereichen. Betriebliche Besucherregeln sind kein generelles gesetzliches Fotografieverbot.","sourceIds":["S003"]}. Jetzt Abgeschlossen / Belegt. Diageos Besucherbedingungen erlauben private Kameranutzung grundsätzlich, lassen aber aus Sicherheitsgründen ein Verbot von Foto- und Aufnahmegeräten in bestimmten ausgewiesenen Bereichen zu. Genau diesen begrenzten Sachverhalt behauptet Alfred. Daraus wird kein allgemeines gesetzliches Fotografieverbot in jeder Brennerei.
 
 ### Zugeordnete Quellen
 
 - [Diageo: Malt Brand Homes Terms and Conditions](https://www.malts.com/en/malt-brand-homes-terms-and-conditions) · Abschnitt Filming and Photography; heutige Hausregeln, kein historischer Vorher-Nachher-Beleg.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-19. Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen. Gepruefte Quellen: S003. Ergebnis: Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt.
 
 ## sLMyP0H7tSY-A0006
 
@@ -97,7 +109,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Whiskybranche behandelt Feuer und Explosion wegen leicht entzündlichen Ethanols als reale Gefahren.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -116,25 +128,31 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: Sachkern belegt. S004 benennt dies ausdrücklich; S002 verlangt risikobezogene Vermeidung von Zündquellen. Das belegt keinen bestimmten durch eine Kamera ausgelösten Unfall.
+Der Branchenverband benennt Feuer und Explosion ausdrücklich als fortbestehende Gefahren beim Umgang mit großen Mengen leicht entzündlichen Ethanols. Die HSE verlangt, entsprechende Risiken und Zündquellen zu kontrollieren. Das belegt die reale Gefahr, keinen bestimmten von einer Kamera ausgelösten Unfall.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0006 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „Sachkern belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Vorläufiger Befund [Codex]: Sachkern belegt. S004 benennt dies ausdrücklich; S002 verlangt risikobezogene Vermeidung von Zündquellen. Das belegt keinen bestimmten durch eine Kamera ausgelösten Unfall.","sourceIds":["S004","S002"]}. Jetzt Abgeschlossen / Belegt. Der Branchenverband benennt Feuer und Explosion ausdrücklich als fortbestehende Gefahren beim Umgang mit großen Mengen leicht entzündlichen Ethanols. Die HSE verlangt, entsprechende Risiken und Zündquellen zu kontrollieren. Das belegt die reale Gefahr, keinen bestimmten von einer Kamera ausgelösten Unfall.
 
 ### Zugeordnete Quellen
 
 - [Scotch Whisky Association: Health & Safety](https://scotch-whisky.org.uk/industry-insights/sustainability/health-safety/) · Abschnitt Fire risks; Branchenverband als Quelle für eigene Sicherheitsbeschreibung, keine unabhängige Unfallvollerhebung.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-19. Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 - [HSE: DSEAR](https://www.hse.gov.uk/fireandexplosion/dsear.htm) · Abschnitte zu Pflichten, Zonen und Zündquellen; heutiger Erläuterungstext.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-19. Von Codex am Abrufdatum gelesen. [Codex] 19.11.2026: für die bezeichnete Nachprüfung selbst erneut gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-19 (Codex): Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen. Gepruefte Quellen: S004, S002. Ergebnis: Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt.
 
 ## sLMyP0H7tSY-A0007
 
@@ -343,7 +361,7 @@ Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung gena
 ### Zugeordnete Quellen
 
 - [Alfred-Upload und YouTube-oEmbed](https://www.youtube.com/watch?v=sLMyP0H7tSY) · YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.
-  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
 
 - [Originalinterview](https://www.youtube.com/watch?v=mlxFA9T88I0) · Relevante Original-Untertitelpassagen erneut gelesen; keine direkte akustische Sprecherkontrolle und keine neue Vollprüfung des dreistündigen Interviews.
   Quellenzugriff am 2026-11-18. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
