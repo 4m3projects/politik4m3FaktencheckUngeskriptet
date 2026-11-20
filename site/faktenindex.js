@@ -12,7 +12,7 @@
  * bewertet, ergänzt, zusammengeführt oder ihr Bedeutungsfaktor geändert wird; widersprüchliche Stände gibt es nicht.
  *
  * Formel je Video (Aussage i mit Anteilen p, f, u, p + f + u = 1, und Bedeutungsfaktor R):
- *   I = Σ(R·p) / Σ[R·(p + 10·f + u)]
+ *   I = Σ(R·p) / Σ[R·(p + 5·f + u)]
  * Nur abgeschlossen bewertete Tatsachenbehauptungen gehen ein. Meinungen/Prognosen, noch nicht geprüfte, laufende
  * und nicht überprüfbare Aussagen zählen nicht (ungeprüft ist nicht falsch und nicht ungeklärt).
  */
@@ -27,9 +27,9 @@
 
   /* Zentrale Konfiguration. Schwellen und Mindestabdeckung gelten für alle Seiten gleich. */
   const CONFIG = deepFreeze({
-    version: '1.0',
+    version: '1.1',
     since: '2026-11-20',
-    refutedFactor: 10,                 // widerlegter Anteil zählt zehnfach
+    refutedFactor: 5,                  // widerlegter Anteil zählt fünffach (bis 20.11.2026: 10)
     decimals: 3,                       // Anzeige und Ampelvergleich auf drei Nachkommastellen
     thresholds: { green: 0.8, yellow: 0.4 },   // Grün ab 0,800; Gelb ab 0,400; darunter Rot
     /* Bewertbarkeit (sonst graue Ampel). minCoverage ist ein vorläufiger, bewusst vorsichtiger Standard,

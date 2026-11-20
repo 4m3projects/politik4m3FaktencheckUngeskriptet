@@ -8,7 +8,7 @@ Erstellt von: Claude, auf Auftrag von Jens (20.11.2026). Regelstand 1.0.
 
 | Datei | Inhalt | In allen drei Repositories |
 | --- | --- | --- |
-| `site/faktenindex.js` | Konfiguration (`CONFIG`: Faktor 10, Ampelschwellen, Mindestabdeckung, Abbildung der Kategorien, Skala der Bedeutungsfaktoren), Berechnung, Ampel, Prüfung der Datenfelder | bytegleich |
+| `site/faktenindex.js` | Konfiguration (`CONFIG`: Faktor 5, Ampelschwellen, Mindestabdeckung, Abbildung der Kategorien, Skala der Bedeutungsfaktoren), Berechnung, Ampel, Prüfung der Datenfelder | bytegleich |
 | `site/faktenindex-ui.js` | Anzeige (Ampel mit Index, Kopf der Videoseite, aufklappbare Rechnung, Angaben je Aussage, Methodik) | bytegleich |
 | `site/faktenindex-test.js` | Tests, auch über alle echten Videos | bytegleich |
 | `scripts/faktenindex.js` | `pruefen` (CI), `bericht`, `json` | bytegleich |
@@ -22,9 +22,9 @@ Der Index wird **nie gespeichert**. Er wird bei jedem Seitenaufruf aus `struktur
 
 Für jede Aussage: p = belegter, f = widerlegter, u = ungeklärter Anteil (p + f + u = 1), R = Bedeutungsfaktor.
 
-**I = Σ(R·p) / Σ[R·(p + 10·f + u)]**, Anzeige mit drei Nachkommastellen (z. B. 0,742). Die Ampel vergleicht den auf drei Stellen gerundeten Wert, damit Anzeige und Farbe nie auseinanderfallen.
+**I = Σ(R·p) / Σ[R·(p + 5·f + u)]**, Anzeige mit drei Nachkommastellen (z. B. 0,742). Die Ampel vergleicht den auf drei Stellen gerundeten Wert, damit Anzeige und Farbe nie auseinanderfallen.
 
-Beispiele (R = 1): 10 belegt/0 widerlegt → 1,000; 10/1 → 0,500; 20/1 → 0,667; 100/1 → 0,909; 0/10 → 0,000. 30 belegt (R = 1) und 1 widerlegt (R = 3) → 0,500.
+Beispiele (R = 1): 10 belegt/0 widerlegt → 1,000; 10/1 → 0,667; 20/1 → 0,800; 100/1 → 0,952; 0/10 → 0,000. 30 belegt (R = 1) und 1 widerlegt (R = 3) → 0,667.
 
 ### Abbildung der bestehenden Kategorien
 
@@ -120,6 +120,13 @@ Ein Bedeutungsfaktor ist **keine** Neubewertung des Faktenstatus. Faktenurteile 
 ## 7. Änderungen dokumentieren
 
 Jede Änderung von `weight` oder `shares` erhält einen Eintrag in `history` (Datum, Agent, Feld, alter und neuer Wert, Grund). Die **Auswirkung auf den Gesamtindex** wird nicht von Hand eingetragen, sondern automatisch aus der Git-Historie berechnet: Die Seite „Verlauf“ (`scripts/verlauf.js`) zeigt für jeden Stand „Faktenindex alt → neu“ und „Bedeutungsfaktoren geändert“ samt Link zur Änderung. Historische Indexwerte werden dabei mit der jeweils aktuellen Regel berechnet. Ändert sich die Regel selbst (`CONFIG.version`), steht das in dieser Datei.
+
+### Regelstände
+
+| Version | Datum | Änderung | Grund |
+| --- | --- | --- | --- |
+| 1.0 | 20.11.2026 | Einführung mit Widerlegungsfaktor 10 | Auftrag Jens |
+| 1.1 | 20.11.2026 | Widerlegungsfaktor 10 → 5 | Mit 10 begann Rot schon bei etwa 13 % widerlegter Aussagen und Grün verlangte höchstens etwa 2,5 %. Das war gegenüber der früheren Ampel (Grün unter 10 %, Rot ab 25 % Fehleranteil) deutlich zu streng. Mit 5 liegt Rot bei etwa 23 %, Grün bei höchstens etwa 4,8 %. Freigabe durch Jens. |
 
 ## 8. Darstellung
 

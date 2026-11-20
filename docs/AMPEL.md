@@ -6,7 +6,7 @@ Seit dem 20.11.2026 beruht die Faktenampel auf dem gemeinsamen **Faktenindex** a
 
 | Bis 19.11.2026 (`site/ampel.js`) | Seit 20.11.2026 (`site/faktenindex.js`) |
 | --- | --- |
-| Fehleranteil = (Widerlegt + Irreführend) ÷ entschiedene Tatsachenbehauptungen | Faktenindex I = Σ(R·p) ÷ Σ[R·(p + 10·f + u)], widerlegte Anteile zehnfach |
+| Fehleranteil = (Widerlegt + Irreführend) ÷ entschiedene Tatsachenbehauptungen | Faktenindex I = Σ(R·p) ÷ Σ[R·(p + 5·f + u)], widerlegte Anteile fünffach |
 | Grün unter 10 %, Gelb unter 25 %, Rot ab 25 % Fehleranteil | Grün ab 0,800, Gelb ab 0,400, Rot darunter |
 | Teilweise belegt zählte wie belegt, Nicht ausreichend belegbar gar nicht | Teilweise belegt halb belegt, halb ungeklärt; Nicht ausreichend belegbar ungeklärt |
 | Mindestens 20 % der erfassten Tatsachenbehauptungen entschieden | Prüfabdeckung mindestens 80 % (vorläufiger Standard); nicht überprüfbare zählen nicht mit |
