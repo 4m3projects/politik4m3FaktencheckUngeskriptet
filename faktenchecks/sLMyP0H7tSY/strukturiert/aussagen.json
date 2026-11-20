@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/watch?v=sLMyP0H7tSY",
       "details": "YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.",
       "accessedOn": "2026-11-18",
-      "accessBasis": "Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle."
+      "accessBasis": "Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. [Codex] 20.11.2026: Beschreibung vollständig sowie ausgewählte Grafiken/Dialogscreenshot bei den in A0026/A0030 genannten Zeiten selbst gelesen/gesehen; ergänzende vidIQ-Szenenanalyse nur als Suchhilfe, keine vollständige eigene Hör-/Sichtkontrolle."
     },
     {
       "id": "S002",
@@ -173,7 +173,7 @@
       "url": "https://www.youtube.com/watch?v=mlxFA9T88I0",
       "details": "Relevante Original-Untertitelpassagen erneut gelesen; keine direkte akustische Sprecherkontrolle und keine neue Vollprüfung des dreistündigen Interviews.",
       "accessedOn": "2026-11-20",
-      "accessBasis": "Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. [Codex] 20.11.2026: Originaltext 00:40:20–00:41:10 und 01:00:04–01:01:08 einschließlich Rückfragen selbst erneut gelesen, um die wiedergegebene Selbstauskunft abzugleichen; keine Hör-/Sichtkontrolle oder externe Bestätigung der Kennzahlen."
+      "accessBasis": "Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. [Codex] 20.11.2026: Originaltext 00:40:20–00:41:10 und 01:00:04–01:01:08 einschließlich Rückfragen selbst erneut gelesen, um die wiedergegebene Selbstauskunft abzugleichen; keine Hör-/Sichtkontrolle oder externe Bestätigung der Kennzahlen. [Codex] 20.11.2026: Originaltext 01:00:41–01:01:50 für A0030 erneut verglichen; kurze Sprecherreaktionen nicht akustisch bestätigt."
     },
     {
       "id": "S021",
@@ -206,6 +206,22 @@
       "details": "Zusammenfassung und Abschnitt 5.6, Berichtsjahr 2020.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Unternehmenshilfen, direkte Finanzsektorbeihilfen und indirekten Schutz der Banken selbst gelesen."
+    },
+    {
+      "id": "S025",
+      "title": "Öffentliche Alfred-Kanaldaten, zeitlich begrenzter Abruf über vidIQ",
+      "url": "https://www.youtube.com/channel/UCDuWfA-lMnTvU-pdMzTItYg",
+      "details": "Öffentliche Kanalmetadaten und historische Tageswerte, abgefragt für 01.–18.11.2026; nicht YouTube-Studio-Analytics. Kanalbeginn 09.11.2026 und Überschreiten von 1.000 Abonnenten bis 14.11.2026 stützen die erste Woche. Keine Wiedergabestunden.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Am 20.11.2026 die vidIQ-Antwort für den konkreten Kanal und Zeitraum selbst gelesen. Die verlinkte YouTube-Kanalseite zeigt die historischen Tageswerte nicht als öffentliche Tabelle. Rückgabe endet am 18.11.; kein aktueller Tagesstand für den 20.11. behauptet und keine Rohdaten veröffentlicht."
+    },
+    {
+      "id": "S026",
+      "title": "SinansWoche: Support und Einnahmen",
+      "url": "https://finanzen.sinanswoche.de/",
+      "details": "Öffentliche Selbstauskunft zum SinansWoche-Gesamtprojekt, angezeigter Datenstand 19.11.2026. Kein gesonderter Kostennachweis für Alfred.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Am 20.11.2026 im Browser Einleitung, Einnahmequellen, Schätzungsgrenzen und Projektbezug gelesen. Keine Buchhaltungsprüfung; keine Spendernamen, Bankdaten oder Einzelzahlungen übernommen."
     }
   ],
   "claims": [
@@ -1731,12 +1747,12 @@
       "description": "Die genannten Indexhäufigkeiten, Redezeit, Prozentabstände und Rangfolge seien aus dem ganzen Gespräch ermittelt.",
       "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: offen. Im gelesenen Text fehlen vollständige Codierliste, Nenner und Gewichtungsrechnung. Grafiken wurden nicht gesichtet. Die Zählung ist hier nicht reproduziert und nicht widerlegt. Zwei Nennungen in einer Indexkategorie sind nicht zwei Sachthemen.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "reason": "Noch nicht geprüft – die vollständige Zählung und Redezeitmessung sind noch nicht unabhängig nachvollzogen. [Codex] 20.11.2026: Originaltext 11:52–15:20, Quellenbeschreibung und ausgewählte pausierte Grafiken bei 13:14, 13:34, 14:04, 14:24/29 und 14:34 kontrolliert. Sichtbar sind unter anderem alle 65 Minuten, 13 von 17 Streitfragen mit 76 % und 460 Punkten, vier Feindbildstellen sowie 620 Gesamtpunkte und Platz drei. Diese Anzeige bestätigt keine vollständige Codierung aller Gesprächsstellen. Die Schlussbemerkung räumt selbst Erklärungsbedarf der Messung ein. Keine Codierliste in der gelesenen Uploadbeschreibung vorhanden; nicht daraus auf ihre generelle Nichtexistenz geschlossen.",
+      "assessmentBasis": "[Codex] 20.11.2026: Originaltranskript und Beschreibung erneut gelesen; ausgewählte Grafiken im Originalplayer selbst gesehen. Zusätzliche vidIQ-Szenenanalyse getrennt als Suchhilfe. Vollständige Original-Codierung und Redezeitmessung weiterhin ausstehend.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0026 (Art: zaehlung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. [Codex] 20.11.2026: bisher fehlender Grafikabgleich teilweise durchgeführt; Status In Bearbeitung beibehalten, weil er keine unabhängige Vollzählung ersetzt."
       },
       "sourceRefs": [
         {
@@ -1745,8 +1761,8 @@
         }
       ],
       "openQuestions": [
-        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
+        "Alle als Schwurbel, Streitfrage und Feindbild gezählten Originalstellen einschließlich Nenner/Redezeit unabhängig erfassen und mit den angezeigten Werten abgleichen.",
+        "Abbildung und Rundung der einzelnen Kategorien prüfen; eingeblendete Rangfolge nicht als unabhängige Bestätigung der Eingangszählung behandeln."
       ],
       "occurrences": [
         {
@@ -1897,26 +1913,31 @@
       "chapter": 8,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Kanalinterne Fortschritte und Finanzierung werden im Schluss berichtet.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: offen. Historische Abonnentenschwelle, gültige Stunden und Finanzierung sind nicht aus öffentlichen aktuellen Kanalzahlen beweisbar. Kein Zugriff auf private Analytics; Satire nicht als Finanzierungsaudit behandelt.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "description": "Alfred berichtet von 1.000 Abonnenten in der ersten Woche, noch fehlenden Wiedergabestunden und Unterstützung durch das SinansWoche-Projekt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die öffentlich erfassten Kanaldaten stützen den überprüfbaren Meilenstein: Kanalbeginn am 09.11.2026 und bereits mehr als 1.000 Abonnenten bis zum 14.11.2026, also innerhalb der ersten Woche. Sie enthalten keine für das Partnerprogramm gültigen Wiedergabestunden; deren Abstand zur Schwelle wird damit nicht bestätigt. Die Originalbeschreibung bezeichnet Alfred als SinansWoche-Projekt und verweist auf dessen Unterstützung. Die öffentliche Finanzseite erläutert Einnahmen des Gesamtprojekts, weist aber keine Alfred-Strom- oder Produktionskosten nach. Der Stromsatz und der anschließende Billiger-Zettel stehen zudem im satirischen Rahmen einer KI-Katze. Belegt ist der öffentliche Meilenstein und der Projektbezug, kein Audit interner Analytics oder Kosten.",
+      "assessmentBasis": "[Codex] 20.11.2026: Originalschluss im vollständigen privaten Player-Transkript erneut gelesen, Beschreibung im Originalplayer sowie öffentliche Finanzseite im Browser kontrolliert und begrenzte Kanalhistorie über vidIQ selbst gelesen. Ergänzende vidIQ-Szenenanalyse nur als Suchhilfe; kein eigener durchgängiger Hör-/Sichtabgleich oder privater Analytics-Zugang.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0029 (Art: selbstauskunft) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: offen. Historische Abonnentenschwelle, gültige Stunden und Finanzierung sind nicht aus öffentlichen aktuellen Kanalzahlen beweisbar. Kein Zugriff auf private Analytics; Satire nicht als Finanzierungsaudit behandelt.\",\"sourceIds\":[\"S001\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die öffentlich erfassten Kanaldaten stützen den überprüfbaren Meilenstein: Kanalbeginn am 09.11.2026 und bereits mehr als 1.000 Abonnenten bis zum 14.11.2026, also innerhalb der ersten Woche. Sie enthalten keine für das Partnerprogramm gültigen Wiedergabestunden; deren Abstand zur Schwelle wird damit nicht bestätigt. Die Originalbeschreibung bezeichnet Alfred als SinansWoche-Projekt und verweist auf dessen Unterstützung. Die öffentliche Finanzseite erläutert Einnahmen des Gesamtprojekts, weist aber keine Alfred-Strom- oder Produktionskosten nach. Der Stromsatz und der anschließende Billiger-Zettel stehen zudem im satirischen Rahmen einer KI-Katze. Belegt ist der öffentliche Meilenstein und der Projektbezug, kein Audit interner Analytics oder Kosten."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S025",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+        },
+        {
+          "sourceId": "S026",
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0029",
@@ -1944,7 +1965,35 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
-      }
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach UG-/HP-Suche zum Kanalmeilenstein den vollständigen Schlussabschnitt 15:18–16:16 und die Originalbeschreibung erneut lesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Meilenstein, Selbstauskunft zu fehlenden Stunden und satirischer Finanzierungssatz voneinander abgegrenzt."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Zweiter Prüfweg: konkrete öffentliche Kanalhistorie für 01.–18.11.2026 über vidIQ und die verlinkte Transparenzseite im Browser lesen.",
+            "sourceIds": [
+              "S025",
+              "S026"
+            ],
+            "result": "Erste Abonnentenwoche gestützt; Stunden und gesonderte Alfred-Kosten daraus nicht ableitbar."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Öffentliche Kanaldaten stützen den Abonnentenmeilenstein; gültige Wiedergabestunden und konkrete Alfred-Kosten sind damit nicht bestätigt."
     },
     {
       "id": "sLMyP0H7tSY-A0030",
@@ -1953,29 +2002,26 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Fotoverbotsdialog wird mit Fragen und Reaktionen des Hosts wiedergegeben.",
-      "status": "In Bearbeitung",
-      "verdict": null,
-      "reason": "Vorläufiger Befund [Codex]: offen. Die relevanten Originaluntertitel sind in der Reaktion wiedererkennbar. Der Originalcheck A0142 behandelt eine Hostfrage und eine mögliche Zustimmung des Gasts. Ohne akustische Kontrolle keine abschließende Sprecher-/Schnittzuordnung; Ben wird nicht für unkommentierte Gastbehauptungen verantwortlich gemacht.",
-      "assessmentBasis": "Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Reaktion gibt den einschlägigen Dialog wieder: Fragen und die zugespitzte Illegalitätsfolgerung des Hosts sind in der eingeblendeten Textfassung ausdrücklich Ben zugeordnet; die anschließende Erklärung zu Brennereien und Feuerschutz ist Lüning zugeordnet. Die automatische Originaltextstelle 01:00:41–01:01:50 enthält denselben Gesprächsablauf. Das am Reaktionsbild bei 02:18 gelesene Sprecherlabel stützt die korrekte Zuschreibung in der Reaktion. Dies bestätigt die Wiedergabe, nicht das Bestehen eines allgemeinen gesetzlichen Fotoverbots. Die kurzen zustimmenden Laute und ihre genaue Stimme bleiben ohne eigene Hörkontrolle unbestätigt; Ben wird nicht mit der unkommentierten Gastbehauptung gleichgesetzt.",
+      "assessmentBasis": "[Codex] 20.11.2026: beide bezeichneten Originaltextabschnitte selbst erneut gelesen und das Reaktionsstandbild bei 02:18 einschließlich eingeblendeter Ben-/Lüning-Zuordnung gesehen. vidIQ-Szenenanalyse nur als zusätzliche Suchhilfe. Keine durchgehende eigene Hörprüfung; Zuschreibung kurzer Laute weiterhin plausibel statt bestätigt.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0030 (Art: wiedergabe) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung."
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: offen. Die relevanten Originaluntertitel sind in der Reaktion wiedererkennbar. Der Originalcheck A0142 behandelt eine Hostfrage und eine mögliche Zustimmung des Gasts. Ohne akustische Kontrolle keine abschließende Sprecher-/Schnittzuordnung; Ben wird nicht für unkommentierte Gastbehauptungen verantwortlich gemacht.\",\"sourceIds\":[\"S001\",\"S020\"]}. Jetzt Abgeschlossen / Belegt. Die Reaktion gibt den einschlägigen Dialog wieder: Fragen und die zugespitzte Illegalitätsfolgerung des Hosts sind in der eingeblendeten Textfassung ausdrücklich Ben zugeordnet; die anschließende Erklärung zu Brennereien und Feuerschutz ist Lüning zugeordnet. Die automatische Originaltextstelle 01:00:41–01:01:50 enthält denselben Gesprächsablauf. Das am Reaktionsbild bei 02:18 gelesene Sprecherlabel stützt die korrekte Zuschreibung in der Reaktion. Dies bestätigt die Wiedergabe, nicht das Bestehen eines allgemeinen gesetzlichen Fotoverbots. Die kurzen zustimmenden Laute und ihre genaue Stimme bleiben ohne eigene Hörkontrolle unbestätigt; Ben wird nicht mit der unkommentierten Gastbehauptung gleichgesetzt."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         },
         {
           "sourceId": "S020",
-          "note": "Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung."
+          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
         }
       ],
-      "openQuestions": [
-        "Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.",
-        "Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "sLMyP0H7tSY-O0030",
@@ -2003,6 +2049,33 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": true
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Nach UG-/HP-Suche zur Fotoverbotsfrage Reaktion 01:46–02:59 und Original 01:00:41–01:01:50 mit Original A0140/A0142/A0143 vergleichen.",
+            "sourceIds": [
+              "S001",
+              "S020"
+            ],
+            "result": "Frage des Hosts, Sachbehauptung des Gasts und deren Wiedergabe getrennt."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Anderer Abgleich: eingeblendete Sprecherlabels am pausierten Originalbild bei 02:18 direkt lesen; ergänzende vidIQ-Szenenanalyse gegen Text und Bild abgrenzen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Reaktionsbild bezeichnet Ben und Lüning getrennt. Keine Bestätigung einer konkreten Stimme oder rechtlichen Verbotslage."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     }
   ],

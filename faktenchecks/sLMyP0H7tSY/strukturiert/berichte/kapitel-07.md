@@ -40,7 +40,7 @@ Bewertungsuebergang: Vorläufiger Befund „Meinung / Wertung“ nur in der Begr
 ### Zugeordnete Quellen
 
 - [Alfred-Upload und YouTube-oEmbed](https://www.youtube.com/watch?v=sLMyP0H7tSY) · YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.
-  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. [Codex] 20.11.2026: Beschreibung vollständig sowie ausgewählte Grafiken/Dialogscreenshot bei den in A0026/A0030 genannten Zeiten selbst gelesen/gesehen; ergänzende vidIQ-Szenenanalyse nur als Suchhilfe, keine vollständige eigene Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -88,7 +88,7 @@ Bewertungsuebergang: Vorläufiger Befund „Meinung / Wertung“ nur in der Begr
 ### Zugeordnete Quellen
 
 - [Alfred-Upload und YouTube-oEmbed](https://www.youtube.com/watch?v=sLMyP0H7tSY) · YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.
-  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. [Codex] 20.11.2026: Beschreibung vollständig sowie ausgewählte Grafiken/Dialogscreenshot bei den in A0026/A0030 genannten Zeiten selbst gelesen/gesehen; ergänzende vidIQ-Szenenanalyse nur als Suchhilfe, keine vollständige eigene Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -125,24 +125,24 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: offen. Im gelesenen Text fehlen vollständige Codierliste, Nenner und Gewichtungsrechnung. Grafiken wurden nicht gesichtet. Die Zählung ist hier nicht reproduziert und nicht widerlegt. Zwei Nennungen in einer Indexkategorie sind nicht zwei Sachthemen.
+Noch nicht geprüft – die vollständige Zählung und Redezeitmessung sind noch nicht unabhängig nachvollzogen. [Codex] 20.11.2026: Originaltext 11:52–15:20, Quellenbeschreibung und ausgewählte pausierte Grafiken bei 13:14, 13:34, 14:04, 14:24/29 und 14:34 kontrolliert. Sichtbar sind unter anderem alle 65 Minuten, 13 von 17 Streitfragen mit 76 % und 460 Punkten, vier Feindbildstellen sowie 620 Gesamtpunkte und Platz drei. Diese Anzeige bestätigt keine vollständige Codierung aller Gesprächsstellen. Die Schlussbemerkung räumt selbst Erklärungsbedarf der Messung ein. Keine Codierliste in der gelesenen Uploadbeschreibung vorhanden; nicht daraus auf ihre generelle Nichtexistenz geschlossen.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] 20.11.2026: Originaltranskript und Beschreibung erneut gelesen; ausgewählte Grafiken im Originalplayer selbst gesehen. Zusätzliche vidIQ-Szenenanalyse getrennt als Suchhilfe. Vollständige Original-Codierung und Redezeitmessung weiterhin ausstehend.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0026 (Art: zaehlung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. [Codex] 20.11.2026: bisher fehlender Grafikabgleich teilweise durchgeführt; Status In Bearbeitung beibehalten, weil er keine unabhängige Vollzählung ersetzt.
 
 ### Zugeordnete Quellen
 
 - [Alfred-Upload und YouTube-oEmbed](https://www.youtube.com/watch?v=sLMyP0H7tSY) · YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.
-  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. [Codex] 20.11.2026: Beschreibung vollständig sowie ausgewählte Grafiken/Dialogscreenshot bei den in A0026/A0030 genannten Zeiten selbst gelesen/gesehen; ergänzende vidIQ-Szenenanalyse nur als Suchhilfe, keine vollständige eigene Hör-/Sichtkontrolle. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
 
 ### Offene Fragen und Unsicherheiten
 
-- Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.
+- Alle als Schwurbel, Streitfrage und Feindbild gezählten Originalstellen einschließlich Nenner/Redezeit unabhängig erfassen und mit den angezeigten Werten abgleichen.
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+- Abbildung und Rundung der einzelnen Kategorien prüfen; eingeblendete Rangfolge nicht als unabhängige Bestätigung der Eingangszählung behandeln.
 
 ## sLMyP0H7tSY-A0027
 
@@ -180,7 +180,7 @@ Bewertungsuebergang: Vorläufiger Befund „Meinung / Wertung“ nur in der Begr
 ### Zugeordnete Quellen
 
 - [Alfred-Upload und YouTube-oEmbed](https://www.youtube.com/watch?v=sLMyP0H7tSY) · YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.
-  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. [Codex] 20.11.2026: Beschreibung vollständig sowie ausgewählte Grafiken/Dialogscreenshot bei den in A0026/A0030 genannten Zeiten selbst gelesen/gesehen; ergänzende vidIQ-Szenenanalyse nur als Suchhilfe, keine vollständige eigene Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
