@@ -1521,3 +1521,23 @@ async function routePage() {
 
 window.addEventListener('hashchange', route);
 document.addEventListener('DOMContentLoaded', route);
+
+/* Dropdown „weitere Faktenchecks“ am Titel. Mit Maus öffnet es per Hover (CSS);
+   auf Touchgeräten und per Tastatur über den Pfeil-Knopf. Ein Klick auf den Titel führt zur Startseite. */
+(function brandMenu() {
+  const menu = document.getElementById('brand-menu');
+  const toggle = document.getElementById('brand-toggle');
+  if (!menu || !toggle) return;
+  const setOpen = open => {
+    menu.classList.toggle('open', open);
+    toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+  };
+  toggle.addEventListener('click', e => { e.stopPropagation(); setOpen(!menu.classList.contains('open')); });
+  document.addEventListener('click', e => { if (!menu.contains(e.target)) setOpen(false); });
+  menu.addEventListener('click', e => { if (e.target.closest('.brand-dropdown a, .brand')) setOpen(false); });
+  menu.addEventListener('keydown', e => {
+    if (e.key === 'Escape' && menu.classList.contains('open')) { setOpen(false); toggle.focus(); }
+  });
+  menu.addEventListener('focusout', e => { if (e.relatedTarget && !menu.contains(e.relatedTarget)) setOpen(false); });
+  window.addEventListener('hashchange', () => setOpen(false));
+})();
