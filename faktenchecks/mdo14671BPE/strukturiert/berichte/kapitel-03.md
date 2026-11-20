@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Keine menschliche Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Zwei Buchaussagen bleiben wegen fehlender Vollbuchprüfung ausdrücklich offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Am 20.11.2026 Werbekennzeichnung bei 00:10:39 im Originalbild kontrolliert. Keine vollständige Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Die Buchvorschauen bestätigen das 16-Wochen-Beispiel und zeigen den Einstieg. Zwei Buchaussagen bleiben bis zur Prüfung der späteren Transaktionen und der vollständigen Anleitung offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge. [Codex] 20.11.2026: Beide offenen Werbeaussagen im Originaltranskript abgeglichen und anhand öffentlicher Buchseiten und des Kindle-Inhaltsverzeichnisses weiter geprüft.
 
 ## mdo14671BPE-A0021
 
@@ -105,7 +105,7 @@ Fehlende Information: Unabhängige Erhebung zu Lernerfolg, Voraussetzungen und p
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Das beworbene Buch begleite eine Anfängerin durch 16 Wochen mit sämtlichen Transaktionen einschließlich Verlustfällen.
+**Eigene Beschreibung:** Das beworbene Buch begleite eine Anfängerin durch 16 Wochen und zeige alle ihre Transaktionen im Beispiel, auch bei ungünstigem Verlauf.
 
 Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
@@ -120,19 +120,19 @@ Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherh
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+Fundstellenhinweis: Werbeblock laut Originalbild bei 00:10:39. Wortlaut im automatischen YouTube-Originaltranskript abgeglichen. Stimme nicht bestätigt.
 
-Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+Zeitgrundlage: Automatische Originaluntertitel im YouTube-Player am 20.11.2026 geprüft. Einzelgrenzen textlich eingegrenzt.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Vollständigkeit des Buchbeispiels ist noch am Buch selbst zu kontrollieren. Die jetzt zugängliche Anbieterseite beschreibt Beatrice über 16 Wochen und auch ungünstige Wochen; eine als Anzeige gekennzeichnete Buchvorstellung nennt ebenfalls das 16-Wochen-Beispiel. Das belegt die Inhaltsankündigung, aber noch nicht sämtliche Transaktionen und Verlustfälle im ausgelieferten Buch.
+Noch nicht geprüft – die vollständige Darstellung der Transaktionen einschließlich ungünstiger Verläufe ist am Buch zu kontrollieren. Das Inhaltsverzeichnis der Kindle-Ausgabe führt Beatrices Beispiel bis Woche 16 und nennt auch Kursrückgänge und eine Positionsschließung. Die vier öffentlich einsehbaren Buchseiten zeigen den Einstieg in Woche 1. Die späteren Wochen waren nur über ihre Überschriften zugänglich.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Werbeaussage im automatischen Transkript des YouTube-Originals kontrolliert. Originalbild bei 00:10:39 mit Werbekennzeichnung gesehen. Sprecherzuordnung weiterhin plausibel. Einzelbefunde aus einsehbaren Buchseiten und Inhaltsverzeichnis.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Offen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Offen. [Codex] 20.11.2026: Originalstelle und Buchvorschauen nachgeprüft. Status weiterhin Offen, weil die relevanten Buchteile nicht vollständig einsehbar waren.
 
 ### Zugeordnete Quellen
 
@@ -142,23 +142,36 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 - [Book of Finance: 5 Buchtipps von Claus Weibrecht](https://bookoffinance.de/finanztipp/5-buchtipps-claus-weibrecht/) · Celine Nadolny, 08.11.2026; ausdrücklich als Anzeige gekennzeichnet.
   Quellenzugriff am 2026-11-19. Buchabschnitt mit 16-Wochen-Praxisbeispiel gelesen. Keine unabhängige Vollständigkeits- oder Leistungsprüfung. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
+- [arcticbear: Vier Originalseiten aus dem Beatrice-Praxisbeispiel](https://arcticbear.academy/buch-die-kunst-des-optionshandels/#blick-ins-buch) · Öffentliche Buchvorschau des Eigenverlags. Gelesen wurden die vier Abbildungen der Seiten 186–189.
+  Quellenzugriff am 2026-11-20. Die Seiten zeigen den Einstieg in Woche 1 mit Aktienkauf, Depotübersicht, Währungsrisiko und Optionsauswahl. Sie verweisen für konkrete Schritte zusätzlich auf Videos auf der Buchwebseite. Vier Originalseiten aus Woche 1.
+
+- [Amazon-Leseprobe: Kindle-Ausgabe von Die Kunst des Optionshandels](https://www.amazon.de/dp/3911419007) · Die Schaltfläche „Leseprobe lesen“ zum Taschenbuch öffnet laut Händler die Kindle-Vorschau von 2026.
+  Quellenzugriff am 2026-11-20. Vorwort geöffnet und Inhaltsverzeichnis gelesen. Es führt das Beatrice-Praxisbeispiel von Woche 0 bis Woche 16 einschließlich Kursrückgängen und Positionsschließung. Die späteren Kapitel sind in der Leseprobe gesperrt. Kapitelstruktur der Kindle-Ausgabe erkennbar. Volltext der einschlägigen Kapitel gesperrt.
+
+- [YouTube-Original: Werbeblock zum Optionshandelsbuch](https://www.youtube.com/watch?v=mdo14671BPE&t=631s) · Automatisches deutsches Transkript im Originalplayer, Segmente ab 00:10:31, 00:10:38 und 00:10:46.
+  Quellenzugriff am 2026-11-20. Zusammenhängende Werbepassage gelesen. Das bei 00:10:39 sichtbare Originalbild kennzeichnet sie als Werbung. Keine akustische Sprecherbestätigung. Originalfundstelle und Werbekontext.
+
 ### Offene Fragen und Unsicherheiten
 
-- Vollständiges Praxisbeispiel in einer rechtmäßig verfügbaren Buchfassung prüfen; Angebotsbeschreibung nicht als Prüfung jeder Transaktion ausgeben.
+- Die vollständigen Beatrice-Abschnitte der beworbenen Ausgabe lesen und prüfen, ob sie die Transaktionen des Beispiels einschließlich ungünstiger Verläufe durchgehend dokumentieren.
 
 ### Recherchedokumentation
 
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
-Fehlende Information: Vollständiges Praxisbeispiel in einer rechtmäßig verfügbaren Buchfassung prüfen; Angebotsbeschreibung nicht als Prüfung jeder Transaktion ausgeben.
+Fehlende Information: Text und Transaktionsdarstellung der späteren Wochen in der beworbenen Buchausgabe.
 
 - Durchgang 1 am 2026-11-19 (Codex): Weiterleitung der beworbenen Adresse direkt geöffnet; alternative Buchvorstellung auf Interessenkonflikte und konkrete Inhaltsangaben geprüft. Gepruefte Quellen: S141, S143. Ergebnis: 16-Wochen-Inhaltsankündigung gefunden; kein Vollbuch geprüft.
+
+- Durchgang 2 am 2026-11-20 (Codex): Wissensdatenbanken beider Projekte nach Buch, Beatrice und praktischer Umsetzung durchsucht. Wortlaut und Werbekontext im Originalplayer abgeglichen, danach die öffentlich zugänglichen Buchseiten des Verlags gelesen. Gepruefte Quellen: S156, S154. Ergebnis: Der Werbetext nennt 16 Wochen und praktische Umsetzung. Ein Beispiel mit konkreten Schritten ist für Woche 1 direkt belegt.
+
+- Durchgang 3 am 2026-11-20 (Codex): Über ISBN und Titel nach einer weitergehenden Leseprobe oder Bibliotheksfassung gesucht. Inhaltsverzeichnis der im Buchhandel zugänglichen Kindle-Leseprobe gelesen. Gepruefte Quellen: S155. Ergebnis: Die Kapitelstruktur belegt die Wochenübersicht und die Themen der Anleitung. Die einschlägigen Kapitel der Kindle-Ausgabe sind in der Leseprobe nicht lesbar.
 
 ## mdo14671BPE-A0024
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Nach der Lektüre könne man die Handelsstrategie konkret umsetzen.
+**Eigene Beschreibung:** Nach der Lektüre wisse man konkret, wie die Covered-Call-Strategie umzusetzen ist.
 
 Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
@@ -173,19 +186,19 @@ Grundlage des Aussagebezugs: Textlich als eigene Position erschlossen; Unsicherh
 
 Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
 
-Fundstellenhinweis: Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.
+Fundstellenhinweis: Werbeblock laut Originalbild bei 00:10:39. Wortlaut im automatischen YouTube-Originaltranskript abgeglichen. Stimme nicht bestätigt.
 
-Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.
+Zeitgrundlage: Automatische Originaluntertitel im YouTube-Player am 20.11.2026 geprüft. Einzelgrenzen textlich eingegrenzt.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die konkrete praktische Umsetzbarkeit nach alleiniger Lektüre ist weiter zu prüfen. Anbieterbeschreibung und Zusatzinhalte sind jetzt zugänglich; sie ersetzen keine Durchsicht der Anleitung, Voraussetzungen und Risikodarstellung im vollständigen Buch. Aus einer beschriebenen Strategie folgt kein individueller Lernerfolg.
+Noch nicht geprüft – die Vollständigkeit der Anleitung und ihre Eignung für Einsteiger sind am Buch zu prüfen. Die Vorschauseiten zeigen an einem Beispiel einen Aktienkauf und die Auswahl einer Option. Für konkrete Schritte verweist das Buch zusätzlich auf Videos. Das Inhaltsverzeichnis führt eigene Abschnitte zur Auswahl von Aktien, zum Optionsverkauf, zur Pflege der Position und zum Risikomanagement. Ob die Lektüre allein die nötigen Schritte, Voraussetzungen und Risiken ausreichend erklärt, lässt sich anhand der Vorschauseiten nicht beurteilen.
 
-Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
+Grundlage der Bewertung: Werbeaussage im automatischen Transkript des YouTube-Originals kontrolliert. Originalbild bei 00:10:39 mit Werbekennzeichnung gesehen. Sprecherzuordnung weiterhin plausibel. Einzelbefunde aus einsehbaren Buchseiten und Inhaltsverzeichnis.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Offen.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Offen. [Codex] 20.11.2026: Originalstelle und Buchvorschauen nachgeprüft. Status weiterhin Offen, weil die relevanten Buchteile nicht vollständig einsehbar waren.
 
 ### Zugeordnete Quellen
 
@@ -198,17 +211,30 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 - [Covered Call (Buy/Write)](https://www.optionseducation.org/strategies/all-strategies/covered-call-buy-write) · Options Industry Council/OCC; Seitenstand nicht datiert, Abruf 2026.
   Quellenzugriff am 2026-11-17. Strategieerklärung einschließlich Verlust-/Gewinngrenzen und Risikohinweisen gelesen. Finanzmarkt-Bildungsangebot einer Brancheninstitution; kein Nachweis der Qualität des beworbenen Buches. Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang.
 
+- [arcticbear: Vier Originalseiten aus dem Beatrice-Praxisbeispiel](https://arcticbear.academy/buch-die-kunst-des-optionshandels/#blick-ins-buch) · Öffentliche Buchvorschau des Eigenverlags. Gelesen wurden die vier Abbildungen der Seiten 186–189.
+  Quellenzugriff am 2026-11-20. Die Seiten zeigen den Einstieg in Woche 1 mit Aktienkauf, Depotübersicht, Währungsrisiko und Optionsauswahl. Sie verweisen für konkrete Schritte zusätzlich auf Videos auf der Buchwebseite. Vier Originalseiten aus Woche 1.
+
+- [Amazon-Leseprobe: Kindle-Ausgabe von Die Kunst des Optionshandels](https://www.amazon.de/dp/3911419007) · Die Schaltfläche „Leseprobe lesen“ zum Taschenbuch öffnet laut Händler die Kindle-Vorschau von 2026.
+  Quellenzugriff am 2026-11-20. Vorwort geöffnet und Inhaltsverzeichnis gelesen. Es führt das Beatrice-Praxisbeispiel von Woche 0 bis Woche 16 einschließlich Kursrückgängen und Positionsschließung. Die späteren Kapitel sind in der Leseprobe gesperrt. Kapitelstruktur der Kindle-Ausgabe erkennbar. Volltext der einschlägigen Kapitel gesperrt.
+
+- [YouTube-Original: Werbeblock zum Optionshandelsbuch](https://www.youtube.com/watch?v=mdo14671BPE&t=631s) · Automatisches deutsches Transkript im Originalplayer, Segmente ab 00:10:31, 00:10:38 und 00:10:46.
+  Quellenzugriff am 2026-11-20. Zusammenhängende Werbepassage gelesen. Das bei 00:10:39 sichtbare Originalbild kennzeichnet sie als Werbung. Keine akustische Sprecherbestätigung. Originalfundstelle und Werbekontext.
+
 ### Offene Fragen und Unsicherheiten
 
-- Vollständige Anleitung und notwendige Vorkenntnisse prüfen; Buchleistung von zusätzlichen Videos, Community und Seminar unterscheiden.
+- Die vollständigen Anleitungskapitel auf Schritte, Vorkenntnisse und Risikohinweise prüfen und die im Buch erläuterten Inhalte von den Zusatzvideos unterscheiden.
 
 ### Recherchedokumentation
 
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
-Fehlende Information: Vollständige Anleitung und notwendige Vorkenntnisse prüfen; Buchleistung von zusätzlichen Videos, Community und Seminar unterscheiden.
+Fehlende Information: Vollständige Anleitungskapitel, insbesondere zu Broker, Auftragsausführung, Positionspflege und Risiken.
 
 - Durchgang 1 am 2026-11-19 (Codex): Öffentliche Produkt- und Zusatzleistungsbeschreibung gegen die unabhängige OIC-Strategieerklärung gelesen. Gepruefte Quellen: S141, S142, S003. Ergebnis: Angebotstext zugänglich, vollständige praktische Anleitung nicht geprüft.
+
+- Durchgang 2 am 2026-11-20 (Codex): Wissensdatenbanken beider Projekte nach Buch, Beatrice und praktischer Umsetzung durchsucht. Wortlaut und Werbekontext im Originalplayer abgeglichen, danach die öffentlich zugänglichen Buchseiten des Verlags gelesen. Gepruefte Quellen: S156, S154. Ergebnis: Der Werbetext nennt 16 Wochen und praktische Umsetzung. Ein Beispiel mit konkreten Schritten ist für Woche 1 direkt belegt.
+
+- Durchgang 3 am 2026-11-20 (Codex): Über ISBN und Titel nach einer weitergehenden Leseprobe oder Bibliotheksfassung gesucht. Inhaltsverzeichnis der im Buchhandel zugänglichen Kindle-Leseprobe gelesen. Gepruefte Quellen: S155. Ergebnis: Die Kapitelstruktur belegt die Wochenübersicht und die Themen der Anleitung. Die einschlägigen Kapitel der Kindle-Ausgabe sind in der Leseprobe nicht lesbar.
 
 ## mdo14671BPE-A0025
 

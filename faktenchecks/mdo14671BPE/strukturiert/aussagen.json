@@ -5,13 +5,13 @@
     "videoId": "mdo14671BPE",
     "videoUrl": "https://www.youtube.com/watch?v=mdo14671BPE",
     "durationSeconds": 10118,
-    "asOf": "2026-11-19",
+    "asOf": "2026-11-20",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge.",
-    "coverageNote": "Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Keine menschliche Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Zwei Buchaussagen bleiben wegen fehlender Vollbuchprüfung ausdrücklich offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9."
+    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge. [Codex] 20.11.2026: Beide offenen Werbeaussagen im Originaltranskript abgeglichen und anhand öffentlicher Buchseiten und des Kindle-Inhaltsverzeichnisses weiter geprüft.",
+    "coverageNote": "Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Am 20.11.2026 Werbekennzeichnung bei 00:10:39 im Originalbild kontrolliert. Keine vollständige Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Die Buchvorschauen bestätigen das 16-Wochen-Beispiel und zeigen den Einstieg. Zwei Buchaussagen bleiben bis zur Prüfung der späteren Transaktionen und der vollständigen Anleitung offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9."
   },
   "legacyPoints": [],
   "sources": [
@@ -1238,6 +1238,30 @@
       "details": "Historische eCFR-Fassung zum angegebenen Aufnahmetag; direkt geöffnet.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Absätze a bis c gelesen; Weiterleitung, Ablehnung und Aufenthaltsstatus sind differenziert geregelt. Kein Nachweis individueller Verfahrensakten."
+    },
+    {
+      "id": "S154",
+      "title": "arcticbear: Vier Originalseiten aus dem Beatrice-Praxisbeispiel",
+      "url": "https://arcticbear.academy/buch-die-kunst-des-optionshandels/#blick-ins-buch",
+      "details": "Öffentliche Buchvorschau des Eigenverlags. Gelesen wurden die vier Abbildungen der Seiten 186–189.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Die Seiten zeigen den Einstieg in Woche 1 mit Aktienkauf, Depotübersicht, Währungsrisiko und Optionsauswahl. Sie verweisen für konkrete Schritte zusätzlich auf Videos auf der Buchwebseite."
+    },
+    {
+      "id": "S155",
+      "title": "Amazon-Leseprobe: Kindle-Ausgabe von Die Kunst des Optionshandels",
+      "url": "https://www.amazon.de/dp/3911419007",
+      "details": "Die Schaltfläche „Leseprobe lesen“ zum Taschenbuch öffnet laut Händler die Kindle-Vorschau von 2026.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Vorwort geöffnet und Inhaltsverzeichnis gelesen. Es führt das Beatrice-Praxisbeispiel von Woche 0 bis Woche 16 einschließlich Kursrückgängen und Positionsschließung. Die späteren Kapitel sind in der Leseprobe gesperrt."
+    },
+    {
+      "id": "S156",
+      "title": "YouTube-Original: Werbeblock zum Optionshandelsbuch",
+      "url": "https://www.youtube.com/watch?v=mdo14671BPE&t=631s",
+      "details": "Automatisches deutsches Transkript im Originalplayer, Segmente ab 00:10:31, 00:10:38 und 00:10:46.",
+      "accessedOn": "2026-11-20",
+      "accessBasis": "Zusammenhängende Werbepassage gelesen. Das bei 00:10:39 sichtbare Originalbild kennzeichnet sie als Werbung. Keine akustische Sprecherbestätigung."
     }
   ],
   "speakers": [
@@ -2555,15 +2579,15 @@
       "chapter": 3,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Das beworbene Buch begleite eine Anfängerin durch 16 Wochen mit sämtlichen Transaktionen einschließlich Verlustfällen.",
+      "description": "Das beworbene Buch begleite eine Anfängerin durch 16 Wochen und zeige alle ihre Transaktionen im Beispiel, auch bei ungünstigem Verlauf.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – die Vollständigkeit des Buchbeispiels ist noch am Buch selbst zu kontrollieren. Die jetzt zugängliche Anbieterseite beschreibt Beatrice über 16 Wochen und auch ungünstige Wochen; eine als Anzeige gekennzeichnete Buchvorstellung nennt ebenfalls das 16-Wochen-Beispiel. Das belegt die Inhaltsankündigung, aber noch nicht sämtliche Transaktionen und Verlustfälle im ausgelieferten Buch.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "reason": "Noch nicht geprüft – die vollständige Darstellung der Transaktionen einschließlich ungünstiger Verläufe ist am Buch zu kontrollieren. Das Inhaltsverzeichnis der Kindle-Ausgabe führt Beatrices Beispiel bis Woche 16 und nennt auch Kursrückgänge und eine Positionsschließung. Die vier öffentlich einsehbaren Buchseiten zeigen den Einstieg in Woche 1. Die späteren Wochen waren nur über ihre Überschriften zugänglich.",
+      "assessmentBasis": "Werbeaussage im automatischen Transkript des YouTube-Originals kontrolliert. Originalbild bei 00:10:39 mit Werbekennzeichnung gesehen. Sprecherzuordnung weiterhin plausibel. Einzelbefunde aus einsehbaren Buchseiten und Inhaltsverzeichnis.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Offen."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Offen. [Codex] 20.11.2026: Originalstelle und Buchvorschauen nachgeprüft. Status weiterhin Offen, weil die relevanten Buchteile nicht vollständig einsehbar waren."
       },
       "sourceRefs": [
         {
@@ -2573,10 +2597,22 @@
         {
           "sourceId": "S143",
           "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S154",
+          "note": "Vier Originalseiten aus Woche 1."
+        },
+        {
+          "sourceId": "S155",
+          "note": "Kapitelstruktur der Kindle-Ausgabe erkennbar. Volltext der einschlägigen Kapitel gesperrt."
+        },
+        {
+          "sourceId": "S156",
+          "note": "Originalfundstelle und Werbekontext."
         }
       ],
       "openQuestions": [
-        "Vollständiges Praxisbeispiel in einer rechtmäßig verfügbaren Buchfassung prüfen; Angebotsbeschreibung nicht als Prüfung jeder Transaktion ausgeben."
+        "Die vollständigen Beatrice-Abschnitte der beworbenen Ausgabe lesen und prüfen, ob sie die Transaktionen des Beispiels einschließlich ungünstiger Verläufe durchgehend dokumentieren."
       ],
       "occurrences": [
         {
@@ -2592,8 +2628,8 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
-          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
-          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "note": "Werbeblock laut Originalbild bei 00:10:39. Wortlaut im automatischen YouTube-Originaltranskript abgeglichen. Stimme nicht bestätigt.",
+          "timeBasis": "Automatische Originaluntertitel im YouTube-Player am 20.11.2026 geprüft. Einzelgrenzen textlich eingegrenzt.",
           "timeHistory": []
         }
       ],
@@ -2611,9 +2647,28 @@
               "S143"
             ],
             "result": "16-Wochen-Inhaltsankündigung gefunden; kein Vollbuch geprüft."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken beider Projekte nach Buch, Beatrice und praktischer Umsetzung durchsucht. Wortlaut und Werbekontext im Originalplayer abgeglichen, danach die öffentlich zugänglichen Buchseiten des Verlags gelesen.",
+            "sourceIds": [
+              "S156",
+              "S154"
+            ],
+            "result": "Der Werbetext nennt 16 Wochen und praktische Umsetzung. Ein Beispiel mit konkreten Schritten ist für Woche 1 direkt belegt."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Über ISBN und Titel nach einer weitergehenden Leseprobe oder Bibliotheksfassung gesucht. Inhaltsverzeichnis der im Buchhandel zugänglichen Kindle-Leseprobe gelesen.",
+            "sourceIds": [
+              "S155"
+            ],
+            "result": "Die Kapitelstruktur belegt die Wochenübersicht und die Themen der Anleitung. Die einschlägigen Kapitel der Kindle-Ausgabe sind in der Leseprobe nicht lesbar."
           }
         ],
-        "missingInformation": "Vollständiges Praxisbeispiel in einer rechtmäßig verfügbaren Buchfassung prüfen; Angebotsbeschreibung nicht als Prüfung jeder Transaktion ausgeben.",
+        "missingInformation": "Text und Transaktionsdarstellung der späteren Wochen in der beworbenen Buchausgabe.",
         "conflicts": null
       },
       "factIndex": {
@@ -2631,15 +2686,15 @@
       "chapter": 3,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Nach der Lektüre könne man die Handelsstrategie konkret umsetzen.",
+      "description": "Nach der Lektüre wisse man konkret, wie die Covered-Call-Strategie umzusetzen ist.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – die konkrete praktische Umsetzbarkeit nach alleiniger Lektüre ist weiter zu prüfen. Anbieterbeschreibung und Zusatzinhalte sind jetzt zugänglich; sie ersetzen keine Durchsicht der Anleitung, Voraussetzungen und Risikodarstellung im vollständigen Buch. Aus einer beschriebenen Strategie folgt kein individueller Lernerfolg.",
-      "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
+      "reason": "Noch nicht geprüft – die Vollständigkeit der Anleitung und ihre Eignung für Einsteiger sind am Buch zu prüfen. Die Vorschauseiten zeigen an einem Beispiel einen Aktienkauf und die Auswahl einer Option. Für konkrete Schritte verweist das Buch zusätzlich auf Videos. Das Inhaltsverzeichnis führt eigene Abschnitte zur Auswahl von Aktien, zum Optionsverkauf, zur Pflege der Position und zum Risikomanagement. Ob die Lektüre allein die nötigen Schritte, Voraussetzungen und Risiken ausreichend erklärt, lässt sich anhand der Vorschauseiten nicht beurteilen.",
+      "assessmentBasis": "Werbeaussage im automatischen Transkript des YouTube-Originals kontrolliert. Originalbild bei 00:10:39 mit Werbekennzeichnung gesehen. Sprecherzuordnung weiterhin plausibel. Einzelbefunde aus einsehbaren Buchseiten und Inhaltsverzeichnis.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Offen."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. [Codex] 19.11.2026: Nachprüfung auf ausdrücklichen Nutzerauftrag; vorher Offen, jetzt Offen. [Codex] 20.11.2026: Originalstelle und Buchvorschauen nachgeprüft. Status weiterhin Offen, weil die relevanten Buchteile nicht vollständig einsehbar waren."
       },
       "sourceRefs": [
         {
@@ -2653,10 +2708,22 @@
         {
           "sourceId": "S003",
           "note": "Beleg nur im in der Begründung und im Quellenverzeichnis bezeichneten Umfang."
+        },
+        {
+          "sourceId": "S154",
+          "note": "Vier Originalseiten aus Woche 1."
+        },
+        {
+          "sourceId": "S155",
+          "note": "Kapitelstruktur der Kindle-Ausgabe erkennbar. Volltext der einschlägigen Kapitel gesperrt."
+        },
+        {
+          "sourceId": "S156",
+          "note": "Originalfundstelle und Werbekontext."
         }
       ],
       "openQuestions": [
-        "Vollständige Anleitung und notwendige Vorkenntnisse prüfen; Buchleistung von zusätzlichen Videos, Community und Seminar unterscheiden."
+        "Die vollständigen Anleitungskapitel auf Schritte, Vorkenntnisse und Risikohinweise prüfen und die im Buch erläuterten Inhalte von den Zusatzvideos unterscheiden."
       ],
       "occurrences": [
         {
@@ -2672,8 +2739,8 @@
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
-          "note": "Textlich erschlossene Fundstelle; keine Audio-/Videokontrolle.",
-          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "note": "Werbeblock laut Originalbild bei 00:10:39. Wortlaut im automatischen YouTube-Originaltranskript abgeglichen. Stimme nicht bestätigt.",
+          "timeBasis": "Automatische Originaluntertitel im YouTube-Player am 20.11.2026 geprüft. Einzelgrenzen textlich eingegrenzt.",
           "timeHistory": []
         }
       ],
@@ -2692,9 +2759,28 @@
               "S003"
             ],
             "result": "Angebotstext zugänglich, vollständige praktische Anleitung nicht geprüft."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Wissensdatenbanken beider Projekte nach Buch, Beatrice und praktischer Umsetzung durchsucht. Wortlaut und Werbekontext im Originalplayer abgeglichen, danach die öffentlich zugänglichen Buchseiten des Verlags gelesen.",
+            "sourceIds": [
+              "S156",
+              "S154"
+            ],
+            "result": "Der Werbetext nennt 16 Wochen und praktische Umsetzung. Ein Beispiel mit konkreten Schritten ist für Woche 1 direkt belegt."
+          },
+          {
+            "date": "2026-11-20",
+            "agent": "Codex",
+            "strategy": "Über ISBN und Titel nach einer weitergehenden Leseprobe oder Bibliotheksfassung gesucht. Inhaltsverzeichnis der im Buchhandel zugänglichen Kindle-Leseprobe gelesen.",
+            "sourceIds": [
+              "S155"
+            ],
+            "result": "Die Kapitelstruktur belegt die Wochenübersicht und die Themen der Anleitung. Die einschlägigen Kapitel der Kindle-Ausgabe sind in der Leseprobe nicht lesbar."
           }
         ],
-        "missingInformation": "Vollständige Anleitung und notwendige Vorkenntnisse prüfen; Buchleistung von zusätzlichen Videos, Community und Seminar unterscheiden.",
+        "missingInformation": "Vollständige Anleitungskapitel, insbesondere zu Broker, Auftragsausführung, Positionspflege und Risiken.",
         "conflicts": null
       },
       "factIndex": {

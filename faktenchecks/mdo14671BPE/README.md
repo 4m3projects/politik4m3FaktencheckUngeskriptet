@@ -2,7 +2,7 @@
 
 **Status: Teilbestand nachgeprüft – zwei Buchprüfungen und vollständige Hör-/Sichtkontrolle offen**
 
-Stand: 19.11.2026. Nachprüfung: [Codex], [Issue #75](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/75).
+Stand: 20.11.2026. Nachprüfung: [Codex], [Issue #75](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/75).
 
 - Original: [YouTube, Video-ID mdo14671BPE](https://www.youtube.com/watch?v=mdo14671BPE)
 - Kanal: {ungeskriptet} by Ben
@@ -15,7 +15,7 @@ Die automatisch erzeugten deutschen Originaluntertitel wurden bis zum Ende geles
 
 Der Stand enthält **251 Prüfgegenstände** aus allen 25 Themenbereichen einschließlich beider Werbeblöcke. Zwei sind reine Fremdbezüge. Unter den 249 eigenen Aussagen sind **212 Tatsachenbehauptungen: 107 mit Urteil, 103 mit begründeter Grenze der Überprüfbarkeit und zwei noch offen**. Dazu kommen 37 Meinungen oder Prognosen. „Mit Urteil“ schließt unzureichend belegbare Aussagen ein und bedeutet nicht, dass 107 Behauptungen wahr seien. Diese Zahlen beschreiben den erfassten Bestand, keine Fehlerquote des gesamten Interviews.
 
-Alle zwölf zuvor offenen Einträge wurden erneut bearbeitet. Bei zehn gibt es nun eine Bewertung oder eine konkret begründete Grenze der Überprüfbarkeit. Offen bleiben A0023 (sämtliche Transaktionen und Verlustfälle des Buchbeispiels) und A0024 (praktische Anleitung und Voraussetzungen im vollständigen Buch). Die erreichbare Anbieterseite belegt das Angebot, ersetzt diese Buchprüfung aber nicht. Deshalb ist die frühere pauschale Überschrift „Öffentliche Recherche abgeschlossen“ zurückgenommen. [Ergebnisse, Korrekturen und Restarbeit](05_nachpruefung.md).
+Von den zwölf am 19.11.2026 nachgeprüften Einträgen sind zwei Buchaussagen noch offen. Am 20.11.2026 wurden die Werbestelle und zwei Buchvorschauen geprüft. Das Inhaltsverzeichnis führt Beatrices Beispiel bis Woche 16 und die veröffentlichten Originalseiten zeigen den Einstieg in Woche 1. Für A0023 fehlen die Textseiten der späteren Wochen. Für A0024 fehlt die vollständige Anleitung, um ihre Eignung für Einsteiger zu beurteilen. [Ergebnisse, Korrekturen und Restarbeit](05_nachpruefung.md).
 
 Namentliche Sprecherzuordnungen sind ausschließlich **plausibel**. Null bestätigte Personenzurechnungen bedeuten fehlende Bestätigung, nicht fehlende Aussagen. Fragen, hypothetische Beispiele, ausdrückliche Übernahmen und Wiederholungen müssen getrennt bleiben. Werbeblöcke: 00:09:45–00:11:11 und 00:41:06–00:42:23.
 
