@@ -675,29 +675,14 @@ function rhetSummary(v, interactive) {
   </div>`;
 }
 
-/* Faktenampel (site/ampel.js): nur aus der Faktenbewertung, nie aus Darstellungshinweisen.
-   variant: '' (Karte), 'compact' (Listen), 'big' (Detailseite mit Begründung). */
-function ampelSub(r) {
-  if (r.key === 'gruen' || r.key === 'gelb' || r.key === 'rot') {
-    return `${pct(r.errorShare * 100)} widerlegt oder irreführend · Basis: ${num(r.decided)} entschiedene von ${num(r.facts)} erfassten Tatsachenbehauptungen`;
-  }
-  return r.reason;
-}
+/* Faktenampel mit Faktenindex (site/faktenindex.js, Anzeige in site/faktenindex-ui.js): nur aus der Faktenbewertung,
+   nie aus Darstellungshinweisen. variant: '' (Karte), 'compact' (Listen), 'big' (Methodik-Übersicht). */
 function ampelDemo(key) {
-  const l = FactAmpel.LEVELS[key];
-  const title = key === 'gruen' || key === 'gelb' || key === 'rot' ? `${l.name} · ${l.label}` : l.label;
+  const l = FactIndex.LEVELS[key];
+  const title = `${l.name} · ${l.label}`;
   return `<span class="ampel compact ampel-${key}"><span class="ampel-lights" aria-hidden="true"><i></i><i></i><i></i></span><span class="ampel-text"><span class="ampel-title">${esc(title)}</span></span></span>`;
 }
-function ampelView(v, variant = '') {
-  const r = FactAmpel.rate(v?.stats || null, v?.video || null, v?.data?.scope?.durationSeconds);
-  const title = r.key === 'gruen' || r.key === 'gelb' || r.key === 'rot' ? `${r.name} · ${r.label}` : r.label;
-  const tip = `Faktenampel: ${title}. ${ampelSub(r)}. ${r.text} ${AMPEL_TIP_NOTE}`;
-  /* Kein mitwandernder Hinweis (data-tip): Die Erklärung erscheint als feste Tafel unter der Ampel (showTip). */
-  return `<div class="ampel ampel-${r.key}${variant ? ' ' + (variant === 'big' ? 'ampel-big' : variant) : ''}" role="img" aria-label="${esc(tip)}" data-ampel-key="${esc(r.key)}" data-ampel-title="${esc('Faktenampel: ' + title)}" data-ampel-sub="${esc(ampelSub(r))}" data-ampel-text="${esc(r.text)}">
-    <span class="ampel-lights" aria-hidden="true"><i></i><i></i><i></i></span>
-    <span class="ampel-text" aria-hidden="true"><span class="ampel-title">Faktenampel: ${esc(title)}</span><span class="ampel-sub">${esc(ampelSub(r))}</span></span>
-  </div>`;
-}
+function ampelView(v, variant = '') { return fiAmpelView(v, variant); }
 
 /* Methodik, Abschnitt Faktenampel: aktuelle Einstufung aller Videos, Originale zuerst.
    Steht nicht auf der Startseite, damit dort direkt die geprüften Videos folgen. */
@@ -774,7 +759,7 @@ async function pageHome() {
       <p class="small">Zum Hintergrund: <a href="https://www.medienanstalt-nrw.de/presse/pressemitteilungen/pressemitteilungen-2026/2026/september/landesanstalt-fuer-medien-nrw-schliesst-pruefung-im-fall-ungeskriptet-by-ben-ab.html" target="_blank" rel="noopener noreferrer">Mitteilung der Landesanstalt für Medien NRW vom 24.09.2026</a> · <a href="https://www.tagesschau.de/inland/regional/nordrheinwestfalen/wdr-hoecke-interview-podcaster-verklagt-die-nrw-medienaufsicht-wegen-pruefung-100.html" target="_blank" rel="noopener noreferrer">WDR-Bericht vom 29.10.2026 zur Klage</a></p>
     </section>
     <section class="section" aria-labelledby="h-videos">
-      <div class="section-head"><h2 id="h-videos">Geprüfte Originalinterviews</h2><p>Zuletzt veröffentlichte oder geprüfte Interviews zuerst. Reaktionen und Faktenchecks anderer Kanäle stehen jeweils auf der Seite des Interviews, auf das sie sich beziehen. Was die Faktenampel auf jeder Karte bedeutet, erklärt die <a href="#/methodik#ampel">Methodik</a>.</p></div>
+      <div class="section-head"><h2 id="h-videos">Geprüfte Originalinterviews</h2><p>Zuletzt veröffentlichte oder geprüfte Interviews zuerst. Reaktionen und Faktenchecks anderer Kanäle stehen jeweils auf der Seite des Interviews, auf das sie sich beziehen. Was Faktenindex, Ampel und Prüfabdeckung auf jeder Karte bedeuten, erklärt die <a href="#/methodik#faktenindex">Methodik</a>.</p></div>
       ${cards ? thumbPrompt() : ''}
       <div class="cards">${cards || '<p class="muted">Noch keine Faktenchecks veröffentlicht.</p>'}</div>
     </section>
@@ -880,7 +865,7 @@ async function counterContext(v) {
     const ov = state.videos.get(FactCounter.videoOf(claimId));
     const claim = (ov?.data?.claims || []).find(c => c.id === claimId);
     if (!claim) return null;
-    return { claim, ampel: FactAmpel.rate(ov.stats || null, ov.video || null, ov.data?.scope?.durationSeconds).key };
+    return { claim, ampel: FactIndex.rate(ov.data || null, ov.video || null).key };
   };
   return c => FactCounter.forClaim(c, state.counter, lookup);
 }
@@ -970,6 +955,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
         <div class="claim-top">${verdictBadge(c.verdict, c.status, c.reason)}
           <span class="badge kind">${esc(c.kind)}</span>
           <span class="badge kind">Kapitel ${esc(c.chapter)}${chapter ? ' · ' + esc(chapter) : ''}</span>
+          ${fiClaimBadge(c)}
           <a class="claim-id" href="#/video/${esc(v.id)}/aussage/${esc(c.id)}" data-tip="Direktlink zu dieser Aussage">${esc(shortId)}</a>
           ${hasConflict ? '<span class="badge rel-state rel-conflict">⚠ Prüfkonflikt mit verknüpfter Aussage</span>' : ''}
           ${[...new Set((rhetList || []).map(a => a.feature))].map(k => `<span class="badge rhet-badge rhet-flag" data-tip="Darstellungshinweis (KI), getrennt von der Faktenbewertung">Darstellung: ${esc(FactRhetoric.FEATURES[k]?.name || k)}</span>`).join('')}</div>
@@ -987,6 +973,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
         <div><h4>Fundstellen im Video (${(c.occurrences || []).length})</h4>${occ}</div>
         <div><h4>Quellen</h4>${srcs ? `<ul class="sources">${srcs}</ul>` : '<p class="small">Dieser Aussage sind keine Sachquellen zugeordnet.</p>'}</div>
         ${q ? `<div><h4>${isUnverifiable(c) ? 'Was für eine Prüfung fehlt' : 'Offene Fragen'}</h4><ul class="questions">${q}</ul></div>` : ''}
+        ${fiClaimBlock(c, v)}
         ${research}
         ${rel ? `<div><h4>Beziehungen</h4><ul class="questions">${rel}</ul></div>` : ''}
         ${xlinks.length ? `<div><h4>Verknüpfte Aussagen in anderen Videos</h4><ul class="questions">${xlinks.map(x => x.html).join('')}</ul></div>` : ''}
@@ -1055,8 +1042,7 @@ function videoHeader(v, tab) {
     <h1>${esc(v.title)}</h1>
     ${roleLine(v)}
     ${typeof videoTopicLine === 'function' ? videoTopicLine(v.id) : ''}
-    ${ampelView(v, 'big')}
-    <p class="small ampel-note">Die Faktenampel fasst nur die bereits entschiedenen Tatsachenbehauptungen zusammen, nicht das ganze Video und keine Person. Darstellungshinweise fließen nicht ein. <a href="#/methodik">Regel in der Methodik</a></p>
+    ${fiHeader(v)}
     <ul class="facts">${videoFacts(v)}</ul>
     <div class="btn-row">
       ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" data-tip="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
@@ -1273,23 +1259,8 @@ async function pageMethod() {
       <p class="small"><strong>Ein fehlender Suchtreffer ist kein Gegenbeweis.</strong> Bevor eine prüfbare Aussage als „nicht ausreichend belegbar“ gilt, recherchieren wir mindestens ein zweites Mal gezielt anders: mit anderen Suchbegriffen, über Primärquellen wie amtliche Statistiken, Gesetzestexte und Studien, im zeitlichen Zusammenhang der Aussage und über indirekte, belastbare Wege. Wo vorhanden, steht bei der Aussage eine Recherchedokumentation: welche Quellen geprüft wurden, was fehlt, wo sich Quellen widersprechen und wie sicher die Einordnung ist. Belegte Aussagen sind dabei genauso ein Ergebnis wie widerlegte.</p>
     </section>
 
-    <section class="section prose-plain" id="ampel"><h2>Faktenampel: das Video auf einen Blick</h2>
-      <p>Jedes Video zeigt eine Ampel. Sie ist eine reine Rechnung aus den Einzelbewertungen oben und enthält keine zusätzliche Einschätzung.</p>
-      <ul>
-        <li><strong>Grundlage:</strong> nur abgeschlossen bewertete Tatsachenbehauptungen mit dem Ergebnis belegt, teilweise belegt, irreführend oder widerlegt („entschieden“). Meinungen, Prognosen, offene, laufende, nicht überprüfbare und nicht ausreichend belegbare Aussagen zählen nicht mit.</li>
-        <li><strong>Fehleranteil</strong> = (widerlegt + irreführend) ÷ entschiedene Tatsachenbehauptungen. Teilweise belegt zählt nicht als Fehler.</li>
-        <li><strong>YouTube Shorts:</strong> Ein Short wird immer vollständig erfasst, nicht nur in Auswahl. Weil er meist nur wenige Aussagen enthält, reichen dort ${FactAmpel.RULES.short.minDecided} entschiedene Tatsachenbehauptungen, wenn mindestens die Hälfte der erfassten entschieden ist. Bei so wenigen Aussagen kann schon eine einzige widerlegte die Farbe ändern; die Basis steht deshalb immer daneben.</li>
-      </ul>
-      <ul class="verdict-list">
-        <li>${ampelDemo('gruen')}<p>${esc(FactAmpel.LEVELS.gruen.text)}</p></li>
-        <li>${ampelDemo('gelb')}<p>${esc(FactAmpel.LEVELS.gelb.text)}</p></li>
-        <li>${ampelDemo('rot')}<p>${esc(FactAmpel.LEVELS.rot.text)}</p></li>
-        <li>${ampelDemo('nicht_bewertbar')}<p>${esc(FactAmpel.LEVELS.nicht_bewertbar.text)}</p></li>
-        <li>${ampelDemo('vorlaeufig')}<p>${esc(FactAmpel.LEVELS.vorlaeufig.text)} Das gilt bei laufender Analyse oder wenn Einzelprüfungen ausstehen und die Grundlage noch zu klein ist, etwa gemessen an der Videolaufzeit.</p></li>
-      </ul>
-      <p class="small">Die Ampel beschreibt nur den geprüften Bestand, nicht das ganze Video, und ist keine Glaubwürdigkeitsnote für Personen. Neben ihr steht immer, auf wie vielen Aussagen sie beruht. Darstellungshinweise (Maßstab 2) verändern sie nie. Die Ampel wird nirgends gespeichert und von niemandem gesetzt: Sie wird bei jedem Aufruf nach einer einzigen, hier beschriebenen Regel berechnet. Ändert sich eine Einzelbewertung oder die Regel selbst, werden alle Videos automatisch neu eingestuft, ohne neue Prüfung.</p>
-      ${ampelOverview(all)}
-    </section>
+    <div id="ampel"></div>${fiMethod(ampelDemo)}
+    <section class="section prose-plain" id="ampel-alle">${ampelOverview(all)}</section>
 
     <section class="section prose-plain" id="gegendarstellung"><h2>Gegendarstellung aus einem anderen Video</h2>
       <p>Ist eine Aussage widerlegt, irreführend, nicht ausreichend belegbar, eine Meinung oder Vermutung oder noch nicht fertig geprüft, und sagt ein anderes geprüftes Video an seiner Stelle etwas anderes, das selbst als <strong>belegt</strong> oder <strong>teilweise belegt</strong> bewertet ist, erscheint diese Gegenaussage als Hinweis mit Zeitmarke: in der Auswertung und neben dem laufenden Video.</p>

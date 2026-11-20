@@ -23,7 +23,7 @@ Shorts sind kurze Hochkantvideos (höchstens drei Minuten). Sie werden wie jedes
 
 - **Player im Hochformat:** In der Ansicht „Video mit Faktencheck“ erhält der Bereich `data-format="short"`. Der Player steht dann im Format 9:16, höchstens so hoch wie das Fenster, und die Aussagenliste bekommt nebeneinander den übrigen Platz (CSS in `site/style.css`). Einwilligung vor dem Laden, Datenschutzmodus und Synchronisierung bleiben gleich.
 - **Kennzeichen „Short“** auf der Startseitenkarte und im Kopf der Videoseite.
-- **Faktenampel:** Für Shorts gilt eine eigene Mindestgrundlage, weil sie vollständig erfasst sind und meist nur wenige Aussagen enthalten. Regel und Begründung stehen in [AMPEL.md](AMPEL.md).
+- **Faktenampel:** Für Shorts gilt eine eigene Mindestgrundlage, weil sie vollständig erfasst sind und meist nur wenige Aussagen enthalten. Regel und Begründung stehen in [FAKTENINDEX.md](FAKTENINDEX.md).
 - `FactSync.youtubeId` erkennt auch `/shorts/`-Adressen, damit eine versehentlich gespeicherte Shorts-Adresse die Video-Ansicht nicht abschaltet.
 
 ## Tests
