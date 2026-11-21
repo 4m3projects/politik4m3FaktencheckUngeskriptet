@@ -142,6 +142,25 @@ function fiSpeakerBadge(c) {
   return `<span class="badge plain fi-speaker${fact && !a.counted ? ' fi-speaker-foreign' : ''}" data-tip="${fiEsc(fiSpeakerText(c))}">${a.statementBy === 'Gast' ? 'Gast' : 'Zitat'}: ${fiEsc(a.person)}${tail}</span>`;
 }
 
+/* Zweite, von der Faktenbewertung strikt getrennte Ebene: Zurechnung zum Video.
+   Nur bei zentral als zitat/fremdbezug ausgeschlossenen Aussagen gruen markieren;
+   bei ungeklärter Haltung KEINE Entlastung behaupten. */
+function fiAttributionNotice(c) {
+  const cls = FactIndex.classify(c);
+  if (cls === 'zuordnung_offen') {
+    return '<aside class="fi-attribution-note fi-attribution-pending" aria-label="Zurechnung ungeklärt"><strong>⌛ Zurechnung noch ungeklärt</strong><p>Ob das Video diese Aussage übernimmt oder zurückweist, ist noch nicht geprüft. Daraus lässt sich keine Entlastung ableiten.</p></aside>';
+  }
+  if (cls !== 'zitat' && cls !== 'fremdbezug') return '';
+  const a = FactIndex.attributionOf(c);
+  const who = a ? (a.statementBy === 'Gast' ? 'Aussage eines Gastes' : 'Zitat einer anderen Person') + ': ' + a.person : 'Fremde Aussage (Fremdbezug, Rückfrage oder Zurückweisung)';
+  const explanation = a ? FI_STANCE[a.creatorStance] + '.' : 'Das Video nutzt diese Fundstelle nicht als eigene Behauptung.';
+  const basis = a && a.basis ? '<p class="fi-attribution-basis">Warum: ' + fiEsc(a.basis) + '</p>' : '';
+  return '<aside class="fi-attribution-note" aria-label="Diese Aussage wird dem Video nicht angerechnet">' +
+    '<strong>✓ Nicht dem Video angerechnet</strong>' +
+    '<p>' + fiEsc(who) + '. ' + fiEsc(explanation) + ' Der Faktenstatus oben bewertet die Aussage selbst, nicht den Videoersteller.</p>' +
+    basis + '</aside>';
+}
+
 /* Kleine Kennzeichnung im Kopf einer Aussage: Zitat/Gast und Bedeutungsfaktor (nur wenn vom Standard abweichend oder strittig). */
 function fiClaimBadge(c) {
   return fiSpeakerBadge(c) + fiWeightBadge(c);
