@@ -138,6 +138,13 @@ So wird entschieden:
 
 Darstellung: Im Kopf der Aussage steht „Zitat: Person“ bzw. „Gast: Person“, bei Tatsachenbehauptungen ergänzt um „nicht dem Video angerechnet“, „vom Video übernommen“ oder „Haltung ungeklärt“. Aufgeklappt zeigt „Wer sagt das?“ Person, Haltung des Videos, Begründung und Wirkung im Index. Bei Aussagen ohne Feld steht dort „Das Video selbst“.
 
+
+### Deutlich getrennte Anzeige von Faktenstatus und Zurechnung (21.11.2026)
+
+Die Oberfläche zeigt eine **zweite, eigenständige Kennzeichnung** für fremde Aussagen. Eine widerlegte fremde Aussage bleibt im Faktenstatus **rot** (der Satz ist falsch). Wenn die zentrale Einstufung `FactIndex.classify` jedoch `zitat` oder `fremdbezug` ergibt, erscheint direkt unter der Aussage ein **grün akzentuierter Hinweis „Nicht dem Video angerechnet“**, einschließlich Sprecher/Haltung und – falls vorhanden – dokumentierter Begründung. **Grün steht hier nur für die fehlende Zurechnung, nicht für einen korrekten Inhalt.** Diese Darstellung gilt auch für die zeitlich synchronisierte Videoansicht.
+
+Bei `zuordnung_offen` erscheint statt Grün ein neutraler Warnhinweis; bei `Übernommen` sowie nicht ausdrücklich zurückgewiesenen Gastaussagen keine Entlastung. Urteile, Kennzahlen, Daten und Indexrechnung ändern sich **nicht** durch diese rein visuelle Anpassung. Wenn eine bisher unmarkierte Aussage falsch zugeordnet ist, muss die ursprüngliche Zuschreibung quellenbasiert separat geprüft werden.
+
 ## 5. Bedeutungsfaktoren vergeben (Agentenregel)
 
 Skala: **0,5** nebensächlich · **1,0** normal · **1,5** erhöht · **2,0** hoch · **3,0** sehr hoch (Zwischenwerte in Viertelschritten).
