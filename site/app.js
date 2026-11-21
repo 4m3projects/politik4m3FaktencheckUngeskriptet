@@ -970,6 +970,7 @@ function claimCard(c, v, chapterTitles, linkedVideos, rhetList, counters) {
         <div class="claim-desc-label">Prüfgegenstand – unsere Beschreibung, kein Zitat</div>
         <p class="claim-desc">${esc(c.description)}</p>
         <p class="claim-reason">${esc(c.reason)}</p>
+        ${fiAttributionNotice(c)}
         ${rhetBlock(rhetList, v)}
         ${counterBlock(counters, false)}
       </div>
