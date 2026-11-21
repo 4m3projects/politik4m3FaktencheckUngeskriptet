@@ -19,7 +19,7 @@ const VIDEO = 'mlxFA9T88I0';
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-site-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'pruefstand.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
   for (const id of fs.readdirSync(base).filter(x => /^[A-Za-z0-9_-]{11}$/.test(x))) {
@@ -118,6 +118,7 @@ async function step(name, fn) {
   const shots = process.env.SCREENSHOTS;
   const browser = await chromium.launch();
   const ctx = await browser.newContext({ viewport: { width: 1360, height: 860 }, reducedMotion: 'reduce' });
+  ctx.setDefaultTimeout(15000);
   const external = [];
   const consoleErrors = [];
   let apiMode = 'ok';
@@ -131,15 +132,39 @@ async function step(name, fn) {
   page.on('console', m => { if (m.type() === 'error') consoleErrors.push(m.text()); });
   page.on('pageerror', e => consoleErrors.push(e.message));
 
+  await step('Prüfstand nennt alle Ampel-Hürden auch ohne offene Sachurteile und auf Mobilgeräten', async () => {
+    await page.goto(base + '#/');
+    await page.waitForSelector('#pruefstand tbody tr');
+    const row = id => page.locator('#pruefstand tbody tr').filter({ has: page.locator(`a[href="#/video/${id}"]`) });
+    assert.match(await row('OQnvClWgN-g').textContent(), /mindestens 68/);
+    assert.match(await row('QxMuH1bjMwo').textContent(), /Analyse läuft noch/);
+    assert.match(await row('QxMuH1bjMwo').textContent(), /mindestens 67/);
+    assert.match(await row('Xw2tAp6UouE').textContent(), /Originalfundstellen und Quellen/);
+    await page.setViewportSize({ width: 390, height: 844 });
+    await page.goto(base + '#/video/QxMuH1bjMwo/pruefaufgaben');
+    await page.waitForSelector('#pruefaufgaben');
+    assert.match(await page.locator('#pruefaufgaben').textContent(), /18 weitere/);
+    assert.ok(await page.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1));
+    if (shots) await page.screenshot({ path: path.join(shots, 'ampel-pruefaufgaben-mobil.png'), fullPage: true });
+    await page.setViewportSize({ width: 1360, height: 860 });
+  });
+
   await step('Startseite und Aussagen-Ansicht weiter funktionsfähig', async () => {
     await page.goto(base + '#/');
     await page.waitForSelector('.card');
     await page.goto(base + `#/video/${VIDEO}`);
     await page.waitForSelector('#claims .claim');
     assert.ok(await page.locator('.tabs a', { hasText: 'Video mit Faktencheck' }).count() === 1);
-    assert.match(await page.locator('.notice.todo').textContent(), /noch nicht geprüft/);
-    assert.ok(await page.locator('.stat-todo').count() === 1, 'Zahl noch nicht geprüfter Aussagen sichtbar');
-    await page.locator('.notice.todo a').click();
+    const data = JSON.parse(fs.readFileSync(path.join(ROOT, 'faktenchecks', VIDEO, 'strukturiert', 'aussagen.json'), 'utf8'));
+    const nOpen = data.claims.filter(c => c.status === 'Offen').length;
+    assert.equal(await page.locator('.stat-todo').count(), nOpen ? 1 : 0, 'nur tatsächlich offene Aussagen als unbearbeitet zählen');
+    if (nOpen) {
+      assert.match(await page.locator('.notice.todo').textContent(), /noch nicht geprüft/);
+      await page.locator('.notice.todo a').click();
+    } else {
+      assert.equal(await page.locator('.notice.todo').count(), 0);
+      await page.goto(base + '#/methodik#pruefstatus');
+    }
     await page.waitForSelector('#pruefstatus');
     assert.match(await page.locator('#pruefstatus').textContent(), /Nicht ausreichend belegbar/);
   });
@@ -155,7 +180,6 @@ async function step(name, fn) {
     assert.ok(await page.locator('.vc-item', { hasText: 'Vorkommen 2 von 2' }).count() >= 1, 'Wiederholung gekennzeichnet');
     assert.ok(await page.locator('.vc-item .badge', { hasText: 'Nicht überprüfbar' }).count() > 0, 'nicht überprüfbare Aussagen gekennzeichnet');
     const unchecked = data.claims.filter(c => c.status === 'Offen').reduce((s, c) => s + c.occurrences.length, 0);
-    assert.ok(unchecked > 0, 'Testdaten enthalten noch nicht geprüfte Aussagen');
     assert.equal(await page.locator('.vc-item .badge-todo', { hasText: 'Noch nicht geprüft' }).count(), unchecked, 'noch nicht geprüfte Aussagen ausdrücklich gekennzeichnet');
     await page.waitForTimeout(300);
     assert.deepEqual(external, [], 'externe Anfragen vor dem Klick: ' + external.join(', '));
@@ -350,8 +374,9 @@ async function step(name, fn) {
     assert.equal(await p3.evaluate(() => location.hash), `#/video/${VIDEO}/video`, 'Adresse ohne Autostart, Neuladen startet nicht erneut');
     assert.equal(await p3.evaluate(() => __yt.options.host), 'https://www.youtube-nocookie.com');
     await p3.waitForTimeout(800);
-    const top = await p3.evaluate(() => document.getElementById('vc').getBoundingClientRect().top);
-    assert.ok(Math.abs(top) < 80, 'Video-Bereich oben im Blick, Abstand ' + top);
+    const { top, padding } = await p3.evaluate(() => ({ top: document.getElementById('vc').getBoundingClientRect().top,
+      padding: parseFloat(getComputedStyle(document.documentElement).scrollPaddingTop) || 0 }));
+    assert.ok(Math.abs(top - padding) < 2, 'Video-Bereich am vorgesehenen Abstand unter der Kopfleiste, Abstand ' + top);
     await p3.reload();
     await p3.waitForSelector('#vc-load');
     assert.equal(await p3.evaluate(() => !!window.__yt), false, 'nach Neuladen kein automatischer Start');

@@ -20,7 +20,7 @@ const PENDING_VIDEO_ID = fs.readdirSync(path.join(ROOT, 'faktenchecks')).find(id
   const file = path.join(ROOT, 'faktenchecks', id, 'strukturiert', 'aussagen.json');
   return /^[A-Za-z0-9_-]{11}$/.test(id) && fs.existsSync(file) && JSON.parse(fs.readFileSync(file, 'utf8')).claims.some(c => !c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status));
 }) || 'qQAcmDzd9O8';
-const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png'];
+const SITE_FILES = ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'pruefstand.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png'];
 
 function buildSite(withFixtures) {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-rel-'));
@@ -127,15 +127,16 @@ async function step(name, fn) {
 
   await step('Prüfstand: jedes Video mit aktuellen offenen Aufgaben und getrennter Darstellung', async () => {
     await open(urlOf(real), '#/');
-    const ids = fs.readdirSync(path.join(ROOT, 'faktenchecks')).filter(id => fs.existsSync(path.join(ROOT, 'faktenchecks', id, 'strukturiert', 'aussagen.json')));
+    const ids = fs.readdirSync(path.join(ROOT, 'faktenchecks')).filter(id => /^[A-Za-z0-9_-]{11}$/.test(id) && fs.existsSync(path.join(ROOT, 'faktenchecks', id, 'README.md')));
     assert.equal(await page.locator('#pruefstand tbody tr').count(), ids.length);
     for (const id of ids) {
-      const d = JSON.parse(fs.readFileSync(path.join(ROOT, 'faktenchecks', id, 'strukturiert', 'aussagen.json'), 'utf8'));
-      const pending = d.claims.filter(c => !c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status));
+      const file = path.join(ROOT, 'faktenchecks', id, 'strukturiert', 'aussagen.json');
+      const d = fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf8')) : null;
+      const pending = (d?.claims || []).filter(c => (!c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status)) || c.attribution?.creatorStance === 'Ungeklärt');
       const row = page.locator('#pruefstand tbody tr').filter({ has: page.locator(`a[href="#/video/${id}"]`) });
       const text = await row.innerText();
-      assert.ok(text.includes(pending.length ? `${pending.length} noch offen oder in Bearbeitung` : 'Keine offenen erfassten Aussagen'), id);
-      assert.match(text, /Teilweise geprüft/);
+      assert.ok(text.includes(!d ? 'Keine strukturierten Aussagen' : pending.length ? `${pending.length} offene Prüfaufgaben` : 'Keine offenen erfassten Aussagen'), id);
+      assert.match(text, /Teilweise geprüft|Noch nicht geprüft/);
     }
     assert.match(await page.innerText('#pruefstand'), /keine vollständige Prüfung/);
   });
@@ -310,7 +311,7 @@ async function step(name, fn) {
     assert.ok(await page.$('.tabs a[aria-current="page"][href="#/video/' + F.RA + '/reaktionen"]'), 'Reiter „Bezug zum Original“ aktiv');
     assert.match(t, /Kritische Reaktion von Fiktiver Kanal A/);
     assert.match(t, /Bezüge auf Originalinterviews/);
-    const back = await page.$$eval('.role-line a', a => a.map(x => x.getAttribute('href')));
+    const back = await page.$$eval('.role-line a[href^="#/video/"]', a => a.map(x => x.getAttribute('href')));
     assert.deepEqual(back.sort(), ['#/video/' + F.O1, '#/video/' + F.O2].sort());
     assert.match(t, /Gegenbehauptung zur Originalaussage/);
     assert.match(t, /Bewertungen passen zusammen/);

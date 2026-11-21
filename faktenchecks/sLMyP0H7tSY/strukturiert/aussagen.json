@@ -273,10 +273,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die kurze berufliche Vorstellung ist biografischer Rahmen; die anschließenden technischen Korrekturen haben eigene Aussage-IDs."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die kurze berufliche Vorstellung ist biografischer Rahmen; die anschließenden technischen Korrekturen haben eigene Aussage-IDs."
+          }
+        ]
       }
     },
     {
@@ -355,10 +374,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Umsatz und Reisezahl rahmen die Vorstellung des Gastes; sie sind von den vier eigentlichen Sachkomplexen getrennt."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Umsatz und Reisezahl rahmen die Vorstellung des Gastes; sie sind von den vier eigentlichen Sachkomplexen getrennt."
+          }
+        ]
       }
     },
     {
@@ -559,10 +597,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Das Sicherheitsmotiv des Fotoverbots ist der Sachkern eines der vier überprüften Fälle; es ist keine bloße Whisky-Anekdote."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Das Sicherheitsmotiv des Fotoverbots ist der Sachkern eines der vier überprüften Fälle; es ist keine bloße Whisky-Anekdote."
+          }
+        ]
       }
     },
     {
@@ -633,10 +690,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die reale Brand- und Explosionsgefahr begründet die Korrektur des Fotoverbotsfalls unmittelbar und verdient normale Bedeutung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die reale Brand- und Explosionsgefahr begründet die Korrektur des Fotoverbotsfalls unmittelbar und verdient normale Bedeutung."
+          }
+        ]
       }
     },
     {
@@ -689,10 +765,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Der historische Brand wird als konkreter Gegenbeleg zum Sicherheitsargument verwendet, nicht nur als biografische Unterhaltung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der historische Brand wird als konkreter Gegenbeleg zum Sicherheitsargument verwendet, nicht nur als biografische Unterhaltung."
+          }
+        ]
       }
     },
     {
@@ -741,10 +836,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die Bezeichnung des Lagerinhalts gehört zum als Beleg eingesetzten Brandbeispiel und ist eine normale Sachprämisse dieses Arguments."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Bezeichnung des Lagerinhalts gehört zum als Beleg eingesetzten Brandbeispiel und ist eine normale Sachprämisse dieses Arguments."
+          }
+        ]
       }
     },
     {
@@ -793,10 +907,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die Fassregel ist einer der eigentlichen überprüften Regulierungssachverhalte; eine pauschale Herabsetzung als Whisky-Anekdote ist nicht begründet."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Fassregel ist einer der eigentlichen überprüften Regulierungssachverhalte; eine pauschale Herabsetzung als Whisky-Anekdote ist nicht begründet."
+          }
+        ]
       }
     },
     {
@@ -846,10 +979,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die Folgen der Intervention beantworten die konkrete Regulierungsbehauptung und sind eine normale eigenständige Sachfrage."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Folgen der Intervention beantworten die konkrete Regulierungsbehauptung und sind eine normale eigenständige Sachfrage."
+          }
+        ]
       }
     },
     {
@@ -1020,10 +1172,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Agio-/Disagio-Abgrenzung ist eine normale Sachkorrektur im Zinskomplex, der außerhalb der hervorgehobenen Euro-Titelfrage steht."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Agio-/Disagio-Abgrenzung ist eine normale Sachkorrektur im Zinskomplex, der außerhalb der hervorgehobenen Euro-Titelfrage steht."
+          }
+        ]
       }
     },
     {
@@ -1264,10 +1435,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Grundlage zum Titelthema digitaler Euro.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Das gesetzgeberische Konzept bildet die notwendige Grundlage für die im Titel gestellte Frage zum digitalen Euro."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Das gesetzgeberische Konzept bildet die notwendige Grundlage für die im Titel gestellte Frage zum digitalen Euro."
+          }
+        ]
       }
     },
     {
@@ -1316,10 +1506,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Grundlage zum Titelthema digitaler Euro.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Funktionsweise von Haltegrenzen klärt einen tragenden Einwand im titelgebenden Euro-Komplex."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Funktionsweise von Haltegrenzen klärt einen tragenden Einwand im titelgebenden Euro-Komplex."
+          }
+        ]
       }
     },
     {
@@ -1368,10 +1577,29 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Beantwortet die im Titel gestellte Frage, ob der digitale Euro Käufe verbieten kann.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 2,
+            "reason": "Die Aussage zu Verwendungsbeschränkungen beantwortet die Kaufverbotsfrage im Videotitel unmittelbar."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Aussage zu Verwendungsbeschränkungen beantwortet die Kaufverbotsfrage im Videotitel unmittelbar."
+          }
+        ]
       }
     },
     {
@@ -1438,10 +1666,29 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Beantwortet die im Titel gestellte Frage, ob der digitale Euro Käufe verbieten kann.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 2,
+            "reason": "Der normative Ausschluss programmierbaren Geldes ist die zweite direkte Begründung der Antwort auf die Titelfrage."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der normative Ausschluss programmierbaren Geldes ist die zweite direkte Begründung der Antwort auf die Titelfrage."
+          }
+        ]
       }
     },
     {
@@ -1542,10 +1789,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Abgrenzung des Schuldspruchs und der Beträge ist eine eigenständige normale Korrektur im Lagarde-Komplex."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Abgrenzung des Schuldspruchs und der Beträge ist eine eigenständige normale Korrektur im Lagarde-Komplex."
+          }
+        ]
       }
     },
     {
@@ -1594,10 +1860,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Rechtsfolgen ergänzen den Lagarde-Komplex als normale Sachinformation; eine besondere Hervorhebung ist im dokumentierten Aufbau nicht ausgewiesen."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Rechtsfolgen ergänzen den Lagarde-Komplex als normale Sachinformation; eine besondere Hervorhebung ist im dokumentierten Aufbau nicht ausgewiesen."
+          }
+        ]
       }
     },
     {
@@ -1771,10 +2056,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Redezeit, Häufigkeit und Rangfolge sind eine eigenständige quantitative Gesamtaussage und keine bloße Ablaufbeschreibung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Redezeit, Häufigkeit und Rangfolge sind eine eigenständige quantitative Gesamtaussage und keine bloße Ablaufbeschreibung."
+          }
+        ]
       }
     },
     {
@@ -1885,10 +2189,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die Monetarisierungshürden betreffen den eigenen Kanal im Schluss und tragen keinen der vier behandelten Sachfälle."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Monetarisierungshürden betreffen den eigenen Kanal im Schluss und tragen keinen der vier behandelten Sachfälle."
+          }
+        ]
       }
     },
     {
@@ -1940,10 +2263,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die eigenen Finanzierungsfortschritte sind ein gesonderter Kanalhinweis im Schlussabschnitt."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die eigenen Finanzierungsfortschritte sind ein gesonderter Kanalhinweis im Schlussabschnitt."
+          }
+        ]
       }
     },
     {
@@ -1999,10 +2341,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Anekdote zur Whiskybranche, Nebenthema ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die Wiedergabe von Hostfragen und Reaktionen bestimmt die Fairness des Fotoverbotsvergleichs; sie ist eine normale Aussage über die Originaldarstellung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Wiedergabe von Hostfragen und Reaktionen bestimmt die Fairness des Fotoverbotsvergleichs; sie ist eine normale Aussage über die Originaldarstellung."
+          }
+        ]
       }
     }
   ],

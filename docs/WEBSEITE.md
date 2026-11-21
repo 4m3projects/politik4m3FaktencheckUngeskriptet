@@ -34,6 +34,7 @@ Andere Dateien werden nicht übernommen. Der Titel stammt aus der ersten Übersc
 - Quellen mit direktem Link, Datenstand, Abrufdatum und Zugriffsgrundlage.
 - Keine Personenrankings oder Glaubwürdigkeitsnoten. Die Seite „Rangliste“ ordnet Videos (nicht Personen) allein nach dem berechneten Faktenindex, siehe [RANGLISTE.md](RANGLISTE.md).
 - Faktenampel je Video (Startseitenkarten, Videokopf, Listen von Originalen und Reaktionen), zur Laufzeit aus den Einzelbewertungen berechnet; Regel nur in `site/faktenindex.js`, siehe [FAKTENINDEX.md](FAKTENINDEX.md).
+- Der Prüfstand nennt alle gleichzeitig bestehenden Ampel-Hindernisse: fehlende Daten, laufende Analyse, Mindestzahl, Prüfabdeckung und Erfassungsdichte. Auch eine bereits sachlich bewertete Aussage mit ungeklärter Zurechnung bleibt als Prüfaufgabe sichtbar. Diagnose: `node scripts/ampel-audit.js` (mit `--json` maschinenlesbar, einschließlich Videos ohne Aussagen). Sie verändert keine Daten und übernimmt Farbe/Index ausschließlich aus der gemeinsamen Regel; die Dichtemindestzahl ist kein Nachweis einer Vollerfassung.
 
 ## Einmalige Einrichtung
 

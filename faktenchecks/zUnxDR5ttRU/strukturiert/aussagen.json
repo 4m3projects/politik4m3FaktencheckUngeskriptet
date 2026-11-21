@@ -607,10 +607,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die allgemeine Beschreibung der BfV-Informationsgewinnung ist ein normaler erklärender Sachschritt im Überwachungskomplex."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die allgemeine Beschreibung der BfV-Informationsgewinnung ist ein normaler erklärender Sachschritt im Überwachungskomplex."
+          }
+        ]
       }
     },
     {
@@ -1034,10 +1053,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die dokumentierten Nachfragen sind Sachgrundlage der Moderationskritik, eines ausdrücklich besprochenen Teils der Reaktion; sie sind nicht nur Ablaufdekor."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die dokumentierten Nachfragen sind Sachgrundlage der Moderationskritik, eines ausdrücklich besprochenen Teils der Reaktion; sie sind nicht nur Ablaufdekor."
+          }
+        ]
       }
     },
     {
@@ -1086,10 +1124,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Der Themenwechsel trägt die Kritik am Umgang mit einer unbelegten Erklärung; seine Darstellung ist eine normale Sachprämisse der Moderationsanalyse."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der Themenwechsel trägt die Kritik am Umgang mit einer unbelegten Erklärung; seine Darstellung ist eine normale Sachprämisse der Moderationsanalyse."
+          }
+        ]
       }
     },
     {
@@ -1294,10 +1351,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Zentrale zeitliche Einordnung zur im Titel gestellten Belegfrage zu Musk.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die zeitliche Reihenfolge begrenzt die im Titel angesprochene Musk-Belegthese und trägt die zugehörige Argumentation."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die zeitliche Reihenfolge begrenzt die im Titel angesprochene Musk-Belegthese und trägt die zugehörige Argumentation."
+          }
+        ]
       }
     },
     {
@@ -1346,10 +1422,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Bens Zuschreibung besonderen Wissens ist eine Prämisse der Kritik am Autoritätsargument und deshalb eine normale Sachbehauptung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Bens Zuschreibung besonderen Wissens ist eine Prämisse der Kritik am Autoritätsargument und deshalb eine normale Sachbehauptung."
+          }
+        ]
       }
     },
     {
@@ -1489,10 +1584,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Beiläufige Nebenbemerkung ohne Einfluss auf die Hauptthese oder das Thema im Videotitel.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die beiläufige Musikerzuschreibung illustriert die Wertung, trägt aber keinen Beleg zu Musk, Überwachung oder Merkel."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die beiläufige Musikerzuschreibung illustriert die Wertung, trägt aber keinen Beleg zu Musk, Überwachung oder Merkel."
+          }
+        ]
       }
     },
     {
@@ -1545,10 +1659,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Trennung von Verschlüsselung und Gerätesicherheit ist eine eigenständige normale technische Erläuterung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Trennung von Verschlüsselung und Gerätesicherheit ist eine eigenständige normale technische Erläuterung."
+          }
+        ]
       }
     },
     {
@@ -1951,10 +2084,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die historischen Rollen von Schnur und Merkel sind normale Hintergrundinformationen; der zentrale Belegschluss ist getrennt in A0040 erfasst."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die historischen Rollen von Schnur und Merkel sind normale Hintergrundinformationen; der zentrale Belegschluss ist getrennt in A0040 erfasst."
+          }
+        ]
       }
     },
     {
@@ -2114,10 +2266,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Gerichtliche Grundlage zur im Titel gestellten Belegfrage zu Merkel.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die gerichtliche Begründung ist ein tragender Gegenkontext zur im Titel aufgeworfenen Merkel-Belegfrage."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die gerichtliche Begründung ist ein tragender Gegenkontext zur im Titel aufgeworfenen Merkel-Belegfrage."
+          }
+        ]
       }
     },
     {
@@ -2225,10 +2396,29 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Beantwortet die im Titel gestellte Belegfrage zu Merkel (Deckname Erika).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 2,
+            "reason": "Der Befund zum Decknamen beantwortet die im Titel hervorgehobene Merkel-Belegfrage unmittelbar."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der Befund zum Decknamen beantwortet die im Titel hervorgehobene Merkel-Belegfrage unmittelbar."
+          }
+        ]
       }
     },
     {

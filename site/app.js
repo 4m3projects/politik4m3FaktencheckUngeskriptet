@@ -644,23 +644,30 @@ function videoFacts(v, link = false) {
 /* Arbeitsstand aus den aktuellen Einzelstatus, getrennt von Ergebnis und Ampel.
    Auch ein Bestand ohne offene Einträge kann eine unvollständige Videoauswahl sein. */
 function pendingClaims(v) {
-  return (v.data?.claims || []).filter(c => !c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status));
+  return (v.data?.claims || []).filter(c => (!c.verdict && ['Offen', 'In Bearbeitung'].includes(c.status)) || FactIndex.classify(c) === 'zuordnung_offen');
+}
+function ampelTasks(v) {
+  const a = FactProgress.audit(v.data, v.video);
+  return a.blockers.length ? `<div class="small"><strong>Für eine farbige Ampel noch erforderlich:</strong><ul>${a.blockers.map(b => `<li>${esc(b.text)}</li>`).join('')}</ul></div>` : '';
 }
 function progressOverview(videos) {
   if (!videos.length) return '';
   const sorted = [...videos].sort((a, b) => (a.video?.role === 'reaction') - (b.video?.role === 'reaction') || FactRelations.compareVideoRecency(a, b));
   const row = v => {
     const pending = pendingClaims(v);
-    const status = !v.data ? 'Keine strukturierten Aussagen' : pending.length ? `${pending.length} noch offen oder in Bearbeitung` : 'Keine offenen erfassten Aussagen';
+    const status = !v.data ? 'Keine strukturierten Aussagen' : pending.length ? `${pending.length} offene Prüfaufgaben (Sachprüfung oder Zurechnung)` : 'Keine offenen erfassten Aussagen';
     const rhetoric = FactRhetoric.reviewState(v.rhet);
-    return `<tr><th scope="row"><a href="#/video/${esc(v.id)}">${esc(v.title)}</a><div class="small muted">${v.video?.role === 'reaction' ? 'Reaktion' : 'Originalinterview'}</div></th><td>${esc(status)}${v.data ? `<br><a href="#/video/${esc(v.id)}/pruefaufgaben">Umfang und nächste Schritte</a>` : ''}</td><td>${esc(rhetoric.status)}${v.rhet ? ` · ${rhetoric.annotations} KI-Hinweise` : ''}</td></tr>`;
+    return `<tr><th scope="row"><a href="#/video/${esc(v.id)}">${esc(v.title)}</a><div class="small muted">${v.video?.role === 'reaction' ? 'Reaktion' : 'Originalinterview'}</div></th><td>${esc(status)}${ampelTasks(v)}${v.data ? `<br><a href="#/video/${esc(v.id)}/pruefaufgaben">Umfang und nächste Schritte</a>` : ''}</td><td>${esc(rhetoric.status)}${v.rhet ? ` · ${rhetoric.annotations} KI-Hinweise` : ''}</td></tr>`;
   };
   return `<section class="section" id="pruefstand" aria-labelledby="h-pruefstand"><div class="section-head"><h2 id="h-pruefstand">Prüfstand aller Videos</h2><p>Originale und zugehörige Reaktionen: Was ist noch zu bearbeiten? Die Zahl offener Aussagen beschreibt nur den erfassten Bestand. Auch ohne offene Einträge ist damit keine vollständige Prüfung des Videos bestätigt. Darstellungshinweise werden getrennt geprüft.</p></div><div class="table-wrap"><table><thead><tr><th>Video</th><th>Sachprüfung</th><th>Darstellung</th></tr></thead><tbody>${sorted.map(row).join('')}</tbody></table></div></section>`;
 }
 function pendingSection(v) {
   const pending = pendingClaims(v);
-  const item = c => `<li><a href="#/video/${esc(v.id)}/aussage/${esc(c.id)}">${esc(c.description)}</a><p class="small">${esc(c.status === 'Offen' ? 'Noch nicht geprüft' : c.status)} · ${esc(c.id)}</p>${c.openQuestions?.length ? `<ul>${c.openQuestions.map(q => `<li>${esc(q)}</li>`).join('')}</ul>` : `<p>${esc(c.reason)}</p>`}</li>`;
-  return `<section class="section" id="pruefaufgaben" aria-labelledby="h-pruefaufgaben"><h2 id="h-pruefaufgaben">Umfang und nächste Prüfschritte</h2><p>${esc(v.data.scope.coverageNote)}</p>${pending.length ? `<details><summary>${pending.length} erfasste Aussagen noch offen oder in Bearbeitung</summary><ol>${pending.map(item).join('')}</ol></details>` : '<p>Keine offenen erfassten Aussagen. Das bestätigt keine Vollerfassung sämtlicher Aussagen oder eine vollständige Hör- und Sichtprüfung.</p>'}<p class="small">„Nicht überprüfbar“ ist eine abgeschlossene Einordnung ohne Wahr/Falsch-Urteil. „Nicht ausreichend belegbar“ ist ein Rechercheergebnis. Beide werden hier nicht als unbearbeitete Aussagen gezählt. Konkrete Grenzen und weitere Fragen stehen bei den Einzelprüfungen.</p></section>`;
+  const item = c => {
+    const attribution = FactIndex.classify(c) === 'zuordnung_offen';
+    return `<li><a href="#/video/${esc(v.id)}/aussage/${esc(c.id)}">${esc(c.description)}</a><p class="small">${esc(attribution ? 'Zurechnung zum Video ungeklärt' : c.status === 'Offen' ? 'Noch nicht geprüft' : c.status)} · ${esc(c.id)}</p>${attribution ? '<p>Originalstelle im Zusammenhang prüfen: Übernimmt das Video die fremde Aussage, gibt es sie nur wieder oder widerspricht es?</p>' : ''}${c.openQuestions?.length ? `<ul>${c.openQuestions.map(q => `<li>${esc(q)}</li>`).join('')}</ul>` : `<p>${esc(c.reason)}</p>`}</li>`;
+  };
+  return `<section class="section" id="pruefaufgaben" aria-labelledby="h-pruefaufgaben"><h2 id="h-pruefaufgaben">Umfang und nächste Prüfschritte</h2><p>${esc(v.data.scope.coverageNote)}</p>${ampelTasks(v)}${pending.length ? `<details><summary>${pending.length} offene Prüfaufgaben (Sachprüfung oder Zurechnung)</summary><ol>${pending.map(item).join('')}</ol></details>` : '<p>Keine offenen erfassten Aussagen. Das bestätigt keine Vollerfassung sämtlicher Aussagen oder eine vollständige Hör- und Sichtprüfung.</p>'}<p class="small">„Nicht überprüfbar“ ist eine abgeschlossene Einordnung ohne Wahr/Falsch-Urteil. „Nicht ausreichend belegbar“ ist ein Rechercheergebnis. Beide werden hier nicht als unbearbeitete Aussagen gezählt. Eine ungeklärte Zurechnung bleibt unabhängig vom Faktenurteil eine Prüfaufgabe. Konkrete Grenzen und weitere Fragen stehen bei den Einzelprüfungen.</p></section>`;
 }
 
 /* Übersicht der Darstellungshinweise eines Videos: Anzahl je Merkmal, getrennt von der Faktenstatistik.

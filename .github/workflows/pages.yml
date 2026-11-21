@@ -56,7 +56,7 @@ jobs:
         run: node --test site/sync-test.js
 
       - name: Prüfstand und konkrete Restaufgaben testen
-        run: node --test site/progress-test.js
+        run: node --test site/progress-test.js site/pruefstand-test.js
 
       - name: Originale, Reaktionen und Beziehungen prüfen
         run: node --test site/relations-test.js
@@ -83,6 +83,7 @@ jobs:
         run: |
           node --test site/faktenindex-test.js
           node scripts/faktenindex.js pruefen
+          node scripts/ampel-audit.js
 
       - name: Gegendarstellungen prüfen (nur belegte Gegenaussagen zu kritischen Aussagen)
         run: node --test site/gegendarstellung-test.js
@@ -110,12 +111,12 @@ jobs:
           set -euo pipefail
           rm -rf "$OUT"
           mkdir -p "$OUT/daten"
-          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js site/faktenindex.js site/faktenindex-ui.js site/rangliste.js site/wissen.js site/gegendarstellung.js site/themen.js site/favicon.svg site/favicon.ico site/apple-touch-icon.png "$OUT/"
+          cp site/index.html site/style.css site/app.js site/sync.js site/video.js site/relations.js site/rhetoric.js site/faktenindex.js site/pruefstand.js site/faktenindex-ui.js site/rangliste.js site/wissen.js site/gegendarstellung.js site/themen.js site/favicon.svg site/favicon.ico site/apple-touch-icon.png "$OUT/"
           # Versionsparameter je Commit: Browser und GitHub-Pages-Cache laden nach jedem Deploy alle Skripte neu
           # und mischen keine alten und neuen Dateien.
           ver="${GITHUB_SHA:0:12}"
-          sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js|rhetoric\.js|faktenindex\.js|faktenindex-ui\.js|rangliste\.js|wissen\.js|gegendarstellung\.js|themen\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
-          test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 12
+          sed -i -E "s#(src|href)=\"(style\.css|app\.js|sync\.js|video\.js|relations\.js|rhetoric\.js|faktenindex\.js|pruefstand\.js|faktenindex-ui\.js|rangliste\.js|wissen\.js|gegendarstellung\.js|themen\.js)\"#\1=\"\2?v=${ver}\"#g" "$OUT/index.html"
+          test "$(grep -c "?v=${ver}" "$OUT/index.html")" -eq 13
           # Kompaktes Verzeichnis der Wissensdatenbank (Themen, Einträge, Aussagen mit Themen) für die Themenseiten.
           node scripts/wissen.js export "$OUT/daten/wissen.json"
           # Verlauf je Video (Seite „Verlauf“), berechnet aus der Git-Historie von faktenchecks/ (fetch-depth: 0).

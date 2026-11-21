@@ -18,7 +18,7 @@ const ROOT = path.join(__dirname, '..');
 /* Seite wie im Workflow zusammenstellen (vereinfachte Nachbildung, nur JSON-Daten). */
 function buildSite() {
   const out = fs.mkdtempSync(path.join(os.tmpdir(), 'p4m3-wissen-'));
-  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
+  for (const f of ['index.html', 'style.css', 'app.js', 'sync.js', 'video.js', 'relations.js', 'rhetoric.js', 'faktenindex.js', 'pruefstand.js', 'faktenindex-ui.js', 'rangliste.js', 'wissen.js', 'gegendarstellung.js', 'themen.js', 'favicon.svg', 'favicon.ico', 'apple-touch-icon.png']) fs.copyFileSync(path.join(__dirname, f), path.join(out, f));
   fs.mkdirSync(path.join(out, 'daten'));
   const videos = [];
   const base = path.join(ROOT, 'faktenchecks');
@@ -30,7 +30,7 @@ function buildSite() {
     fs.copyFileSync(path.join(dir, 'README.md'), path.join(out, 'daten', id, 'README.md'));
     if (fs.existsSync(path.join(dir, 'rhetorik.json'))) fs.copyFileSync(path.join(dir, 'rhetorik.json'), path.join(out, 'daten', id, 'rhetorik.json'));
     const title = (/^# (.+)$/m.exec(fs.readFileSync(path.join(dir, 'README.md'), 'utf8')) || [])[1] || id;
-    videos.push({ id, title, structured: true, rhetoric: fs.existsSync(path.join(dir, 'rhetorik.json')), files: ['README.md'], video: JSON.parse(fs.readFileSync(path.join(dir, 'video.json'), 'utf8')) });
+    videos.push({ id, title, structured: fs.existsSync(path.join(dir, 'strukturiert', 'aussagen.json')), rhetoric: fs.existsSync(path.join(dir, 'rhetorik.json')), files: ['README.md'], video: JSON.parse(fs.readFileSync(path.join(dir, 'video.json'), 'utf8')) });
   }
   fs.copyFileSync(path.join(base, 'beziehungen.json'), path.join(out, 'daten', 'beziehungen.json'));
   fs.writeFileSync(path.join(out, 'daten', 'index.json'), JSON.stringify({ generated: new Date().toISOString(), commit: 'test', repository: '4m3projects/politik4m3FaktencheckUngeskriptet', videos }));
