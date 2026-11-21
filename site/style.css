@@ -804,3 +804,15 @@ a[href*="youtube.com/"] .btn::before, a[href*="youtu.be/"] .btn::before { margin
 /* Wer sagt es? „Zitat: Person“ (faktenindex-ui.js, fiSpeakerBadge) */
 .fi-speaker { white-space: normal; }
 .fi-speaker-foreign { border-style: dashed; }
+
+/* Zurechnung ist eine eigene, gut erkennbare Ebene, nicht der gruene Faktenstatus.
+   Rotes Sachurteil und roter Seitenstreifen bleiben unabhaengig davon bestehen. */
+.fi-attribution-note {
+  margin: 12px 0 8px; padding: 10px 12px; border: 1px solid var(--line-strong);
+  border-left: 4px solid var(--v-belegt); border-radius: 8px; background: var(--surface-2);
+}
+.fi-attribution-note strong { display: block; color: var(--v-belegt); font-weight: 750; }
+.fi-attribution-note p { margin: 4px 0 0; color: var(--text-2); font-size: .9rem; }
+.fi-attribution-note .fi-attribution-basis { font-size: .84rem; }
+.fi-attribution-pending { border-left-color: var(--v-irrefuehrend); }
+.fi-attribution-pending strong { color: var(--text); }
