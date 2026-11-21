@@ -290,6 +290,31 @@ test('Anzeige: „Zitat: Person“ im Kopf und „Wer sagt das?“ in der Aussag
   assert.match(vm.runInContext("fiMethod(k => '')", ctx), /Wer sagt es\?/);
 });
 
+test('Zurechnungshinweis: rot bleibt Sachurteil, gruen zeigt nur Nichtanrechnung', () => {
+  const ctx = ui();
+  ctx.z = claim('Widerlegt', said('Zitierte Person', 'Distanziert'));
+  ctx.f = claim('Widerlegt', { occurrences: [{ role: 'Fremdbezug', roleStatus: 'Bestätigt' }] });
+  ctx.u = claim('Widerlegt', said('Zitierte Person', 'Übernommen'));
+  ctx.g = claim('Widerlegt', said('Gast', 'Nur wiedergegeben'));
+  ctx.d = claim('Widerlegt', said('Gast', 'Distanziert'));
+  ctx.p = claim('Widerlegt', said('Zitierte Person', 'Ungeklärt'));
+  ctx.e = claim('Widerlegt');
+  for (const name of ['z', 'f', 'd']) {
+    const html = vm.runInContext('fiAttributionNotice(' + name + ')', ctx);
+    assert.match(html, /fi-attribution-note/);
+    assert.match(html, /Nicht dem Video angerechnet/);
+    assert.match(html, /Faktenstatus oben bewertet die Aussage selbst/);
+  }
+  for (const name of ['u', 'g', 'e']) {
+    assert.equal(vm.runInContext('fiAttributionNotice(' + name + ')', ctx), '');
+  }
+  const pending = vm.runInContext('fiAttributionNotice(p)', ctx);
+  assert.match(pending, /fi-attribution-pending/);
+  assert.doesNotMatch(pending, /Nicht dem Video angerechnet/);
+  assert.equal(FI.compute([ctx.z, ctx.f, ctx.d]).indexed, 0);
+  assert.equal(FI.compute([ctx.u, ctx.g, ctx.e]).indexed, 3);
+});
+
 test('Methodik nennt Formel, Schwellen und Beispiele aus der zentralen Konfiguration', () => {
   const html = vm.runInContext("fiMethod(k => '<i>' + k + '</i>')", ui());
   assert.match(html, /10 belegt, 1 widerlegt → 0,667/);
