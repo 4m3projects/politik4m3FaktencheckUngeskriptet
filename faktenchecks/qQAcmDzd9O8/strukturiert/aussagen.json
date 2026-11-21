@@ -319,10 +319,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Das Veröffentlichungsdatum ist ein kurzer zeitlicher Rahmen, kein Beleg für die Eis- oder Windargumentation."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Das Veröffentlichungsdatum ist ein kurzer zeitlicher Rahmen, kein Beleg für die Eis- oder Windargumentation."
+          }
+        ]
       }
     },
     {
@@ -375,10 +394,29 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Beantwortet die im Titel gestellte Frage zum Eis an den Polen.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 2,
+            "reason": "Die langfristige Massenbilanz beantwortet die im Titel herausgestellte Eisfrage unmittelbar."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die langfristige Massenbilanz beantwortet die im Titel herausgestellte Eisfrage unmittelbar."
+          }
+        ]
       }
     },
     {
@@ -497,10 +535,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Der Zusammenhang von lokalem Schnee und Randverlusten ist ein normaler erklärender Sachschritt neben den gesondert hervorgehobenen Bilanzbefunden."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der Zusammenhang von lokalem Schnee und Randverlusten ist ein normaler erklärender Sachschritt neben den gesondert hervorgehobenen Bilanzbefunden."
+          }
+        ]
       }
     },
     {
@@ -675,10 +732,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kernpunkt zur im Titel gestellten Frage (antarktischer Rekord).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Unterscheidung zwischen Meereisausdehnung und Landeismasse ist eine tragende Begründung zur Titelfrage."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Unterscheidung zwischen Meereisausdehnung und Landeismasse ist eine tragende Begründung zur Titelfrage."
+          }
+        ]
       }
     },
     {
@@ -744,10 +820,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kernpunkt zur im Titel gestellten Frage (NASA-Studie zum Landeis).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die historische NASA-Studie ist ein ausdrücklich behandelter Gegenbefund innerhalb der zentralen Eisargumentation."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die historische NASA-Studie ist ein ausdrücklich behandelter Gegenbefund innerhalb der zentralen Eisargumentation."
+          }
+        ]
       }
     },
     {
@@ -827,10 +922,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kernpunkt zur im Titel gestellten Frage (Nachrechnung der NASA-Studie).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Nachrechnung soll den zuvor genannten Zuwachsbefund einordnen und ist für diesen Argumentationsschritt tragend."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Nachrechnung soll den zuvor genannten Zuwachsbefund einordnen und ist für diesen Argumentationsschritt tragend."
+          }
+        ]
       }
     },
     {
@@ -879,10 +993,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kernpunkt zur im Titel gestellten Frage (Ostantarktis).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die regionale Abgrenzung Ostantarktikas ist eine wichtige Einschränkung der zentralen Massenbilanz."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die regionale Abgrenzung Ostantarktikas ist eine wichtige Einschränkung der zentralen Massenbilanz."
+          }
+        ]
       }
     },
     {
@@ -1087,10 +1220,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die modellierte Amortisationszeit ist ein eigenständiger normaler Befund im Windkomplex außerhalb der Eis-Titelfrage."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die modellierte Amortisationszeit ist ein eigenständiger normaler Befund im Windkomplex außerhalb der Eis-Titelfrage."
+          }
+        ]
       }
     },
     {
@@ -1470,10 +1622,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Historisches Detail zu Growian ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die historischen Baukosten illustrieren das Growian-Beispiel; die energetische Grundfrage wird mit eigenen Lebenszyklusbefunden geprüft."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die historischen Baukosten illustrieren das Growian-Beispiel; die energetische Grundfrage wird mit eigenen Lebenszyklusbefunden geprüft."
+          }
+        ]
       }
     },
     {
@@ -2112,10 +2283,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Der SVB-Fall ist ein eigener Vergleich im Bankenkomplex; eine besondere Hauptthesenstellung ist im dokumentierten Aufbau nicht ausgewiesen."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der SVB-Fall ist ein eigener Vergleich im Bankenkomplex; eine besondere Hauptthesenstellung ist im dokumentierten Aufbau nicht ausgewiesen."
+          }
+        ]
       }
     },
     {
@@ -2201,10 +2391,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die behauptete unabhängige Mehrfachprüfung begründet Vertrauen in die gesamte Auswertung; sie ist eine normale Methodenbehauptung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die behauptete unabhängige Mehrfachprüfung begründet Vertrauen in die gesamte Auswertung; sie ist eine normale Methodenbehauptung."
+          }
+        ]
       }
     },
     {
@@ -2291,10 +2500,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Eine Fehlerhäufigkeit über das gesamte Interview ist eine eigenständige quantitative Schlussfolgerung, kein bloßer Hinweis zur Machart."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Eine Fehlerhäufigkeit über das gesamte Interview ist eine eigenständige quantitative Schlussfolgerung, kein bloßer Hinweis zur Machart."
+          }
+        ]
       }
     },
     {
@@ -2425,10 +2653,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die Häufigkeit pauschaler Abwertungen ist eine eigene quantitative Behauptung über das Interview; das Messverfahren ist inhaltlich relevant."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Häufigkeit pauschaler Abwertungen ist eine eigene quantitative Behauptung über das Interview; das Messverfahren ist inhaltlich relevant."
+          }
+        ]
       }
     },
     {
@@ -2515,10 +2762,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die konkrete Gesamtpunktzahl ist das Ergebnis einer eigenen Messbehauptung und braucht normale Bedeutung unabhängig von der Eis-Titelfrage."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die konkrete Gesamtpunktzahl ist das Ergebnis einer eigenen Messbehauptung und braucht normale Bedeutung unabhängig von der Eis-Titelfrage."
+          }
+        ]
       }
     },
     {
@@ -2567,10 +2833,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die gerundete Laufzeit dient der zeitlichen Orientierung und erhält keinen zusätzlichen Hauptthesenfaktor."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die gerundete Laufzeit dient der zeitlichen Orientierung und erhält keinen zusätzlichen Hauptthesenfaktor."
+          }
+        ]
       }
     },
     {
@@ -2688,10 +2973,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Historisches Detail zu Growian ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die geringe Betriebszeit ist eine normale Sachprämisse des als Fehlschlag diskutierten Growian-Beispiels; sie ist mehr als ein beliebiges historisches Datum."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die geringe Betriebszeit ist eine normale Sachprämisse des als Fehlschlag diskutierten Growian-Beispiels; sie ist mehr als ein beliebiges historisches Datum."
+          }
+        ]
       }
     },
     {
@@ -2757,10 +3061,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Historisches Detail zu Growian ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Das Inbetriebnahmejahr rahmt das historische Growian-Beispiel zeitlich, ohne dessen energetische Einordnung eigenständig zu tragen."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Das Inbetriebnahmejahr rahmt das historische Growian-Beispiel zeitlich, ohne dessen energetische Einordnung eigenständig zu tragen."
+          }
+        ]
       }
     },
     {
@@ -2826,10 +3149,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Historisches Detail zu Growian ohne Einfluss auf die Hauptthese.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Das Abrissjahr ergänzt die historische Chronologie; die Betriebsleistung wird separat erfasst."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Das Abrissjahr ergänzt die historische Chronologie; die Betriebsleistung wird separat erfasst."
+          }
+        ]
       }
     },
     {

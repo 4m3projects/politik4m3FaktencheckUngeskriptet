@@ -240,10 +240,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Das Aufnahmedatum ordnet die Reaktion zeitlich ein, trägt aber keine ihrer fünf Sachkorrekturen."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Das Aufnahmedatum ordnet die Reaktion zeitlich ein, trägt aber keine ihrer fünf Sachkorrekturen."
+          }
+        ]
       }
     },
     {
@@ -320,10 +339,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Der Umfang der behaupteten Auswahl ist eine überprüfbare Grundlage der Repräsentativität; als bloßer Ablaufhinweis ist er zu niedrig angesetzt."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der Umfang der behaupteten Auswahl ist eine überprüfbare Grundlage der Repräsentativität; als bloßer Ablaufhinweis ist er zu niedrig angesetzt."
+          }
+        ]
       }
     },
     {
@@ -389,10 +427,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Der Virusnachweis ist eine eigenständige Sachkorrektur neben den übrigen Themen; ein normaler Faktor ist im dokumentierten Aufbau vertretbar."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der Virusnachweis ist eine eigenständige Sachkorrektur neben den übrigen Themen; ein normaler Faktor ist im dokumentierten Aufbau vertretbar."
+          }
+        ]
       }
     },
     {
@@ -820,10 +877,29 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Kernpunkt der im Titel gestellten Frage zu Musk und Epsteins Insel.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 2,
+            "reason": "Besuchsinteresse und Absagen sind der unmittelbare Sachkern der im Titel gestellten Musk-Frage."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Besuchsinteresse und Absagen sind der unmittelbare Sachkern der im Titel gestellten Musk-Frage."
+          }
+        ]
       }
     },
     {
@@ -892,10 +968,29 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Schlussfolgerung zur im Titel gestellten Frage zu Musk und Epsteins Insel.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 2,
+            "reason": "Die Abgrenzung von Interesse, Besuch und Vergehen beantwortet die Titelfrage und ist ebenso bedeutend wie A0009."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Abgrenzung von Interesse, Besuch und Vergehen beantwortet die Titelfrage und ist ebenso bedeutend wie A0009."
+          }
+        ]
       }
     },
     {
@@ -961,10 +1056,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Zahl früherer Asylbewilligungen ist ein eigenständiger Vergleichsbeleg; sie beantwortet nicht die Musk-Titelfrage."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Zahl früherer Asylbewilligungen ist ein eigenständiger Vergleichsbeleg; sie beantwortet nicht die Musk-Titelfrage."
+          }
+        ]
       }
     },
     {
@@ -1399,10 +1513,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die Identität des unbenannten Statistikfalls trägt den Fallvergleich mit Kaiser; sie ist eine normale Sachprämisse, kein bloßer Macharthinweis."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Identität des unbenannten Statistikfalls trägt den Fallvergleich mit Kaiser; sie ist eine normale Sachprämisse, kein bloßer Macharthinweis."
+          }
+        ]
       }
     },
     {
@@ -1692,10 +1825,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Abgrenzung des Statistikverbots ist eine eigenständige Rechtskorrektur; dieselbe normale Gewichtung wie die übrigen Nebenkomplexe ist nachvollziehbar."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Abgrenzung des Statistikverbots ist eine eigenständige Rechtskorrektur; dieselbe normale Gewichtung wie die übrigen Nebenkomplexe ist nachvollziehbar."
+          }
+        ]
       }
     },
     {
@@ -1833,10 +1985,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": true
+        "assessedBeforeVerdict": true,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Zeitabstände und Indexzählungen tragen eine zusätzliche quantitative Gesamteinordnung; ihre Reproduzierbarkeit ist kein nebensächlicher Ablaufhinweis."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Zeitabstände und Indexzählungen tragen eine zusätzliche quantitative Gesamteinordnung; ihre Reproduzierbarkeit ist kein nebensächlicher Ablaufhinweis."
+          }
+        ]
       }
     }
   ]

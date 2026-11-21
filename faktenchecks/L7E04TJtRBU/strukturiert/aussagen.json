@@ -287,10 +287,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Strittig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Abweichend",
+            "proposedWeight": 1,
+            "reason": "Die Zahl der Prüfpositionen und Kapitel begründet den behaupteten Umfang der eigenen Auswertung; dies ist eine normale Methodenbehauptung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Strittig",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Zahl der Prüfpositionen und Kapitel begründet den behaupteten Umfang der eigenen Auswertung; dies ist eine normale Methodenbehauptung."
+          }
+        ]
       }
     },
     {
@@ -339,10 +358,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Kralls Hauptthese vom bevorstehenden Zusammenbruch, Ausgangspunkt der Besprechung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Die Zusammenbruchsprognose ist im dokumentierten Vergleich der Ausgangspunkt der zu prüfenden Argumentationskette."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Zusammenbruchsprognose ist im dokumentierten Vergleich der Ausgangspunkt der zu prüfenden Argumentationskette."
+          }
+        ]
       }
     },
     {
@@ -447,10 +485,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende Begründung der Zusammenbruchsthese (Zombie-Unternehmen).",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Der Einwand gegen die Zombie-Quote prüft eine tragende Begründung der besprochenen Zusammenbruchsprognose."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der Einwand gegen die Zombie-Quote prüft eine tragende Begründung der besprochenen Zusammenbruchsprognose."
+          }
+        ]
       }
     },
     {
@@ -499,10 +556,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Rechenhilfe zur Einordnung, keine eigenständige Sachaussage mit Gewicht.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die Umrechnung der Frist in Kalenderjahre ist eine abgeleitete Orientierungshilfe, keine zusätzliche ökonomische Begründung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Umrechnung der Frist in Kalenderjahre ist eine abgeleitete Orientierungshilfe, keine zusätzliche ökonomische Begründung."
+          }
+        ]
       }
     },
     {
@@ -604,10 +680,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Prozentrechnung ist eine normale eigenständige Sachkorrektur unter mehreren Themenkomplexen."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Prozentrechnung ist eine normale eigenständige Sachkorrektur unter mehreren Themenkomplexen."
+          }
+        ]
       }
     },
     {
@@ -760,10 +855,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Der kurze Hinweis auf Bens Rückfrage beschreibt den Gesprächsablauf; die eigentlichen Kaufkraftkorrekturen stehen gesondert in A0007 bis A0009."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der kurze Hinweis auf Bens Rückfrage beschreibt den Gesprächsablauf; die eigentlichen Kaufkraftkorrekturen stehen gesondert in A0007 bis A0009."
+          }
+        ]
       }
     },
     {
@@ -1402,10 +1516,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Wiedergabe der IPCC-Zuordnung ist ein normaler Sachbeleg im Klimakomplex; ein Urteil über die ganze Reaktion trägt sie allein nicht."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Wiedergabe der IPCC-Zuordnung ist ein normaler Sachbeleg im Klimakomplex; ein Urteil über die ganze Reaktion trägt sie allein nicht."
+          }
+        ]
       }
     },
     {
@@ -2080,10 +2213,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Die Reichweite der 178 Gruppenpositionen ist eine normale methodische Begrenzung; vergleichbare Umfangsbehauptungen sollten ebenfalls mindestens normal zählen."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Reichweite der 178 Gruppenpositionen ist eine normale methodische Begrenzung; vergleichbare Umfangsbehauptungen sollten ebenfalls mindestens normal zählen."
+          }
+        ]
       }
     },
     {
@@ -2136,10 +2288,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex",
+            "date": "2026-11-21",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Die Existenz einer weiteren Reaktion ist ein Verweis im Vergleich, keine eigenständige Prüfung der ökonomischen Thesen."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-21",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Existenz einer weiteren Reaktion ist ein Verweis im Vergleich, keine eigenständige Prüfung der ökonomischen Thesen."
+          }
+        ]
       }
     },
     {
