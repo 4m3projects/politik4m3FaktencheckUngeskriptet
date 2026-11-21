@@ -74,6 +74,7 @@ function vcItem(entry, c, o, v, ctx) {
     </div>
     <p class="vc-desc">${esc(c.description)}</p>
     ${c.shortReason ? `<p class="vc-short">${esc(c.shortReason)}</p>` : ''}
+    ${fiAttributionNotice(c)}
     ${counterBlock(ctx.counterOf ? ctx.counterOf(c) : [], true)}
     <div class="vc-meta">
       <span class="badge plain">Zeit ${esc(entry.precision || 'unbekannt')}</span>
