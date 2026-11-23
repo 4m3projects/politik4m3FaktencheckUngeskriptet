@@ -1936,6 +1936,20 @@
           ]
         }
       ]
+    },
+    {
+      "id": "R1304",
+      "reactionVideoId": "mv1ZqLrmwH0",
+      "originalVideoId": "mdo14671BPE",
+      "certainty": "Plausibel",
+      "basis": "Auftraggeber hat das verlinkte YouTube-Video am 23.11.2026 als Reaktion auf Ben Berndts Naomi-Seibt-Gespräch eingereicht; Videoidentität, ausdrückliche Originalbezüge und konkrete Aussagen konnten mangels Video-/Transkriptzugriff noch nicht unabhängig kontrolliert werden. Siehe Issue #114.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "change": "[ChatGPT/Kai] Vorläufige Relation anhand der Nutzerangabe erfasst. Keine Aussage-Links ohne nachgeprüfte Original- und Reaktionsstellen."
+        }
+      ],
+      "claimLinks": []
     }
   ]
 }
