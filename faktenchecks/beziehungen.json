@@ -1941,15 +1941,108 @@
       "id": "R1304",
       "reactionVideoId": "mv1ZqLrmwH0",
       "originalVideoId": "mdo14671BPE",
-      "certainty": "Plausibel",
-      "basis": "Auftraggeber hat das verlinkte YouTube-Video am 23.11.2026 als Reaktion auf Ben Berndts Naomi-Seibt-Gespräch eingereicht; Videoidentität, ausdrückliche Originalbezüge und konkrete Aussagen konnten mangels Video-/Transkriptzugriff noch nicht unabhängig kontrolliert werden. Siehe Issue #114.",
+      "certainty": "Belegt",
+      "basis": "Originalplayer und Beschreibung kontrolliert: ausdrücklicher Link auf mdo14671BPE. Deutsches Reaktionstranskript mit Originalabschnitt 2:01:40–2:07:18 verglichen.",
       "history": [
         {
           "date": "2026-11-23",
           "change": "[ChatGPT/Kai] Vorläufige Relation anhand der Nutzerangabe erfasst. Keine Aussage-Links ohne nachgeprüfte Original- und Reaktionsstellen."
+        },
+        {
+          "date": "2026-11-23",
+          "change": "[Codex] Identität und Originalbezug unabhängig kontrolliert, konkrete Aussageverknüpfungen ergänzt. Frühere vorläufige Erfassung bleibt dokumentiert."
         }
       ],
-      "claimLinks": []
+      "claimLinks": [
+        {
+          "id": "L1367",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "mdo14671BPE-A0181",
+          "reactionClaimId": "mv1ZqLrmwH0-A0007",
+          "reactionSeconds": 59,
+          "note": "Gleicher begrenzter biografischer Sachkern; als Fremdeinspieler nicht dem Reaktionskanal zugerechnet."
+        },
+        {
+          "id": "L1368",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0182",
+          "reactionClaimId": "mv1ZqLrmwH0-A0008",
+          "reactionSeconds": 65,
+          "note": "Umzugsmotiv im Original 2:02:53–2:03:04; keine Übernahme der Altbewertung."
+        },
+        {
+          "id": "L1369",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0182",
+          "reactionClaimId": "mv1ZqLrmwH0-A0009",
+          "reactionSeconds": 85,
+          "note": "Kirchlicher Beruf ist überprüft, schließt politische Motive nicht aus."
+        },
+        {
+          "id": "L1370",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0182",
+          "reactionClaimId": "mv1ZqLrmwH0-A0010",
+          "reactionSeconds": 89,
+          "note": "Neu selbst gelesener epd-Nachruf ergänzt den kirchlichen Anlass im Originalcheck; kein Beweis ausschließlich religiöser Motive."
+        },
+        {
+          "id": "L1371",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0183",
+          "reactionClaimId": "mv1ZqLrmwH0-A0015",
+          "reactionSeconds": 153,
+          "note": "Grenz- und Privilegienthese 2:03:04–2:03:28, nicht allein aus dem Wort Templin beurteilt."
+        },
+        {
+          "id": "L1372",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0184",
+          "reactionClaimId": "mv1ZqLrmwH0-A0016",
+          "reactionSeconds": 155,
+          "note": "Privater anonymer Gesprächsbericht 2:03:04–2:03:35; kein verifizierter Stasi-Nachweis."
+        },
+        {
+          "id": "L1373",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0185",
+          "reactionClaimId": "mv1ZqLrmwH0-A0018",
+          "reactionSeconds": 199,
+          "note": "Gezeigter Agentenverdacht; die Reaktion distanziert sich. Eigene Nachprüfung bleibt offen."
+        },
+        {
+          "id": "L1374",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "mdo14671BPE-A0192",
+          "reactionClaimId": "mv1ZqLrmwH0-A0022",
+          "reactionSeconds": 248,
+          "note": "Gleiche Gerichtsparaphrase im Original ab 2:05:20; dieselbe begrenzte Kontextbewertung nach eigener Quellenlektüre."
+        },
+        {
+          "id": "L1375",
+          "type": "ergaenzt",
+          "originalClaimId": "mdo14671BPE-A0185",
+          "reactionClaimId": "mv1ZqLrmwH0-A0028",
+          "reactionSeconds": 341,
+          "note": "Keine gerichtlichen Anhaltspunkte für gezielte Begünstigung; logisch keine vollständige Widerlegung jeder denkbaren Tätigkeit."
+        },
+        {
+          "id": "L1376",
+          "type": "gegenbehauptung",
+          "originalClaimId": "mdo14671BPE-A0192",
+          "reactionClaimId": "mv1ZqLrmwH0-A0029",
+          "reactionSeconds": 349,
+          "note": "Die belegte Gegenprüfung nennt eine andere tatsächlich veröffentlichte Zugangsbegründung. Kein bewiesenes Auslassungsmotiv und keine sichere Identifikation eines anderen Verfahrens."
+        },
+        {
+          "id": "L1377",
+          "type": "gibt_wieder",
+          "originalClaimId": "mdo14671BPE-A0193",
+          "reactionClaimId": "mv1ZqLrmwH0-A0031",
+          "reactionSeconds": 375,
+          "note": "Vernichtungs-/Kopienspekulation aus 2:05:55–2:06:19; keine Übernahme als Kanalaussage."
+        }
+      ]
     }
   ]
 }

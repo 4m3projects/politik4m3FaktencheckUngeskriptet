@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mv1ZqLrmwH0",
+  "review": {
+    "status": "Teilweise geprüft",
+    "checkedOn": "2026-11-23",
+    "by": "Codex",
+    "basis": "[Codex] Originalplayer-Transkript mit Gesprächsumfeld selbst gelesen; keine vollständige Hör-/Sichtkontrolle. Einordnung der Argumentationsweise getrennt vom Sachurteil.",
+    "coverage": "Vier Hinweise zu vier Prüfgegenständen nach vollständiger Textdurchsicht, keine vollständige audiovisuelle Rhetorikkodierung.",
+    "limits": [
+      "Tonfall und sämtliche Bilder nicht vollständig kontrolliert.",
+      "Persönlicher Name und Stimme der Moderation nicht unabhängig bestätigt.",
+      "KI-Vorschläge, keine redaktionelle Zweitbestätigung."
+    ],
+    "history": [
+      {
+        "date": "2026-11-23",
+        "by": "Codex",
+        "change": "Eigenständige zusätzliche Darstellungsebene für die neue Reaktion erfasst."
+      }
+    ]
+  },
+  "annotations": [
+    {
+      "id": "mv1ZqLrmwH0-R0001",
+      "claimId": "mv1ZqLrmwH0-A0017",
+      "feature": "ironie",
+      "startSeconds": 160,
+      "endSeconds": 170,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationsrolle und Einspielwechsel im Originaltext; kein bestätigter persönlicher Name oder Stimmabgleich."
+      },
+      "observation": "Die Moderation erfindet spiegelbildlich zahlreiche nicht nennbare eigene Gesprächspartner.",
+      "reason": "Die parallele Form soll zeigen, warum eine anonyme Quellenbehauptung allein keine unabhängige Bestätigung liefert.",
+      "context": "Kritische Reaktion auf Seibts Erzählung; fremde Einspieler werden dem Kanal nicht als eigene Behauptung zugerechnet.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatischer Text und begrenzte Bildkontrolle; Tonfall, genaue Schnittgrenzen und vollständiger Bildkontext nicht kontrolliert. Korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "[Codex] Originalplayer-Transkript mit Gesprächsumfeld selbst gelesen; keine vollständige Hör-/Sichtkontrolle. Einordnung der Argumentationsweise getrennt vom Sachurteil.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Erstmalig nach Originaltext-Lektüre erfasst; kein Einfluss auf Faktenindex oder Faktenurteil."
+        }
+      ]
+    },
+    {
+      "id": "mv1ZqLrmwH0-R0002",
+      "claimId": "mv1ZqLrmwH0-A0020",
+      "feature": "ironie",
+      "startSeconds": 424,
+      "endSeconds": 439,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationsrolle und Einspielwechsel im Originaltext; kein bestätigter persönlicher Name oder Stimmabgleich."
+      },
+      "observation": "Eine folgende Frage Bens wird scheinbar lobend als kritisch angekündigt, im Anschluss aber wegen ihres Ansatzes beanstandet.",
+      "reason": "Das scheinbare Lob steht im Gegensatz zur anschließenden Moderationskritik.",
+      "context": "Kritische Reaktion auf Seibts Erzählung; fremde Einspieler werden dem Kanal nicht als eigene Behauptung zugerechnet.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatischer Text und begrenzte Bildkontrolle; Tonfall, genaue Schnittgrenzen und vollständiger Bildkontext nicht kontrolliert. Korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "[Codex] Originalplayer-Transkript mit Gesprächsumfeld selbst gelesen; keine vollständige Hör-/Sichtkontrolle. Einordnung der Argumentationsweise getrennt vom Sachurteil.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Erstmalig nach Originaltext-Lektüre erfasst; kein Einfluss auf Faktenindex oder Faktenurteil."
+        }
+      ]
+    },
+    {
+      "id": "mv1ZqLrmwH0-R0003",
+      "claimId": "mv1ZqLrmwH0-A0010",
+      "feature": "tunnelblick",
+      "startSeconds": 85,
+      "endSeconds": 149,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationsrolle und Einspielwechsel im Originaltext; kein bestätigter persönlicher Name oder Stimmabgleich."
+      },
+      "observation": "Pfarrdienst und christlicher Umzugsanlass werden als scharfer Einwand gegen die politische Motiverzählung eingesetzt.",
+      "reason": "Ein kirchlicher Anlass schließt weitere politische Überzeugungen nicht aus. Die anschließende moralische Zuspitzung kann diese Vereinbarkeit verdecken; der belegte Sachkern zum Pfarrermangel bleibt davon unberührt.",
+      "context": "Kritische Reaktion auf Seibts Erzählung; fremde Einspieler werden dem Kanal nicht als eigene Behauptung zugerechnet.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatischer Text und begrenzte Bildkontrolle; Tonfall, genaue Schnittgrenzen und vollständiger Bildkontext nicht kontrolliert. Korrigierbarer KI-Vorschlag.",
+      "missingInformation": {
+        "what": "Kasners kirchenpolitische Haltung und die Vereinbarkeit religiöser und politischer Motive.",
+        "source": "https://www.evangelisch.de/inhalte/106181/03-09-2011",
+        "reasoning": "Der gelesene Nachruf nennt den kirchlichen Umzugsanlass und beschreibt zugleich die spätere Position zur Kirche im Sozialismus; Lepps Forschung unterscheidet mehrere Motive."
+      },
+      "status": "KI-Vorschlag",
+      "basis": "[Codex] Originalplayer-Transkript mit Gesprächsumfeld selbst gelesen; keine vollständige Hör-/Sichtkontrolle. Einordnung der Argumentationsweise getrennt vom Sachurteil.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Erstmalig nach Originaltext-Lektüre erfasst; kein Einfluss auf Faktenindex oder Faktenurteil."
+        }
+      ]
+    },
+    {
+      "id": "mv1ZqLrmwH0-R0004",
+      "claimId": "mv1ZqLrmwH0-A0029",
+      "feature": "gegenposition",
+      "startSeconds": 349,
+      "endSeconds": 358,
+      "speaker": {
+        "id": "SP01",
+        "attribution": "Plausibel",
+        "basis": "Moderationsrolle und Einspielwechsel im Originaltext; kein bestätigter persönlicher Name oder Stimmabgleich."
+      },
+      "observation": "Der fremden Gerichtsparaphrase wird eine lesbare Gerichtsquelle mit anderer Zugangsbegründung gegenübergestellt.",
+      "reason": "Der sachliche Vergleich ist nachvollziehbar. Daraus folgt weder eine sichere bewusste Täuschung noch die Unmöglichkeit jeder Stasi-Tätigkeit.",
+      "context": "Kritische Reaktion auf Seibts Erzählung; fremde Einspieler werden dem Kanal nicht als eigene Behauptung zugerechnet.",
+      "assessment": "Möglich",
+      "reliability": "Mittel",
+      "uncertainty": "Automatischer Text und begrenzte Bildkontrolle; Tonfall, genaue Schnittgrenzen und vollständiger Bildkontext nicht kontrolliert. Korrigierbarer KI-Vorschlag.",
+      "missingInformation": null,
+      "status": "KI-Vorschlag",
+      "basis": "[Codex] Originalplayer-Transkript mit Gesprächsumfeld selbst gelesen; keine vollständige Hör-/Sichtkontrolle. Einordnung der Argumentationsweise getrennt vom Sachurteil.",
+      "history": [
+        {
+          "date": "2026-11-23",
+          "by": "Codex",
+          "change": "Erstmalig nach Originaltext-Lektüre erfasst; kein Einfluss auf Faktenindex oder Faktenurteil."
+        }
+      ]
+    }
+  ]
+}

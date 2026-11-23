@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0008",
+  "revision": 1,
+  "claim": "Die Mitteilung des VG Berlin zum Merkel-Aktenzugang vom 26.03.2026 nennt Zugangsregeln und Persönlichkeitsrechte als Ablehnungsgrund, keinen drohenden Regierungsschaden.",
+  "topics": [
+    "stasi"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Der begrenzte Textbefund wurde an der Originalmitteilung kontrolliert. Er beweist keine vollständige Kenntnis aller Akten oder die Rechtskraft des Urteils.",
+  "validity": {
+    "asOf": "2026-11-23",
+    "timeScope": "Pressemitteilung zum Urteil vom 12.03.2026, VG 1 K 297/23; keine Aussage über spätere Rechtsmittel.",
+    "subjectScope": "Begründung des bezeichneten Zugangsverfahrens; kein Gesamturteil über Agententätigkeit oder andere Verfahren.",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-23",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "VG Berlin: Stasi-Unterlagen zu Angela Merkel – kein Herausgabeanspruch",
+      "url": "https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2026/pressemitteilung.1656474.php",
+      "details": "Pressemitteilung Nr. 19/2026 vom 26.03.2026, Sachtext vollständig selbst gelesen.",
+      "accessedOn": "2026-11-23",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "mdo14671BPE-A0192",
+      "repo": null,
+      "relation": "widerspricht",
+      "contextNote": "Die Originalparaphrase nennt Regierungsschaden; beim konkret identifizierten Verfahren ist eine andere Begründung dokumentiert. Anderes mögliches Verfahren bleibt ungeklärt.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-23"
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0029",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Die eigene Reaktionskorrektur behandelt genau die Abweichung zwischen Paraphrase und identifizierter Mitteilung.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-23"
+    },
+    {
+      "claimId": "zUnxDR5ttRU-A0038",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Hanks geprüfte Aussage behandelt dieselbe Mitteilung mit weiteren Rollen-/Begünstigungsaspekten; nur der eng bezeichnete Begründungskern ist gemeinsam.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-23"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-23",
+      "agent": "Codex",
+      "change": "Neuer eng begrenzter gemeinsamer Quellenbefund nach eigener Lektüre und Reaktionsrückabgleich; keine frühere KI-Bewertung als Beleg verwendet.",
+      "previous": null
+    }
+  ]
+}
