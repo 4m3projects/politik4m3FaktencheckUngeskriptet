@@ -217,6 +217,36 @@ test('Prüfung der factIndex-Felder: Begründungspflicht, Skala, Kontrolle durch
   assert.match(FI.validateData(data([claim('Belegt', { factIndex: { duplicateOf: 'gibt-es-nicht' } })])).join(), /unbekannte/);
 });
 
+test('Gewichtskontrollen: ISO-Datum und bei gleichem Tag die Eintragsreihenfolge entscheiden', () => {
+  const review = (result, date) => ({
+    agent: 'ChatGPT', date, result, reason: 'Begründete Kontrolle im synthetischen Testfall.',
+    ...(result === 'Abweichend' ? { proposedWeight: 1 } : {})
+  });
+  const dissent = date => review('Abweichend', date);
+  const confirm = date => review('Bestätigt', date);
+  const cases = [
+    ['späterer ISO-Tag bestätigt', [dissent('2026-11-21'), confirm('2026-11-22')], true],
+    ['Monatswechsel bestätigt', [dissent('2026-10-31'), confirm('2026-11-01')], true],
+    ['Jahreswechsel bestätigt', [dissent('2026-12-31'), confirm('2027-01-01')], true],
+    ['frühere Bestätigung reicht nicht', [confirm('2026-11-20'), dissent('2026-11-21')], false],
+    ['später eingetragene ältere Bestätigung reicht nicht', [dissent('2026-11-22'), confirm('2026-11-21')], false],
+    ['nachgetragene ältere Abweichung hebt spätere Bestätigung nicht auf', [confirm('2026-11-22'), dissent('2026-11-21')], true],
+    ['gleicher Tag: nachfolgende Bestätigung reicht', [dissent('2026-11-21'), confirm('2026-11-21')], true],
+    ['gleicher Tag: vorherige Bestätigung reicht nicht', [confirm('2026-11-21'), dissent('2026-11-21')], false],
+    ['Bestätigung nach mehreren Abweichungen reicht', [dissent('2026-11-20'), dissent('2026-11-21'), confirm('2026-11-22')], true],
+    ['erneute spätere Abweichung bleibt strittig', [dissent('2026-11-20'), confirm('2026-11-21'), dissent('2026-11-22')], false],
+    ['erneute Abweichung am selben Tag bleibt strittig', [dissent('2026-11-21'), confirm('2026-11-21'), dissent('2026-11-21')], false]
+  ];
+  for (const [label, reviews, accepted] of cases) {
+    const c = claim('Belegt', { factIndex: { ...weighted(2).factIndex, weightStatus: 'Gegengeprüft', reviews } });
+    const before = JSON.stringify(c);
+    const errors = FI.validateData(data([c]));
+    if (accepted) assert.deepEqual(errors, [], label);
+    else assert.match(errors.join(), /Nach einer abweichenden Kontrolle ist der Faktor strittig/, label);
+    assert.equal(JSON.stringify(c), before, `${label}: Reviews und Daten bleiben unverändert`);
+  }
+});
+
 test('Bedeutungsfaktor: Standard 1,0 und Stufenbezeichnungen', () => {
   assert.equal(FI.weightOf(claim('Belegt')), 1);
   assert.equal(FI.weightLabel(0.5), 'Nebensächliche Aussage');

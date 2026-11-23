@@ -317,7 +317,12 @@
         if (txt(r?.agent) && r.agent === x.assessedBy) e.push(`${ra}: Kontrolle muss von einem anderen Agenten stammen als die Einschätzung.`);
       });
       if ('weight' in x && x.weightStatus === 'Gegengeprüft' && (!Array.isArray(x.reviews) || !x.reviews.some(r => r?.result === 'Bestätigt'))) e.push(`${at}: „Gegengeprüft“ braucht mindestens eine bestätigende Kontrolle.`);
-      if ('weight' in x && x.weightStatus === 'Gegengeprüft' && Array.isArray(x.reviews) && x.reviews.some(r => r?.result === 'Abweichend') && !x.reviews.some(r => r?.result === 'Bestätigt' && r.date >= Math.max(...x.reviews.filter(y => y?.result === 'Abweichend').map(y => y.date)))) e.push(`${at}: Nach einer abweichenden Kontrolle ist der Faktor strittig, bis eine spätere Kontrolle ihn bestätigt.`);
+      if ('weight' in x && x.weightStatus === 'Gegengeprüft' && Array.isArray(x.reviews)) {
+        // ISO-Daten sind lexikografisch geordnet; am selben Tag zählt die Reihenfolge in reviews.
+        const confirmedAfterDissent = x.reviews.some((r, i) => r?.result === 'Bestätigt' &&
+          x.reviews.every((y, j) => y?.result !== 'Abweichend' || r.date > y.date || (r.date === y.date && i > j)));
+        if (x.reviews.some(r => r?.result === 'Abweichend') && !confirmedAfterDissent) e.push(`${at}: Nach einer abweichenden Kontrolle ist der Faktor strittig, bis eine spätere Kontrolle ihn bestätigt.`);
+      }
     } else if ('weight' in x && x.weightStatus === 'Gegengeprüft') e.push(`${at}: „Gegengeprüft“ braucht mindestens eine bestätigende Kontrolle.`);
     if ('history' in x) {
       if (!Array.isArray(x.history)) e.push(`${at}.history muss eine Liste sein.`);
