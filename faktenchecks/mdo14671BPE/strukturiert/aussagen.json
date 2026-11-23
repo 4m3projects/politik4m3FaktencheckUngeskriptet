@@ -5,12 +5,12 @@
     "videoId": "mdo14671BPE",
     "videoUrl": "https://www.youtube.com/watch?v=mdo14671BPE",
     "durationSeconds": 10118,
-    "asOf": "2026-11-20",
+    "asOf": "2026-11-23",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge. [Codex] 20.11.2026: Beide offenen Werbeaussagen im Originaltranskript abgeglichen und anhand öffentlicher Buchseiten und des Kindle-Inhaltsverzeichnisses weiter geprüft.",
+    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge. [Codex] 20.11.2026: Beide offenen Werbeaussagen im Originaltranskript abgeglichen und anhand öffentlicher Buchseiten und des Kindle-Inhaltsverzeichnisses weiter geprüft. Gezielte Reaktionsnachprüfung 23.11.2026 [Codex]: A0182 durch epd-Nachruf ergänzt, Originalstellen 2:01:40–2:07:18 erneut textlich abgeglichen; keine Urteilsänderung.",
     "coverageNote": "Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Am 20.11.2026 Werbekennzeichnung bei 00:10:39 im Originalbild kontrolliert. Keine vollständige Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Die Buchvorschauen bestätigen das 16-Wochen-Beispiel und zeigen den Einstieg. Zwei Buchaussagen bleiben bis zur Prüfung der späteren Transaktionen und der vollständigen Anleitung offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9."
   },
   "legacyPoints": [],
@@ -1262,6 +1262,14 @@
       "details": "Automatisches deutsches Transkript im Originalplayer, Segmente ab 00:10:31, 00:10:38 und 00:10:46.",
       "accessedOn": "2026-11-20",
       "accessBasis": "Zusammenhängende Werbepassage gelesen. Das bei 00:10:39 sichtbare Originalbild kennzeichnet sie als Werbung. Keine akustische Sprecherbestätigung."
+    },
+    {
+      "id": "S157",
+      "title": "epd: Angela Merkel trauert um ihren Vater",
+      "url": "https://www.evangelisch.de/inhalte/106181/03-09-2011",
+      "details": "03.09.2011; zeitgenössischer Nachruf mit kirchlichen Auskünften. Sekundärquelle.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Beruf, Umzug 1954 als Reaktion auf Pfarrermangel und spätere Position zur Kirche im Sozialismus gelesen. Der Nachruf belegt keine Ausschließlichkeit persönlicher Umzugsmotive."
     }
   ],
   "speakers": [
@@ -10975,13 +10983,13 @@
       "description": "Merkels Vater sei aus sozialistischer Überzeugung und wegen erwarteter Privilegien in die DDR gezogen.",
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
-      "reason": "Nach der Tertiärquelle zog Kasner 1954 auf Wunsch des Hamburger Jugendpfarrers Hans-Otto Wölber in die DDR, weil dort Pfarrer fehlten; eine kirchliche Vermittlung solcher Wechsel beschreibt auch der Fachbeitrag. Später hatte er Privilegien wie Westreisen. Für eine sozialistische Überzeugung als Umzugsmotiv oder für schon damals erwartete Privilegien hat Claude keinen Beleg gefunden; die dokumentierten Umstände sprechen für einen kirchlichen Anlass.",
+      "reason": "Nach der Tertiärquelle zog Kasner 1954 auf Wunsch des Hamburger Jugendpfarrers Hans-Otto Wölber in die DDR, weil dort Pfarrer fehlten; eine kirchliche Vermittlung solcher Wechsel beschreibt auch der Fachbeitrag. Später hatte er Privilegien wie Westreisen. Für eine sozialistische Überzeugung als Umzugsmotiv oder für schon damals erwartete Privilegien hat Claude keinen Beleg gefunden; die dokumentierten Umstände sprechen für einen kirchlichen Anlass. Ergänzung 23.11.2026 [Codex]: Der vollständig gelesene zeitgenössische epd-Nachruf vom 03.09.2011 nennt ebenfalls den kirchlichen Ruf wegen Pfarrermangels und Kasners spätere Position zur Kirche im Sozialismus. Der Umzugsanlass ist damit zusätzlich gestützt; erwartete Privilegien oder ausschließlich religiöse Motive sind weiterhin nicht nachgewiesen. Urteil unverändert.",
       "shortReason": "Belegt ist ein kirchlicher Anlass für den Umzug wegen Pfarrermangels; für sozialistische Überzeugung als Motiv fehlt ein Beleg.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt. Ergänzung 23.11.2026 [Codex]: Begründung und Quelle S157 ergänzt; vorher und nachher Nicht ausreichend belegbar. Frühere Begründung und Recherchedurchgänge bleiben erhalten."
       },
       "sourceRefs": [
         {
@@ -10995,6 +11003,10 @@
         {
           "sourceId": "S118",
           "note": "Umzug auf Wunsch Wölbers wegen Pfarrermangels (ohne Fußnote); spätere Privilegien."
+        },
+        {
+          "sourceId": "S157",
+          "note": "Neu selbst gelesener epd-Nachruf nennt den Ruf der unter Pfarrermangel leidenden Kirchen. Kein Ausschließlichkeitsbeweis über persönliche Motive."
         }
       ],
       "openQuestions": [
@@ -11041,6 +11053,16 @@
             "strategy": "Zweiter Durchgang: Deutsche Biographie und Nachrufe auf Kasner gesucht.",
             "sourceIds": [],
             "result": "Deutsche Biographie nur mit Registereintrag ohne Motiv; Nachruf des Tagesspiegels nur teilweise lesbar (Bezahlschranke), Motiv im lesbaren Teil nicht genannt."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Rückabgleich aus Klupatwins-Reaktion nach gezielter Wissenssuche: epd-Nachruf vollständig geöffnet, Lepps Fachbeitrag erneut gelesen; Umzugsanlass von späterer politischer Haltung getrennt.",
+            "sourceIds": [
+              "S157",
+              "S105"
+            ],
+            "result": "Zusätzlicher zeitgenössischer Nachruf stützt kirchlichen Anlass; keine Umwertung der zusammengesetzten Motiv- und Privilegienthese."
           }
         ],
         "missingInformation": "Eine biografische Fachquelle zu Kasners eigenen Motiven für den Umzug 1954.",

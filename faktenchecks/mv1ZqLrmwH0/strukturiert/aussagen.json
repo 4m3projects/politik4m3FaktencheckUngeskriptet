@@ -1,0 +1,2837 @@
+{
+  "schemaVersion": 2,
+  "scope": {
+    "kind": "Teilbestand",
+    "videoId": "mv1ZqLrmwH0",
+    "videoUrl": "https://www.youtube.com/watch?v=mv1ZqLrmwH0",
+    "durationSeconds": 531,
+    "asOf": "2026-11-23",
+    "baselineCommit": null,
+    "selectedLegacyIds": [],
+    "totalLegacyPoints": 0,
+    "unmigratedLegacyPoints": 0,
+    "researchNote": "[Codex] Eigenständige Fortsetzung von Issue #114. Vollständiges deutsches Originalplayer-Transkript gelesen, Originalinterview 2:00:03–2:10:42 textlich rückabgeglichen und verzeichnete Sachquellen selbst gelesen. Keine vidIQ-Credits eingesetzt. Keine vollständige audiovisuelle oder unabhängige redaktionelle Zweitprüfung. Bedeutungsfaktoren vorläufig, nach Kenntnis der Urteile begründet.",
+    "coverageNote": "Textinventar über 00:00–08:51 einschließlich Auftakt, fünf Themenabschnitten und Twitch-Eigenwerbung. 36 Prüfgegenstände; wiederholte Aussagen zusammengeführt. Fremde Einspieler sind ausdrücklich von eigenen Kanalaussagen getrennt. Player-Transkript und Export haben abweichende Segmentgrenzen; letzte Textzeile 08:49, Rest bis 08:51 nicht akustisch kontrolliert. Einzelbilder bei etwa 00:25 und 05:25 geprüft; keine vollständige Kontrolle von Ton, Mimik, Schnitt oder textfreien Einblendungen. Daher Teilbestand und kein Anspruch auf audiovisuelle Vollständigkeit."
+  },
+  "legacyPoints": [],
+  "sources": [
+    {
+      "id": "S001",
+      "title": "Klupatwins: ZU PEINLICH! Wildes GESCHWURBEL bei Ben {ungeskriptet} über Angela Merkel",
+      "url": "https://www.youtube.com/watch?v=mv1ZqLrmwH0",
+      "details": "Originalplayer: 08:51; angezeigtes Datum 17.11.2026, zugleich Beginn der Mitgliederfreigabe. Separater öffentlicher Freigabezeitpunkt nicht gesichert.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche."
+    },
+    {
+      "id": "S002",
+      "title": "Naomi Seibt bei Ben: Ich kenne Merkels größtes Geheimnis",
+      "url": "https://www.youtube.com/watch?v=mdo14671BPE",
+      "details": "Originalplayer: 02:48:38. Von der Reaktionsbeschreibung ausdrücklich verlinkt.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Originalplayer geöffnet, automatisches deutsches Transkript privat exportiert; Zusammenhang 02:00:03–02:10:42 gelesen, insbesondere 02:01:40–02:07:18. Keine vollständige Sichtung des Interviews und keine bestätigte Stimmenidentifikation."
+    },
+    {
+      "id": "S003",
+      "title": "VG Berlin: Stasi-Unterlagen zu Angela Merkel – kein Herausgabeanspruch",
+      "url": "https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2026/pressemitteilung.1656474.php",
+      "details": "Pressemitteilung 19/2026 vom 26.03.2026; Urteil vom 12.03.2026, VG 1 K 297/23.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Gesamten Sachtext der gerichtlichen Pressemitteilung gelesen und die im Reaktionsbild erkennbare URL abgeglichen. Gerichtliche Entscheidungsmitteilung, kein gelesener Urteilsvolltext und keine Prüfung späterer Rechtsmittel."
+    },
+    {
+      "id": "S004",
+      "title": "Stasi-Unterlagen-Gesetz: § 32",
+      "url": "https://www.gesetze-im-internet.de/stug/__32.html",
+      "details": "Amtlicher Normtext beim Abruf; besonders Absatz 1 Nr. 3–5.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Zugangsregeln, Rollenbezug, Einwilligung und Schutzabwägung gelesen. Gegenkontrolle zur verkürzten Wiedergabe der Gerichtsmeldung; keine Einzelfallberatung."
+    },
+    {
+      "id": "S005",
+      "title": "LeMO: Biografie Angela Merkel",
+      "url": "https://www.hdg.de/lemo/biografie/angela-merkel.html",
+      "details": "Stiftung Haus der Geschichte, Textstand 10.03.2022.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Stationen 1954, 1957, Schulzeit und Wahl 2005 gelesen; keine aktuelle Personenbewertung."
+    },
+    {
+      "id": "S006",
+      "title": "Deutscher Bundestag: Föderalismusreform und Finanzkrise 2005–2009",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/wahlperioden-16-205348",
+      "details": "Historischer Überblick des Bundestages.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Abschnitt zur Regierungsbildung und Wahl Merkels durch den Bundestag am 22.11.2005 gelesen."
+    },
+    {
+      "id": "S007",
+      "title": "Claudia Lepp: Gegen den Strom",
+      "url": "https://www.evangelisch.de/inhalte/132027/29-02-2016/warum-theologen-den-fuenfziger-jahren-von-der-bundesrepublik-die-ddr-gingen",
+      "details": "29.02.2016, Forschungsstellenleiterin für Kirchliche Zeitgeschichte; Bericht über eigene historische Forschung.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Artikel vollständig gelesen: Pfarrermangel, kirchliche Vermittlung und unterschiedliche religiöse, familiäre sowie politische Motive. Kasner wird als Beispiel genannt; keine individuelle vollständige Motivrekonstruktion."
+    },
+    {
+      "id": "S008",
+      "title": "epd: Angela Merkel trauert um ihren Vater",
+      "url": "https://www.evangelisch.de/inhalte/106181/03-09-2011",
+      "details": "03.09.2011; zeitgenössischer Nachruf mit kirchlichen Auskünften. Sekundärquelle.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Beruf, Umzug 1954 als Reaktion auf Pfarrermangel und spätere Position zur Kirche im Sozialismus gelesen. Der Nachruf belegt keine Ausschließlichkeit persönlicher Umzugsmotive."
+    },
+    {
+      "id": "S009",
+      "title": "Wissenschaftliche Dienste: Menschenrechtsverletzungen und Verfassungswirklichkeit in der DDR",
+      "url": "https://www.bundestag.de/resource/blob/411698/671f7828891e9b599bf349fd0545ab1a/wd-1-060-09-pdf-data.pdf",
+      "details": "WD 1 – 3000 – 060/09, Abschluss 24.04.2009. Fachverantwortung der Verfassenden, keine Position des Bundestages.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Abschnitt 2.1.5 Religionsfreiheit auf gedruckter Seite 8 gelesen. Historische Synthese zur Benachteiligung von Christen, keine Untersuchung von Kasners persönlicher Motivation."
+    },
+    {
+      "id": "S010",
+      "title": "Bundesarchiv: DDR im Blick, Bischofswahl 1966",
+      "url": "https://www.ddr-im-blick.de/jahrgaenge/jahrgang-1966/report/bischofswahl-evangelischen-landeskirche-berlin-brandenburg/",
+      "details": "Quellenedition mit historischer Kommentierung.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Biografische Herausgeberfußnote 44 zu Horst Kasners Pfarrdienst und Umzug gelesen. Wertungen des historischen MfS-Berichts werden nicht als eigene Tatsachenfeststellungen übernommen."
+    },
+    {
+      "id": "S011",
+      "title": "Twitch: Klupatwins – Videoarchiv",
+      "url": "https://www.twitch.tv/klupatwins/videos",
+      "details": "Öffentliches Kanalarchiv beim Abruf.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Abruf lieferte keinen lesbaren Archivinhalt. Kein Beleg für oder gegen eine ununterbrochene Übertragung von 1.400 Stunden."
+    }
+  ],
+  "speakers": [
+    {
+      "id": "SP01",
+      "name": "Moderation Klupatwins",
+      "videoRole": "Ersteller/Moderation der Reaktion",
+      "identityBasis": "Kanal im Originalplayer und Moderations-/Einspielkontext; persönlicher Name und Stimme nicht unabhängig bestätigt."
+    },
+    {
+      "id": "SP02",
+      "name": "Naomi Seibt",
+      "videoRole": "Gast im zitierten Originalinterview",
+      "identityBasis": "Originalvergleich und Interviewrolle; plausible, keine akustisch bestätigte Zuordnung."
+    },
+    {
+      "id": "SP03",
+      "name": "Ben Berndt",
+      "videoRole": "Host im zitierten Originalinterview",
+      "identityBasis": "Originalvergleich und Gesprächsrolle; plausible, keine akustisch bestätigte Zuordnung."
+    }
+  ],
+  "claims": [
+    {
+      "id": "mv1ZqLrmwH0-A0001",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Originalinterview dauert knapp drei Stunden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Originalplayer zeigt 2:48:38. Die gerundete Beschreibung ist angemessen.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0001",
+          "startSeconds": 25,
+          "endSeconds": 29,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Laufzeitangabe zur Form der Reaktion, kein Argument für die Merkel-These.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S002"
+            ],
+            "result": "Der Originalplayer zeigt 2:48:38. Die gerundete Beschreibung ist angemessen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0002",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Originalvideo hatte bei Erstellung der Reaktion über eine Million Aufrufe.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – ein unabhängig datierter Abruf der Aufrufzahl zum Herstellungszeitpunkt fehlt; heutige Zähler ersetzen ihn nicht.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [
+        "Historische Metadaten oder eine zeitlich zuordenbare Zähler-Einblendung zum Aufnahmetag kontrollieren."
+      ],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0002",
+          "startSeconds": 29,
+          "endSeconds": 37,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige historische Reichweitenzahl im Auftakt; kein Sachbeleg zum Stasi-Thema.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Noch nicht geprüft – ein unabhängig datierter Abruf der Aufrufzahl zum Herstellungszeitpunkt fehlt; heutige Zähler ersetzen ihn nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0003",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Originalvideo hatte bei Erstellung der Reaktion über 36.000 positive Bewertungen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der historische Like-Zähler ist nicht unabhängig gesichert; die bloße Wiederholung durch den Kanal ist kein externer Nachweis.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [
+        "Historische Metadaten oder eine datierte Einblendung der positiven Bewertungen kontrollieren."
+      ],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0003",
+          "startSeconds": 29,
+          "endSeconds": 37,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufige historische Reichweitenzahl, unabhängig vom Urteil niedrig gewichtet.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Noch nicht geprüft – der historische Like-Zähler ist nicht unabhängig gesichert; die bloße Wiederholung durch den Kanal ist kein externer Nachweis."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0004",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 1,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Reaktion beschränkt ihre Ausschnitte aus dem Interview auf den Merkel-Komplex.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die vollständig gelesene Reaktion behandelt diese Passage einschließlich des vorausgehenden CDU-Satzes und Bens anschließender Asyl-Hypothese. Weitere Themen werden am Ende nur angekündigt.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0004",
+          "startSeconds": 34,
+          "endSeconds": 42,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Selbstbeschreibung der Themenauswahl; keine sachliche Stütze der zentralen Kritik.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Die vollständig gelesene Reaktion behandelt diese Passage einschließlich des vorausgehenden CDU-Satzes und Bens anschließender Asyl-Hypothese. Weitere Themen werden am Ende nur angekündigt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0005",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Merkels Kanzlerschaft sei als übergeordnetes Konstrukt gezielt eingefädelt worden.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die unbestimmte Steuerungsthese benennt hier weder Akteure noch überprüfbare Absprachen; eine Prüfung konkreter historischer Belege ist ausstehend.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [
+        "Den Originalkontext zu Polenz und zur behaupteten Steuerung präzisieren; konkrete Akteure und Belege vor einem Sachurteil bestimmen."
+      ],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0005",
+          "startSeconds": 42,
+          "endSeconds": 53,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Naomi Seibt",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Die Moderation zeigt die Stelle als Gegenstand ihrer Kritik und übernimmt deren Schlussfolgerung nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Noch nicht geprüft – die unbestimmte Steuerungsthese benennt hier weder Akteure noch überprüfbare Absprachen; eine Prüfung konkreter historischer Belege ist ausstehend."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0006",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Angela Merkel wurde zur Bundeskanzlerin gewählt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Bundestag dokumentiert ihre Wahl am 22.11.2005. Gemeint ist die parlamentarische Wahl, keine Direktwahl durch die Bevölkerung.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S006",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0006",
+          "startSeconds": 53,
+          "endSeconds": 59,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S006"
+            ],
+            "result": "Der Bundestag dokumentiert ihre Wahl am 22.11.2005. Gemeint ist die parlamentarische Wahl, keine Direktwahl durch die Bevölkerung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0007",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Merkel wurde im Westen geboren und wuchs in der DDR auf.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "LeMO nennt Hamburg als Geburtsort, den Umzug der Familie 1954 und die Kindheit in Templin. Daraus folgt keine Geheimdiensttätigkeit.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S005",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0007",
+          "startSeconds": 59,
+          "endSeconds": 70,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Naomi Seibt",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Die Reaktion kritisiert anschließend die Motiverklärung des Vaters; den biografischen Ausgangspunkt widerlegt sie nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S005"
+            ],
+            "result": "LeMO nennt Hamburg als Geburtsort, den Umzug der Familie 1954 und die Kindheit in Templin. Daraus folgt keine Geheimdiensttätigkeit."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0008",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kasner sei aus sozialistischer Überzeugung und wegen erwarteter Privilegien in die DDR gezogen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – kirchlicher Beruf und Pfarrermangel erklären den dokumentierten Anlass, schließen zusätzliche politische Motive aber nicht logisch aus. Die zusammengesetzte Motiv- und Privilegienthese wird hier nicht abschließend entschieden.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [
+        "Zeitgenössische Selbstaussagen oder belastbare biografische Forschung zu Kasners individuellen Motiven und damaligen Erwartungen prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0008",
+          "startSeconds": 65,
+          "endSeconds": 78,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Naomi Seibt",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Die Moderation zeigt die Stelle als Gegenstand ihrer Kritik und übernimmt deren Schlussfolgerung nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S007",
+              "S008",
+              "S010"
+            ],
+            "result": "Noch nicht geprüft – kirchlicher Beruf und Pfarrermangel erklären den dokumentierten Anlass, schließen zusätzliche politische Motive aber nicht logisch aus. Die zusammengesetzte Motiv- und Privilegienthese wird hier nicht abschließend entschieden."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0009",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Angela Merkels Vater war evangelischer Pfarrer.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Bundesarchiv-Edition dokumentiert seinen Pfarrdienst; LeMO nennt die übernommene Pfarrstelle. Der Beruf allein entscheidet keine politische Überzeugung.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S005",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S010",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0009",
+          "startSeconds": 85,
+          "endSeconds": 96,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragender biografischer Einwand gegen die verkürzte Umzugserzählung; die Bedeutung beruht auf der Argumentationsrolle.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S005",
+              "S010"
+            ],
+            "result": "Die Bundesarchiv-Edition dokumentiert seinen Pfarrdienst; LeMO nennt die übernommene Pfarrstelle. Der Beruf allein entscheidet keine politische Überzeugung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0010",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kasners Wechsel in die DDR stand im Zusammenhang mit dem dortigen Pfarrermangel.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der zeitgenössische epd-Nachruf nennt den Ruf der unterbesetzten DDR-Kirchen als Anlass. Lepps Forschung erklärt diesen institutionellen Zusammenhang. Damit sind weder ausschließlich religiöse Motive noch politische Neutralität Kasners nachgewiesen.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S007",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S008",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0010",
+          "startSeconds": 89,
+          "endSeconds": 98,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende alternative Erklärung zum Umzug des Vaters; gleiche Bedeutung unabhängig von ihrer Bestätigung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S007",
+              "S008"
+            ],
+            "result": "Der zeitgenössische epd-Nachruf nennt den Ruf der unterbesetzten DDR-Kirchen als Anlass. Lepps Forschung erklärt diesen institutionellen Zusammenhang. Damit sind weder ausschließlich religiöse Motive noch politische Neutralität Kasners nachgewiesen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0011",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Christen hatten in der DDR mit Benachteiligung und staatlichem Druck zu kämpfen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Sachstand der Wissenschaftlichen Dienste beschreibt im Abschnitt Religionsfreiheit insbesondere den Druck und die Benachteiligungen der frühen 1950er Jahre. Die allgemeine Aussage trifft zu; persönliche Privilegien einzelner Kirchenfunktionäre sind damit nicht ausgeschlossen.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S009",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0011",
+          "startSeconds": 93,
+          "endSeconds": 98,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S009"
+            ],
+            "result": "Der Sachstand der Wissenschaftlichen Dienste beschreibt im Abschnitt Religionsfreiheit insbesondere den Druck und die Benachteiligungen der frühen 1950er Jahre. Die allgemeine Aussage trifft zu; persönliche Privilegien einzelner Kirchenfunktionäre sind damit nicht ausgeschlossen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0012",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Etwa zwei Minuten vor ihrer Kasner-Kritik habe Seibt die fehlende christliche Orientierung der CDU beanstandet.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Reihenfolge stimmt: Die CDU-Kritik beginnt im Original bei 2:01:40, die Umzugsthese bei 2:02:48. Der Abstand beträgt etwa 68 Sekunden, nicht zwei Minuten. Der zutreffende frühere Themenbezug bleibt von der ungenauen Zeitangabe und dem normativen Konsistenzvorwurf getrennt.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0012",
+          "startSeconds": 101,
+          "endSeconds": 119,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false,
+        "shares": {
+          "p": 0.75,
+          "f": 0.25,
+          "u": 0
+        },
+        "sharesReason": "Die zeitliche Reihenfolge und der frühere Inhalt stimmen, der bezeichnete Abstand ist falsch. Redaktionelle Anteilsabschätzung des zusammengesetzten Satzes, keine Wortzählung; unabhängige Gegenprüfung ausstehend."
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Die Reihenfolge stimmt: Die CDU-Kritik beginnt im Original bei 2:01:40, die Umzugsthese bei 2:02:48. Der Abstand beträgt etwa 68 Sekunden, nicht zwei Minuten. Der zutreffende frühere Themenbezug bleibt von der ungenauen Zeitangabe und dem normativen Konsistenzvorwurf getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die Reihenfolge stimmt, der Abstand im Original beträgt aber rund 68 Sekunden statt zwei Minuten."
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0013",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die CDU habe keine Verbindung zum Christentum mehr.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Politische und religiöse Wertung der Parteipraxis, hier ohne messbaren Maßstab. Nicht als Faktenfehler gezählt.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0013",
+          "startSeconds": 111,
+          "endSeconds": 123,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Naomi Seibt",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Die Moderation zeigt die Stelle als Gegenstand ihrer Kritik und übernimmt deren Schlussfolgerung nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Politische und religiöse Wertung der Parteipraxis, hier ohne messbaren Maßstab. Nicht als Faktenfehler gezählt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0014",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Seibts Kritik an der CDU und an Kasners Umzug sei mit ihrem christlichen Selbstverständnis unvereinbar.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Normativer Konsistenzvorwurf. Aus dem Text lassen sich weder Seibts innerer Glaube noch die ausschließlichen Motive Kasners ableiten.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0014",
+          "startSeconds": 98,
+          "endSeconds": 149,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        },
+        {
+          "id": "mv1ZqLrmwH0-O0015",
+          "startSeconds": 492,
+          "endSeconds": 501,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Normativer Konsistenzvorwurf. Aus dem Text lassen sich weder Seibts innerer Glaube noch die ausschließlichen Motive Kasners ableiten."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0015",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Merkel habe unmittelbar an der Grenze gelebt und deshalb typische Stasi-Privilegien gehabt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die gemeinte Grenze, Zeit und Adresse sind nicht eindeutig bestimmt. Kindheit in Templin und späterer Wohnort Berlin dürfen nicht ohne Klärung gleichgesetzt werden.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S005",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [
+        "Gemeinten Wohnort und Bezugszeitpunkt im Original klären, danach historische Grenzlage und tatsächliche Wohnberechtigungen prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0016",
+          "startSeconds": 153,
+          "endSeconds": 160,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        },
+        {
+          "id": "mv1ZqLrmwH0-O0017",
+          "startSeconds": 179,
+          "endSeconds": 190,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Naomi Seibt",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Die Moderation zeigt die Stelle als Gegenstand ihrer Kritik und übernimmt deren Schlussfolgerung nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002",
+              "S005"
+            ],
+            "result": "Noch nicht geprüft – die gemeinte Grenze, Zeit und Adresse sind nicht eindeutig bestimmt. Kindheit in Templin und späterer Wohnort Berlin dürfen nicht ohne Klärung gleichgesetzt werden."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0016",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein anonymer Vance-naher Gesprächspartner habe Seibt einen Stasi-Verdacht gegen Merkel mitgeteilt.",
+      "status": "Nicht überprüfbar",
+      "verdict": null,
+      "reason": "Nicht überprüfbar – Identität, Nähe zu Vance und privater Gesprächsinhalt bleiben unbenannt. Die sichtbare Wiedergabe belegt nur Seibts Bericht, nicht dessen unabhängige Bestätigung.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [
+        "Falls die Person oder ein überprüfbarer Gesprächsbeleg öffentlich benannt wird, den Bericht neu prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0018",
+          "startSeconds": 155,
+          "endSeconds": 169,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        },
+        {
+          "id": "mv1ZqLrmwH0-O0019",
+          "startSeconds": 171,
+          "endSeconds": 207,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Naomi Seibt",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Die Moderation zeigt die Stelle als Gegenstand ihrer Kritik und übernimmt deren Schlussfolgerung nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Nicht überprüfbar – Identität, Nähe zu Vance und privater Gesprächsinhalt bleiben unbenannt. Die sichtbare Wiedergabe belegt nur Seibts Bericht, nicht dessen unabhängige Bestätigung."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Zweiter Prüfweg: Originalkontext 2:03:04–2:03:35 zusätzlich mit der Reaktionsfassung verglichen; weiterhin weder Name noch öffentlich überprüfbarer Gesprächsbeleg.",
+            "sourceIds": [],
+            "result": "Das Original löst die Anonymität nicht auf; aus dem Bericht entsteht kein Beweis einer Stasi-Tätigkeit."
+          }
+        ],
+        "missingInformation": "Identifizierbarer Gesprächspartner oder öffentlich prüfbare Gesprächsdokumentation.",
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0017",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die Moderation habe ebenfalls zahlreiche nicht nennbare US-Kontakte befragt.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Erkennbar parallel aufgebaute satirische Entgegnung auf die anonyme Quelle. Keine als real behauptete Liste von 50 Gesprächspartnern und kein Nachweismaßstab für Merkels Biografie.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0020",
+          "startSeconds": 160,
+          "endSeconds": 170,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Erkennbar parallel aufgebaute satirische Entgegnung auf die anonyme Quelle. Keine als real behauptete Liste von 50 Gesprächspartnern und kein Nachweismaßstab für Merkels Biografie."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0018",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Merkel sei für die Stasi tätig gewesen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der in der Reaktion gezeigte Verdacht wird zurückgewiesen. Die gelesene Gerichtsmeldung entscheidet den Aktenzugang und ersetzt keine vollständige Untersuchung einer Agententätigkeit.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [
+        "Über den Aktenzugangsfall hinausgehende historische Belege und Gegenbelege gesondert prüfen; keine bewiesene Unschuld oder Tätigkeit aus dem Zugangsurteil ableiten."
+      ],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0021",
+          "startSeconds": 199,
+          "endSeconds": 207,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Naomi Seibt bzw. ihr anonymer Gesprächspartner",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Die Moderation zeigt die Stelle als Gegenstand ihrer Kritik und übernimmt deren Schlussfolgerung nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002",
+              "S003"
+            ],
+            "result": "Noch nicht geprüft – der in der Reaktion gezeigte Verdacht wird zurückgewiesen. Die gelesene Gerichtsmeldung entscheidet den Aktenzugang und ersetzt keine vollständige Untersuchung einer Agententätigkeit."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0019",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die Moderation verlangt konkrete Belege anstelle des anonymen Stasi-Verdachts.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Epistemische Kritik und Aufforderung zur Begründung; keine eigenständige historische Tatsachenbehauptung.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0022",
+          "startSeconds": 211,
+          "endSeconds": 221,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Epistemische Kritik und Aufforderung zur Begründung; keine eigenständige historische Tatsachenbehauptung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0020",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ben unterbricht die vorgeführte Merkel-Erzählung weitgehend nicht mit einer inhaltlichen Faktenkorrektur.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die erneut gelesene Originalpassage 2:02:33–2:06:28 enthält die zusammenhängende Erzählung; anschließend folgt Bens hypothetische Frage zur Abhängigkeit von den USA. Das bestätigt den begrenzten Textbefund, keine Beurteilung jedes Gesprächs oder seiner Mimik.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0023",
+          "startSeconds": 218,
+          "endSeconds": 238,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        },
+        {
+          "id": "mv1ZqLrmwH0-O0024",
+          "startSeconds": 357,
+          "endSeconds": 366,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        },
+        {
+          "id": "mv1ZqLrmwH0-O0025",
+          "startSeconds": 424,
+          "endSeconds": 439,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        },
+        {
+          "id": "mv1ZqLrmwH0-O0026",
+          "startSeconds": 500,
+          "endSeconds": 514,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Wiederkehrende Begründung der Moderationskritik; auf die konkrete Passage begrenzt, kein Personenurteil.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Die erneut gelesene Originalpassage 2:02:33–2:06:28 enthält die zusammenhängende Erzählung; anschließend folgt Bens hypothetische Frage zur Abhängigkeit von den USA. Das bestätigt den begrenzten Textbefund, keine Beurteilung jedes Gesprächs oder seiner Mimik."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0021",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die zurückhaltende Reaktion Bens sei das wesentliche Verkaufsargument seiner Sendung.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Vermutung über Publikumswirkung und Geschäftsmodell; keine gemessene Rezeptions- oder Motivstudie.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0027",
+          "startSeconds": 230,
+          "endSeconds": 238,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Vermutung über Publikumswirkung und Geschäftsmodell; keine gemessene Rezeptions- oder Motivstudie."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0022",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Gericht habe Merkel-Unterlagen wegen eines drohenden Nachteils für die Bundesregierung zurückgehalten.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die identifizierte Mitteilung begründet den fehlenden Anspruch mit dem StUG und Persönlichkeitsrechten. Eine Regierungsschädigung nennt sie nicht; ein anderes gemeintes Verfahren ist nicht belegt.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0028",
+          "startSeconds": 248,
+          "endSeconds": 268,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        },
+        {
+          "id": "mv1ZqLrmwH0-O0029",
+          "startSeconds": 303,
+          "endSeconds": 315,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Die identifizierte Gerichtsmitteilung nennt Zugangsregeln und Persönlichkeitsrechte als Ablehnungsgrund.",
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Naomi Seibt",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Die Moderation zeigt die Stelle als Gegenstand ihrer Kritik und übernimmt deren Schlussfolgerung nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S002",
+              "S003"
+            ],
+            "result": "Die identifizierte Mitteilung begründet den fehlenden Anspruch mit dem StUG und Persönlichkeitsrechten. Eine Regierungsschädigung nennt sie nicht; ein anderes gemeintes Verfahren ist nicht belegt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0023",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Über den Aktenzugang entscheidet vorrangig die zuständige Institution, nicht Angela Merkel persönlich.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "§ 32 weist die Bereitstellung dem Bundesarchiv zu. Die Formulierung der Moderation benennt die primäre Zuständigkeit zutreffend. Merkels mögliche schriftliche Einwilligung nach Absatz 1 Nr. 5 bleibt ein zusätzlicher Zugangsweg; völlige Einflusslosigkeit wäre zu weitgehend.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0030",
+          "startSeconds": 271,
+          "endSeconds": 281,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S004"
+            ],
+            "result": "§ 32 weist die Bereitstellung dem Bundesarchiv zu. Die Formulierung der Moderation benennt die primäre Zuständigkeit zutreffend. Merkels mögliche schriftliche Einwilligung nach Absatz 1 Nr. 5 bleibt ein zusätzlicher Zugangsweg; völlige Einflusslosigkeit wäre zu weitgehend."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0024",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die auf Herausgabe der Merkel-Unterlagen gerichtete Klage wurde abgewiesen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das VG Berlin teilt die Klageabweisung mit. Damit ist weder ein weltweites Nichtvorhandensein aller Unterlagen noch eine rechtskräftige letztinstanzliche Entscheidung festgestellt.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0031",
+          "startSeconds": 279,
+          "endSeconds": 287,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S003"
+            ],
+            "result": "Das VG Berlin teilt die Klageabweisung mit. Damit ist weder ein weltweites Nichtvorhandensein aller Unterlagen noch eine rechtskräftige letztinstanzliche Entscheidung festgestellt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0025",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Publikationsprojekt begründet keinen uneingeschränkten Zugang zu personenbezogenen Stasi-Unterlagen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "§ 32 sieht bestimmte Zugangswege und Schutzabwägungen vor. Auch Einwilligung und anonymisierte Informationen sind zu unterscheiden. Die alltagssprachliche Beschränkung der Moderation trifft den Kern.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S004",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0032",
+          "startSeconds": 280,
+          "endSeconds": 287,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S004"
+            ],
+            "result": "§ 32 sieht bestimmte Zugangswege und Schutzabwägungen vor. Auch Einwilligung und anonymisierte Informationen sind zu unterscheiden. Die alltagssprachliche Beschränkung der Moderation trifft den Kern."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0026",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Zugang kann im behandelten Fall an Stasi-Mitarbeit, Begünstigung oder einen zeitgeschichtlich relevanten Funktionsbezug anknüpfen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Moderation gibt die im behandelten Fall beschriebenen Zugangsmerkmale zutreffend wieder. Es ist keine vollständige Aufzählung aller Zugangswege des § 32, insbesondere nicht der Einwilligung.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S004",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0033",
+          "startSeconds": 323,
+          "endSeconds": 341,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende rechtliche Erklärung der zentralen Gerichts-Korrektur, keine zusätzliche Gewichtung aufgrund des Urteils.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S003",
+              "S004"
+            ],
+            "result": "Die Moderation gibt die im behandelten Fall beschriebenen Zugangsmerkmale zutreffend wieder. Es ist keine vollständige Aufzählung aller Zugangswege des § 32, insbesondere nicht der Einwilligung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0027",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das VG sah die Voraussetzungen des geltend gemachten Zugangsanspruchs nicht als erfüllt an.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Mitteilung verneint die einschlägigen Voraussetzungen und erläutert den maßgeblichen Rollenzeitpunkt. Daraus folgt kein allgemeines Verbot historischer Forschung.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0034",
+          "startSeconds": 338,
+          "endSeconds": 345,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Zentrale konkrete Anwendung der Zugangsregel auf den besprochenen Fall.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S003"
+            ],
+            "result": "Die Mitteilung verneint die einschlägigen Voraussetzungen und erläutert den maßgeblichen Rollenzeitpunkt. Daraus folgt kein allgemeines Verbot historischer Forschung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0028",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das VG fand keine Anhaltspunkte für eine gezielte Stasi-Begünstigung Merkels.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Dieser begrenzte gerichtliche Befund steht in der Pressemitteilung. Er ist kein umfassender Beweis über sämtliche Kontakte oder Aktenbestände.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S003",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0035",
+          "startSeconds": 341,
+          "endSeconds": 349,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Direkter Gegenpunkt zum im Titel hervorgehobenen Stasi-Verdacht; hoher Faktor wegen der argumentativen Schlüsselrolle.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S003"
+            ],
+            "result": "Dieser begrenzte gerichtliche Befund steht in der Pressemitteilung. Er ist kein umfassender Beweis über sämtliche Kontakte oder Aktenbestände."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0029",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seibts Gerichtsparaphrase lässt die im bezeichneten Verfahren genannte eigentliche Zugangsbegründung aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Im gelesenen Originalabschnitt 2:05:20–2:05:54 wird ein Regierungsschaden als Grund angegeben. Die identifizierte Mitteilung begründet die Ablehnung anders. Ihre öffentliche Verfügbarkeit beweist keine bewusste Auslassungsabsicht Seibts.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0036",
+          "startSeconds": 349,
+          "endSeconds": 358,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 2,
+        "weightReason": "Zentraler Abgleich zwischen der kritisierten Gerichtsparaphrase und der benannten Entscheidungsmitteilung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S002",
+              "S003"
+            ],
+            "result": "Im gelesenen Originalabschnitt 2:05:20–2:05:54 wird ein Regierungsschaden als Grund angegeben. Die identifizierte Mitteilung begründet die Ablehnung anders. Ihre öffentliche Verfügbarkeit beweist keine bewusste Auslassungsabsicht Seibts."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0030",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Ben habe sich bewusst gegen die Überprüfung der Behauptungen entschieden.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Moderation deutet das beobachtete Ausbleiben einer Korrektur als bewusste Entscheidung. Der Textzugang belegt keinen inneren Entscheidungsprozess oder Vorbereitungsmangel.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0037",
+          "startSeconds": 358,
+          "endSeconds": 369,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Die Moderation deutet das beobachtete Ausbleiben einer Korrektur als bewusste Entscheidung. Der Textzugang belegt keinen inneren Entscheidungsprozess oder Vorbereitungsmangel."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0031",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Belastende Merkel-Unterlagen seien vermutlich vernichtet worden, Kopien könnten in Russland oder den USA liegen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die Spekulation ist textlich identifiziert, konkrete Aktenbestände oder Kopien sind aber nicht nachgewiesen. Das Zugangsurteil allein prüft keine ausländischen Bestände.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S003",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [
+        "Konkrete Aktenbestände, Überlieferungswege und öffentlich prüfbare Belege für Vernichtung oder Kopien ermitteln."
+      ],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0038",
+          "startSeconds": 375,
+          "endSeconds": 401,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Naomi Seibt",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Die Moderation zeigt die Stelle als Gegenstand ihrer Kritik und übernimmt deren Schlussfolgerung nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002",
+              "S003"
+            ],
+            "result": "Noch nicht geprüft – die Spekulation ist textlich identifiziert, konkrete Aktenbestände oder Kopien sind aber nicht nachgewiesen. Das Zugangsurteil allein prüft keine ausländischen Bestände."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0032",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die Öffentlichkeit werde möglicherweise nie erfahren, was über Merkel in ausländischen Beständen vorhanden ist.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Ausdrücklich offene Zukunftsvermutung, kein gegenwärtiger Bestandsnachweis.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0039",
+          "startSeconds": 400,
+          "endSeconds": 408,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Naomi Seibt",
+        "presentation": "Einspieler",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Der Kanal diskutiert die spekulative Erzählung; diese Zukunftsvermutung wird nicht als belegter Aktenbefund übernommen.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Ausdrücklich offene Zukunftsvermutung, kein gegenwärtiger Bestandsnachweis."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0033",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Die Aktenvermutungen seien haltlose Spekulation und verlangten überprüfbare Antworten.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Wertende Schlussfolgerung und Aufforderung zum Belegen; kein umfassender Nachweis des Nichtvorhandenseins von Akten.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0040",
+          "startSeconds": 408,
+          "endSeconds": 439,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Wertende Schlussfolgerung und Aufforderung zum Belegen; kein umfassender Nachweis des Nichtvorhandenseins von Akten."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0034",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Ben entwirft hypothetisch einen Konflikt zwischen Seibts Asylwunsch und einer von den USA unerwünschten Veröffentlichung.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Im Original wird ein mögliches Szenario konstruiert, kein nachgewiesener Erpressungsanruf behauptet. Die Reaktion zeigt diese Frage und kritisiert deren Ansatz.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0041",
+          "startSeconds": 439,
+          "endSeconds": 489,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP03",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Fremdbezug",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Als fremde Einspielung bzw. Wiedergabe behandelt; die Reaktion distanziert sich oder diskutiert den Gedanken.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Zitierte Person",
+        "person": "Ben Berndt",
+        "presentation": "Einspieler",
+        "creatorStance": "Distanziert",
+        "basis": "Die Moderation zeigt die Stelle als Gegenstand ihrer Kritik und übernimmt deren Schlussfolgerung nicht.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23"
+      },
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Im Original wird ein mögliches Szenario konstruiert, kein nachgewiesener Erpressungsanruf behauptet. Die Reaktion zeigt diese Frage und kritisiert deren Ansatz."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0035",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Ben hätte kritischer nachfragen und sich besser auf den Merkel-Komplex vorbereiten sollen.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Normative Moderationskritik; von der überprüften Beobachtung zur konkreten Gesprächspassage getrennt.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0042",
+          "startSeconds": 489,
+          "endSeconds": 514,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Normative Moderationskritik; von der überprüften Beobachtung zur konkreten Gesprächspassage getrennt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "mv1ZqLrmwH0-A0036",
+      "videoId": "mv1ZqLrmwH0",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Klupatwins seien seit über 1.400 Stunden ohne Unterbrechung auf Twitch live.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – der direkte Twitch-Abruf liefert kein lesbares historisches Vollarchiv. Suchtreffer mit entsprechendem Streamtitel würden zunächst nur die Selbstauskunft wiederholen.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        }
+      ],
+      "openQuestions": [
+        "Datiertes Twitch-Archiv oder lückenlose unabhängige Zeitreihe kontrollieren, einschließlich technischer Unterbrechungen und Bedeutung von live."
+      ],
+      "occurrences": [
+        {
+          "id": "mv1ZqLrmwH0-O0043",
+          "startSeconds": 520,
+          "endSeconds": 531,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Automatisches Originaltranskript, Einspiel-/Moderationswechsel und Vergleich mit dem Originalinterview; keine akustische Personenbestätigung.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Moderationsposition im gelesenen Textzusammenhang.",
+          "note": "Ungefährer Suchbereich, kein schnittgenaues Zitat.",
+          "timeBasis": "Automatisches deutsches Transkript im Originalplayer und privater Player-Export; Segmentgrenzen weichen voneinander ab.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Eigenwerbung am Schluss; kein Sachargument zur Merkel-Passage.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen.",
+            "sourceIds": [
+              "S001",
+              "S011"
+            ],
+            "result": "Noch nicht geprüft – der direkte Twitch-Abruf liefert kein lesbares historisches Vollarchiv. Suchtreffer mit entsprechendem Streamtitel würden zunächst nur die Selbstauskunft wiederholen."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Anderer Suchweg: historische Klupatwins-Streamtitel und öffentliche Archivverzeichnisse für November 2026 gesucht; anschließend direktes Twitch-Videoarchiv geöffnet.",
+            "sourceIds": [],
+            "result": "Archivzugang nicht lesbar; einzelne Rekordtitel oder Streamfragmente belegen keine lückenlose 1.400-Stunden-Übertragung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    }
+  ]
+}

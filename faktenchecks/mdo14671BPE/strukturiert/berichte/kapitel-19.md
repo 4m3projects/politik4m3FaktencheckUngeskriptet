@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Am 20.11.2026 Werbekennzeichnung bei 00:10:39 im Originalbild kontrolliert. Keine vollständige Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Die Buchvorschauen bestätigen das 16-Wochen-Beispiel und zeigen den Einstieg. Zwei Buchaussagen bleiben bis zur Prüfung der späteren Transaktionen und der vollständigen Anleitung offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9.
 
-Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge. [Codex] 20.11.2026: Beide offenen Werbeaussagen im Originaltranskript abgeglichen und anhand öffentlicher Buchseiten und des Kindle-Inhaltsverzeichnisses weiter geprüft.
+Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge. [Codex] 20.11.2026: Beide offenen Werbeaussagen im Originaltranskript abgeglichen und anhand öffentlicher Buchseiten und des Kindle-Inhaltsverzeichnisses weiter geprüft. Gezielte Reaktionsnachprüfung 23.11.2026 [Codex]: A0182 durch epd-Nachruf ergänzt, Originalstellen 2:01:40–2:07:18 erneut textlich abgeglichen; keine Urteilsänderung.
 
 ## mdo14671BPE-A0179
 
@@ -155,13 +155,13 @@ Zeitgrundlage: Automatische deutsche Originaluntertitel; Sekunden textlich einge
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Nach der Tertiärquelle zog Kasner 1954 auf Wunsch des Hamburger Jugendpfarrers Hans-Otto Wölber in die DDR, weil dort Pfarrer fehlten; eine kirchliche Vermittlung solcher Wechsel beschreibt auch der Fachbeitrag. Später hatte er Privilegien wie Westreisen. Für eine sozialistische Überzeugung als Umzugsmotiv oder für schon damals erwartete Privilegien hat Claude keinen Beleg gefunden; die dokumentierten Umstände sprechen für einen kirchlichen Anlass.
+Nach der Tertiärquelle zog Kasner 1954 auf Wunsch des Hamburger Jugendpfarrers Hans-Otto Wölber in die DDR, weil dort Pfarrer fehlten; eine kirchliche Vermittlung solcher Wechsel beschreibt auch der Fachbeitrag. Später hatte er Privilegien wie Westreisen. Für eine sozialistische Überzeugung als Umzugsmotiv oder für schon damals erwartete Privilegien hat Claude keinen Beleg gefunden; die dokumentierten Umstände sprechen für einen kirchlichen Anlass. Ergänzung 23.11.2026 [Codex]: Der vollständig gelesene zeitgenössische epd-Nachruf vom 03.09.2011 nennt ebenfalls den kirchlichen Ruf wegen Pfarrermangels und Kasners spätere Position zur Kirche im Sozialismus. Der Umzugsanlass ist damit zusätzlich gestützt; erwartete Privilegien oder ausschließlich religiöse Motive sind weiterhin nicht nachgewiesen. Urteil unverändert.
 
 Grundlage der Bewertung: Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.
 
 Uebernahme: Direkte Neuerfassung; kein Altprüfpunkt.
 
-Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt.
+Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt. Ergänzung 23.11.2026 [Codex]: Begründung und Quelle S157 ergänzt; vorher und nachher Nicht ausreichend belegbar. Frühere Begründung und Recherchedurchgänge bleiben erhalten.
 
 ### Zugeordnete Quellen
 
@@ -173,6 +173,9 @@ Bewertungsuebergang: Einordnung durch Claude am 18.11.2026 nach Abschluss der ö
 
 - [Horst Kasner](https://en.wikipedia.org/wiki/Horst_Kasner) · Wikipedia (englisch), ohne Datum; Tertiärquelle: Umzug 1954 auf Wunsch von Hans-Otto Wölber wegen Pfarrermangels (ohne Fußnote), spätere Privilegien (Fußnote Guardian 2005).
   Quellenzugriff am 2026-11-18. Von Claude am 18.11.2026 vollständig gelesen. Keine Quellenkopie veröffentlicht. Umzug auf Wunsch Wölbers wegen Pfarrermangels (ohne Fußnote); spätere Privilegien.
+
+- [epd: Angela Merkel trauert um ihren Vater](https://www.evangelisch.de/inhalte/106181/03-09-2011) · 03.09.2011; zeitgenössischer Nachruf mit kirchlichen Auskünften. Sekundärquelle.
+  Quellenzugriff am 2026-11-23. Beruf, Umzug 1954 als Reaktion auf Pfarrermangel und spätere Position zur Kirche im Sozialismus gelesen. Der Nachruf belegt keine Ausschließlichkeit persönlicher Umzugsmotive. Neu selbst gelesener epd-Nachruf nennt den Ruf der unter Pfarrermangel leidenden Kirchen. Kein Ausschließlichkeitsbeweis über persönliche Motive.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -187,6 +190,8 @@ Fehlende Information: Eine biografische Fachquelle zu Kasners eigenen Motiven f�
 - Durchgang 1 am 2026-11-18 (Claude): Biografie Merkels, Lexikoneintrag zu Kasner und Fachbeitrag zu Theologen in der DDR gelesen. Gepruefte Quellen: S053, S105, S118. Ergebnis: Kirchlicher Anlass belegt, kein Beleg für sozialistische Überzeugung oder erwartete Privilegien.
 
 - Durchgang 2 am 2026-11-19 (Claude): Zweiter Durchgang: Deutsche Biographie und Nachrufe auf Kasner gesucht. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Deutsche Biographie nur mit Registereintrag ohne Motiv; Nachruf des Tagesspiegels nur teilweise lesbar (Bezahlschranke), Motiv im lesbaren Teil nicht genannt.
+
+- Durchgang 3 am 2026-11-23 (Codex): Rückabgleich aus Klupatwins-Reaktion nach gezielter Wissenssuche: epd-Nachruf vollständig geöffnet, Lepps Fachbeitrag erneut gelesen; Umzugsanlass von späterer politischer Haltung getrennt. Gepruefte Quellen: S157, S105. Ergebnis: Zusätzlicher zeitgenössischer Nachruf stützt kirchlichen Anlass; keine Umwertung der zusammengesetzten Motiv- und Privilegienthese.
 
 ## mdo14671BPE-A0183
 

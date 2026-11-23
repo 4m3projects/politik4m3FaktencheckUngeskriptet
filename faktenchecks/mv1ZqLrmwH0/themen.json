@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "videoId": "mv1ZqLrmwH0",
+  "basis": "[Codex] Inhaltliche Zuordnung aus selbst gelesenen Aussagen und Originalvergleich, nicht allein aus dem Titel.",
+  "topics": [
+    {
+      "topic": "stasi",
+      "relevance": "Schwerpunkt",
+      "basis": "Aktenzugang, Agentenverdacht und anonyme Quellen tragen die zentrale Auseinandersetzung.",
+      "segments": [
+        {
+          "startSeconds": 153,
+          "endSeconds": 489,
+          "note": "Anonymer Verdacht, Aktenzugang, Gerichtsbegründung und Asyl-Hypothese."
+        }
+      ]
+    },
+    {
+      "topic": "religion",
+      "relevance": "Behandelt",
+      "basis": "Pfarrdienst, DDR-Christen und christlicher Konsistenzvorwurf im Kasner-/CDU-Abschnitt.",
+      "segments": [
+        {
+          "startSeconds": 85,
+          "endSeconds": 149,
+          "note": "Kasners Pfarrdienst, Christen in der DDR und der christliche Konsistenzvorwurf."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "mv1ZqLrmwH0-A0015",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0016",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0018",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0019",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0022",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0023",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0024",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0025",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0026",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0027",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0028",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0029",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0031",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0032",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0033",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0034",
+      "topics": [
+        "stasi"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0008",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0009",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0010",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0011",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0012",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0013",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0014",
+      "topics": [
+        "religion"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-23",
+      "agent": "Codex",
+      "change": "Erstanlage nach vollständiger Originaltranskript-Lektüre und inhaltlicher Quellenprüfung; keine Zuordnung nur nach Titel."
+    }
+  ]
+}
