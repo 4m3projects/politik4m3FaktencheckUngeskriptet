@@ -546,6 +546,10 @@
         {
           "date": "2026-11-19",
           "change": "[Codex] Folgeabgleich nach Originalnachprüfung, Basis 8205fdc: 0 direkte Links zu geänderten IDs. Keine direkt betroffenen Verknüpfungen; keine schematische Änderung fremder Bewertungen."
+        },
+        {
+          "date": "2026-11-23",
+          "change": "[Codex] Folgeabgleich zu den ergänzten Original-A0185/A0193: Hanks A0036/A0040 geben Knabes begrenzten Recherchebefund weiterhin zutreffend wieder; A0039 bleibt eine als Fremdbezug abgegrenzte Spekulationswiedergabe. Keine abgeleitete neue historische Bewertung und kein widersprechender neuer Beleg; Urteile und Status unverändert."
         }
       ],
       "claimLinks": [
@@ -1951,6 +1955,10 @@
         {
           "date": "2026-11-23",
           "change": "[Codex] Identität und Originalbezug unabhängig kontrolliert, konkrete Aussageverknüpfungen ergänzt. Frühere vorläufige Erfassung bleibt dokumentiert."
+        },
+        {
+          "date": "2026-11-23",
+          "change": "[Codex] Nachprüfung der offenen Aussagen, neue OriginalaussageA0252 und präzisierter geografischer Teil von L1371; keine bestehende Originalbewertung geändert."
         }
       ],
       "claimLinks": [
@@ -1988,11 +1996,11 @@
         },
         {
           "id": "L1371",
-          "type": "gibt_wieder",
+          "type": "ergaenzt",
           "originalClaimId": "mdo14671BPE-A0183",
           "reactionClaimId": "mv1ZqLrmwH0-A0015",
           "reactionSeconds": 153,
-          "note": "Grenz- und Privilegienthese 2:03:04–2:03:28, nicht allein aus dem Wort Templin beurteilt."
+          "note": "Nachprüfung 23.11.2026: grenznaher Berliner Wohnort 1989 durch Rede und Biografie gestützt; Schluss auf Stasi-Privilegien nicht belegt. Original A0183 erfasst die Deutung, Reaktion A0015 zusätzlich den geografischen Sachkern."
         },
         {
           "id": "L1372",
@@ -2008,7 +2016,7 @@
           "originalClaimId": "mdo14671BPE-A0185",
           "reactionClaimId": "mv1ZqLrmwH0-A0018",
           "reactionSeconds": 199,
-          "note": "Gezeigter Agentenverdacht; die Reaktion distanziert sich. Eigene Nachprüfung bleibt offen."
+          "note": "Gezeigter Agentenverdacht; die Reaktion distanziert sich. Nachrecherche 23.11.2026: Nicht ausreichend belegbar nach zusätzlicher Lektüre Knabes; kein vollständiger Negativbeweis."
         },
         {
           "id": "L1374",
@@ -2041,6 +2049,14 @@
           "reactionClaimId": "mv1ZqLrmwH0-A0031",
           "reactionSeconds": 375,
           "note": "Vernichtungs-/Kopienspekulation aus 2:05:55–2:06:19; keine Übernahme als Kanalaussage."
+        },
+        {
+          "id": "L1378",
+          "type": "gleiche_behauptung",
+          "originalClaimId": "mdo14671BPE-A0252",
+          "reactionClaimId": "mv1ZqLrmwH0-A0005",
+          "reactionSeconds": 42,
+          "note": "Bisher nicht separat erfasste Originalthese 2:02:33–2:02:45 nach eigener Quellenlektüre ergänzt. Beide prüfen den weitergehenden Gesamtplan, nicht bloße öffentliche Wahlkampfunterstützung."
         }
       ]
     }

@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Textinventar über 00:00–08:51 einschließlich Auftakt, fünf Themenabschnitten und Twitch-Eigenwerbung. 36 Prüfgegenstände; wiederholte Aussagen zusammengeführt. Fremde Einspieler sind ausdrücklich von eigenen Kanalaussagen getrennt. Player-Transkript und Export haben abweichende Segmentgrenzen; letzte Textzeile 08:49, Rest bis 08:51 nicht akustisch kontrolliert. Einzelbilder bei etwa 00:25 und 05:25 geprüft; keine vollständige Kontrolle von Ton, Mimik, Schnitt oder textfreien Einblendungen. Daher Teilbestand und kein Anspruch auf audiovisuelle Vollständigkeit.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Textinventar über 00:00–08:51 einschließlich Auftakt, fünf Themenabschnitten und Twitch-Eigenwerbung. 36 Prüfgegenstände; wiederholte Aussagen zusammengeführt. Fremde Einspieler sind ausdrücklich von eigenen Kanalaussagen getrennt. Player-Transkript und Export haben abweichende Segmentgrenzen; letzte Textzeile 08:49, Rest bis 08:51 nicht akustisch kontrolliert. Einzelbilder bei etwa 00:25 und 05:25 geprüft; keine vollständige Kontrolle von Ton, Mimik, Schnitt oder textfreien Einblendungen. Daher Teilbestand und kein Anspruch auf audiovisuelle Vollständigkeit. Nachprüfung: zusätzliche systematische Bildstichproben über den Verlauf, historische Zähler gelesen; weiterhin keine lückenlose audiovisuelle Vollprüfung. Acht offene Sachaufträge bearbeitet, ein Twitch-Prüfauftrag bleibt offen.
 
-[Codex] Eigenständige Fortsetzung von Issue #114. Vollständiges deutsches Originalplayer-Transkript gelesen, Originalinterview 2:00:03–2:10:42 textlich rückabgeglichen und verzeichnete Sachquellen selbst gelesen. Keine vidIQ-Credits eingesetzt. Keine vollständige audiovisuelle oder unabhängige redaktionelle Zweitprüfung. Bedeutungsfaktoren vorläufig, nach Kenntnis der Urteile begründet.
+[Codex] Eigenständige Fortsetzung von Issue #114. Vollständiges deutsches Originalplayer-Transkript gelesen, Originalinterview 2:00:03–2:10:42 textlich rückabgeglichen und verzeichnete Sachquellen selbst gelesen. Keine vidIQ-Credits eingesetzt. Keine vollständige audiovisuelle oder unabhängige redaktionelle Zweitprüfung. Bedeutungsfaktoren zunächst vorläufig, nach Kenntnis der Urteile begründet; der nachfolgend dokumentierte separate Faktorreview ergänzt diesen ersten Prüfstand. Nachprüfung 23.11.2026: alle acht offenen Aussagen nachbearbeitet, sieben abgeschlossen, Twitch-Dauer offen. Separater lesender Gewichtungsreview auf Basis 04b1135; zwei Faktoren gesenkt, alle 18 kontrolliert. Präzisionskorrektur UG-C0005, keine vollständige Tonkontrolle.
 
 ## mv1ZqLrmwH0-A0015
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Merkel habe unmittelbar an der Grenze gelebt und deshalb typische Stasi-Privilegien gehabt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -42,18 +42,18 @@ Zeitgrundlage: Automatisches deutsches Transkript im Originalplayer und privater
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die gemeinte Grenze, Zeit und Adresse sind nicht eindeutig bestimmt. Kindheit in Templin und späterer Wohnort Berlin dürfen nicht ohne Klärung gleichgesetzt werden.
+Für 1989 ist ein grenznaher Berliner Wohnort gestützt: Merkel bezeichnete 1998 in ihrer Rede die Schönhauser Allee nahe dem Übergang Bornholmer Straße als damaligen Wohnort; Bollmann beschreibt den Wohnungsweg. Der Satz im Original bleibt räumlich ungenau, darf aber nicht allein mit dem Aufwachsen in Templin widerlegt werden. Eine besondere Stasi-Privilegierung folgt aus dieser Grenznähe nicht und ist hier nicht nachgewiesen.
 
 Grundlage der Bewertung: [Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.
 
 Uebernahme: Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.
 
-Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114.
+Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Nachrecherche 2026-11-23 [Codex]: vorher Offen ohne Urteil, jetzt Teilweise belegt. Frühere Begründung: Noch nicht geprüft – die gemeinte Grenze, Zeit und Adresse sind nicht eindeutig bestimmt. Kindheit in Templin und späterer Wohnort Berlin dürfen nicht ohne Klärung gleichgesetzt werden.
 
 ### Zugeordnete Quellen
 
 - [Klupatwins: ZU PEINLICH! Wildes GESCHWURBEL bei Ben {ungeskriptet} über Angela Merkel](https://www.youtube.com/watch?v=mv1ZqLrmwH0) · Originalplayer: 08:51; angezeigtes Datum 17.11.2026, zugleich Beginn der Mitgliederfreigabe. Separater öffentlicher Freigabezeitpunkt nicht gesichert.
-  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
+  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nachprüfung 23.11.2026: Bildstichproben bei 00:30,01:30,02:30,03:30,04:30,05:30,06:30,07:30,08:30 und08:50. Historische Zähler (Aufrufe über 1,1 Mio.; Likes 36K), Kasner-Textzusammenfassung und Gerichts-URL kontrolliert. Keine durchgehende Bildfolge und keine vollständige Tonkontrolle. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
 
 - [Naomi Seibt bei Ben: Ich kenne Merkels größtes Geheimnis](https://www.youtube.com/watch?v=mdo14671BPE) · Originalplayer: 02:48:38. Von der Reaktionsbeschreibung ausdrücklich verlinkt.
   Quellenzugriff am 2026-11-23. Originalplayer geöffnet, automatisches deutsches Transkript privat exportiert; Zusammenhang 02:00:03–02:10:42 gelesen, insbesondere 02:01:40–02:07:18. Keine vollständige Sichtung des Interviews und keine bestätigte Stimmenidentifikation. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
@@ -61,15 +61,26 @@ Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich
 - [LeMO: Biografie Angela Merkel](https://www.hdg.de/lemo/biografie/angela-merkel.html) · Stiftung Haus der Geschichte, Textstand 10.03.2022.
   Quellenzugriff am 2026-11-23. Stationen 1954, 1957, Schulzeit und Wahl 2005 gelesen; keine aktuelle Personenbewertung. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
 
+- [Ralph Bollmann: Angela Merkel. Die Kanzlerin und ihre Zeit](https://api.pageplace.de/preview/DT0400.9783406778964_A42194268/preview-9783406778964_A42194268.pdf) · C.H.Beck, 2021; öffentlich angebotene Buchvorschau, keine Vollbuchprüfung.
+  Quellenzugriff am 2026-11-23. Gedruckte Seiten 22–23, 29–31 und 77–78 selbst gelesen: kirchliche Umzugserklärung, spätere kirchenpolitische Position und dokumentierter Wohnungsweg. Zitierte Erinnerungen bleiben zugeschriebene Selbstauskünfte; Anmerkungsapparat nicht vollständig zugänglich. Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern.
+
+- [CDU-Parteitagsprotokoll vom 7. November 1998: Rede Angela Merkels](https://www.helmut-kohl.de/pdf/CDU-Parteitag_7-11-1998_mit_Abschiedsrede_PV_Kohl.pdf) · 11. Parteitag, gedruckte Seiten 77–78.
+  Quellenzugriff am 2026-11-23. Merkels Redeabschnitt zu ihrem Wohnort am 09.11.1989 selbst gelesen: Schönhauser Allee nahe Grenzübergang Bornholmer Straße. Primärquelle ihrer öffentlichen Selbstauskunft, kein Beleg einer Stasi-Privilegierung. Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern.
+
+- [Hubertus Knabe: IM Erika – eine Spurensuche](https://hubertus-knabe.de/auf-den-spuren-von-im-erika/) · 09.08.2019; Original-Recherchebericht des Historikers.
+  Quellenzugriff am 2026-11-23. Abschnitte Quellenlage, Observationsfoto, Umfeld, FDJ, Anwerbeversuch und Schlussfolgerung selbst gelesen. Knabe legt fehlende Belege und Grenzen der Aktenlage dar; einzelne Vorbehalte und politische Kritik werden nicht verschwiegen. Seine Auswertung ersetzt keine eigene Einsicht in den kompletten Behördenbestand. Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern.
+
 ### Offene Fragen und Unsicherheiten
 
-- Gemeinten Wohnort und Bezugszeitpunkt im Original klären, danach historische Grenzlage und tatsächliche Wohnberechtigungen prüfen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ### Recherchedokumentation
 
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-23 (Codex): Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen. Gepruefte Quellen: S001, S002, S005. Ergebnis: Noch nicht geprüft – die gemeinte Grenze, Zeit und Adresse sind nicht eindeutig bestimmt. Kindheit in Templin und späterer Wohnort Berlin dürfen nicht ohne Klärung gleichgesetzt werden.
+
+- Durchgang 2 am 2026-11-23 (Codex): Zweiter Rechercheweg: zeitgenössischere öffentliche Selbstauskunft im CDU-Parteitagsprotokoll1998 S.78 und biografischen Wohnungsweg S. 77–78 gelesen; zusätzlich Knabes Trennung von Umfeldindizien und eigener Tätigkeit geprüft. Gepruefte Quellen: S012, S013, S014. Ergebnis: Für 1989 ist ein grenznaher Berliner Wohnort gestützt: Merkel bezeichnete 1998 in ihrer Rede die Schönhauser Allee nahe dem Übergang Bornholmer Straße als damaligen Wohnort; Bollmann beschreibt den Wohnungsweg. Der Satz im Original bleibt räumlich ungenau, darf aber nicht allein mit dem Aufwachsen in Templin widerlegt werden. Eine besondere Stasi-Privilegierung folgt aus dieser Grenznähe nicht und ist hier nicht nachgewiesen.
 
 ## mv1ZqLrmwH0-A0016
 
@@ -120,7 +131,7 @@ Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich
 ### Zugeordnete Quellen
 
 - [Klupatwins: ZU PEINLICH! Wildes GESCHWURBEL bei Ben {ungeskriptet} über Angela Merkel](https://www.youtube.com/watch?v=mv1ZqLrmwH0) · Originalplayer: 08:51; angezeigtes Datum 17.11.2026, zugleich Beginn der Mitgliederfreigabe. Separater öffentlicher Freigabezeitpunkt nicht gesichert.
-  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
+  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nachprüfung 23.11.2026: Bildstichproben bei 00:30,01:30,02:30,03:30,04:30,05:30,06:30,07:30,08:30 und08:50. Historische Zähler (Aufrufe über 1,1 Mio.; Likes 36K), Kasner-Textzusammenfassung und Gerichts-URL kontrolliert. Keine durchgehende Bildfolge und keine vollständige Tonkontrolle. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
 
 - [Naomi Seibt bei Ben: Ich kenne Merkels größtes Geheimnis](https://www.youtube.com/watch?v=mdo14671BPE) · Originalplayer: 02:48:38. Von der Reaktionsbeschreibung ausdrücklich verlinkt.
   Quellenzugriff am 2026-11-23. Originalplayer geöffnet, automatisches deutsches Transkript privat exportiert; Zusammenhang 02:00:03–02:10:42 gelesen, insbesondere 02:01:40–02:07:18. Keine vollständige Sichtung des Interviews und keine bestätigte Stimmenidentifikation. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
@@ -138,6 +149,8 @@ Fehlende Information: Identifizierbarer Gesprächspartner oder öffentlich prüf
 - Durchgang 1 am 2026-11-23 (Codex): Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen. Gepruefte Quellen: S001, S002. Ergebnis: Nicht überprüfbar – Identität, Nähe zu Vance und privater Gesprächsinhalt bleiben unbenannt. Die sichtbare Wiedergabe belegt nur Seibts Bericht, nicht dessen unabhängige Bestätigung.
 
 - Durchgang 2 am 2026-11-23 (Codex): Zweiter Prüfweg: Originalkontext 2:03:04–2:03:35 zusätzlich mit der Reaktionsfassung verglichen; weiterhin weder Name noch öffentlich überprüfbarer Gesprächsbeleg. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Das Original löst die Anonymität nicht auf; aus dem Bericht entsteht kein Beweis einer Stasi-Tätigkeit.
+
+- Durchgang 3 am 2026-11-23 (Codex): Statusprüfung am erneut gelesenen Originalkontext2:03:04–2:03:35: Name und prüfbare Gesprächsdokumentation werden weiterhin nicht genannt. Gepruefte Quellen: S001, S002. Ergebnis: Nicht überprüfbar bleibt wegen privatem unbenanntem Gesprächsinhalt zutreffend, unabhängig von der öffentlichen Prüfgrundlage der davon getrennten Agentenbehauptung.
 
 ## mv1ZqLrmwH0-A0017
 
@@ -175,7 +188,7 @@ Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich
 ### Zugeordnete Quellen
 
 - [Klupatwins: ZU PEINLICH! Wildes GESCHWURBEL bei Ben {ungeskriptet} über Angela Merkel](https://www.youtube.com/watch?v=mv1ZqLrmwH0) · Originalplayer: 08:51; angezeigtes Datum 17.11.2026, zugleich Beginn der Mitgliederfreigabe. Separater öffentlicher Freigabezeitpunkt nicht gesichert.
-  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
+  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nachprüfung 23.11.2026: Bildstichproben bei 00:30,01:30,02:30,03:30,04:30,05:30,06:30,07:30,08:30 und08:50. Historische Zähler (Aufrufe über 1,1 Mio.; Likes 36K), Kasner-Textzusammenfassung und Gerichts-URL kontrolliert. Keine durchgehende Bildfolge und keine vollständige Tonkontrolle. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -193,7 +206,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Merkel sei für die Stasi tätig gewesen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Nicht ausreichend belegbar** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -212,18 +225,18 @@ Zeitgrundlage: Automatisches deutsches Transkript im Originalplayer und privater
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – der in der Reaktion gezeigte Verdacht wird zurückgewiesen. Die gelesene Gerichtsmeldung entscheidet den Aktenzugang und ersetzt keine vollständige Untersuchung einer Agententätigkeit.
+Knabes Original-Recherchebericht legt für den bekannten IM-Verdacht fehlende Belege und Grenzen der Aktenüberlieferung dar. Die gerichtliche Mitteilung 2026 weist für den bezeichneten Zugangsfall keine gezielte Begünstigung aus. Die pauschale Agentenbehauptung ist damit nicht belegt; daraus wird kein lückenloser historischer Negativbeweis und kein automatisches Widerlegt abgeleitet. Die spätere Buchbesprechung ist kein weiterer unabhängiger Aktenbestand.
 
 Grundlage der Bewertung: [Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.
 
 Uebernahme: Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.
 
-Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114.
+Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Nachrecherche 2026-11-23 [Codex]: vorher Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Begründung: Noch nicht geprüft – der in der Reaktion gezeigte Verdacht wird zurückgewiesen. Die gelesene Gerichtsmeldung entscheidet den Aktenzugang und ersetzt keine vollständige Untersuchung einer Agententätigkeit.
 
 ### Zugeordnete Quellen
 
 - [Klupatwins: ZU PEINLICH! Wildes GESCHWURBEL bei Ben {ungeskriptet} über Angela Merkel](https://www.youtube.com/watch?v=mv1ZqLrmwH0) · Originalplayer: 08:51; angezeigtes Datum 17.11.2026, zugleich Beginn der Mitgliederfreigabe. Separater öffentlicher Freigabezeitpunkt nicht gesichert.
-  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
+  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nachprüfung 23.11.2026: Bildstichproben bei 00:30,01:30,02:30,03:30,04:30,05:30,06:30,07:30,08:30 und08:50. Historische Zähler (Aufrufe über 1,1 Mio.; Likes 36K), Kasner-Textzusammenfassung und Gerichts-URL kontrolliert. Keine durchgehende Bildfolge und keine vollständige Tonkontrolle. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
 
 - [Naomi Seibt bei Ben: Ich kenne Merkels größtes Geheimnis](https://www.youtube.com/watch?v=mdo14671BPE) · Originalplayer: 02:48:38. Von der Reaktionsbeschreibung ausdrücklich verlinkt.
   Quellenzugriff am 2026-11-23. Originalplayer geöffnet, automatisches deutsches Transkript privat exportiert; Zusammenhang 02:00:03–02:10:42 gelesen, insbesondere 02:01:40–02:07:18. Keine vollständige Sichtung des Interviews und keine bestätigte Stimmenidentifikation. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
@@ -231,15 +244,25 @@ Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich
 - [VG Berlin: Stasi-Unterlagen zu Angela Merkel – kein Herausgabeanspruch](https://www.berlin.de/gerichte/verwaltungsgericht/presse/pressemitteilungen/2026/pressemitteilung.1656474.php) · Pressemitteilung 19/2026 vom 26.03.2026; Urteil vom 12.03.2026, VG 1 K 297/23.
   Quellenzugriff am 2026-11-23. Gesamten Sachtext der gerichtlichen Pressemitteilung gelesen und die im Reaktionsbild erkennbare URL abgeglichen. Gerichtliche Entscheidungsmitteilung, kein gelesener Urteilsvolltext und keine Prüfung späterer Rechtsmittel. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
 
+- [Hubertus Knabe: IM Erika – eine Spurensuche](https://hubertus-knabe.de/auf-den-spuren-von-im-erika/) · 09.08.2019; Original-Recherchebericht des Historikers.
+  Quellenzugriff am 2026-11-23. Abschnitte Quellenlage, Observationsfoto, Umfeld, FDJ, Anwerbeversuch und Schlussfolgerung selbst gelesen. Knabe legt fehlende Belege und Grenzen der Aktenlage dar; einzelne Vorbehalte und politische Kritik werden nicht verschwiegen. Seine Auswertung ersetzt keine eigene Einsicht in den kompletten Behördenbestand. Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern.
+
+- [Wolfgang Templin: Das Mädchen aus der DDR](https://www.bpb.de/themen/deutschlandarchiv/557881/das-maedchen-aus-der-ddr/) · Deutschland Archiv, 21.12.2024; Autorenbeitrag/Buchbesprechung, keine amtliche Personenfeststellung.
+  Quellenzugriff am 2026-11-23. Abschnitt zu Kasners politischer Haltung und zu Knabes Recherchen über Merkel gelesen. Als kritische Sekundäreinordnung neben dem Original-Recherchebericht verwendet, nicht als unabhängiger zweiter Aktennachweis. Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern.
+
 ### Offene Fragen und Unsicherheiten
 
-- Über den Aktenzugangsfall hinausgehende historische Belege und Gegenbelege gesondert prüfen; keine bewiesene Unschuld oder Tätigkeit aus dem Zugangsurteil ableiten.
+- Konkrete neu veröffentlichte Dokumente nach Provenienz, Registrierart und Tätigkeitsbezug prüfen; Berichte über eine Person von Berichten durch sie unterscheiden.
 
 ### Recherchedokumentation
 
-Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+Einordnung: Quellenlage unzureichend. Sicherheit der Einordnung: Mittel.
+
+Fehlende Information: Eine authentische Registrierung mit eindeutigem Tätigkeitsbezug oder anderweitig belastbare Aktenbelege.
 
 - Durchgang 1 am 2026-11-23 (Codex): Vorab gezielte Wissensdatenbanksuche zu Merkel/Stasi, Kasner und Kirche/DDR; Schwesterarchiv lesend eingebunden. Die zugeordneten Originalquellen selbst geöffnet und im bezeichneten Umfang gelesen. Gepruefte Quellen: S001, S002, S003. Ergebnis: Noch nicht geprüft – der in der Reaktion gezeigte Verdacht wird zurückgewiesen. Die gelesene Gerichtsmeldung entscheidet den Aktenzugang und ersetzt keine vollständige Untersuchung einer Agententätigkeit.
+
+- Durchgang 2 am 2026-11-23 (Codex): Zweiter unabhängiger Quellenweg: Knabes vollständige Argumentationsabschnitte zur Quellenlage, Umgebung, Anwerbung und Schlussfolgerung selbst gelesen; Templins spätere Einordnung nur als Sekundärkontext verwendet. Gepruefte Quellen: S014, S016. Ergebnis: Knabes Original-Recherchebericht legt für den bekannten IM-Verdacht fehlende Belege und Grenzen der Aktenüberlieferung dar. Die gerichtliche Mitteilung 2026 weist für den bezeichneten Zugangsfall keine gezielte Begünstigung aus. Die pauschale Agentenbehauptung ist damit nicht belegt; daraus wird kein lückenloser historischer Negativbeweis und kein automatisches Widerlegt abgeleitet. Die spätere Buchbesprechung ist kein weiterer unabhängiger Aktenbestand.
 
 ## mv1ZqLrmwH0-A0019
 
@@ -277,7 +300,7 @@ Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich
 ### Zugeordnete Quellen
 
 - [Klupatwins: ZU PEINLICH! Wildes GESCHWURBEL bei Ben {ungeskriptet} über Angela Merkel](https://www.youtube.com/watch?v=mv1ZqLrmwH0) · Originalplayer: 08:51; angezeigtes Datum 17.11.2026, zugleich Beginn der Mitgliederfreigabe. Separater öffentlicher Freigabezeitpunkt nicht gesichert.
-  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
+  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nachprüfung 23.11.2026: Bildstichproben bei 00:30,01:30,02:30,03:30,04:30,05:30,06:30,07:30,08:30 und08:50. Historische Zähler (Aufrufe über 1,1 Mio.; Likes 36K), Kasner-Textzusammenfassung und Gerichts-URL kontrolliert. Keine durchgehende Bildfolge und keine vollständige Tonkontrolle. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -364,7 +387,7 @@ Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich
 ### Zugeordnete Quellen
 
 - [Klupatwins: ZU PEINLICH! Wildes GESCHWURBEL bei Ben {ungeskriptet} über Angela Merkel](https://www.youtube.com/watch?v=mv1ZqLrmwH0) · Originalplayer: 08:51; angezeigtes Datum 17.11.2026, zugleich Beginn der Mitgliederfreigabe. Separater öffentlicher Freigabezeitpunkt nicht gesichert.
-  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
+  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nachprüfung 23.11.2026: Bildstichproben bei 00:30,01:30,02:30,03:30,04:30,05:30,06:30,07:30,08:30 und08:50. Historische Zähler (Aufrufe über 1,1 Mio.; Likes 36K), Kasner-Textzusammenfassung und Gerichts-URL kontrolliert. Keine durchgehende Bildfolge und keine vollständige Tonkontrolle. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
 
 - [Naomi Seibt bei Ben: Ich kenne Merkels größtes Geheimnis](https://www.youtube.com/watch?v=mdo14671BPE) · Originalplayer: 02:48:38. Von der Reaktionsbeschreibung ausdrücklich verlinkt.
   Quellenzugriff am 2026-11-23. Originalplayer geöffnet, automatisches deutsches Transkript privat exportiert; Zusammenhang 02:00:03–02:10:42 gelesen, insbesondere 02:01:40–02:07:18. Keine vollständige Sichtung des Interviews und keine bestätigte Stimmenidentifikation. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
@@ -415,7 +438,7 @@ Bewertungsuebergang: [Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich
 ### Zugeordnete Quellen
 
 - [Klupatwins: ZU PEINLICH! Wildes GESCHWURBEL bei Ben {ungeskriptet} über Angela Merkel](https://www.youtube.com/watch?v=mv1ZqLrmwH0) · Originalplayer: 08:51; angezeigtes Datum 17.11.2026, zugleich Beginn der Mitgliederfreigabe. Separater öffentlicher Freigabezeitpunkt nicht gesichert.
-  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
+  Quellenzugriff am 2026-11-23. Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nachprüfung 23.11.2026: Bildstichproben bei 00:30,01:30,02:30,03:30,04:30,05:30,06:30,07:30,08:30 und08:50. Historische Zähler (Aufrufe über 1,1 Mio.; Likes 36K), Kasner-Textzusammenfassung und Gerichts-URL kontrolliert. Keine durchgehende Bildfolge und keine vollständige Tonkontrolle. Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern.
 
 ### Offene Fragen und Unsicherheiten
 

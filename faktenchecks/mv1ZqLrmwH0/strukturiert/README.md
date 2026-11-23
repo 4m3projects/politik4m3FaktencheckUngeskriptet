@@ -2,19 +2,19 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Textinventar über 00:00–08:51 einschließlich Auftakt, fünf Themenabschnitten und Twitch-Eigenwerbung. 36 Prüfgegenstände; wiederholte Aussagen zusammengeführt. Fremde Einspieler sind ausdrücklich von eigenen Kanalaussagen getrennt. Player-Transkript und Export haben abweichende Segmentgrenzen; letzte Textzeile 08:49, Rest bis 08:51 nicht akustisch kontrolliert. Einzelbilder bei etwa 00:25 und 05:25 geprüft; keine vollständige Kontrolle von Ton, Mimik, Schnitt oder textfreien Einblendungen. Daher Teilbestand und kein Anspruch auf audiovisuelle Vollständigkeit.
+**Abdeckung: Teilbestand.** Textinventar über 00:00–08:51 einschließlich Auftakt, fünf Themenabschnitten und Twitch-Eigenwerbung. 36 Prüfgegenstände; wiederholte Aussagen zusammengeführt. Fremde Einspieler sind ausdrücklich von eigenen Kanalaussagen getrennt. Player-Transkript und Export haben abweichende Segmentgrenzen; letzte Textzeile 08:49, Rest bis 08:51 nicht akustisch kontrolliert. Einzelbilder bei etwa 00:25 und 05:25 geprüft; keine vollständige Kontrolle von Ton, Mimik, Schnitt oder textfreien Einblendungen. Daher Teilbestand und kein Anspruch auf audiovisuelle Vollständigkeit. Nachprüfung: zusätzliche systematische Bildstichproben über den Verlauf, historische Zähler gelesen; weiterhin keine lückenlose audiovisuelle Vollprüfung. Acht offene Sachaufträge bearbeitet, ein Twitch-Prüfauftrag bleibt offen.
 
 Stand: 2026-11-23 · Video: mv1ZqLrmwH0
 
-[Codex] Eigenständige Fortsetzung von Issue #114. Vollständiges deutsches Originalplayer-Transkript gelesen, Originalinterview 2:00:03–2:10:42 textlich rückabgeglichen und verzeichnete Sachquellen selbst gelesen. Keine vidIQ-Credits eingesetzt. Keine vollständige audiovisuelle oder unabhängige redaktionelle Zweitprüfung. Bedeutungsfaktoren vorläufig, nach Kenntnis der Urteile begründet.
+[Codex] Eigenständige Fortsetzung von Issue #114. Vollständiges deutsches Originalplayer-Transkript gelesen, Originalinterview 2:00:03–2:10:42 textlich rückabgeglichen und verzeichnete Sachquellen selbst gelesen. Keine vidIQ-Credits eingesetzt. Keine vollständige audiovisuelle oder unabhängige redaktionelle Zweitprüfung. Bedeutungsfaktoren zunächst vorläufig, nach Kenntnis der Urteile begründet; der nachfolgend dokumentierte separate Faktorreview ergänzt diesen ersten Prüfstand. Nachprüfung 23.11.2026: alle acht offenen Aussagen nachbearbeitet, sieben abgeschlossen, Twitch-Dauer offen. Separater lesender Gewichtungsreview auf Basis 04b1135; zwei Faktoren gesenkt, alle 18 kontrolliert. Präzisionskorrektur UG-C0005, keine vollständige Tonkontrolle.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 25
-- Abgeschlossen: 22
-- Offen (noch nicht geprueft): 3
+- Abgeschlossen: 24
+- Offen (noch nicht geprueft): 1
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
 - Erfasste Behauptungsvorkommen: 29
@@ -30,14 +30,14 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 15 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 17 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 14 | 93.3 % |
-| Teilweise belegt | 1 | 6.7 % |
+| Belegt | 15 | 88.2 % |
+| Teilweise belegt | 2 | 11.8 % |
 | Irreführend / Kontext fehlt | 0 | 0.0 % |
 | Widerlegt | 0 | 0.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |

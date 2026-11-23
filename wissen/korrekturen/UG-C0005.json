@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0005",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-23",
+  "reportedBy": "Codex",
+  "trigger": {
+    "claimId": "mv1ZqLrmwH0-A0012",
+    "entryId": null,
+    "description": "Überpräzise Zeitbegründung aus automatisch segmentierten Untertiteln; kein geändertes Wahr/Falsch-Urteil."
+  },
+  "evidence": [
+    {
+      "title": "Naomi-Seibt-Interview im Originalplayer",
+      "url": "https://www.youtube.com/watch?v=mdo14671BPE",
+      "accessedOn": "2026-11-23",
+      "finding": "Originaltextmarken bei 2:01:40 und2:02:45/50/53 erneut gelesen. Keine ausreichend genaue Hörkontrolle für einen sekundengenauen Abstand."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mv1ZqLrmwH0-A0012",
+      "reason": "Nur diese Begründung und Kurzbegründung behaupten 68 Sekunden. Gleiches Quellvideo bei anderen Aussagen ist keine inhaltliche Abhängigkeit; Kandidaten aus wissen.js betroffen deshalb begründet eingegrenzt."
+    }
+  ],
+  "decision": {
+    "by": "Regel:UngefähreUntertitelzeit",
+    "date": "2026-11-23",
+    "basis": "Eindeutige Präzisierung einer einzelnen Begründung bei unverändertem Urteil; Textmarken und separater Review stimmen überein. Kein Wissenseintragsurteil und keine weiteren Aussagen betroffen."
+  },
+  "changes": [
+    {
+      "target": "mv1ZqLrmwH0-A0012",
+      "field": "reason",
+      "before": "Die Reihenfolge stimmt: Die CDU-Kritik beginnt im Original bei 2:01:40, die Umzugsthese bei 2:02:48. Der Abstand beträgt etwa 68 Sekunden, nicht zwei Minuten. Der zutreffende frühere Themenbezug bleibt von der ungenauen Zeitangabe und dem normativen Konsistenzvorwurf getrennt.",
+      "after": "Die Reihenfolge stimmt: Die CDU-Kritik beginnt im automatischen Originaltext bei etwa 2:01:40; die Kasner-/Umzugspassage liegt bei etwa 2:02:45–2:02:53. Das ist gut eine Minute, je nach gewähltem Satzbeginn etwa 65–75 Sekunden. Zwei Minuten sind als Zeitangabe ungenau. Die Textmarken tragen keine sekundengenaue Messung; der frühere Inhalt und der normative Konsistenzvorwurf bleiben getrennt."
+    },
+    {
+      "target": "mv1ZqLrmwH0-A0012",
+      "field": "shortReason",
+      "before": "Die Reihenfolge stimmt, der Abstand im Original beträgt aber rund 68 Sekunden statt zwei Minuten.",
+      "after": "Die Reihenfolge stimmt; der automatische Originaltext legt gut eine Minute Abstand nahe, keine sekundengenaue Messung."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-23",
+      "agent": "Codex",
+      "change": "Gemeldet, Abhängigkeitskandidaten geprüft und auf die eine tatsächlich betroffene Zeitbegründung eingegrenzt. Nach erneuter Originaltextlektüre und separatem Review umgesetzt; alte Begründung im Vorgang erhalten."
+    }
+  ]
+}
