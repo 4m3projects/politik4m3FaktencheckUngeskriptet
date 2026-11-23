@@ -36,3 +36,7 @@ Die erste Teilprüfung mit 57 abgeschlossenen Tatsachenbewertungen ist seit dem 
 Die anschließende Originalnachprüfung bewertet A0228 nun als **Irreführend / Kontext fehlt**: Der amtliche Normtext enthält kein allgemeines Verbot von Kriminalstatistiken. Dieses Ergebnis hängt nicht davon ab, ob Seibt Kaiser meint. Auch die Auslandsäußerung A0230 wird rechtlich differenziert geprüft. Die zutreffende Berufsangabe A0036 und die zeitlich passende Amtsangabe A0204 werden als belegt berücksichtigt. Vorherige Einstufungen bleiben in UG-C0002/UG-C0003 nachvollziehbar. Alfreds und Hanks Verknüpfungen wurden auf diese Änderungen abgeglichen; keine fremden Urteile oder Indexpunkte übernommen.
 
 Gezielte Ergänzung am 23.11.2026 [Codex]: [Klupatwins-Rückabgleich](06_klupatwins_nachpruefung.md) mit zusätzlicher Quelle zum kirchlichen Anlass von Kasners Umzug; keine bestehende Faktenbewertung geändert.
+
+## Weiterer Rückabgleich am 23.11.2026
+
+Vier Stasi-/Kasner-Aussagen erhalten zusätzliche Quellen bei unveränderten Urteilen. Die bisher nicht einzeln erfasste Steuerungsthese A0252 ist nach eigener Recherche ergänzt; damit 252 Prüfgegenstände. [Neue Belege, Einordnung und Folgeabgleich](07_klupatwins_restpruefung.md). Keine audiovisuelle Vollprüfung.

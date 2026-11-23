@@ -1,5 +1,7 @@
 # Nachprüfung und Rückabgleich
 
+**Historischer Bericht der ersten Prüfung.** Die folgenden Zahlen und Restaufträge beschreiben den Stand von PR #116. Die anschließende [weitere Nachprüfung](nachpruefung.md) auf Basis `04b11354b7a461a83f782b347b7cd52c6b7cb0fc` schließt sieben offene Aussagen ab und dokumentiert den separaten Gewichtungsreview. Aktuell bleiben die Twitch-Dauer und die audiovisuelle Vollkontrolle ausstehend.
+
 [Codex], 23.11.2026. Basis `6ffe20e`, Branch `codex/naomi-klupatwins-nachpruefung`, [Issue #114](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/issues/114). Zu Beginn keine offenen PRs laut GitHub-Abfrage. Andere Arbeitsbäume unverändert gelassen.
 
 ## Tatsächlicher Prüfumfang
@@ -10,7 +12,7 @@ Original ebenfalls im Player geöffnet und deutschen Text privat exportiert. Zus
 
 | Reaktion | Original | Gegenstand |
 | --- | --- | --- |
-| 01:51–02:03 | 02:01:40–02:01:51 | CDU-/Christentumskritik; Reihenfolge stimmt, Zwei-Minuten-Angabe ungenau: tatsächlich rund 68 Sekunden. |
+| 01:51–02:03 | 02:01:40–02:01:51 | CDU-/Christentumskritik; Reihenfolge stimmt, Zwei-Minuten-Angabe ungenau. Die frühere Angabe „rund 68 Sekunden“ ist durch UG-C0005 berichtigt: gut eine Minute, abhängig von Segment- und Satzgrenzen etwa 65–75 Sekunden; keine sekundengenaue Hörmessung. |
 | 00:42–01:18 | 02:02:33–02:03:04 | Kanzlerschaft und Kasner; Beruf, Motiv und Privilegien getrennt. |
 | 02:33–03:27 | 02:03:04–02:03:35 | Grenze und anonymer Kontakt; kein unabhängiger Agentennachweis. |
 | 04:08–05:14 | 02:05:20–02:05:54 | Gerichtsparaphrase; Kontextbewertung nach eigener Quellenlektüre bestätigt. |

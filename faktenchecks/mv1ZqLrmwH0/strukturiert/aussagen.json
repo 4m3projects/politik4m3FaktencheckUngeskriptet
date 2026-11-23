@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Eigenständige Fortsetzung von Issue #114. Vollständiges deutsches Originalplayer-Transkript gelesen, Originalinterview 2:00:03–2:10:42 textlich rückabgeglichen und verzeichnete Sachquellen selbst gelesen. Keine vidIQ-Credits eingesetzt. Keine vollständige audiovisuelle oder unabhängige redaktionelle Zweitprüfung. Bedeutungsfaktoren vorläufig, nach Kenntnis der Urteile begründet.",
-    "coverageNote": "Textinventar über 00:00–08:51 einschließlich Auftakt, fünf Themenabschnitten und Twitch-Eigenwerbung. 36 Prüfgegenstände; wiederholte Aussagen zusammengeführt. Fremde Einspieler sind ausdrücklich von eigenen Kanalaussagen getrennt. Player-Transkript und Export haben abweichende Segmentgrenzen; letzte Textzeile 08:49, Rest bis 08:51 nicht akustisch kontrolliert. Einzelbilder bei etwa 00:25 und 05:25 geprüft; keine vollständige Kontrolle von Ton, Mimik, Schnitt oder textfreien Einblendungen. Daher Teilbestand und kein Anspruch auf audiovisuelle Vollständigkeit."
+    "researchNote": "[Codex] Eigenständige Fortsetzung von Issue #114. Vollständiges deutsches Originalplayer-Transkript gelesen, Originalinterview 2:00:03–2:10:42 textlich rückabgeglichen und verzeichnete Sachquellen selbst gelesen. Keine vidIQ-Credits eingesetzt. Keine vollständige audiovisuelle oder unabhängige redaktionelle Zweitprüfung. Bedeutungsfaktoren zunächst vorläufig, nach Kenntnis der Urteile begründet; der nachfolgend dokumentierte separate Faktorreview ergänzt diesen ersten Prüfstand. Nachprüfung 23.11.2026: alle acht offenen Aussagen nachbearbeitet, sieben abgeschlossen, Twitch-Dauer offen. Separater lesender Gewichtungsreview auf Basis 04b1135; zwei Faktoren gesenkt, alle 18 kontrolliert. Präzisionskorrektur UG-C0005, keine vollständige Tonkontrolle.",
+    "coverageNote": "Textinventar über 00:00–08:51 einschließlich Auftakt, fünf Themenabschnitten und Twitch-Eigenwerbung. 36 Prüfgegenstände; wiederholte Aussagen zusammengeführt. Fremde Einspieler sind ausdrücklich von eigenen Kanalaussagen getrennt. Player-Transkript und Export haben abweichende Segmentgrenzen; letzte Textzeile 08:49, Rest bis 08:51 nicht akustisch kontrolliert. Einzelbilder bei etwa 00:25 und 05:25 geprüft; keine vollständige Kontrolle von Ton, Mimik, Schnitt oder textfreien Einblendungen. Daher Teilbestand und kein Anspruch auf audiovisuelle Vollständigkeit. Nachprüfung: zusätzliche systematische Bildstichproben über den Verlauf, historische Zähler gelesen; weiterhin keine lückenlose audiovisuelle Vollprüfung. Acht offene Sachaufträge bearbeitet, ein Twitch-Prüfauftrag bleibt offen."
   },
   "legacyPoints": [],
   "sources": [
@@ -21,7 +21,7 @@
       "url": "https://www.youtube.com/watch?v=mv1ZqLrmwH0",
       "details": "Originalplayer: 08:51; angezeigtes Datum 17.11.2026, zugleich Beginn der Mitgliederfreigabe. Separater öffentlicher Freigabezeitpunkt nicht gesichert.",
       "accessedOn": "2026-11-23",
-      "accessBasis": "Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche."
+      "accessBasis": "Beschreibung und gesamtes deutsches automatisches Originaltranskript im Player geöffnet und gelesen, privat exportiert. Einzelbilder um 00:25 und 05:25 kontrolliert; bei 05:25 ist die Gerichtsmeldung mit Original-URL eingeblendet. Keine vollständige Hör-/Sichtkontrolle. Die im Player und Export unterschiedlich segmentierten Zeitmarken sind Suchbereiche. Nachprüfung 23.11.2026: Bildstichproben bei 00:30,01:30,02:30,03:30,04:30,05:30,06:30,07:30,08:30 und08:50. Historische Zähler (Aufrufe über 1,1 Mio.; Likes 36K), Kasner-Textzusammenfassung und Gerichts-URL kontrolliert. Keine durchgehende Bildfolge und keine vollständige Tonkontrolle."
     },
     {
       "id": "S002",
@@ -102,6 +102,78 @@
       "details": "Öffentliches Kanalarchiv beim Abruf.",
       "accessedOn": "2026-11-23",
       "accessBasis": "Abruf lieferte keinen lesbaren Archivinhalt. Kein Beleg für oder gegen eine ununterbrochene Übertragung von 1.400 Stunden."
+    },
+    {
+      "id": "S012",
+      "title": "Ralph Bollmann: Angela Merkel. Die Kanzlerin und ihre Zeit",
+      "url": "https://api.pageplace.de/preview/DT0400.9783406778964_A42194268/preview-9783406778964_A42194268.pdf",
+      "details": "C.H.Beck, 2021; öffentlich angebotene Buchvorschau, keine Vollbuchprüfung.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Gedruckte Seiten 22–23, 29–31 und 77–78 selbst gelesen: kirchliche Umzugserklärung, spätere kirchenpolitische Position und dokumentierter Wohnungsweg. Zitierte Erinnerungen bleiben zugeschriebene Selbstauskünfte; Anmerkungsapparat nicht vollständig zugänglich."
+    },
+    {
+      "id": "S013",
+      "title": "CDU-Parteitagsprotokoll vom 7. November 1998: Rede Angela Merkels",
+      "url": "https://www.helmut-kohl.de/pdf/CDU-Parteitag_7-11-1998_mit_Abschiedsrede_PV_Kohl.pdf",
+      "details": "11. Parteitag, gedruckte Seiten 77–78.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Merkels Redeabschnitt zu ihrem Wohnort am 09.11.1989 selbst gelesen: Schönhauser Allee nahe Grenzübergang Bornholmer Straße. Primärquelle ihrer öffentlichen Selbstauskunft, kein Beleg einer Stasi-Privilegierung."
+    },
+    {
+      "id": "S014",
+      "title": "Hubertus Knabe: IM Erika – eine Spurensuche",
+      "url": "https://hubertus-knabe.de/auf-den-spuren-von-im-erika/",
+      "details": "09.08.2019; Original-Recherchebericht des Historikers.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Abschnitte Quellenlage, Observationsfoto, Umfeld, FDJ, Anwerbeversuch und Schlussfolgerung selbst gelesen. Knabe legt fehlende Belege und Grenzen der Aktenlage dar; einzelne Vorbehalte und politische Kritik werden nicht verschwiegen. Seine Auswertung ersetzt keine eigene Einsicht in den kompletten Behördenbestand."
+    },
+    {
+      "id": "S015",
+      "title": "Bundesarchiv: Die Rosenholz-Dateien",
+      "url": "https://www.bundesarchiv.de/themen-entdecken/online-entdecken/themenbeitraege/die-rosenholz-dateien/",
+      "details": "Archivdarstellung zu Herkunft, Rückgabe und quellenkritischen Grenzen.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Einleitung, HV-A-Überlieferung und Vernichtung, Herkunft in den USA, Karteien und Quellenkritik gelesen. Allgemeine Bestandsverluste und US-Überlieferung sind kein Nachweis konkreter belastender Merkel-Unterlagen."
+    },
+    {
+      "id": "S016",
+      "title": "Wolfgang Templin: Das Mädchen aus der DDR",
+      "url": "https://www.bpb.de/themen/deutschlandarchiv/557881/das-maedchen-aus-der-ddr/",
+      "details": "Deutschland Archiv, 21.12.2024; Autorenbeitrag/Buchbesprechung, keine amtliche Personenfeststellung.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Abschnitt zu Kasners politischer Haltung und zu Knabes Recherchen über Merkel gelesen. Als kritische Sekundäreinordnung neben dem Original-Recherchebericht verwendet, nicht als unabhängiger zweiter Aktennachweis."
+    },
+    {
+      "id": "S017",
+      "title": "Ruprecht Polenz: Interview zu vorgezogenen Neuwahlen 2005",
+      "url": "https://www.ruprecht-polenz.de/news/lokal/431/1_datenschutz_Wichtige-Informationen-fuer-Sie.html",
+      "details": "Auf Polenz eigener Website veröffentlichter Interviewtext im Kontext der vorgezogenen Bundestagswahl 2005.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Passage zu Merkels Kanzlerkandidatur und zur beabsichtigten öffentlichen Wahlkampfunterstützung selbst gelesen. Belegt politische Unterstützung; kein Nachweis einer verdeckten Steuerung."
+    },
+    {
+      "id": "S018",
+      "title": "Konrad-Adenauer-Stiftung: Ruprecht Polenz",
+      "url": "https://www.kas.de/de/web/geschichte-der-cdu/personen/biogramm-detail/-/content/ruprecht-polenz-v1",
+      "details": "Biografische Dokumentation von Jan Philipp Wölbern; parteinahe Stiftung.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Ämter, Generalsekretariat und politische Laufbahn gelesen. Kein vollständiges Archiv sämtlicher Kontakte oder Absprachen."
+    },
+    {
+      "id": "S019",
+      "title": "TrackWappla: Klupatwins – Stream-Statistiken",
+      "url": "https://track.wappla.de/statistics.php?user=klupatwins",
+      "details": "Öffentliche eigene Messreihe des Trackers beim Abruf; ausdrücklich begrenzte Erfassung.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Tageswerte, erfasste Streamabschnitte und Methodik selbst gelesen: Messintervalle, Lücken über 15 Minuten werden nicht überbrückt. Titel mit Rekordangabe sind Selbstauskünfte, keine Messung von 1.400 lückenlosen Stunden."
+    },
+    {
+      "id": "S020",
+      "title": "Who to Follow Live: Klupatwins – Stream history",
+      "url": "https://whotofollow.live/twitch/klupatwins",
+      "details": "Öffentliche Stichprobenerfassung; laut Seite seit 13.10.2026, keine vollständige Twitch-Statistik.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Historische Streamfragmente und Methodik gelesen. Beobachtete Laufzeiten und Tageszählertitel reichen nicht für einen lückenlosen 1.400-Stunden-Nachweis zum Erstellungszeitpunkt."
     }
   ],
   "speakers": [
@@ -171,10 +243,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Laufzeitangabe zur Form der Reaktion, kein Argument für die Merkel-These.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Formale Einordnung des Ausgangsvideos, kein Argument zur Merkel-These."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -201,14 +292,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das Originalvideo hatte bei Erstellung der Reaktion über eine Million Aufrufe.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – ein unabhängig datierter Abruf der Aufrufzahl zum Herstellungszeitpunkt fehlt; heutige Zähler ersetzen ihn nicht.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die bei etwa 00:30 kontrollierte historische Einblendung zeigt 1.125.704 Aufrufe des Originalvideos; spätere Stichproben zeigen ebenfalls über 1,1 Millionen. Das stützt den Schwellenwert für die im Reaktionsvideo dokumentierte Situation. Die Einblendung ist keine unabhängige Prüfung der YouTube-Zählinfrastruktur.",
       "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
-        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Nachrecherche 2026-11-23 [Codex]: vorher Offen ohne Urteil, jetzt Belegt. Frühere Begründung: Noch nicht geprüft – ein unabhängig datierter Abruf der Aufrufzahl zum Herstellungszeitpunkt fehlt; heutige Zähler ersetzen ihn nicht."
       },
       "sourceRefs": [
         {
@@ -216,9 +307,7 @@
           "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
         }
       ],
-      "openQuestions": [
-        "Historische Metadaten oder eine zeitlich zuordenbare Zähler-Einblendung zum Aufnahmetag kontrollieren."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mv1ZqLrmwH0-O0002",
@@ -242,10 +331,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Beiläufige historische Reichweitenzahl im Auftakt; kein Sachbeleg zum Stasi-Thema.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Reichweitenrahmung im Auftakt, kein Sachbeleg der Kritik."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -259,11 +367,21 @@
               "S001"
             ],
             "result": "Noch nicht geprüft – ein unabhängig datierter Abruf der Aufrufzahl zum Herstellungszeitpunkt fehlt; heutige Zähler ersetzen ihn nicht."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Zweiter Prüfweg: Originalplayer mit Bild bei etwa 00:30 und 02:30 geprüft, statt heutige Metadaten auf den Aufnahmezeitpunkt zurückzurechnen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Die bei etwa 00:30 kontrollierte historische Einblendung zeigt 1.125.704 Aufrufe des Originalvideos; spätere Stichproben zeigen ebenfalls über 1,1 Millionen. Das stützt den Schwellenwert für die im Reaktionsvideo dokumentierte Situation. Die Einblendung ist keine unabhängige Prüfung der YouTube-Zählinfrastruktur."
           }
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Die historische Einblendung im Reaktionsvideo zeigt bereits mehr als 1,1 Millionen Aufrufe."
     },
     {
       "id": "mv1ZqLrmwH0-A0003",
@@ -272,14 +390,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Das Originalvideo hatte bei Erstellung der Reaktion über 36.000 positive Bewertungen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – der historische Like-Zähler ist nicht unabhängig gesichert; die bloße Wiederholung durch den Kanal ist kein externer Nachweis.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die kontrollierte historische Einblendung zeigt die gerundete Anzeige 36K. Das stützt ungefähr 36.000 positive Bewertungen; die strengere Formulierung über 36.000 lässt sich aus dieser Rundung nicht exakt feststellen. Kein heutiger Like-Zähler als historischer Beweis verwendet.",
       "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
-        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Nachrecherche 2026-11-23 [Codex]: vorher Offen ohne Urteil, jetzt Teilweise belegt. Frühere Begründung: Noch nicht geprüft – der historische Like-Zähler ist nicht unabhängig gesichert; die bloße Wiederholung durch den Kanal ist kein externer Nachweis."
       },
       "sourceRefs": [
         {
@@ -287,9 +405,7 @@
           "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
         }
       ],
-      "openQuestions": [
-        "Historische Metadaten oder eine datierte Einblendung der positiven Bewertungen kontrollieren."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mv1ZqLrmwH0-O0003",
@@ -313,10 +429,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Beiläufige historische Reichweitenzahl, unabhängig vom Urteil niedrig gewichtet.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Wie Aufrufzahl eine getrennte messbare Reichweitengröße, kein Sachbeleg."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -330,11 +465,21 @@
               "S001"
             ],
             "result": "Noch nicht geprüft – der historische Like-Zähler ist nicht unabhängig gesichert; die bloße Wiederholung durch den Kanal ist kein externer Nachweis."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Zweiter Prüfweg: Like-Anzeige in derselben historischen Original-Einblendung bei etwa 00:30 und 02:30 im Bild kontrolliert.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Die kontrollierte historische Einblendung zeigt die gerundete Anzeige 36K. Das stützt ungefähr 36.000 positive Bewertungen; die strengere Formulierung über 36.000 lässt sich aus dieser Rundung nicht exakt feststellen. Kein heutiger Like-Zähler als historischer Beweis verwendet."
           }
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Sichtbar sind gerundete 36K; die genaue Zahl und das strikte Überschreiten von 36.000 bleiben ungeklärt."
     },
     {
       "id": "mv1ZqLrmwH0-A0004",
@@ -386,10 +531,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Selbstbeschreibung der Themenauswahl; keine sachliche Stütze der zentralen Kritik.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Beschreibung der Machart, keine historische Hauptbegründung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -417,14 +581,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Merkels Kanzlerschaft sei als übergeordnetes Konstrukt gezielt eingefädelt worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die unbestimmte Steuerungsthese benennt hier weder Akteure noch überprüfbare Absprachen; eine Prüfung konkreter historischer Belege ist ausstehend.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Öffentliche Wahlkampfunterstützung durch Polenz und die parlamentarische Wahl Merkels sind dokumentiert. Die gelesenen Quellen belegen keinen darüber hinausgehenden, gezielt eingefädelten Gesamtplan. Die Passage nennt keinen klar abgrenzbaren Mechanismus; gewöhnliche politische Strategie und eine verdeckte Steuerung dürfen nicht gleichgesetzt werden. Fehlender Beleg ist keine Widerlegung sämtlicher möglicher Absprachen.",
       "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
-        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Nachrecherche 2026-11-23 [Codex]: vorher Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Begründung: Noch nicht geprüft – die unbestimmte Steuerungsthese benennt hier weder Akteure noch überprüfbare Absprachen; eine Prüfung konkreter historischer Belege ist ausstehend."
       },
       "sourceRefs": [
         {
@@ -434,10 +598,22 @@
         {
           "sourceId": "S002",
           "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S006",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
+        },
+        {
+          "sourceId": "S018",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
         }
       ],
       "openQuestions": [
-        "Den Originalkontext zu Polenz und zur behaupteten Steuerung präzisieren; konkrete Akteure und Belege vor einem Sachurteil bestimmen."
+        "Welche konkrete, über öffentlichen Wahlkampf hinausgehende Absprache wird behauptet und durch welche zeitgenössischen Unterlagen wäre sie prüfbar?"
       ],
       "occurrences": [
         {
@@ -469,7 +645,7 @@
         "assessedOn": "2026-11-23"
       },
       "research": {
-        "gap": null,
+        "gap": "Quellenlage unzureichend",
         "confidence": "Mittel",
         "rounds": [
           {
@@ -481,11 +657,31 @@
               "S002"
             ],
             "result": "Noch nicht geprüft – die unbestimmte Steuerungsthese benennt hier weder Akteure noch überprüfbare Absprachen; eine Prüfung konkreter historischer Belege ist ausstehend."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Gezielter Quellenweg nach Wissenssuche: institutionelle Darstellung der Regierungsbildung 2005 und Polenz-Biografie geöffnet und gelesen.",
+            "sourceIds": [
+              "S006",
+              "S018"
+            ],
+            "result": "Öffentliche politische Stationen und parlamentarische Wahl belegt, kein dokumentierter weitergehender Gesamtplan."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Anderer Rechercheansatz: zeitgenössischen Interviewtext auf Polenz eigener Website zur vorgezogenen Wahl 2005 gelesen; behauptete geheime Steuerung von ausdrücklich öffentlicher Unterstützung getrennt.",
+            "sourceIds": [
+              "S017"
+            ],
+            "result": "Öffentliche Wahlkampfunterstützung durch Polenz und die parlamentarische Wahl Merkels sind dokumentiert. Die gelesenen Quellen belegen keinen darüber hinausgehenden, gezielt eingefädelten Gesamtplan. Die Passage nennt keinen klar abgrenzbaren Mechanismus; gewöhnliche politische Strategie und eine verdeckte Steuerung dürfen nicht gleichgesetzt werden. Fehlender Beleg ist keine Widerlegung sämtlicher möglicher Absprachen."
           }
         ],
-        "missingInformation": null,
+        "missingInformation": "Konkrete Akteure, Zeitraum, Absprachen und belastbare Dokumente für den behaupteten Gesamtplan.",
         "conflicts": null
-      }
+      },
+      "shortReason": "Dokumentiert sind politische Unterstützung und Wahl; ein darüber hinausgehender Steuerungsplan ist nicht nachgewiesen."
     },
     {
       "id": "mv1ZqLrmwH0-A0006",
@@ -533,10 +729,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Eigenständiger institutioneller Einwand, kurz und nicht zentral ausgearbeitet."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -633,14 +848,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Kasner sei aus sozialistischer Überzeugung und wegen erwarteter Privilegien in die DDR gezogen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – kirchlicher Beruf und Pfarrermangel erklären den dokumentierten Anlass, schließen zusätzliche politische Motive aber nicht logisch aus. Die zusammengesetzte Motiv- und Privilegienthese wird hier nicht abschließend entschieden.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Die Buchvorschau dokumentiert den kirchlichen Umzugsanlass 1954 und späteres kirchenpolitisches Engagement Kasners. Seine politische Haltung wird damit nicht durch den Pfarrberuf widerlegt. Eine schon 1954 ausschlaggebende Erwartung persönlicher Privilegien lässt sich aus den gelesenen Quellen jedoch nicht belegen. Spätere Vorteile beweisen keine frühere Absicht.",
       "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
-        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Nachrecherche 2026-11-23 [Codex]: vorher Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Begründung: Noch nicht geprüft – kirchlicher Beruf und Pfarrermangel erklären den dokumentierten Anlass, schließen zusätzliche politische Motive aber nicht logisch aus. Die zusammengesetzte Motiv- und Privilegienthese wird hier nicht abschließend entschieden."
       },
       "sourceRefs": [
         {
@@ -654,10 +869,18 @@
         {
           "sourceId": "S010",
           "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
         }
       ],
       "openQuestions": [
-        "Zeitgenössische Selbstaussagen oder belastbare biografische Forschung zu Kasners individuellen Motiven und damaligen Erwartungen prüfen."
+        "Bei zugänglichem Anmerkungsapparat die in Bollmann S. 23 zitierten Selbstaussagen bis zu ihrer Erstveröffentlichung verfolgen; politische Haltung und Motivzeitpunkt trennen."
       ],
       "occurrences": [
         {
@@ -689,7 +912,7 @@
         "assessedOn": "2026-11-23"
       },
       "research": {
-        "gap": null,
+        "gap": "Quellenlage unzureichend",
         "confidence": "Mittel",
         "rounds": [
           {
@@ -702,11 +925,22 @@
               "S010"
             ],
             "result": "Noch nicht geprüft – kirchlicher Beruf und Pfarrermangel erklären den dokumentierten Anlass, schließen zusätzliche politische Motive aber nicht logisch aus. Die zusammengesetzte Motiv- und Privilegienthese wird hier nicht abschließend entschieden."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Zweiter gezielt anderer Quellenweg: biografische Buchvorschau S. 22–23 und 29–31 selbst gelesen, mit späterer politischer Haltung im Autorenbeitrag Templins gegengeprüft.",
+            "sourceIds": [
+              "S012",
+              "S016"
+            ],
+            "result": "Die Buchvorschau dokumentiert den kirchlichen Umzugsanlass 1954 und späteres kirchenpolitisches Engagement Kasners. Seine politische Haltung wird damit nicht durch den Pfarrberuf widerlegt. Eine schon 1954 ausschlaggebende Erwartung persönlicher Privilegien lässt sich aus den gelesenen Quellen jedoch nicht belegen. Spätere Vorteile beweisen keine frühere Absicht."
           }
         ],
-        "missingInformation": null,
+        "missingInformation": "Zeitgenössische oder anderweitig belastbar erschlossene Belege für die konkreten Erwartungen Kasners beim Umzug 1954.",
         "conflicts": null
-      }
+      },
+      "shortReason": "Kirchlicher Anlass und spätere politische Haltung sind dokumentiert; erwartete Privilegien als Umzugsmotiv nicht."
     },
     {
       "id": "mv1ZqLrmwH0-A0009",
@@ -758,10 +992,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragender biografischer Einwand gegen die verkürzte Umzugserzählung; die Bedeutung beruht auf der Argumentationsrolle.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Tragender Ausgangspunkt der biografischen Gegenargumentation; Beruf und Haltung getrennt."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -832,10 +1085,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende alternative Erklärung zum Umzug des Vaters; gleiche Bedeutung unabhängig von ihrer Bestätigung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Tragende alternative Umzugserklärung, mehr als biografisches Beiwerk."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -902,10 +1174,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Historischer Kontext zur Umzugserklärung, kein eigener Hauptnachweis."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -934,12 +1225,12 @@
       "description": "Etwa zwei Minuten vor ihrer Kasner-Kritik habe Seibt die fehlende christliche Orientierung der CDU beanstandet.",
       "status": "Abgeschlossen",
       "verdict": "Teilweise belegt",
-      "reason": "Die Reihenfolge stimmt: Die CDU-Kritik beginnt im Original bei 2:01:40, die Umzugsthese bei 2:02:48. Der Abstand beträgt etwa 68 Sekunden, nicht zwei Minuten. Der zutreffende frühere Themenbezug bleibt von der ungenauen Zeitangabe und dem normativen Konsistenzvorwurf getrennt.",
+      "reason": "Die Reihenfolge stimmt: Die CDU-Kritik beginnt im automatischen Originaltext bei etwa 2:01:40; die Kasner-/Umzugspassage liegt bei etwa 2:02:45–2:02:53. Das ist gut eine Minute, je nach gewähltem Satzbeginn etwa 65–75 Sekunden. Zwei Minuten sind als Zeitangabe ungenau. Die Textmarken tragen keine sekundengenaue Messung; der frühere Inhalt und der normative Konsistenzvorwurf bleiben getrennt.",
       "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
-        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Präzisionskorrektur UG-C0005 am 23.11.2026 [Codex]: scheinexakte 68 Sekunden durch ungefähren, von Segmentgrenzen abhängigen Abstand ersetzt. Urteil Teilweise belegt unverändert; unabhängiger Review bestätigt die geringere Gewichtung und die redaktionelle Anteilsabschätzung."
       },
       "sourceRefs": [
         {
@@ -973,9 +1264,9 @@
       ],
       "relations": [],
       "factIndex": {
-        "weight": 1,
-        "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
-        "weightStatus": "Vorläufig",
+        "weight": 0.5,
+        "weightReason": "Die ungefähre Zeitdistanz ist Beiwerk; früherer Inhalt und Reihenfolge tragen den normativen Konsistenzvorwurf. Die Anteile 0,75/0,25/0 sind als redaktionelle Zerlegung vertretbar, keine gemessene Fehlerquote; keine akustische Bestätigung.",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
         "assessedBeforeVerdict": false,
@@ -984,7 +1275,34 @@
           "f": 0.25,
           "u": 0
         },
-        "sharesReason": "Die zeitliche Reihenfolge und der frühere Inhalt stimmen, der bezeichnete Abstand ist falsch. Redaktionelle Anteilsabschätzung des zusammengesetzten Satzes, keine Wortzählung; unabhängige Gegenprüfung ausstehend."
+        "sharesReason": "Die zeitliche Reihenfolge und der frühere Inhalt stimmen, der bezeichnete Abstand ist falsch. Redaktionelle Anteilsabschätzung des zusammengesetzten Satzes, keine Wortzählung; unabhängige Gegenprüfung ausstehend.",
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Zweite Kontrolle nach der Abweichung; begründeter Konsens. Die ungefähre Zeitdistanz ist Beiwerk; früherer Inhalt und Reihenfolge tragen den normativen Konsistenzvorwurf. Die Anteile 0,75/0,25/0 sind als redaktionelle Zerlegung vertretbar, keine gemessene Fehlerquote; keine akustische Bestätigung."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weight",
+            "previous": 1,
+            "next": 0.5,
+            "reason": "Begründete Abweichung des unabhängigen Reviewagents übernommen: Die ungefähre Zeitdistanz ist Beiwerk; früherer Inhalt und Reihenfolge tragen den normativen Konsistenzvorwurf. Die Anteile 0,75/0,25/0 sind als redaktionelle Zerlegung vertretbar, keine gemessene Fehlerquote; keine akustische Bestätigung. Erster Review: Abweichend; der spätere bestätigende Review dokumentiert den Konsens. Die ursprüngliche und die angenommene Gewichtung stehen in previous/next."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -999,12 +1317,22 @@
               "S002"
             ],
             "result": "Die Reihenfolge stimmt: Die CDU-Kritik beginnt im Original bei 2:01:40, die Umzugsthese bei 2:02:48. Der Abstand beträgt etwa 68 Sekunden, nicht zwei Minuten. Der zutreffende frühere Themenbezug bleibt von der ungenauen Zeitangabe und dem normativen Konsistenzvorwurf getrennt."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Unabhängiger Review und eigene erneute Textkontrolle der Segmentmarken2:01:40 sowie 2:02:45/50/53; semantische Satzanfänge statt vermeintlich exakter Messung verglichen.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Die Reihenfolge stimmt: Die CDU-Kritik beginnt im automatischen Originaltext bei etwa 2:01:40; die Kasner-/Umzugspassage liegt bei etwa 2:02:45–2:02:53. Das ist gut eine Minute, je nach gewähltem Satzbeginn etwa 65–75 Sekunden. Zwei Minuten sind als Zeitangabe ungenau. Die Textmarken tragen keine sekundengenaue Messung; der frühere Inhalt und der normative Konsistenzvorwurf bleiben getrennt."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Die Reihenfolge stimmt, der Abstand im Original beträgt aber rund 68 Sekunden statt zwei Minuten."
+      "shortReason": "Die Reihenfolge stimmt; der automatische Originaltext legt gut eine Minute Abstand nahe, keine sekundengenaue Messung."
     },
     {
       "id": "mv1ZqLrmwH0-A0013",
@@ -1166,14 +1494,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Merkel habe unmittelbar an der Grenze gelebt und deshalb typische Stasi-Privilegien gehabt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die gemeinte Grenze, Zeit und Adresse sind nicht eindeutig bestimmt. Kindheit in Templin und späterer Wohnort Berlin dürfen nicht ohne Klärung gleichgesetzt werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Für 1989 ist ein grenznaher Berliner Wohnort gestützt: Merkel bezeichnete 1998 in ihrer Rede die Schönhauser Allee nahe dem Übergang Bornholmer Straße als damaligen Wohnort; Bollmann beschreibt den Wohnungsweg. Der Satz im Original bleibt räumlich ungenau, darf aber nicht allein mit dem Aufwachsen in Templin widerlegt werden. Eine besondere Stasi-Privilegierung folgt aus dieser Grenznähe nicht und ist hier nicht nachgewiesen.",
       "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
-        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Nachrecherche 2026-11-23 [Codex]: vorher Offen ohne Urteil, jetzt Teilweise belegt. Frühere Begründung: Noch nicht geprüft – die gemeinte Grenze, Zeit und Adresse sind nicht eindeutig bestimmt. Kindheit in Templin und späterer Wohnort Berlin dürfen nicht ohne Klärung gleichgesetzt werden."
       },
       "sourceRefs": [
         {
@@ -1187,11 +1515,21 @@
         {
           "sourceId": "S005",
           "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
         }
       ],
-      "openQuestions": [
-        "Gemeinten Wohnort und Bezugszeitpunkt im Original klären, danach historische Grenzlage und tatsächliche Wohnberechtigungen prüfen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "mv1ZqLrmwH0-O0016",
@@ -1252,11 +1590,23 @@
               "S005"
             ],
             "result": "Noch nicht geprüft – die gemeinte Grenze, Zeit und Adresse sind nicht eindeutig bestimmt. Kindheit in Templin und späterer Wohnort Berlin dürfen nicht ohne Klärung gleichgesetzt werden."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Zweiter Rechercheweg: zeitgenössischere öffentliche Selbstauskunft im CDU-Parteitagsprotokoll1998 S.78 und biografischen Wohnungsweg S. 77–78 gelesen; zusätzlich Knabes Trennung von Umfeldindizien und eigener Tätigkeit geprüft.",
+            "sourceIds": [
+              "S012",
+              "S013",
+              "S014"
+            ],
+            "result": "Für 1989 ist ein grenznaher Berliner Wohnort gestützt: Merkel bezeichnete 1998 in ihrer Rede die Schönhauser Allee nahe dem Übergang Bornholmer Straße als damaligen Wohnort; Bollmann beschreibt den Wohnungsweg. Der Satz im Original bleibt räumlich ungenau, darf aber nicht allein mit dem Aufwachsen in Templin widerlegt werden. Eine besondere Stasi-Privilegierung folgt aus dieser Grenznähe nicht und ist hier nicht nachgewiesen."
           }
         ],
         "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Ein grenznaher Berliner Wohnort 1989 ist gestützt; eine Stasi-Privilegierung folgt daraus nicht."
     },
     {
       "id": "mv1ZqLrmwH0-A0016",
@@ -1353,6 +1703,16 @@
             "strategy": "Zweiter Prüfweg: Originalkontext 2:03:04–2:03:35 zusätzlich mit der Reaktionsfassung verglichen; weiterhin weder Name noch öffentlich überprüfbarer Gesprächsbeleg.",
             "sourceIds": [],
             "result": "Das Original löst die Anonymität nicht auf; aus dem Bericht entsteht kein Beweis einer Stasi-Tätigkeit."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Statusprüfung am erneut gelesenen Originalkontext2:03:04–2:03:35: Name und prüfbare Gesprächsdokumentation werden weiterhin nicht genannt.",
+            "sourceIds": [
+              "S001",
+              "S002"
+            ],
+            "result": "Nicht überprüfbar bleibt wegen privatem unbenanntem Gesprächsinhalt zutreffend, unabhängig von der öffentlichen Prüfgrundlage der davon getrennten Agentenbehauptung."
           }
         ],
         "missingInformation": "Identifizierbarer Gesprächspartner oder öffentlich prüfbare Gesprächsdokumentation.",
@@ -1427,14 +1787,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Merkel sei für die Stasi tätig gewesen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – der in der Reaktion gezeigte Verdacht wird zurückgewiesen. Die gelesene Gerichtsmeldung entscheidet den Aktenzugang und ersetzt keine vollständige Untersuchung einer Agententätigkeit.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Knabes Original-Recherchebericht legt für den bekannten IM-Verdacht fehlende Belege und Grenzen der Aktenüberlieferung dar. Die gerichtliche Mitteilung 2026 weist für den bezeichneten Zugangsfall keine gezielte Begünstigung aus. Die pauschale Agentenbehauptung ist damit nicht belegt; daraus wird kein lückenloser historischer Negativbeweis und kein automatisches Widerlegt abgeleitet. Die spätere Buchbesprechung ist kein weiterer unabhängiger Aktenbestand.",
       "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
-        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Nachrecherche 2026-11-23 [Codex]: vorher Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Begründung: Noch nicht geprüft – der in der Reaktion gezeigte Verdacht wird zurückgewiesen. Die gelesene Gerichtsmeldung entscheidet den Aktenzugang und ersetzt keine vollständige Untersuchung einer Agententätigkeit."
       },
       "sourceRefs": [
         {
@@ -1448,10 +1808,18 @@
         {
           "sourceId": "S003",
           "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
         }
       ],
       "openQuestions": [
-        "Über den Aktenzugangsfall hinausgehende historische Belege und Gegenbelege gesondert prüfen; keine bewiesene Unschuld oder Tätigkeit aus dem Zugangsurteil ableiten."
+        "Konkrete neu veröffentlichte Dokumente nach Provenienz, Registrierart und Tätigkeitsbezug prüfen; Berichte über eine Person von Berichten durch sie unterscheiden."
       ],
       "occurrences": [
         {
@@ -1483,7 +1851,7 @@
         "assessedOn": "2026-11-23"
       },
       "research": {
-        "gap": null,
+        "gap": "Quellenlage unzureichend",
         "confidence": "Mittel",
         "rounds": [
           {
@@ -1496,11 +1864,22 @@
               "S003"
             ],
             "result": "Noch nicht geprüft – der in der Reaktion gezeigte Verdacht wird zurückgewiesen. Die gelesene Gerichtsmeldung entscheidet den Aktenzugang und ersetzt keine vollständige Untersuchung einer Agententätigkeit."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Zweiter unabhängiger Quellenweg: Knabes vollständige Argumentationsabschnitte zur Quellenlage, Umgebung, Anwerbung und Schlussfolgerung selbst gelesen; Templins spätere Einordnung nur als Sekundärkontext verwendet.",
+            "sourceIds": [
+              "S014",
+              "S016"
+            ],
+            "result": "Knabes Original-Recherchebericht legt für den bekannten IM-Verdacht fehlende Belege und Grenzen der Aktenüberlieferung dar. Die gerichtliche Mitteilung 2026 weist für den bezeichneten Zugangsfall keine gezielte Begünstigung aus. Die pauschale Agentenbehauptung ist damit nicht belegt; daraus wird kein lückenloser historischer Negativbeweis und kein automatisches Widerlegt abgeleitet. Die spätere Buchbesprechung ist kein weiterer unabhängiger Aktenbestand."
           }
         ],
-        "missingInformation": null,
+        "missingInformation": "Eine authentische Registrierung mit eindeutigem Tätigkeitsbezug oder anderweitig belastbare Aktenbelege.",
         "conflicts": null
-      }
+      },
+      "shortReason": "Für die Agentenbehauptung fehlt ein belastbarer Nachweis; ein umfassender Negativbeweis wird nicht behauptet."
     },
     {
       "id": "mv1ZqLrmwH0-A0019",
@@ -1664,10 +2043,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Wiederkehrende Begründung der Moderationskritik; auf die konkrete Passage begrenzt, kein Personenurteil.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Wiederkehrende ausdrücklich hervorgehobene Begründung der Moderationskritik, nur für die konkrete Passage."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -1888,10 +2286,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Eigenständige institutionelle Erklärung, kein entscheidender historischer Gegenbeweis."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -1957,10 +2374,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Konkrete Verfahrensinformation, von Rechtskraft und Begründung unterscheidbar."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -2026,10 +2462,29 @@
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachpunkt der Moderation; normaler Bedeutungsfaktor unabhängig vom Urteil.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Allgemeine Zugangsregel als Kontext."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -2099,10 +2554,29 @@
       "factIndex": {
         "weight": 1.5,
         "weightReason": "Tragende rechtliche Erklärung der zentralen Gerichts-Korrektur, keine zusätzliche Gewichtung aufgrund des Urteils.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 1.5,
+            "reason": "Tragende rechtliche Erklärung der zentralen Quellenkorrektur."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -2167,12 +2641,39 @@
       ],
       "relations": [],
       "factIndex": {
-        "weight": 1.5,
-        "weightReason": "Zentrale konkrete Anwendung der Zugangsregel auf den besprochenen Fall.",
-        "weightStatus": "Vorläufig",
+        "weight": 1,
+        "weightReason": "Normale Zusammenfassung gerichtlicher Anwendung, keine zusätzliche Hauptthese neben Zugangsmerkmalen, Begünstigungsbefund und Quellenkorrektur.",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 1,
+            "reason": "Zweite Kontrolle nach der Abweichung; begründeter Konsens. Normale Zusammenfassung gerichtlicher Anwendung, keine zusätzliche Hauptthese neben Zugangsmerkmalen, Begünstigungsbefund und Quellenkorrektur."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weight",
+            "previous": 1.5,
+            "next": 1,
+            "reason": "Begründete Abweichung des unabhängigen Reviewagents übernommen: Normale Zusammenfassung gerichtlicher Anwendung, keine zusätzliche Hauptthese neben Zugangsmerkmalen, Begünstigungsbefund und Quellenkorrektur. Erster Review: Abweichend; der spätere bestätigende Review dokumentiert den Konsens. Die ursprüngliche und die angenommene Gewichtung stehen in previous/next."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -2238,10 +2739,29 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Direkter Gegenpunkt zum im Titel hervorgehobenen Stasi-Verdacht; hoher Faktor wegen der argumentativen Schlüsselrolle.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 2,
+            "reason": "Direkter zentraler Gegenpunkt zum Agentenverdacht, begrenzter Geltungsbereich muss sichtbar bleiben."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -2311,10 +2831,29 @@
       "factIndex": {
         "weight": 2,
         "weightReason": "Zentraler Abgleich zwischen der kritisierten Gerichtsparaphrase und der benannten Entscheidungsmitteilung.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 2,
+            "reason": "Zentrale quellenbezogene Antwort auf die vorgestellte Erzählung, durch Quellengegenüberstellung hervorgehoben."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -2403,14 +2942,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Belastende Merkel-Unterlagen seien vermutlich vernichtet worden, Kopien könnten in Russland oder den USA liegen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Spekulation ist textlich identifiziert, konkrete Aktenbestände oder Kopien sind aber nicht nachgewiesen. Das Zugangsurteil allein prüft keine ausländischen Bestände.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Das Bundesarchiv dokumentiert allgemeine HV-A-Aktenverluste und in den USA erhaltene Karteien. Knabe nennt die Möglichkeit vernichteter Unterlagen ausdrücklich als nicht ausgeschlossene Spekulation. Keine gelesene Quelle weist die behaupteten belastenden Merkel-Dokumente, ihre Vernichtung oder Kopien in Russland und den USA konkret nach. Allgemeine Überlieferungsgeschichte ist kein personenbezogener Kopiennachweis.",
       "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
-        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Nachrecherche 2026-11-23 [Codex]: vorher Offen ohne Urteil, jetzt Nicht ausreichend belegbar. Frühere Begründung: Noch nicht geprüft – die Spekulation ist textlich identifiziert, konkrete Aktenbestände oder Kopien sind aber nicht nachgewiesen. Das Zugangsurteil allein prüft keine ausländischen Bestände."
       },
       "sourceRefs": [
         {
@@ -2424,10 +2963,18 @@
         {
           "sourceId": "S003",
           "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
         }
       ],
       "openQuestions": [
-        "Konkrete Aktenbestände, Überlieferungswege und öffentlich prüfbare Belege für Vernichtung oder Kopien ermitteln."
+        "Eine konkret benannte Archivsignatur oder authentische ausländische Kopie mit Tätigkeitsbezug wäre zu prüfen; bloße Existenz allgemeiner Rosenholz-Karteien reicht nicht."
       ],
       "occurrences": [
         {
@@ -2459,7 +3006,7 @@
         "assessedOn": "2026-11-23"
       },
       "research": {
-        "gap": null,
+        "gap": "Quellenlage unzureichend",
         "confidence": "Mittel",
         "rounds": [
           {
@@ -2472,11 +3019,22 @@
               "S003"
             ],
             "result": "Noch nicht geprüft – die Spekulation ist textlich identifiziert, konkrete Aktenbestände oder Kopien sind aber nicht nachgewiesen. Das Zugangsurteil allein prüft keine ausländischen Bestände."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Zweiter gezielt anderer Prüfweg: Bundesarchiv zu Rosenholz, HV-A-Vernichtung und quellenkritischen Grenzen gelesen; Knabes Ausführungen zu möglichen Lücken daneben geprüft.",
+            "sourceIds": [
+              "S014",
+              "S015"
+            ],
+            "result": "Das Bundesarchiv dokumentiert allgemeine HV-A-Aktenverluste und in den USA erhaltene Karteien. Knabe nennt die Möglichkeit vernichteter Unterlagen ausdrücklich als nicht ausgeschlossene Spekulation. Keine gelesene Quelle weist die behaupteten belastenden Merkel-Dokumente, ihre Vernichtung oder Kopien in Russland und den USA konkret nach. Allgemeine Überlieferungsgeschichte ist kein personenbezogener Kopiennachweis."
           }
         ],
-        "missingInformation": null,
+        "missingInformation": "Bestimmbarer Merkel-Vorgang samt Provenienz und belastbarem Nachweis der behaupteten Vernichtung oder ausländischen Kopien.",
         "conflicts": null
-      }
+      },
+      "shortReason": "Allgemeine Aktenverluste und US-Karteien sind belegt; die konkreten Merkel-Unterlagen und Kopien nicht."
     },
     {
       "id": "mv1ZqLrmwH0-A0032",
@@ -2759,12 +3317,12 @@
       "description": "Klupatwins seien seit über 1.400 Stunden ohne Unterbrechung auf Twitch live.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – der direkte Twitch-Abruf liefert kein lesbares historisches Vollarchiv. Suchtreffer mit entsprechendem Streamtitel würden zunächst nur die Selbstauskunft wiederholen.",
+      "reason": "Noch nicht geprüft – die nachgelesenen Tracker belegen nur begrenzt erfasste Streamfragmente und entsprechende Titel. Der direkte Twitch-Archivabruf ist weiterhin nicht lesbar; für den behaupteten lückenlosen Zeitraum fehlt eine kontrollierbare vollständige Grundlage.",
       "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigene Paraphrase aus dem Originaltranskript; keine importierte Fremdbewertung.",
-        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114."
+        "assessmentChange": "[Codex] 23.11.2026: Erstprüfung nach zuvor ausschließlich bibliografischem Platzhalter, Issue #114. Nachrecherche 23.11.2026 [Codex]: Offen bleibt Offen; zwei Tracker mit dokumentierten Messgrenzen gelesen, direkter Archivzugang weiter nicht lesbar."
       },
       "sourceRefs": [
         {
@@ -2774,10 +3332,18 @@
         {
           "sourceId": "S011",
           "note": "Nur der in Begründung und Zugriffsgrundlage bezeichnete Sachkern."
+        },
+        {
+          "sourceId": "S019",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Nur der in der ergänzten Begründung und Zugriffsgrundlage abgegrenzte Sachkern."
         }
       ],
       "openQuestions": [
-        "Datiertes Twitch-Archiv oder lückenlose unabhängige Zeitreihe kontrollieren, einschließlich technischer Unterbrechungen und Bedeutung von live."
+        "Zeitlich vollständiges Twitch-Archiv oder verlässliche Rohzeitreihe für die behaupteten 1.400 Stunden und den gemeinten Startzeitpunkt prüfen; technische Sitzungswechsel und Unterbrechungen unterscheiden."
       ],
       "occurrences": [
         {
@@ -2802,10 +3368,29 @@
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Eigenwerbung am Schluss; kein Sachargument zur Merkel-Passage.",
-        "weightStatus": "Vorläufig",
+        "weightStatus": "Gegengeprüft",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-23",
-        "assessedBeforeVerdict": false
+        "assessedBeforeVerdict": false,
+        "reviews": [
+          {
+            "agent": "Codex (unabhängiger Agent Gewichtungsreview)",
+            "date": "2026-11-23",
+            "result": "Bestätigt",
+            "proposedWeight": 0.5,
+            "reason": "Eigenwerbung am Schluss, für den Merkel-Komplex nebensächlich."
+          }
+        ],
+        "history": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "field": "weightStatus",
+            "previous": "Vorläufig",
+            "next": "Gegengeprüft",
+            "reason": "Lesender separater Review auf Basis 04b1135, Reaktions-/Originaltext und gelesenen Rechtsquellen; keine zusätzliche Hör-/Sichtkontrolle."
+          }
+        ]
       },
       "research": {
         "gap": null,
@@ -2827,6 +3412,17 @@
             "strategy": "Anderer Suchweg: historische Klupatwins-Streamtitel und öffentliche Archivverzeichnisse für November 2026 gesucht; anschließend direktes Twitch-Videoarchiv geöffnet.",
             "sourceIds": [],
             "result": "Archivzugang nicht lesbar; einzelne Rekordtitel oder Streamfragmente belegen keine lückenlose 1.400-Stunden-Übertragung."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Weitere Recherche nach historischer Sendedauer: zwei unabhängige Tracker samt eigener Methodik und beobachteten Fragmenten geöffnet; direkten Twitch-Archivabruf erneut versucht.",
+            "sourceIds": [
+              "S011",
+              "S019",
+              "S020"
+            ],
+            "result": "Tracker bestätigen lange Streamfragmente und entsprechende Rekordtitel, erklären aber selbst Messlücken und begrenzte Erfassung. Direktes Twitch-Archiv nicht lesbar. Lückenloser 1.400-Stunden-Nachweis bleibt offen; kein Nichtbelegbar-Urteil allein wegen des Zugangsproblems."
           }
         ],
         "missingInformation": null,

@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0009",
+  "revision": 1,
+  "claim": "Merkels Kanzlerschaft sei als übergeordnetes Konstrukt gezielt eingefädelt worden.",
+  "topics": [
+    "stasi"
+  ],
+  "status": "Geprüft",
+  "verdict": "Nicht ausreichend belegbar",
+  "reason": "Polenz äußert 2005 öffentlich seine Unterstützung. Seine biografische Dokumentation beschreibt politische Ämter. Keine der gelesenen Quellen dokumentiert den weitergehenden Gesamtplan; das ist kein Beweis, dass keinerlei Absprachen existierten.",
+  "validity": {
+    "asOf": "2026-11-23",
+    "timeScope": "Kanzlerschaft 2005; öffentliche Unterstützung und weitergehende These getrennt.",
+    "subjectScope": "Begrenzter Quellenbefund; kein allgemeines Personenurteil.",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-23",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "Ruprecht Polenz: Interview zu vorgezogenen Neuwahlen 2005",
+      "url": "https://www.ruprecht-polenz.de/news/lokal/431/1_datenschutz_Wichtige-Informationen-fuer-Sie.html",
+      "details": "Passage zu Merkels Kanzlerkandidatur und zur beabsichtigten öffentlichen Wahlkampfunterstützung selbst gelesen. Belegt politische Unterstützung; kein Nachweis einer verdeckten Steuerung.",
+      "accessedOn": "2026-11-23",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q2",
+      "title": "Ruprecht Polenz (Biogramm)",
+      "url": "https://www.kas.de/web/geschichte-der-cdu/personen/biogramm-detail/-/content/ruprecht-polenz-v1",
+      "details": "KAS-Biografie von Jan Philipp Wölbern: Ämter und politische Laufbahn selbst gelesen; kein vollständiges Archiv sämtlicher Absprachen.",
+      "accessedOn": "2026-11-23",
+      "kind": "Sekundärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "mdo14671BPE-A0252",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Neu erfasste weitergehende Steuerungsthese, gleicher Zeit- und Sachbezug.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-23"
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0005",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Distanzierter Einspieler derselben Originalthese, kein Fehler des Reaktionskanals.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-23"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-23",
+      "agent": "Codex",
+      "change": "Neuer begrenzter gemeinsamer Prüfbefund nach Wissenssuche und eigener Quellenlektüre; frühere KI-Urteile nicht als Beleg verwendet.",
+      "previous": null
+    }
+  ]
+}

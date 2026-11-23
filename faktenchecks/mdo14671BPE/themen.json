@@ -6,7 +6,7 @@
     {
       "topic": "stasi",
       "relevance": "Behandelt",
-      "basis": "14 von 251 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "15 von 252 erfassten Aussagen betreffen den Stasi-Komplex; ergänzt wurde die im Original bisher übersehene politische Steuerungsthese A0252.",
       "segments": []
     },
     {
@@ -382,6 +382,12 @@
       "topics": [
         "asyl"
       ]
+    },
+    {
+      "claimId": "mdo14671BPE-A0252",
+      "topics": [
+        "stasi"
+      ]
     }
   ],
   "history": [
@@ -394,6 +400,11 @@
       "date": "2026-11-19",
       "agent": "Codex",
       "change": "Zwei neu getrennte Asylregeln zugeordnet, Bestandsgröße angepasst; Themen aus Aussageinhalt."
+    },
+    {
+      "date": "2026-11-23",
+      "agent": "Codex",
+      "change": "Neue OriginalaussageA0252 zum im Stasi-Komplex behaupteten Steuerungsplan inhaltlich zugeordnet."
     }
   ]
 }

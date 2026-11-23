@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0010",
+  "revision": 1,
+  "claim": "Merkel bezeichnete in ihrer CDU-Parteitagsrede 1998 die Schönhauser Allee nahe dem Grenzübergang Bornholmer Straße als ihren Wohnort 1989.",
+  "topics": [
+    "stasi"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Der eigene Redeabschnitt stützt die geografische Selbstauskunft. Die Grenznähe allein belegt keine Stasi-Privilegierung; keine Aussage über Templin oder alle früheren Wohnungen.",
+  "validity": {
+    "asOf": "2026-11-23",
+    "timeScope": "Öffentliche Rede 07.11.1998 über den Wohnort am 09.11.1989.",
+    "subjectScope": "Begrenzter Quellenbefund; kein allgemeines Personenurteil.",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-23",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "CDU-Parteitagsprotokoll vom 7. November 1998: Rede Angela Merkels",
+      "url": "https://www.helmut-kohl.de/pdf/CDU-Parteitag_7-11-1998_mit_Abschiedsrede_PV_Kohl.pdf",
+      "details": "Merkels Redeabschnitt zu ihrem Wohnort am 09.11.1989 selbst gelesen: Schönhauser Allee nahe Grenzübergang Bornholmer Straße. Primärquelle ihrer öffentlichen Selbstauskunft, kein Beleg einer Stasi-Privilegierung.",
+      "accessedOn": "2026-11-23",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "mdo14671BPE-A0183",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Nur der geografische Ausgangspunkt der als Meinung erfassten Privilegienfolgerung; deren Einstufung bleibt erhalten.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-23"
+    },
+    {
+      "claimId": "mv1ZqLrmwH0-A0015",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Geografischer Teil des Fremdeinspielers; die weitergehende Stasi-Folgerung wird nicht übernommen.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-23"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-23",
+      "agent": "Codex",
+      "change": "Neuer begrenzter gemeinsamer Prüfbefund nach Wissenssuche und eigener Quellenlektüre; frühere KI-Urteile nicht als Beleg verwendet.",
+      "previous": null
+    }
+  ]
+}

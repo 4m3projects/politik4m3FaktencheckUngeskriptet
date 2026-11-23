@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge. [Codex] 20.11.2026: Beide offenen Werbeaussagen im Originaltranskript abgeglichen und anhand öffentlicher Buchseiten und des Kindle-Inhaltsverzeichnisses weiter geprüft. Gezielte Reaktionsnachprüfung 23.11.2026 [Codex]: A0182 durch epd-Nachruf ergänzt, Originalstellen 2:01:40–2:07:18 erneut textlich abgeglichen; keine Urteilsänderung.",
-    "coverageNote": "Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Am 20.11.2026 Werbekennzeichnung bei 00:10:39 im Originalbild kontrolliert. Keine vollständige Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Die Buchvorschauen bestätigen das 16-Wochen-Beispiel und zeigen den Einstieg. Zwei Buchaussagen bleiben bis zur Prüfung der späteren Transaktionen und der vollständigen Anleitung offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9."
+    "researchNote": "Unabhängige Neuerfassung; keine frühere KI-Bewertung übernommen. Öffentliche Primärquellen und ausdrücklich bezeichnete Sekundärberichte; Aufnahme laut Originalbeschreibung 30.09.2026. [Codex] 19.11.2026: alle zwölf bisher offenen Einträge erneut bearbeitet; zwei vollständige Buchprüfungen bleiben offen. Originaluntertitel erneut abgerufen und ausgewählte Originalkontexte erneut gelesen. Lückenpassage mit zwei lokalen automatischen Originalton-Transkriptionen textlich abgeglichen, keine menschliche Hör-/Sichtkontrolle. Zwei übersehene allgemeine Asylregeln neu erfasst. Öffentliche Berufs-/Rechtsfragen und Blanche-Zeitbezug mit Korrekturverlauf präzisiert. Alfreds Hinweise unabhängig geprüft, bestehende Hank-Reaktion auf direkte Betroffenheit abgeglichen. Keine vollständige Neuerfassung jeder Teilbehauptung oder Bestätigung privater Vorgänge. [Codex] 20.11.2026: Beide offenen Werbeaussagen im Originaltranskript abgeglichen und anhand öffentlicher Buchseiten und des Kindle-Inhaltsverzeichnisses weiter geprüft. Gezielte Reaktionsnachprüfung 23.11.2026 [Codex]: A0182 durch epd-Nachruf ergänzt, Originalstellen 2:01:40–2:07:18 erneut textlich abgeglichen; keine Urteilsänderung. Weitere Reaktionsnachprüfung 23.11.2026: neue Quellen zu A0182/A0183/A0185/A0193 ergänzt, bestehende Urteile erhalten; bisher nicht einzeln erfasste Steuerungsthese A0252 nach zwei Quellenwegen aufgenommen.",
+    "coverageNote": "Nachprüfung 19.11.2026: 251 Prüfgegenstände aus allen 25 Themenbereichen, keine Vollerfassung jeder Teilbehauptung. Automatische Originaluntertitel bis 02:48:34; deren Lücke 02:10:47,880–02:12:43,970 mit zwei privaten lokalen Whisper-Arbeitstexten der Originaltonspur (small/base, Deutsch) ergänzt und an Randstellen abgeglichen. Am 20.11.2026 Werbekennzeichnung bei 00:10:39 im Originalbild kontrolliert. Keine vollständige Hör-/Sichtkontrolle, Sprecher weiter nur plausibel. Letzte vier Sekunden ohne Inhaltsnachweis. Die Buchvorschauen bestätigen das 16-Wochen-Beispiel und zeigen den Einstieg. Zwei Buchaussagen bleiben bis zur Prüfung der späteren Transaktionen und der vollständigen Anleitung offen. Nicht öffentliche persönliche Angaben werden nicht als falsch gezählt; keine Fehlerquote für das gesamte Video. Werbung in Kapiteln 3 und 9. Nachprüfung 23.11.2026: 252 Prüfgegenstände nach Ergänzung A0252; keine Vollprüfung jeder Teilbehauptung."
   },
   "legacyPoints": [],
   "sources": [
@@ -1270,6 +1270,38 @@
       "details": "03.09.2011; zeitgenössischer Nachruf mit kirchlichen Auskünften. Sekundärquelle.",
       "accessedOn": "2026-11-23",
       "accessBasis": "Beruf, Umzug 1954 als Reaktion auf Pfarrermangel und spätere Position zur Kirche im Sozialismus gelesen. Der Nachruf belegt keine Ausschließlichkeit persönlicher Umzugsmotive."
+    },
+    {
+      "id": "S158",
+      "title": "Ralph Bollmann: Angela Merkel. Die Kanzlerin und ihre Zeit",
+      "url": "https://api.pageplace.de/preview/DT0400.9783406778964_A42194268/preview-9783406778964_A42194268.pdf",
+      "details": "C.H.Beck, 2021; öffentlich angebotene Buchvorschau, keine Vollbuchprüfung.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Gedruckte Seiten 22–23, 29–31 und 77–78 selbst gelesen: kirchliche Umzugserklärung, spätere kirchenpolitische Position und dokumentierter Wohnungsweg. Zitierte Erinnerungen bleiben zugeschriebene Selbstauskünfte; Anmerkungsapparat nicht vollständig zugänglich."
+    },
+    {
+      "id": "S159",
+      "title": "CDU-Parteitagsprotokoll vom 7. November 1998: Rede Angela Merkels",
+      "url": "https://www.helmut-kohl.de/pdf/CDU-Parteitag_7-11-1998_mit_Abschiedsrede_PV_Kohl.pdf",
+      "details": "11. Parteitag, gedruckte Seiten 77–78.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Merkels Redeabschnitt zu ihrem Wohnort am 09.11.1989 selbst gelesen: Schönhauser Allee nahe Grenzübergang Bornholmer Straße. Primärquelle ihrer öffentlichen Selbstauskunft, kein Beleg einer Stasi-Privilegierung."
+    },
+    {
+      "id": "S160",
+      "title": "Hubertus Knabe: IM Erika – eine Spurensuche",
+      "url": "https://hubertus-knabe.de/auf-den-spuren-von-im-erika/",
+      "details": "09.08.2019; Original-Recherchebericht des Historikers.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Abschnitte Quellenlage, Observationsfoto, Umfeld, FDJ, Anwerbeversuch und Schlussfolgerung selbst gelesen. Knabe legt fehlende Belege und Grenzen der Aktenlage dar; einzelne Vorbehalte und politische Kritik werden nicht verschwiegen. Seine Auswertung ersetzt keine eigene Einsicht in den kompletten Behördenbestand."
+    },
+    {
+      "id": "S161",
+      "title": "Ruprecht Polenz: Interview zu vorgezogenen Neuwahlen 2005",
+      "url": "https://www.ruprecht-polenz.de/news/lokal/431/1_datenschutz_Wichtige-Informationen-fuer-Sie.html",
+      "details": "Auf Polenz eigener Website veröffentlichter Interviewtext im Kontext der vorgezogenen Bundestagswahl 2005.",
+      "accessedOn": "2026-11-23",
+      "accessBasis": "Passage zu Merkels Kanzlerkandidatur und zur beabsichtigten öffentlichen Wahlkampfunterstützung selbst gelesen. Belegt politische Unterstützung; kein Nachweis einer verdeckten Steuerung."
     }
   ],
   "speakers": [
@@ -10983,13 +11015,13 @@
       "description": "Merkels Vater sei aus sozialistischer Überzeugung und wegen erwarteter Privilegien in die DDR gezogen.",
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
-      "reason": "Nach der Tertiärquelle zog Kasner 1954 auf Wunsch des Hamburger Jugendpfarrers Hans-Otto Wölber in die DDR, weil dort Pfarrer fehlten; eine kirchliche Vermittlung solcher Wechsel beschreibt auch der Fachbeitrag. Später hatte er Privilegien wie Westreisen. Für eine sozialistische Überzeugung als Umzugsmotiv oder für schon damals erwartete Privilegien hat Claude keinen Beleg gefunden; die dokumentierten Umstände sprechen für einen kirchlichen Anlass. Ergänzung 23.11.2026 [Codex]: Der vollständig gelesene zeitgenössische epd-Nachruf vom 03.09.2011 nennt ebenfalls den kirchlichen Ruf wegen Pfarrermangels und Kasners spätere Position zur Kirche im Sozialismus. Der Umzugsanlass ist damit zusätzlich gestützt; erwartete Privilegien oder ausschließlich religiöse Motive sind weiterhin nicht nachgewiesen. Urteil unverändert.",
+      "reason": "Nach der Tertiärquelle zog Kasner 1954 auf Wunsch des Hamburger Jugendpfarrers Hans-Otto Wölber in die DDR, weil dort Pfarrer fehlten; eine kirchliche Vermittlung solcher Wechsel beschreibt auch der Fachbeitrag. Später hatte er Privilegien wie Westreisen. Für eine sozialistische Überzeugung als Umzugsmotiv oder für schon damals erwartete Privilegien hat Claude keinen Beleg gefunden; die dokumentierten Umstände sprechen für einen kirchlichen Anlass. Ergänzung 23.11.2026 [Codex]: Der vollständig gelesene zeitgenössische epd-Nachruf vom 03.09.2011 nennt ebenfalls den kirchlichen Ruf wegen Pfarrermangels und Kasners spätere Position zur Kirche im Sozialismus. Der Umzugsanlass ist damit zusätzlich gestützt; erwartete Privilegien oder ausschließlich religiöse Motive sind weiterhin nicht nachgewiesen. Urteil unverändert. Ergänzung 23.11.2026 [Codex]: Bollmann S. 22–23 und 29–31 trennt kirchlichen Umzugsanlass von späterer kirchenpolitischer Haltung. Eine schon 1954 erwartete persönliche Privilegierung wird dadurch nicht nachgewiesen.",
       "shortReason": "Belegt ist ein kirchlicher Anlass für den Umzug wegen Pfarrermangels; für sozialistische Überzeugung als Motiv fehlt ein Beleg.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt. Ergänzung 23.11.2026 [Codex]: Begründung und Quelle S157 ergänzt; vorher und nachher Nicht ausreichend belegbar. Frühere Begründung und Recherchedurchgänge bleiben erhalten."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt. Ergänzung 23.11.2026 [Codex]: Begründung und Quelle S157 ergänzt; vorher und nachher Nicht ausreichend belegbar. Frühere Begründung und Recherchedurchgänge bleiben erhalten. Ergänzung 23.11.2026 [Codex]: neue Quellenlektüre und Rückabgleich, vorher und nachher Nicht ausreichend belegbar."
       },
       "sourceRefs": [
         {
@@ -11007,6 +11039,10 @@
         {
           "sourceId": "S157",
           "note": "Neu selbst gelesener epd-Nachruf nennt den Ruf der unter Pfarrermangel leidenden Kirchen. Kein Ausschließlichkeitsbeweis über persönliche Motive."
+        },
+        {
+          "sourceId": "S158",
+          "note": "Begrenzter neuer Quellenbefund der Reaktionsnachprüfung; Urteil unverändert."
         }
       ],
       "openQuestions": [
@@ -11063,6 +11099,15 @@
               "S105"
             ],
             "result": "Zusätzlicher zeitgenössischer Nachruf stützt kirchlichen Anlass; keine Umwertung der zusammengesetzten Motiv- und Privilegienthese."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Gezielter Rückabgleich der neuen Reaktionsrecherche; genannte Quellen selbst im dokumentierten Umfang gelesen, keine Altbewertung als Beleg.",
+            "sourceIds": [
+              "S158"
+            ],
+            "result": "Bollmann S. 22–23 und 29–31 trennt kirchlichen Umzugsanlass von späterer kirchenpolitischer Haltung. Eine schon 1954 erwartete persönliche Privilegierung wird dadurch nicht nachgewiesen."
           }
         ],
         "missingInformation": "Eine biografische Fachquelle zu Kasners eigenen Motiven für den Umzug 1954.",
@@ -11086,14 +11131,23 @@
       "description": "Ein grenznaher Wohnort Merkels zeige eine für Stasi-Personal typische privilegierte Stellung.",
       "status": "Abgeschlossen",
       "verdict": "Meinung / Prognose",
-      "reason": "Schlussfolgerung von einem nicht näher bestimmten Wohnort auf eine für Stasi-Personal typische Privilegierung; eine Deutung ohne Beleg. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet.",
+      "reason": "Schlussfolgerung von einem nicht näher bestimmten Wohnort auf eine für Stasi-Personal typische Privilegierung; eine Deutung ohne Beleg. Von Claude am 18.11.2026 als Meinung bzw. Deutung eingeordnet. Ergänzung 23.11.2026 [Codex]: Die Grenznähe darf nicht pauschal mit Templin verwechselt werden: Merkels Rede 1998 (S.78) nennt für 1989 Schönhauser Allee nahe Bornholmer Straße. Bollmann S. 77–78 beschreibt den Wohnungsweg. Das stützt einen geografischen Teil, nicht den Schluss auf Stasi-Privilegien. Die bisher als Meinung erfasste Schlussfolgerung wird nicht automatisch umgestuft.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche."
+        "assessmentChange": "Einordnung durch Claude am 18.11.2026 nach Abschluss der öffentlichen Recherche. Ergänzung 23.11.2026 [Codex]: neue Quellenlektüre und Rückabgleich, vorher und nachher Meinung / Prognose."
       },
-      "sourceRefs": [],
+      "sourceRefs": [
+        {
+          "sourceId": "S158",
+          "note": "Begrenzter neuer Quellenbefund der Reaktionsnachprüfung; Urteil unverändert."
+        },
+        {
+          "sourceId": "S159",
+          "note": "Begrenzter neuer Quellenbefund der Reaktionsnachprüfung; Urteil unverändert."
+        }
+      ],
       "openQuestions": [
         "Gemeinten Ort und Zeitraum bestimmen; anonymen Bericht nicht als belegte Geheimdienstzugehörigkeit verwenden."
       ],
@@ -11116,7 +11170,25 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Gezielter Rückabgleich der neuen Reaktionsrecherche; genannte Quellen selbst im dokumentierten Umfang gelesen, keine Altbewertung als Beleg.",
+            "sourceIds": [
+              "S158",
+              "S159"
+            ],
+            "result": "Die Grenznähe darf nicht pauschal mit Templin verwechselt werden: Merkels Rede 1998 (S.78) nennt für 1989 Schönhauser Allee nahe Bornholmer Straße. Bollmann S. 77–78 beschreibt den Wohnungsweg. Das stützt einen geografischen Teil, nicht den Schluss auf Stasi-Privilegien. Die bisher als Meinung erfasste Schlussfolgerung wird nicht automatisch umgestuft."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "mdo14671BPE-A0184",
@@ -11186,13 +11258,13 @@
       "description": "Merkel sei tatsächlich eine Mitarbeiterin der Staatssicherheit gewesen.",
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
-      "reason": "Für eine Tätigkeit Merkels als Mitarbeiterin der Staatssicherheit liegt kein Akten- oder Gerichtsbeleg vor. Das Bundesarchiv nannte im Verfahren vor dem VG Berlin keine herausgabefähigen Unterlagen, das Gericht sah keine Anhaltspunkte für eine gezielte Begünstigung durch das MfS. Merkel selbst schilderte 2009 eine abgelehnte Anwerbung Ende der 1970er-Jahre; das ist eine Selbstauskunft. Diese Indizien sprechen gegen die Behauptung, widerlegen einen historischen Negativsachverhalt aber nicht beweiskräftig. Deshalb kein „Widerlegt“.",
+      "reason": "Für eine Tätigkeit Merkels als Mitarbeiterin der Staatssicherheit liegt kein Akten- oder Gerichtsbeleg vor. Das Bundesarchiv nannte im Verfahren vor dem VG Berlin keine herausgabefähigen Unterlagen, das Gericht sah keine Anhaltspunkte für eine gezielte Begünstigung durch das MfS. Merkel selbst schilderte 2009 eine abgelehnte Anwerbung Ende der 1970er-Jahre; das ist eine Selbstauskunft. Diese Indizien sprechen gegen die Behauptung, widerlegen einen historischen Negativsachverhalt aber nicht beweiskräftig. Deshalb kein „Widerlegt“. Ergänzung 23.11.2026 [Codex]: Knabes Original-Recherchebericht 2019 zusätzlich selbst gelesen: bekannte Indizien tragen keinen Tätigkeitsnachweis; Lücken bleiben ausdrücklich möglich. Kein vollständiger Negativbeweis.",
       "shortReason": "Es gibt keinen Akten- oder Gerichtsbeleg für eine Stasi-Tätigkeit Merkels; die Indizien sprechen dagegen.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt. Ergänzung 23.11.2026 [Codex]: neue Quellenlektüre und Rückabgleich, vorher und nachher Nicht ausreichend belegbar."
       },
       "sourceRefs": [
         {
@@ -11206,6 +11278,10 @@
         {
           "sourceId": "S088",
           "note": "Merkels eigene Schilderung einer abgelehnten Anwerbung; Selbstauskunft, kein Aktenbeleg."
+        },
+        {
+          "sourceId": "S160",
+          "note": "Begrenzter neuer Quellenbefund der Reaktionsnachprüfung; Urteil unverändert."
         }
       ],
       "openQuestions": [
@@ -11252,6 +11328,15 @@
             "strategy": "Zweiter Durchgang: Faktenchecks und Presseberichte zu Merkels Stasi-Unterlagen und zum Urteil gesucht.",
             "sourceIds": [],
             "result": "Keine neuen Belege für oder gegen eine MfS-Tätigkeit."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Gezielter Rückabgleich der neuen Reaktionsrecherche; genannte Quellen selbst im dokumentierten Umfang gelesen, keine Altbewertung als Beleg.",
+            "sourceIds": [
+              "S160"
+            ],
+            "result": "Knabes Original-Recherchebericht 2019 zusätzlich selbst gelesen: bekannte Indizien tragen keinen Tätigkeitsnachweis; Lücken bleiben ausdrücklich möglich. Kein vollständiger Negativbeweis."
           }
         ],
         "missingInformation": "Herausgabefähige Stasi-Unterlagen oder eine wissenschaftliche Aktenauswertung.",
@@ -11670,13 +11755,13 @@
       "description": "Belastende Merkel-Unterlagen seien vermutlich vernichtet worden, aber Kopien befänden sich in Russland und den USA.",
       "status": "Abgeschlossen",
       "verdict": "Nicht ausreichend belegbar",
-      "reason": "Es gibt keine gelesene Quelle, die belastende Merkel-Unterlagen, deren Vernichtung oder Kopien in Russland oder den USA benennt. Die Berichte zum Verfahren vor dem VG Berlin nennen keine herausgabefähigen Unterlagen und sagen nichts über Vernichtung oder Kopien. Die Rosenholz-Dateien betreffen andere Bestände und belegen keinen Merkel-Bestand.",
+      "reason": "Es gibt keine gelesene Quelle, die belastende Merkel-Unterlagen, deren Vernichtung oder Kopien in Russland oder den USA benennt. Die Berichte zum Verfahren vor dem VG Berlin nennen keine herausgabefähigen Unterlagen und sagen nichts über Vernichtung oder Kopien. Die Rosenholz-Dateien betreffen andere Bestände und belegen keinen Merkel-Bestand. Ergänzung 23.11.2026 [Codex]: Bundesarchivdarstellung zu Rosenholz und Knabes Recherche zusätzlich gelesen. Allgemeine Aktenverluste und US-Karteien belegen keine konkreten belastenden Merkel-Dokumente oder ausländischen Kopien.",
       "shortReason": "Keine gelesene Quelle nennt belastende Merkel-Unterlagen, deren Vernichtung oder Kopien im Ausland.",
       "assessmentBasis": "Eigenständige Textauswertung und nur die nachfolgend konkret bezeichneten Recherchegrundlagen; Sprecher und Zeiten unbestätigt.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung; kein Altprüfpunkt.",
-        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt."
+        "assessmentChange": "Bewertung durch Claude nach eigener Quellenlektüre am 18.11.2026; frühere Einordnung präzisiert. Nachrecherche nach Rechercheregel 19.11.2026 (Claude): zweite, anders angelegte Recherche durchgeführt; Einordnung Nicht ausreichend belegbar bleibt. Ergänzung 23.11.2026 [Codex]: neue Quellenlektüre und Rückabgleich, vorher und nachher Nicht ausreichend belegbar."
       },
       "sourceRefs": [
         {
@@ -11686,6 +11771,10 @@
         {
           "sourceId": "S087",
           "note": "Keine herausgabefähigen Unterlagen; keine Angaben zu Vernichtung oder Kopien."
+        },
+        {
+          "sourceId": "S160",
+          "note": "Begrenzter neuer Quellenbefund der Reaktionsnachprüfung; Urteil unverändert."
         }
       ],
       "openQuestions": [
@@ -11731,6 +11820,16 @@
             "strategy": "Zweiter Durchgang: Suche nach Berichten über Kopien von Merkel-Unterlagen in Russland oder den USA und nach Faktenchecks dazu.",
             "sourceIds": [],
             "result": "Nur unbelegte Spekulationen ohne Quellenangabe gefunden; keine geeignete Quelle."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Gezielter Rückabgleich der neuen Reaktionsrecherche; genannte Quellen selbst im dokumentierten Umfang gelesen, keine Altbewertung als Beleg.",
+            "sourceIds": [
+              "S052",
+              "S160"
+            ],
+            "result": "Bundesarchivdarstellung zu Rosenholz und Knabes Recherche zusätzlich gelesen. Allgemeine Aktenverluste und US-Karteien belegen keine konkreten belastenden Merkel-Dokumente oder ausländischen Kopien."
           }
         ],
         "missingInformation": "Eine überprüfbare Quelle für die Existenz, Vernichtung oder Kopien belastender Merkel-Unterlagen.",
@@ -14764,6 +14863,91 @@
         "weightStatus": "Vorläufig",
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "mdo14671BPE-A0252",
+      "videoId": "mdo14671BPE",
+      "chapter": 19,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Merkels Kanzlerschaft sei als übergeordnetes Konstrukt gezielt eingefädelt worden.",
+      "status": "Abgeschlossen",
+      "verdict": "Nicht ausreichend belegbar",
+      "reason": "Öffentliche politische Unterstützung ist dokumentiert. Die Polenz-Biografie und sein zeitgenössischer Interviewtext 2005 belegen jedoch keinen darüber hinausgehenden, gezielt eingefädelten Gesamtplan. Eine konkrete Absprache oder ein Mechanismus wird nicht ausreichend eingegrenzt. Fehlender Beleg widerlegt nicht jede mögliche Absprache.",
+      "assessmentBasis": "[Codex] Eigene Originaltranskript- und Quellenprüfung am 23.11.2026. Textstellen mit Umfeld gelesen; Sprecher nur plausibel, Zeitgrenzen ungefähr. Einzelbilder ersetzen keine Hör-/Sichtkontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Im Reaktionsrückabgleich erkannt, bisher nicht einzeln erfasst; keine importierte KI-Bewertung.",
+        "assessmentChange": "[Codex] 23.11.2026: neue Originalaussage nach eigener Quellenprüfung. Bestehende Originalurteile unverändert."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S086",
+          "note": "Gelesene Polenz-Biografie belegt politische Ämter, keinen weitergehenden Gesamtplan."
+        },
+        {
+          "sourceId": "S161",
+          "note": "Öffentliche Wahlkampfunterstützung, keine dokumentierte geheime Steuerung."
+        }
+      ],
+      "openQuestions": [
+        "Welche konkrete, über öffentlichen Wahlkampf hinausgehende Absprache wird behauptet und durch welche zeitgenössischen Unterlagen wäre sie prüfbar?"
+      ],
+      "occurrences": [
+        {
+          "id": "mdo14671BPE-O0285",
+          "startSeconds": 7353,
+          "endSeconds": 7365,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Nur Gesprächsverlauf und Rollen-/Biografiekontext im automatischen Text; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Textlich als eigene Position erschlossen; Unsicherheit durch automatische Erfassung bleibt.",
+          "note": "Neu erkannter eigener Prüfgegenstand; aus automatischem Originaltext eingegrenzt, keine bestätigte Stimme.",
+          "timeBasis": "Automatische deutsche Originaluntertitel; Sekunden textlich eingegrenzt und nicht akustisch kontrolliert.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Quellenlage unzureichend",
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Übersehenen eigenen Prüfgegenstand im Original 2:02:33–2:02:45 gegen die Reaktion abgeglichen; Polenz-Biografie für dokumentierte Laufbahn gelesen.",
+            "sourceIds": [
+              "S086"
+            ],
+            "result": "Politische Rollen sind dokumentiert, ein weitergehender Gesamtplan dadurch nicht."
+          },
+          {
+            "date": "2026-11-23",
+            "agent": "Codex",
+            "strategy": "Zweiter Quellenweg: Polenz eigener zeitgenössischer Interviewtext 2005 auf öffentliche Unterstützung und weitergehende Absprachen geprüft.",
+            "sourceIds": [
+              "S161"
+            ],
+            "result": "Wahlkampfunterstützung belegt, kein konkreter Nachweis des behaupteten weitergehenden Plans."
+          }
+        ],
+        "missingInformation": "Konkrete Akteure, Zeitraum, Absprachen und belastbare Dokumente für den behaupteten Gesamtplan.",
+        "conflicts": null
+      },
+      "shortReason": "Öffentliche politische Unterstützung ist dokumentiert; ein darüber hinausgehender Steuerungsplan ist nicht nachgewiesen.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige, in diesem Interviewabschnitt kurze politische Steuerungsthese; Bedeutung vorläufig und unabhängig vom Urteil.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-23",
         "assessedBeforeVerdict": false
       }
     }
