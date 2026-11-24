@@ -5,13 +5,13 @@
     "videoId": "QxMuH1bjMwo",
     "videoUrl": "https://www.youtube.com/watch?v=QxMuH1bjMwo",
     "durationSeconds": 12053,
-    "asOf": "2026-11-19",
+    "asOf": "2026-11-24",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.",
-    "coverageNote": "Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst."
+    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.",
+    "coverageNote": "Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand."
   },
   "legacyPoints": [],
   "sources": [
@@ -558,6 +558,246 @@
       "details": "Auf dem ägyptischen Regierungsportal bereitgestellter Bericht.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Abschnitt zu Gesetz Nr. 77 von 1943 und den Erbanteilen von Töchtern und Söhnen gelesen."
+    },
+    {
+      "id": "S069",
+      "title": "Heidelberger Akademie: Kommentar zu Nietzsches Fröhlicher Wissenschaft, FW 125",
+      "url": "https://digi.hadw-bw.de/view/nietzsche_kom3_2_1/0878",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Stellenkommentar S. 855; Bezüge auf FW 108, 125 und 343 gelesen. Kritische Forschungsausgabe mit Wiedergabe der Originalstellen."
+    },
+    {
+      "id": "S070",
+      "title": "Johannesevangelium 18,36, Lutherbibel 2017",
+      "url": "https://www.bibleserver.com/LUT/Johannes18,36",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Vers 36 und Gesprächskontext 33–38 gelesen. Belegt den überlieferten Text, keine historische Tonaufzeichnung Jesu."
+    },
+    {
+      "id": "S071",
+      "title": "Universität Birmingham: Conservation and research, Birmingham Qur’an",
+      "url": "https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/research-and-conservation",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Abschnitt Research zur Schriftanalyse und Radiokarbondatierung gelesen; Pergamentdatum und Textentstehung unterschieden."
+    },
+    {
+      "id": "S072",
+      "title": "Immanuel Kant: Beantwortung der Frage: Was ist Aufklärung?, 1784",
+      "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Transkription des Originalaufsatzes, besonders S. 481–482, mit Herkunftsnachweis der UB Bielefeld gelesen."
+    },
+    {
+      "id": "S073",
+      "title": "Sunan an-Nasa’i 5126: Parfüm und die Zuschreibung des Ehebruchs",
+      "url": "https://sunnah.com/nasai/48/87",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Arabische Fundstelle und englische Übersetzung mit der Bedingung des Vorbeigehens zur Duftwahrnehmung gelesen. Keine Aussage über eine heutige Strafbarkeit daraus abgeleitet."
+    },
+    {
+      "id": "S074",
+      "title": "WELT: Interview mit Sami Abou-Yusuf, 23. Januar 2016",
+      "url": "https://www.welt.de/politik/deutschland/article151368072/Uebergriffe-von-Koeln-Viele-Einwanderer-muessen-noch-sehr-viel-lernen.html",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Eigenes Interview: Selbstbezeichnung als Predigthelfer, Kleidungserklärung und ausdrückliche Ablehnung der Übergriffe gelesen."
+    },
+    {
+      "id": "S075",
+      "title": "Deutsche Welle: Theological proliferation, 24. Januar 2016",
+      "url": "https://amp.dw.com/en/opinion-theological-proliferation/a-19001690",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Abschnitte zum eigenen Übersetzungsabgleich des REN-TV-Beitrags und zur Gegendarstellung gelesen. Kommentar und überprüfbare Interviewwiedergabe unterschieden."
+    },
+    {
+      "id": "S076",
+      "title": "Indisches Innenministerium: Volkszählung 2011 nach Religion",
+      "url": "https://www.pib.gov.in/newsite/PrintRelease.aspx?lang=2&reg=48&relid=126326",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Amtliche Mitteilung vom 25.08.2015 mit Bevölkerungsanteilen für 2011 gelesen."
+    },
+    {
+      "id": "S077",
+      "title": "NDTV: Eigenes Interview mit Narendra Modi, 24./25. Mai 2024",
+      "url": "https://www.ndtv.com/india-news/god-sent-me-for-a-purpose-but-pm-modi-to-ndtv-exclusive-5736055",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Interviewpassagen zur religiös begründeten Mission gelesen. Sie belegen diesen Selbstanspruch, nicht jede weitergehende Zuschreibung."
+    },
+    {
+      "id": "S078",
+      "title": "Moneycontrol: Wiedergabe des News18-Interviews mit Modi, 14. Mai 2024",
+      "url": "https://www.moneycontrol.com/elections/lok-sabha-election/i-consider-140-crore-indians-my-god-pm-modi-says-article-12721833.html",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Passagen über den göttlichen Auftrag und die als nicht biologisch beschriebene Energie gelesen; begrenzte Interviewwiedergabe, nicht die gesamte Originalaufnahme."
+    },
+    {
+      "id": "S079",
+      "title": "Gilbert Achcar: Morbid Symptoms: What Did Gramsci Really Mean?",
+      "url": "https://brill.com/view/journals/powr/1/2/article-p379_379.pdf",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Forschungsaufsatz mit originalem Gramsci-Bezug: Gefängnisheft 3, § 34 (1930), S. 379–382 und Diskussion des historischen Kontexts gelesen. Das zuerst geöffnete Marxists-Inhaltsverzeichnis enthielt den Text selbst nicht."
+    },
+    {
+      "id": "S080",
+      "title": "Hannah Arendt im Gespräch mit Joachim Fest, 1964",
+      "url": "https://www.hannaharendt.net/index.php/han/en/article/download/114/194/258?inline=1",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Veröffentlichte ungekürzte Redefassung, besonders die Erklärung des Banalitätsbegriffs und die Abgrenzung von dessen Verallgemeinerung gelesen."
+    },
+    {
+      "id": "S081",
+      "title": "ECCC: Urteil gegen Kaing Guek Eav, 26. Juli 2010",
+      "url": "https://www.eccc.gov.kh/sites/default/files/documents/courtdoc/20100726_Judgement_Case_001_ENG_PUBLIC.pdf",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Urteilsabschnitte 214–219, gedruckte S. 76–77, zu getöteten Kindern und Massenhinrichtungen gelesen. Keine pauschale Übernahme jeder im Gespräch genannten Tötungsart."
+    },
+    {
+      "id": "S082",
+      "title": "Spinoza: Theologisch-politischer Traktat, Vorrede, Cambridge-Ausgabe",
+      "url": "https://assets.cambridge.org/97805218/24118/excerpt/9780521824118_excerpt.pdf",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Vorrede §§ 5–8, besonders § 7 zur Täuschung und Verteidigung der eigenen Knechtschaft, gelesen."
+    },
+    {
+      "id": "S083",
+      "title": "Koran 39,53–54: Umkehr und Vergebung",
+      "url": "https://quran.com/39/53",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Übersetzung der Verse 53–54 und angezeigter Auslegungskontext zur Reue gelesen."
+    },
+    {
+      "id": "S084",
+      "title": "Kecia Ali: Concubinage and Consent, IJMES 49 (2017)",
+      "url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F8E807073C33F403A91C1ACA0CFA47FD/S0020743816001203a.pdf/div-class-title-concubinage-and-consent-div.pdf",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Forschungsaufsatz S. 148–150 zur Auswertung frühislamischer sunnitischer Rechtstexte, Unterschieden zum Koran und Grenzen des Schlusses aus fehlenden Zustimmungsvorgaben gelesen."
+    },
+    {
+      "id": "S085",
+      "title": "Land Berlin: Winterdienst, Pflichten und Auftaumittel",
+      "url": "https://www.berlin.de/sen/uvk/umwelt/sauberes-berlin/winterdienst/",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "FAQ zur Streupflicht mit Sand, Splitt oder Granulat sowie zum gesonderten Verbot von Auftaumitteln gelesen."
+    },
+    {
+      "id": "S086",
+      "title": "dtv: Aus Liebe zu Deutschland, Verlagsinformation",
+      "url": "https://www.dtv.de/product/9a0e3427b77241e58d3215b07b3505ad/pdf-download",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Bibliografische Angaben auf S. 1: Autor, Titel, Untertitel und Taschenbuchausgabe vom Januar 2022 gelesen."
+    },
+    {
+      "id": "S087",
+      "title": "EU-Kommission: Annahme der CO₂-Ziele für neue Pkw und Transporter, 28. März 2023",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/fit-55-eu-reaches-new-milestone-make-all-new-cars-and-vans-zero-emission-2035-2023-03-28_en",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Abschnitte zu Neuzulassungen ab 2035 und vorgesehenen Folgeentscheidungen gelesen. Die direkten EUR-Lex-Abrufe lieferten nur eine JavaScript-Abfrage; sie werden nicht als gelesen ausgegeben."
+    },
+    {
+      "id": "S088",
+      "title": "Europäisches Parlament: Gesetzgebungsverfahren 2025/0420(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0420%28COD%29",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Verfahrensgegenstand, Änderung der Verordnung 2019/631 und Stand vor der ersten Lesung des Parlaments gelesen."
+    },
+    {
+      "id": "S089",
+      "title": "Volkswagen/PowerCo: Produktionsbeginn der Zellfabrik Salzgitter, 17. Dezember 2025",
+      "url": "https://www.volkswagen-group.com/en/press-releases/start-of-european-battery-cell-production-powerco-commissions-salzgitter-gigafactory-20045",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Datierte Herstellerangabe über entwickelte und erstmals produzierte Zellen für weitere Fahrzeugtests gelesen; kein unabhängiger Nachweis von Marktführerschaft oder voller Serienauslastung."
+    },
+    {
+      "id": "S090",
+      "title": "US National Archives: Unabhängigkeitserklärung, Transkription",
+      "url": "https://www.archives.gov/founding-docs/declaration-transcript",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Abschnitt zu unveräußerlichen Rechten einschließlich des Strebens nach Glück gelesen."
+    },
+    {
+      "id": "S091",
+      "title": "Koran 2,275: Handel und Riba",
+      "url": "https://quran.com/2/275",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Versübersetzung und dargestellte Trennung von erlaubtem Handel und verbotenem Riba gelesen."
+    },
+    {
+      "id": "S092",
+      "title": "NRW-Schulministerium: Faktenblatt zur Kommission Islamischer Religionsunterricht",
+      "url": "https://www.schulministerium.nrw/system/files/media/document/file/faktenblatt_kommission_iru_mai_2021.pdf",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "S. 1 und 3 zu staatlicher Verantwortung, Kommission und fachlichen sowie religiösen Voraussetzungen gelesen; Bundeslandbezug NRW."
+    },
+    {
+      "id": "S093",
+      "title": "DITIB NRW: Idschaza-Verfahren und Voraussetzungen",
+      "url": "https://ditibnrw.de/wp-content/uploads/2026/07/Idschaza-Verfahren-Voraussetzungen-1.pdf",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "S. 1 zu Islam-Bekenntnis, sunnitischer Konfession und pädagogischer Qualifikation gelesen; Selbstauskunft dieses Trägers, kein Nachweis einer bundesweit einheitlichen Regel."
+    },
+    {
+      "id": "S094",
+      "title": "Kölner Stadt-Anzeiger: Ramadanbeleuchtung auf der Venloer Straße, 18. Februar 2026",
+      "url": "https://www.ksta.de/koeln/ehrenfeld/koeln-ehrenfeld-beleuchtung-auf-der-venloer-strasse-zum-ramadan-3-1209528",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Datierter Lokalbericht mit konkretem Ort, Zeitraum und Veranstalterangaben gelesen. Keine Prüfung der wertenden Aussage zur kulturellen Attraktivität."
+    },
+    {
+      "id": "S095",
+      "title": "YouTube: deutsches automatisches Originaltranskript und Beschreibung",
+      "url": "https://www.youtube.com/watch?v=QxMuH1bjMwo",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Am 24.11.2026 im Originalplayer Beschreibung geöffnet und Transkript angefordert; nach der Werbung direkt als private Textdatei exportiert. Zeitachse 00:00–03:20:50, Video 03:20:53; keine fremde Textdatei im Repository. Inhalt und Anschlusskontext der neuen Fundstellen gelesen, kein Hör- oder Bildabgleich."
+    },
+    {
+      "id": "S096",
+      "title": "Bundesarchiv: Hinweise zur NSDAP-Mitgliederkartei",
+      "url": "https://www.bundesarchiv.de/nsdap-mitgliederkartei/",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Einführende Hinweise zur unvollständigen Überlieferung und zur Bedeutung ergänzender Unterlagen gelesen."
+    },
+    {
+      "id": "S097",
+      "title": "SPIEGEL: NSDAP-Archiv",
+      "url": "https://www.spiegel.de/thema/nsdap-archiv/",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Angebot einer Mitgliederdatenbank auf der Herausgeberseite kontrolliert."
+    },
+    {
+      "id": "S098",
+      "title": "Koran 23,5–6: Sklavinnen in der Versübersetzung",
+      "url": "https://quran.com/23/5-6",
+      "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Versübersetzung gelesen; ihre Auslegung ist von der späteren juristischen Tradition zu unterscheiden."
     }
   ],
   "speakers": [
@@ -3441,6 +3681,1878 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0052",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Moderator fragt nach Nietzsche als Urheber der im Gespräch angesprochenen Vorstellung vom Tod Gottes.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die kritische Nietzsche-Ausgabe weist die Formulierung in der Fröhlichen Wissenschaft nach, unter anderem in den Abschnitten 108 und 125. Geprüft ist die Autorzuordnung, nicht die nachfolgende pauschale Deutung von Wissenschaft oder Demokratie als Ersatzreligion.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S069",
+          "note": "Stellenkommentar S. 855; Bezüge auf FW 108, 125 und 343 gelesen. Kritische Forschungsausgabe mit Wiedergabe der Originalstellen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0052",
+          "startSeconds": 815,
+          "endSeconds": 825,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Rückfrage",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Der Moderator fragt nach dem Urheber und nennt Nietzsche als Vermutung. Geprüft ist die Zuordnung des Textbezugs; die Rückfrage zählt nicht als eigenständige Tatsachenbehauptung des Videos.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S069"
+            ],
+            "result": "Die kritische Nietzsche-Ausgabe weist die Formulierung in der Fröhlichen Wissenschaft nach, unter anderem in den Abschnitten 108 und 125. Geprüft ist die Autorzuordnung, nicht die nachfolgende pauschale Deutung von Wissenschaft oder Demokratie als Ersatzreligion."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Kurze literarische Zuordnung in der Rückfrage zur Religionskritik.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0053",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Abdel-Samad verweist auf einen Jesus zugeschriebenen Ausspruch, der dessen Reich von der weltlichen Sphäre abgrenzt.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Johannes 18,36 enthält den im Gespräch sinngemäß wiedergegebenen Gedanken. Damit ist die Textreferenz bestätigt. Daraus allein folgt weder die historische Authentizität eines gesprochenen Satzes noch eine vollständige Bewertung späterer christlicher Herrschaft.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S070",
+          "note": "Vers 36 und Gesprächskontext 33–38 gelesen. Belegt den überlieferten Text, keine historische Tonaufzeichnung Jesu."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0053",
+          "startSeconds": 1622,
+          "endSeconds": 1636,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S070"
+            ],
+            "result": "Johannes 18,36 enthält den im Gespräch sinngemäß wiedergegebenen Gedanken. Damit ist die Textreferenz bestätigt. Daraus allein folgt weder die historische Authentizität eines gesprochenen Satzes noch eine vollständige Bewertung späterer christlicher Herrschaft."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Textbeispiel für den Gegensatz zwischen religiöser Lehre und politischer Herrschaft.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0054",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Gast ordnet den Koran und weitere religiöse Texte pauschal dem 7. Jahrhundert zu.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Für frühe Koranüberlieferung gibt es Belege aus dem 7. Jahrhundert: Die Universität Birmingham datiert die Schrift ihres Fragments entsprechend. Die Radiokarbondatierung betrifft das Pergament. Sie datiert weder jede religiöse Überlieferung noch spätere Sammlungen pauschal in dieses Jahrhundert. Die weitergehende Forderung nach historischer Einordnung ist eine Wertung.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S071",
+          "note": "Abschnitt Research zur Schriftanalyse und Radiokarbondatierung gelesen; Pergamentdatum und Textentstehung unterschieden."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0054",
+          "startSeconds": 1930,
+          "endSeconds": 1951,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S071"
+            ],
+            "result": "Für frühe Koranüberlieferung gibt es Belege aus dem 7. Jahrhundert: Die Universität Birmingham datiert die Schrift ihres Fragments entsprechend. Die Radiokarbondatierung betrifft das Pergament. Sie datiert weder jede religiöse Überlieferung noch spätere Sammlungen pauschal in dieses Jahrhundert. Die weitergehende Forderung nach historischer Einordnung ist eine Wertung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Frühe Koranfragmente stammen aus dem 7. Jahrhundert; damit sind spätere Überlieferungen nicht pauschal mitdatiert.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Historische Grundlage der Argumentation gegen eine unmittelbare Übertragung religiöser Regeln.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0055",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Bezugnahme auf Aufklärung, selbstverschuldete Unmündigkeit und den Gebrauch des eigenen Verstandes geht auf Kant zurück.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Kants Aufsatz von 1784 verbindet den Ausgang aus selbstverschuldeter Unmündigkeit mit dem Mut, den eigenen Verstand ohne fremde Leitung zu nutzen. Die im Gespräch als Aufklärungsgedanke wiedergegebene Passage trifft diesen Kern. Die Bewertung heutiger Schulen oder Religionen wird dadurch nicht empirisch bewiesen.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S072",
+          "note": "Transkription des Originalaufsatzes, besonders S. 481–482, mit Herkunftsnachweis der UB Bielefeld gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0055",
+          "startSeconds": 2441,
+          "endSeconds": 2465,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S072"
+            ],
+            "result": "Kants Aufsatz von 1784 verbindet den Ausgang aus selbstverschuldeter Unmündigkeit mit dem Mut, den eigenen Verstand ohne fremde Leitung zu nutzen. Die im Gespräch als Aufklärungsgedanke wiedergegebene Passage trifft diesen Kern. Die Bewertung heutiger Schulen oder Religionen wird dadurch nicht empirisch bewiesen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Philosophischer Bezugspunkt der Forderung nach selbständigem Denken in der Schule.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0056",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Hadith bezeichnet eine parfümierte Frau unter bestimmten Umständen als Ehebrecherin.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "An-Nasa’i 5126 enthält die drastische Zuschreibung. Die Überlieferung nennt aber zusätzlich das Vorbeigehen an Menschen, damit sie den Duft wahrnehmen. Die verkürzte Wiedergabe im Gespräch lässt diese Bedingung weitgehend weg. Der Text erlaubt keine Aussage über die Haltung aller heutigen Muslime und ist keine allgemeine rechtliche Erlaubnis zu Übergriffen.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S073",
+          "note": "Arabische Fundstelle und englische Übersetzung mit der Bedingung des Vorbeigehens zur Duftwahrnehmung gelesen. Keine Aussage über eine heutige Strafbarkeit daraus abgeleitet."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0056",
+          "startSeconds": 3182,
+          "endSeconds": 3205,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S073"
+            ],
+            "result": "An-Nasa’i 5126 enthält die drastische Zuschreibung. Die Überlieferung nennt aber zusätzlich das Vorbeigehen an Menschen, damit sie den Duft wahrnehmen. Die verkürzte Wiedergabe im Gespräch lässt diese Bedingung weitgehend weg. Der Text erlaubt keine Aussage über die Haltung aller heutigen Muslime und ist keine allgemeine rechtliche Erlaubnis zu Übergriffen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Der Hadith enthält die Zuschreibung, knüpft sie aber an das Vorbeigehen zur Duftwahrnehmung durch andere.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Konkreter Textbeleg in der Erklärung religiöser Frauenbilder.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0057",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Kölner Prediger habe nach Silvester 2015/16 Übergriffe mit Kleidung und Parfüm der Frauen erklärt und damit gerechtfertigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die DW dokumentiert den Bezug auf Kleidung und Parfüm im REN-TV-Beitrag. Abou-Yusuf wies im eigenen Interview eine Rechtfertigung zurück und bestritt den formellen Imamstatus. Der Tatsachenkern der öffentlichen Kontroverse ist belegt; die eindeutige Zustimmung zu Übergriffen und ein Zitat des konkreten Hadiths bleiben unbestätigt.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S074",
+          "note": "Eigenes Interview: Selbstbezeichnung als Predigthelfer, Kleidungserklärung und ausdrückliche Ablehnung der Übergriffe gelesen."
+        },
+        {
+          "sourceId": "S075",
+          "note": "Abschnitte zum eigenen Übersetzungsabgleich des REN-TV-Beitrags und zur Gegendarstellung gelesen. Kommentar und überprüfbare Interviewwiedergabe unterschieden."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0057",
+          "startSeconds": 3205,
+          "endSeconds": 3230,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S074",
+              "S075"
+            ],
+            "result": "Die DW dokumentiert den Bezug auf Kleidung und Parfüm im REN-TV-Beitrag. Abou-Yusuf wies im eigenen Interview eine Rechtfertigung zurück und bestritt den formellen Imamstatus. Der Tatsachenkern der öffentlichen Kontroverse ist belegt; die eindeutige Zustimmung zu Übergriffen und ein Zitat des konkreten Hadiths bleiben unbestätigt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": "Die frühe übersetzte Interviewwiedergabe und die spätere eigene Gegendarstellung unterscheiden Erklärung und Rechtfertigung; der Dissens wird nicht aufgelöst."
+      },
+      "shortReason": "Kleidung und Parfüm wurden thematisiert; der Prediger bestritt eine Rechtfertigung der Übergriffe.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Konkretes öffentliches Beispiel, das die Deutung der Kölner Übergriffe stützen soll.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0058",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Indien besitzt eine hinduistische Bevölkerungsmehrheit.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die amtliche Volkszählung 2011 ermittelte 79,8 Prozent Hindus. Das stützt den vom Moderator vorausgesetzten Mehrheitsbezug. Es bedeutet weder, dass alle Menschen in Indien Hindus sind, noch dass eine Aussage über eine Staatsreligion nachgewiesen wäre.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S076",
+          "note": "Amtliche Mitteilung vom 25.08.2015 mit Bevölkerungsanteilen für 2011 gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0058",
+          "startSeconds": 3373,
+          "endSeconds": 3385,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S076"
+            ],
+            "result": "Die amtliche Volkszählung 2011 ermittelte 79,8 Prozent Hindus. Das stützt den vom Moderator vorausgesetzten Mehrheitsbezug. Es bedeutet weder, dass alle Menschen in Indien Hindus sind, noch dass eine Aussage über eine Staatsreligion nachgewiesen wäre."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Vergleichsfall zur Prüfung, ob Geschlechtertrennung allein islamisch erklärt werden kann.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0059",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Narendra Modi stelle sich als von Gott beauftragt und als kein gewöhnlicher Mensch dar.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Im eigenen NDTV-Interview beschreibt Modi einen göttlichen Auftrag. Die Wiedergabe seines News18-Interviews verknüpft auch seine Energie mit Gott statt allein mit dem biologischen Körper. Das trägt den religiösen Selbstanspruch. Die zugespitzte Behauptung, er habe sich buchstäblich als kein Mensch bezeichnet, ist mit diesen gelesenen Stellen nicht nachgewiesen; andere Interviewstellen sind damit nicht ausgeschlossen.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S077",
+          "note": "Interviewpassagen zur religiös begründeten Mission gelesen. Sie belegen diesen Selbstanspruch, nicht jede weitergehende Zuschreibung."
+        },
+        {
+          "sourceId": "S078",
+          "note": "Passagen über den göttlichen Auftrag und die als nicht biologisch beschriebene Energie gelesen; begrenzte Interviewwiedergabe, nicht die gesamte Originalaufnahme."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0059",
+          "startSeconds": 3565,
+          "endSeconds": 3588,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Mittel",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S077",
+              "S078"
+            ],
+            "result": "Im eigenen NDTV-Interview beschreibt Modi einen göttlichen Auftrag. Die Wiedergabe seines News18-Interviews verknüpft auch seine Energie mit Gott statt allein mit dem biologischen Körper. Das trägt den religiösen Selbstanspruch. Die zugespitzte Behauptung, er habe sich buchstäblich als kein Mensch bezeichnet, ist mit diesen gelesenen Stellen nicht nachgewiesen; andere Interviewstellen sind damit nicht ausgeschlossen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Modis göttlicher Selbstauftrag ist dokumentiert; die Zuspitzung auf ein buchstäbliches Nichtmenschsein ist damit nicht belegt.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Konkretes internationales Beispiel für den religiösen Herrschaftsanspruch.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0060",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Gramsci beschrieb eine Krise zwischen dem Vergehen der alten Ordnung und der noch nicht entstehenden neuen Ordnung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Forschungsaufsatz gibt die Stelle aus Gefängnisheft 3, § 34 von 1930 wieder und ordnet sie historisch ein. Der im Video ausdrücklich als sinngemäß angekündigte Bezug trifft das Übergangsmotiv. Die Monsterformulierung ist eine freie Übertragung; sie wird hier nicht als wortgetreues Gramsci-Zitat behandelt. Gramscis Diagnose belegt nicht automatisch die heutige Prognose des Gasts.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S079",
+          "note": "Forschungsaufsatz mit originalem Gramsci-Bezug: Gefängnisheft 3, § 34 (1930), S. 379–382 und Diskussion des historischen Kontexts gelesen. Das zuerst geöffnete Marxists-Inhaltsverzeichnis enthielt den Text selbst nicht."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0060",
+          "startSeconds": 4124,
+          "endSeconds": 4155,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S079"
+            ],
+            "result": "Der Forschungsaufsatz gibt die Stelle aus Gefängnisheft 3, § 34 von 1930 wieder und ordnet sie historisch ein. Der im Video ausdrücklich als sinngemäß angekündigte Bezug trifft das Übergangsmotiv. Die Monsterformulierung ist eine freie Übertragung; sie wird hier nicht als wortgetreues Gramsci-Zitat behandelt. Gramscis Diagnose belegt nicht automatisch die heutige Prognose des Gasts."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Historischer Denkbezug für die zentrale Warnung vor einer neuen Herrschaftsordnung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0061",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Moderator ordnet den Begriff der Banalität des Bösen Hannah Arendt zu.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Arendt erläutert den Begriff im veröffentlichten Gespräch mit Joachim Fest selbst. Die Zuordnung stimmt. Sie weist dort ausdrücklich die Lesart zurück, in jedem Menschen stecke Eichmann. Die anschließende allgemeine Täterpsychologie des Moderators ist daher nicht schon durch die richtige Autorzuordnung bestätigt.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S080",
+          "note": "Veröffentlichte ungekürzte Redefassung, besonders die Erklärung des Banalitätsbegriffs und die Abgrenzung von dessen Verallgemeinerung gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0061",
+          "startSeconds": 4241,
+          "endSeconds": 4260,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S080"
+            ],
+            "result": "Arendt erläutert den Begriff im veröffentlichten Gespräch mit Joachim Fest selbst. Die Zuordnung stimmt. Sie weist dort ausdrücklich die Lesart zurück, in jedem Menschen stecke Eichmann. Die anschließende allgemeine Täterpsychologie des Moderators ist daher nicht schon durch die richtige Autorzuordnung bestätigt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Begriffsreferenz als Ausgangspunkt der Diskussion über Gehorsam und Verbrechen.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0062",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In Kambodscha wurden unter den Roten Khmer auch Kinder systematisch getötet.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das ECCC-Urteil hält Hinrichtungen kleiner Kinder in S-21 und Choeung Ek sowie einen dokumentierten Fall mit etwa 160 Kindern fest. Damit ist der Kern der geschilderten Massengewalt belegt. Die konkrete Baum-Methode und die im Gespräch genannte unbestimmte Häufigkeit wurden durch die gelesenen Urteilsabschnitte nicht unabhängig bestätigt; eine allgemeine Erklärung der Täterpersönlichkeit folgt daraus ebenfalls nicht.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S081",
+          "note": "Urteilsabschnitte 214–219, gedruckte S. 76–77, zu getöteten Kindern und Massenhinrichtungen gelesen. Keine pauschale Übernahme jeder im Gespräch genannten Tötungsart."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0062",
+          "startSeconds": 4283,
+          "endSeconds": 4330,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S081"
+            ],
+            "result": "Das ECCC-Urteil hält Hinrichtungen kleiner Kinder in S-21 und Choeung Ek sowie einen dokumentierten Fall mit etwa 160 Kindern fest. Damit ist der Kern der geschilderten Massengewalt belegt. Die konkrete Baum-Methode und die im Gespräch genannte unbestimmte Häufigkeit wurden durch die gelesenen Urteilsabschnitte nicht unabhängig bestätigt; eine allgemeine Erklärung der Täterpersönlichkeit folgt daraus ebenfalls nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die gezielte Tötung von Kindern ist gerichtlich dokumentiert; die konkrete Methode und Häufigkeit bleiben hier ungeprüft.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Historischer Gegenstand der Frage, wie Menschen an Massengewalt mitwirken.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0063",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Spinoza habe bereits vor Arendt die Unterwerfung von Menschen unter Herrschaft beschrieben.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Spinoza beschreibt 1670 in der Vorrede des Theologisch-politischen Traktats, wie religiös verkleidete Angst Menschen dazu bringen kann, ihre Knechtschaft für Rettung zu halten. Der historische Bezug ist sachlich tragfähig. Eine allgemeine empirische Lust an Unterwerfung formuliert oder beweist diese Passage nicht.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S082",
+          "note": "Vorrede §§ 5–8, besonders § 7 zur Täuschung und Verteidigung der eigenen Knechtschaft, gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0063",
+          "startSeconds": 4369,
+          "endSeconds": 4390,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S082"
+            ],
+            "result": "Spinoza beschreibt 1670 in der Vorrede des Theologisch-politischen Traktats, wie religiös verkleidete Angst Menschen dazu bringen kann, ihre Knechtschaft für Rettung zu halten. Der historische Bezug ist sachlich tragfähig. Eine allgemeine empirische Lust an Unterwerfung formuliert oder beweist diese Passage nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Spinoza behandelt die Verteidigung der eigenen Knechtschaft durch Täuschung, nicht eine nachgewiesene allgemeine Lust daran.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Philosophischer Beleg für den behaupteten Mechanismus der Unterwerfung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0064",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Islam kennt mit Tauba ein Konzept der Reue und Umkehr zu Gott.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Koran 39,53–54 verbindet die Hoffnung auf Vergebung mit der Umkehr zu Gott. Damit ist die Existenz des angesprochenen Konzepts bestätigt. Ob ein bestimmter Täter damit tatsächlich eine Straftat rechtfertigt, lässt sich aus dieser Textstelle nicht ableiten.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S083",
+          "note": "Übersetzung der Verse 53–54 und angezeigter Auslegungskontext zur Reue gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0064",
+          "startSeconds": 5360,
+          "endSeconds": 5385,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S083"
+            ],
+            "result": "Koran 39,53–54 verbindet die Hoffnung auf Vergebung mit der Umkehr zu Gott. Damit ist die Existenz des angesprochenen Konzepts bestätigt. Ob ein bestimmter Täter damit tatsächlich eine Straftat rechtfertigt, lässt sich aus dieser Textstelle nicht ableiten."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Religiöses Konzept in der Diskussion über Tat, Schuld und Vergebung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0065",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die vormoderne islamische Rechtstradition erlaubte sexuelle Beziehungen von Männern zu ihren Sklavinnen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Kecia Alis Untersuchung sunnitischer Rechtstexte des 8. bis 10. Jahrhunderts bestätigt die rechtliche Akzeptanz des Konkubinats. Sie unterscheidet ausdrücklich Korantext und spätere Jurisprudenz. Geprüft ist die historische Rechtsvorstellung, nicht die Behauptung, heutige Muslime hätten deshalb bestimmte Täterfantasien oder lehnten das heutige Verbot sexueller Gewalt ab.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S084",
+          "note": "Forschungsaufsatz S. 148–150 zur Auswertung frühislamischer sunnitischer Rechtstexte, Unterschieden zum Koran und Grenzen des Schlusses aus fehlenden Zustimmungsvorgaben gelesen."
+        },
+        {
+          "sourceId": "S098",
+          "note": "Versübersetzung gelesen; ihre Auslegung ist von der späteren juristischen Tradition zu unterscheiden."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0065",
+          "startSeconds": 5395,
+          "endSeconds": 5425,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S084",
+              "S098"
+            ],
+            "result": "Kecia Alis Untersuchung sunnitischer Rechtstexte des 8. bis 10. Jahrhunderts bestätigt die rechtliche Akzeptanz des Konkubinats. Sie unterscheidet ausdrücklich Korantext und spätere Jurisprudenz. Geprüft ist die historische Rechtsvorstellung, nicht die Behauptung, heutige Muslime hätten deshalb bestimmte Täterfantasien oder lehnten das heutige Verbot sexueller Gewalt ab."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Historische Norm als Teil der Erklärung des Gasts; Gegenwartsübertragung wird getrennt gehalten.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0066",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In Berlin gebe es ein Streuverbot.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Für den Winterdienst gilt kein allgemeines Streuverbot. Die Berliner Regeln verlangen bei Glätte abstumpfende Streumittel wie Sand oder Splitt. Gesondert beschränkt ist der Einsatz von Salz und anderen Auftaumitteln. Falls der Moderator nur Tausalz meinte, ist dieser enge Kern vorhanden; die unpräzise Formulierung verwischt aber den entscheidenden Unterschied. Seine Forderung nach zivilem Ungehorsam bleibt eine Meinung.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S085",
+          "note": "FAQ zur Streupflicht mit Sand, Splitt oder Granulat sowie zum gesonderten Verbot von Auftaumitteln gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0066",
+          "startSeconds": 7079,
+          "endSeconds": 7096,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S085"
+            ],
+            "result": "Für den Winterdienst gilt kein allgemeines Streuverbot. Die Berliner Regeln verlangen bei Glätte abstumpfende Streumittel wie Sand oder Splitt. Gesondert beschränkt ist der Einsatz von Salz und anderen Auftaumitteln. Falls der Moderator nur Tausalz meinte, ist dieser enge Kern vorhanden; die unpräzise Formulierung verwischt aber den entscheidenden Unterschied. Seine Forderung nach zivilem Ungehorsam bleibt eine Meinung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Berlin verlangt Streuen mit Sand oder Splitt; die Einschränkung betrifft Salz und andere Auftaumittel.",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Beiläufiges Beispiel für zivilen Ungehorsam, kein Hauptgegenstand des Gesprächs.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0067",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Abdel-Samad hat ein Buch mit dem Titel Aus Liebe zu Deutschland veröffentlicht.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der eigene Verlag führt das Buch mit dem Untertitel Ein Warnruf und einer Taschenbuchausgabe vom Januar 2022. Geprüft ist die Existenz des Werks. Die anschließende Annahme, ein gebürtiger Deutscher könne einen solchen Titel nicht veröffentlichen, ist damit nicht belegt.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S086",
+          "note": "Bibliografische Angaben auf S. 1: Autor, Titel, Untertitel und Taschenbuchausgabe vom Januar 2022 gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0067",
+          "startSeconds": 6144,
+          "endSeconds": 6155,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S086"
+            ],
+            "result": "Der eigene Verlag führt das Buch mit dem Untertitel Ein Warnruf und einer Taschenbuchausgabe vom Januar 2022. Geprüft ist die Existenz des Werks. Die anschließende Annahme, ein gebürtiger Deutscher könne einen solchen Titel nicht veröffentlichen, ist damit nicht belegt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Bibliografische Nebenangabe zur eigenen öffentlichen Arbeit.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0068",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die EU habe ein Verbot von Verbrennern beschlossen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S087",
+          "note": "Abschnitte zu Neuzulassungen ab 2035 und vorgesehenen Folgeentscheidungen gelesen. Die direkten EUR-Lex-Abrufe lieferten nur eine JavaScript-Abfrage; sie werden nicht als gelesen ausgegeben."
+        },
+        {
+          "sourceId": "S088",
+          "note": "Verfahrensgegenstand, Änderung der Verordnung 2019/631 und Stand vor der ersten Lesung des Parlaments gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0068",
+          "startSeconds": 7905,
+          "endSeconds": 7934,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S087",
+              "S088"
+            ],
+            "result": "Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die EU-Regel betrifft neue Pkw und Transporter ab 2035, nicht die Nutzung sämtlicher vorhandener Verbrenner.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Konkretes politisches Beispiel in der These vom Rückzug vernünftiger Akteure.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0069",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland habe keine Kompetenz in der Batterieproduktion.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Bereits vor dem Aufnahmetermin meldete PowerCo im Dezember 2025 in Salzgitter entwickelte und erstmals produzierte Batteriezellen. Auch bei vorsichtiger Verwendung dieser Herstellerangabe widerlegt dieses konkrete Gegenbeispiel das pauschale Fehlen jeglicher Produktionskompetenz. Es beweist keine Marktführerschaft, hohe Auslastung oder Unabhängigkeit von chinesischen Lieferketten. Die unmittelbar anschließende Softwarebehauptung ist damit noch nicht separat geprüft.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S089",
+          "note": "Datierte Herstellerangabe über entwickelte und erstmals produzierte Zellen für weitere Fahrzeugtests gelesen; kein unabhängiger Nachweis von Marktführerschaft oder voller Serienauslastung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0069",
+          "startSeconds": 7927,
+          "endSeconds": 7938,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S089"
+            ],
+            "result": "Bereits vor dem Aufnahmetermin meldete PowerCo im Dezember 2025 in Salzgitter entwickelte und erstmals produzierte Batteriezellen. Auch bei vorsichtiger Verwendung dieser Herstellerangabe widerlegt dieses konkrete Gegenbeispiel das pauschale Fehlen jeglicher Produktionskompetenz. Es beweist keine Marktführerschaft, hohe Auslastung oder Unabhängigkeit von chinesischen Lieferketten. Die unmittelbar anschließende Softwarebehauptung ist damit noch nicht separat geprüft."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "PowerCo entwickelte und produzierte schon 2025 in Salzgitter erste Batteriezellen; völlige Kompetenzlosigkeit trifft nicht zu.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige technische Prämisse der Kritik an der Umstellung der Autoindustrie.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0070",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Streben nach Glück gehört zu den ausdrücklich genannten amerikanischen Gründungswerten.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Unabhängigkeitserklärung nennt das Streben nach Glück zusammen mit Leben und Freiheit unter den unveräußerlichen Rechten. Damit stimmt der Textbezug des Moderators. Seine Einschätzung, wie weit Deutschland davon entfernt sei, bleibt eine politische Wertung.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S090",
+          "note": "Abschnitt zu unveräußerlichen Rechten einschließlich des Strebens nach Glück gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0070",
+          "startSeconds": 8084,
+          "endSeconds": 8095,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S090"
+            ],
+            "result": "Die Unabhängigkeitserklärung nennt das Streben nach Glück zusammen mit Leben und Freiheit unter den unveräußerlichen Rechten. Damit stimmt der Textbezug des Moderators. Seine Einschätzung, wie weit Deutschland davon entfernt sei, bleibt eine politische Wertung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Kurzer Vergleich in der Diskussion über verbindende Werte.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0071",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Islam besteht ein Verbot von Riba beziehungsweise Zinsen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Koran 2,275 unterscheidet erlaubten Handel und verbotenes Riba; die gelesene Übersetzung gibt Riba als Zins wieder. Der religiöse Kern ist belegt. Daraus folgt kein pauschales Verbot jeder Banknutzung und keine Feststellung, wie alle heutigen Muslime Finanzgeschäfte beurteilen. Solche Verallgemeinerungen werden von der Textstelle nicht getragen.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S091",
+          "note": "Versübersetzung und dargestellte Trennung von erlaubtem Handel und verbotenem Riba gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0071",
+          "startSeconds": 8390,
+          "endSeconds": 8410,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S091"
+            ],
+            "result": "Koran 2,275 unterscheidet erlaubten Handel und verbotenes Riba; die gelesene Übersetzung gibt Riba als Zins wieder. Der religiöse Kern ist belegt. Daraus folgt kein pauschales Verbot jeder Banknutzung und keine Feststellung, wie alle heutigen Muslime Finanzgeschäfte beurteilen. Solche Verallgemeinerungen werden von der Textstelle nicht getragen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Der Koran untersagt Riba; daraus folgt kein pauschales Verbot sämtlicher Bankgeschäfte.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Sachkern des Beispiels zur Abgrenzung religiöser Wirtschaftsangebote.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0072",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der SPIEGEL bietet eine Suche zur NSDAP-Mitgliedschaft von Vorfahren an.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der SPIEGEL verweist auf seine Mitgliederdatenbank. Das Bundesarchiv erläutert unabhängig davon die unvollständige Überlieferung und nötige Ergänzungsquellen. Ein fehlender Treffer entlastet deshalb nicht sicher; ein Treffer beschreibt nicht automatisch Überzeugung oder konkrete Taten. Die unterstellten Motive des Angebots sind eine gesonderte Wertung.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S096",
+          "note": "Einführende Hinweise zur unvollständigen Überlieferung und zur Bedeutung ergänzender Unterlagen gelesen."
+        },
+        {
+          "sourceId": "S097",
+          "note": "Angebot einer Mitgliederdatenbank auf der Herausgeberseite kontrolliert."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0072",
+          "startSeconds": 9110,
+          "endSeconds": 9130,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S096",
+              "S097"
+            ],
+            "result": "Der SPIEGEL verweist auf seine Mitgliederdatenbank. Das Bundesarchiv erläutert unabhängig davon die unvollständige Überlieferung und nötige Ergänzungsquellen. Ein fehlender Treffer entlastet deshalb nicht sicher; ein Treffer beschreibt nicht automatisch Überzeugung oder konkrete Taten. Die unterstellten Motive des Angebots sind eine gesonderte Wertung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Konkretes Medienangebot als Grundlage der Kritik an Erinnerungskultur.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0073",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Lehrkräfte für konfessionellen islamischen Religionsunterricht müssen selbst dem Islam angehören.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das NRW-Ministerium verlangt fachliche Qualifikation und eine religiöse Unterrichtserlaubnis. Das DITIB-NRW-Verfahren verlangt ausdrücklich ein islamisches Bekenntnis, dort sogar die sunnitische Konfession. Das bestätigt den Kern für den im Gespräch genannten NRW-Kontext. Es ist kein Nachweis identischer Vorgaben in jedem Bundesland oder für jeden religionskundlichen Unterricht.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S092",
+          "note": "S. 1 und 3 zu staatlicher Verantwortung, Kommission und fachlichen sowie religiösen Voraussetzungen gelesen; Bundeslandbezug NRW."
+        },
+        {
+          "sourceId": "S093",
+          "note": "S. 1 zu Islam-Bekenntnis, sunnitischer Konfession und pädagogischer Qualifikation gelesen; Selbstauskunft dieses Trägers, kein Nachweis einer bundesweit einheitlichen Regel."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0073",
+          "startSeconds": 9431,
+          "endSeconds": 9460,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S092",
+              "S093"
+            ],
+            "result": "Das NRW-Ministerium verlangt fachliche Qualifikation und eine religiöse Unterrichtserlaubnis. Das DITIB-NRW-Verfahren verlangt ausdrücklich ein islamisches Bekenntnis, dort sogar die sunnitische Konfession. Das bestätigt den Kern für den im Gespräch genannten NRW-Kontext. Es ist kein Nachweis identischer Vorgaben in jedem Bundesland oder für jeden religionskundlichen Unterricht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Für das geprüfte NRW-Verfahren ist ein islamisches Bekenntnis verlangt; das belegt keine einheitliche Regel für alle Länder.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Zulassungsvoraussetzung als tragende Sachgrundlage der Diskussion über konfessionelle Schule.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0074",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "In Köln gibt es eine öffentliche Ramadanbeleuchtung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der datierte Lokalbericht beschreibt die Beleuchtung der Venloer Straße im Februar und März 2026 und nennt die vorherigen Ausgaben 2024 und 2025. Damit ist das konkrete Kölner Beispiel bestätigt. Die Behauptung, es gebe in ganz Japan keine Ramadanbeleuchtung, und die ästhetische Wertung werden davon nicht mitbewertet.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S094",
+          "note": "Datierter Lokalbericht mit konkretem Ort, Zeitraum und Veranstalterangaben gelesen. Keine Prüfung der wertenden Aussage zur kulturellen Attraktivität."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0074",
+          "startSeconds": 9791,
+          "endSeconds": 9805,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [
+              "S094"
+            ],
+            "result": "Der datierte Lokalbericht beschreibt die Beleuchtung der Venloer Straße im Februar und März 2026 und nennt die vorherigen Ausgaben 2024 und 2025. Damit ist das konkrete Kölner Beispiel bestätigt. Die Behauptung, es gebe in ganz Japan keine Ramadanbeleuchtung, und die ästhetische Wertung werden davon nicht mitbewertet."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Kulturelles Nebenbeispiel im Vergleich von Weihnachts- und Ramadanbeleuchtung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0075",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "Abdel-Samad hält Migration und Sozialstaat grundsätzlich für unvereinbar und fordert eine andere Ausgestaltung der Unterstützung.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Die Passage formuliert eine weitreichende politische Systemthese und leitet daraus Reformforderungen ab, ohne einen messbaren Zeitpunkt oder einen klaren Erfolgsmaßstab für Unvereinbarkeit festzulegen. Sie wird deshalb als politische Einschätzung erfasst. Daraus wird keine Tatsachenfeststellung über Arbeitswillen oder Leistungsbezug einzelner Migranten abgeleitet.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+      },
+      "sourceRefs": [],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0075",
+          "startSeconds": 8174,
+          "endSeconds": 8195,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt.",
+            "sourceIds": [],
+            "result": "Die Passage formuliert eine weitreichende politische Systemthese und leitet daraus Reformforderungen ab, ohne einen messbaren Zeitpunkt oder einen klaren Erfolgsmaßstab für Unvereinbarkeit festzulegen. Sie wird deshalb als politische Einschätzung erfasst. Daraus wird keine Tatsachenfeststellung über Arbeitswillen oder Leistungsbezug einzelner Migranten abgeleitet."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Hamed Abdel-Samad",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
       }
     }
   ]

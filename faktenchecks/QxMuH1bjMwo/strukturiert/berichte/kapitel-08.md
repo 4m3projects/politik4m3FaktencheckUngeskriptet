@@ -1,8 +1,8 @@
 # Kapitel 08: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
 
 ## QxMuH1bjMwo-A0014
 
@@ -199,5 +199,298 @@ Fehlende Information: Eine unabhängig kontrollierbare Aufzeichnung oder Nieders
 - Durchgang 1 am 2026-11-19 (Codex): Zeitgenössische Ausbildungsunterlagen und Veröffentlichungen der beteiligten Organisationen zu Einstellungsvoraussetzungen gesucht. Gepruefte Quellen: S053, S054. Ergebnis: Die Ausbildungswege sind dokumentiert, der Wortbeitrag auf der Tagung fehlt.
 
 - Durchgang 2 am 2026-11-19 (Codex): Über Datum, Rücktrittsschreiben und Teilnehmerberichte nach der konkreten Tagung und einer zeitnahen Wiedergabe der Sitzung gesucht. Gepruefte Quellen: S003, S056. Ergebnis: Der offene Brief ist eine zeitnahe Wiederholung durch denselben Zeugen. Der teilnehmende Imam beschreibt die Tagung, bestätigt die konkrete Wortmeldung aber nicht.
+
+## QxMuH1bjMwo-A0068
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die EU habe ein Verbot von Verbrennern beschlossen.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:11:45–02:12:14](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=7905s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [EU-Kommission: Annahme der CO₂-Ziele für neue Pkw und Transporter, 28. März 2023](https://climate.ec.europa.eu/news-other-reads/news/fit-55-eu-reaches-new-milestone-make-all-new-cars-and-vans-zero-emission-2035-2023-03-28_en) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Abschnitte zu Neuzulassungen ab 2035 und vorgesehenen Folgeentscheidungen gelesen. Die direkten EUR-Lex-Abrufe lieferten nur eine JavaScript-Abfrage; sie werden nicht als gelesen ausgegeben. Abschnitte zu Neuzulassungen ab 2035 und vorgesehenen Folgeentscheidungen gelesen. Die direkten EUR-Lex-Abrufe lieferten nur eine JavaScript-Abfrage; sie werden nicht als gelesen ausgegeben.
+
+- [Europäisches Parlament: Gesetzgebungsverfahren 2025/0420(COD)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0420%28COD%29) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Verfahrensgegenstand, Änderung der Verordnung 2019/631 und Stand vor der ersten Lesung des Parlaments gelesen. Verfahrensgegenstand, Änderung der Verordnung 2019/631 und Stand vor der ersten Lesung des Parlaments gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S087, S088. Ergebnis: Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen.
+
+## QxMuH1bjMwo-A0069
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Deutschland habe keine Kompetenz in der Batterieproduktion.
+
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:12:07–02:12:18](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=7927s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Bereits vor dem Aufnahmetermin meldete PowerCo im Dezember 2025 in Salzgitter entwickelte und erstmals produzierte Batteriezellen. Auch bei vorsichtiger Verwendung dieser Herstellerangabe widerlegt dieses konkrete Gegenbeispiel das pauschale Fehlen jeglicher Produktionskompetenz. Es beweist keine Marktführerschaft, hohe Auslastung oder Unabhängigkeit von chinesischen Lieferketten. Die unmittelbar anschließende Softwarebehauptung ist damit noch nicht separat geprüft.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [Volkswagen/PowerCo: Produktionsbeginn der Zellfabrik Salzgitter, 17. Dezember 2025](https://www.volkswagen-group.com/en/press-releases/start-of-european-battery-cell-production-powerco-commissions-salzgitter-gigafactory-20045) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Datierte Herstellerangabe über entwickelte und erstmals produzierte Zellen für weitere Fahrzeugtests gelesen; kein unabhängiger Nachweis von Marktführerschaft oder voller Serienauslastung. Datierte Herstellerangabe über entwickelte und erstmals produzierte Zellen für weitere Fahrzeugtests gelesen; kein unabhängiger Nachweis von Marktführerschaft oder voller Serienauslastung.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S089. Ergebnis: Bereits vor dem Aufnahmetermin meldete PowerCo im Dezember 2025 in Salzgitter entwickelte und erstmals produzierte Batteriezellen. Auch bei vorsichtiger Verwendung dieser Herstellerangabe widerlegt dieses konkrete Gegenbeispiel das pauschale Fehlen jeglicher Produktionskompetenz. Es beweist keine Marktführerschaft, hohe Auslastung oder Unabhängigkeit von chinesischen Lieferketten. Die unmittelbar anschließende Softwarebehauptung ist damit noch nicht separat geprüft.
+
+## QxMuH1bjMwo-A0070
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Das Streben nach Glück gehört zu den ausdrücklich genannten amerikanischen Gründungswerten.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:14:44–02:14:55](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=8084s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Unabhängigkeitserklärung nennt das Streben nach Glück zusammen mit Leben und Freiheit unter den unveräußerlichen Rechten. Damit stimmt der Textbezug des Moderators. Seine Einschätzung, wie weit Deutschland davon entfernt sei, bleibt eine politische Wertung.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [US National Archives: Unabhängigkeitserklärung, Transkription](https://www.archives.gov/founding-docs/declaration-transcript) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Abschnitt zu unveräußerlichen Rechten einschließlich des Strebens nach Glück gelesen. Abschnitt zu unveräußerlichen Rechten einschließlich des Strebens nach Glück gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S090. Ergebnis: Die Unabhängigkeitserklärung nennt das Streben nach Glück zusammen mit Leben und Freiheit unter den unveräußerlichen Rechten. Damit stimmt der Textbezug des Moderators. Seine Einschätzung, wie weit Deutschland davon entfernt sei, bleibt eine politische Wertung.
+
+## QxMuH1bjMwo-A0071
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Im Islam besteht ein Verbot von Riba beziehungsweise Zinsen.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:19:50–02:20:10](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=8390s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Koran 2,275 unterscheidet erlaubten Handel und verbotenes Riba; die gelesene Übersetzung gibt Riba als Zins wieder. Der religiöse Kern ist belegt. Daraus folgt kein pauschales Verbot jeder Banknutzung und keine Feststellung, wie alle heutigen Muslime Finanzgeschäfte beurteilen. Solche Verallgemeinerungen werden von der Textstelle nicht getragen.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [Koran 2,275: Handel und Riba](https://quran.com/2/275) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Versübersetzung und dargestellte Trennung von erlaubtem Handel und verbotenem Riba gelesen. Versübersetzung und dargestellte Trennung von erlaubtem Handel und verbotenem Riba gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S091. Ergebnis: Koran 2,275 unterscheidet erlaubten Handel und verbotenes Riba; die gelesene Übersetzung gibt Riba als Zins wieder. Der religiöse Kern ist belegt. Daraus folgt kein pauschales Verbot jeder Banknutzung und keine Feststellung, wie alle heutigen Muslime Finanzgeschäfte beurteilen. Solche Verallgemeinerungen werden von der Textstelle nicht getragen.
+
+## QxMuH1bjMwo-A0072
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der SPIEGEL bietet eine Suche zur NSDAP-Mitgliedschaft von Vorfahren an.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:31:50–02:32:10](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=9110s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der SPIEGEL verweist auf seine Mitgliederdatenbank. Das Bundesarchiv erläutert unabhängig davon die unvollständige Überlieferung und nötige Ergänzungsquellen. Ein fehlender Treffer entlastet deshalb nicht sicher; ein Treffer beschreibt nicht automatisch Überzeugung oder konkrete Taten. Die unterstellten Motive des Angebots sind eine gesonderte Wertung.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [Bundesarchiv: Hinweise zur NSDAP-Mitgliederkartei](https://www.bundesarchiv.de/nsdap-mitgliederkartei/) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Einführende Hinweise zur unvollständigen Überlieferung und zur Bedeutung ergänzender Unterlagen gelesen. Einführende Hinweise zur unvollständigen Überlieferung und zur Bedeutung ergänzender Unterlagen gelesen.
+
+- [SPIEGEL: NSDAP-Archiv](https://www.spiegel.de/thema/nsdap-archiv/) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Angebot einer Mitgliederdatenbank auf der Herausgeberseite kontrolliert. Angebot einer Mitgliederdatenbank auf der Herausgeberseite kontrolliert.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S096, S097. Ergebnis: Der SPIEGEL verweist auf seine Mitgliederdatenbank. Das Bundesarchiv erläutert unabhängig davon die unvollständige Überlieferung und nötige Ergänzungsquellen. Ein fehlender Treffer entlastet deshalb nicht sicher; ein Treffer beschreibt nicht automatisch Überzeugung oder konkrete Taten. Die unterstellten Motive des Angebots sind eine gesonderte Wertung.
+
+## QxMuH1bjMwo-A0075
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Abdel-Samad hält Migration und Sozialstaat grundsätzlich für unvereinbar und fordert eine andere Ausgestaltung der Unterstützung.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [02:16:14–02:16:35](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=8174s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Passage formuliert eine weitreichende politische Systemthese und leitet daraus Reformforderungen ab, ohne einen messbaren Zeitpunkt oder einen klaren Erfolgsmaßstab für Unvereinbarkeit festzulegen. Sie wird deshalb als politische Einschätzung erfasst. Daraus wird keine Tatsachenfeststellung über Arbeitswillen oder Leistungsbezug einzelner Migranten abgeleitet.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein Wahrheitsbeleg.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: Kein überprüfbarer Tatsachenkern. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: keine geeignete Quelle. Ergebnis: Die Passage formuliert eine weitreichende politische Systemthese und leitet daraus Reformforderungen ab, ohne einen messbaren Zeitpunkt oder einen klaren Erfolgsmaßstab für Unvereinbarkeit festzulegen. Sie wird deshalb als politische Einschätzung erfasst. Daraus wird keine Tatsachenfeststellung über Arbeitswillen oder Leistungsbezug einzelner Migranten abgeleitet.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

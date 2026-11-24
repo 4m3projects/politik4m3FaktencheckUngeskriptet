@@ -1,8 +1,8 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fünf bereits im YouTube-Prüfstart lokalisierte, sachlich nachgeprüfte Aussagen. Fünf Sachurteile; wegen ungeklärter Zurechnung noch nicht im Faktenindex. Keine systematische Erfassung der knapp drei Stunden und keine Gesamtbewertung. Zeitmarken sind ungefähre Suchpositionen aus dem bisherigen YouTube-Prüfstart, keine Zeitwerte aus der Podcast-Fassung. Sprecher und Haltung der Videomoderation sind nicht akustisch bzw. audiovisuell verifiziert; die Bewertung betrifft den Sachkern.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fünf sachlich bereits geprüfte Aussagen, deren Gesprächsrolle jetzt zusätzlich direkt an der deutschen automatischen Originaltextfassung kontrolliert ist. Die Zuordnung zum Gast bleibt plausibel; im gelesenen Umfeld keine ausdrückliche Zurückweisung durch den Host. Keine vollständige Erfassung oder audiovisuelle Prüfung der knapp drei Stunden. Gesamtampel bleibt vorläufig.
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich.
 
 ## Xw2tAp6UouE-A0004
 
@@ -17,7 +17,7 @@ Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 - [00:40:13–00:40:45](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=2413s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
-Grundlage der Sprecherzuordnung: Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle.
+Grundlage der Sprecherzuordnung: Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle. Direkte deutsche YouTube-Textfassung am 24.11.2026 im jeweiligen Gesprächskontext gegengelesen.
 
 Grundlage des Aussagebezugs: Aus dem gelesenen Gesprächsumfeld als Aussage des Gasts, nicht als Frage erkannt.
 
@@ -25,7 +25,9 @@ Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestae
 
 Fundstellenhinweis: Ungefähres Suchfenster, kein wortgetreues Zitat.
 
-Zeitgrundlage: Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze.
+Zeitgrundlage: Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze. Am 24.11.2026 im direkt exportierten YouTube-Originaltext am vorhandenen Suchfenster gegengelesen; Zeiten nicht verschoben.
+
+Frueherer Suchbereich: [00:40:13–00:40:45](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=2413s), Ungefähr. Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
@@ -35,7 +37,7 @@ Grundlage der Bewertung: [Kai] Sachquellen neu gelesen. Der vorhandene, aus YouT
 
 Uebernahme: Eigenständig formuliert; Grundlage ist ein bereits im bisherigen Prüfstart dokumentierter Fundpunkt aus dem Originalvideo. Kein nummerierter Altprüfpunkt.
 
-Bewertungsuebergang: [Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts.
+Bewertungsuebergang: [Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts. [Codex] 24.11.2026: Zurechnung vorher Gast/Ungeklärt, jetzt Gast/Nur wiedergegeben nach Kontrolle der direkten Originaltextfassung samt Anschluss. Frühere Grundlage: Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert. Sachurteil und Gewicht unverändert.
 
 ### Zugeordnete Quellen
 

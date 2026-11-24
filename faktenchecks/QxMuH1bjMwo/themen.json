@@ -26,6 +26,24 @@
       "relevance": "Erwähnt",
       "basis": "7 erfasste Aussagen mit ausdrücklichem Sachbezug.",
       "segments": []
+    },
+    {
+      "topic": "banken",
+      "relevance": "Erwähnt",
+      "basis": "Konkrete Sachbehauptung aus der Nachprüfung vom 24.11.2026, kein Schwerpunkt.",
+      "segments": []
+    },
+    {
+      "topic": "energie",
+      "relevance": "Erwähnt",
+      "basis": "Konkrete Sachbehauptung aus der Nachprüfung vom 24.11.2026, kein Schwerpunkt.",
+      "segments": []
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Erwähnt",
+      "basis": "Konkrete Sachbehauptung aus der Nachprüfung vom 24.11.2026, kein Schwerpunkt.",
+      "segments": []
     }
   ],
   "claims": [
@@ -308,6 +326,155 @@
       "topics": [
         "religion"
       ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0052",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0053",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0054",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0055",
+      "topics": [
+        "religion",
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0056",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0057",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0058",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0059",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0060",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0061",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0062",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0063",
+      "topics": [
+        "religion",
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0064",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0065",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0066",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0067",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0068",
+      "topics": [
+        "energie",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0069",
+      "topics": [
+        "energie",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0070",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0071",
+      "topics": [
+        "religion",
+        "banken"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0072",
+      "topics": [
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0073",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0074",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0075",
+      "topics": [
+        "migration"
+      ]
     }
   ],
   "history": [
@@ -335,6 +502,11 @@
       "date": "2026-11-19",
       "agent": "Codex",
       "change": "Ergänzende Prüfungen zu religiöser Neutralität, einer Demonstration und Erbregeln zugeordnet."
+    },
+    {
+      "date": "2026-11-24",
+      "agent": "Codex",
+      "change": "24 zusätzliche Prüfgegenstände der Originaltext-Nachprüfung thematisch zugeordnet."
     }
   ]
 }

@@ -2,46 +2,46 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst.
+**Abdeckung: Teilbestand.** Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-Stand: 2026-11-19 · Video: QxMuH1bjMwo
+Stand: 2026-11-24 · Video: QxMuH1bjMwo
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 51
-- Abgeschlossen: 51
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 74
+- Abgeschlossen: 74
 - Offen (noch nicht geprueft): 0
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
-- Erfasste Behauptungsvorkommen: 51
+- Erfasste Behauptungsvorkommen: 74
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0
-- Rueckfragen/Fremdbezuege/Zurueckweisungen: 0
+- Rueckfragen/Fremdbezuege/Zurueckweisungen: 1
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
-- Nur referenzierte Aussagen ohne eigene Behauptung: 0
-- Meinungen: 1; Prognosen: 1
+- Nur referenzierte Aussagen ohne eigene Behauptung: 1
+- Meinungen: 2; Prognosen: 1
 
 Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen. Nur erneut derselben Person mit bestaetigter Zuordnung und bestaetigtem eigenem Bezug zugerechnete Vorkommen zaehlen als bestaetigte Personenwiederholung. Null bedeutet nur: im dokumentierten Datenbestand keine solchen Faelle erfasst.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 49 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 71 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 21 | 42.9 % |
-| Teilweise belegt | 17 | 34.7 % |
-| Irreführend / Kontext fehlt | 3 | 6.1 % |
-| Widerlegt | 5 | 10.2 % |
-| Nicht ausreichend belegbar | 3 | 6.1 % |
-| Meinung / Prognose | 2 | nicht anwendbar |
+| Belegt | 32 | 45.1 % |
+| Teilweise belegt | 26 | 36.6 % |
+| Irreführend / Kontext fehlt | 4 | 5.6 % |
+| Widerlegt | 6 | 8.5 % |
+| Nicht ausreichend belegbar | 3 | 4.2 % |
+| Meinung / Prognose | 3 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
 
@@ -52,12 +52,12 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 49. Ohne verlaessliche Personenzuordnung: 49.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 71. Ohne verlaessliche Personenzuordnung: 71.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 49; mit unsicherem eigenem Aussagebezug: 49. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 71; mit unsicherem eigenem Aussagebezug: 71. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 50, Aussagebezug 51 Vorkommen.
+- Plausibel: Sprecherzuordnung 74, Aussagebezug 75 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 1, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
