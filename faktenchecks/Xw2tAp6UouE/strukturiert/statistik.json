@@ -1,0 +1,128 @@
+{
+  "schemaVersion": 2,
+  "scope": "Teilbestand",
+  "coverageNote": "Fünf bereits im YouTube-Prüfstart lokalisierte, sachlich nachgeprüfte Aussagen. Fünf Sachurteile; wegen ungeklärter Zurechnung noch nicht im Faktenindex. Keine systematische Erfassung der knapp drei Stunden und keine Gesamtbewertung. Zeitmarken sind ungefähre Suchpositionen aus dem bisherigen YouTube-Prüfstart, keine Zeitwerte aus der Podcast-Fassung. Sprecher und Haltung der Videomoderation sind nicht akustisch bzw. audiovisuell verifiziert; die Bewertung betrifft den Sachkern.",
+  "videoId": "Xw2tAp6UouE",
+  "selectedLegacyPoints": 0,
+  "totalLegacyPoints": 0,
+  "statementRecords": 5,
+  "uniqueStatements": 5,
+  "referenceOnlyStatements": 0,
+  "unresolvedRoleOnlyStatements": 0,
+  "assertionOccurrences": 5,
+  "additionalAssertionOccurrences": 0,
+  "sameSpeakerRepeatedAssertionOccurrences": 0,
+  "referenceOccurrences": 0,
+  "unresolvedRoleOccurrences": 0,
+  "statusCounts": {
+    "Offen": 0,
+    "In Bearbeitung": 0,
+    "Nicht überprüfbar": 0,
+    "Abgeschlossen": 5
+  },
+  "kindCounts": {
+    "Tatsachenbehauptung": 5,
+    "Meinung": 0,
+    "Prognose": 0
+  },
+  "completedFacts": 5,
+  "openFacts": 0,
+  "inProgressFacts": 0,
+  "unverifiableFacts": 0,
+  "percentageDenominator": 5,
+  "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
+  "categories": [
+    {
+      "category": "Belegt",
+      "completedCount": 4,
+      "completedFactPercent": 80.0
+    },
+    {
+      "category": "Teilweise belegt",
+      "completedCount": 1,
+      "completedFactPercent": 20.0
+    },
+    {
+      "category": "Irreführend / Kontext fehlt",
+      "completedCount": 0,
+      "completedFactPercent": 0.0
+    },
+    {
+      "category": "Widerlegt",
+      "completedCount": 0,
+      "completedFactPercent": 0.0
+    },
+    {
+      "category": "Nicht ausreichend belegbar",
+      "completedCount": 0,
+      "completedFactPercent": 0.0
+    },
+    {
+      "category": "Meinung / Prognose",
+      "completedCount": 0,
+      "completedFactPercent": null
+    }
+  ],
+  "speakerStatistics": {
+    "definition": "Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.",
+    "persons": [
+      {
+        "speakerId": "SP02",
+        "name": "Michael Schmidt-Salomon",
+        "uniqueFacts": 0,
+        "completedFacts": 0,
+        "openFacts": 0,
+        "inProgressFacts": 0,
+        "unverifiableFacts": 0,
+        "percentageDenominator": 0,
+        "categories": [
+          {
+            "category": "Belegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Teilweise belegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Irreführend / Kontext fehlt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Widerlegt",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Nicht ausreichend belegbar",
+            "completedCount": 0,
+            "completedFactPercent": null
+          },
+          {
+            "category": "Meinung / Prognose",
+            "completedCount": 0,
+            "completedFactPercent": null
+          }
+        ]
+      }
+    ],
+    "eligibleFacts": 5,
+    "reliablyAssignedFacts": 0,
+    "factsWithoutReliablePerson": 5,
+    "factsWithUncertainAttribution": 5,
+    "factsWithUncertainOwnRole": 5,
+    "occurrenceAttributionCounts": {
+      "Bestätigt": 0,
+      "Plausibel": 5,
+      "Ungeklärt": 0
+    },
+    "occurrenceRoleStatusCounts": {
+      "Bestätigt": 0,
+      "Plausibel": 5,
+      "Ungeklärt": 0
+    }
+  }
+}
