@@ -209,30 +209,64 @@ function resolvePath(baseDir, href) {
   return parts.join('/');
 }
 
+function decodeLinkPart(part) {
+  try { return decodeURIComponent(part); } catch (_) { return part; }
+}
+
+function splitFragment(value) {
+  const hash = value.indexOf('#');
+  return hash === -1 ? [value, ''] : [value.slice(0, hash), value.slice(hash + 1)];
+}
+
+function reportHref(id, file, anchor = '') {
+  return '#/video/' + encodeURIComponent(id) + '/bericht/' +
+    file.split('/').map(encodeURIComponent).join('/') + (anchor ? '#' + encodeURIComponent(anchor) : '');
+}
+
+function reportRoute(hash) {
+  const [path, frag] = splitFragment(hash.replace(/^#\/?/, ''));
+  const m = /^video\/([^/]+)\/bericht\/(.*)$/.exec(path);
+  return m && { id: decodeLinkPart(m[1]), file: decodeLinkPart(m[2]), anchor: decodeLinkPart(frag) };
+}
+
+function unescapeMdText(s) {
+  const entities = { amp: '&', lt: '<', gt: '>', quot: '"', '#39': "'" };
+  return s.replace(/&(amp|lt|gt|quot|#39);/g, (_, name) => entities[name]);
+}
+
 function mdLink(text, href, ctx) {
-  const route = /^#\/video\/([A-Za-z0-9_-]{11})(?:\/(?:aussage\/[A-Za-z0-9_-]+|bericht\/[A-Za-z0-9_./-]+\.md))?$/.exec(href);
-  if (route && entryOf(route[1])) return `<a href="${esc(href)}">${text}</a>`;
-  const [path, frag] = href.split('#');
+  // Vergleichsberichte nutzen auch bereits ausgeformte portalinterne Routen.
+  if (href.startsWith('#/')) {
+    const report = reportRoute(href);
+    if (report && /^[A-Za-z0-9_-]{11}$/.test(report.id) && /^[A-Za-z0-9_./-]+\.md$/.test(report.file) && entryOf(report.id)) {
+      return `<a href="${esc(reportHref(report.id, report.file, report.anchor))}">${text}</a>`;
+    }
+    const route = /^#\/video\/([A-Za-z0-9_-]{11})(?:\/aussage\/[A-Za-z0-9_-]+)?$/.exec(href);
+    if (route && entryOf(route[1])) return `<a href="${esc(href)}">${text}</a>`;
+  }
   if (/^https:\/\//i.test(href)) return `<a href="${esc(href)}" rel="noopener noreferrer" target="_blank">${text}</a>`;
   if (/^[a-z]+:/i.test(href)) return text; // andere Schemata werden nicht verlinkt
-  if (!path && frag) return `<a href="#/video/${esc(ctx.videoId)}/bericht/${esc(ctx.file)}">${text}</a>`;
+  const [path, frag] = splitFragment(href);
+  const anchor = decodeLinkPart(frag);
+  if (!path && anchor) return `<a href="${esc(reportHref(ctx.videoId, ctx.file, anchor))}">${text}</a>`;
   // Repositorypfad relativ zur aktuellen Datei auflösen.
   const fileDir = ctx.file.includes('/') ? ctx.file.slice(0, ctx.file.lastIndexOf('/')) : '';
-  const repoPath = resolvePath('faktenchecks/' + ctx.videoId + (fileDir ? '/' + fileDir : ''), decodeURIComponent(path));
+  const repoPath = resolvePath('faktenchecks/' + ctx.videoId + (fileDir ? '/' + fileDir : ''), decodeLinkPart(path));
   const prefix = 'faktenchecks/' + ctx.videoId + '/';
   if (repoPath.startsWith(prefix) && repoPath.endsWith('.md') && ctx.files.includes(repoPath.slice(prefix.length))) {
-    return `<a href="#/video/${esc(ctx.videoId)}/bericht/${esc(repoPath.slice(prefix.length))}">${text}</a>`;
+    return `<a href="${esc(reportHref(ctx.videoId, repoPath.slice(prefix.length), anchor))}">${text}</a>`;
   }
   if (repoPath.startsWith(prefix) && /strukturiert\/aussagen\.json$/.test(repoPath)) {
     return `<a href="#/video/${esc(ctx.videoId)}">${text}</a>`;
   }
-  return `<a href="${esc(blobUrl(repoPath))}" rel="noopener noreferrer" target="_blank">${text}</a>`;
+  const url = blobUrl(repoPath) + (anchor ? '#' + encodeURIComponent(anchor) : '');
+  return `<a href="${esc(url)}" rel="noopener noreferrer" target="_blank">${text}</a>`;
 }
 
 function mdInline(src, ctx) {
   const codes = [];
   let s = esc(src).replace(/`([^`]+)`/g, (_, c) => { codes.push(c); return '\u0000' + (codes.length - 1) + '\u0000'; });
-  s = s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_, text, href) => mdLink(text, href.replace(/&amp;/g, '&'), ctx));
+  s = s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, (_, text, href) => mdLink(text, unescapeMdText(href), ctx));
   s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
   s = s.replace(/(^|[\s(])_([^_]+)_(?=[\s).,;:]|$)/g, '$1<em>$2</em>');
   s = s.replace(/\u0000(\d+)\u0000/g, (_, i) => `<code>${codes[i]}</code>`);
@@ -243,9 +277,25 @@ function slug(text) {
   return 'h-' + text.toLowerCase().replace(/<[^>]+>/g, '').replace(/[^a-z0-9äöüß]+/g, '-').replace(/^-|-$/g, '').slice(0, 60);
 }
 
+/* GitHub-Sprungmarken verwenden den sichtbaren Überschriftentext, nicht die h-IDs.
+   Satzzeichen entfallen, Leerzeichen werden zu Bindestrichen, und gleiche Namen
+   werden in Dokumentreihenfolge mit -1, -2 usw. unterschieden. */
+function reportHeadingAnchor(html) {
+  return unescapeMdText(html.replace(/<[^>]+>/g, '')).trim().toLowerCase()
+    .replace(/[^\p{L}\p{M}\p{N}\p{Pc}\- ]/gu, '').replace(/ /g, '-');
+}
+
+function uniqueHeadingName(name, used) {
+  let value = name;
+  for (let n = 1; used.has(value); n++) value = name + '-' + n;
+  used.add(value);
+  return value;
+}
+
 function renderMarkdown(src, ctx) {
   const lines = src.replace(/\r\n?/g, '\n').split('\n');
   const out = [];
+  const anchors = new Set(), ids = new Set();
   let i = 0;
   const isBlockStart = l => /^(#{1,6}\s|\s*[-*]\s|\s*\d+\.\s|\||```)/.test(l);
   while (i < lines.length) {
@@ -261,8 +311,11 @@ function renderMarkdown(src, ctx) {
     }
     if ((m = /^(#{1,6})\s+(.*)$/.exec(line))) {
       const lvl = Math.min(m[1].length, 4);
-      const html = mdInline(m[2], ctx);
-      out.push(`<h${lvl} id="${esc(slug(m[2]))}">${html}</h${lvl}>`);
+      const heading = m[2].replace(/[ \t]+#+[ \t]*$/, '').trim();
+      const html = mdInline(heading, ctx);
+      const anchor = uniqueHeadingName(reportHeadingAnchor(html), anchors);
+      const id = uniqueHeadingName(slug(heading), ids);
+      out.push(`<h${lvl} id="${esc(id)}" data-report-anchor="${esc(anchor)}">${html}</h${lvl}>`);
       i++; continue;
     }
     if (/^\|/.test(line)) {
@@ -1210,7 +1263,7 @@ function reportGroups(v) {
   ].filter(g => g[1].length);
 }
 
-async function pageReport(id, file) {
+async function pageReport(id, file, anchor = '', hash = location.hash, rjump = null) {
   const v = await loadVideo(id);
   if (!v.files.includes(file)) throw new Error('Bericht nicht gefunden: ' + file);
   const groups = reportGroups(v);
@@ -1222,12 +1275,13 @@ async function pageReport(id, file) {
   const navHtml = (await Promise.all(groups.map(async ([title, files, name]) => {
     const items = await Promise.all(files.map(async f => {
       const label = /^kapitel\//.test(f) ? (await kapTitle(f)) || name(f) : name(f);
-      return `<li><a href="#/video/${esc(v.id)}/bericht/${esc(f)}"${f === file ? ' aria-current="page"' : ''}>${esc(label)}</a></li>`;
+      return `<li><a href="${esc(reportHref(v.id, f))}"${f === file ? ' aria-current="page"' : ''}>${esc(label)}</a></li>`;
     }));
     return `<h3>${esc(title)}</h3><ul>${items.join('')}</ul>`;
   }))).join('');
 
   const src = await getText(v.id + '/' + file);
+  if (hash !== location.hash) return false;
   const html = renderMarkdown(src, { videoId: v.id, file, files: v.files });
   setPage(`<div class="wrap">
     ${videoHeader(v, 'berichte')}
@@ -1242,7 +1296,9 @@ async function pageReport(id, file) {
   decorateVerdicts(main());
   const h1 = /^#\s+(.+)$/m.exec(src);
   document.title = (h1 ? stripMd(h1[1]) + ' – ' : '') + 'Politik4M3 Faktencheck Ungeskriptet';
+  if (anchor && showReportAnchor(anchor, rjump)) return true;
   window.scrollTo(0, 0);
+  return false;
 }
 
 /* Reiter „Reaktionen“ (Original) bzw. „Bezug zum Original“ (Reaktion). */
@@ -1449,33 +1505,57 @@ function keepTabsInView(jump) {
 
 /* Berichtswechsel: direkt zum Anfang des gewählten Berichts scrollen statt an den Seitenanfang. */
 document.addEventListener('click', e => {
-  const a = e.target.closest('a[href*="/bericht/"]');
-  if (!a || !main().contains(a) || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
-  if (a.getAttribute('href') === location.hash) return;
+  const a = e.target.closest('a[href^="#"][href*="/bericht/"]');
+  if (!a || e.defaultPrevented || !main().contains(a) || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+  const href = a.getAttribute('href');
+  const report = reportRoute(href);
+  if (!report) return;
+  if (href === location.hash) {
+    if (report.anchor && showReportAnchor(report.anchor)) e.preventDefault();
+    return;
+  }
   const nav = main().querySelector('.report-nav');
   state.reportJump = { at: Date.now(), navScroll: nav ? nav.scrollTop : 0 };
 });
-function showReportStart(jump) {
-  const art = main().querySelector('.report-layout .prose');
-  if (!art) return;
+function scrollToReportTarget(target, jump) {
   const nav = main().querySelector('.report-nav');
-  if (nav) nav.scrollTop = jump.navScroll;
+  if (nav && jump) nav.scrollTop = jump.navScroll;
   const bar = document.querySelector('.topbar');
   const offset = (bar ? bar.getBoundingClientRect().height : 0) + 16;
-  window.scrollTo(0, Math.max(0, window.scrollY + art.getBoundingClientRect().top - offset));
+  window.scrollTo(0, Math.max(0, window.scrollY + target.getBoundingClientRect().top - offset));
+}
+
+function showReportStart(jump) {
+  const art = main().querySelector('.report-layout .prose');
+  if (art) scrollToReportTarget(art, jump);
+}
+
+function showReportAnchor(anchor, jump) {
+  const art = main().querySelector('.report-layout .prose');
+  if (!art) return false;
+  const headings = Array.from(art.querySelectorAll('[data-report-anchor]'));
+  const target = headings.find(h => h.dataset.reportAnchor === anchor) || headings.find(h => h.id === anchor);
+  if (!target) return false;
+  target.setAttribute('tabindex', '-1');
+  target.focus({ preventScroll: true });
+  scrollToReportTarget(target, jump);
+  return true;
 }
 
 async function route() {
+  const hash = location.hash;
   const fresh = j => (j && Date.now() - j.at < 2000 ? j : null);
   const jump = fresh(state.tabJump), rjump = fresh(state.reportJump);
   state.tabJump = null; state.reportJump = null;
-  await routePage();
+  const anchored = await routePage(hash, rjump);
+  if (hash !== location.hash || anchored) return;
   if (jump) keepTabsInView(jump);
   else if (rjump) showReportStart(rjump);
 }
 
-async function routePage() {
-  const h = decodeURIComponent(location.hash.replace(/^#\/?/, ''));
+async function routePage(hash = location.hash, rjump = null) {
+  const report = reportRoute(hash);
+  const h = decodeLinkPart(hash.replace(/^#\/?/, ''));
   const parts = h.split('/');
   if (state.cleanup) { try { state.cleanup(); } catch (e) { console.error(e); } state.cleanup = null; }
   try {
@@ -1497,9 +1577,10 @@ async function routePage() {
       if (typeof FactCounter !== 'undefined') state.counter = FactCounter.buildIndex(state.relations, state.wissen?.raw?.entries || []);
       updateThumbSetting();
     }
+    if (hash !== location.hash) return;
+    if (report) return await pageReport(report.id, report.file, report.anchor, hash, rjump);
     if (parts[0] === 'video' && parts[1]) {
       if (parts[2] === 'video') return await pageVideoSync(parts[1], { autostart: parts[3] === 'start' });
-      if (parts[2] === 'bericht') return await pageReport(parts[1], parts.slice(3).join('/'));
       if (parts[2] === 'reaktionen') return await pageRelations(parts[1]);
       if (parts[2] === 'aussage') return await pageVideo(parts[1], parts[3]);
       if (parts[2] === 'pruefaufgaben') {
@@ -1526,6 +1607,7 @@ async function routePage() {
     if (parts[0] === 'thema' && parts[1]) return await pageTopic(parts.slice(1).join('/'));
     return await pageHome();
   } catch (e) {
+    if (hash !== location.hash) return;
     console.error(e);
     pageError(e);
   }
