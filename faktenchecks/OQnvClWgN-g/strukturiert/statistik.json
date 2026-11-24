@@ -1,16 +1,16 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Gezielte atomare Auswahl als Referenz für zwei Reaktionsvideos. Nicht das gesamte 3:21-Stunden-Interview geprüft. 178 frühere Gruppenpositionen separat als historischer Arbeitsstand erhalten; keine Hochrechnung und keine Video-Fehlerquote.",
+  "coverageNote": "Erweiterter Teilbestand mit 40 Prüfgegenständen; zehn neue Original-Sachprüfungen vom 24.11.2026. Keine vollständige Erfassung des 3:21-Stunden-Interviews. Weitere unabhängige Sachkerne aus den noch dünn erfassten Abschnitten sowie Hör-/Sichtabgleich stehen aus. Historische Gruppenpositionen bleiben Suchhilfen, keine übernommenen Urteile. Keine Hochrechnung und keine Gesamtfehlerquote des Videos.",
   "videoId": "OQnvClWgN-g",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 30,
-  "uniqueStatements": 29,
+  "statementRecords": 40,
+  "uniqueStatements": 39,
   "referenceOnlyStatements": 1,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 29,
-  "additionalAssertionOccurrences": 0,
+  "assertionOccurrences": 40,
+  "additionalAssertionOccurrences": 1,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 1,
   "unresolvedRoleOccurrences": 0,
@@ -18,44 +18,44 @@
     "Offen": 0,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 1,
-    "Abgeschlossen": 28
+    "Abgeschlossen": 38
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 24,
+    "Tatsachenbehauptung": 34,
     "Meinung": 3,
     "Prognose": 2
   },
-  "completedFacts": 23,
+  "completedFacts": 33,
   "openFacts": 0,
   "inProgressFacts": 0,
   "unverifiableFacts": 1,
-  "percentageDenominator": 23,
+  "percentageDenominator": 33,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 1,
-      "completedFactPercent": 4.3
+      "completedCount": 5,
+      "completedFactPercent": 15.2
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 2,
-      "completedFactPercent": 8.7
+      "completedCount": 6,
+      "completedFactPercent": 18.2
     },
     {
       "category": "Irreführend / Kontext fehlt",
       "completedCount": 9,
-      "completedFactPercent": 39.1
+      "completedFactPercent": 27.3
     },
     {
       "category": "Widerlegt",
-      "completedCount": 9,
-      "completedFactPercent": 39.1
+      "completedCount": 11,
+      "completedFactPercent": 33.3
     },
     {
       "category": "Nicht ausreichend belegbar",
       "completedCount": 2,
-      "completedFactPercent": 8.7
+      "completedFactPercent": 6.1
     },
     {
       "category": "Meinung / Prognose",
@@ -151,19 +151,19 @@
         ]
       }
     ],
-    "eligibleFacts": 24,
+    "eligibleFacts": 34,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 24,
-    "factsWithUncertainAttribution": 24,
-    "factsWithUncertainOwnRole": 24,
+    "factsWithoutReliablePerson": 34,
+    "factsWithUncertainAttribution": 34,
+    "factsWithUncertainOwnRole": 34,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 30,
+      "Plausibel": 41,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 30,
+      "Plausibel": 41,
       "Ungeklärt": 0
     }
   }

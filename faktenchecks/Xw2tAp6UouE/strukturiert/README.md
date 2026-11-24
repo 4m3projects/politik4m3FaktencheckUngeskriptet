@@ -2,11 +2,11 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Fünf bereits im YouTube-Prüfstart lokalisierte, sachlich nachgeprüfte Aussagen. Fünf Sachurteile; wegen ungeklärter Zurechnung noch nicht im Faktenindex. Keine systematische Erfassung der knapp drei Stunden und keine Gesamtbewertung. Zeitmarken sind ungefähre Suchpositionen aus dem bisherigen YouTube-Prüfstart, keine Zeitwerte aus der Podcast-Fassung. Sprecher und Haltung der Videomoderation sind nicht akustisch bzw. audiovisuell verifiziert; die Bewertung betrifft den Sachkern.
+**Abdeckung: Teilbestand.** Fünf sachlich bereits geprüfte Aussagen, deren Gesprächsrolle jetzt zusätzlich direkt an der deutschen automatischen Originaltextfassung kontrolliert ist. Die Zuordnung zum Gast bleibt plausibel; im gelesenen Umfeld keine ausdrückliche Zurückweisung durch den Host. Keine vollständige Erfassung oder audiovisuelle Prüfung der knapp drei Stunden. Gesamtampel bleibt vorläufig.
 
 Stand: 2026-11-24 · Video: Xw2tAp6UouE
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich.
 
 ## Umfang und Bearbeitungsstand
 

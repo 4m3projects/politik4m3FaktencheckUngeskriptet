@@ -5,13 +5,13 @@
     "videoId": "OQnvClWgN-g",
     "videoUrl": "https://www.youtube.com/watch?v=OQnvClWgN-g",
     "durationSeconds": 12061,
-    "asOf": "2026-11-19",
+    "asOf": "2026-11-24",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert.",
-    "coverageNote": "Gezielte atomare Auswahl als Referenz für zwei Reaktionsvideos. Nicht das gesamte 3:21-Stunden-Interview geprüft. 178 frühere Gruppenpositionen separat als historischer Arbeitsstand erhalten; keine Hochrechnung und keine Video-Fehlerquote."
+    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert. [Codex] 24.11.2026: Originaltext direkt im YouTube-Player erschlossen und zehn weitere Sachbehauptungen gegen neu gelesene amtliche und wissenschaftliche Quellen geprüft. Das Schreiben des Draghi-Crash 2015/16 wird nicht als Veröffentlichung in diesen Jahren fehlgedeutet. Keine früheren Urteile geändert; neue Aussagen ohne direkte Reaktionsverknüpfung.",
+    "coverageNote": "Erweiterter Teilbestand mit 40 Prüfgegenständen; zehn neue Original-Sachprüfungen vom 24.11.2026. Keine vollständige Erfassung des 3:21-Stunden-Interviews. Weitere unabhängige Sachkerne aus den noch dünn erfassten Abschnitten sowie Hör-/Sichtabgleich stehen aus. Historische Gruppenpositionen bleiben Suchhilfen, keine übernommenen Urteile. Keine Hochrechnung und keine Gesamtfehlerquote des Videos."
   },
   "legacyPoints": [],
   "sources": [
@@ -334,6 +334,118 @@
       "details": "07.06.2016; Befragung zur zugeschriebenen Intelligenz einzelner Politiker.",
       "accessedOn": "2026-11-19",
       "accessBasis": "Beschreibung der Frage und Stichprobe selbst gelesen. Imagebefragung, kein Intelligenztest und kein Mittelwert aller deutschen Politiker."
+    },
+    {
+      "id": "S049",
+      "title": "Destatis: Insolvenzen in Deutschland 2003",
+      "url": "https://www.statistischebibliothek.de/mir/servlets/MCRFileNodeServlet/DEMonografie_derivate_00002300/Insolvenzen_in_Deutschland_2003.pdf",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Originalpublikation des Statistischen Bundesamts, März 2004, in der gemeinsamen Statistischen Bibliothek; Kurzfassung und Abschnitte 3.1 und 7 zum Anstieg der Insolvenzen gelesen. Der frühere Destatis-Download war nicht zugänglich."
+    },
+    {
+      "id": "S050",
+      "title": "IfM Bonn: Unternehmensinsolvenzen 1991 bis 2025",
+      "url": "https://www.ifm-bonn.org/fileadmin/data/redaktion/statistik/gruendungen-und-unternehmensschliessungen/dokumente/UntIns_D_1991-2025.pdf",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Einseitige Reihe mit Quellenhinweis Destatis/GENESIS, Definition und Vergleichbarkeitsgrenzen gelesen. Werte 2000–2003, 2008/09 und 2021 kontrolliert."
+    },
+    {
+      "id": "S051",
+      "title": "Deutsche Bundesbank: Währungsreform 1948",
+      "url": "https://www.bundesbank.de/de/aufgaben/themen/waehrungsreform-1948-614040",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Abschnitte zur Vorbereitung und Entscheidung der Westalliierten sowie zur begleitenden Wirtschaftsreform Erhards gelesen."
+    },
+    {
+      "id": "S052",
+      "title": "EZB: Aktualisierte geldpolitische Strategie, 30. Juni 2025",
+      "url": "https://www.ecb.europa.eu/press/pr/date/2025/html/ecb.pr250630~aabf988af8.en.html",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Bestätigung des symmetrischen mittelfristigen Zwei-Prozent-Ziels und Umgang mit Abweichungen gelesen."
+    },
+    {
+      "id": "S053",
+      "title": "Deutsche Bundesbank: Entwicklung der Goldbestände",
+      "url": "https://www.bundesbank.de/de/aufgaben/themen/entwicklung-der-goldbestaende-645380",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Abschnitte zu 1945–1950, Europäischer Zahlungsunion, Goldpool und Bretton Woods gelesen."
+    },
+    {
+      "id": "S054",
+      "title": "Federal Reserve History: Nixon Ends Convertibility of U.S. Dollars to Gold",
+      "url": "https://www.federalreservehistory.org/essays/gold-convertibility-ends",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Geschichte der Konvertibilität und datierte Ankündigung vom 15. August 1971 gelesen; keine Gleichsetzung mit einem allgemeinen Ausfall von Staatsanleihen."
+    },
+    {
+      "id": "S055",
+      "title": "OMB/FRED: Federal Surplus or Deficit, FYFSD",
+      "url": "https://fred.stlouisfed.org/data/FYFSD",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Quellenangabe OMB, Fiskaljahre und Einheit Millionen Dollar sowie positive Salden 1998–2001 gelesen. 236241 Millionen entsprechen 236,241 Milliarden US-Dollar."
+    },
+    {
+      "id": "S056",
+      "title": "Deutscher Bundestag: Plenarprotokoll 20/214, 18. März 2025",
+      "url": "https://dserver.bundestag.de/btp/20/20214.pdf",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Datum sowie Schlussabstimmung zur Änderung der Artikel 109, 115 und 143h, gedruckte S. 27791, mit 513 Ja- und 207 Nein-Stimmen gelesen."
+    },
+    {
+      "id": "S057",
+      "title": "Grundgesetz Artikel 39",
+      "url": "https://www.gesetze-im-internet.de/gg/art_39.html",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Absatz 1 zur Beendigung der Wahlperiode erst mit dem Zusammentritt des neuen Bundestages gelesen."
+    },
+    {
+      "id": "S058",
+      "title": "Deutscher Bundestag: Konstituierung und geschäftsführende Bundesregierung 2025",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2025/kw13-geschaeftsfuehrende-bundesregierung-1056536",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Wahldatum 23. Februar, Konstituierung 25. März und Ende der alten Wahlperiode kontrolliert."
+    },
+    {
+      "id": "S059",
+      "title": "Schweizer Bundeskanzlei, CH Info: Besonderheiten des Parlaments",
+      "url": "https://www.ch-info.swiss/de/das-parlament/besonderheiten-des-parlaments",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Abschnitt Milizparlament mit Hinweis auf eine Mischung aus Teilzeit- und Berufsparlament gelesen. Das zuerst angesteuerte Parlamentswörterbuch ließ sich wegen seiner Dateigröße nicht auslesen."
+    },
+    {
+      "id": "S060",
+      "title": "Bundesamt für Statistik: Korrektur der Parteistärken 2023",
+      "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/29025149/master",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Amtliche Mitteilung vom 25. Oktober 2023, korrigierte Tabelle mit 27,9 Prozent für die SVP gelesen."
+    },
+    {
+      "id": "S061",
+      "title": "Eidgenössisches Finanzdepartement: Besteuerung nach dem Aufwand",
+      "url": "https://www.efd.admin.ch/de/besteuerung-aufwand",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Dossier vom 14. Februar 2024: Voraussetzungen, ordentliche Tarife, Kontrollrechnung und kantonale Abschaffungen gelesen. Keine Recherche zu privaten Steuerverhältnissen Kralls."
+    },
+    {
+      "id": "S062",
+      "title": "YouTube: deutsches automatisches Originaltranskript",
+      "url": "https://www.youtube.com/watch?v=OQnvClWgN-g",
+      "details": "Gezielte Original-Nachprüfung durch Codex am 24. November 2026.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Am 24.11.2026 direkt im Originalplayer nach der Werbung privat exportierte deutsche automatische Textfassung. Neue Fundstellen mit Anschlusskontext gelesen; keine fremden Untertitel im Repository und kein Hör-/Bildabgleich."
     }
   ],
   "speakers": [
@@ -2195,6 +2307,835 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "OQnvClWgN-g-A0031",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Seit dem Jahr 2000 seien die Unternehmensinsolvenzen bis 2021 ununterbrochen gesunken.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die Reihe für Deutschland zeigt mehrere Anstiege: von 28.235 Fällen 2000 auf 39.320 im Jahr 2003 sowie von 29.291 im Jahr 2008 auf 32.687 im Jahr 2009. Für 2007/08 weist die Reihe auf Meldeprobleme in NRW hin; schon der Anstieg 2000–2003 widerlegt den ausnahmslosen Verlauf. Ein längerfristiger Rückgang nach dem Hochpunkt 2003 ist damit vereinbar. Die Entwicklung anderer Länder wird hier nicht pauschal mitbewertet.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung an den genannten Stellen samt Anschlusskontext und angegebene Sachquellen selbst gelesen. Sprecher nur aus dem Text plausibel; keine akustische oder bildliche Kontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neue atomare Originalprüfung; historische V14-Suchmarken waren nur Suchhilfe, ihre Bewertungen wurden nicht importiert.",
+        "assessmentChange": "[Codex] 24.11.2026: Zusätzliche Originalaussage nach eigener Quellenprüfung aufgenommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S049",
+          "note": "Originalpublikation des Statistischen Bundesamts, März 2004, in der gemeinsamen Statistischen Bibliothek; Kurzfassung und Abschnitte 3.1 und 7 zum Anstieg der Insolvenzen gelesen. Der frühere Destatis-Download war nicht zugänglich."
+        },
+        {
+          "sourceId": "S050",
+          "note": "Einseitige Reihe mit Quellenhinweis Destatis/GENESIS, Definition und Vergleichbarkeitsgrenzen gelesen. Werte 2000–2003, 2008/09 und 2021 kontrolliert."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0031",
+          "startSeconds": 368,
+          "endSeconds": 402,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Sachbehauptung des Gasts im gelesenen Kontext.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1.5,
+        "weightReason": "Tragende empirische Prämisse der Zombie-Unternehmensargumentation, getrennt von der bereits erfassten Bestandsrechnung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP nach Insolvenzen, Goldreserven, Nixon, Inflationsziel, US-Defizit und Schweizer Milizparlament; keine deckungsgleiche abgeschlossene Prüfung übernommen. Historische Suchfenster am direkt erschlossenen Originaltext kontrolliert, anschließend bezeichnete amtliche Quellen selbst gelesen.",
+            "sourceIds": [
+              "S049",
+              "S050"
+            ],
+            "result": "Die Reihe für Deutschland zeigt mehrere Anstiege: von 28.235 Fällen 2000 auf 39.320 im Jahr 2003 sowie von 29.291 im Jahr 2008 auf 32.687 im Jahr 2009. Für 2007/08 weist die Reihe auf Meldeprobleme in NRW hin; schon der Anstieg 2000–2003 widerlegt den ausnahmslosen Verlauf. Ein längerfristiger Rückgang nach dem Hochpunkt 2003 ist damit vereinbar. Die Entwicklung anderer Länder wird hier nicht pauschal mitbewertet."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "In Deutschland stiegen die Unternehmensinsolvenzen 2000–2003 und erneut 2008/09; sie sanken nicht durchgehend.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Markus Krall",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage, kein eingespieltes Zitat; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Hosts zu diesem abgegrenzten Sachkern. Keine bestätigte Zustimmung des Hosts behauptet.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "OQnvClWgN-g-A0032",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ludwig Erhard habe 1948 die D-Mark eingeführt und die Währungsreform gemacht.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die D-Mark wurde am 20. Juni 1948 eingeführt. Vorbereitung und Beschluss lagen wesentlich bei den Westalliierten und beteiligten Fachleuten. Erhards entscheidender Beitrag war die begleitende Lockerung von Bewirtschaftung und Preiskontrollen. Seine Rolle ist daher wichtig, die knappe Zuschreibung der Währungsreform allein an ihn aber unvollständig.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung an den genannten Stellen samt Anschlusskontext und angegebene Sachquellen selbst gelesen. Sprecher nur aus dem Text plausibel; keine akustische oder bildliche Kontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neue atomare Originalprüfung; historische V14-Suchmarken waren nur Suchhilfe, ihre Bewertungen wurden nicht importiert.",
+        "assessmentChange": "[Codex] 24.11.2026: Zusätzliche Originalaussage nach eigener Quellenprüfung aufgenommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S051",
+          "note": "Abschnitte zur Vorbereitung und Entscheidung der Westalliierten sowie zur begleitenden Wirtschaftsreform Erhards gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0032",
+          "startSeconds": 1087,
+          "endSeconds": 1104,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Sachbehauptung des Gasts im gelesenen Kontext.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Historischer Bezug zur Erklärung von Währung und Wohlstand.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP nach Insolvenzen, Goldreserven, Nixon, Inflationsziel, US-Defizit und Schweizer Milizparlament; keine deckungsgleiche abgeschlossene Prüfung übernommen. Historische Suchfenster am direkt erschlossenen Originaltext kontrolliert, anschließend bezeichnete amtliche Quellen selbst gelesen.",
+            "sourceIds": [
+              "S051"
+            ],
+            "result": "Die D-Mark wurde am 20. Juni 1948 eingeführt. Vorbereitung und Beschluss lagen wesentlich bei den Westalliierten und beteiligten Fachleuten. Erhards entscheidender Beitrag war die begleitende Lockerung von Bewirtschaftung und Preiskontrollen. Seine Rolle ist daher wichtig, die knappe Zuschreibung der Währungsreform allein an ihn aber unvollständig."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die Westalliierten beschlossen die Währungsreform; Erhard prägte die begleitende Wirtschaftsreform.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Markus Krall",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage, kein eingespieltes Zitat; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Hosts zu diesem abgegrenzten Sachkern. Keine bestätigte Zustimmung des Hosts behauptet.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "OQnvClWgN-g-A0033",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Inflationsziel der EZB beträgt zwei Prozent.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Strategieerklärung der EZB vom Juni 2025 bestätigt zwei Prozent als symmetrisches mittelfristiges Ziel. Das ist kein Versprechen, dass jede monatliche oder nationale Inflationsrate genau zwei Prozent beträgt. Die anschließende Einordnung als Steuer oder unnötige Geldmengenausweitung ist ein anderer Prüfgegenstand.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung an den genannten Stellen samt Anschlusskontext und angegebene Sachquellen selbst gelesen. Sprecher nur aus dem Text plausibel; keine akustische oder bildliche Kontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neue atomare Originalprüfung; historische V14-Suchmarken waren nur Suchhilfe, ihre Bewertungen wurden nicht importiert.",
+        "assessmentChange": "[Codex] 24.11.2026: Zusätzliche Originalaussage nach eigener Quellenprüfung aufgenommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S052",
+          "note": "Bestätigung des symmetrischen mittelfristigen Zwei-Prozent-Ziels und Umgang mit Abweichungen gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0033",
+          "startSeconds": 1114,
+          "endSeconds": 1131,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Sachbehauptung des Gasts im gelesenen Kontext.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        },
+        {
+          "id": "OQnvClWgN-g-O0041",
+          "startSeconds": 3364,
+          "endSeconds": 3383,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Moderator fasst im Originaltext das Inflationsziel zusammen.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Sachbehauptung des Gasts im gelesenen Kontext.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständiger Zielwert der Geldpolitik; gleicher Maßstab für die Wiederholung des Hosts.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP nach Insolvenzen, Goldreserven, Nixon, Inflationsziel, US-Defizit und Schweizer Milizparlament; keine deckungsgleiche abgeschlossene Prüfung übernommen. Historische Suchfenster am direkt erschlossenen Originaltext kontrolliert, anschließend bezeichnete amtliche Quellen selbst gelesen.",
+            "sourceIds": [
+              "S052"
+            ],
+            "result": "Die Strategieerklärung der EZB vom Juni 2025 bestätigt zwei Prozent als symmetrisches mittelfristiges Ziel. Das ist kein Versprechen, dass jede monatliche oder nationale Inflationsrate genau zwei Prozent beträgt. Die anschließende Einordnung als Steuer oder unnötige Geldmengenausweitung ist ein anderer Prüfgegenstand."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Markus Krall",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage, kein eingespieltes Zitat; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Hosts zu diesem abgegrenzten Sachkern. Keine bestätigte Zustimmung des Hosts behauptet.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "OQnvClWgN-g-A0034",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der deutsche Goldbestand sei nach dem Krieg durch Handelsüberschüsse mit den USA entstanden.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Bundesbank dokumentiert den Wiederaufbau der Goldreserven nach dem Krieg im Zusammenhang mit deutschen Leistungsbilanzüberschüssen. Die Abrechnung innerhalb der Europäischen Zahlungsunion spielte dabei ebenfalls eine wichtige Rolle; sie verrechnete Überschüsse und Defizite zwischen mehreren Mitgliedsländern. Die Herkunft auf bilateralen US-Handel zu verengen, lässt diesen Mechanismus aus. Die im Video gerundete Bestandsgröße wird nicht als aktueller exakter Messwert behandelt.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung an den genannten Stellen samt Anschlusskontext und angegebene Sachquellen selbst gelesen. Sprecher nur aus dem Text plausibel; keine akustische oder bildliche Kontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neue atomare Originalprüfung; historische V14-Suchmarken waren nur Suchhilfe, ihre Bewertungen wurden nicht importiert.",
+        "assessmentChange": "[Codex] 24.11.2026: Zusätzliche Originalaussage nach eigener Quellenprüfung aufgenommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S053",
+          "note": "Abschnitte zu 1945–1950, Europäischer Zahlungsunion, Goldpool und Bretton Woods gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0034",
+          "startSeconds": 2054,
+          "endSeconds": 2091,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Sachbehauptung des Gasts im gelesenen Kontext.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Historische Grundlage der Erklärung des Gold-Dollar-Systems.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP nach Insolvenzen, Goldreserven, Nixon, Inflationsziel, US-Defizit und Schweizer Milizparlament; keine deckungsgleiche abgeschlossene Prüfung übernommen. Historische Suchfenster am direkt erschlossenen Originaltext kontrolliert, anschließend bezeichnete amtliche Quellen selbst gelesen.",
+            "sourceIds": [
+              "S053"
+            ],
+            "result": "Die Bundesbank dokumentiert den Wiederaufbau der Goldreserven nach dem Krieg im Zusammenhang mit deutschen Leistungsbilanzüberschüssen. Die Abrechnung innerhalb der Europäischen Zahlungsunion spielte dabei ebenfalls eine wichtige Rolle; sie verrechnete Überschüsse und Defizite zwischen mehreren Mitgliedsländern. Die Herkunft auf bilateralen US-Handel zu verengen, lässt diesen Mechanismus aus. Die im Video gerundete Bestandsgröße wird nicht als aktueller exakter Messwert behandelt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die Reserven entstanden auch über die Europäische Zahlungsunion; allein bilateraler US-Handel erklärt ihren Aufbau nicht.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Markus Krall",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage, kein eingespieltes Zitat; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Hosts zu diesem abgegrenzten Sachkern. Keine bestätigte Zustimmung des Hosts behauptet.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "OQnvClWgN-g-A0035",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nixon kündigte am 15. August 1971 die Aussetzung der Dollar-Gold-Konvertibilität an.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Federal Reserve datiert die Ankündigung auf den Abend des 15. August 1971. Gemeint war die offizielle Umtauschmöglichkeit im damaligen Währungssystem. Ob man den Bruch dieses Versprechens als Default bezeichnet, ist von einem allgemeinen Zahlungsausfall auf US-Staatsanleihen zu unterscheiden; eine solche weitergehende Behauptung wird hier nicht unterstellt.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung an den genannten Stellen samt Anschlusskontext und angegebene Sachquellen selbst gelesen. Sprecher nur aus dem Text plausibel; keine akustische oder bildliche Kontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neue atomare Originalprüfung; historische V14-Suchmarken waren nur Suchhilfe, ihre Bewertungen wurden nicht importiert.",
+        "assessmentChange": "[Codex] 24.11.2026: Zusätzliche Originalaussage nach eigener Quellenprüfung aufgenommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S054",
+          "note": "Geschichte der Konvertibilität und datierte Ankündigung vom 15. August 1971 gelesen; keine Gleichsetzung mit einem allgemeinen Ausfall von Staatsanleihen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0035",
+          "startSeconds": 2119,
+          "endSeconds": 2137,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Sachbehauptung des Gasts im gelesenen Kontext.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Kernereignis der Darstellung des heutigen internationalen Währungssystems.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP nach Insolvenzen, Goldreserven, Nixon, Inflationsziel, US-Defizit und Schweizer Milizparlament; keine deckungsgleiche abgeschlossene Prüfung übernommen. Historische Suchfenster am direkt erschlossenen Originaltext kontrolliert, anschließend bezeichnete amtliche Quellen selbst gelesen.",
+            "sourceIds": [
+              "S054"
+            ],
+            "result": "Die Federal Reserve datiert die Ankündigung auf den Abend des 15. August 1971. Gemeint war die offizielle Umtauschmöglichkeit im damaligen Währungssystem. Ob man den Bruch dieses Versprechens als Default bezeichnet, ist von einem allgemeinen Zahlungsausfall auf US-Staatsanleihen zu unterscheiden; eine solche weitergehende Behauptung wird hier nicht unterstellt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Markus Krall",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage, kein eingespieltes Zitat; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Hosts zu diesem abgegrenzten Sachkern. Keine bestätigte Zustimmung des Hosts behauptet.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "OQnvClWgN-g-A0036",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der US-Bundeshaushalt sei seit 1971 immer im Defizit gewesen.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die OMB-Reihe bei FRED enthält für die Fiskaljahre 1998 bis 2001 positive Bundessalden. Für 2000 sind 236.241 Millionen, also 236,241 Milliarden US-Dollar Überschuss ausgewiesen. Bereits dieses Gegenbeispiel widerlegt immer. Ein Handelsbilanzdefizit oder ein fortbestehender Schuldenstand sind andere Messgrößen.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung an den genannten Stellen samt Anschlusskontext und angegebene Sachquellen selbst gelesen. Sprecher nur aus dem Text plausibel; keine akustische oder bildliche Kontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neue atomare Originalprüfung; historische V14-Suchmarken waren nur Suchhilfe, ihre Bewertungen wurden nicht importiert.",
+        "assessmentChange": "[Codex] 24.11.2026: Zusätzliche Originalaussage nach eigener Quellenprüfung aufgenommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S055",
+          "note": "Quellenangabe OMB, Fiskaljahre und Einheit Millionen Dollar sowie positive Salden 1998–2001 gelesen. 236241 Millionen entsprechen 236,241 Milliarden US-Dollar."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0036",
+          "startSeconds": 2240,
+          "endSeconds": 2270,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Sachbehauptung des Gasts im gelesenen Kontext.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige historische Prämisse der Erklärung des Zwillingsdefizits.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP nach Insolvenzen, Goldreserven, Nixon, Inflationsziel, US-Defizit und Schweizer Milizparlament; keine deckungsgleiche abgeschlossene Prüfung übernommen. Historische Suchfenster am direkt erschlossenen Originaltext kontrolliert, anschließend bezeichnete amtliche Quellen selbst gelesen.",
+            "sourceIds": [
+              "S055"
+            ],
+            "result": "Die OMB-Reihe bei FRED enthält für die Fiskaljahre 1998 bis 2001 positive Bundessalden. Für 2000 sind 236.241 Millionen, also 236,241 Milliarden US-Dollar Überschuss ausgewiesen. Bereits dieses Gegenbeispiel widerlegt immer. Ein Handelsbilanzdefizit oder ein fortbestehender Schuldenstand sind andere Messgrößen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die US-Bundeshaushalte 1998–2001 wiesen Überschüsse aus, im Fiskaljahr 2000 rund 236 Milliarden US-Dollar.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Markus Krall",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage, kein eingespieltes Zitat; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Hosts zu diesem abgegrenzten Sachkern. Keine bestätigte Zustimmung des Hosts behauptet.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "OQnvClWgN-g-A0037",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 9,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die finanzpolitische Grundgesetzänderung 2025 wurde nach der Bundestagswahl noch vom bisherigen Bundestag beschlossen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Protokoll dokumentiert die Annahme der Änderung am 18. März 2025. Gewählt wurde am 23. Februar, der neue Bundestag trat am 25. März zusammen. Nach Artikel 39 endete erst damit die alte Wahlperiode. Der chronologische Sachkern der Host-Einordnung stimmt; ihm wird kein zusätzlicher Vorwurf eines rechtlich fehlenden Mandats zugeschrieben.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung an den genannten Stellen samt Anschlusskontext und angegebene Sachquellen selbst gelesen. Sprecher nur aus dem Text plausibel; keine akustische oder bildliche Kontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neue atomare Originalprüfung; historische V14-Suchmarken waren nur Suchhilfe, ihre Bewertungen wurden nicht importiert.",
+        "assessmentChange": "[Codex] 24.11.2026: Zusätzliche Originalaussage nach eigener Quellenprüfung aufgenommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S056",
+          "note": "Datum sowie Schlussabstimmung zur Änderung der Artikel 109, 115 und 143h, gedruckte S. 27791, mit 513 Ja- und 207 Nein-Stimmen gelesen."
+        },
+        {
+          "sourceId": "S057",
+          "note": "Absatz 1 zur Beendigung der Wahlperiode erst mit dem Zusammentritt des neuen Bundestages gelesen."
+        },
+        {
+          "sourceId": "S058",
+          "note": "Wahldatum 23. Februar, Konstituierung 25. März und Ende der alten Wahlperiode kontrolliert."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0037",
+          "startSeconds": 3390,
+          "endSeconds": 3410,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Sachlicher Einordnungsteil einer Host-Frage; kein ungesagter weitergehender Vorwurf ergänzt.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Konkrete verfassungsrechtliche Chronologie in der Frage des Moderators.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP nach Insolvenzen, Goldreserven, Nixon, Inflationsziel, US-Defizit und Schweizer Milizparlament; keine deckungsgleiche abgeschlossene Prüfung übernommen. Historische Suchfenster am direkt erschlossenen Originaltext kontrolliert, anschließend bezeichnete amtliche Quellen selbst gelesen.",
+            "sourceIds": [
+              "S056",
+              "S057",
+              "S058"
+            ],
+            "result": "Das Protokoll dokumentiert die Annahme der Änderung am 18. März 2025. Gewählt wurde am 23. Februar, der neue Bundestag trat am 25. März zusammen. Nach Artikel 39 endete erst damit die alte Wahlperiode. Der chronologische Sachkern der Host-Einordnung stimmt; ihm wird kein zusätzlicher Vorwurf eines rechtlich fehlenden Mandats zugeschrieben."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "OQnvClWgN-g-A0038",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 22,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Schweizer Abgeordnete hätten alle einen anderen Beruf und übten ihr Mandat nur nebenberuflich aus.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Die Schweizer Bundeskanzlei beschreibt die Miliztradition, stellt aber ausdrücklich fest, dass manche Ratsmitglieder ihre gesamte Arbeitszeit für das Mandat aufwenden. Sie ordnet das Parlament deshalb als Mischung aus Teilzeit- und Berufsparlament ein. Die Tradition stimmt, das ausnahmslose alle nicht. Eine Bewertung der Qualität der Politiker folgt daraus nicht.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung an den genannten Stellen samt Anschlusskontext und angegebene Sachquellen selbst gelesen. Sprecher nur aus dem Text plausibel; keine akustische oder bildliche Kontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neue atomare Originalprüfung; historische V14-Suchmarken waren nur Suchhilfe, ihre Bewertungen wurden nicht importiert.",
+        "assessmentChange": "[Codex] 24.11.2026: Zusätzliche Originalaussage nach eigener Quellenprüfung aufgenommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S059",
+          "note": "Abschnitt Milizparlament mit Hinweis auf eine Mischung aus Teilzeit- und Berufsparlament gelesen. Das zuerst angesteuerte Parlamentswörterbuch ließ sich wegen seiner Dateigröße nicht auslesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0038",
+          "startSeconds": 9944,
+          "endSeconds": 9970,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Sachbehauptung des Gasts im gelesenen Kontext.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Institutioneller Vergleich als Begründung der positiven Einordnung des Schweizer Systems.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP nach Insolvenzen, Goldreserven, Nixon, Inflationsziel, US-Defizit und Schweizer Milizparlament; keine deckungsgleiche abgeschlossene Prüfung übernommen. Historische Suchfenster am direkt erschlossenen Originaltext kontrolliert, anschließend bezeichnete amtliche Quellen selbst gelesen.",
+            "sourceIds": [
+              "S059"
+            ],
+            "result": "Die Schweizer Bundeskanzlei beschreibt die Miliztradition, stellt aber ausdrücklich fest, dass manche Ratsmitglieder ihre gesamte Arbeitszeit für das Mandat aufwenden. Sie ordnet das Parlament deshalb als Mischung aus Teilzeit- und Berufsparlament ein. Die Tradition stimmt, das ausnahmslose alle nicht. Eine Bewertung der Qualität der Politiker folgt daraus nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Die Schweiz hat eine Miliztradition, tatsächlich aber eine Mischung aus Teilzeit- und Berufsparlament.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Markus Krall",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage, kein eingespieltes Zitat; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Hosts zu diesem abgegrenzten Sachkern. Keine bestätigte Zustimmung des Hosts behauptet.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "OQnvClWgN-g-A0039",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 22,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die SVP ist nach nationalem Wähleranteil die stärkste Schweizer Partei.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die korrigierte amtliche Statistik zur Nationalratswahl 2023 weist 27,9 Prozent für die SVP aus, mehr als für jede andere Partei. Die zunächst verbreitete Zahl 28,6 Prozent wurde berichtigt. Geprüft ist der nationale Wähleranteil dieser Wahl, keine allgemeine Aussage über alle kantonalen Wahlen oder Regierungsanteile.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung an den genannten Stellen samt Anschlusskontext und angegebene Sachquellen selbst gelesen. Sprecher nur aus dem Text plausibel; keine akustische oder bildliche Kontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neue atomare Originalprüfung; historische V14-Suchmarken waren nur Suchhilfe, ihre Bewertungen wurden nicht importiert.",
+        "assessmentChange": "[Codex] 24.11.2026: Zusätzliche Originalaussage nach eigener Quellenprüfung aufgenommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S060",
+          "note": "Amtliche Mitteilung vom 25. Oktober 2023, korrigierte Tabelle mit 27,9 Prozent für die SVP gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0039",
+          "startSeconds": 9974,
+          "endSeconds": 9988,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Sachbehauptung des Gasts im gelesenen Kontext.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Konkrete Parteieinordnung im Bericht über politische Kontakte in der Schweiz.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP nach Insolvenzen, Goldreserven, Nixon, Inflationsziel, US-Defizit und Schweizer Milizparlament; keine deckungsgleiche abgeschlossene Prüfung übernommen. Historische Suchfenster am direkt erschlossenen Originaltext kontrolliert, anschließend bezeichnete amtliche Quellen selbst gelesen.",
+            "sourceIds": [
+              "S060"
+            ],
+            "result": "Die korrigierte amtliche Statistik zur Nationalratswahl 2023 weist 27,9 Prozent für die SVP aus, mehr als für jede andere Partei. Die zunächst verbreitete Zahl 28,6 Prozent wurde berichtigt. Geprüft ist der nationale Wähleranteil dieser Wahl, keine allgemeine Aussage über alle kantonalen Wahlen oder Regierungsanteile."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Markus Krall",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage, kein eingespieltes Zitat; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Hosts zu diesem abgegrenzten Sachkern. Keine bestätigte Zustimmung des Hosts behauptet.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "OQnvClWgN-g-A0040",
+      "videoId": "OQnvClWgN-g",
+      "chapter": 22,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein deutscher Staatsbürger könne in einem Schweizer Kanton eine besondere steuerliche Vereinbarung anstreben.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Das EFD beschreibt die Aufwandbesteuerung für bestimmte ausländische Personen. Erforderlich sind unter anderem erstmals oder nach mindestens zehn Jahren neu begründeter steuerlicher Wohnsitz und keine Erwerbstätigkeit in der Schweiz; einige Kantone haben die Form abgeschafft. Es gelten ordentliche Tarife und eine Kontrollrechnung. Die deutsche Staatsangehörigkeit allein begründet den Anspruch nicht. Kralls tatsächliche persönliche Berechtigung oder Steuerzahlung wird nicht behauptet oder überprüft.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung an den genannten Stellen samt Anschlusskontext und angegebene Sachquellen selbst gelesen. Sprecher nur aus dem Text plausibel; keine akustische oder bildliche Kontrolle.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Neue atomare Originalprüfung; historische V14-Suchmarken waren nur Suchhilfe, ihre Bewertungen wurden nicht importiert.",
+        "assessmentChange": "[Codex] 24.11.2026: Zusätzliche Originalaussage nach eigener Quellenprüfung aufgenommen."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S061",
+          "note": "Dossier vom 14. Februar 2024: Voraussetzungen, ordentliche Tarife, Kontrollrechnung und kantonale Abschaffungen gelesen. Keine Recherche zu privaten Steuerverhältnissen Kralls."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "OQnvClWgN-g-O0040",
+          "startSeconds": 10049,
+          "endSeconds": 10078,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Sachbehauptung des Gasts im gelesenen Kontext.",
+          "note": "Eigene Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Ungefähres Zeitfenster im am 24.11.2026 direkt exportierten automatischen deutschen YouTube-Originaltranskript.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Konkrete steuerliche Voraussetzung in der Diskussion über Auswanderung; private Steuerdaten bleiben außerhalb der Prüfung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24",
+        "assessedBeforeVerdict": false,
+        "reviews": [],
+        "history": []
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-24",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP nach Insolvenzen, Goldreserven, Nixon, Inflationsziel, US-Defizit und Schweizer Milizparlament; keine deckungsgleiche abgeschlossene Prüfung übernommen. Historische Suchfenster am direkt erschlossenen Originaltext kontrolliert, anschließend bezeichnete amtliche Quellen selbst gelesen.",
+            "sourceIds": [
+              "S061"
+            ],
+            "result": "Das EFD beschreibt die Aufwandbesteuerung für bestimmte ausländische Personen. Erforderlich sind unter anderem erstmals oder nach mindestens zehn Jahren neu begründeter steuerlicher Wohnsitz und keine Erwerbstätigkeit in der Schweiz; einige Kantone haben die Form abgeschafft. Es gelten ordentliche Tarife und eine Kontrollrechnung. Die deutsche Staatsangehörigkeit allein begründet den Anspruch nicht. Kralls tatsächliche persönliche Berechtigung oder Steuerzahlung wird nicht behauptet oder überprüft."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "shortReason": "Ausländische Staatsangehörigkeit allein reicht nicht: Wohnsitzvorgeschichte, fehlende Schweizer Erwerbstätigkeit und Kanton sind entscheidend.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Markus Krall",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Gastaussage, kein eingespieltes Zitat; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Hosts zu diesem abgegrenzten Sachkern. Keine bestätigte Zustimmung des Hosts behauptet.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-24"
       }
     }
   ]

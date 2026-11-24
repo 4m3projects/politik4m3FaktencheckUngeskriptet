@@ -2,23 +2,23 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Gezielte atomare Auswahl als Referenz für zwei Reaktionsvideos. Nicht das gesamte 3:21-Stunden-Interview geprüft. 178 frühere Gruppenpositionen separat als historischer Arbeitsstand erhalten; keine Hochrechnung und keine Video-Fehlerquote.
+**Abdeckung: Teilbestand.** Erweiterter Teilbestand mit 40 Prüfgegenständen; zehn neue Original-Sachprüfungen vom 24.11.2026. Keine vollständige Erfassung des 3:21-Stunden-Interviews. Weitere unabhängige Sachkerne aus den noch dünn erfassten Abschnitten sowie Hör-/Sichtabgleich stehen aus. Historische Gruppenpositionen bleiben Suchhilfen, keine übernommenen Urteile. Keine Hochrechnung und keine Gesamtfehlerquote des Videos.
 
-Stand: 2026-11-19 · Video: OQnvClWgN-g
+Stand: 2026-11-24 · Video: OQnvClWgN-g
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert. [Codex] 24.11.2026: Originaltext direkt im YouTube-Player erschlossen und zehn weitere Sachbehauptungen gegen neu gelesene amtliche und wissenschaftliche Quellen geprüft. Das Schreiben des Draghi-Crash 2015/16 wird nicht als Veröffentlichung in diesen Jahren fehlgedeutet. Keine früheren Urteile geändert; neue Aussagen ohne direkte Reaktionsverknüpfung.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 29
-- Abgeschlossen: 28
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 39
+- Abgeschlossen: 38
 - Offen (noch nicht geprueft): 0
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 1
-- Erfasste Behauptungsvorkommen: 29
-- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
+- Erfasste Behauptungsvorkommen: 40
+- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 1
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 1
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 23 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 33 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 1 | 4.3 % |
-| Teilweise belegt | 2 | 8.7 % |
-| Irreführend / Kontext fehlt | 9 | 39.1 % |
-| Widerlegt | 9 | 39.1 % |
-| Nicht ausreichend belegbar | 2 | 8.7 % |
+| Belegt | 5 | 15.2 % |
+| Teilweise belegt | 6 | 18.2 % |
+| Irreführend / Kontext fehlt | 9 | 27.3 % |
+| Widerlegt | 11 | 33.3 % |
+| Nicht ausreichend belegbar | 2 | 6.1 % |
 | Meinung / Prognose | 5 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.
@@ -52,12 +52,12 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 24. Ohne verlaessliche Personenzuordnung: 24.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 34. Ohne verlaessliche Personenzuordnung: 34.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 24; mit unsicherem eigenem Aussagebezug: 24. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 34; mit unsicherem eigenem Aussagebezug: 34. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 30, Aussagebezug 30 Vorkommen.
+- Plausibel: Sprecherzuordnung 41, Aussagebezug 41 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
@@ -71,6 +71,8 @@ Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswa
 
 - [Kapitel 2](berichte/kapitel-02.md)
 - [Kapitel 3](berichte/kapitel-03.md)
+- [Kapitel 6](berichte/kapitel-06.md)
+- [Kapitel 9](berichte/kapitel-09.md)
 - [Kapitel 10](berichte/kapitel-10.md)
 - [Kapitel 11](berichte/kapitel-11.md)
 - [Kapitel 13](berichte/kapitel-13.md)
@@ -79,6 +81,7 @@ Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswa
 - [Kapitel 16](berichte/kapitel-16.md)
 - [Kapitel 18](berichte/kapitel-18.md)
 - [Kapitel 21](berichte/kapitel-21.md)
+- [Kapitel 22](berichte/kapitel-22.md)
 - [Kapitel 24](berichte/kapitel-24.md)
 - [Kapitel 25](berichte/kapitel-25.md)
 - [Vorher/Nachher und vollstaendige eigene Alttexte](migration.md)

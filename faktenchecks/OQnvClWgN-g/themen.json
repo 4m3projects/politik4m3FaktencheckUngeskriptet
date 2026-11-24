@@ -62,6 +62,24 @@
       "relevance": "Erwähnt",
       "basis": "1 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
       "segments": []
+    },
+    {
+      "topic": "wirtschaft/insolvenzen",
+      "relevance": "Erwähnt",
+      "basis": "Zusätzliche Original-Sachprüfung vom 24.11.2026.",
+      "segments": []
+    },
+    {
+      "topic": "geld/ezb",
+      "relevance": "Erwähnt",
+      "basis": "Zusätzliche Original-Sachprüfung vom 24.11.2026.",
+      "segments": []
+    },
+    {
+      "topic": "geld/inflation",
+      "relevance": "Erwähnt",
+      "basis": "Zusätzliche Original-Sachprüfung vom 24.11.2026.",
+      "segments": []
     }
   ],
   "claims": [
@@ -238,6 +256,70 @@
       "topics": [
         "corona"
       ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0031",
+      "topics": [
+        "wirtschaft",
+        "wirtschaft/insolvenzen"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0032",
+      "topics": [
+        "geld"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0033",
+      "topics": [
+        "geld",
+        "geld/ezb",
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0034",
+      "topics": [
+        "geld"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0035",
+      "topics": [
+        "geld"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0036",
+      "topics": [
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0037",
+      "topics": [
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0038",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0039",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0040",
+      "topics": [
+        "wirtschaft",
+        "auswanderung"
+      ]
     }
   ],
   "history": [
@@ -245,6 +327,11 @@
       "date": "2026-11-19",
       "agent": "Claude",
       "change": "Erstzuordnung von 29 Aussagen zu Themen; keine Bewertung geändert."
+    },
+    {
+      "date": "2026-11-24",
+      "agent": "Codex",
+      "change": "Zehn neu am Original kontrollierte Sachkerne mit vorhandenen Themen verknüpft."
     }
   ]
 }

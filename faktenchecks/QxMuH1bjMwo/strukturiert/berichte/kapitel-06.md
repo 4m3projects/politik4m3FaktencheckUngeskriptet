@@ -1,8 +1,8 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
 
 ## QxMuH1bjMwo-A0012
 
@@ -235,5 +235,152 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0064
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der Islam kennt mit Tauba ein Konzept der Reue und Umkehr zu Gott.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:29:20–01:29:45](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=5360s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Koran 39,53–54 verbindet die Hoffnung auf Vergebung mit der Umkehr zu Gott. Damit ist die Existenz des angesprochenen Konzepts bestätigt. Ob ein bestimmter Täter damit tatsächlich eine Straftat rechtfertigt, lässt sich aus dieser Textstelle nicht ableiten.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [Koran 39,53–54: Umkehr und Vergebung](https://quran.com/39/53) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Übersetzung der Verse 53–54 und angezeigter Auslegungskontext zur Reue gelesen. Übersetzung der Verse 53–54 und angezeigter Auslegungskontext zur Reue gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S083. Ergebnis: Koran 39,53–54 verbindet die Hoffnung auf Vergebung mit der Umkehr zu Gott. Damit ist die Existenz des angesprochenen Konzepts bestätigt. Ob ein bestimmter Täter damit tatsächlich eine Straftat rechtfertigt, lässt sich aus dieser Textstelle nicht ableiten.
+
+## QxMuH1bjMwo-A0065
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die vormoderne islamische Rechtstradition erlaubte sexuelle Beziehungen von Männern zu ihren Sklavinnen.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:29:55–01:30:25](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=5395s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Kecia Alis Untersuchung sunnitischer Rechtstexte des 8. bis 10. Jahrhunderts bestätigt die rechtliche Akzeptanz des Konkubinats. Sie unterscheidet ausdrücklich Korantext und spätere Jurisprudenz. Geprüft ist die historische Rechtsvorstellung, nicht die Behauptung, heutige Muslime hätten deshalb bestimmte Täterfantasien oder lehnten das heutige Verbot sexueller Gewalt ab.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [Kecia Ali: Concubinage and Consent, IJMES 49 (2017)](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/F8E807073C33F403A91C1ACA0CFA47FD/S0020743816001203a.pdf/div-class-title-concubinage-and-consent-div.pdf) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Forschungsaufsatz S. 148–150 zur Auswertung frühislamischer sunnitischer Rechtstexte, Unterschieden zum Koran und Grenzen des Schlusses aus fehlenden Zustimmungsvorgaben gelesen. Forschungsaufsatz S. 148–150 zur Auswertung frühislamischer sunnitischer Rechtstexte, Unterschieden zum Koran und Grenzen des Schlusses aus fehlenden Zustimmungsvorgaben gelesen.
+
+- [Koran 23,5–6: Sklavinnen in der Versübersetzung](https://quran.com/23/5-6) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Versübersetzung gelesen; ihre Auslegung ist von der späteren juristischen Tradition zu unterscheiden. Versübersetzung gelesen; ihre Auslegung ist von der späteren juristischen Tradition zu unterscheiden.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S084, S098. Ergebnis: Kecia Alis Untersuchung sunnitischer Rechtstexte des 8. bis 10. Jahrhunderts bestätigt die rechtliche Akzeptanz des Konkubinats. Sie unterscheidet ausdrücklich Korantext und spätere Jurisprudenz. Geprüft ist die historische Rechtsvorstellung, nicht die Behauptung, heutige Muslime hätten deshalb bestimmte Täterfantasien oder lehnten das heutige Verbot sexueller Gewalt ab.
+
+## QxMuH1bjMwo-A0067
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Abdel-Samad hat ein Buch mit dem Titel Aus Liebe zu Deutschland veröffentlicht.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:42:24–01:42:35](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=6144s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der eigene Verlag führt das Buch mit dem Untertitel Ein Warnruf und einer Taschenbuchausgabe vom Januar 2022. Geprüft ist die Existenz des Werks. Die anschließende Annahme, ein gebürtiger Deutscher könne einen solchen Titel nicht veröffentlichen, ist damit nicht belegt.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [dtv: Aus Liebe zu Deutschland, Verlagsinformation](https://www.dtv.de/product/9a0e3427b77241e58d3215b07b3505ad/pdf-download) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Bibliografische Angaben auf S. 1: Autor, Titel, Untertitel und Taschenbuchausgabe vom Januar 2022 gelesen. Bibliografische Angaben auf S. 1: Autor, Titel, Untertitel und Taschenbuchausgabe vom Januar 2022 gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S086. Ergebnis: Der eigene Verlag führt das Buch mit dem Untertitel Ein Warnruf und einer Taschenbuchausgabe vom Januar 2022. Geprüft ist die Existenz des Werks. Die anschließende Annahme, ein gebürtiger Deutscher könne einen solchen Titel nicht veröffentlichen, ist damit nicht belegt.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

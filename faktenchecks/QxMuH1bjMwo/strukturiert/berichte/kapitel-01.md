@@ -1,8 +1,8 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
 
 ## QxMuH1bjMwo-A0001
 

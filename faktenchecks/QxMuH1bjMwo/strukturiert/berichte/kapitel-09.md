@@ -1,8 +1,8 @@
 # Kapitel 09: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
 
 ## QxMuH1bjMwo-A0007
 
@@ -360,5 +360,104 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0073
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Lehrkräfte für konfessionellen islamischen Religionsunterricht müssen selbst dem Islam angehören.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:37:11–02:37:40](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=9431s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das NRW-Ministerium verlangt fachliche Qualifikation und eine religiöse Unterrichtserlaubnis. Das DITIB-NRW-Verfahren verlangt ausdrücklich ein islamisches Bekenntnis, dort sogar die sunnitische Konfession. Das bestätigt den Kern für den im Gespräch genannten NRW-Kontext. Es ist kein Nachweis identischer Vorgaben in jedem Bundesland oder für jeden religionskundlichen Unterricht.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [NRW-Schulministerium: Faktenblatt zur Kommission Islamischer Religionsunterricht](https://www.schulministerium.nrw/system/files/media/document/file/faktenblatt_kommission_iru_mai_2021.pdf) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. S. 1 und 3 zu staatlicher Verantwortung, Kommission und fachlichen sowie religiösen Voraussetzungen gelesen; Bundeslandbezug NRW. S. 1 und 3 zu staatlicher Verantwortung, Kommission und fachlichen sowie religiösen Voraussetzungen gelesen; Bundeslandbezug NRW.
+
+- [DITIB NRW: Idschaza-Verfahren und Voraussetzungen](https://ditibnrw.de/wp-content/uploads/2026/07/Idschaza-Verfahren-Voraussetzungen-1.pdf) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. S. 1 zu Islam-Bekenntnis, sunnitischer Konfession und pädagogischer Qualifikation gelesen; Selbstauskunft dieses Trägers, kein Nachweis einer bundesweit einheitlichen Regel. S. 1 zu Islam-Bekenntnis, sunnitischer Konfession und pädagogischer Qualifikation gelesen; Selbstauskunft dieses Trägers, kein Nachweis einer bundesweit einheitlichen Regel.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S092, S093. Ergebnis: Das NRW-Ministerium verlangt fachliche Qualifikation und eine religiöse Unterrichtserlaubnis. Das DITIB-NRW-Verfahren verlangt ausdrücklich ein islamisches Bekenntnis, dort sogar die sunnitische Konfession. Das bestätigt den Kern für den im Gespräch genannten NRW-Kontext. Es ist kein Nachweis identischer Vorgaben in jedem Bundesland oder für jeden religionskundlichen Unterricht.
+
+## QxMuH1bjMwo-A0074
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** In Köln gibt es eine öffentliche Ramadanbeleuchtung.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [02:43:11–02:43:25](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=9791s) · nicht bestaetigt; Kandidat: Hamed Abdel-Samad · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der datierte Lokalbericht beschreibt die Beleuchtung der Venloer Straße im Februar und März 2026 und nennt die vorherigen Ausgaben 2024 und 2025. Damit ist das konkrete Kölner Beispiel bestätigt. Die Behauptung, es gebe in ganz Japan keine Ramadanbeleuchtung, und die ästhetische Wertung werden davon nicht mitbewertet.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [Kölner Stadt-Anzeiger: Ramadanbeleuchtung auf der Venloer Straße, 18. Februar 2026](https://www.ksta.de/koeln/ehrenfeld/koeln-ehrenfeld-beleuchtung-auf-der-venloer-strasse-zum-ramadan-3-1209528) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Datierter Lokalbericht mit konkretem Ort, Zeitraum und Veranstalterangaben gelesen. Keine Prüfung der wertenden Aussage zur kulturellen Attraktivität. Datierter Lokalbericht mit konkretem Ort, Zeitraum und Veranstalterangaben gelesen. Keine Prüfung der wertenden Aussage zur kulturellen Attraktivität.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S094. Ergebnis: Der datierte Lokalbericht beschreibt die Beleuchtung der Venloer Straße im Februar und März 2026 und nennt die vorherigen Ausgaben 2024 und 2025. Damit ist das konkrete Kölner Beispiel bestätigt. Die Behauptung, es gebe in ganz Japan keine Ramadanbeleuchtung, und die ästhetische Wertung werden davon nicht mitbewertet.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

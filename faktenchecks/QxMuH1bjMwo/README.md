@@ -4,9 +4,9 @@
 
 - Veröffentlichung: 2026-11-18
 
-[Codex] **Fortlaufende Teilprüfung, Stand 19. November 2026.** Der Faktencheck erfasst Aussagen aus allen elf Originalkapiteln. Die Tabelle zählt die bisher aufgenommenen Prüfgegenstände. In Kapitel 11 ist eine persönliche Antwort erfasst.
+[Codex] **Erweiterte Text-Teilprüfung, Stand 24. November 2026.** Der Faktencheck erfasst 75 Prüfgegenstände aus allen elf Originalkapiteln. 24 zusätzliche Einordnungen wurden nach direkter Originaltextkontrolle und eigenständiger Quellenrecherche ergänzt. In Kapitel 11 ist eine persönliche Antwort erfasst.
 
-Die Zeitmarken stammen aus dem automatischen deutschen YouTube-Transkript. Die Sprecherzuordnung ist aus dem Gesprächskontext abgeleitet. Weitere Sachprüfungen und der Hör- und Sichtabgleich stehen aus. Konkrete offene Fragen stehen bei den jeweiligen Aussagen. Die Ampel zeigt deshalb weiterhin den laufenden Prüfstand.
+Die Zeitmarken stammen aus dem automatischen deutschen YouTube-Transkript. Die Sprecherzuordnung ist aus dem Gesprächskontext abgeleitet. Die erweiterte Text-Teilprüfung ist abgeschlossen; weitere Nebenbehauptungen und der Hör- und Sichtabgleich stehen aus. Das ist keine Vollprüfung des gesamten Gesprächs. Die Ampel berechnet sich ausschließlich aus dem erfassten Bestand; ihre Schwellen wurden nicht geändert.
 
 [Einzelprüfungen und Sachquellen](strukturiert/README.md)
 
@@ -16,21 +16,21 @@ Die Zeitmarken stammen aus dem automatischen deutschen YouTube-Transkript. Die S
 | --- | --- | --- | ---: |
 | 1 | [00:00:00](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=0s) | Einleitung | 3 |
 | 2 | [00:02:47](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=167s) | Religion und politische Macht | 4 |
-| 3 | [00:13:34](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=814s) | Religion, Identität und Staatsneutralität | 6 |
-| 4 | [00:35:37](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=2137s) | Schule und die Debatte von 2015 | 4 |
-| 5 | [00:47:40](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=2860s) | Kölner Silvesternacht | 5 |
-| 6 | [01:21:32](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=4892s) | Verbreitung islamistischer Einstellungen | 5 |
-| 7 | [01:43:50](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=6230s) | Drohungen und Polizeischutz | 6 |
-| 8 | [02:05:46](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=7546s) | Integration und Islam Konferenz | 4 |
-| 9 | [02:33:41](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=9221s) | Religion und Justiz | 8 |
+| 3 | [00:13:34](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=814s) | Religion, Identität und Staatsneutralität | 9 |
+| 4 | [00:35:37](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=2137s) | Schule und die Debatte von 2015 | 5 |
+| 5 | [00:47:40](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=2860s) | Kölner Silvesternacht | 13 |
+| 6 | [01:21:32](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=4892s) | Verbreitung islamistischer Einstellungen | 8 |
+| 7 | [01:43:50](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=6230s) | Drohungen und Polizeischutz | 7 |
+| 8 | [02:05:46](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=7546s) | Integration und Islam Konferenz | 10 |
+| 9 | [02:33:41](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=9221s) | Religion und Justiz | 10 |
 | 10 | [02:53:11](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=10391s) | Kopftuch, Rechtsstaat und Dubai | 5 |
 | 11 | [03:10:57](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=11457s) | Abschlussfrage | 1 |
 
-## Nachrecherche für die nächste Teilprüfung
+## Vorbereitende Nachrecherche vom 24. November 2026 (historischer Zwischenstand)
 
 **[Kai], 24. November 2026.** Auf der YouTube-Originalseite sind die Video-ID, die Laufzeit von 3:20:53, die elf Kapitelmarken oben und der derzeit angezeigte Titel bestätigt: „Sie wollen Deutschland erobern - Strategie der Islamisten“. Die ursprüngliche Bezeichnung aus dem Prüfstand vom 19. November bleibt in der Videoidentifikation dokumentiert.
 
-Derzeit sind 49 Tatsachenbehauptungen erfasst. Für die Mindestdichte bei dieser Laufzeit braucht das Projekt 67 eigenständige relevante Tatsachenbehauptungen aus dem ganzen Gespräch, also mindestens 18 weitere; die Teilprüfung bleibt in Bearbeitung. Die folgenden recherchierten Ansätze sind **keine Video-Urteile** und zählen noch nicht. Die Zeiten beziehen sich ausschließlich auf die [automatische Mitschrift der Podcast-Ausgabe #354](https://podcasts.happyscribe.com/de/ungeskriptet-der-meinungsfreiheit-verpflichtet/354-sie-wollen-deutschland-erobern-strategie-der-islamisten). Diese Ausgabe dauert rund fünf Minuten länger als die YouTube-Fassung; auch mehrere gemeinsame Stellen zeigen unterschiedliche Abstände. Deshalb keine Zeitmarken davon unverändert aufs Video übertragen. Der Player meldet deutsche Auto-Untertitel, der direkte Abruf lieferte aber keinen Untertiteltext. Beim Folgedurchgang zuerst Originalstelle, Wortlaut, Kontext und Sprecherrolle prüfen.
+Zu Beginn dieser Vorrecherche waren 49 Tatsachenbehauptungen erfasst. Die folgenden Ansätze waren damals **keine Video-Urteile**. Später am selben Tag wurde der Originalzugang hergestellt; tatsächlich übernommene Befunde sind jetzt unter A0052–A0075 einzeln dokumentiert. Nicht übernommene Ansätze bleiben Prüfvorschläge. Die Zeiten in dieser historischen Tabelle beziehen sich ausschließlich auf die [automatische Mitschrift der Podcast-Ausgabe #354](https://podcasts.happyscribe.com/de/ungeskriptet-der-meinungsfreiheit-verpflichtet/354-sie-wollen-deutschland-erobern-strategie-der-islamisten). Diese Ausgabe dauert rund fünf Minuten länger als die YouTube-Fassung; ihre Zeitmarken wurden nicht aufs Video übertragen.
 
 | Suche in der Podcastfassung | Bereits geprüfter Quellenbefund für den Originalabgleich |
 | --- | --- |

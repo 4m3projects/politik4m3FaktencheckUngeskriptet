@@ -1,8 +1,8 @@
 # Kapitel 07: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fortlaufende Teilprüfung aus allen elf Originalkapiteln. Weitere Sachbehauptungen und der durchgängige Hör- und Sichtabgleich stehen aus. Im Abschlusskapitel ist eine persönliche Antwort erfasst.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
 
 ## QxMuH1bjMwo-A0006
 
@@ -264,5 +264,53 @@ Bewertungsuebergang: Erste dokumentierte Einordnung.
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## QxMuH1bjMwo-A0066
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** In Berlin gebe es ein Streuverbot.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:57:59–01:58:16](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=7079s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Ungefähres Suchfenster der geprüften Aussage; kein wortgetreues Zitat.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Für den Winterdienst gilt kein allgemeines Streuverbot. Die Berliner Regeln verlangen bei Glätte abstumpfende Streumittel wie Sand oder Splitt. Gesondert beschränkt ist der Einsatz von Salz und anderen Auftaumitteln. Falls der Moderator nur Tausalz meinte, ist dieser enge Kern vorhanden; die unpräzise Formulierung verwischt aber den entscheidenden Unterschied. Seine Forderung nach zivilem Ungehorsam bleibt eine Meinung.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+
+Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+
+### Zugeordnete Quellen
+
+- [Land Berlin: Winterdienst, Pflichten und Auftaumittel](https://www.berlin.de/sen/uvk/umwelt/sauberes-berlin/winterdienst/) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. FAQ zur Streupflicht mit Sand, Splitt oder Granulat sowie zum gesonderten Verbot von Auftaumitteln gelesen. FAQ zur Streupflicht mit Sand, Splitt oder Granulat sowie zum gesonderten Verbot von Auftaumitteln gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S085. Ergebnis: Für den Winterdienst gilt kein allgemeines Streuverbot. Die Berliner Regeln verlangen bei Glätte abstumpfende Streumittel wie Sand oder Splitt. Gesondert beschränkt ist der Einsatz von Salz und anderen Auftaumitteln. Falls der Moderator nur Tausalz meinte, ist dieser enge Kern vorhanden; die unpräzise Formulierung verwischt aber den entscheidenden Unterschied. Seine Forderung nach zivilem Ungehorsam bleibt eine Meinung.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

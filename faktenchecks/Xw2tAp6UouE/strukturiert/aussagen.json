@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung.",
-    "coverageNote": "Fünf bereits im YouTube-Prüfstart lokalisierte, sachlich nachgeprüfte Aussagen. Fünf Sachurteile; wegen ungeklärter Zurechnung noch nicht im Faktenindex. Keine systematische Erfassung der knapp drei Stunden und keine Gesamtbewertung. Zeitmarken sind ungefähre Suchpositionen aus dem bisherigen YouTube-Prüfstart, keine Zeitwerte aus der Podcast-Fassung. Sprecher und Haltung der Videomoderation sind nicht akustisch bzw. audiovisuell verifiziert; die Bewertung betrifft den Sachkern."
+    "researchNote": "[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich.",
+    "coverageNote": "Fünf sachlich bereits geprüfte Aussagen, deren Gesprächsrolle jetzt zusätzlich direkt an der deutschen automatischen Originaltextfassung kontrolliert ist. Die Zuordnung zum Gast bleibt plausibel; im gelesenen Umfeld keine ausdrückliche Zurückweisung durch den Host. Keine vollständige Erfassung oder audiovisuelle Prüfung der knapp drei Stunden. Gesamtampel bleibt vorläufig."
   },
   "legacyPoints": [],
   "sources": [
@@ -94,6 +94,14 @@
       "details": "Amtliche Darstellung der Entschließung vom 08.10.2026 und der Aufforderungen an die Kommission.",
       "accessedOn": "2026-11-24",
       "accessBasis": "Amtliche Inhaltszusammenfassung einschließlich Prüf- und Transparenzforderungen gelesen."
+    },
+    {
+      "id": "S011",
+      "title": "YouTube: direkte automatische deutsche Originaltextfassung",
+      "url": "https://www.youtube.com/watch?v=Xw2tAp6UouE",
+      "details": "Originalplayer-Zugang am 24.11.2026, Laufzeit im Player 02:59:44; Repository-Metadaten weiterhin 02:59:45.",
+      "accessedOn": "2026-11-24",
+      "accessBasis": "Nach der Werbung direkt als private Textdatei exportiert; fünf Originalstellen und jeweils vorausgehende Frage sowie anschließende Moderation gelesen. Keine vollständige Textlektüre oder Hör-/Bildkontrolle."
     }
   ],
   "speakers": [
@@ -119,7 +127,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständig formuliert; Grundlage ist ein bereits im bisherigen Prüfstart dokumentierter Fundpunkt aus dem Originalvideo. Kein nummerierter Altprüfpunkt.",
-        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts."
+        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts. [Codex] 24.11.2026: Zurechnung vorher Gast/Ungeklärt, jetzt Gast/Nur wiedergegeben nach Kontrolle der direkten Originaltextfassung samt Anschluss. Frühere Grundlage: Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert. Sachurteil und Gewicht unverändert."
       },
       "sourceRefs": [
         {
@@ -145,14 +153,21 @@
           "speakerId": null,
           "candidateSpeakerId": "SP02",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle.",
+          "attributionBasis": "Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle. Direkte deutsche YouTube-Textfassung am 24.11.2026 im jeweiligen Gesprächskontext gegengelesen.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Aus dem gelesenen Gesprächsumfeld als Aussage des Gasts, nicht als Frage erkannt.",
           "note": "Ungefähres Suchfenster, kein wortgetreues Zitat.",
-          "timeBasis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze.",
-          "timeHistory": []
+          "timeBasis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze. Am 24.11.2026 im direkt exportierten YouTube-Originaltext am vorhandenen Suchfenster gegengelesen; Zeiten nicht verschoben.",
+          "timeHistory": [
+            {
+              "startSeconds": 209,
+              "endSeconds": 229,
+              "precision": "Ungefähr",
+              "basis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze."
+            }
+          ]
         }
       ],
       "relations": [],
@@ -160,9 +175,9 @@
         "statementBy": "Gast",
         "person": "Michael Schmidt-Salomon",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert.",
-        "assessedBy": "Kai",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "[Codex] Direkte deutsche Originaltextfassung und Anschlusskontext am 24.11.2026: eigene Antwort des Gasts im Interview, keine im Text erkennbare Zurückweisung dieses Sachkerns durch den Host. Keine Zustimmung des Hosts unterstellt; Sprecher bleibt plausibel und akustisch unbestätigt.",
+        "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
       },
       "factIndex": {
@@ -190,7 +205,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständig formuliert; Grundlage ist ein bereits im bisherigen Prüfstart dokumentierter Fundpunkt aus dem Originalvideo. Kein nummerierter Altprüfpunkt.",
-        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts."
+        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts. [Codex] 24.11.2026: Zurechnung vorher Gast/Ungeklärt, jetzt Gast/Nur wiedergegeben nach Kontrolle der direkten Originaltextfassung samt Anschluss. Frühere Grundlage: Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert. Sachurteil und Gewicht unverändert."
       },
       "sourceRefs": [
         {
@@ -216,14 +231,21 @@
           "speakerId": null,
           "candidateSpeakerId": "SP02",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle.",
+          "attributionBasis": "Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle. Direkte deutsche YouTube-Textfassung am 24.11.2026 im jeweiligen Gesprächskontext gegengelesen.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Aus dem gelesenen Gesprächsumfeld als Aussage des Gasts, nicht als Frage erkannt.",
           "note": "Ungefähres Suchfenster, kein wortgetreues Zitat.",
-          "timeBasis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze.",
-          "timeHistory": []
+          "timeBasis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze. Am 24.11.2026 im direkt exportierten YouTube-Originaltext am vorhandenen Suchfenster gegengelesen; Zeiten nicht verschoben.",
+          "timeHistory": [
+            {
+              "startSeconds": 512,
+              "endSeconds": 535,
+              "precision": "Ungefähr",
+              "basis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze."
+            }
+          ]
         }
       ],
       "relations": [],
@@ -231,13 +253,13 @@
         "statementBy": "Gast",
         "person": "Michael Schmidt-Salomon",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert.",
-        "assessedBy": "Kai",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "[Codex] Direkte deutsche Originaltextfassung und Anschlusskontext am 24.11.2026: eigene Antwort des Gasts im Interview, keine im Text erkennbare Zurückweisung dieses Sachkerns durch den Host. Keine Zustimmung des Hosts unterstellt; Sprecher bleibt plausibel und akustisch unbestätigt.",
+        "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
       },
       "factIndex": {
-        "weight": 1.0,
+        "weight": 1,
         "weightReason": "Konkrete Textreferenz als Ausgangspunkt der Erläuterung zum Humanismus.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai",
@@ -261,7 +283,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständig formuliert; Grundlage ist ein bereits im bisherigen Prüfstart dokumentierter Fundpunkt aus dem Originalvideo. Kein nummerierter Altprüfpunkt.",
-        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts."
+        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts. [Codex] 24.11.2026: Zurechnung vorher Gast/Ungeklärt, jetzt Gast/Nur wiedergegeben nach Kontrolle der direkten Originaltextfassung samt Anschluss. Frühere Grundlage: Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert. Sachurteil und Gewicht unverändert."
       },
       "sourceRefs": [
         {
@@ -291,14 +313,21 @@
           "speakerId": null,
           "candidateSpeakerId": "SP02",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle.",
+          "attributionBasis": "Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle. Direkte deutsche YouTube-Textfassung am 24.11.2026 im jeweiligen Gesprächskontext gegengelesen.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Aus dem gelesenen Gesprächsumfeld als Aussage des Gasts, nicht als Frage erkannt.",
           "note": "Ungefähres Suchfenster, kein wortgetreues Zitat.",
-          "timeBasis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze.",
-          "timeHistory": []
+          "timeBasis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze. Am 24.11.2026 im direkt exportierten YouTube-Originaltext am vorhandenen Suchfenster gegengelesen; Zeiten nicht verschoben.",
+          "timeHistory": [
+            {
+              "startSeconds": 703,
+              "endSeconds": 729,
+              "precision": "Ungefähr",
+              "basis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze."
+            }
+          ]
         }
       ],
       "relations": [],
@@ -306,13 +335,13 @@
         "statementBy": "Gast",
         "person": "Michael Schmidt-Salomon",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert.",
-        "assessedBy": "Kai",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "[Codex] Direkte deutsche Originaltextfassung und Anschlusskontext am 24.11.2026: eigene Antwort des Gasts im Interview, keine im Text erkennbare Zurückweisung dieses Sachkerns durch den Host. Keine Zustimmung des Hosts unterstellt; Sprecher bleibt plausibel und akustisch unbestätigt.",
+        "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
       },
       "factIndex": {
-        "weight": 1.0,
+        "weight": 1,
         "weightReason": "Sachliches Argument zur evolutionären Einordnung des Menschen.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai",
@@ -336,7 +365,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständig formuliert; Grundlage ist ein bereits im bisherigen Prüfstart dokumentierter Fundpunkt aus dem Originalvideo. Kein nummerierter Altprüfpunkt.",
-        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts."
+        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts. [Codex] 24.11.2026: Zurechnung vorher Gast/Ungeklärt, jetzt Gast/Nur wiedergegeben nach Kontrolle der direkten Originaltextfassung samt Anschluss. Frühere Grundlage: Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert. Sachurteil und Gewicht unverändert."
       },
       "sourceRefs": [
         {
@@ -366,14 +395,21 @@
           "speakerId": null,
           "candidateSpeakerId": "SP02",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle.",
+          "attributionBasis": "Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle. Direkte deutsche YouTube-Textfassung am 24.11.2026 im jeweiligen Gesprächskontext gegengelesen.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Aus dem gelesenen Gesprächsumfeld als Aussage des Gasts, nicht als Frage erkannt.",
           "note": "Ungefähres Suchfenster, kein wortgetreues Zitat.",
-          "timeBasis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze.",
-          "timeHistory": []
+          "timeBasis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze. Am 24.11.2026 im direkt exportierten YouTube-Originaltext am vorhandenen Suchfenster gegengelesen; Zeiten nicht verschoben.",
+          "timeHistory": [
+            {
+              "startSeconds": 2413,
+              "endSeconds": 2445,
+              "precision": "Ungefähr",
+              "basis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze."
+            }
+          ]
         }
       ],
       "relations": [],
@@ -381,13 +417,13 @@
         "statementBy": "Gast",
         "person": "Michael Schmidt-Salomon",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert.",
-        "assessedBy": "Kai",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "[Codex] Direkte deutsche Originaltextfassung und Anschlusskontext am 24.11.2026: eigene Antwort des Gasts im Interview, keine im Text erkennbare Zurückweisung dieses Sachkerns durch den Host. Keine Zustimmung des Hosts unterstellt; Sprecher bleibt plausibel und akustisch unbestätigt.",
+        "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
       },
       "factIndex": {
-        "weight": 1.0,
+        "weight": 1,
         "weightReason": "Konkreter Zahlenvergleich im Abschnitt über Säkularisierung.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai",
@@ -411,7 +447,7 @@
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständig formuliert; Grundlage ist ein bereits im bisherigen Prüfstart dokumentierter Fundpunkt aus dem Originalvideo. Kein nummerierter Altprüfpunkt.",
-        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts."
+        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts. [Codex] 24.11.2026: Zurechnung vorher Gast/Ungeklärt, jetzt Gast/Nur wiedergegeben nach Kontrolle der direkten Originaltextfassung samt Anschluss. Frühere Grundlage: Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert. Sachurteil und Gewicht unverändert."
       },
       "sourceRefs": [
         {
@@ -441,14 +477,21 @@
           "speakerId": null,
           "candidateSpeakerId": "SP02",
           "attributionStatus": "Plausibel",
-          "attributionBasis": "Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle.",
+          "attributionBasis": "Aus Inhalt und Sprecherwechsel der automatischen Podcast-Textfassung erschlossen; keine akustische Kontrolle. Direkte deutsche YouTube-Textfassung am 24.11.2026 im jeweiligen Gesprächskontext gegengelesen.",
           "legacySpeaker": null,
           "role": "Behauptung",
           "roleStatus": "Plausibel",
           "roleBasis": "Aus dem gelesenen Gesprächsumfeld als Aussage des Gasts, nicht als Frage erkannt.",
           "note": "Ungefähres Suchfenster, kein wortgetreues Zitat.",
-          "timeBasis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze.",
-          "timeHistory": []
+          "timeBasis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze. Am 24.11.2026 im direkt exportierten YouTube-Originaltext am vorhandenen Suchfenster gegengelesen; Zeiten nicht verschoben.",
+          "timeHistory": [
+            {
+              "startSeconds": 6350,
+              "endSeconds": 6390,
+              "precision": "Ungefähr",
+              "basis": "Startposition aus dem originalbezogenen Prüfstart vom 21.11.2026; Endpunkt ist das Ende des Suchfensters, keine gemessene Satzgrenze."
+            }
+          ]
         }
       ],
       "relations": [],
@@ -456,13 +499,13 @@
         "statementBy": "Gast",
         "person": "Michael Schmidt-Salomon",
         "presentation": "Gespräch",
-        "creatorStance": "Ungeklärt",
-        "basis": "Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert.",
-        "assessedBy": "Kai",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "[Codex] Direkte deutsche Originaltextfassung und Anschlusskontext am 24.11.2026: eigene Antwort des Gasts im Interview, keine im Text erkennbare Zurückweisung dieses Sachkerns durch den Host. Keine Zustimmung des Hosts unterstellt; Sprecher bleibt plausibel und akustisch unbestätigt.",
+        "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
       },
       "factIndex": {
-        "weight": 1.0,
+        "weight": 1,
         "weightReason": "Konkretes Beispiel für politische Reaktionen im Gespräch über Integration.",
         "weightStatus": "Vorläufig",
         "assessedBy": "Kai",
