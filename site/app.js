@@ -1531,6 +1531,16 @@ async function routePage() {
   }
 }
 
+/* Der Inhaltssprung darf den Hash der aktuellen Ansicht nicht überschreiben. */
+document.querySelector('a.skip[href="#inhalt"]')?.addEventListener('click', e => {
+  if (e.defaultPrevented || e.button !== 0 || e.altKey || e.ctrlKey || e.metaKey || e.shiftKey) return;
+  const content = main();
+  if (!content) return;
+  e.preventDefault();
+  content.focus({ preventScroll: true });
+  content.scrollIntoView({ block: 'start' });
+});
+
 window.addEventListener('hashchange', route);
 document.addEventListener('DOMContentLoaded', route);
 
