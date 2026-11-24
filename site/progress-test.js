@@ -7,7 +7,7 @@ const vm = require('node:vm');
 
 function app() {
   const context = vm.createContext({
-    window: { addEventListener() {} }, document: { addEventListener() {} },
+    window: { addEventListener() {} }, document: { addEventListener() {}, querySelector() { return null; } },
     FactRelations: require('./relations.js'), FactRhetoric: require('./rhetoric.js'),
     FactIndex: require('./faktenindex.js'), FactProgress: require('./pruefstand.js')
   });
