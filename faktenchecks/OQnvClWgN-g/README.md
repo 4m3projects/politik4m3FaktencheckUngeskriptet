@@ -15,3 +15,5 @@ Für 12 der 25 Kapitel aus der eigenen Vorarbeit liegen strukturierte Aussagen v
 [Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität.
 
 Die vorherige eigene Auswertung ist als [historische Arbeitsgrundlage](../../docs/arbeitsstaende/krall/vorarbeit-2026-11-14.md) erhalten. Ihre Gruppenurteile sind keine automatische Autorität der neuen Einzelprüfung.
+
+[Kai] Nachprüfung vom 24. November 2026: [Elf konkrete Suchfenster mit bereits geprüften Sachquellen](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/blob/main/docs/arbeitsstaende/krall/nachpruefung-2026-11-24.md) für die nächste Originalkontrolle. Die Zeitfenster sind noch keine verifizierten Wortlaut- oder Sprecherangaben. Ampel und Einzelbewertungen bleiben unverändert.
