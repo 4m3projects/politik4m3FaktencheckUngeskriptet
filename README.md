@@ -10,11 +10,10 @@ Die Webseite ist der zentrale Zugang zu den Videoanalysen, Aussagen, Quellen und
 
 ## Projektstand
 
-- **2 Originalinterviews** als übernommene Arbeitsstände und **2 verknüpfte Gegenprüfungen** vorhanden. Die Gegenprüfungen sind ausdrücklich Teilbestände.
-- Webseite und GitHub-Pages-Workflow eingerichtet; die erfolgreiche Veröffentlichung wird noch geprüft.
-- Verknüpfte Reaktionen erscheinen auf den Interviewseiten mit eigenständigen Prüfungen und Aussagevergleichen; weitere Analysen und Gegenprüfungen können ergänzt werden.
-- Zusätzlich zur Faktenbewertung gibt es eine getrennte, ausblendbare zweite Ebene mit KI-Hinweisen zur Darstellung (z. B. abwertend, ironisch, pauschal); sie zählt nicht als Fehler. Erste Einordnung aller vier Videos als Teilprüfung.
-- Bewertungen und Berichte können überarbeitet und korrigiert werden.
+- Die [Webseite](https://4m3projects.github.io/politik4m3FaktencheckUngeskriptet/) zeigt den aktuellen Bestand an Originalinterviews und verknüpften Reaktionen. In den einzelnen Videoansichten stehen der jeweilige Prüfstand und die verfügbaren Berichte.
+- Verknüpfte Reaktionen erscheinen auf der Seite des jeweiligen Originalinterviews. Sie haben eigene Prüfungen und, soweit vorhanden, Vergleiche mit Aussagen aus dem Original. Ein Teilbestand ist keine Vollprüfung.
+- Ausblendbare KI-Hinweise zur Darstellung (z. B. Abwertung, Ironie oder Pauschalisierung) sind von der sachlichen Bewertung getrennt und zählen nicht als Faktenfehler.
+- Den Stand von Build und Veröffentlichung zeigen die [GitHub-Actions-Läufe](https://github.com/4m3projects/politik4m3FaktencheckUngeskriptet/actions).
 
 ## Mitwirken und Technik
 
