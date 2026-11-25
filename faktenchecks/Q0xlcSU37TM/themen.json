@@ -1,0 +1,81 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Q0xlcSU37TM",
+  "basis": "Zuordnung der eigenen Teilprüfungen zu vorhandenen Themen; keine Vollzählung der Folge.",
+  "topics": [
+    {
+      "topic": "migration",
+      "relevance": "Schwerpunkt",
+      "basis": "Mehrere Kernbehauptungen zu Migration und Grenzsteuerung 2015/16.",
+      "segments": []
+    },
+    {
+      "topic": "asyl",
+      "relevance": "Behandelt",
+      "basis": "Mehrere Aussagen zu Dublin III, Schutzsuchenden und der Westbalkanroute.",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "Q0xlcSU37TM-A0008",
+      "topics": [
+        "migration",
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0009",
+      "topics": [
+        "migration",
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0010",
+      "topics": [
+        "migration",
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0011",
+      "topics": [
+        "migration"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0012",
+      "topics": [
+        "migration"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0013",
+      "topics": [
+        "migration",
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0014",
+      "topics": [
+        "migration",
+        "asyl"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0015",
+      "topics": [
+        "migration"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-25",
+      "agent": "Kai",
+      "change": "Erstzuordnung der Aussagen zur Migration, zum Asyl und zu Dublin III."
+    }
+  ]
+}
