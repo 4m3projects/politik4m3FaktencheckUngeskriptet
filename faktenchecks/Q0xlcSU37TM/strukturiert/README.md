@@ -13,8 +13,8 @@ Stand: 2026-11-25 · Video: Q0xlcSU37TM
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
 - Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 30
-- Abgeschlossen: 25
-- Offen (noch nicht geprueft): 5
+- Abgeschlossen: 26
+- Offen (noch nicht geprueft): 4
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
 - Erfasste Behauptungsvorkommen: 34
@@ -30,17 +30,17 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 24 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 25 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 17 | 70.8 % |
-| Teilweise belegt | 2 | 8.3 % |
-| Irreführend / Kontext fehlt | 4 | 16.7 % |
+| Belegt | 17 | 68.0 % |
+| Teilweise belegt | 4 | 16.0 % |
+| Irreführend / Kontext fehlt | 3 | 12.0 % |
 | Widerlegt | 0 | 0.0 % |
-| Nicht ausreichend belegbar | 1 | 4.2 % |
+| Nicht ausreichend belegbar | 1 | 4.0 % |
 | Meinung / Prognose | 1 | nicht anwendbar |
 
 Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei Nenner null sind Tatsachenprozente nicht anwendbar. Rundungsdifferenzen sind moeglich. Keine Gesamtnote und keine Hochrechnung auf das Video.

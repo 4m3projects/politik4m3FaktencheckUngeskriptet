@@ -55,7 +55,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die Gründer hätten zu Beginn 20 Millionen an Kapital für ihr Unternehmen eingeworben.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -74,22 +74,28 @@ Zeitgrundlage: Anker aus dem deutschen Originaltranskript im YouTube-Player; ger
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Währung, genaue Runde und primärer Nachweis für ihre Höhe werden getrennt verifiziert.
+Zeitgenössisch wurden 20 Millionen US-Dollar für eine frühe Runde berichtet. Group 11 bestätigt das erste Investment 2022 und seine führende Rolle in der Seedrunde, nennt in seiner eigenen Darstellung aber keinen Betrag. Die Höhe ist damit gut berichtet, ohne zugängliche Finanzierungsunterlagen aber nicht unabhängig bestätigt. Einzelheiten zur juristischen Struktur der Runde gehen aus der Interviewstelle nicht hervor.
 
-Grundlage der Bewertung: [Kai] Deutsche automatische Original-Textstellen im Anschlusskontext gelesen; Sachprüfung nicht abgeschlossen.
+Grundlage der Bewertung: [Kai] Deutsche Originaltextstelle sowie Darstellung des Investors und zeitgenössischen Bericht gelesen.
 
 Uebernahme: Direkter Teilbestand aus deutschen Originaltextstellen; keine Altpunkte.
 
-Bewertungsuebergang: [Kai] Neue offene Prüfstelle.
+Bewertungsuebergang: [Kai] Offenen Prüfpunkt nach Quellenabgleich erstmals bewertet.
 
 ### Zugeordnete Quellen
 
 - [Originalvideo: {ungeskriptet} mit Sebastian Kurz](https://www.youtube.com/watch?v=Q0xlcSU37TM) · 25.11.2026, 1:52:16.
   Quellenzugriff am 2026-11-25. Deutsche automatische Transkriptspur im Originalplayer geöffnet und ausgewählte Stellen samt Anschlusskontext gelesen. Metadaten aus dem Originalplayer. Keine vollständige Ton- oder Bildkontrolle. Identifikation, Wortlautbezug und Position; kein unabhängiger Sachbeleg.
 
+- [Group 11: Dream](https://group11.vc/portfolio/dream/) · Der Investor nennt 2022 als Jahr des ersten Investments und gibt an, die Seedrunde angeführt zu haben. Kein Betrag für diese Runde.
+  Quellenzugriff am 2026-11-25. Relevante Passage in der veröffentlichten Quelle gelesen. Der Investor nennt 2022 als Jahr des ersten Investments und gibt an, die Seedrunde angeführt zu haben. Kein Betrag für diese Runde.
+
+- [Globes: Gründung von Dream Security, 12.10.2022](https://en.globes.co.il/en/article-former-nso-ceo-and-ex-austrian-chancellor-found-startup-1001426631) · Zeitgenössischer Bericht nennt 20 Mio. US-Dollar in einer frühen Runde und führt direkte Aussagen der Gründer an. Kein Einblick in die Finanzierungsunterlagen.
+  Quellenzugriff am 2026-11-25. Relevante Passage in der veröffentlichten Quelle gelesen. Zeitgenössischer Bericht nennt 20 Mio. US-Dollar in einer frühen Runde und führt direkte Aussagen der Gründer an. Kein Einblick in die Finanzierungsunterlagen.
+
 ### Offene Fragen und Unsicherheiten
 
-- Gibt es eine öffentlich kontrollierbare Mitteilung des federführenden Investors oder eine Einreichung zur ursprünglichen Runde?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## Q0xlcSU37TM-A0022
 

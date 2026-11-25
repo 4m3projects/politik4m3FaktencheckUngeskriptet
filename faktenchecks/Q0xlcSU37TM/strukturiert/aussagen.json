@@ -246,6 +246,46 @@
       "details": "Endgültiger Stichtagswert 01.01.2026: 9.215.956 Einwohnerinnen und Einwohner.",
       "accessedOn": "2026-11-25",
       "accessBasis": "Relevante frei zugängliche Primärquelle im ausgegebenen Wortlaut bzw. in der angegebenen Tabelle gelesen."
+    },
+    {
+      "id": "S030",
+      "title": "Group 11: Dream",
+      "url": "https://group11.vc/portfolio/dream/",
+      "details": "Der Investor nennt 2022 als Jahr des ersten Investments und gibt an, die Seedrunde angeführt zu haben. Kein Betrag für diese Runde.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Relevante Passage in der veröffentlichten Quelle gelesen."
+    },
+    {
+      "id": "S031",
+      "title": "Globes: Gründung von Dream Security, 12.10.2022",
+      "url": "https://en.globes.co.il/en/article-former-nso-ceo-and-ex-austrian-chancellor-found-startup-1001426631",
+      "details": "Zeitgenössischer Bericht nennt 20 Mio. US-Dollar in einer frühen Runde und führt direkte Aussagen der Gründer an. Kein Einblick in die Finanzierungsunterlagen.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Relevante Passage in der veröffentlichten Quelle gelesen."
+    },
+    {
+      "id": "S032",
+      "title": "OLG Graz, Disziplinarentscheidung 112 Ds 3/19z vom 23.05.2023",
+      "url": "https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20230523_OLG0639_1120DS00003_19Z0000_000/JJT_20230523_OLG0639_1120DS00003_19Z0000_000.pdf#page=10",
+      "details": "Anonymisiertes Urteil, Spruch zu Punkt 2 und S. 9–10: mündliche Information über eine Weisung zur Rückgabe; keine Ausfolgung der Weisung, keine Kopie, keine Einsicht.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Relevante Passage in der veröffentlichten Quelle gelesen."
+    },
+    {
+      "id": "S033",
+      "title": "Österreichischer Nationalrat: Befragung von Michael Radasztics",
+      "url": "https://www.parlament.gv.at/dokument/XXVI/KOMM/256/fnameorig_760835.html",
+      "details": "Benannte Beteiligte und übereinstimmendes Datum 20.12.2018; Kontext und Gegenstand der Besprechung zur Aktenrückgabe.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Relevante Passage in der veröffentlichten Quelle gelesen."
+    },
+    {
+      "id": "S034",
+      "title": "Kurier: Radasztics bestätigt die Disziplinarentscheidung",
+      "url": "https://kurier.at/politik/inland/richter-radasztics-bereits-im-mai-zu-disziplinarstrafe-verurteilt/402795814",
+      "details": "Bestätigung der Identität und Disziplinarentscheidung durch den Betroffenen gegenüber der Redaktion; kein eigenständiger Gerichtsbeleg.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Relevante Passage in der veröffentlichten Quelle gelesen."
     }
   ],
   "speakers": [
@@ -854,15 +894,15 @@
       "chapter": 3,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Während der beschriebenen Flüchtlingskrise seien Zehntausende im Mittelmeer gestorben.",
-      "status": "Abgeschlossen",
-      "verdict": "Irreführend / Kontext fehlt",
-      "reason": "Kurz nennt keine exakten Jahresgrenzen. Für die im Abschnitt behandelten Jahre 2015 und 2016 nennt die IOM rund 3.770 sowie etwas mehr als 5.000 Tote und Vermisste, nicht Zehntausende. Über einen deutlich längeren Zeitraum seit 2014 dokumentiert die IOM tatsächlich mehr als 20.000. Die Zahlen sind dokumentierte Mindestwerte, nicht die vollständige Zahl aller Todesfälle.",
-      "assessmentBasis": "[Kai] Deutsche automatische Original-Textstellen im Anschlusskontext gelesen; angegebene Sachquellen für die konkrete Paraphrase geprüft.",
+      "description": "Kurz nennt eine Zahl zu Todesfällen im Mittelmeer in der beschriebenen Krisenzeit; die genaue Zahl ist noch abzugleichen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – das automatische YouTube-Transkript gibt eine Mehrzahl von Zehntausend wieder; der ergänzende automatische Abgleich mit der deutschen Podcastspur liefert je nach Lauf entweder diese Lesart oder 10.000. Für 2015 und 2016 dokumentiert die IOM zusammen rund 9.000 Tote und Vermisste. Diese Größenordnung ist Kontext, keine Bewertung des unklaren Wortlauts.",
+      "assessmentBasis": "[Kai] Deutsches YouTube-Transkript und mehrere lokale automatische Umschriften der entsprechenden Passage des offiziellen Podcast-Audios verglichen. Keine hinreichend sichere Hörbestätigung des Zahlenwortlauts.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkter Teilbestand aus deutschen Originaltextstellen; keine Altpunkte.",
-        "assessmentChange": "[Kai] Neue eigene Prüfung."
+        "assessmentChange": "[Kai] Zahlenurteil nach widersprüchlichen automatischen Umschriften zurückgenommen. Sache bleibt offen bis zur Hörkontrolle."
       },
       "sourceRefs": [
         {
@@ -882,7 +922,9 @@
           "note": "Mehr als 20.000 registrierte Tote im Mittelmeer über einen längeren Zeitraum seit 2014; unterschiedliche Definitionen und Zeiträume."
         }
       ],
-      "openQuestions": [],
+      "openQuestions": [
+        "Sagt Kurz an dieser Stelle 10.000 oder Zehntausende, und welchen Zeitraum meint er mit dieser Zeit? Originalton gezielt abhören, bevor der Zahlenwortlaut bewertet wird."
+      ],
       "occurrences": [
         {
           "id": "Q0xlcSU37TM-O0013",
@@ -903,7 +945,6 @@
         }
       ],
       "relations": [],
-      "shortReason": "Für 2015 und 2016 dokumentiert die IOM zusammen rund 9.000 Tote und Vermisste; Zehntausende ergeben sich erst über mehr Jahre.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Sebastian Kurz",
@@ -1483,24 +1524,30 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Gründer hätten zu Beginn 20 Millionen an Kapital für ihr Unternehmen eingeworben.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Währung, genaue Runde und primärer Nachweis für ihre Höhe werden getrennt verifiziert.",
-      "assessmentBasis": "[Kai] Deutsche automatische Original-Textstellen im Anschlusskontext gelesen; Sachprüfung nicht abgeschlossen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Zeitgenössisch wurden 20 Millionen US-Dollar für eine frühe Runde berichtet. Group 11 bestätigt das erste Investment 2022 und seine führende Rolle in der Seedrunde, nennt in seiner eigenen Darstellung aber keinen Betrag. Die Höhe ist damit gut berichtet, ohne zugängliche Finanzierungsunterlagen aber nicht unabhängig bestätigt. Einzelheiten zur juristischen Struktur der Runde gehen aus der Interviewstelle nicht hervor.",
+      "assessmentBasis": "[Kai] Deutsche Originaltextstelle sowie Darstellung des Investors und zeitgenössischen Bericht gelesen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkter Teilbestand aus deutschen Originaltextstellen; keine Altpunkte.",
-        "assessmentChange": "[Kai] Neue offene Prüfstelle."
+        "assessmentChange": "[Kai] Offenen Prüfpunkt nach Quellenabgleich erstmals bewertet."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
           "note": "Identifikation, Wortlautbezug und Position; kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S030",
+          "note": "Der Investor nennt 2022 als Jahr des ersten Investments und gibt an, die Seedrunde angeführt zu haben. Kein Betrag für diese Runde."
+        },
+        {
+          "sourceId": "S031",
+          "note": "Zeitgenössischer Bericht nennt 20 Mio. US-Dollar in einer frühen Runde und führt direkte Aussagen der Gründer an. Kein Einblick in die Finanzierungsunterlagen."
         }
       ],
-      "openQuestions": [
-        "Gibt es eine öffentlich kontrollierbare Mitteilung des federführenden Investors oder eine Einreichung zur ursprünglichen Runde?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "Q0xlcSU37TM-O0025",
@@ -1529,7 +1576,8 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
-      }
+      },
+      "shortReason": "Ein zeitgenössischer Bericht nennt 20 Mio. US-Dollar; der Investor bestätigt die frühe Runde, aber nicht öffentlich ihren Betrag."
     },
     {
       "id": "Q0xlcSU37TM-A0022",
@@ -1769,29 +1817,43 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der Erstrichter sei in einem anderen Zusammenhang wegen Weitergabe von Akten disziplinarisch belangt worden.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Mitteilung zur Berufung entscheidet über Befangenheit in diesem Verfahren, aber belegt keine gesonderte Disziplinarentscheidung. Die Aussage wird nicht als bestätigt wiedergegeben.",
-      "assessmentBasis": "[Kai] Deutsche automatische Original-Textstellen im Anschlusskontext gelesen; Sachprüfung nicht abgeschlossen.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der spätere Erstrichter wurde für zwei Pflichtverletzungen aus seiner früheren Tätigkeit als Staatsanwalt disziplinarisch belangt. Eine davon: Er informierte einen Abgeordneten mündlich über eine Weisung zur Rückgabe von Aktenstücken. Laut Urteil übergab er weder die Weisung noch eine Kopie und gewährte keinen Einblick. Die Identität ist durch das namentliche Ausschussprotokoll zum selben Vorgang und die Bestätigung des Betroffenen gestützt. Im getrennten Falschaussage-Verfahren stellte das OLG Wien keine Befangenheit des Erstrichters fest.",
+      "assessmentBasis": "[Kai] Deutsches Originaltranskript und unabhängige lokale automatische Umschrift derselben Podcast-Passage stimmen beim Ausdruck zur Aktenweitergabe überein; zusätzlich Gerichtsentscheidung und Identitätsabgleich. Keine akustische Identifizierung behauptet.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkter Teilbestand aus deutschen Originaltextstellen; keine Altpunkte.",
-        "assessmentChange": "[Kai] Neue offene Prüfstelle."
+        "assessmentChange": "[Kai] Offenen Prüfpunkt nach Quellenabgleich erstmals bewertet."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
           "note": "Identifikation, Wortlautbezug und Position; kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S032",
+          "note": "Anonymisiertes Urteil, Spruch zu Punkt 2 und S. 9–10: mündliche Information über eine Weisung zur Rückgabe; keine Ausfolgung der Weisung, keine Kopie, keine Einsicht."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Benannte Beteiligte und übereinstimmendes Datum 20.12.2018; Kontext und Gegenstand der Besprechung zur Aktenrückgabe."
+        },
+        {
+          "sourceId": "S034",
+          "note": "Bestätigung der Identität und Disziplinarentscheidung durch den Betroffenen gegenüber der Redaktion; kein eigenständiger Gerichtsbeleg."
+        },
+        {
+          "sourceId": "S028",
+          "note": "Gerichtliche Mitteilung zum Urteil, zur entscheidenden ÖBAG-Frage und zur Befangenheit."
         }
       ],
-      "openQuestions": [
-        "Ist eine einschlägige öffentliche Disziplinarentscheidung oder amtliche Zusammenfassung eindeutig identifizierbar?"
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "Q0xlcSU37TM-O0030",
-          "startSeconds": 6141,
-          "endSeconds": 6172,
+          "startSeconds": 6157,
+          "endSeconds": 6168,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP02",
@@ -1802,8 +1864,15 @@
           "roleStatus": "Plausibel",
           "roleBasis": "Im unmittelbaren Textkontext als eigene Aussage erkennbar; die Prüfung gilt der sinngemäßen Tatsachenaussage.",
           "note": "Textlich kontrollierte Fundstelle, eigenständige Paraphrase.",
-          "timeBasis": "Anker aus dem deutschen Originaltranskript im YouTube-Player; gerundeter Kontextbereich, keine gemessene Satzgrenze.",
-          "timeHistory": []
+          "timeBasis": "Deutsches YouTube-Transkript und ergänzende lokal automatisch erzeugte Podcast-Umschrift; ungefährer Bereich.",
+          "timeHistory": [
+            {
+              "startSeconds": 6141,
+              "endSeconds": 6172,
+              "precision": "Ungefähr",
+              "basis": "Ursprüngliches Suchfenster aus dem YouTube-Text."
+            }
+          ]
         }
       ],
       "relations": [],
@@ -1815,7 +1884,8 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
-      }
+      },
+      "shortReason": "Die Disziplinarstrafe ist belegt; das Urteil dokumentiert eine mündliche Auskunft, keine Übergabe der Weisung oder einer Kopie."
     },
     {
       "id": "Q0xlcSU37TM-A0027",

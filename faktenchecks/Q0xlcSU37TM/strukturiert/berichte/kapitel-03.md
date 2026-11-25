@@ -174,9 +174,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Während der beschriebenen Flüchtlingskrise seien Zehntausende im Mittelmeer gestorben.
+**Eigene Beschreibung:** Kurz nennt eine Zahl zu Todesfällen im Mittelmeer in der beschriebenen Krisenzeit; die genaue Zahl ist noch abzugleichen.
 
-Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -195,13 +195,13 @@ Zeitgrundlage: Anker aus dem deutschen Originaltranskript im YouTube-Player; ger
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Kurz nennt keine exakten Jahresgrenzen. Für die im Abschnitt behandelten Jahre 2015 und 2016 nennt die IOM rund 3.770 sowie etwas mehr als 5.000 Tote und Vermisste, nicht Zehntausende. Über einen deutlich längeren Zeitraum seit 2014 dokumentiert die IOM tatsächlich mehr als 20.000. Die Zahlen sind dokumentierte Mindestwerte, nicht die vollständige Zahl aller Todesfälle.
+Noch nicht geprüft – das automatische YouTube-Transkript gibt eine Mehrzahl von Zehntausend wieder; der ergänzende automatische Abgleich mit der deutschen Podcastspur liefert je nach Lauf entweder diese Lesart oder 10.000. Für 2015 und 2016 dokumentiert die IOM zusammen rund 9.000 Tote und Vermisste. Diese Größenordnung ist Kontext, keine Bewertung des unklaren Wortlauts.
 
-Grundlage der Bewertung: [Kai] Deutsche automatische Original-Textstellen im Anschlusskontext gelesen; angegebene Sachquellen für die konkrete Paraphrase geprüft.
+Grundlage der Bewertung: [Kai] Deutsches YouTube-Transkript und mehrere lokale automatische Umschriften der entsprechenden Passage des offiziellen Podcast-Audios verglichen. Keine hinreichend sichere Hörbestätigung des Zahlenwortlauts.
 
 Uebernahme: Direkter Teilbestand aus deutschen Originaltextstellen; keine Altpunkte.
 
-Bewertungsuebergang: [Kai] Neue eigene Prüfung.
+Bewertungsuebergang: [Kai] Zahlenurteil nach widersprüchlichen automatischen Umschriften zurückgenommen. Sache bleibt offen bis zur Hörkontrolle.
 
 ### Zugeordnete Quellen
 
@@ -219,7 +219,7 @@ Bewertungsuebergang: [Kai] Neue eigene Prüfung.
 
 ### Offene Fragen und Unsicherheiten
 
-Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+- Sagt Kurz an dieser Stelle 10.000 oder Zehntausende, und welchen Zeitraum meint er mit dieser Zeit? Originalton gezielt abhören, bevor der Zahlenwortlaut bewertet wird.
 
 ## Q0xlcSU37TM-A0012
 

@@ -145,11 +145,11 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Erstrichter sei in einem anderen Zusammenhang wegen Weitergabe von Akten disziplinarisch belangt worden.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
-- [01:42:21–01:42:52](https://www.youtube.com/watch?v=Q0xlcSU37TM&t=6141s) · nicht bestaetigt; Kandidat: Sebastian Kurz · Behauptung · Ungefähr
+- [01:42:37–01:42:48](https://www.youtube.com/watch?v=Q0xlcSU37TM&t=6157s) · nicht bestaetigt; Kandidat: Sebastian Kurz · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Rolle, Frage-Antwort-Abfolge und Selbstbezug im deutschen Originaltranskript. Keine akustische Bestätigung.
@@ -160,26 +160,40 @@ Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestae
 
 Fundstellenhinweis: Textlich kontrollierte Fundstelle, eigenständige Paraphrase.
 
-Zeitgrundlage: Anker aus dem deutschen Originaltranskript im YouTube-Player; gerundeter Kontextbereich, keine gemessene Satzgrenze.
+Zeitgrundlage: Deutsches YouTube-Transkript und ergänzende lokal automatisch erzeugte Podcast-Umschrift; ungefährer Bereich.
+
+Frueherer Suchbereich: [01:42:21–01:42:52](https://www.youtube.com/watch?v=Q0xlcSU37TM&t=6141s), Ungefähr. Ursprüngliches Suchfenster aus dem YouTube-Text.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Mitteilung zur Berufung entscheidet über Befangenheit in diesem Verfahren, aber belegt keine gesonderte Disziplinarentscheidung. Die Aussage wird nicht als bestätigt wiedergegeben.
+Der spätere Erstrichter wurde für zwei Pflichtverletzungen aus seiner früheren Tätigkeit als Staatsanwalt disziplinarisch belangt. Eine davon: Er informierte einen Abgeordneten mündlich über eine Weisung zur Rückgabe von Aktenstücken. Laut Urteil übergab er weder die Weisung noch eine Kopie und gewährte keinen Einblick. Die Identität ist durch das namentliche Ausschussprotokoll zum selben Vorgang und die Bestätigung des Betroffenen gestützt. Im getrennten Falschaussage-Verfahren stellte das OLG Wien keine Befangenheit des Erstrichters fest.
 
-Grundlage der Bewertung: [Kai] Deutsche automatische Original-Textstellen im Anschlusskontext gelesen; Sachprüfung nicht abgeschlossen.
+Grundlage der Bewertung: [Kai] Deutsches Originaltranskript und unabhängige lokale automatische Umschrift derselben Podcast-Passage stimmen beim Ausdruck zur Aktenweitergabe überein; zusätzlich Gerichtsentscheidung und Identitätsabgleich. Keine akustische Identifizierung behauptet.
 
 Uebernahme: Direkter Teilbestand aus deutschen Originaltextstellen; keine Altpunkte.
 
-Bewertungsuebergang: [Kai] Neue offene Prüfstelle.
+Bewertungsuebergang: [Kai] Offenen Prüfpunkt nach Quellenabgleich erstmals bewertet.
 
 ### Zugeordnete Quellen
 
 - [Originalvideo: {ungeskriptet} mit Sebastian Kurz](https://www.youtube.com/watch?v=Q0xlcSU37TM) · 25.11.2026, 1:52:16.
   Quellenzugriff am 2026-11-25. Deutsche automatische Transkriptspur im Originalplayer geöffnet und ausgewählte Stellen samt Anschlusskontext gelesen. Metadaten aus dem Originalplayer. Keine vollständige Ton- oder Bildkontrolle. Identifikation, Wortlautbezug und Position; kein unabhängiger Sachbeleg.
 
+- [OLG Graz, Disziplinarentscheidung 112 Ds 3/19z vom 23.05.2023](https://www.ris.bka.gv.at/Dokumente/Justiz/JJT_20230523_OLG0639_1120DS00003_19Z0000_000/JJT_20230523_OLG0639_1120DS00003_19Z0000_000.pdf#page=10) · Anonymisiertes Urteil, Spruch zu Punkt 2 und S. 9–10: mündliche Information über eine Weisung zur Rückgabe; keine Ausfolgung der Weisung, keine Kopie, keine Einsicht.
+  Quellenzugriff am 2026-11-25. Relevante Passage in der veröffentlichten Quelle gelesen. Anonymisiertes Urteil, Spruch zu Punkt 2 und S. 9–10: mündliche Information über eine Weisung zur Rückgabe; keine Ausfolgung der Weisung, keine Kopie, keine Einsicht.
+
+- [Österreichischer Nationalrat: Befragung von Michael Radasztics](https://www.parlament.gv.at/dokument/XXVI/KOMM/256/fnameorig_760835.html) · Benannte Beteiligte und übereinstimmendes Datum 20.12.2018; Kontext und Gegenstand der Besprechung zur Aktenrückgabe.
+  Quellenzugriff am 2026-11-25. Relevante Passage in der veröffentlichten Quelle gelesen. Benannte Beteiligte und übereinstimmendes Datum 20.12.2018; Kontext und Gegenstand der Besprechung zur Aktenrückgabe.
+
+- [Kurier: Radasztics bestätigt die Disziplinarentscheidung](https://kurier.at/politik/inland/richter-radasztics-bereits-im-mai-zu-disziplinarstrafe-verurteilt/402795814) · Bestätigung der Identität und Disziplinarentscheidung durch den Betroffenen gegenüber der Redaktion; kein eigenständiger Gerichtsbeleg.
+  Quellenzugriff am 2026-11-25. Relevante Passage in der veröffentlichten Quelle gelesen. Bestätigung der Identität und Disziplinarentscheidung durch den Betroffenen gegenüber der Redaktion; kein eigenständiger Gerichtsbeleg.
+
+- [Oberlandesgericht Wien: Rechtskräftiger Freispruch vom 26. Mai 2025](https://www.justiz.gv.at/file/2c92fd157f9874e501806f4e62da09ad.de.0/presseaussendung%20kurz%20und%20bonelli.pdf?forcedownload=true) · Gerichtliche Mitteilung zum Urteil, zur entscheidenden ÖBAG-Frage und zur Befangenheit.
+  Quellenzugriff am 2026-11-25. Relevante frei zugängliche Primärquelle im ausgegebenen Wortlaut bzw. in der angegebenen Tabelle gelesen. Gerichtliche Mitteilung zum Urteil, zur entscheidenden ÖBAG-Frage und zur Befangenheit.
+
 ### Offene Fragen und Unsicherheiten
 
-- Ist eine einschlägige öffentliche Disziplinarentscheidung oder amtliche Zusammenfassung eindeutig identifizierbar?
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ## Q0xlcSU37TM-A0027
 
