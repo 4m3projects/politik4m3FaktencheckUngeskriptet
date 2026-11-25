@@ -52,8 +52,8 @@ jobs:
             }
           }
 
-      - name: Berichtssprungmarken prüfen
-        run: node --test site/report-anchor-test.js
+      - name: Berichts- und Tastatursprünge prüfen
+        run: node --test site/report-anchor-test.js site/skip-link-test.js
 
       - name: Synchronisationslogik testen
         run: node --test site/sync-test.js
