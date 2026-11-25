@@ -331,7 +331,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Fotoverbotsdialog wird mit Fragen und Reaktionen des Hosts wiedergegeben.
 
-Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -350,26 +350,32 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Vorläufiger Befund [Codex]: offen. Die relevanten Originaluntertitel sind in der Reaktion wiedererkennbar. Der Originalcheck A0142 behandelt eine Hostfrage und eine mögliche Zustimmung des Gasts. Ohne akustische Kontrolle keine abschließende Sprecher-/Schnittzuordnung; Ben wird nicht für unkommentierte Gastbehauptungen verantwortlich gemacht.
+Die Reaktion gibt den einschlägigen Dialog wieder: Fragen und die zugespitzte Illegalitätsfolgerung des Hosts sind in der eingeblendeten Textfassung ausdrücklich Ben zugeordnet; die anschließende Erklärung zu Brennereien und Feuerschutz ist Lüning zugeordnet. Die automatische Originaltextstelle 01:00:41–01:01:50 enthält denselben Gesprächsablauf. Das am Reaktionsbild bei 02:18 gelesene Sprecherlabel stützt die korrekte Zuschreibung in der Reaktion. Dies bestätigt die Wiedergabe, nicht das Bestehen eines allgemeinen gesetzlichen Fotoverbots. Die kurzen zustimmenden Laute und ihre genaue Stimme bleiben ohne eigene Hörkontrolle unbestätigt; Ben wird nicht mit der unkommentierten Gastbehauptung gleichgesetzt.
 
-Grundlage der Bewertung: Vorläufige Quellenprüfung durch Codex am 18.11.2026 anhand des verfügbaren Untertitelmaterials und der genannten Quellen; keine audiovisuelle Sichtung, keine redaktionelle Zweitprüfung.
+Grundlage der Bewertung: [Codex] 20.11.2026: beide bezeichneten Originaltextabschnitte selbst erneut gelesen und das Reaktionsstandbild bei 02:18 einschließlich eingeblendeter Ben-/Lüning-Zuordnung gesehen. vidIQ-Szenenanalyse nur als zusätzliche Suchhilfe. Keine durchgehende eigene Hörprüfung; Zuschreibung kurzer Laute weiterhin plausibel statt bestätigt.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0030 (Art: wiedergabe) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung.
+Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Vorläufiger Befund [Codex]: offen. Die relevanten Originaluntertitel sind in der Reaktion wiedererkennbar. Der Originalcheck A0142 behandelt eine Hostfrage und eine mögliche Zustimmung des Gasts. Ohne akustische Kontrolle keine abschließende Sprecher-/Schnittzuordnung; Ben wird nicht für unkommentierte Gastbehauptungen verantwortlich gemacht.","sourceIds":["S001","S020"]}. Jetzt Abgeschlossen / Belegt. Die Reaktion gibt den einschlägigen Dialog wieder: Fragen und die zugespitzte Illegalitätsfolgerung des Hosts sind in der eingeblendeten Textfassung ausdrücklich Ben zugeordnet; die anschließende Erklärung zu Brennereien und Feuerschutz ist Lüning zugeordnet. Die automatische Originaltextstelle 01:00:41–01:01:50 enthält denselben Gesprächsablauf. Das am Reaktionsbild bei 02:18 gelesene Sprecherlabel stützt die korrekte Zuschreibung in der Reaktion. Dies bestätigt die Wiedergabe, nicht das Bestehen eines allgemeinen gesetzlichen Fotoverbots. Die kurzen zustimmenden Laute und ihre genaue Stimme bleiben ohne eigene Hörkontrolle unbestätigt; Ben wird nicht mit der unkommentierten Gastbehauptung gleichgesetzt.
 
 ### Zugeordnete Quellen
 
 - [Alfred-Upload und YouTube-oEmbed](https://www.youtube.com/watch?v=sLMyP0H7tSY) · YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.
-  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. [Codex] 20.11.2026: Beschreibung vollständig sowie ausgewählte Grafiken/Dialogscreenshot bei den in A0026/A0030 genannten Zeiten selbst gelesen/gesehen; ergänzende vidIQ-Szenenanalyse nur als Suchhilfe, keine vollständige eigene Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 - [Originalinterview](https://www.youtube.com/watch?v=mlxFA9T88I0) · Relevante Original-Untertitelpassagen erneut gelesen; keine direkte akustische Sprecherkontrolle und keine neue Vollprüfung des dreistündigen Interviews.
-  Quellenzugriff am 2026-11-20. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. [Codex] 20.11.2026: Originaltext 00:40:20–00:41:10 und 01:00:04–01:01:08 einschließlich Rückfragen selbst erneut gelesen, um die wiedergegebene Selbstauskunft abzugleichen; keine Hör-/Sichtkontrolle oder externe Bestätigung der Kennzahlen. Von Codex für diesen Prüfeintrag herangezogen; Reichweite siehe Begründung.
+  Quellenzugriff am 2026-11-20. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. [Codex] 20.11.2026: Originaltext 00:40:20–00:41:10 und 01:00:04–01:01:08 einschließlich Rückfragen selbst erneut gelesen, um die wiedergegebene Selbstauskunft abzugleichen; keine Hör-/Sichtkontrolle oder externe Bestätigung der Kennzahlen. [Codex] 20.11.2026: Originaltext 01:00:41–01:01:50 für A0030 erneut verglichen; kurze Sprecherreaktionen nicht akustisch bestätigt. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
-- Der Sachkern ist mit den gelesenen Quellen noch nicht geklärt; siehe Begründung.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
-- Audiovisuelle Kontrolle der Fundstelle und redaktionelle Zweitprüfung des vorläufigen Befunds.
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-20 (Codex): Nach UG-/HP-Suche zur Fotoverbotsfrage Reaktion 01:46–02:59 und Original 01:00:41–01:01:50 mit Original A0140/A0142/A0143 vergleichen. Gepruefte Quellen: S001, S020. Ergebnis: Frage des Hosts, Sachbehauptung des Gasts und deren Wiedergabe getrennt.
+
+- Durchgang 2 am 2026-11-20 (Codex): Anderer Abgleich: eingeblendete Sprecherlabels am pausierten Originalbild bei 02:18 direkt lesen; ergänzende vidIQ-Szenenanalyse gegen Text und Bild abgrenzen. Gepruefte Quellen: S001. Ergebnis: Reaktionsbild bezeichnet Ben und Lüning getrennt. Keine Bestätigung einer konkreten Stimme oder rechtlichen Verbotslage.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

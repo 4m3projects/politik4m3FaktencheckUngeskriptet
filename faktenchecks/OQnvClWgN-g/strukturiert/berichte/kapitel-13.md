@@ -1,8 +1,8 @@
 # Kapitel 13: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand mit 40 Prüfgegenständen; zehn neue Original-Sachprüfungen vom 24.11.2026. Keine vollständige Erfassung des 3:21-Stunden-Interviews. Weitere unabhängige Sachkerne aus den noch dünn erfassten Abschnitten sowie Hör-/Sichtabgleich stehen aus. Historische Gruppenpositionen bleiben Suchhilfen, keine übernommenen Urteile. Keine Hochrechnung und keine Gesamtfehlerquote des Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 77 Prüfgegenständen. Neue Suchfenster verteilen sich über Geldgeschichte, Wirtschaft, Staatsaufgaben, Klima und Recht. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert. [Codex] 24.11.2026: Originaltext direkt im YouTube-Player erschlossen und zehn weitere Sachbehauptungen gegen neu gelesene amtliche und wissenschaftliche Quellen geprüft. Das Schreiben des Draghi-Crash 2015/16 wird nicht als Veröffentlichung in diesen Jahren fehlgedeutet. Keine früheren Urteile geändert; neue Aussagen ohne direkte Reaktionsverknüpfung.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert. [Codex] 24.11.2026: Originaltext direkt im YouTube-Player erschlossen und zehn weitere Sachbehauptungen gegen neu gelesene amtliche und wissenschaftliche Quellen geprüft. Das Schreiben des Draghi-Crash 2015/16 wird nicht als Veröffentlichung in diesen Jahren fehlgedeutet. Keine früheren Urteile geändert; neue Aussagen ohne direkte Reaktionsverknüpfung. [Codex] 24.11.2026, erweiterte Fortsetzung: 37 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der übernommenen, am 24.11. begonnenen Erweiterung; alle 40 vorher publizierten Aussagen unverändert. China-Paraphrase enger am automatischen Wortlaut, DAX-Passage nach erneuter Originaltext- und Normlektüre präzisiert. Quellenprüfung der übrigen neuen Aussagen als dokumentierte Vorarbeit vom 24.11. übernommen; keine neue Vollsichtung behauptet.
 
 ## OQnvClWgN-g-A0011
 
@@ -154,5 +154,157 @@ Fehlende Information: Definierte deutsche Politikerpopulation, Erhebungszeitpunk
 - Durchgang 1 am 2026-11-19 (Codex): UG/HP sowie deutsch-/englischsprachig nach Politikerselektion, Intelligenz und Deutschland gesucht; Originalumfeld und Datengrundlage der schwedischen Originalstudie gelesen. Gepruefte Quellen: S001, S047. Ergebnis: Die Studie erlaubt keinen deutschen Mittelwertvergleich.
 
 - Durchgang 2 am 2026-11-19 (Codex): Gezielt nach deutschen Politiker-IQ-Erhebungen und Messung statt Image gesucht; Frage und Methode der YouGov-Originalauswertung gelesen. Gepruefte Quellen: S048. Ergebnis: Gefundene deutsche Erhebung betrifft Wahrnehmungen und belegt keine durchschnittliche Testintelligenz.
+
+## OQnvClWgN-g-A0055
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Ron Paul sei US-Senator gewesen.
+
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:32:30–01:32:52](https://www.youtube.com/watch?v=OQnvClWgN-g&t=5550s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das amtliche Verzeichnis des Repräsentantenhauses weist Ron Paul als Abgeordneten aus Texas aus. Seine Bewerbung um die Senatsnominierung 1984 blieb erfolglos. Nicht zu verwechseln ist er mit seinem Sohn Rand Paul. Die Korrektur des Amtes entscheidet nicht über die politische Bewertung des anschließend wiedergegebenen Entwicklungshilfe-Spruchs.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [US House of Representatives: PAUL, Ronald Ernest](https://history.house.gov/People/Detail/20005) · Amtliches biografisches Verzeichnis des Repräsentantenhauses.
+  Quellenzugriff am 2026-11-24. Mandate im Repräsentantenhaus und erfolglose Bewerbung um die Senatsnominierung 1984 gelesen. Mandate im Repräsentantenhaus und erfolglose Bewerbung um die Senatsnominierung 1984 gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S063, S082. Ergebnis: Das amtliche Verzeichnis des Repräsentantenhauses weist Ron Paul als Abgeordneten aus Texas aus. Seine Bewerbung um die Senatsnominierung 1984 blieb erfolglos. Nicht zu verwechseln ist er mit seinem Sohn Rand Paul. Die Korrektur des Amtes entscheidet nicht über die politische Bewertung des anschließend wiedergegebenen Entwicklungshilfe-Spruchs.
+
+## OQnvClWgN-g-A0056
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Bildung sei ausschließlich Aufgabe der Länder, deshalb brauche der Bund dafür keinen entsprechenden Etat.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:33:08–01:34:00](https://www.youtube.com/watch?v=OQnvClWgN-g&t=5588s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Länder haben die wesentliche Zuständigkeit für Schulen. Artikel 91b GG erlaubt aber ausdrücklich die gemeinsame Förderung von Wissenschaft, Forschung und Lehre sowie Zusammenarbeit bei Bildungsberichten und regelt die Kostentragung. Die behauptete völlige Aufgabenlosigkeit des Bundes folgt daher nicht aus der Länderzuständigkeit. Ob und wo der Etat gekürzt werden soll, bleibt eine politische Abwägung.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Artikel 91b Grundgesetz](https://www.gesetze-im-internet.de/gg/art_91b.html) · Geltender Verfassungstext zu Wissenschaft, Forschung und Lehre.
+  Quellenzugriff am 2026-11-24. Alle drei Absätze zur Zusammenarbeit von Bund und Ländern einschließlich Kostentragung gelesen. Alle drei Absätze zur Zusammenarbeit von Bund und Ländern einschließlich Kostentragung gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S063, S083. Ergebnis: Die Länder haben die wesentliche Zuständigkeit für Schulen. Artikel 91b GG erlaubt aber ausdrücklich die gemeinsame Förderung von Wissenschaft, Forschung und Lehre sowie Zusammenarbeit bei Bildungsberichten und regelt die Kostentragung. Die behauptete völlige Aufgabenlosigkeit des Bundes folgt daher nicht aus der Länderzuständigkeit. Ob und wo der Etat gekürzt werden soll, bleibt eine politische Abwägung.
+
+## OQnvClWgN-g-A0072
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Deutschland habe jährlich mehr als eine Billion Euro Steuereinnahmen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:37:10–01:37:39](https://www.youtube.com/watch?v=OQnvClWgN-g&t=5830s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Noch nicht geprüft – Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+### Offene Fragen und Unsicherheiten
+
+- Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
+
+Fehlende Information: Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Vorprüfung in UG und HP und Originaltextfenster gelesen; ausstehende Schritte konkret bezeichnet. Kein abschließendes Sachurteil bei fehlendem Quellen- oder Tonabgleich. Gepruefte Quellen: S063. Ergebnis: Noch nicht geprüft – Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

@@ -88,10 +88,10 @@ Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung gena
 ### Zugeordnete Quellen
 
 - [Alfred-Upload und YouTube-oEmbed](https://www.youtube.com/watch?v=sLMyP0H7tSY) · YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.
-  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. [Codex] 20.11.2026: Beschreibung vollständig sowie ausgewählte Grafiken/Dialogscreenshot bei den in A0026/A0030 genannten Zeiten selbst gelesen/gesehen; ergänzende vidIQ-Szenenanalyse nur als Suchhilfe, keine vollständige eigene Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 - [Originalinterview](https://www.youtube.com/watch?v=mlxFA9T88I0) · Relevante Original-Untertitelpassagen erneut gelesen; keine direkte akustische Sprecherkontrolle und keine neue Vollprüfung des dreistündigen Interviews.
-  Quellenzugriff am 2026-11-20. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. [Codex] 20.11.2026: Originaltext 00:40:20–00:41:10 und 01:00:04–01:01:08 einschließlich Rückfragen selbst erneut gelesen, um die wiedergegebene Selbstauskunft abzugleichen; keine Hör-/Sichtkontrolle oder externe Bestätigung der Kennzahlen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-20. Nur zur Fundstellensuche genutzt; keine Inhalte übernommen. [Codex] 20.11.2026: Originaltext 00:40:20–00:41:10 und 01:00:04–01:01:08 einschließlich Rückfragen selbst erneut gelesen, um die wiedergegebene Selbstauskunft abzugleichen; keine Hör-/Sichtkontrolle oder externe Bestätigung der Kennzahlen. [Codex] 20.11.2026: Originaltext 01:00:41–01:01:50 für A0030 erneut verglichen; kurze Sprecherreaktionen nicht akustisch bestätigt. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -141,7 +141,7 @@ Bewertungsuebergang: Vorläufiger Befund „Meinung / Wertung“ nur in der Begr
 ### Zugeordnete Quellen
 
 - [Alfred-Upload und YouTube-oEmbed](https://www.youtube.com/watch?v=sLMyP0H7tSY) · YouTube-oEmbed direkt gelesen; Beschreibung und Laufzeit via vidIQ. Untertitel vollständig gelesen; keine direkte audiovisuelle Sichtung.
-  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-18. Metadaten direkt abgerufen (YouTube-oEmbed), Beschreibung und Laufzeit über vidIQ. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. [Codex] 20.11.2026: Beschreibung vollständig sowie ausgewählte Grafiken/Dialogscreenshot bei den in A0026/A0030 genannten Zeiten selbst gelesen/gesehen; ergänzende vidIQ-Szenenanalyse nur als Suchhilfe, keine vollständige eigene Hör-/Sichtkontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
 
 ### Offene Fragen und Unsicherheiten
 

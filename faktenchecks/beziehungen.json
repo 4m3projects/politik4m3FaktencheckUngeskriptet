@@ -17,6 +17,11 @@
           "date": "2026-11-20",
           "agent": "Codex",
           "change": "A0002 zu Umsatz und Brennereibesuchen mit Original A0082/A0134 abgeglichen; wahrheitsgemäße Zuschreibung von externer Bestätigung getrennt."
+        },
+        {
+          "date": "2026-11-20",
+          "agent": "Codex",
+          "change": "A0030 mit Original A0140/A0142/A0143 erneut abgeglichen: keine neue tragfähige Evidenz für eine Änderung der Sachurteile. Grafikabgleich A0026 ersetzt keine Vollcodierung."
         }
       ],
       "claimLinks": [
@@ -512,7 +517,13 @@
           "originalClaimId": "mlxFA9T88I0-A0140",
           "reactionClaimId": "sLMyP0H7tSY-A0030",
           "reactionSeconds": 106,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "[Codex] 20.11.2026: Dialogwiedergabe mit Originaltext 01:00:41–01:01:50 und eingeblendeten Sprecherlabels abgeglichen. Belegt ist die Zuschreibung in der Reaktion; Sachurteile über Regeln und kurze Zustimmung werden dadurch nicht automatisch bestätigt oder verändert.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Wiedergabe von Ben-Fragen und Lüning-Antwort mit Text/Bild abgeglichen; Originalurteile und Unsicherheit kurzer Laute bleiben erhalten."
+            }
+          ]
         },
         {
           "id": "L0037",
@@ -520,7 +531,13 @@
           "originalClaimId": "mlxFA9T88I0-A0142",
           "reactionClaimId": "sLMyP0H7tSY-A0030",
           "reactionSeconds": 106,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "[Codex] 20.11.2026: Dialogwiedergabe mit Originaltext 01:00:41–01:01:50 und eingeblendeten Sprecherlabels abgeglichen. Belegt ist die Zuschreibung in der Reaktion; Sachurteile über Regeln und kurze Zustimmung werden dadurch nicht automatisch bestätigt oder verändert.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Wiedergabe von Ben-Fragen und Lüning-Antwort mit Text/Bild abgeglichen; Originalurteile und Unsicherheit kurzer Laute bleiben erhalten."
+            }
+          ]
         },
         {
           "id": "L0038",
@@ -528,7 +545,13 @@
           "originalClaimId": "mlxFA9T88I0-A0143",
           "reactionClaimId": "sLMyP0H7tSY-A0030",
           "reactionSeconds": 106,
-          "note": "Themenbezug laut Codex: Die Reaktion behandelt denselben Gegenstand. Kein Nachweis derselben Behauptung, daher kein automatischer Bewertungsvergleich."
+          "note": "[Codex] 20.11.2026: Dialogwiedergabe mit Originaltext 01:00:41–01:01:50 und eingeblendeten Sprecherlabels abgeglichen. Belegt ist die Zuschreibung in der Reaktion; Sachurteile über Regeln und kurze Zustimmung werden dadurch nicht automatisch bestätigt oder verändert.",
+          "history": [
+            {
+              "date": "2026-11-20",
+              "change": "[Codex] Wiedergabe von Ben-Fragen und Lüning-Antwort mit Text/Bild abgeglichen; Originalurteile und Unsicherheit kurzer Laute bleiben erhalten."
+            }
+          ]
         }
       ]
     },

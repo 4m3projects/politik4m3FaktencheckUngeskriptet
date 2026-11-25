@@ -5,80 +5,164 @@
   "topics": [
     {
       "topic": "geld",
-      "relevance": "Schwerpunkt",
-      "basis": "9 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "relevance": "Behandelt",
+      "basis": "11 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "klima",
       "relevance": "Behandelt",
-      "basis": "4 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "3 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "wirtschaft",
       "relevance": "Behandelt",
-      "basis": "3 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "11 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "staatsfinanzen",
       "relevance": "Behandelt",
-      "basis": "3 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "5 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "banken",
       "relevance": "Behandelt",
-      "basis": "2 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "energie",
       "relevance": "Behandelt",
-      "basis": "2 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "ukraine",
       "relevance": "Behandelt",
-      "basis": "2 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "4 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "auswanderung",
       "relevance": "Behandelt",
-      "basis": "2 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "corona",
-      "relevance": "Erwähnt",
-      "basis": "1 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "relevance": "Behandelt",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "argentinien",
-      "relevance": "Erwähnt",
-      "basis": "1 von 30 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
+      "relevance": "Behandelt",
+      "basis": "4 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "wirtschaft/insolvenzen",
-      "relevance": "Erwähnt",
-      "basis": "Zusätzliche Original-Sachprüfung vom 24.11.2026.",
+      "relevance": "Behandelt",
+      "basis": "3 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "geld/ezb",
-      "relevance": "Erwähnt",
-      "basis": "Zusätzliche Original-Sachprüfung vom 24.11.2026.",
+      "relevance": "Behandelt",
+      "basis": "5 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     },
     {
       "topic": "geld/inflation",
+      "relevance": "Behandelt",
+      "basis": "10 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "geld/geldschoepfung",
       "relevance": "Erwähnt",
-      "basis": "Zusätzliche Original-Sachprüfung vom 24.11.2026.",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "energie/windkraft/amortisation",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "energie/windkraft",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "staatsfinanzen/ausgaben",
+      "relevance": "Behandelt",
+      "basis": "6 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "klima/ursachen",
+      "relevance": "Behandelt",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "klima/eis",
+      "relevance": "Behandelt",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "klima/korallen",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "auswanderung/wegzugsteuer",
+      "relevance": "Behandelt",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "geschichte",
+      "relevance": "Behandelt",
+      "basis": "8 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "recht",
+      "relevance": "Behandelt",
+      "basis": "11 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "staatsfinanzen/schulden",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "wirtschaft/produktivitaet",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "biologie",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "umwelt",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
       "segments": []
     }
   ],
@@ -320,6 +404,251 @@
         "wirtschaft",
         "auswanderung"
       ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0041",
+      "topics": [
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0042",
+      "topics": [
+        "wirtschaft",
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0043",
+      "topics": [
+        "geld",
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0044",
+      "topics": [
+        "geld",
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0045",
+      "topics": [
+        "geld/inflation",
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0046",
+      "topics": [
+        "geld",
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0047",
+      "topics": [
+        "geld",
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0048",
+      "topics": [
+        "geld",
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0049",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0050",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0051",
+      "topics": [
+        "wirtschaft",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0052",
+      "topics": [
+        "geld/ezb",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0053",
+      "topics": [
+        "staatsfinanzen/schulden"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0054",
+      "topics": [
+        "wirtschaft/produktivitaet",
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0055",
+      "topics": [
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0056",
+      "topics": [
+        "recht",
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0057",
+      "topics": [
+        "klima/ursachen",
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0058",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0059",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0060",
+      "topics": [
+        "recht",
+        "ukraine"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0061",
+      "topics": [
+        "ukraine",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0062",
+      "topics": [
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0063",
+      "topics": [
+        "geld",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0064",
+      "topics": [
+        "auswanderung",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0065",
+      "topics": [
+        "recht"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0066",
+      "topics": [
+        "recht"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0067",
+      "topics": [
+        "recht",
+        "umwelt"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0068",
+      "topics": [
+        "recht"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0069",
+      "topics": [
+        "argentinien",
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0070",
+      "topics": [
+        "geld",
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0071",
+      "topics": [
+        "staatsfinanzen/ausgaben"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0072",
+      "topics": [
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0073",
+      "topics": [
+        "wirtschaft",
+        "corona"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0074",
+      "topics": [
+        "klima"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0075",
+      "topics": [
+        "wirtschaft",
+        "energie"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0076",
+      "topics": [
+        "argentinien",
+        "geld/inflation"
+      ]
+    },
+    {
+      "claimId": "OQnvClWgN-g-A0077",
+      "topics": [
+        "argentinien",
+        "wirtschaft"
+      ]
     }
   ],
   "history": [
@@ -332,6 +661,11 @@
       "date": "2026-11-24",
       "agent": "Codex",
       "change": "Zehn neu am Original kontrollierte Sachkerne mit vorhandenen Themen verknüpft."
+    },
+    {
+      "date": "2026-11-24",
+      "agent": "Codex",
+      "change": "Neue Originaltext- und Sachprüfungen fachlich zugeordnet; vorhandene Aussagezuordnungen erhalten."
     }
   ]
 }

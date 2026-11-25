@@ -1,8 +1,8 @@
 # Kapitel 04: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fünf sachlich bereits geprüfte Aussagen, deren Gesprächsrolle jetzt zusätzlich direkt an der deutschen automatischen Originaltextfassung kontrolliert ist. Die Zuordnung zum Gast bleibt plausibel; im gelesenen Umfeld keine ausdrückliche Zurückweisung durch den Host. Keine vollständige Erfassung oder audiovisuelle Prüfung der knapp drei Stunden. Gesamtampel bleibt vorläufig.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung.
 
 ## Xw2tAp6UouE-A0004
 
@@ -56,5 +56,423 @@ Bewertungsuebergang: [Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüf
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## Xw2tAp6UouE-A0020
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** § 166 StGB bedroht geeignete Beschimpfungen zur Störung des öffentlichen Friedens mit bis zu drei Jahren Freiheitsstrafe.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:47:34–00:48:02](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=2854s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+§ 166 StGB nennt für die öffentliche beziehungsweise verbreitete Beschimpfung eines religiösen oder weltanschaulichen Bekenntnisses bis zu drei Jahre Freiheitsstrafe oder Geldstrafe. Voraussetzung ist die Eignung, den öffentlichen Frieden zu stören. Das Gesetz erfasst nicht pauschal jede Religionskritik und schützt auch nichtreligiöse Weltanschauungen. Die spätere Klarstellung zum Friedensschutz im Gespräch ist zutreffend.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Strafgesetzbuch, § 166](https://www.gesetze-im-internet.de/stgb/__166.html) · Beschimpfung von Bekenntnissen, Religionsgesellschaften und Weltanschauungsvereinigungen.
+  Quellenzugriff am 2026-11-24. Nach fehlgeschlagenem Browserabruf beide Absätze per direktem HTTPS-Abruf der amtlichen Seite gelesen; Friedensschutz, Beschimpfung und Geldstrafe berücksichtigt. Nach fehlgeschlagenem Browserabruf beide Absätze per direktem HTTPS-Abruf der amtlichen Seite gelesen; Friedensschutz, Beschimpfung und Geldstrafe berücksichtigt.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S028. Ergebnis: § 166 StGB nennt für die öffentliche beziehungsweise verbreitete Beschimpfung eines religiösen oder weltanschaulichen Bekenntnisses bis zu drei Jahre Freiheitsstrafe oder Geldstrafe. Voraussetzung ist die Eignung, den öffentlichen Frieden zu stören. Das Gesetz erfasst nicht pauschal jede Religionskritik und schützt auch nichtreligiöse Weltanschauungen. Die spätere Klarstellung zum Friedensschutz im Gespräch ist zutreffend.
+
+## Xw2tAp6UouE-A0034
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Epikur vertrat Atomismus und einen unendlichen Kosmos.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:41:10–00:41:43](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=2470s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Epikurs Naturlehre beschreibt Atome und leeren Raum und nimmt einen unendlichen Kosmos an. Das ist als historische Beschreibung seiner Philosophie zutreffend. Antike unteilbare Atome sind aber nicht gleichbedeutend mit heutigen Atommodellen, und seine Annahme entscheidet nicht die heutige Frage nach der Gesamtgröße des Universums.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Stanford Encyclopedia of Philosophy: Epicurus](https://plato.stanford.edu/entries/epicurus/) · Philosophische Fachdarstellung mit Verweisen auf die Briefe an Herodot und Menoikeus.
+  Quellenzugriff am 2026-11-24. Abschnitte zu Atomismus, unendlichem Raum und Argument gegen die Furcht vor dem Tod gelesen; keine Gleichsetzung antiker Atome mit heutiger Teilchenphysik. Abschnitte zu Atomismus, unendlichem Raum und Argument gegen die Furcht vor dem Tod gelesen; keine Gleichsetzung antiker Atome mit heutiger Teilchenphysik.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S038. Ergebnis: Epikurs Naturlehre beschreibt Atome und leeren Raum und nimmt einen unendlichen Kosmos an. Das ist als historische Beschreibung seiner Philosophie zutreffend. Antike unteilbare Atome sind aber nicht gleichbedeutend mit heutigen Atommodellen, und seine Annahme entscheidet nicht die heutige Frage nach der Gesamtgröße des Universums.
+
+## Xw2tAp6UouE-A0035
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Epikur deutete den Tod als Ende der Empfindung und leitete daraus ab, dass er kein Übel für den Toten sei.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:41:39–00:42:02](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=2499s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+In Epikurs Argumentation ist der Tod kein erlebtes Übel: Solange wir leben, ist er nicht da; nach dem Tod gibt es das erlebende Subjekt nicht mehr. Der Gast gibt diese philosophische Position im Kern korrekt wieder. Bestätigt wird die Text- und Lehrzuordnung, kein experimenteller Beweis einer metaphysischen Behauptung.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Stanford Encyclopedia of Philosophy: Epicurus](https://plato.stanford.edu/entries/epicurus/) · Philosophische Fachdarstellung mit Verweisen auf die Briefe an Herodot und Menoikeus.
+  Quellenzugriff am 2026-11-24. Abschnitte zu Atomismus, unendlichem Raum und Argument gegen die Furcht vor dem Tod gelesen; keine Gleichsetzung antiker Atome mit heutiger Teilchenphysik. Abschnitte zu Atomismus, unendlichem Raum und Argument gegen die Furcht vor dem Tod gelesen; keine Gleichsetzung antiker Atome mit heutiger Teilchenphysik.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S038. Ergebnis: In Epikurs Argumentation ist der Tod kein erlebtes Übel: Solange wir leben, ist er nicht da; nach dem Tod gibt es das erlebende Subjekt nicht mehr. Der Gast gibt diese philosophische Position im Kern korrekt wieder. Bestätigt wird die Text- und Lehrzuordnung, kein experimenteller Beweis einer metaphysischen Behauptung.
+
+## Xw2tAp6UouE-A0036
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Religiöse und besonders fromme Bevölkerungsgruppen haben im Mittel mehr Kinder als säkulare.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:43:42–00:44:18](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=2622s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Pews globale Daten zeigen im Mittel höhere Kinderzahlen für große christliche und muslimische Bevölkerungsgruppen als für Religionslose. Es gibt aber Unterschiede nach Region und Religion; Buddhisten liegen etwa unter Religionslosen. Religionszugehörigkeit, persönliche Frömmigkeit und ein kausaler Effekt sind nicht dasselbe. Die pauschale Steigerung je säkularer, desto weniger Kinder geht über diesen demografischen Befund hinaus.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Pew Research Center: Factors driving religious change, 2010–2020](https://www.pewresearch.org/religion/2025/06/09/factors-driving-religious-change-2010-2020/) · Eigene demografische Auswertung des Forschungsinstituts; Fertilität, Altersstruktur und Religionswechsel werden getrennt.
+  Quellenzugriff am 2026-11-24. Abschnitte zu Fertilität und religiösem Wechsel samt Ausnahmen einzelner Religionsgruppen gelesen; weltweite Korrelation ist kein individueller Kausalnachweis. Abschnitte zu Fertilität und religiösem Wechsel samt Ausnahmen einzelner Religionsgruppen gelesen; weltweite Korrelation ist kein individueller Kausalnachweis.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S039. Ergebnis: Pews globale Daten zeigen im Mittel höhere Kinderzahlen für große christliche und muslimische Bevölkerungsgruppen als für Religionslose. Es gibt aber Unterschiede nach Region und Religion; Buddhisten liegen etwa unter Religionslosen. Religionszugehörigkeit, persönliche Frömmigkeit und ein kausaler Effekt sind nicht dasselbe. Die pauschale Steigerung je säkularer, desto weniger Kinder geht über diesen demografischen Befund hinaus.
+
+## Xw2tAp6UouE-A0037
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die US-Regierung richtete eine Stelle gegen antichristliche Benachteiligung ein.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:54:50–00:55:16](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=3290s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Erlass vom 06.02.2025 richtete im US-Justizministerium eine Task Force gegen antichristliche Benachteiligung unter Leitung der Attorney General ein. Damit ist die genannte Institution belegt. Der anschließende Vergleich mit McCarthy ist eine politische Einordnung; die Vorwürfe aus der Präambel sind dadurch nicht als Tatsachen bestätigt.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Weißes Haus: Eradicating Anti-Christian Bias, 06.02.2025](https://www.whitehouse.gov/presidential-actions/2025/02/eradicating-anti-christian-bias/) · Präsidialer Erlass zur Einrichtung einer Task Force im Justizministerium.
+  Quellenzugriff am 2026-11-24. Abschnitte 2–4 zu Einrichtung, Leitung, Aufgaben und Verwaltung gelesen; politische Vorwürfe der Präambel nicht als bewiesen übernommen. Abschnitte 2–4 zu Einrichtung, Leitung, Aufgaben und Verwaltung gelesen; politische Vorwürfe der Präambel nicht als bewiesen übernommen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S040. Ergebnis: Der Erlass vom 06.02.2025 richtete im US-Justizministerium eine Task Force gegen antichristliche Benachteiligung unter Leitung der Attorney General ein. Damit ist die genannte Institution belegt. Der anschließende Vergleich mit McCarthy ist eine politische Einordnung; die Vorwürfe aus der Präambel sind dadurch nicht als Tatsachen bestätigt.
+
+## Xw2tAp6UouE-A0068
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Fast alle Schriften Epikurs seien wegen ihrer Unvereinbarkeit mit dem Christentum vernichtet worden.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:42:14–00:42:57](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=2534s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Noch nicht geprüft – der geringe Überlieferungsumfang allein beweist nicht, wer welche Schriften aus welchem Motiv vernichtet hat.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+### Offene Fragen und Unsicherheiten
+
+- Antike Überlieferung, Papyrusfunde und wissenschaftliche Editionsgeschichte auf dokumentierte Vernichtungsakte und alternative Überlieferungsverluste prüfen.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
+
+Fehlende Information: Antike Überlieferung, Papyrusfunde und wissenschaftliche Editionsgeschichte auf dokumentierte Vernichtungsakte und alternative Überlieferungsverluste prüfen.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Vorprüfung in UG und HP und Originaltextfenster gelesen; ausstehende Schritte konkret bezeichnet. Kein abschließendes Sachurteil bei fehlendem Quellen- oder Tonabgleich. Gepruefte Quellen: S012. Ergebnis: Noch nicht geprüft – der geringe Überlieferungsumfang allein beweist nicht, wer welche Schriften aus welchem Motiv vernichtet hat.
+
+## Xw2tAp6UouE-A0069
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die heutige Wissenschaft gehe von einem unendlichen Universum aus.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:42:42–00:43:03](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=2562s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Noch nicht geprüft – beobachtbares Universum, räumliche Krümmung und mögliche Unendlichkeit des Gesamtuniversums müssen getrennt an kosmologischen Originalquellen geprüft werden.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+### Offene Fragen und Unsicherheiten
+
+- Planck-Auswertungen zu Raumkrümmung und offiziellen Erläuterungen zur Begrenztheit des beobachtbaren Universums lesen; Modellannahme von nachgewiesener Unendlichkeit unterscheiden.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
+
+Fehlende Information: Planck-Auswertungen zu Raumkrümmung und offiziellen Erläuterungen zur Begrenztheit des beobachtbaren Universums lesen; Modellannahme von nachgewiesener Unendlichkeit unterscheiden.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Vorprüfung in UG und HP und Originaltextfenster gelesen; ausstehende Schritte konkret bezeichnet. Kein abschließendes Sachurteil bei fehlendem Quellen- oder Tonabgleich. Gepruefte Quellen: S012. Ergebnis: Noch nicht geprüft – beobachtbares Universum, räumliche Krümmung und mögliche Unendlichkeit des Gesamtuniversums müssen getrennt an kosmologischen Originalquellen geprüft werden.
+
+## Xw2tAp6UouE-A0071
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Jacques Tilly wurde in Abwesenheit in Moskau zu achteinhalb Jahren Straflager wegen Religionskritik verurteilt.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:52:32–00:53:15](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=3152s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+- [00:53:40–00:54:16](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=3220s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Noch nicht geprüft – Strafmaß, Urteilsdatum und sämtliche abgeurteilten Tatvorwürfe müssen mit gerichtlichen oder anderweitig belastbaren Originalunterlagen kontrolliert werden.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+### Offene Fragen und Unsicherheiten
+
+- Verfahren gegen Jacques Tilly in Moskau mit Urteilsdokument, Künstlererklärung und dokumentierten Anklagepunkten abgleichen; Religion und politische Vorwürfe nicht pauschal gleichsetzen.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
+
+Fehlende Information: Verfahren gegen Jacques Tilly in Moskau mit Urteilsdokument, Künstlererklärung und dokumentierten Anklagepunkten abgleichen; Religion und politische Vorwürfe nicht pauschal gleichsetzen.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Vorprüfung in UG und HP und Originaltextfenster gelesen; ausstehende Schritte konkret bezeichnet. Kein abschließendes Sachurteil bei fehlendem Quellen- oder Tonabgleich. Gepruefte Quellen: S012. Ergebnis: Noch nicht geprüft – Strafmaß, Urteilsdatum und sämtliche abgeurteilten Tatvorwürfe müssen mit gerichtlichen oder anderweitig belastbaren Originalunterlagen kontrolliert werden.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

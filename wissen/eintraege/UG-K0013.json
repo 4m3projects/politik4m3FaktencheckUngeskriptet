@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0013",
+  "revision": 1,
+  "claim": "Kants Aufsatz von 1784 verbindet Aufklärung mit dem Ausgang aus selbstverschuldeter Unmündigkeit und dem eigenständigen Gebrauch des Verstandes.",
+  "topics": [
+    "philosophie"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Der Eingang des Originalaufsatzes beschreibt diese Definition und den dazugehörigen Wahlspruch. Bestätigt wird die Textzuordnung, nicht eine empirische Bewertung heutiger Institutionen.",
+  "validity": {
+    "asOf": "2026-11-24",
+    "timeScope": "Historische Textaussage von 1784",
+    "subjectScope": "Zuordnung des Aufklärungsmottos zu Kant",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-24",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "Immanuel Kant (1784): Beantwortung der Frage: Was ist Aufklärung?",
+      "url": "https://de.wikisource.org/wiki/Beantwortung_der_Frage:_Was_ist_Aufkl%C3%A4rung%3F",
+      "details": "Originaltext bei dieser Nachprüfung selbst gelesen.",
+      "accessedOn": "2026-11-24",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "Xw2tAp6UouE-A0050",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Die Aussage gibt den Aufklärungsaufruf desselben Aufsatzes wieder.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-24"
+    },
+    {
+      "claimId": "QxMuH1bjMwo-A0055",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Gleicher Originaltext und philosophischer Sachkern; keine Übertragung der politischen Gesprächsdeutung.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-24"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-24",
+      "agent": "Codex",
+      "change": "Nach thematischer Suche und eigener erneuter Lektüre der Originalquelle angelegt; frühere KI-Bewertungen nicht als Beleg verwendet. Veröffentlichung 25.11.2026: freie ID UG-K0013 verwendet; UG-K0011 war zwischenzeitlich bereits vergeben.",
+      "previous": null
+    }
+  ]
+}
