@@ -1,8 +1,8 @@
 # Kapitel 15: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand mit 40 Prüfgegenständen; zehn neue Original-Sachprüfungen vom 24.11.2026. Keine vollständige Erfassung des 3:21-Stunden-Interviews. Weitere unabhängige Sachkerne aus den noch dünn erfassten Abschnitten sowie Hör-/Sichtabgleich stehen aus. Historische Gruppenpositionen bleiben Suchhilfen, keine übernommenen Urteile. Keine Hochrechnung und keine Gesamtfehlerquote des Videos.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 77 Prüfgegenständen. Neue Suchfenster verteilen sich über Geldgeschichte, Wirtschaft, Staatsaufgaben, Klima und Recht. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert. [Codex] 24.11.2026: Originaltext direkt im YouTube-Player erschlossen und zehn weitere Sachbehauptungen gegen neu gelesene amtliche und wissenschaftliche Quellen geprüft. Das Schreiben des Draghi-Crash 2015/16 wird nicht als Veröffentlichung in diesen Jahren fehlgedeutet. Keine früheren Urteile geändert; neue Aussagen ohne direkte Reaktionsverknüpfung.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert. [Codex] 24.11.2026: Originaltext direkt im YouTube-Player erschlossen und zehn weitere Sachbehauptungen gegen neu gelesene amtliche und wissenschaftliche Quellen geprüft. Das Schreiben des Draghi-Crash 2015/16 wird nicht als Veröffentlichung in diesen Jahren fehlgedeutet. Keine früheren Urteile geändert; neue Aussagen ohne direkte Reaktionsverknüpfung. [Codex] 24.11.2026, erweiterte Fortsetzung: 37 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der übernommenen, am 24.11. begonnenen Erweiterung; alle 40 vorher publizierten Aussagen unverändert. China-Paraphrase enger am automatischen Wortlaut, DAX-Passage nach erneuter Originaltext- und Normlektüre präzisiert. Quellenprüfung der übrigen neuen Aussagen als dokumentierte Vorarbeit vom 24.11. übernommen; keine neue Vollsichtung behauptet.
 
 ## OQnvClWgN-g-A0013
 
@@ -196,5 +196,211 @@ Fehlende Information: Weltweit vergleichbare Flächen- und Volumenmessungen mit 
 - Durchgang 1 am 2026-11-19 (Codex): UG/HP und AIMS-Bericht 2024/25 gezielt nach regionalem Messgebiet und Originalkontext durchsucht und gelesen. Gepruefte Quellen: S001, S023. Ergebnis: Regionale Bedeckung kann einen weltweiten Volumenrekord nicht allein entscheiden.
 
 - Durchgang 2 am 2026-11-19 (Codex): Anders angesetzt: globales Monitoring GCRMN und Veröffentlichung vor September 2026 gesucht; Executive Summary einschließlich Datenbegrenzungen und UNSW-Vorstellung gelesen. Gepruefte Quellen: S040, S041. Ergebnis: Globale Bedeckungsdaten bis 2024 verfügbar, kein passender weltweiter Flächen-/Volumenrekord 2026 belegt.
+
+## OQnvClWgN-g-A0057
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** CO2 sei als Grundlage der Photosynthese lebensnotwendig und deshalb als Erklärung einer Klimagefahr ungeeignet.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:45:40–01:46:10](https://www.youtube.com/watch?v=OQnvClWgN-g&t=6340s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+CO2 ist tatsächlich ein Ausgangsstoff der Photosynthese. Die NASA beschreibt zugleich seine Wärmestrahlungswirkung und die Erwärmung bei steigender atmosphärischer Konzentration. Biologische Notwendigkeit und klimatische Wirkung schließen sich nicht aus. Der richtige biologische Sachkern widerlegt deshalb weder den Treibhauseffekt noch Risiken zusätzlicher Konzentration.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [NASA Earth Observatory: The Carbon Cycle](https://science.nasa.gov/earth/earth-observatory/the-carbon-cycle/) · Wissenschaftliche Darstellung des Kohlenstoffkreislaufs.
+  Quellenzugriff am 2026-11-24. Absätze zu Photosynthese und zum gleichzeitig bestehenden Treibhauseffekt des CO2 direkt gelesen. Absätze zu Photosynthese und zum gleichzeitig bestehenden Treibhauseffekt des CO2 direkt gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S063, S084. Ergebnis: CO2 ist tatsächlich ein Ausgangsstoff der Photosynthese. Die NASA beschreibt zugleich seine Wärmestrahlungswirkung und die Erwärmung bei steigender atmosphärischer Konzentration. Biologische Notwendigkeit und klimatische Wirkung schließen sich nicht aus. Der richtige biologische Sachkern widerlegt deshalb weder den Treibhauseffekt noch Risiken zusätzlicher Konzentration.
+
+## OQnvClWgN-g-A0058
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Wachsende Flächen von Inseln im Indischen Ozean zeigten, dass die Warnung vor Meeresspiegelanstieg falsch sei.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:47:34–01:47:50](https://www.youtube.com/watch?v=OQnvClWgN-g&t=6454s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Originaluntersuchung an 107 bewohnten Malediveninseln fand 2004–06 bis 2014–16 63 wachsende und 44 weitgehend stabile Inseln. Wachstum kann unter anderem auf Aufschüttungen beruhen. Die Studien diskutieren gleichzeitig Meeresspiegelrisiken und beeinträchtigte Küstenschutzfunktionen. Gemessene Landfläche ist daher kein Gegenbeweis gegen steigendes Wasser oder künftige Überflutungsgefahr.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Duvat und Magnan: Contrasting potential for nature-based solutions to enhance coastal protection services in atoll islands](https://univerlag.uni-goettingen.de/bitstream/handle/3/isbn-978-3-86395-435-2.3/3_duvat_contrasting.pdf?sequence=1) · Originaluntersuchung von 107 bewohnten Malediveninseln, besonders S. 58–60.
+  Quellenzugriff am 2026-11-24. Ergebnisse für 2004–06 bis 2014–16, Tabelle zur Flächenentwicklung und Befunde zur menschlichen Veränderung der Küstenschutzleistung gelesen. Ergebnisse für 2004–06 bis 2014–16, Tabelle zur Flächenentwicklung und Befunde zur menschlichen Veränderung der Küstenschutzleistung gelesen.
+
+- [Duvat und Magnan (2019): Rapid human-driven undermining of atoll island capacity to adjust to ocean climate-related pressures](https://www.nature.com/articles/s41598-019-51468-3) · Scientific Reports, Originalstudie an 608 Malediveninseln.
+  Quellenzugriff am 2026-11-24. Abstract, Stichprobe und Absätze zu menschlichen Eingriffen und Anpassungsfähigkeit direkt gelesen. Abstract, Stichprobe und Absätze zu menschlichen Eingriffen und Anpassungsfähigkeit direkt gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S063, S085, S086. Ergebnis: Die Originaluntersuchung an 107 bewohnten Malediveninseln fand 2004–06 bis 2014–16 63 wachsende und 44 weitgehend stabile Inseln. Wachstum kann unter anderem auf Aufschüttungen beruhen. Die Studien diskutieren gleichzeitig Meeresspiegelrisiken und beeinträchtigte Küstenschutzfunktionen. Gemessene Landfläche ist daher kein Gegenbeweis gegen steigendes Wasser oder künftige Überflutungsgefahr.
+
+## OQnvClWgN-g-A0059
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Rückläufige Todesfälle durch Stürme beziehungsweise Naturkatastrophen widerlegten die Zunahme der Katastrophen.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:47:56–01:48:15](https://www.youtube.com/watch?v=OQnvClWgN-g&t=6476s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die WMO dokumentiert für 1970–2019 deutlich weniger Todesfälle bei gleichzeitig mehr gemeldeten wetter-, klima- und wasserbezogenen Katastrophen. Bessere Frühwarnung und Katastrophenschutz beeinflussen die Opferzahlen; auch die Ereigniserfassung hat sich verbessert. Der Rückgang der Todesfälle ist real, aber kein direkter Gegenbeweis gegen die Häufigkeit oder physikalische Intensität von Extremereignissen.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [WMO: Weather-related disasters increase over past 50 years, causing more damage but fewer deaths](https://wmo.int/media/news/weather-related-disasters-increase-over-past-50-years-causing-more-damage-fewer-deaths) · Eigene Zusammenfassung des Atlas für 1970–2019 auf Basis EM-DAT.
+  Quellenzugriff am 2026-11-24. Ergebnisabsätze zur Entwicklung gemeldeter Ereignisse, Todesfälle, Frühwarnungen und Erfassungsänderungen gelesen. Ergebnisabsätze zur Entwicklung gemeldeter Ereignisse, Todesfälle, Frühwarnungen und Erfassungsänderungen gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S063, S087. Ergebnis: Die WMO dokumentiert für 1970–2019 deutlich weniger Todesfälle bei gleichzeitig mehr gemeldeten wetter-, klima- und wasserbezogenen Katastrophen. Bessere Frühwarnung und Katastrophenschutz beeinflussen die Opferzahlen; auch die Ereigniserfassung hat sich verbessert. Der Rückgang der Todesfälle ist real, aber kein direkter Gegenbeweis gegen die Häufigkeit oder physikalische Intensität von Extremereignissen.
+
+## OQnvClWgN-g-A0074
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** In einer hundertjährigen Statistik seien Waldbrände noch nie so niedrig gewesen wie aktuell.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:48:10–01:48:35](https://www.youtube.com/watch?v=OQnvClWgN-g&t=6490s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Noch nicht geprüft – Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+### Offene Fragen und Unsicherheiten
+
+- Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
+
+Fehlende Information: Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Vorprüfung in UG und HP und Originaltextfenster gelesen; ausstehende Schritte konkret bezeichnet. Kein abschließendes Sachurteil bei fehlendem Quellen- oder Tonabgleich. Gepruefte Quellen: S063. Ergebnis: Noch nicht geprüft – Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

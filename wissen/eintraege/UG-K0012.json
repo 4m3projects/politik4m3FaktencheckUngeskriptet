@@ -1,0 +1,60 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0012",
+  "revision": 1,
+  "claim": "Artikel 123 AEUV verbietet Kreditfazilitäten für öffentliche Stellen und den unmittelbaren Erwerb ihrer Schuldtitel durch EZB und nationale Zentralbanken.",
+  "topics": [
+    "geld/ezb",
+    "recht"
+  ],
+  "status": "Geprüft",
+  "verdict": "Belegt",
+  "reason": "Der amtliche Text von Artikel 123 Absatz 1 enthält beide Verbote. Sekundärmarktkäufe und die Sonderstellung öffentlicher Kreditinstitute nach Absatz 2 sind davon zu unterscheiden.",
+  "validity": {
+    "asOf": "2026-11-24",
+    "timeScope": "Geltendes EU-Recht, Stand 2026",
+    "subjectScope": "Rechtliche Grenzen unmittelbarer monetärer Staatsfinanzierung",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-24",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "Artikel 123 AEUV",
+      "url": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:12016E123",
+      "details": "Originaltext bei dieser Nachprüfung selbst gelesen.",
+      "accessedOn": "2026-11-24",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "OQnvClWgN-g-A0052",
+      "repo": null,
+      "relation": "teilaspekt",
+      "contextNote": "Betrifft das Verbot des unmittelbaren Erwerbs, also einen ausdrücklich erfassten Teil der Norm.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-24"
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0277",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Gleiche rechtliche Grenze staatlicher Direktfinanzierung; nicht die Frage jedes Sekundärmarktkaufs.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-24"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-24",
+      "agent": "Codex",
+      "change": "Nach thematischer Suche und eigener erneuter Lektüre der Originalquelle angelegt; frühere KI-Bewertungen nicht als Beleg verwendet.",
+      "previous": null
+    }
+  ]
+}

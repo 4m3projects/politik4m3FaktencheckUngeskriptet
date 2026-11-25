@@ -2,6 +2,6 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Fünf sachlich bereits geprüfte Aussagen, deren Gesprächsrolle jetzt zusätzlich direkt an der deutschen automatischen Originaltextfassung kontrolliert ist. Die Zuordnung zum Gast bleibt plausibel; im gelesenen Umfeld keine ausdrückliche Zurückweisung durch den Host. Keine vollständige Erfassung oder audiovisuelle Prüfung der knapp drei Stunden. Gesamtampel bleibt vorläufig.
+Abdeckung: Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
 Keine Altpunkte migriert; dieser Datenbestand erfasst Aussagen direkt.

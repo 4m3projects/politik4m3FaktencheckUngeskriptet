@@ -1,8 +1,8 @@
 # Kapitel 07: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fünf sachlich bereits geprüfte Aussagen, deren Gesprächsrolle jetzt zusätzlich direkt an der deutschen automatischen Originaltextfassung kontrolliert ist. Die Zuordnung zum Gast bleibt plausibel; im gelesenen Umfeld keine ausdrückliche Zurückweisung durch den Host. Keine vollständige Erfassung oder audiovisuelle Prüfung der knapp drei Stunden. Gesamtampel bleibt vorläufig.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung.
 
 ## Xw2tAp6UouE-A0005
 
@@ -56,5 +56,257 @@ Bewertungsuebergang: [Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüf
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## Xw2tAp6UouE-A0022
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Das Grundgesetz nimmt bekenntnisfreie Schulen vom Religionsunterricht als ordentlichem Lehrfach aus.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:42:24–01:42:50](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=6144s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Artikel 7 Absatz 3 GG nimmt bekenntnisfreie Schulen tatsächlich von der Regel aus, Religionsunterricht als ordentliches Lehrfach vorzusehen. Das ist die im Gespräch genannte Verfassungsausnahme. Daraus folgt nicht, dass jede staatliche Gemeinschaftsschule bereits bekenntnisfrei in diesem verfassungsrechtlichen Sinn ist oder der Unterricht durch bloße Umbenennung überall abgeschafft werden könnte.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Grundgesetz, Artikel 7](https://www.gesetze-im-internet.de/gg/art_7.html) · Gesetzestext, besonders Absatz 3 mit Ausnahme bekenntnisfreier Schulen.
+  Quellenzugriff am 2026-11-24. Vollständigen Artikel gelesen; nicht mit der allgemeinen staatlichen Gemeinschaftsschule gleichgesetzt. Vollständigen Artikel gelesen; nicht mit der allgemeinen staatlichen Gemeinschaftsschule gleichgesetzt.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S026. Ergebnis: Artikel 7 Absatz 3 GG nimmt bekenntnisfreie Schulen tatsächlich von der Regel aus, Religionsunterricht als ordentliches Lehrfach vorzusehen. Das ist die im Gespräch genannte Verfassungsausnahme. Daraus folgt nicht, dass jede staatliche Gemeinschaftsschule bereits bekenntnisfrei in diesem verfassungsrechtlichen Sinn ist oder der Unterricht durch bloße Umbenennung überall abgeschafft werden könnte.
+
+## Xw2tAp6UouE-A0023
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Religiöse Eltern können ihre Kinder nicht ohne Weiteres vom gemeinsamen Schwimmunterricht befreien lassen.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:39:20–01:39:51](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=5960s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das Bundesverwaltungsgericht verneinte 2013 im geprüften Fall eine religiös begründete Befreiung vom gemeinsamen Schwimmunterricht, weil ein Burkini einen zumutbaren Ausgleich ermöglichte. Religionsfreiheit und staatlicher Bildungsauftrag müssen im Einzelfall ausgeglichen werden. Der sachliche Kern eines fehlenden pauschalen Abmelderechts stimmt; eine ausnahmslose Regel gegen jede Befreiung wäre daraus nicht abzuleiten.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Bundesverwaltungsgericht: Urteil vom 11.09.2013, 6 C 25.12](https://www.bverwg.de/110913U6C25.12.0) · Koedukativer Schwimmunterricht, Burkini und individuelle Religionsfreiheit.
+  Quellenzugriff am 2026-11-24. Amtliche Fallbeschreibung, Pressemitteilung und einschlägige Entscheidungsgründe zum Interessenausgleich und den Grenzen einer Befreiung gelesen. Amtliche Fallbeschreibung, Pressemitteilung und einschlägige Entscheidungsgründe zum Interessenausgleich und den Grenzen einer Befreiung gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S035. Ergebnis: Das Bundesverwaltungsgericht verneinte 2013 im geprüften Fall eine religiös begründete Befreiung vom gemeinsamen Schwimmunterricht, weil ein Burkini einen zumutbaren Ausgleich ermöglichte. Religionsfreiheit und staatlicher Bildungsauftrag müssen im Einzelfall ausgeglichen werden. Der sachliche Kern eines fehlenden pauschalen Abmelderechts stimmt; eine ausnahmslose Regel gegen jede Befreiung wäre daraus nicht abzuleiten.
+
+## Xw2tAp6UouE-A0044
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Menschen iranischer Herkunft in Deutschland sind eine besonders säkulare Herkunftsgruppe.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:36:00–01:36:33](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=5760s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Im BAMF-Bericht MLD 2020 gehören 44 Prozent der erfassten Personen iranischer Herkunft keiner Religion an; 29 Prozent sind muslimisch, 27 Prozent gehören anderen Religionen an. Der hohe konfessionslose Anteil gegenüber vielen anderen untersuchten Herkunftsgruppen stützt den Sachkern. Daraus folgt keine einheitliche Haltung aller Iranstämmigen, keine generelle Rangfolge aller Gruppen Deutschlands und keine Messung ihrer individuellen Freiheitsorientierung.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Pfündel, Stichs und Tanis (BAMF 2021): Muslimisches Leben in Deutschland 2020, S. 40–41](https://www.academia.edu/83995580/Muslimisches_Leben_in_Deutschland_2020_Studie_im_Auftrag_der_Deutschen_Islam_Konferenz) · Lesbare Spiegelung der amtlichen Veröffentlichungsversion des Forschungsberichts 38, URN urn:nbn:de:0168-ssoar-73274-8.
+  Quellenzugriff am 2026-11-24. Nach gesperrten amtlichen PDF-Abrufen Tabelle 2-2 sowie Text auf S. 40–41 und Schlussfolgerungen zur iranischen Herkunftsgruppe gelesen: 29 % muslimisch, 27 % andere Religion, 44 % ohne Religion; keine Annahmen über einzelne Personen. Nach gesperrten amtlichen PDF-Abrufen Tabelle 2-2 sowie Text auf S. 40–41 und Schlussfolgerungen zur iranischen Herkunftsgruppe gelesen: 29 % muslimisch, 27 % andere Religion, 44 % ohne Religion; keine Annahmen über einzelne Personen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S047. Ergebnis: Im BAMF-Bericht MLD 2020 gehören 44 Prozent der erfassten Personen iranischer Herkunft keiner Religion an; 29 Prozent sind muslimisch, 27 Prozent gehören anderen Religionen an. Der hohe konfessionslose Anteil gegenüber vielen anderen untersuchten Herkunftsgruppen stützt den Sachkern. Daraus folgt keine einheitliche Haltung aller Iranstämmigen, keine generelle Rangfolge aller Gruppen Deutschlands und keine Messung ihrer individuellen Freiheitsorientierung.
+
+## Xw2tAp6UouE-A0056
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** In großen Konzernen gebe es keine Innovation; sie müssten deshalb Start-ups kaufen.
+
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:56:06–01:56:27](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=6966s) · nicht bestaetigt; Kandidat: Ben · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Moderators, keine bloße Rückfrage.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Als absolute Aussage ist das durch dokumentierte Gegenbeispiele widerlegt. Binnig und Rohrer entwickelten 1981 am IBM-Forschungslabor Zürich das Rastertunnelmikroskop; die Nobelstiftung würdigt genau diese Entwicklung. Große Organisationen können Innovationsprobleme haben und Unternehmen zukaufen. Daraus folgt aber nicht, dass in Konzernen überhaupt keine Innovation entsteht.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Nobelstiftung: Gerd Binnig – Facts, Physikpreis 1986](https://www.nobelprize.org/prizes/physics/1986/binnig/facts/) · Offizielle Würdigung des Rastertunnelmikroskops und institutionelle Zugehörigkeit.
+  Quellenzugriff am 2026-11-24. Entwicklung 1981 durch Binnig und Rohrer und Zugehörigkeit zum IBM-Forschungslabor Zürich gelesen. Entwicklung 1981 durch Binnig und Rohrer und Zugehörigkeit zum IBM-Forschungslabor Zürich gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S061. Ergebnis: Als absolute Aussage ist das durch dokumentierte Gegenbeispiele widerlegt. Binnig und Rohrer entwickelten 1981 am IBM-Forschungslabor Zürich das Rastertunnelmikroskop; die Nobelstiftung würdigt genau diese Entwicklung. Große Organisationen können Innovationsprobleme haben und Unternehmen zukaufen. Daraus folgt aber nicht, dass in Konzernen überhaupt keine Innovation entsteht.
+
+## Xw2tAp6UouE-A0073
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der Gast bevorzugt eine schrittweise gesellschaftliche Reform gegenüber einem revolutionären Neubeginn.
+
+Status: **Abgeschlossen** · Bewertung: **Meinung / Prognose** · Art: Meinung
+
+### Fundstellen und Zuordnung
+
+- [01:55:40–01:55:54](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=6940s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Das ist eine ausdrücklich formulierte politische Präferenz. Sie ist weder eine gemessene Erfolgsbilanz noch ein eigenständiger Faktenfehler.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: Kein überprüfbarer Tatsachenkern. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012. Ergebnis: Das ist eine ausdrücklich formulierte politische Präferenz. Sie ist weder eine gemessene Erfolgsbilanz noch ein eigenständiger Faktenfehler.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

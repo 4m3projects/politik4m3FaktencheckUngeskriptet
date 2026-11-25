@@ -1,0 +1,564 @@
+{
+  "schemaVersion": 1,
+  "videoId": "Xw2tAp6UouE",
+  "basis": "Zuordnung aus den erfassten Aussagen und Fundstellen; keine Ableitung aus dem Videotitel.",
+  "topics": [
+    {
+      "topic": "philosophie",
+      "relevance": "Schwerpunkt",
+      "basis": "11 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "recht",
+      "relevance": "Schwerpunkt",
+      "basis": "14 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "biologie",
+      "relevance": "Schwerpunkt",
+      "basis": "12 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "religion",
+      "relevance": "Schwerpunkt",
+      "basis": "20 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "meinungsfreiheit/strafrecht",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "medizin",
+      "relevance": "Behandelt",
+      "basis": "10 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "geschichte",
+      "relevance": "Behandelt",
+      "basis": "8 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "psychologie",
+      "relevance": "Behandelt",
+      "basis": "6 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "migration",
+      "relevance": "Behandelt",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "energie",
+      "relevance": "Behandelt",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "umwelt",
+      "relevance": "Behandelt",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Behandelt",
+      "basis": "2 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "corona",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "wissenschaft",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    },
+    {
+      "topic": "meinungsfreiheit",
+      "relevance": "Erwähnt",
+      "basis": "1 thematisch zugeordnete Aussagen im erfassten Teilbestand; Einstufung nach Inhalt und Anzahl, keine Gesamtvideo-Hochrechnung.",
+      "segments": []
+    }
+  ],
+  "claims": [
+    {
+      "claimId": "Xw2tAp6UouE-A0001",
+      "topics": [
+        "philosophie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0002",
+      "topics": [
+        "recht",
+        "philosophie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0003",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0004",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0005",
+      "topics": [
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0006",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0007",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0008",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0009",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0010",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0011",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0012",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0013",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0014",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0015",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0016",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0017",
+      "topics": [
+        "philosophie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0018",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0019",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0020",
+      "topics": [
+        "meinungsfreiheit/strafrecht",
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0021",
+      "topics": [
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0022",
+      "topics": [
+        "religion",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0023",
+      "topics": [
+        "religion",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0024",
+      "topics": [
+        "religion",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0025",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0026",
+      "topics": [
+        "religion",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0027",
+      "topics": [
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0028",
+      "topics": [
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0029",
+      "topics": [
+        "medizin"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0030",
+      "topics": [
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0031",
+      "topics": [
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0032",
+      "topics": [
+        "geschichte",
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0033",
+      "topics": [
+        "geschichte",
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0034",
+      "topics": [
+        "philosophie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0035",
+      "topics": [
+        "philosophie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0036",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0037",
+      "topics": [
+        "religion",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0038",
+      "topics": [
+        "psychologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0039",
+      "topics": [
+        "psychologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0040",
+      "topics": [
+        "psychologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0041",
+      "topics": [
+        "psychologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0042",
+      "topics": [
+        "psychologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0043",
+      "topics": [
+        "religion",
+        "migration"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0044",
+      "topics": [
+        "religion",
+        "migration"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0045",
+      "topics": [
+        "medizin"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0046",
+      "topics": [
+        "medizin"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0047",
+      "topics": [
+        "medizin"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0048",
+      "topics": [
+        "medizin"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0049",
+      "topics": [
+        "medizin"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0050",
+      "topics": [
+        "philosophie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0051",
+      "topics": [
+        "philosophie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0052",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0053",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0054",
+      "topics": [
+        "energie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0055",
+      "topics": [
+        "umwelt"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0056",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0057",
+      "topics": [
+        "religion",
+        "philosophie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0058",
+      "topics": [
+        "medizin"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0059",
+      "topics": [
+        "medizin"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0060",
+      "topics": [
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0061",
+      "topics": [
+        "geschichte",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0062",
+      "topics": [
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0063",
+      "topics": [
+        "medizin",
+        "philosophie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0064",
+      "topics": [
+        "geschichte",
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0065",
+      "topics": [
+        "biologie"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0066",
+      "topics": [
+        "medizin",
+        "corona"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0067",
+      "topics": [
+        "psychologie",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0068",
+      "topics": [
+        "philosophie",
+        "geschichte"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0069",
+      "topics": [
+        "wissenschaft"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0070",
+      "topics": [
+        "religion",
+        "recht"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0071",
+      "topics": [
+        "recht",
+        "meinungsfreiheit"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0072",
+      "topics": [
+        "umwelt"
+      ]
+    },
+    {
+      "claimId": "Xw2tAp6UouE-A0073",
+      "topics": [
+        "philosophie"
+      ]
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-24",
+      "agent": "Codex",
+      "change": "Neue Originaltext- und Sachprüfungen fachlich zugeordnet; vorhandene Aussagezuordnungen erhalten."
+    }
+  ]
+}

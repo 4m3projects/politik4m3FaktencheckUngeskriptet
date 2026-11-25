@@ -731,6 +731,142 @@
           "change": "Aus den neu geprüften konkreten Aussagen gebildet; keine manuell öffentliche Freigabe."
         }
       ]
+    },
+    {
+      "id": "biologie",
+      "name": "Biologie",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Evolution, Arten und biologische Grundlagen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "Codex",
+          "change": "Aus konkreten Aussagen der erweiterten Teilprüfungen angelegt; bestehende IDs und Aliasse auf Überschneidung geprüft."
+        }
+      ]
+    },
+    {
+      "id": "medizin",
+      "name": "Medizin",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Gesundheit, klinische Forschung und medizinische Versorgung.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "Codex",
+          "change": "Aus konkreten Aussagen der erweiterten Teilprüfungen angelegt; bestehende IDs und Aliasse auf Überschneidung geprüft."
+        }
+      ]
+    },
+    {
+      "id": "philosophie",
+      "name": "Philosophie",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Philosophische Begriffe, Textbezüge und normative Argumente.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "Codex",
+          "change": "Aus konkreten Aussagen der erweiterten Teilprüfungen angelegt; bestehende IDs und Aliasse auf Überschneidung geprüft."
+        }
+      ]
+    },
+    {
+      "id": "geschichte",
+      "name": "Geschichte",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Historische Ereignisse und überprüfbare zeitliche Einordnungen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "Codex",
+          "change": "Aus konkreten Aussagen der erweiterten Teilprüfungen angelegt; bestehende IDs und Aliasse auf Überschneidung geprüft."
+        }
+      ]
+    },
+    {
+      "id": "recht",
+      "name": "Recht",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Rechtsnormen, gerichtliche Entscheidungen und Zuständigkeiten.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "Codex",
+          "change": "Aus konkreten Aussagen der erweiterten Teilprüfungen angelegt; bestehende IDs und Aliasse auf Überschneidung geprüft."
+        }
+      ]
+    },
+    {
+      "id": "psychologie",
+      "name": "Psychologie",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Empirische Forschung zu Denken, Lernen und Verhalten.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "Codex",
+          "change": "Aus konkreten Aussagen der erweiterten Teilprüfungen angelegt; bestehende IDs und Aliasse auf Überschneidung geprüft."
+        }
+      ]
+    },
+    {
+      "id": "umwelt",
+      "name": "Umwelt",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Materialkreisläufe, Ressourcennutzung und Umwelteffekte.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "Codex",
+          "change": "Aus konkreten Aussagen der erweiterten Teilprüfungen angelegt; bestehende IDs und Aliasse auf Überschneidung geprüft."
+        }
+      ]
+    },
+    {
+      "id": "wissenschaft",
+      "name": "Wissenschaft",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [],
+      "description": "Wissenschaftliche Modelle und Erkenntnisgrenzen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-24",
+          "agent": "Codex",
+          "change": "Aus konkreten Aussagen der erweiterten Teilprüfungen angelegt; bestehende IDs und Aliasse auf Überschneidung geprüft."
+        }
+      ]
     }
   ]
 }

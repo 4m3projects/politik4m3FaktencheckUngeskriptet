@@ -1,8 +1,8 @@
 # Kapitel 02: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Fünf sachlich bereits geprüfte Aussagen, deren Gesprächsrolle jetzt zusätzlich direkt an der deutschen automatischen Originaltextfassung kontrolliert ist. Die Zuordnung zum Gast bleibt plausibel; im gelesenen Umfeld keine ausdrückliche Zurückweisung durch den Host. Keine vollständige Erfassung oder audiovisuelle Prüfung der knapp drei Stunden. Gesamtampel bleibt vorläufig.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung.
 
 ## Xw2tAp6UouE-A0001
 
@@ -156,5 +156,429 @@ Bewertungsuebergang: [Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüf
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## Xw2tAp6UouE-A0006
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Die Stiftung initiierte fowid, den hpd und das Institut für Weltanschauungsrecht.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:03:33–00:03:55](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=213s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die institutionelle Chronik dokumentiert den Start von fowid 2005 und des hpd 2006 sowie die Gründung des ifw 2017. Beim hpd war auch der Humanistische Verband Deutschland beteiligt. Die drei Einrichtungen haben unterschiedliche Aufgaben und Organisationsformen; die Aussage über das gewachsene Netzwerk stimmt, ohne daraus eine Alleingründung oder gleiche Rechtsform abzuleiten.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Giordano-Bruno-Stiftung: Chronologie der wichtigsten Ereignisse](https://www.giordano-bruno-stiftung.de/aktivitaeten/chronologie-wichtigsten-ereignisse) · Institutionelle Chronik: fowid 2005, hpd 2006, Zentralrat der Ex-Muslime 2007, Kritische Islamkonferenz 2008 und ifw 2017; eigene Beteiligung und Buchtermin.
+  Quellenzugriff am 2026-11-24. Abschnitte 2004–2008 und 2017 gelesen. Selbstauskunft des beteiligten Trägers, kein unabhängiger Wirkungsnachweis. Abschnitte 2004–2008 und 2017 gelesen. Selbstauskunft des beteiligten Trägers, kein unabhängiger Wirkungsnachweis.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S014. Ergebnis: Die institutionelle Chronik dokumentiert den Start von fowid 2005 und des hpd 2006 sowie die Gründung des ifw 2017. Beim hpd war auch der Humanistische Verband Deutschland beteiligt. Die drei Einrichtungen haben unterschiedliche Aufgaben und Organisationsformen; die Aussage über das gewachsene Netzwerk stimmt, ohne daraus eine Alleingründung oder gleiche Rechtsform abzuleiten.
+
+## Xw2tAp6UouE-A0007
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Deschners Kriminalgeschichte des Christentums umfasst zehn Bände.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:04:54–00:05:18](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=294s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Der Verlag führt Deschners Werk als Reihe mit zehn Bänden auf. Das bestätigt die bibliografische Zahl. Die historische Richtigkeit aller Inhalte des umfangreichen Werks wird damit nicht behauptet.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Rowohlt: Kriminalgeschichte des Christentums](https://www.rowohlt.de/buch/reihe/kriminalgeschichte-des-christentums) · Verlagsverzeichnis der zehnbändigen Reihe von Karlheinz Deschner.
+  Quellenzugriff am 2026-11-24. Reihenbeschreibung und Bandverzeichnis gelesen; bibliografische Auskunft, keine Prüfung aller historischen Buchthesen. Reihenbeschreibung und Bandverzeichnis gelesen; bibliografische Auskunft, keine Prüfung aller historischen Buchthesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S015. Ergebnis: Der Verlag führt Deschners Werk als Reihe mit zehn Bänden auf. Das bestätigt die bibliografische Zahl. Die historische Richtigkeit aller Inhalte des umfangreichen Werks wird damit nicht behauptet.
+
+## Xw2tAp6UouE-A0008
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Das Manifest erschien ein Jahr vor Dawkins' Gotteswahn.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:06:09–00:06:37](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=369s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Stiftungs-Chronik datiert das Manifest auf Oktober 2005. Penguin nennt 2006 als erstes Erscheinungsjahr von The God Delusion. Der Abstand von einem Jahr stimmt für das englische Original; neuere Datumsangaben einzelner Ausgaben dürfen nicht mit dem Ersterscheinen verwechselt werden.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Giordano-Bruno-Stiftung: Chronologie der wichtigsten Ereignisse](https://www.giordano-bruno-stiftung.de/aktivitaeten/chronologie-wichtigsten-ereignisse) · Institutionelle Chronik: fowid 2005, hpd 2006, Zentralrat der Ex-Muslime 2007, Kritische Islamkonferenz 2008 und ifw 2017; eigene Beteiligung und Buchtermin.
+  Quellenzugriff am 2026-11-24. Abschnitte 2004–2008 und 2017 gelesen. Selbstauskunft des beteiligten Trägers, kein unabhängiger Wirkungsnachweis. Abschnitte 2004–2008 und 2017 gelesen. Selbstauskunft des beteiligten Trägers, kein unabhängiger Wirkungsnachweis.
+
+- [Penguin: The God Delusion](https://www.penguin.co.uk/books/350427/the-god-delusion-by-richard-dawkins/9781409091585) · Verlag nennt 2006 als Ersterscheinungsjahr des Originalwerks; Produktdatum 2009 betrifft die E-Book-Ausgabe.
+  Quellenzugriff am 2026-11-24. Beschreibung, Ersterscheinungsangabe und getrennte Ausgabedaten gelesen. Beschreibung, Ersterscheinungsangabe und getrennte Ausgabedaten gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S014, S016. Ergebnis: Die Stiftungs-Chronik datiert das Manifest auf Oktober 2005. Penguin nennt 2006 als erstes Erscheinungsjahr von The God Delusion. Der Abstand von einem Jahr stimmt für das englische Original; neuere Datumsangaben einzelner Ausgaben dürfen nicht mit dem Ersterscheinen verwechselt werden.
+
+## Xw2tAp6UouE-A0009
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Schimpansengruppen haben unterschiedliche kulturell erlernte Verhaltensweisen und Nahrungstraditionen.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:15:00–00:15:40](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=900s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Gruppenabhängige, sozial erlernte Verhaltensweisen und Nahrungstraditionen sind in der Schimpansenforschung gut dokumentiert. Die Studie aus dem beteiligten Max-Planck-Institut beschreibt entsprechende Beobachtungen und deren Grenzen. Daraus folgt aber kein Beleg für das im Gespräch zugespitzte Müssen und Dürfen bestimmter Nahrungsmittel als menschenähnliches Tabusystem.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Max-Planck-Gesellschaft: Unterschätzte Kultur-Vielfalt wilder Schimpansen](https://www.mpg.de/26532744/unterschaetzte-kultur-vielfalt-wilder-schimpansen) · Bericht des beteiligten Forschungsinstituts vom 21.05.2026 zur Studie von Slania et al.; soziales Lernen und Nahrungstraditionen.
+  Quellenzugriff am 2026-11-24. Methodik, Befunde und Grenzen der Beobachtungsstudie gelesen, insbesondere fehlender direkter Kausaltest von Peering und Lernen. Methodik, Befunde und Grenzen der Beobachtungsstudie gelesen, insbesondere fehlender direkter Kausaltest von Peering und Lernen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S017. Ergebnis: Gruppenabhängige, sozial erlernte Verhaltensweisen und Nahrungstraditionen sind in der Schimpansenforschung gut dokumentiert. Die Studie aus dem beteiligten Max-Planck-Institut beschreibt entsprechende Beobachtungen und deren Grenzen. Daraus folgt aber kein Beleg für das im Gespräch zugespitzte Müssen und Dürfen bestimmter Nahrungsmittel als menschenähnliches Tabusystem.
+
+## Xw2tAp6UouE-A0010
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Kinder übernehmen in Experimenten auch unnötige Handlungsschritte eher als Schimpansen.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:17:14–00:17:31](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=1034s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Horner und Whiten verglichen Schimpansen mit drei- bis vierjährigen Kindern bei einer Werkzeugaufgabe. Bei der transparenten Box ließen die Schimpansen überflüssige Schritte eher weg, während Kinder sie weiter kopierten. Das stützt den konkreten experimentellen Vergleich. Es ist keine Aussage, dass jeder Mensch ständig jede sinnlose Handlung nachahmt.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Horner und Whiten (2005): Causal knowledge and imitation/emulation switching in chimpanzees and children](https://research-portal.st-andrews.ac.uk/en/publications/causal-knowledge-and-imitationemulation-switching-in-chimpanzees-/) · Originalstudie, Animal Cognition 8, 164–181, DOI 10.1007/s10071-004-0239-6.
+  Quellenzugriff am 2026-11-24. Vollständiges Abstract am institutionellen Publikationseintrag gelesen: durchsichtige/undurchsichtige Box, unnötige Handlungen und Altersbereich. Vollständiges Abstract am institutionellen Publikationseintrag gelesen: durchsichtige/undurchsichtige Box, unnötige Handlungen und Altersbereich.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S018. Ergebnis: Horner und Whiten verglichen Schimpansen mit drei- bis vierjährigen Kindern bei einer Werkzeugaufgabe. Bei der transparenten Box ließen die Schimpansen überflüssige Schritte eher weg, während Kinder sie weiter kopierten. Das stützt den konkreten experimentellen Vergleich. Es ist keine Aussage, dass jeder Mensch ständig jede sinnlose Handlung nachahmt.
+
+## Xw2tAp6UouE-A0011
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Homo erectus existierte ungefähr zwei Millionen Jahre.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:17:40–00:18:10](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=1060s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+- [00:22:10–00:22:31](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=1330s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Smithsonian-Übersicht nennt Fossilbelege von etwa 1,89 Millionen bis 110.000 Jahren vor heute. Eine Existenzdauer von grob zwei Millionen Jahren ist eine vertretbare Rundung. Die Grenzen hängen von Fossilfunden, Datierung und taxonomischer Abgrenzung ab und sind kein exakt feststehender Anfangs- oder Endtag.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Smithsonian Human Origins: Homo erectus](https://humanorigins.si.edu/evidence/human-fossils/species/homo-erectus) · Museale Forschungsübersicht zu Fossilbelegen und zeitlicher Einordnung.
+  Quellenzugriff am 2026-11-24. Zeitangabe etwa 1,89 Millionen bis 110.000 Jahre und Zusammenfassung der Fossilbelege gelesen. Zeitangabe etwa 1,89 Millionen bis 110.000 Jahre und Zusammenfassung der Fossilbelege gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S019. Ergebnis: Die Smithsonian-Übersicht nennt Fossilbelege von etwa 1,89 Millionen bis 110.000 Jahren vor heute. Eine Existenzdauer von grob zwei Millionen Jahren ist eine vertretbare Rundung. Die Grenzen hängen von Fossilfunden, Datierung und taxonomischer Abgrenzung ab und sind kein exakt feststehender Anfangs- oder Endtag.
+
+## Xw2tAp6UouE-A0014
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Schimpansen können berücksichtigen, was ein anderer weiß oder erwartet.
+
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:18:02–00:18:21](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=1082s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die Blickverhaltensexperimente von Krupenye und Kollegen liefern Hinweise, dass Menschenaffen zumindest implizit Erwartungen anderer berücksichtigen. Die Autoren diskutieren selbst alternative Erklärungen und Unterschiede zu expliziten Tests. Das stützt einen begrenzten Theory-of-Mind-Befund, beweist aber nicht sämtliche im Gespräch angeschlossenen Aussagen über ein menschlich vergleichbares Ichbewusstsein oder philosophische Personalität.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Krupenye et al. (2016): Great apes anticipate that other individuals will act according to false beliefs](https://www.wrc.kyoto-u.ac.jp/en/publications/ChristopherKrupenye/Krupenye-Kano2016-Science.html) · Autorenfassung der Science-Originalstudie am beteiligten Wildlife Research Center; DOI 10.1126/science.aaf8110.
+  Quellenzugriff am 2026-11-24. Abstract, Versuchsaufbau, Blickergebnisse und Diskussion alternativer Regel-Lern-Erklärungen gelesen. Nicht mit einem vollständigen menschlichen Ichbewusstsein gleichgesetzt. Abstract, Versuchsaufbau, Blickergebnisse und Diskussion alternativer Regel-Lern-Erklärungen gelesen. Nicht mit einem vollständigen menschlichen Ichbewusstsein gleichgesetzt.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S022. Ergebnis: Die Blickverhaltensexperimente von Krupenye und Kollegen liefern Hinweise, dass Menschenaffen zumindest implizit Erwartungen anderer berücksichtigen. Die Autoren diskutieren selbst alternative Erklärungen und Unterschiede zu expliziten Tests. Das stützt einen begrenzten Theory-of-Mind-Befund, beweist aber nicht sämtliche im Gespräch angeschlossenen Aussagen über ein menschlich vergleichbares Ichbewusstsein oder philosophische Personalität.
+
+## Xw2tAp6UouE-A0017
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Ockhams Rasiermesser bevorzugt Erklärungen ohne unnötige Zusatzannahmen.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:14:24–00:14:57](https://www.youtube.com/watch?v=Xw2tAp6UouE&t=864s) · nicht bestaetigt; Kandidat: Michael Schmidt-Salomon · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage des Gasts im gelesenen Frage/Antwort-Kontext.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-Player privat erschlossenen deutschen automatischen Textfassung; keine gemessene Satzgrenze.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Ockhams Rasiermesser ist ein methodisches Sparsamkeitsprinzip: Unnötige zusätzliche Entitäten oder Annahmen sollen vermieden werden. Das ist keine Garantie, dass die jeweils einfachste Erklärung wahr ist, und kein naturwissenschaftlicher Beweis gegen jede denkbare Gottesvorstellung. In diesem begrenzten methodischen Sinn ist die Gesprächserläuterung zutreffend.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+
+Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
+
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+
+### Zugeordnete Quellen
+
+- [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=Xw2tAp6UouE) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
+  Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
+
+- [Stanford Encyclopedia of Philosophy: William of Ockham, Abschnitt 4.1](https://plato.stanford.edu/entries/ockham/) · Philosophische Fachdarstellung des Sparsamkeitsprinzips mit Originalstellen und Ausnahmen.
+  Quellenzugriff am 2026-11-24. Abschnitt 4.1 zu Ockhams Rasiermesser, methodischem Anspruch und Grenzen gelesen. Abschnitt 4.1 zu Ockhams Rasiermesser, methodischem Anspruch und Grenzen gelesen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
+
+- Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S024. Ergebnis: Ockhams Rasiermesser ist ein methodisches Sparsamkeitsprinzip: Unnötige zusätzliche Entitäten oder Annahmen sollen vermieden werden. Das ist keine Garantie, dass die jeweils einfachste Erklärung wahr ist, und kein naturwissenschaftlicher Beweis gegen jede denkbare Gottesvorstellung. In diesem begrenzten methodischen Sinn ist die Gesprächserläuterung zutreffend.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
