@@ -179,13 +179,13 @@ Zeitgrundlage: Gerundete Segmentanker der automatischen deutschen YouTube-Origin
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der gemeinte Heinz Faßmann wurde unter Kurz Bildungs- und Wissenschaftsminister. Seine Parlamentsbiografie und die Österreichische Akademie der Wissenschaften bezeichnen seine vorherige Funktion an der Universität Wien jedoch als Vizerektor 2011 bis 2017. Der Wechsel aus der Universitätsleitung ist richtig, der konkrete Titel Rektor nicht.
+In den beiden Kurz-Kabinetten war Heinz Faßmann Bildungs- und Wissenschaftsminister; zuvor war er laut Parlament und ÖAW Vizerektor der Universität Wien. Ein früherer Rektor, Martin Polaschek aus Graz, wurde erst am 6. Dezember 2021 Minister, nach dem Ende von Kurz’ Kanzlerschaft. Die Interviewstelle nennt keinen Namen: Für Faßmann stimmt der Wechsel aus der Universitätsleitung, aber nicht der Amtsrang; für Polaschek passt das Rektorat, aber nicht die zeitliche Zuschreibung zu einer Kurz-Regierung.
 
 Grundlage der Bewertung: [Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.
 
 Uebernahme: Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.
 
-Bewertungsuebergang: [Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft.
+Bewertungsuebergang: [Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft. Redaktionelle Präzisierung vor Veröffentlichung: keine sichere Identifikation Faßmanns aus der namenlosen Stelle behauptet; auch Polascheks Amtszeit gegengeprüft. Sachkategorie unverändert.
 
 ### Zugeordnete Quellen
 
@@ -198,6 +198,9 @@ Bewertungsuebergang: [Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeic
 - [Österreichische Akademie der Wissenschaften: Heinz Faßmann wird neuer Präsident](https://www.oeaw.ac.at/news/heinz-fassmann-wird-neuer-praesident-der-oeaw) · Institutionelle Biografie bestätigt Vizerektorat und Ministertätigkeit.
   Quellenzugriff am 2026-11-25. Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers. Institutionelle Biografie bestätigt Vizerektorat und Ministertätigkeit.
 
+- [Österreichisches Parlament: Martin Polaschek](https://www.parlament.gv.at/person/20449?selectedtab=BIO) · Rektor in Graz vom 1. Oktober 2019 bis 5. Dezember 2021; Bundesminister ab 6. Dezember 2021, nach Kurz’ Kanzlerschaft.
+  Quellenzugriff am 2026-11-25. Amtliche Biografie einschließlich Amts- und Rektoratszeiten gelesen; keine Personenidentifikation aus dem Interview unterstellt. Kontrolliert die alternative Lesart: Polaschek war Rektor, wurde aber erst am 6. Dezember 2021 Minister.
+
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
@@ -206,7 +209,7 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 
-- Durchgang 1 am 2026-11-25 (Codex): Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen. Gepruefte Quellen: S001, S050, S051. Ergebnis: Der gemeinte Heinz Faßmann wurde unter Kurz Bildungs- und Wissenschaftsminister. Seine Parlamentsbiografie und die Österreichische Akademie der Wissenschaften bezeichnen seine vorherige Funktion an der Universität Wien jedoch als Vizerektor 2011 bis 2017. Der Wechsel aus der Universitätsleitung ist richtig, der konkrete Titel Rektor nicht.
+- Durchgang 1 am 2026-11-25 (Codex): Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen. Gepruefte Quellen: S001, S050, S051, S066. Ergebnis: In den beiden Kurz-Kabinetten war Heinz Faßmann Bildungs- und Wissenschaftsminister; zuvor war er laut Parlament und ÖAW Vizerektor der Universität Wien. Ein früherer Rektor, Martin Polaschek aus Graz, wurde erst am 6. Dezember 2021 Minister, nach dem Ende von Kurz’ Kanzlerschaft. Die Interviewstelle nennt keinen Namen: Für Faßmann stimmt der Wechsel aus der Universitätsleitung, aber nicht der Amtsrang; für Polaschek passt das Rektorat, aber nicht die zeitliche Zuschreibung zu einer Kurz-Regierung.
 
 ## Q0xlcSU37TM-A0045
 

@@ -218,7 +218,7 @@ Zeitgrundlage: Gerundete Segmentanker der automatischen deutschen YouTube-Origin
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Ein deutlicher Fortschritt bei KI-gestützter Schwachstellenforschung ist belegt: Google beschreibt die veränderte Entdeckungs- und Ausnutzungslandschaft, Anthropic dokumentiert konkrete gemeldete Schwachstellen und Angriffsketten. Der Herstellerbericht ist ein eigener Leistungsnachweis und keine unabhängige allgemeine Benchmark. Weder diese Berichte noch die NCSC-Einschätzung liefern einen universellen Vergleich von Minuten gegen Monate oder eine unbegrenzte Zahl praktisch nutzbarer Zero-Days. Offenlegung, Exploitentwicklung und tatsächliche Ausnutzung sind zu unterscheiden.
+Ein deutlicher Fortschritt bei KI-gestützter Schwachstellenforschung ist belegt: Google beschreibt die veränderte Entdeckungs- und Ausnutzungslandschaft, Anthropic dokumentiert konkrete gemeldete Schwachstellen und Angriffsketten. Der Herstellerbericht ist ein eigener Leistungsnachweis und keine unabhängige allgemeine Benchmark. Weder diese Berichte noch die NCSC-Einschätzung liefern einen universellen Vergleich von Minuten gegen Monate oder die pauschal behauptete Größenordnung praktisch nutzbarer neuer Zero-Days. Offenlegung, Exploitentwicklung und tatsächliche Ausnutzung sind zu unterscheiden.
 
 Grundlage der Bewertung: [Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.
 
@@ -248,7 +248,7 @@ Bewertungsuebergang: [Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeic
 
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 
-- Durchgang 1 am 2026-11-25 (Codex): Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen. Gepruefte Quellen: S001, S053, S054, S055. Ergebnis: Ein deutlicher Fortschritt bei KI-gestützter Schwachstellenforschung ist belegt: Google beschreibt die veränderte Entdeckungs- und Ausnutzungslandschaft, Anthropic dokumentiert konkrete gemeldete Schwachstellen und Angriffsketten. Der Herstellerbericht ist ein eigener Leistungsnachweis und keine unabhängige allgemeine Benchmark. Weder diese Berichte noch die NCSC-Einschätzung liefern einen universellen Vergleich von Minuten gegen Monate oder eine unbegrenzte Zahl praktisch nutzbarer Zero-Days. Offenlegung, Exploitentwicklung und tatsächliche Ausnutzung sind zu unterscheiden.
+- Durchgang 1 am 2026-11-25 (Codex): Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen. Gepruefte Quellen: S001, S053, S054, S055. Ergebnis: Ein deutlicher Fortschritt bei KI-gestützter Schwachstellenforschung ist belegt: Google beschreibt die veränderte Entdeckungs- und Ausnutzungslandschaft, Anthropic dokumentiert konkrete gemeldete Schwachstellen und Angriffsketten. Der Herstellerbericht ist ein eigener Leistungsnachweis und keine unabhängige allgemeine Benchmark. Weder diese Berichte noch die NCSC-Einschätzung liefern einen universellen Vergleich von Minuten gegen Monate oder die pauschal behauptete Größenordnung praktisch nutzbarer neuer Zero-Days. Offenlegung, Exploitentwicklung und tatsächliche Ausnutzung sind zu unterscheiden.
 
 ## Q0xlcSU37TM-A0048
 
