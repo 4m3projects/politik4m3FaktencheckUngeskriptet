@@ -1,15 +1,15 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Erste gezielte Stichprobe aus Einleitung, Amtsbiografie, Migrationsdebatte, Koalition, Kanzleramt, Cyberthemen und Justiz. Keine Vollanalyse und keine hochgerechnete Gesamtfehlerquote. Nicht erfasste Stellen und ausdrücklich offene Sachverhalte sind unbewertet; Werbepassagen sind hier nicht bewertet.",
+  "coverageNote": "Erweiterte Text-Teilprüfung mit 52 Prüfgegenständen aus Biografie, Institutionen, Migration, Reformen, Koalitionen, Cyberthemen, Justiz und Abschluss. Zwei gesundheitliche Werbesachkerne zusätzlich geprüft; übrige Produkt-, Preis-, Wirkungs- und Förderversprechen bleiben außerhalb dieses Teilbestands. Vier konkrete Sachprüfungen bleiben offen. Automatische Originaltexte, gerundete Zeiten und plausible Sprecherzuordnung; kein durchgängiger Hör-/Bildabgleich, keine Vollerfassung und keine Gesamtfehlerquote.",
   "videoId": "Q0xlcSU37TM",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 30,
-  "uniqueStatements": 30,
+  "statementRecords": 52,
+  "uniqueStatements": 52,
   "referenceOnlyStatements": 0,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 34,
+  "assertionOccurrences": 56,
   "additionalAssertionOccurrences": 4,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 0,
@@ -17,35 +17,35 @@
   "statusCounts": {
     "Offen": 4,
     "In Bearbeitung": 0,
-    "Nicht überprüfbar": 0,
-    "Abgeschlossen": 26
+    "Nicht überprüfbar": 1,
+    "Abgeschlossen": 47
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 29,
-    "Meinung": 1,
+    "Tatsachenbehauptung": 50,
+    "Meinung": 2,
     "Prognose": 0
   },
-  "completedFacts": 25,
+  "completedFacts": 45,
   "openFacts": 4,
   "inProgressFacts": 0,
-  "unverifiableFacts": 0,
-  "percentageDenominator": 25,
+  "unverifiableFacts": 1,
+  "percentageDenominator": 45,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 17,
-      "completedFactPercent": 68.0
+      "completedCount": 29,
+      "completedFactPercent": 64.4
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 4,
-      "completedFactPercent": 16.0
+      "completedCount": 8,
+      "completedFactPercent": 17.8
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 3,
-      "completedFactPercent": 12.0
+      "completedCount": 7,
+      "completedFactPercent": 15.6
     },
     {
       "category": "Widerlegt",
@@ -55,11 +55,11 @@
     {
       "category": "Nicht ausreichend belegbar",
       "completedCount": 1,
-      "completedFactPercent": 4.0
+      "completedFactPercent": 2.2
     },
     {
       "category": "Meinung / Prognose",
-      "completedCount": 1,
+      "completedCount": 2,
       "completedFactPercent": null
     }
   ],
@@ -151,19 +151,19 @@
         ]
       }
     ],
-    "eligibleFacts": 29,
+    "eligibleFacts": 50,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 29,
-    "factsWithUncertainAttribution": 29,
-    "factsWithUncertainOwnRole": 29,
+    "factsWithoutReliablePerson": 50,
+    "factsWithUncertainAttribution": 50,
+    "factsWithUncertainOwnRole": 50,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 34,
+      "Plausibel": 56,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 34,
+      "Plausibel": 56,
       "Ungeklärt": 0
     }
   }

@@ -1,8 +1,8 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erste gezielte Stichprobe aus Einleitung, Amtsbiografie, Migrationsdebatte, Koalition, Kanzleramt, Cyberthemen und Justiz. Keine Vollanalyse und keine hochgerechnete Gesamtfehlerquote. Nicht erfasste Stellen und ausdrücklich offene Sachverhalte sind unbewertet; Werbepassagen sind hier nicht bewertet.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte Text-Teilprüfung mit 52 Prüfgegenständen aus Biografie, Institutionen, Migration, Reformen, Koalitionen, Cyberthemen, Justiz und Abschluss. Zwei gesundheitliche Werbesachkerne zusätzlich geprüft; übrige Produkt-, Preis-, Wirkungs- und Förderversprechen bleiben außerhalb dieses Teilbestands. Vier konkrete Sachprüfungen bleiben offen. Automatische Originaltexte, gerundete Zeiten und plausible Sprecherzuordnung; kein durchgängiger Hör-/Bildabgleich, keine Vollerfassung und keine Gesamtfehlerquote.
 
-[Kai] Deutschen automatisch erzeugten Originaltext im YouTube-Player geöffnet, die ausgewiesenen Stellen mit Vor- und Nachlauf geprüft und Primärquellen separat gelesen. Keine vollständige Hör-/Sichtkontrolle. Sprecherangaben aus dem Textkontext bleiben plausibel.
+[Kai] Deutschen automatisch erzeugten Originaltext im YouTube-Player geöffnet, die ausgewiesenen Stellen mit Vor- und Nachlauf geprüft und Primärquellen separat gelesen. Keine vollständige Hör-/Sichtkontrolle. Sprecherangaben aus dem Textkontext bleiben plausibel. [Codex] 25.11.2026: erneuter direkter Originalplayer-Zugang; offene Stellen zuerst gesichtet. A0015 nach zwei Recherchedurchgängen als grundsätzlich nicht öffentlich überprüfbare private Erzählung eingeordnet; A0024 mit zwei zeitnahen Berichten ergänzt, weiter offen. A0011 bleibt wegen widersprüchlicher automatischer Zahlenfassungen bis zur Hörkontrolle offen; A0028 mangels kontrollierter Gerichtsäußerung ebenfalls offen. 22 neue Prüfgegenstände A0031–A0052 zu Institutionen, Reformen, Asylverteilung, Cyberangriffen, zwei Werbesachkernen und der Abschlusswertung. Früher abgeschlossene Sachurteile unverändert. Keine vollständige audiovisuelle Kontrolle oder vollständiges Aussageninventar.
 
 ## Q0xlcSU37TM-A0008
 
@@ -393,7 +393,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** CDU-Politiker und Minister hätten Kurz im privaten Gespräch für seinen Kurs gedankt.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Nicht überprüfbar** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -425,21 +425,190 @@ Zeitgrundlage: Anker aus dem deutschen Originaltranskript im YouTube-Player; ger
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – die Aussage betrifft nicht namentlich bezeichnete Gespräche; keine öffentliche Bestätigung aufgenommen.
+Nicht überprüfbar – behauptet werden vertrauliche Gespräche mit nicht benannten CDU-Politikern und Ministern. Ohne identifizierbare Beteiligte, Datierung oder freiwillig veröffentlichte Gesprächsbelege fehlt für genau diese privaten Anrufe eine öffentliche Prüfgrundlage. Der gelesene Rückblick und das frühere Interview dokumentieren politische Kontakte und Unterstützung, bestätigen aber keine konkreten Anrufe dieses Inhalts. Daraus folgt weder Bestätigung noch Widerlegung der privaten Erzählung.
 
-Grundlage der Bewertung: [Kai] Deutsche automatische Original-Textstellen im Anschlusskontext gelesen; Sachprüfung nicht abgeschlossen.
+Grundlage der Bewertung: [Codex] Originalstelle 00:49:02–00:49:27 mit Anschluss und Intro gelesen; zwei unterschiedlich angelegte Suchen und die angegebenen veröffentlichten Texte geprüft.
 
 Uebernahme: Direkter Teilbestand aus deutschen Originaltextstellen; keine Altpunkte.
 
-Bewertungsuebergang: [Kai] Neue offene Prüfstelle.
+Bewertungsuebergang: [Kai] Neue offene Prüfstelle. Nachrecherche 2026-11-25 (Codex): vorher {"status":"Offen","verdict":null,"reason":"Noch nicht geprüft – die Aussage betrifft nicht namentlich bezeichnete Gespräche; keine öffentliche Bestätigung aufgenommen."}; jetzt Nicht überprüfbar, weil unbenannte vertrauliche Gespräche keine konkret kontrollierbare öffentliche Prüfgrundlage bieten. Kein Wahr/Falsch-Urteil vergeben.
 
 ### Zugeordnete Quellen
 
 - [Originalvideo: {ungeskriptet} mit Sebastian Kurz](https://www.youtube.com/watch?v=Q0xlcSU37TM) · 25.11.2026, 1:52:16.
   Quellenzugriff am 2026-11-25. Deutsche automatische Transkriptspur im Originalplayer geöffnet und ausgewählte Stellen samt Anschlusskontext gelesen. Metadaten aus dem Originalplayer. Keine vollständige Ton- oder Bildkontrolle. Identifikation, Wortlautbezug und Position; kein unabhängiger Sachbeleg.
 
+- [Der Standard: Merkel und Kurz – Ende einer schwierigen Beziehung](https://www.derstandard.at/story/2000131621126/merkel-und-kurz-das-ende-einer-schwierigen-beziehung) · 2. Dezember 2021; Bericht über öffentliche und informelle Unterstützung, kein identifizierter Nachweis der behaupteten privaten Anrufe.
+  Quellenzugriff am 2026-11-25. Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers. Politischer Rückblick; kein identifizierter Nachweis der privaten Anrufe.
+
+- [FOCUS 20/2018: Gespräch mit Sebastian Kurz](https://www.derrohleder.de/PDF/Sebastian_Kurz.pdf) · Interview auf der Website eines beteiligten Journalisten; Passagen zu Beziehungen mit CDU/CSU, Merkel, Steinmeier und Spahn gelesen. Keine unabhängige Bestätigung der unbenannten Anrufe.
+  Quellenzugriff am 2026-11-25. Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers. Früheres direktes Interview zu Kontakten mit CDU/CSU; keine unabhängige Bestätigung des privaten Gesprächsinhalts.
+
 ### Offene Fragen und Unsicherheiten
 
-- Existiert eine öffentliche Bestätigung einer beteiligten Person oder ein veröffentlichter zeitgenössischer Nachweis?
+- Wenn Kurz Gesprächspartner und Zeitpunkte konkretisiert oder Beteiligte freiwillig belastbare Belege veröffentlichen, die zugeordneten Gespräche erneut prüfen.
+
+### Recherchedokumentation
+
+Einordnung: Derzeit nicht überprüfbar. Sicherheit der Einordnung: Hoch.
+
+Fehlende Information: Identifizierte Gesprächspartner, konkrete Zeitpunkte und freiwillig zugängliche Bestätigungen des Gesprächsinhalts.
+
+- Durchgang 1 am 2026-11-25 (Codex): UG/HP zu Kurz und Migrationspolitik durchsucht; Suche nach Kurz, CDU, Ministern, Dank und Balkanroute, Originalstelle sowie veröffentlichten Beziehungsrückblick gelesen. Gepruefte Quellen: S001, S062. Ergebnis: Öffentliche und informelle Unterstützung beschrieben; die im Interview behaupteten Anrufer bleiben unbenannt.
+
+- Durchgang 2 am 2026-11-25 (Codex): Zweiter Prüfweg über ein früheres ausführliches Direktinterview mit Kurz und dessen Passagen zu Merkel, Steinmeier, Spahn und CDU/CSU. Gepruefte Quellen: S063. Ergebnis: Politische Kontakte beschrieben, keine überprüfbare Dokumentation der konkreten vertraulichen Anrufe.
+
+## Q0xlcSU37TM-A0033
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Ein Großteil der Asylanträge während der Krise 2015 entfiel zusammen auf Deutschland, Österreich und Schweden.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:41:50–00:42:10](https://www.youtube.com/watch?v=Q0xlcSU37TM&t=2510s) · nicht bestaetigt; Kandidat: Sebastian Kurz · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.
+
+Zeitgrundlage: Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Eurostat registrierte 2015 rund 441.800 Erstasylanträge in Deutschland, 156.100 in Schweden und 85.500 in Österreich. Zusammen sind das etwa 683.400 von 1.255.600 in der EU, also rund 54 Prozent. Das stützt die zusammengefasste Verteilung; Ungarn lag einzeln vor Schweden und Österreich. Die Statistik belegt weder Sozialleistungen als Ursache noch die Zahl aller tatsächlich eingereisten Personen.
+
+Grundlage der Bewertung: [Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.
+
+Uebernahme: Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.
+
+Bewertungsuebergang: [Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft.
+
+### Zugeordnete Quellen
+
+- [Originalvideo: {ungeskriptet} mit Sebastian Kurz](https://www.youtube.com/watch?v=Q0xlcSU37TM) · 25.11.2026, 1:52:16.
+  Quellenzugriff am 2026-11-25. Deutsche automatische Transkriptspur im Originalplayer geöffnet und ausgewählte Stellen samt Anschlusskontext gelesen. Metadaten aus dem Originalplayer. Keine vollständige Ton- oder Bildkontrolle. Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg.
+
+- [Eurostat: Asylum in the EU Member States, 44/2016](https://ec.europa.eu/eurostat/documents/2995521/7203832/3-04032016-AP-EN.pdf/790eba01-381c-4163-bcd2-a54959b99ed6?t=1457087311000) · 4. März 2016; Erstasylanträge 2015, Tabelle auf Seite 2. Erfasst Registrierungen, keine individuellen Zielwahlmotive.
+  Quellenzugriff am 2026-11-25. Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers. 4. März 2016; Erstasylanträge 2015, Tabelle auf Seite 2. Erfasst Registrierungen, keine individuellen Zielwahlmotive.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-25 (Codex): Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen. Gepruefte Quellen: S001, S037. Ergebnis: Eurostat registrierte 2015 rund 441.800 Erstasylanträge in Deutschland, 156.100 in Schweden und 85.500 in Österreich. Zusammen sind das etwa 683.400 von 1.255.600 in der EU, also rund 54 Prozent. Das stützt die zusammengefasste Verteilung; Ungarn lag einzeln vor Schweden und Österreich. Die Statistik belegt weder Sozialleistungen als Ursache noch die Zahl aller tatsächlich eingereisten Personen.
+
+## Q0xlcSU37TM-A0049
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Der gesetzliche Gesundheits-Check-up erfasse nur Cholesterin und Blutzucker.
+
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:32:05–00:32:20](https://www.youtube.com/watch?v=Q0xlcSU37TM&t=1925s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Werbeaussage der Moderation; nicht dem Gast zugeschrieben.
+
+Zeitgrundlage: Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die beiden genannten Laborwerte gehören zum altersabhängigen Check-up, bilden aber nicht seinen Gesamtumfang. Der G-BA nennt unter anderem Anamnese, körperliche Untersuchung, Blutdruck, Impfstatus, Risikofaktoren und Beratung; ab 35 kommen Urinuntersuchung und einmaliges Hepatitis-B/C-Screening hinzu. Die Werbung verkürzt damit das reguläre Vorsorgeangebot. Ob das beworbene Zusatzangebot für eine bestimmte Person sinnvoll ist, wird hier nicht beurteilt.
+
+Grundlage der Bewertung: [Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.
+
+Uebernahme: Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.
+
+Bewertungsuebergang: [Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft.
+
+### Zugeordnete Quellen
+
+- [Originalvideo: {ungeskriptet} mit Sebastian Kurz](https://www.youtube.com/watch?v=Q0xlcSU37TM) · 25.11.2026, 1:52:16.
+  Quellenzugriff am 2026-11-25. Deutsche automatische Transkriptspur im Originalplayer geöffnet und ausgewählte Stellen samt Anschlusskontext gelesen. Metadaten aus dem Originalplayer. Keine vollständige Ton- oder Bildkontrolle. Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg.
+
+- [Gemeinsamer Bundesausschuss: Gesundheitsuntersuchungen (Check-up)](https://www.g-ba.de/themen/methodenbewertung/erwachsene/gesundheitsuntersuchungen/) · Leistungsumfang mit Anamnese, körperlicher Untersuchung, Blutdruck, Impfstatus, risikobezogener Beratung und altersabhängigen Laborleistungen.
+  Quellenzugriff am 2026-11-25. Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers. Leistungsumfang mit Anamnese, körperlicher Untersuchung, Blutdruck, Impfstatus, risikobezogener Beratung und altersabhängigen Laborleistungen.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-25 (Codex): Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen. Gepruefte Quellen: S001, S059. Ergebnis: Die beiden genannten Laborwerte gehören zum altersabhängigen Check-up, bilden aber nicht seinen Gesamtumfang. Der G-BA nennt unter anderem Anamnese, körperliche Untersuchung, Blutdruck, Impfstatus, Risikofaktoren und Beratung; ab 35 kommen Urinuntersuchung und einmaliges Hepatitis-B/C-Screening hinzu. Die Werbung verkürzt damit das reguläre Vorsorgeangebot. Ob das beworbene Zusatzangebot für eine bestimmte Person sinnvoll ist, wird hier nicht beurteilt.
+
+## Q0xlcSU37TM-A0052
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Deutschland, Österreich und Schweden seien wegen ihrer stärkeren Sozialsysteme die bevorzugten Asylzielländer gewesen.
+
+Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [00:41:55–00:42:28](https://www.youtube.com/watch?v=Q0xlcSU37TM&t=2515s) · nicht bestaetigt; Kandidat: Sebastian Kurz · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.
+
+Zeitgrundlage: Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Noch nicht geprüft – die neu gelesene Eurostat-Tabelle zeigt die Verteilung der Anträge, erhebt aber keine individuellen Zielwahlmotive. Für die kausale Verallgemeinerung sind empirische Untersuchungen zu Sozialleistungen, Netzwerken, Sprache, Arbeitsmarkt und den tatsächlichen Wahlmöglichkeiten während 2015/16 nötig. Aus der bloßen Verteilung wird kein Motivurteil abgeleitet.
+
+Grundlage der Bewertung: [Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.
+
+Uebernahme: Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.
+
+Bewertungsuebergang: [Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft.
+
+### Zugeordnete Quellen
+
+- [Originalvideo: {ungeskriptet} mit Sebastian Kurz](https://www.youtube.com/watch?v=Q0xlcSU37TM) · 25.11.2026, 1:52:16.
+  Quellenzugriff am 2026-11-25. Deutsche automatische Transkriptspur im Originalplayer geöffnet und ausgewählte Stellen samt Anschlusskontext gelesen. Metadaten aus dem Originalplayer. Keine vollständige Ton- oder Bildkontrolle. Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg.
+
+- [Eurostat: Asylum in the EU Member States, 44/2016](https://ec.europa.eu/eurostat/documents/2995521/7203832/3-04032016-AP-EN.pdf/790eba01-381c-4163-bcd2-a54959b99ed6?t=1457087311000) · 4. März 2016; Erstasylanträge 2015, Tabelle auf Seite 2. Erfasst Registrierungen, keine individuellen Zielwahlmotive.
+  Quellenzugriff am 2026-11-25. Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers. 4. März 2016; Erstasylanträge 2015, Tabelle auf Seite 2. Erfasst Registrierungen, keine individuellen Zielwahlmotive.
+
+### Offene Fragen und Unsicherheiten
+
+- Originale IAB-BAMF-SOEP-Befragung zu Fluchtwegen und Zielwahl 2015/16 sowie eine vergleichende Studie zu Sozialleistungen und Asylzielländern lesen; Netzwerk- und Registrierungsbedingungen kontrollieren.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-25 (Codex): Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen. Gepruefte Quellen: S001, S037. Ergebnis: Nur die Antragsverteilung geprüft; die Kausalprüfung ist ausdrücklich nicht abgeschlossen.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

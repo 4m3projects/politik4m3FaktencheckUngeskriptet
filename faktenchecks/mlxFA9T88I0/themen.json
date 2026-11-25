@@ -50,6 +50,12 @@
       "relevance": "Behandelt",
       "basis": "2 von 395 erfassten Aussagen des Videos betreffen dieses Thema; Einstufung nach Anteil (Schwerpunkt ab 5 Aussagen und 15 %, Behandelt ab 2, sonst Erwähnt).",
       "segments": []
+    },
+    {
+      "topic": "gesundheit",
+      "relevance": "Erwähnt",
+      "basis": "Bereits geprüfte Hautpflege-Werbeaussage A0287; keine neue Bewertung des Interviews.",
+      "segments": []
     }
   ],
   "claims": [
@@ -730,6 +736,12 @@
       "topics": [
         "staatsfinanzen/zinsen"
       ]
+    },
+    {
+      "claimId": "mlxFA9T88I0-A0287",
+      "topics": [
+        "gesundheit"
+      ]
     }
   ],
   "history": [
@@ -737,6 +749,11 @@
       "date": "2026-11-19",
       "agent": "Claude",
       "change": "Erstzuordnung von 113 Aussagen zu Themen; keine Bewertung geändert."
+    },
+    {
+      "date": "2026-11-25",
+      "agent": "Codex",
+      "change": "Bestehende Hautpflegeaussage A0287 dem gemeinsamen Thema und Wissenseintrag zugeordnet; Urteil und Prüfstichtag unverändert."
     }
   ]
 }

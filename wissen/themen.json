@@ -671,6 +671,66 @@
           "change": "Aus den konkreten Aussagen der Nachprüfung zu Hamed Abdel-Samad angelegt."
         }
       ]
+    },
+    {
+      "id": "demokratie",
+      "name": "Demokratie",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Regierungsbildung",
+        "Staatsorgane"
+      ],
+      "description": "Wahlen, staatliche Institutionen, Regierungsämter und demokratische Verfahren.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-25",
+          "agent": "Codex",
+          "change": "Aus den neu geprüften konkreten Aussagen gebildet; keine manuell öffentliche Freigabe."
+        }
+      ]
+    },
+    {
+      "id": "gesundheit",
+      "name": "Gesundheit",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Hautpflege",
+        "Vorsorge"
+      ],
+      "description": "Gesundheitsuntersuchungen, Pflegewirkung und medizinische Sachbehauptungen einschließlich Werbung.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-25",
+          "agent": "Codex",
+          "change": "Aus den neu geprüften konkreten Aussagen gebildet; keine manuell öffentliche Freigabe."
+        }
+      ]
+    },
+    {
+      "id": "cybersicherheit",
+      "name": "Cybersicherheit",
+      "level": "Hauptthema",
+      "parent": null,
+      "aliases": [
+        "Cyberangriffe",
+        "Ransomware"
+      ],
+      "description": "Digitale Angriffe, Sicherheitslücken, Schadsoftware und technische Schutzbehauptungen.",
+      "visibility": "automatisch",
+      "mergedInto": null,
+      "history": [
+        {
+          "date": "2026-11-25",
+          "agent": "Codex",
+          "change": "Aus den neu geprüften konkreten Aussagen gebildet; keine manuell öffentliche Freigabe."
+        }
+      ]
     }
   ]
 }
