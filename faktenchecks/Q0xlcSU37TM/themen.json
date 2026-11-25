@@ -14,6 +14,48 @@
       "relevance": "Behandelt",
       "basis": "Mehrere Aussagen zu Dublin III, Schutzsuchenden und der Westbalkanroute.",
       "segments": []
+    },
+    {
+      "topic": "demokratie",
+      "relevance": "Behandelt",
+      "basis": "Zuordnung aus den zusätzlich im Originalkontext geprüften Aussage-IDs A0031–A0052.",
+      "segments": []
+    },
+    {
+      "topic": "gesundheit",
+      "relevance": "Behandelt",
+      "basis": "Zuordnung aus den zusätzlich im Originalkontext geprüften Aussage-IDs A0031–A0052.",
+      "segments": []
+    },
+    {
+      "topic": "cybersicherheit",
+      "relevance": "Behandelt",
+      "basis": "Zuordnung aus den zusätzlich im Originalkontext geprüften Aussage-IDs A0031–A0052.",
+      "segments": []
+    },
+    {
+      "topic": "staatsfinanzen",
+      "relevance": "Behandelt",
+      "basis": "Zuordnung aus den zusätzlich im Originalkontext geprüften Aussage-IDs A0031–A0052.",
+      "segments": []
+    },
+    {
+      "topic": "wirtschaft",
+      "relevance": "Behandelt",
+      "basis": "Zuordnung aus den zusätzlich im Originalkontext geprüften Aussage-IDs A0031–A0052.",
+      "segments": []
+    },
+    {
+      "topic": "geheimdienste",
+      "relevance": "Erwähnt",
+      "basis": "Zuordnung aus den zusätzlich im Originalkontext geprüften Aussage-IDs A0031–A0052.",
+      "segments": []
+    },
+    {
+      "topic": "religion",
+      "relevance": "Erwähnt",
+      "basis": "Zuordnung aus den zusätzlich im Originalkontext geprüften Aussage-IDs A0031–A0052.",
+      "segments": []
     }
   ],
   "claims": [
@@ -69,6 +111,144 @@
       "topics": [
         "migration"
       ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0031",
+      "topics": [
+        "demokratie"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0032",
+      "topics": [
+        "demokratie"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0033",
+      "topics": [
+        "asyl",
+        "migration"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0034",
+      "topics": [
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0035",
+      "topics": [
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0036",
+      "topics": [
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0037",
+      "topics": [
+        "gesundheit",
+        "staatsfinanzen"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0038",
+      "topics": [
+        "demokratie"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0039",
+      "topics": [
+        "demokratie"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0040",
+      "topics": [
+        "demokratie"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0041",
+      "topics": [
+        "demokratie"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0042",
+      "topics": [
+        "demokratie"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0043",
+      "topics": [
+        "demokratie",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0044",
+      "topics": [
+        "demokratie"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0045",
+      "topics": [
+        "demokratie",
+        "wirtschaft"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0046",
+      "topics": [
+        "cybersicherheit"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0047",
+      "topics": [
+        "cybersicherheit"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0048",
+      "topics": [
+        "cybersicherheit",
+        "geheimdienste"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0049",
+      "topics": [
+        "gesundheit"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0050",
+      "topics": [
+        "gesundheit"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0051",
+      "topics": [
+        "religion"
+      ]
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0052",
+      "topics": [
+        "asyl",
+        "migration"
+      ]
     }
   ],
   "history": [
@@ -76,6 +256,11 @@
       "date": "2026-11-25",
       "agent": "Kai",
       "change": "Erstzuordnung der Aussagen zur Migration, zum Asyl und zu Dublin III."
+    },
+    {
+      "date": "2026-11-25",
+      "agent": "Codex",
+      "change": "Neue Einzelprüfungen A0031–A0052 thematisch zugeordnet."
     }
   ]
 }

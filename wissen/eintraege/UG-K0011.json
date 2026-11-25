@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-K0011",
+  "revision": 1,
+  "claim": "Wasser beziehungsweise mineralölbasierte Inhaltsstoffe seien für die Haut in Feuchtigkeitscremes kaum brauchbar.",
+  "topics": [
+    "gesundheit"
+  ],
+  "status": "Geprüft",
+  "verdict": "Irreführend / Kontext fehlt",
+  "reason": "Die pauschale Abwertung lässt die Funktion der Feuchtigkeitsbindung und den Nutzen gereinigten Petrolatums aus. Die AAD nennt Petrolatum als Pflegeoption; die gelesene kontrollierte Originalstudie fand im untersuchten Modell beschleunigte Barriereerholung. Das prüft keinen Marktmehrheitsanteil und keine pauschale Überlegenheit oder Unterlegenheit konkreter Talgprodukte.",
+  "validity": {
+    "asOf": "2026-11-25",
+    "timeScope": "Dermatologische Funktion, Forschungs- und Informationsstand 25. November 2026",
+    "subjectScope": "Allgemeine Abwertung wasser- beziehungsweise mineralölbasierter Hautpflege, keine individuelle Behandlungsempfehlung oder Marktstatistik",
+    "validUntil": null
+  },
+  "checkedOn": "2026-11-25",
+  "sources": [
+    {
+      "id": "Q1",
+      "title": "American Academy of Dermatology: Skin care on a budget",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-budget",
+      "details": "Abschnitte zu Wasserbindung und Petrolatum. Fachverbandsinformation; keine Produktvergleichsstudie.",
+      "accessedOn": "2026-11-25",
+      "kind": "Primärquelle"
+    },
+    {
+      "id": "Q2",
+      "title": "Ghadially et al. (1992): Effects of petrolatum on stratum corneum structure and function",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1564142/",
+      "details": "DOI 10.1016/0190-9622(92)70060-S. Abstract der kontrollierten Untersuchung an menschlicher Haut gelesen; kein Vollartikel gelesen.",
+      "accessedOn": "2026-11-25",
+      "kind": "Primärquelle"
+    }
+  ],
+  "dependsOn": [],
+  "supersededBy": null,
+  "links": [
+    {
+      "claimId": "mlxFA9T88I0-A0287",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Derselbe allgemein formulierte Werbesachkern zu Wasser und mineralölbasierter Pflege; kein zeitabhängiger Preis und keine individuell geprüfte Produktformulierung.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-25"
+    },
+    {
+      "claimId": "Q0xlcSU37TM-A0050",
+      "repo": null,
+      "relation": "gleichwertig",
+      "contextNote": "Derselbe allgemein formulierte Werbesachkern zu Wasser und mineralölbasierter Pflege; kein zeitabhängiger Preis und keine individuell geprüfte Produktformulierung.",
+      "linkedBy": "Codex",
+      "linkedOn": "2026-11-25"
+    }
+  ],
+  "lock": null,
+  "history": [
+    {
+      "revision": 1,
+      "date": "2026-11-25",
+      "agent": "Codex",
+      "change": "Wiederkehrende Werbeaussage nach eigener Kontrolle des neuen Originals und erneutem Lesen beider Originalquellen verknüpft; frühere KI-Bewertung nur als Suchhilfe verwendet. Beide Originalstellen separat im direkten YouTube-Text kontrolliert, Lüning 01:59:19–02:00:35 und Kurz 01:01:24–01:02:37; nur gleiche allgemeine Werbebehauptung verknüpft.",
+      "previous": null
+    }
+  ]
+}

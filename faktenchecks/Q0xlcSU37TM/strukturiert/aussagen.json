@@ -10,8 +10,8 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Kai] Deutschen automatisch erzeugten Originaltext im YouTube-Player geöffnet, die ausgewiesenen Stellen mit Vor- und Nachlauf geprüft und Primärquellen separat gelesen. Keine vollständige Hör-/Sichtkontrolle. Sprecherangaben aus dem Textkontext bleiben plausibel.",
-    "coverageNote": "Erste gezielte Stichprobe aus Einleitung, Amtsbiografie, Migrationsdebatte, Koalition, Kanzleramt, Cyberthemen und Justiz. Keine Vollanalyse und keine hochgerechnete Gesamtfehlerquote. Nicht erfasste Stellen und ausdrücklich offene Sachverhalte sind unbewertet; Werbepassagen sind hier nicht bewertet."
+    "researchNote": "[Kai] Deutschen automatisch erzeugten Originaltext im YouTube-Player geöffnet, die ausgewiesenen Stellen mit Vor- und Nachlauf geprüft und Primärquellen separat gelesen. Keine vollständige Hör-/Sichtkontrolle. Sprecherangaben aus dem Textkontext bleiben plausibel. [Codex] 25.11.2026: erneuter direkter Originalplayer-Zugang; offene Stellen zuerst gesichtet. A0015 nach zwei Recherchedurchgängen als grundsätzlich nicht öffentlich überprüfbare private Erzählung eingeordnet; A0024 mit zwei zeitnahen Berichten ergänzt, weiter offen. A0011 bleibt wegen widersprüchlicher automatischer Zahlenfassungen bis zur Hörkontrolle offen; A0028 mangels kontrollierter Gerichtsäußerung ebenfalls offen. 22 neue Prüfgegenstände A0031–A0052 zu Institutionen, Reformen, Asylverteilung, Cyberangriffen, zwei Werbesachkernen und der Abschlusswertung. Früher abgeschlossene Sachurteile unverändert. Keine vollständige audiovisuelle Kontrolle oder vollständiges Aussageninventar.",
+    "coverageNote": "Erweiterte Text-Teilprüfung mit 52 Prüfgegenständen aus Biografie, Institutionen, Migration, Reformen, Koalitionen, Cyberthemen, Justiz und Abschluss. Zwei gesundheitliche Werbesachkerne zusätzlich geprüft; übrige Produkt-, Preis-, Wirkungs- und Förderversprechen bleiben außerhalb dieses Teilbestands. Vier konkrete Sachprüfungen bleiben offen. Automatische Originaltexte, gerundete Zeiten und plausible Sprecherzuordnung; kein durchgängiger Hör-/Bildabgleich, keine Vollerfassung und keine Gesamtfehlerquote."
   },
   "legacyPoints": [],
   "sources": [
@@ -286,6 +286,254 @@
       "details": "Bestätigung der Identität und Disziplinarentscheidung durch den Betroffenen gegenüber der Redaktion; kein eigenständiger Gerichtsbeleg.",
       "accessedOn": "2026-11-25",
       "accessBasis": "Relevante Passage in der veröffentlichten Quelle gelesen."
+    },
+    {
+      "id": "S035",
+      "title": "Österreichisches Parlament: Allgemeines Glossar – Bundesregierung und Staatssekretäre",
+      "url": "https://www.parlament.gv.at/verstehen/glossare/allgemein",
+      "details": "Definition der Bundesregierung; Staatssekretäre sind keine Mitglieder des Kollegialorgans.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S036",
+      "title": "Bundesgymnasium und Realgymnasium Erlgasse: Schulprofil",
+      "url": "https://www.erlgasse.at/erlgasse/schulprofil/",
+      "details": "Selbstdarstellung der öffentlichen Bundesschule; zusammen mit der Parlamentsbiografie zum besuchten Gymnasium gelesen.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S037",
+      "title": "Eurostat: Asylum in the EU Member States, 44/2016",
+      "url": "https://ec.europa.eu/eurostat/documents/2995521/7203832/3-04032016-AP-EN.pdf/790eba01-381c-4163-bcd2-a54959b99ed6?t=1457087311000",
+      "details": "4. März 2016; Erstasylanträge 2015, Tabelle auf Seite 2. Erfasst Registrierungen, keine individuellen Zielwahlmotive.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S038",
+      "title": "Budgetdienst des österreichischen Parlaments: Bundesrechnungsabschluss 2019",
+      "url": "https://www.parlament.gv.at/dokument/budgetdienst/bundesrechnungsabschluss/BD_-_Bundesrechnungsabschluss_2019.pdf",
+      "details": "27. Oktober 2020, Seiten 9 und 12: gesamtstaatliche und Bundessalden 2018/19. Damaliger Datenstand; spätere Revisionen möglich.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S039",
+      "title": "Österreichisches Parlament: Rechnungsabschluss 2001",
+      "url": "https://www.parlament.gv.at/aktuelles/pk/jahr_2003/pk0030",
+      "details": "24. Januar 2003; damalige positive Gesamtstaatsbilanz 2001. Historischer Berichtsstand, kein harmonisierter Reihenvergleich mit ESVG 2010.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S040",
+      "title": "Österreichisches Bundeskanzleramt: Familienbonus Plus beschlossen",
+      "url": "https://www.bundeskanzleramt.gv.at/bundeskanzleramt/nachrichten-der-bundesregierung/2017-2018/bundesministerin-juliane-bogner-strau-ein-meilenstein-fur-familien-in-osterreich-.html",
+      "details": "4. Juli 2018; Einführung zum 1. Januar 2019, bis zu 1.500 Euro pro Kind und Jahr. Politische Erfolgswertung und Anspruchszahlen nicht übernommen.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S041",
+      "title": "Österreichischer Nationalrat: Beschluss des Arbeitszeitgesetzes",
+      "url": "https://www.parlament.gv.at/aktuelles/pk/jahr_2018/pk0827",
+      "details": "5. Juli 2018; neue Höchstarbeitszeiten und Inkrafttreten am 1. September 2018.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S042",
+      "title": "Österreichischer Nationalrat: Beschluss der Sozialversicherungsreform",
+      "url": "https://www.parlament.gv.at/aktuelles/pk/jahr_2018/pk1508",
+      "details": "13. Dezember 2018; 21 auf fünf Träger, Zusammenführung der Gebietskrankenkassen. Keine Bestätigung behaupteter Einsparungen.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S043",
+      "title": "Land Steiermark: Wahl von Mario Kunasek zum Landeshauptmann",
+      "url": "https://www.politik.steiermark.at/cms/beitrag/12969134/181958565/",
+      "details": "18. Dezember 2024; Wahl auf Vorschlag von FPÖ und ÖVP und Parteizugehörigkeit.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S044",
+      "title": "Land Steiermark: Vorsitzender der Historischen Landeskommission",
+      "url": "https://www.hlk.steiermark.at/cms/ziel/97168097/DE/",
+      "details": "Aktuelle amtliche Funktionsseite bezeichnet Mario Kunasek als Landeshauptmann seit 18. Dezember 2024.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S045",
+      "title": "Österreichisches Innenministerium: Nationalratswahl 2019",
+      "url": "https://www.bmi.gv.at/412/nationalratswahlen/nationalratswahl_2019/start.html",
+      "details": "Amtliches Gesamtergebnis: ÖVP 37,5 Prozent; mit Ergebnis 2017 verglichen.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S046",
+      "title": "Präsidentschaftskanzlei: Kabinett Kurz II, Ernennungen nach Ressortneuordnung",
+      "url": "https://www.bundespraesident.at/aktuelles/detail/kabinett-kurz-ii-enthebung-und-ernennung-von-mitgliedern-der-bundesregierung-und-der-staatsekretaere-anlaesslich-der-novellierung-des-bundesministeriumsgesetzes",
+      "details": "Januar 2020; amtliche Darstellung des Kabinetts mit ÖVP und Grünen.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S047",
+      "title": "Österreichisches Parlament: Aufgaben des Bundespräsidenten",
+      "url": "https://www.parlament.gv.at/verstehen/politisches-system/bundespraesident/aufgaben",
+      "details": "Regierungsbildung: Ernennung des Kanzlers und auf dessen Vorschlag der übrigen Regierungsmitglieder.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S048",
+      "title": "Europäische Investitionsbank: Hartwig Löger – neuer Gouverneur für Österreich",
+      "url": "https://www.eib.org/de/press/news/hartwig-loger-new-governor-for-Austria.htm",
+      "details": "Dezember 2017; Ernennung zum Finanzminister und frühere Leitung von UNIQA Österreich.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S049",
+      "title": "UNIQA Österreich: Fusion und Marktstellung als Einzelversicherer",
+      "url": "https://www.ots.at/presseaussendung/OTS_20170403_OTS0024/konzentrierte-kraft-fusion-macht-uniqa-oesterreich-zur-heimischen-nummer-eins",
+      "details": "Eigene Pressemitteilung vom 3. April 2017; rund 22 Prozent Marktanteil als Einzelversicherung, nicht als internationaler Konzern.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S050",
+      "title": "Österreichisches Parlament: Heinz Faßmann",
+      "url": "https://www.parlament.gv.at/person/2975",
+      "details": "Ministerzeiten und Vizerektor an der Universität Wien 2011–2017; Biografie beruht laut Parlament wesentlich auf Selbstauskunft.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S051",
+      "title": "Österreichische Akademie der Wissenschaften: Heinz Faßmann wird neuer Präsident",
+      "url": "https://www.oeaw.ac.at/news/heinz-fassmann-wird-neuer-praesident-der-oeaw",
+      "details": "Institutionelle Biografie bestätigt Vizerektorat und Ministertätigkeit.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S052",
+      "title": "Österreichisches Parlament: Margarete Schramböck",
+      "url": "https://www.parlament.gv.at/person/2978",
+      "details": "A1-CEO 2016–2017 und Ministerämter seit Dezember 2017; keine unabhängige Rangliste der Telekomunternehmen.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S053",
+      "title": "NCSC: Impact of AI on cyber threat from now to 2027",
+      "url": "https://www.ncsc.gov.uk/report/impact-ai-cyber-threat-now-2027",
+      "details": "7. Mai 2025; Beschleunigung von Recherche und Exploitentwicklung, Bewertung und Prognose ausdrücklich unterschieden.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S054",
+      "title": "Google Threat Intelligence Group: Vulnerability Discovery and Exploitation Trends in the AI Era",
+      "url": "https://cloud.google.com/blog/topics/threat-intelligence/vulnerability-discovery-and-exploitation-trends-in-the-ai-era",
+      "details": "30. September 2026; Daten Januar 2025 bis August 2026. Offenlegung, Zero-Day-Ausnutzung und KI-Zuschreibung sind verschiedene Größen.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S055",
+      "title": "Anthropic: Discovering and exploiting vulnerabilities in critical, real-world software with Claude",
+      "url": "https://www.anthropic.com/research/discovering-vulnerabilities-with-claude",
+      "details": "27. Oktober 2026; Herstellerbericht zu konkreten gemeldeten Schwachstellen und Angriffsketten. Keine allgemeine Minuten-Benchmark aller Systeme.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S056",
+      "title": "US-Justizministerium: Sicherstellung von Kryptowährungen aus nordkoreanischer Ransomware",
+      "url": "https://www.justice.gov/archives/opa/pr/justice-department-seizes-and-forfeits-approximately-500000-north-korean-ransomware-actors",
+      "details": "19. Juli 2022; Maui-Kampagne, Krankenhauszahlungen und Verfolgung der Zahlungswege. Amtliche Ermittlerdarstellung.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S057",
+      "title": "US-Justizministerium: Anklage zu Andariel und Ransomware gegen Krankenhäuser",
+      "url": "https://www.justice.gov/archives/opa/pr/north-korean-government-hacker-charged-involvement-ransomware-attacks-targeting-us-hospitals",
+      "details": "25. Juli 2024; Ransomware-Erlöse zur Finanzierung weiterer Spionageangriffe. Anklagebehauptungen sind kein rechtskräftiges Individualurteil.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S058",
+      "title": "CISA/FBI/NSA/MS-ISAC: StopRansomware Guide",
+      "url": "https://www.ic3.gov/CSA/2023/230523.pdf",
+      "details": "Mai 2023; verbreitete Zugangswege wie kompromittierte Zugangsdaten und Social Engineering, nicht nur Zero-Days.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S059",
+      "title": "Gemeinsamer Bundesausschuss: Gesundheitsuntersuchungen (Check-up)",
+      "url": "https://www.g-ba.de/themen/methodenbewertung/erwachsene/gesundheitsuntersuchungen/",
+      "details": "Leistungsumfang mit Anamnese, körperlicher Untersuchung, Blutdruck, Impfstatus, risikobezogener Beratung und altersabhängigen Laborleistungen.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S060",
+      "title": "American Academy of Dermatology: Skin care on a budget",
+      "url": "https://www.aad.org/public/everyday-care/skin-care-basics/care/skin-care-budget",
+      "details": "Abschnitte zu Wasserbindung und Petrolatum. Fachverbandsinformation; keine Produktvergleichsstudie.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S061",
+      "title": "Ghadially et al. (1992): Effects of petrolatum on stratum corneum structure and function",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/1564142/",
+      "details": "DOI 10.1016/0190-9622(92)70060-S. Abstract der kontrollierten Untersuchung an menschlicher Haut gelesen; kein Vollartikel gelesen.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S062",
+      "title": "Der Standard: Merkel und Kurz – Ende einer schwierigen Beziehung",
+      "url": "https://www.derstandard.at/story/2000131621126/merkel-und-kurz-das-ende-einer-schwierigen-beziehung",
+      "details": "2. Dezember 2021; Bericht über öffentliche und informelle Unterstützung, kein identifizierter Nachweis der behaupteten privaten Anrufe.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S063",
+      "title": "FOCUS 20/2018: Gespräch mit Sebastian Kurz",
+      "url": "https://www.derrohleder.de/PDF/Sebastian_Kurz.pdf",
+      "details": "Interview auf der Website eines beteiligten Journalisten; Passagen zu Beziehungen mit CDU/CSU, Merkel, Steinmeier und Spahn gelesen. Keine unabhängige Bestätigung der unbenannten Anrufe.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S064",
+      "title": "Der Standard: Neuer WKStA-Bericht zur Umfragenaffäre",
+      "url": "https://www.derstandard.at/story/3000000334289/ultra-heikle-geschichte-neuer-wksta-bericht-rekonstruiert-umfragenaffaere-um-kurz",
+      "details": "4. August 2026; Reporter mit Einblick in den Auswertungsbericht, berichtet laufende Ermittlungen und Bestreiten der Vorwürfe.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
+    },
+    {
+      "id": "S065",
+      "title": "Kronen Zeitung: Fünf Jahre Kurz-Rücktritt – Umfrage-Causa",
+      "url": "https://www.krone.at/4325836",
+      "details": "Bericht zum fünften Jahrestag im Oktober 2026: Ermittlungen weiterhin offen. Kein eigener Zugriff auf die Ermittlungsakten.",
+      "accessedOn": "2026-11-25",
+      "accessBasis": "Die in den Begründungen bezeichneten Absätze selbst gelesen; keine bloße Übernahme eines Suchtreffers."
     }
   ],
   "speakers": [
@@ -349,7 +597,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "Q0xlcSU37TM-A0002",
@@ -397,7 +653,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "Q0xlcSU37TM-A0003",
@@ -449,7 +713,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "Q0xlcSU37TM-A0004",
@@ -514,7 +786,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "Q0xlcSU37TM-A0005",
@@ -562,7 +842,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "Q0xlcSU37TM-A0006",
@@ -610,7 +898,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "Q0xlcSU37TM-A0007",
@@ -671,6 +967,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -733,6 +1037,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -799,6 +1111,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -886,6 +1206,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -953,6 +1281,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1036,6 +1372,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1089,7 +1433,15 @@
         }
       ],
       "relations": [],
-      "shortReason": "Kurz und Innenministerin Johanna Mikl-Leitner hatten gemeinsam zur Wiener Konferenz eingeladen."
+      "shortReason": "Kurz und Innenministerin Johanna Mikl-Leitner hatten gemeinsam zur Wiener Konferenz eingeladen.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "Q0xlcSU37TM-A0014",
@@ -1158,6 +1510,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1167,23 +1527,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "CDU-Politiker und Minister hätten Kurz im privaten Gespräch für seinen Kurs gedankt.",
-      "status": "Offen",
+      "status": "Nicht überprüfbar",
       "verdict": null,
-      "reason": "Noch nicht geprüft – die Aussage betrifft nicht namentlich bezeichnete Gespräche; keine öffentliche Bestätigung aufgenommen.",
-      "assessmentBasis": "[Kai] Deutsche automatische Original-Textstellen im Anschlusskontext gelesen; Sachprüfung nicht abgeschlossen.",
+      "reason": "Nicht überprüfbar – behauptet werden vertrauliche Gespräche mit nicht benannten CDU-Politikern und Ministern. Ohne identifizierbare Beteiligte, Datierung oder freiwillig veröffentlichte Gesprächsbelege fehlt für genau diese privaten Anrufe eine öffentliche Prüfgrundlage. Der gelesene Rückblick und das frühere Interview dokumentieren politische Kontakte und Unterstützung, bestätigen aber keine konkreten Anrufe dieses Inhalts. Daraus folgt weder Bestätigung noch Widerlegung der privaten Erzählung.",
+      "assessmentBasis": "[Codex] Originalstelle 00:49:02–00:49:27 mit Anschluss und Intro gelesen; zwei unterschiedlich angelegte Suchen und die angegebenen veröffentlichten Texte geprüft.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkter Teilbestand aus deutschen Originaltextstellen; keine Altpunkte.",
-        "assessmentChange": "[Kai] Neue offene Prüfstelle."
+        "assessmentChange": "[Kai] Neue offene Prüfstelle. Nachrecherche 2026-11-25 (Codex): vorher {\"status\":\"Offen\",\"verdict\":null,\"reason\":\"Noch nicht geprüft – die Aussage betrifft nicht namentlich bezeichnete Gespräche; keine öffentliche Bestätigung aufgenommen.\"}; jetzt Nicht überprüfbar, weil unbenannte vertrauliche Gespräche keine konkret kontrollierbare öffentliche Prüfgrundlage bieten. Kein Wahr/Falsch-Urteil vergeben."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
           "note": "Identifikation, Wortlautbezug und Position; kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S062",
+          "note": "Politischer Rückblick; kein identifizierter Nachweis der privaten Anrufe."
+        },
+        {
+          "sourceId": "S063",
+          "note": "Früheres direktes Interview zu Kontakten mit CDU/CSU; keine unabhängige Bestätigung des privaten Gesprächsinhalts."
         }
       ],
       "openQuestions": [
-        "Existiert eine öffentliche Bestätigung einer beteiligten Person oder ein veröffentlichter zeitgenössischer Nachweis?"
+        "Wenn Kurz Gesprächspartner und Zeitpunkte konkretisiert oder Beteiligte freiwillig belastbare Belege veröffentlichen, die zugeordneten Gespräche erneut prüfen."
       ],
       "occurrences": [
         {
@@ -1230,6 +1598,33 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "research": {
+        "gap": "Derzeit nicht überprüfbar",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "UG/HP zu Kurz und Migrationspolitik durchsucht; Suche nach Kurz, CDU, Ministern, Dank und Balkanroute, Originalstelle sowie veröffentlichten Beziehungsrückblick gelesen.",
+            "sourceIds": [
+              "S001",
+              "S062"
+            ],
+            "result": "Öffentliche und informelle Unterstützung beschrieben; die im Interview behaupteten Anrufer bleiben unbenannt."
+          },
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Zweiter Prüfweg über ein früheres ausführliches Direktinterview mit Kurz und dessen Passagen zu Merkel, Steinmeier, Spahn und CDU/CSU.",
+            "sourceIds": [
+              "S063"
+            ],
+            "result": "Politische Kontakte beschrieben, keine überprüfbare Dokumentation der konkreten vertraulichen Anrufe."
+          }
+        ],
+        "missingInformation": "Identifizierte Gesprächspartner, konkrete Zeitpunkte und freiwillig zugängliche Bestätigungen des Gesprächsinhalts.",
+        "conflicts": null
       }
     },
     {
@@ -1287,6 +1682,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1344,6 +1747,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1401,6 +1812,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1458,6 +1877,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1515,6 +1942,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1577,7 +2012,15 @@
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
       },
-      "shortReason": "Ein zeitgenössischer Bericht nennt 20 Mio. US-Dollar; der Investor bestätigt die frühe Runde, aber nicht öffentlich ihren Betrag."
+      "shortReason": "Ein zeitgenössischer Bericht nennt 20 Mio. US-Dollar; der Investor bestätigt die frühe Runde, aber nicht öffentlich ihren Betrag.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "Q0xlcSU37TM-A0022",
@@ -1635,6 +2078,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1696,6 +2147,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1707,21 +2166,29 @@
       "description": "Das separate Verfahren zu den Umfragen sei zum Zeitpunkt des Interviews weiterhin offen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Noch nicht geprüft – die offiziellen Nachweise zum Beginn der Ermittlungen ersetzen keine tagesaktuelle Bestätigung des individuellen Standes.",
+      "reason": "Noch nicht geprüft – neu gelesene Berichte vom August und Oktober 2026 beschreiben weiterhin Ermittlungen in der Umfragenaffäre. Das stützt den zeitnahen Kontext, ersetzt aber keinen kontrollierten Verfahrensstand zum Aufnahmedatum 10. November 2026. Der erneute Suchlauf lieferte keine gelesene datierte Primärbestätigung dieses konkreten Tages. Weder individuelle Schuld noch Einstellung oder Anklage werden daraus abgeleitet.",
       "assessmentBasis": "[Kai] Deutsche automatische Original-Textstellen im Anschlusskontext gelesen; Sachprüfung nicht abgeschlossen.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkter Teilbestand aus deutschen Originaltextstellen; keine Altpunkte.",
-        "assessmentChange": "[Kai] Neue offene Prüfstelle."
+        "assessmentChange": "[Kai] Neue offene Prüfstelle. Nachrecherche 2026-11-25 (Codex): bisherige Begründung \"Noch nicht geprüft – die offiziellen Nachweise zum Beginn der Ermittlungen ersetzen keine tagesaktuelle Bestätigung des individuellen Standes.\". Quellenkontext aus August/Oktober ergänzt; Status Offen und Urteil null unverändert."
       },
       "sourceRefs": [
         {
           "sourceId": "S001",
           "note": "Identifikation, Wortlautbezug und Position; kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S064",
+          "note": "Berichtet im August 2026 laufende Ermittlungen; vor dem Aufnahmezeitpunkt."
+        },
+        {
+          "sourceId": "S065",
+          "note": "Berichtet im Oktober 2026 weiterhin Ermittlungen; kein tagegenauer Nachweis für November."
         }
       ],
       "openQuestions": [
-        "Welche datierte veröffentlichte Erklärung der WKStA bestätigt den individuellen Verfahrensstand zum Uploadzeitpunkt?"
+        "Datierte Mitteilung der WKStA oder veröffentlichte Akten-/Gerichtsbestätigung zum Verfahrensstand am 10. November 2026 prüfen; Aufnahme- und Veröffentlichungstag unterscheiden."
       ],
       "occurrences": [
         {
@@ -1751,6 +2218,41 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Originalkontext erneut gelesen und gezielt nach WKStA, Kurz, Umfragen und dem Verfahrensstand 2026 gesucht; den aktuellen Auswertungsbericht über die veröffentlichte Reporterrecherche erschlossen.",
+            "sourceIds": [
+              "S001",
+              "S064"
+            ],
+            "result": "Journalistischer Bericht bestätigt laufende Ermittlungen im August, kein tagesgenauer November-Nachweis."
+          },
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Zweiter Zeitabgleich über den Bericht zum fünften Jahrestag des Rücktritts im Oktober 2026.",
+            "sourceIds": [
+              "S065"
+            ],
+            "result": "Ermittlungen auch dort als offen beschrieben; die konkrete Zeitlücke zum Interview bleibt."
+          }
+        ],
+        "missingInformation": "Kontrollierter individueller Verfahrensstand am Aufnahmetag.",
+        "conflicts": null
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1808,6 +2310,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -1885,7 +2395,15 @@
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
       },
-      "shortReason": "Die Disziplinarstrafe ist belegt; das Urteil dokumentiert eine mündliche Auskunft, keine Übergabe der Weisung oder einer Kopie."
+      "shortReason": "Die Disziplinarstrafe ist belegt; das Urteil dokumentiert eine mündliche Auskunft, keine Übergabe der Weisung oder einer Kopie.",
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "Q0xlcSU37TM-A0027",
@@ -1997,6 +2515,14 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
       }
     },
     {
@@ -2045,7 +2571,15 @@
           "timeHistory": []
         }
       ],
-      "relations": []
+      "relations": [],
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
     },
     {
       "id": "Q0xlcSU37TM-A0030",
@@ -2102,6 +2636,1884 @@
         "basis": "Eigene Aussage des Gasts. Im geprüften Textkontext ist keine deutliche Zurückweisung durch die Moderation erkennbar; keine persönliche Zustimmung der Moderation behauptet.",
         "assessedBy": "Kai",
         "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Normale eigenständige Sachprüfung im erfassten Teilbestand; bisher galt bereits der Standardfaktor 1. Die dokumentierte Einschätzung ändert diesen Wert nicht.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0031",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein österreichischer Staatssekretär habe einen vollwertigen Sitz in der Bundesregierung.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Staatssekretäre wirken an der Regierungsarbeit mit und können Minister unterstützen beziehungsweise vertreten. Formal sind sie jedoch keine Mitglieder der Bundesregierung. Das Parlament unterscheidet das Kollegialorgan aus Kanzler, Vizekanzler und Ministern ausdrücklich von den Staatssekretären. Die alltagssprachliche Mitarbeit ist daher von einer vollwertigen Mitgliedschaft zu trennen.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S035",
+          "note": "Definition der Bundesregierung; Staatssekretäre sind keine Mitglieder des Kollegialorgans."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0035",
+          "startSeconds": 267,
+          "endSeconds": 290,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Staatssekretäre unterstützen die Regierungsarbeit, sind aber formal keine Mitglieder der österreichischen Bundesregierung.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S035"
+            ],
+            "result": "Staatssekretäre wirken an der Regierungsarbeit mit und können Minister unterstützen beziehungsweise vertreten. Formal sind sie jedoch keine Mitglieder der Bundesregierung. Das Parlament unterscheidet das Kollegialorgan aus Kanzler, Vizekanzler und Ministern ausdrücklich von den Staatssekretären. Die alltagssprachliche Mitarbeit ist daher von einer vollwertigen Mitgliedschaft zu trennen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0032",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Kurz besuchte vor seinem Schulabschluss eine öffentliche Schule und keine teure Privatschule.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Parlamentsbiografie nennt für 1996 bis 2004 das Gymnasium Erlgasse. Die Schule bezeichnet sich als Bundesgymnasium und Realgymnasium; es handelt sich um eine öffentliche Bundesschule. Das bestätigt den Schul-Sachkern, nicht die weitere Behauptung, bestimmte unbenannte Medien hätten ihn absichtlich anders dargestellt.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Geburtsdatum, Regierungsämter und Mandatszeiten."
+        },
+        {
+          "sourceId": "S036",
+          "note": "Selbstdarstellung der öffentlichen Bundesschule; zusammen mit der Parlamentsbiografie zum besuchten Gymnasium gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0036",
+          "startSeconds": 1340,
+          "endSeconds": 1360,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002",
+              "S036"
+            ],
+            "result": "Die Parlamentsbiografie nennt für 1996 bis 2004 das Gymnasium Erlgasse. Die Schule bezeichnet sich als Bundesgymnasium und Realgymnasium; es handelt sich um eine öffentliche Bundesschule. Das bestätigt den Schul-Sachkern, nicht die weitere Behauptung, bestimmte unbenannte Medien hätten ihn absichtlich anders dargestellt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0033",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein Großteil der Asylanträge während der Krise 2015 entfiel zusammen auf Deutschland, Österreich und Schweden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Eurostat registrierte 2015 rund 441.800 Erstasylanträge in Deutschland, 156.100 in Schweden und 85.500 in Österreich. Zusammen sind das etwa 683.400 von 1.255.600 in der EU, also rund 54 Prozent. Das stützt die zusammengefasste Verteilung; Ungarn lag einzeln vor Schweden und Österreich. Die Statistik belegt weder Sozialleistungen als Ursache noch die Zahl aller tatsächlich eingereisten Personen.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S037",
+          "note": "4. März 2016; Erstasylanträge 2015, Tabelle auf Seite 2. Erfasst Registrierungen, keine individuellen Zielwahlmotive."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0037",
+          "startSeconds": 2510,
+          "endSeconds": 2530,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S037"
+            ],
+            "result": "Eurostat registrierte 2015 rund 441.800 Erstasylanträge in Deutschland, 156.100 in Schweden und 85.500 in Österreich. Zusammen sind das etwa 683.400 von 1.255.600 in der EU, also rund 54 Prozent. Das stützt die zusammengefasste Verteilung; Ungarn lag einzeln vor Schweden und Österreich. Die Statistik belegt weder Sozialleistungen als Ursache noch die Zahl aller tatsächlich eingereisten Personen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0034",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die erste Kurz-Koalition habe erstmals seit Jahrzehnten einen Budgetüberschuss erzielt und keine neuen Schulden gemacht.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Für 2018 dokumentiert der Budgetdienst einen gesamtstaatlichen Maastricht-Überschuss von rund 0,2 Prozent des BIP; der Bundessektor allein hatte noch ein kleines Defizit. Ein Gesamtstaatsüberschuss ist damit belegt. Er ist weder mit jeder Haushaltsdefinition noch mit dem völligen Verzicht auf Bruttokreditaufnahme gleichzusetzen und beweist keine alleinige Verursachung durch die Koalition. Für den historischen Superlativ ist ein harmonisierter Reihenvergleich nötig: Die 2003 veröffentlichte Parlamentsdarstellung wies auch für 2001 einen damaligen Überschuss aus; diesen älteren Berichtsstand darf man nicht ungeprüft mit späteren ESVG-Daten gleichsetzen.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S038",
+          "note": "27. Oktober 2020, Seiten 9 und 12: gesamtstaatliche und Bundessalden 2018/19. Damaliger Datenstand; spätere Revisionen möglich."
+        },
+        {
+          "sourceId": "S039",
+          "note": "24. Januar 2003; damalige positive Gesamtstaatsbilanz 2001. Historischer Berichtsstand, kein harmonisierter Reihenvergleich mit ESVG 2010."
+        }
+      ],
+      "openQuestions": [
+        "Harmonisierte historische ESVG-Zeitreihe einschließlich Revisionen für 2001 und 2018 prüfen, bevor der Superlativ erstmals seit Jahrzehnten endgültig beurteilt wird."
+      ],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0038",
+          "startSeconds": 3165,
+          "endSeconds": 3182,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "2018 hatte der Gesamtstaat einen Überschuss, der Bundessektor noch ein kleines Defizit; Zeitraum und Schuldenbegriff brauchen Präzisierung.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S038",
+              "S039"
+            ],
+            "result": "Für 2018 dokumentiert der Budgetdienst einen gesamtstaatlichen Maastricht-Überschuss von rund 0,2 Prozent des BIP; der Bundessektor allein hatte noch ein kleines Defizit. Ein Gesamtstaatsüberschuss ist damit belegt. Er ist weder mit jeder Haushaltsdefinition noch mit dem völligen Verzicht auf Bruttokreditaufnahme gleichzusetzen und beweist keine alleinige Verursachung durch die Koalition. Für den historischen Superlativ ist ein harmonisierter Reihenvergleich nötig: Die 2003 veröffentlichte Parlamentsdarstellung wies auch für 2001 einen damaligen Überschuss aus; diesen älteren Berichtsstand darf man nicht ungeprüft mit späteren ESVG-Daten gleichsetzen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": "Die ältere Darstellung zum Rechnungsabschluss 2001 nennt eine positive Gesamtstaatsbilanz; die Analyse 2019 verwendet einen späteren Statistik- und ESVG-Stand. Definitions- und Revisionseffekte wurden nicht vollständig rekonstruiert."
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0035",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die erste Kurz-Koalition senkte die Steuerlast für Erwerbstätige mit Kindern.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der 2018 beschlossene Familienbonus Plus trat Anfang 2019 in Kraft und konnte die Einkommensteuer für ein minderjähriges Kind um bis zu 1.500 Euro jährlich senken. Die volle Wirkung hing unter anderem von der vorhandenen Steuerlast ab; der neue Bonus ersetzte ältere Entlastungen. Belegt ist diese konkrete Reform, nicht eine gleich hohe Entlastung jeder Familie oder das wertende Ausmaß massiv.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S040",
+          "note": "4. Juli 2018; Einführung zum 1. Januar 2019, bis zu 1.500 Euro pro Kind und Jahr. Politische Erfolgswertung und Anspruchszahlen nicht übernommen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0039",
+          "startSeconds": 3178,
+          "endSeconds": 3190,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S040"
+            ],
+            "result": "Der 2018 beschlossene Familienbonus Plus trat Anfang 2019 in Kraft und konnte die Einkommensteuer für ein minderjähriges Kind um bis zu 1.500 Euro jährlich senken. Die volle Wirkung hing unter anderem von der vorhandenen Steuerlast ab; der neue Bonus ersetzte ältere Entlastungen. Belegt ist diese konkrete Reform, nicht eine gleich hohe Entlastung jeder Familie oder das wertende Ausmaß massiv."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0036",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Unter der ÖVP-FPÖ-Koalition wurde die Arbeitszeit flexibilisiert.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Der Nationalrat beschloss am 5. Juli 2018 die Möglichkeit von bis zu zwölf Stunden täglicher und 60 Stunden wöchentlicher Höchstarbeitszeit; das Gesetz trat am 1. September 2018 in Kraft. Es änderte damit die Spielräume für Arbeitszeit, nicht allgemein die Normalarbeitszeit auf zwölf Stunden. Ob die Reform politisch richtig war, ist eine andere Frage.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S041",
+          "note": "5. Juli 2018; neue Höchstarbeitszeiten und Inkrafttreten am 1. September 2018."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0040",
+          "startSeconds": 3188,
+          "endSeconds": 3200,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S041"
+            ],
+            "result": "Der Nationalrat beschloss am 5. Juli 2018 die Möglichkeit von bis zu zwölf Stunden täglicher und 60 Stunden wöchentlicher Höchstarbeitszeit; das Gesetz trat am 1. September 2018 in Kraft. Es änderte damit die Spielräume für Arbeitszeit, nicht allgemein die Normalarbeitszeit auf zwölf Stunden. Ob die Reform politisch richtig war, ist eine andere Frage."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0037",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die ÖVP-FPÖ-Koalition beschloss die Zusammenlegung von Sozialversicherungsträgern.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Am 13. Dezember 2018 beschloss der Nationalrat mit ÖVP-FPÖ-Mehrheit die Sozialversicherungsreform. Sie reduzierte die Trägerzahl von 21 auf fünf und bündelte insbesondere die Gebietskrankenkassen in der ÖGK. Geprüft ist der Beschluss und seine Struktur, nicht eine behauptete Einsparsumme oder Verbesserung jeder einzelnen Leistung.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S042",
+          "note": "13. Dezember 2018; 21 auf fünf Träger, Zusammenführung der Gebietskrankenkassen. Keine Bestätigung behaupteter Einsparungen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0041",
+          "startSeconds": 3190,
+          "endSeconds": 3204,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S042"
+            ],
+            "result": "Am 13. Dezember 2018 beschloss der Nationalrat mit ÖVP-FPÖ-Mehrheit die Sozialversicherungsreform. Sie reduzierte die Trägerzahl von 21 auf fünf und bündelte insbesondere die Gebietskrankenkassen in der ÖGK. Geprüft ist der Beschluss und seine Struktur, nicht eine behauptete Einsparsumme oder Verbesserung jeder einzelnen Leistung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0038",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die FPÖ stellt in einem österreichischen Bundesland den Landeshauptmann.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Mario Kunasek von der FPÖ wurde am 18. Dezember 2024 zum Landeshauptmann der Steiermark gewählt. Die aktuelle amtliche Funktionsseite führt ihn weiterhin in diesem Amt. Damit ist das genannte Beispiel belegt; die Zahl aller FPÖ-Regierungsbeteiligungen wird hier nicht daraus abgeleitet.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S043",
+          "note": "18. Dezember 2024; Wahl auf Vorschlag von FPÖ und ÖVP und Parteizugehörigkeit."
+        },
+        {
+          "sourceId": "S044",
+          "note": "Aktuelle amtliche Funktionsseite bezeichnet Mario Kunasek als Landeshauptmann seit 18. Dezember 2024."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0042",
+          "startSeconds": 3294,
+          "endSeconds": 3310,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S043",
+              "S044"
+            ],
+            "result": "Mario Kunasek von der FPÖ wurde am 18. Dezember 2024 zum Landeshauptmann der Steiermark gewählt. Die aktuelle amtliche Funktionsseite führt ihn weiterhin in diesem Amt. Damit ist das genannte Beispiel belegt; die Zahl aller FPÖ-Regierungsbeteiligungen wird hier nicht daraus abgeleitet."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0039",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die ÖVP gewann bei der Nationalratswahl 2019 stärker als 2017.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das amtliche Ergebnis 2017 weist 31,47 Prozent für die ÖVP-Liste aus, das Ergebnis 2019 gerundet 37,5 Prozent. Der Stimmenanteil stieg damit um rund sechs Prozentpunkte. Der Zuwachs beweist nicht, dass eine bestimmte Koalitionsvariante alternativlos war.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S020",
+          "note": "ÖVP 31,47 %, SPÖ 26,86 %, FPÖ 25,97 %."
+        },
+        {
+          "sourceId": "S045",
+          "note": "Amtliches Gesamtergebnis: ÖVP 37,5 Prozent; mit Ergebnis 2017 verglichen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0043",
+          "startSeconds": 3510,
+          "endSeconds": 3532,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S020",
+              "S045"
+            ],
+            "result": "Das amtliche Ergebnis 2017 weist 31,47 Prozent für die ÖVP-Liste aus, das Ergebnis 2019 gerundet 37,5 Prozent. Der Stimmenanteil stieg damit um rund sechs Prozentpunkte. Der Zuwachs beweist nicht, dass eine bestimmte Koalitionsvariante alternativlos war."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0040",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach der Wahl 2019 bildete Kurz eine Bundesregierung mit den Grünen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die amtliche Darstellung des Kabinetts Kurz II dokumentiert Regierungsmitglieder von ÖVP und Grünen. Auch die Parlamentsbiografie datiert Kurz’ zweite Kanzlerschaft ab 7. Januar 2020. Die faktische Koalitionsbildung ist belegt; die im Gespräch behauptete politische Notwendigkeit und die persönliche Bewertung sind damit nicht bewiesen.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Geburtsdatum, Regierungsämter und Mandatszeiten."
+        },
+        {
+          "sourceId": "S046",
+          "note": "Januar 2020; amtliche Darstellung des Kabinetts mit ÖVP und Grünen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0044",
+          "startSeconds": 3520,
+          "endSeconds": 3545,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S002",
+              "S046"
+            ],
+            "result": "Die amtliche Darstellung des Kabinetts Kurz II dokumentiert Regierungsmitglieder von ÖVP und Grünen. Auch die Parlamentsbiografie datiert Kurz’ zweite Kanzlerschaft ab 7. Januar 2020. Die faktische Koalitionsbildung ist belegt; die im Gespräch behauptete politische Notwendigkeit und die persönliche Bewertung sind damit nicht bewiesen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0041",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der österreichische Bundespräsident muss die Mitglieder einer neuen Bundesregierung ernennen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Nach der Darstellung des österreichischen Parlaments ernennt der Bundespräsident den Kanzler und auf dessen Vorschlag die übrigen Regierungsmitglieder. Das Parlament nennt auch historische Ablehnungen von Ministervorschlägen. Diese institutionelle Rolle ist belegt; eine konkrete Absprache oder Haltung Van der Bellens im Mai 2019 folgt daraus nicht.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S047",
+          "note": "Regierungsbildung: Ernennung des Kanzlers und auf dessen Vorschlag der übrigen Regierungsmitglieder."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0045",
+          "startSeconds": 3855,
+          "endSeconds": 3876,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S047"
+            ],
+            "result": "Nach der Darstellung des österreichischen Parlaments ernennt der Bundespräsident den Kanzler und auf dessen Vorschlag die übrigen Regierungsmitglieder. Das Parlament nennt auch historische Ablehnungen von Ministervorschlägen. Diese institutionelle Rolle ist belegt; eine konkrete Absprache oder Haltung Van der Bellens im Mai 2019 folgt daraus nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0042",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die ÖVP trat 2017 unter einem auf Sebastian Kurz zugeschnittenen Listennamen an.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das amtliche Wahlergebnis 2017 führt die Liste als Liste Sebastian Kurz – die neue Volkspartei mit dem Kürzel ÖVP. Das stützt die präzisierte Antwort des Gasts zum Listennamen. Eine rechtliche Umbenennung der gesamten Partei oder die ebenfalls erwähnte Zahl neuer Unterstützer wird damit nicht bestätigt.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S020",
+          "note": "ÖVP 31,47 %, SPÖ 26,86 %, FPÖ 25,97 %."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0046",
+          "startSeconds": 4430,
+          "endSeconds": 4462,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S020"
+            ],
+            "result": "Das amtliche Wahlergebnis 2017 führt die Liste als Liste Sebastian Kurz – die neue Volkspartei mit dem Kürzel ÖVP. Das stützt die präzisierte Antwort des Gasts zum Listennamen. Eine rechtliche Umbenennung der gesamten Partei oder die ebenfalls erwähnte Zahl neuer Unterstützer wird damit nicht bestätigt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0043",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Leiter des größten österreichischen Versicherers wurde unter Kurz Finanzminister.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Hartwig Löger wechselte im Dezember 2017 aus der Leitung von UNIQA Österreich ins Finanzministerium; das bestätigt die EIB. UNIQA bezeichnete sich 2017 mit rund 22 Prozent Marktanteil als größte Einzelversicherung. Diese eingegrenzte Marktführerschaft ist mit der Bezeichnung einer einzelnen Versicherung vereinbar, darf aber nicht auf den größten internationalen Versicherungskonzern ausgedehnt werden. Der dazu gesuchte FMA-Bericht ließ sich nicht lesen; eine unabhängige vollständige Ranglistenprüfung wird deshalb nicht behauptet.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Dezember 2017; Ernennung zum Finanzminister und frühere Leitung von UNIQA Österreich."
+        },
+        {
+          "sourceId": "S049",
+          "note": "Eigene Pressemitteilung vom 3. April 2017; rund 22 Prozent Marktanteil als Einzelversicherung, nicht als internationaler Konzern."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0047",
+          "startSeconds": 4458,
+          "endSeconds": 4476,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Lögers Wechsel von UNIQA ins Finanzministerium ist belegt; die Größenangabe betrifft laut UNIQA den österreichischen Einzelversicherer.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S048",
+              "S049"
+            ],
+            "result": "Hartwig Löger wechselte im Dezember 2017 aus der Leitung von UNIQA Österreich ins Finanzministerium; das bestätigt die EIB. UNIQA bezeichnete sich 2017 mit rund 22 Prozent Marktanteil als größte Einzelversicherung. Diese eingegrenzte Marktführerschaft ist mit der Bezeichnung einer einzelnen Versicherung vereinbar, darf aber nicht auf den größten internationalen Versicherungskonzern ausgedehnt werden. Der dazu gesuchte FMA-Bericht ließ sich nicht lesen; eine unabhängige vollständige Ranglistenprüfung wird deshalb nicht behauptet."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0044",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein früherer Universitätsrektor wurde unter Kurz Wissenschaftsminister.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der gemeinte Heinz Faßmann wurde unter Kurz Bildungs- und Wissenschaftsminister. Seine Parlamentsbiografie und die Österreichische Akademie der Wissenschaften bezeichnen seine vorherige Funktion an der Universität Wien jedoch als Vizerektor 2011 bis 2017. Der Wechsel aus der Universitätsleitung ist richtig, der konkrete Titel Rektor nicht.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S050",
+          "note": "Ministerzeiten und Vizerektor an der Universität Wien 2011–2017; Biografie beruht laut Parlament wesentlich auf Selbstauskunft."
+        },
+        {
+          "sourceId": "S051",
+          "note": "Institutionelle Biografie bestätigt Vizerektorat und Ministertätigkeit."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0048",
+          "startSeconds": 4460,
+          "endSeconds": 4480,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Heinz Faßmann wurde Minister; zuvor war er Vizerektor der Universität Wien, nicht deren Rektor.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false,
+        "shares": {
+          "p": 0.5,
+          "f": 0.5,
+          "u": 0
+        },
+        "sharesReason": "Zwei explizit getrennte Sachkerne: Wechsel aus der Universitätsleitung ins Ministeramt belegt; der im Gespräch genannte Amtsrang Rektor widerlegt."
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S050",
+              "S051"
+            ],
+            "result": "Der gemeinte Heinz Faßmann wurde unter Kurz Bildungs- und Wissenschaftsminister. Seine Parlamentsbiografie und die Österreichische Akademie der Wissenschaften bezeichnen seine vorherige Funktion an der Universität Wien jedoch als Vizerektor 2011 bis 2017. Der Wechsel aus der Universitätsleitung ist richtig, der konkrete Titel Rektor nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0045",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine frühere Leiterin von A1 wurde unter Kurz Wirtschaftsministerin.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Margarete Schramböck war laut Parlamentsbiografie von 2016 bis 2017 CEO von A1 Telekom Austria und übernahm im Dezember 2017 das Wirtschaftsressort. Der biografische Sachkern stimmt. Eine unabhängige Rangliste für den zusätzlichen Superlativ größtes Telekomunternehmen wurde hier nicht erstellt; geprüft ist die personelle Verbindung.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S052",
+          "note": "A1-CEO 2016–2017 und Ministerämter seit Dezember 2017; keine unabhängige Rangliste der Telekomunternehmen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0049",
+          "startSeconds": 4470,
+          "endSeconds": 4485,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S052"
+            ],
+            "result": "Margarete Schramböck war laut Parlamentsbiografie von 2016 bis 2017 CEO von A1 Telekom Austria und übernahm im Dezember 2017 das Wirtschaftsressort. Der biografische Sachkern stimmt. Eine unabhängige Rangliste für den zusätzlichen Superlativ größtes Telekomunternehmen wurde hier nicht erstellt; geprüft ist die personelle Verbindung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0046",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Große Cyberangriffe hätten früher zunächst monatelange Suche nach Zero-Day-Schwachstellen benötigt.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Aufwendige neue Schwachstellenforschung kann lange dauern. Sie war aber keine allgemeine Voraussetzung großer Cyberangriffe: Der gemeinsame Leitfaden von CISA, FBI, NSA und MS-ISAC dokumentiert bereits 2023 unter anderem kompromittierte Zugangsdaten, Social Engineering und bekannte ungepatchte Schwachstellen als Zugangswege. Die Passage verengt deshalb die frühere Angriffsrealität auf einen besonders anspruchsvollen Teilbereich.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S058",
+          "note": "Mai 2023; verbreitete Zugangswege wie kompromittierte Zugangsdaten und Social Engineering, nicht nur Zero-Days."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0050",
+          "startSeconds": 5184,
+          "endSeconds": 5228,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Auch vor der aktuellen KI-Entwicklung nutzten Angreifer gestohlene Zugänge, Täuschung und bekannte Schwachstellen ohne neue Zero-Days.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S058"
+            ],
+            "result": "Aufwendige neue Schwachstellenforschung kann lange dauern. Sie war aber keine allgemeine Voraussetzung großer Cyberangriffe: Der gemeinsame Leitfaden von CISA, FBI, NSA und MS-ISAC dokumentiert bereits 2023 unter anderem kompromittierte Zugangsdaten, Social Engineering und bekannte ungepatchte Schwachstellen als Zugangswege. Die Passage verengt deshalb die frühere Angriffsrealität auf einen besonders anspruchsvollen Teilbereich."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0047",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "KI finde heute in Minuten unzählige neue Zero-Day-Schwachstellen statt weniger Funde nach monatelanger Arbeit.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Ein deutlicher Fortschritt bei KI-gestützter Schwachstellenforschung ist belegt: Google beschreibt die veränderte Entdeckungs- und Ausnutzungslandschaft, Anthropic dokumentiert konkrete gemeldete Schwachstellen und Angriffsketten. Der Herstellerbericht ist ein eigener Leistungsnachweis und keine unabhängige allgemeine Benchmark. Weder diese Berichte noch die NCSC-Einschätzung liefern einen universellen Vergleich von Minuten gegen Monate oder eine unbegrenzte Zahl praktisch nutzbarer Zero-Days. Offenlegung, Exploitentwicklung und tatsächliche Ausnutzung sind zu unterscheiden.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S053",
+          "note": "7. Mai 2025; Beschleunigung von Recherche und Exploitentwicklung, Bewertung und Prognose ausdrücklich unterschieden."
+        },
+        {
+          "sourceId": "S054",
+          "note": "30. September 2026; Daten Januar 2025 bis August 2026. Offenlegung, Zero-Day-Ausnutzung und KI-Zuschreibung sind verschiedene Größen."
+        },
+        {
+          "sourceId": "S055",
+          "note": "27. Oktober 2026; Herstellerbericht zu konkreten gemeldeten Schwachstellen und Angriffsketten. Keine allgemeine Minuten-Benchmark aller Systeme."
+        }
+      ],
+      "openQuestions": [
+        "Vergleichbare Messung zu Suchdauer, getesteter Software, menschlicher Unterstützung, tatsächlich neuen Lücken und nutzbaren Exploits für die behauptete Größenordnung prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0051",
+          "startSeconds": 5227,
+          "endSeconds": 5250,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "KI-gestützte Schwachstellenfunde sind dokumentiert; der pauschale Minuten-gegen-Monate-Vergleich ist damit nicht nachgewiesen.",
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S053",
+              "S054",
+              "S055"
+            ],
+            "result": "Ein deutlicher Fortschritt bei KI-gestützter Schwachstellenforschung ist belegt: Google beschreibt die veränderte Entdeckungs- und Ausnutzungslandschaft, Anthropic dokumentiert konkrete gemeldete Schwachstellen und Angriffsketten. Der Herstellerbericht ist ein eigener Leistungsnachweis und keine unabhängige allgemeine Benchmark. Weder diese Berichte noch die NCSC-Einschätzung liefern einen universellen Vergleich von Minuten gegen Monate oder eine unbegrenzte Zahl praktisch nutzbarer Zero-Days. Offenlegung, Exploitentwicklung und tatsächliche Ausnutzung sind zu unterscheiden."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0048",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nordkoreanische Akteure verdienen mit Ransomware und Lösegeldzahlungen Geld.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das US-Justizministerium dokumentierte 2022 die Maui-Kampagne gegen Krankenhäuser einschließlich einer Bitcoinzahlung und der Sicherstellung von Erlösen. Die Mitteilung von 2024 beschreibt außerdem den Einsatz solcher Erlöse für weitere Angriffe. Das stützt den allgemeinen Sachkern der staatlich zugeordneten Ransomware-Finanzierung. Einzelne Anklagevorwürfe werden hier nicht als rechtskräftige Verurteilungen ausgegeben, und die Angaben im Interview zu typischen Millionenbeträgen werden damit nicht quantifiziert.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S056",
+          "note": "19. Juli 2022; Maui-Kampagne, Krankenhauszahlungen und Verfolgung der Zahlungswege. Amtliche Ermittlerdarstellung."
+        },
+        {
+          "sourceId": "S057",
+          "note": "25. Juli 2024; Ransomware-Erlöse zur Finanzierung weiterer Spionageangriffe. Anklagebehauptungen sind kein rechtskräftiges Individualurteil."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0052",
+          "startSeconds": 5470,
+          "endSeconds": 5509,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S056",
+              "S057"
+            ],
+            "result": "Das US-Justizministerium dokumentierte 2022 die Maui-Kampagne gegen Krankenhäuser einschließlich einer Bitcoinzahlung und der Sicherstellung von Erlösen. Die Mitteilung von 2024 beschreibt außerdem den Einsatz solcher Erlöse für weitere Angriffe. Das stützt den allgemeinen Sachkern der staatlich zugeordneten Ransomware-Finanzierung. Einzelne Anklagevorwürfe werden hier nicht als rechtskräftige Verurteilungen ausgegeben, und die Angaben im Interview zu typischen Millionenbeträgen werden damit nicht quantifiziert."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0049",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der gesetzliche Gesundheits-Check-up erfasse nur Cholesterin und Blutzucker.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die beiden genannten Laborwerte gehören zum altersabhängigen Check-up, bilden aber nicht seinen Gesamtumfang. Der G-BA nennt unter anderem Anamnese, körperliche Untersuchung, Blutdruck, Impfstatus, Risikofaktoren und Beratung; ab 35 kommen Urinuntersuchung und einmaliges Hepatitis-B/C-Screening hinzu. Die Werbung verkürzt damit das reguläre Vorsorgeangebot. Ob das beworbene Zusatzangebot für eine bestimmte Person sinnvoll ist, wird hier nicht beurteilt.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S059",
+          "note": "Leistungsumfang mit Anamnese, körperlicher Untersuchung, Blutdruck, Impfstatus, risikobezogener Beratung und altersabhängigen Laborleistungen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0053",
+          "startSeconds": 1925,
+          "endSeconds": 1940,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Werbeaussage der Moderation; nicht dem Gast zugeschrieben.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Der Kassen-Check-up umfasst auch Anamnese, körperliche Untersuchung, Blutdruck, Risikoberatung und weitere altersabhängige Leistungen.",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung außerhalb der politischen und technischen Gesprächsargumentation; gleicher Maßstab wie beim bereits geprüften Lüning-Werbeblock.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S059"
+            ],
+            "result": "Die beiden genannten Laborwerte gehören zum altersabhängigen Check-up, bilden aber nicht seinen Gesamtumfang. Der G-BA nennt unter anderem Anamnese, körperliche Untersuchung, Blutdruck, Impfstatus, Risikofaktoren und Beratung; ab 35 kommen Urinuntersuchung und einmaliges Hepatitis-B/C-Screening hinzu. Die Werbung verkürzt damit das reguläre Vorsorgeangebot. Ob das beworbene Zusatzangebot für eine bestimmte Person sinnvoll ist, wird hier nicht beurteilt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0050",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 4,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Übliche Feuchtigkeitscremes enthielten überwiegend Wasser oder Erdöl, mit denen die Haut wenig anfangen könne.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Werbung vermischt eine Zusammensetzungsbehauptung mit der pauschalen Abwertung der Pflegewirkung. Die AAD beschreibt Wasserbindung und empfiehlt Petrolatum unter anderem zur Pflege trockener Haut. Die gelesene kontrollierte Studie fand für das untersuchte Petrolatum eine beschleunigte Erholung der Hautbarriere. Gereinigtes kosmetisches Petrolatum ist nicht mit rohem Erdöl gleichzusetzen. Die Marktmehrheit der Cremeformulierungen und eine Überlegenheit des beworbenen Talgprodukts wurden dadurch nicht nachgewiesen.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S060",
+          "note": "Abschnitte zu Wasserbindung und Petrolatum. Fachverbandsinformation; keine Produktvergleichsstudie."
+        },
+        {
+          "sourceId": "S061",
+          "note": "DOI 10.1016/0190-9622(92)70060-S. Abstract der kontrollierten Untersuchung an menschlicher Haut gelesen; kein Vollartikel gelesen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0054",
+          "startSeconds": 3680,
+          "endSeconds": 3700,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Werbeaussage der Moderation; nicht dem Gast zugeschrieben.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Wasserbindung und gereinigtes Petrolatum können die Hautpflege unterstützen; daraus folgt keine allgemeine Überlegenheit von Talgcremes.",
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Werbeeinblendung außerhalb der politischen und technischen Gesprächsargumentation; gleicher Maßstab wie beim bereits geprüften Lüning-Werbeblock.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "UG/HP zu Wasser, Mineralöl und Hautpflege durchsucht; dabei mlxFA9T88I0-A0287 als thematisch gleichen Werbesachkern gefunden. Beide früher dort verwendeten Sachquellen selbst erneut geöffnet und Originalwerbung dieser Folge separat gelesen.",
+            "sourceIds": [
+              "S001",
+              "S060",
+              "S061"
+            ],
+            "result": "Die Werbung vermischt eine Zusammensetzungsbehauptung mit der pauschalen Abwertung der Pflegewirkung. Die AAD beschreibt Wasserbindung und empfiehlt Petrolatum unter anderem zur Pflege trockener Haut. Die gelesene kontrollierte Studie fand für das untersuchte Petrolatum eine beschleunigte Erholung der Hautbarriere. Gereinigtes kosmetisches Petrolatum ist nicht mit rohem Erdöl gleichzusetzen. Die Marktmehrheit der Cremeformulierungen und eine Überlegenheit des beworbenen Talgprodukts wurden dadurch nicht nachgewiesen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0051",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Meinung",
+      "description": "In einer Situation mit vollständigem Erinnerungsverlust wäre für Kurz Gottvertrauen besonders wichtig.",
+      "status": "Abgeschlossen",
+      "verdict": "Meinung / Prognose",
+      "reason": "Persönliche Antwort auf eine hypothetische Abschlussfrage. Sie beschreibt eine Haltung zum Umgang mit Unsicherheit und ist keine empirische Behauptung über Heilung oder die Wirkung einer Behandlung.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0055",
+          "startSeconds": 6577,
+          "endSeconds": 6595,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene persönliche Wertung im Textkontext.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "research": {
+        "gap": "Kein überprüfbarer Tatsachenkern",
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001"
+            ],
+            "result": "Persönliche Antwort auf eine hypothetische Abschlussfrage. Sie beschreibt eine Haltung zum Umgang mit Unsicherheit und ist keine empirische Behauptung über Heilung oder die Wirkung einer Behandlung."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
+    },
+    {
+      "id": "Q0xlcSU37TM-A0052",
+      "videoId": "Q0xlcSU37TM",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland, Österreich und Schweden seien wegen ihrer stärkeren Sozialsysteme die bevorzugten Asylzielländer gewesen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Noch nicht geprüft – die neu gelesene Eurostat-Tabelle zeigt die Verteilung der Anträge, erhebt aber keine individuellen Zielwahlmotive. Für die kausale Verallgemeinerung sind empirische Untersuchungen zu Sozialleistungen, Netzwerken, Sprache, Arbeitsmarkt und den tatsächlichen Wahlmöglichkeiten während 2015/16 nötig. Aus der bloßen Verteilung wird kein Motivurteil abgeleitet.",
+      "assessmentBasis": "[Codex] Automatische deutsche Originaltextfassung direkt aus dem YouTube-Player am 25.11.2026 erschlossen; Fundstelle mit Vor- und Nachlauf gelesen. Sachquellen selbst gelesen. Keine Hör-/Bildkontrolle; Personen und Satzgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständiger Sachkern aus dem Original; keine importierte Bewertung und kein Altpunkt.",
+        "assessmentChange": "[Codex] 25.11.2026: neu erfasst und im ausdrücklich bezeichneten Umfang geprüft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Nur Wortlautbezug und Gesprächsrolle, kein unabhängiger Sachbeleg."
+        },
+        {
+          "sourceId": "S037",
+          "note": "4. März 2016; Erstasylanträge 2015, Tabelle auf Seite 2. Erfasst Registrierungen, keine individuellen Zielwahlmotive."
+        }
+      ],
+      "openQuestions": [
+        "Originale IAB-BAMF-SOEP-Befragung zu Fluchtwegen und Zielwahl 2015/16 sowie eine vergleichende Studie zu Sozialleistungen und Asylzielländern lesen; Netzwerk- und Registrierungsbedingungen kontrollieren."
+      ],
+      "occurrences": [
+        {
+          "id": "Q0xlcSU37TM-O0056",
+          "startSeconds": 2515,
+          "endSeconds": 2548,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Frage-Antwort-Abfolge, Selbstbezug und im Text erkennbarer Werbeblock; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigenständige Aussage im gelesenen Anschlusskontext; kein bloßes Fremdzitat.",
+          "note": "Eigene Paraphrase einer im Zusammenhang gelesenen Textstelle.",
+          "timeBasis": "Gerundete Segmentanker der automatischen deutschen YouTube-Originaltextfassung vom 25.11.2026; keine gemessenen Satzgrenzen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Sebastian Kurz",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Eigene Antwort des Gasts; im gelesenen Anschluss keine ausdrückliche Zurückweisung. Keine allgemeine Zustimmung des Hosts unterstellt.",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25"
+      },
+      "factIndex": {
+        "weight": 1,
+        "weightReason": "Eigenständige normale Sachaussage innerhalb des jeweiligen Gesprächsabschnitts; kein hervorgehobener Superlativ des Videotitels und keine bloße Wiederholung.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Codex",
+        "assessedOn": "2026-11-25",
+        "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-25",
+            "agent": "Codex",
+            "strategy": "Vorher UG/HP gezielt zu Kurz, österreichischen Institutionen/Reformen, Asyl und Cyberangriffen durchsucht; Originalstelle und die bezeichneten Primärquellen im Sach- und Zeitbezug gelesen.",
+            "sourceIds": [
+              "S001",
+              "S037"
+            ],
+            "result": "Nur die Antragsverteilung geprüft; die Kausalprüfung ist ausdrücklich nicht abgeschlossen."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     }
   ]
