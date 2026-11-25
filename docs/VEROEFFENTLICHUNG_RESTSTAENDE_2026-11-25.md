@@ -29,4 +29,6 @@ Ausgeführt und bestanden: 181 JavaScript-Regressionstests (169 Workflow-Tests, 
 
 Die lokale Berechnung ergibt Krall 0,258 / Rot und Schmidt-Salomon 0,599 / Gelb, jeweils bei rund 87 Prozent Prüfabdeckung des erfassten Teilbestands. Damit haben alle zwölf Videos eine berechenbare Farbe, ohne vollständige Videoerfassung zu behaupten. Diese Werte sind dokumentierte Rechenergebnisse und werden nicht als Ampelfelder gespeichert.
 
-Die Veröffentlichung erfolgt über einen eigenen Pull Request; die GitHub-Gesamtprüfung und das anschließende Pages-Deployment werden vor der Abschlussmeldung kontrolliert.
+Die Publikationsprüfung einschließlich des vollständig aufgebauten Git-Index hat 368 Dateien erfolgreich geprüft. Die Veröffentlichung erfolgt über einen eigenen Pull Request; die GitHub-Gesamtprüfung und das anschließende Pages-Deployment werden vor der Abschlussmeldung kontrolliert.
+
+Während der Vorbereitung wurde die allgemeine Koordinationsregel aus PR #129 nach `main` übernommen. Stand `9423b22650fa2007fb5b3900cb337994b1772238` wurde vor Veröffentlichung konfliktfrei integriert; diese Änderung betrifft nur Agentenanweisungen und keine Faktendaten oder Webseitenlogik.
