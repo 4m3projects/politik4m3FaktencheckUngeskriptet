@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 77 Prüfgegenständen. Neue Suchfenster verteilen sich über Geldgeschichte, Wirtschaft, Staatsaufgaben, Klima und Recht. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert. [Codex] 24.11.2026: Originaltext direkt im YouTube-Player erschlossen und zehn weitere Sachbehauptungen gegen neu gelesene amtliche und wissenschaftliche Quellen geprüft. Das Schreiben des Draghi-Crash 2015/16 wird nicht als Veröffentlichung in diesen Jahren fehlgedeutet. Keine früheren Urteile geändert; neue Aussagen ohne direkte Reaktionsverknüpfung. [Codex] 24.11.2026, erweiterte Fortsetzung: 37 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der übernommenen, am 24.11. begonnenen Erweiterung; alle 40 vorher publizierten Aussagen unverändert. China-Paraphrase enger am automatischen Wortlaut, DAX-Passage nach erneuter Originaltext- und Normlektüre präzisiert. Quellenprüfung der übrigen neuen Aussagen als dokumentierte Vorarbeit vom 24.11. übernommen; keine neue Vollsichtung behauptet.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026 (Issue #77): Originaltextpassagen 01:17, 01:47 und 03:17 erneut gelesen; A0009 um historische Metaanalyse und A0025 um Ausgangszeitraum/Amtsantritt ergänzt, Urteile unverändert. Zwally 2015 bezeichnet frühere Messzeiträume und widerlegt die Langzeiteinordnung nicht. Beide Krall-Reaktionen auf direkten Ergänzungsbedarf abgeglichen. [Codex] 19.11.2026, Fortsetzung #77: alle neun zuvor laufenden Einträge gezielt am Originaltext und den bezeichneten Primärquellen nachgeprüft. Drei pauschale politische Gesamtwertungen als Meinung getrennt; konkrete Sachkerne bleiben eigenständig. Recherchegrenzen und frühere Begründungen erhalten. Keine Ampelregel geändert. [Codex] 24.11.2026: Originaltext direkt im YouTube-Player erschlossen und zehn weitere Sachbehauptungen gegen neu gelesene amtliche und wissenschaftliche Quellen geprüft. Das Schreiben des Draghi-Crash 2015/16 wird nicht als Veröffentlichung in diesen Jahren fehlgedeutet. Keine früheren Urteile geändert; neue Aussagen ohne direkte Reaktionsverknüpfung. [Codex] 24.11.2026, erweiterte Fortsetzung: 37 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der übernommenen, am 24.11. begonnenen Erweiterung; alle 40 vorher publizierten Aussagen unverändert. China-Paraphrase enger am automatischen Wortlaut, DAX-Passage nach erneuter Originaltext- und Normlektüre präzisiert. Quellenprüfung der übrigen neuen Aussagen als dokumentierte Vorarbeit vom 24.11. übernommen; keine neue Vollsichtung behauptet. [Kai] 26.11.2026: Numerische Sprecherreferenz bei 44 bereits als Aussagen von Gast Markus Krall erfassten Vorkommen an das vorhandene Sprecherregister angepasst; keine Bestätigung durch Audio. Einen offenen Wechselkursbefund mit amtlichen Quellen abgeschlossen.
 
 ## OQnvClWgN-g-A0003
 
@@ -56,7 +56,7 @@ Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbe
 
 ### Fundstellen und Zuordnung
 
-- [00:18:07–00:18:24](https://www.youtube.com/watch?v=OQnvClWgN-g&t=1087s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+- [00:18:07–00:18:24](https://www.youtube.com/watch?v=OQnvClWgN-g&t=1087s) · nicht bestaetigt; Kandidat: Markus Krall · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.
@@ -104,7 +104,7 @@ Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
-- [00:18:34–00:18:51](https://www.youtube.com/watch?v=OQnvClWgN-g&t=1114s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+- [00:18:34–00:18:51](https://www.youtube.com/watch?v=OQnvClWgN-g&t=1114s) · nicht bestaetigt; Kandidat: Markus Krall · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Gesprächskontext der direkt aus dem Originalplayer erschlossenen automatischen Textfassung; keine bestätigte Stimme.
@@ -165,7 +165,7 @@ Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbe
 
 ### Fundstellen und Zuordnung
 
-- [00:13:33–00:14:24](https://www.youtube.com/watch?v=OQnvClWgN-g&t=813s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+- [00:13:33–00:14:24](https://www.youtube.com/watch?v=OQnvClWgN-g&t=813s) · nicht bestaetigt; Kandidat: Markus Krall · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
@@ -273,7 +273,7 @@ Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art:
 
 ### Fundstellen und Zuordnung
 
-- [00:20:14–00:20:43](https://www.youtube.com/watch?v=OQnvClWgN-g&t=1214s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+- [00:20:14–00:20:43](https://www.youtube.com/watch?v=OQnvClWgN-g&t=1214s) · nicht bestaetigt; Kandidat: Markus Krall · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
@@ -324,7 +324,7 @@ Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptu
 
 ### Fundstellen und Zuordnung
 
-- [00:15:28–00:15:57](https://www.youtube.com/watch?v=OQnvClWgN-g&t=928s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+- [00:15:28–00:15:57](https://www.youtube.com/watch?v=OQnvClWgN-g&t=928s) · nicht bestaetigt; Kandidat: Markus Krall · Behauptung · Ungefähr
   Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
 
 Grundlage der Sprecherzuordnung: Sprecherwechsel und inhaltliche Gesprächsrolle in der direkten automatischen Originaltextfassung; keine bestätigte Stimme.
