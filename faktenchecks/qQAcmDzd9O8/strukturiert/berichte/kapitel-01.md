@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen. [Kai] 26.11.2026: 2 frühere Teilurteile einzeln nachgeprüft (UG-C0014 bis UG-C0015). Kein neuer Hör-/Sichtabgleich.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen. [Kai] 26.11.2026: 2 frühere Teilurteile einzeln nachgeprüft (UG-C0014 bis UG-C0015). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0024 bis UG-C0027). Kein neuer Hör-/Sichtabgleich.
 
 ## qQAcmDzd9O8-A0001
 
@@ -686,7 +686,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das UBA komme auf ungefähr drei bis fünf Monate energetische Amortisation.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -705,13 +705,13 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Tabelle 97 stützt gerundet drei bis fünf Monate beim deutschen Referenzmix; andere Referenzmixe ergeben längere Zeiten. Die nötige Methodenabgrenzung zum Vestas-Nettorücklauf fehlt in der Kurzfassung. Kein nachgewiesener Zahlenwiderspruch.
+Alfred nennt rund drei bis fünf Monate und sagt unmittelbar davor, dass das UBA etwas anders rechnet. Die wirkliche Modellspanne beim deutschen Referenzstrommix beträgt 2,5 bis 4,5 Monate und passt gerundet zur Angabe. Erfasst wird die eingesetzte Primärenergie über den Lebenszyklus relativ zum ersetzten Referenzstrom; die Zahl ist nicht mit dem Vestas-Nettorücklauf gleichzusetzen. Der dänische Referenzmix ergibt in derselben Tabelle längere Zeiten.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. [Kai] 2026-11-26, UG-C0024: vorher Teilweise belegt, jetzt Belegt. Die UBA-Tabelle nennt 2,5 bis 4,5 Monate beim deutschen Referenzstrommix; gerundet passt das zu drei bis fünf.
 
 ### Zugeordnete Quellen
 
@@ -721,9 +721,18 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 - [Windenergie an Land](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien/windenergie-an-land) · Umweltbundesamt; Seitenstand 09.10.2026, nach Aufnahme des Interviews.
   Quellenzugriff am 2026-11-18. Verlinkte Seite geöffnet; im auslesbaren Text keine Angabe 3–5 Monate gefunden. Der separate Bericht UBA 35/2021 wurde ebenfalls gelesen. Fehlende Fundstelle ist kein Beweis, dass die Zahl nie auf der Seite stand. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
+- [Umweltbundesamt: Ökobilanzen von Windenergie- und Photovoltaikanlagen, Tab. 97](https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf#page=307) · Studie 35/2021, S. 307, Tabelle 97 und der Absatz zum Primärenergiebedarf der Referenzstrommixe.
+  Quellenzugriff am 2026-11-26. Referenzstrommixe und die drei Parametrisierungen Offshore, Starkwind und Schwachwind getrennt gegengelesen. Tabelle 97 und Methodik zur Primärenergie, deutscher und dänischer Referenzstrommix.
+
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S009, S010, S050. Ergebnis: Alfred nennt rund drei bis fünf Monate und sagt unmittelbar davor, dass das UBA etwas anders rechnet. Die wirkliche Modellspanne beim deutschen Referenzstrommix beträgt 2,5 bis 4,5 Monate und passt gerundet zur Angabe. Erfasst wird die eingesetzte Primärenergie über den Lebenszyklus relativ zum ersetzten Referenzstrom; die Zahl ist nicht mit dem Vestas-Nettorücklauf gleichzusetzen. Der dänische Referenzmix ergibt in derselben Tabelle längere Zeiten.
 
 ## qQAcmDzd9O8-A0017
 
@@ -863,7 +872,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Growian habe 87 Millionen Mark gekostet.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -882,18 +891,18 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt.
+Alfred nennt 87 Millionen DM als Kosten des Windrads. Die Bundesregierung veranschlagte diese Summe 1981/82 für das gesamte GROWIAN-Forschungsprogramm einschließlich Entwicklung, Begleituntersuchungen und Auswertung. Die reine Anlagenfertigung schätzte sie separat auf rund 30 Millionen DM. Das ist weder dasselbe wie die Gesamtkosten des Errichtens der Anlage noch eine spätere Schlussabrechnung. Der Betrag von 87 Millionen DM ist als Programmaufwand plausibel, aber kein belegter Einzelpreis für die Turbine.
 
-Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt. [Kai] 2026-11-26, UG-C0026: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. 87 Mio. DM waren der geschätzte Aufwand des Programms, nicht der Einzelpreis der Turbine.
 
 ### Zugeordnete Quellen
 
 - [Bundesregierung: GROWIAN, Drucksache 9/1249](https://dserver.bundestag.de/btd/09/012/0901249.pdf) · Antwort vom 30.12.1981, veröffentlicht 05.01.1982; Fragen 1 und 4.
-  Quellenzugriff am 2026-11-19. Kostenaufstellung und Definition des geschätzten Gesamtprogramms selbst gelesen; kein Schlussverwendungsnachweis. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-19. Kostenaufstellung und Definition des geschätzten Gesamtprogramms selbst gelesen; kein Schlussverwendungsnachweis. Bundestagsdrucksache 9/1249, S. 3: Programmschätzung und separate Anlagenfertigung.
 
 - [Hesse (2021): Visible winds](https://publikationen.bibliothek.kit.edu/1000158846/150748865) · Centaurus, Abschnitt zu GROWIAN auf S. 707; eigene historische Forschungsarbeit mit Archivquellen, DOI 10.1111/1600-0498.12420.
   Quellenzugriff am 2026-11-19. Passage zu Inbetriebnahme, Demontage, Betriebsstunden und Kosten einschließlich Quellenverweisen selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
@@ -909,6 +918,8 @@ Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 - Durchgang 1 am 2026-11-19 (Codex): Wissenssuche UG/HP und zeitgenössische parlamentarische Kostenunterlagen geprüft. Gepruefte Quellen: S040. Ergebnis: 87 Millionen als damalige Schätzung des Gesamtprogramms, nicht nur Anlagenbau.
 
 - Durchgang 2 am 2026-11-19 (Codex): Historische Forschungsarbeit als anderen Prüfweg gelesen. Gepruefte Quellen: S041. Ergebnis: Rund 90 Millionen; Reichweite der präzisen Zahl begrenzt.
+
+- Durchgang 3 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S040, S041. Ergebnis: Alfred nennt 87 Millionen DM als Kosten des Windrads. Die Bundesregierung veranschlagte diese Summe 1981/82 für das gesamte GROWIAN-Forschungsprogramm einschließlich Entwicklung, Begleituntersuchungen und Auswertung. Die reine Anlagenfertigung schätzte sie separat auf rund 30 Millionen DM. Das ist weder dasselbe wie die Gesamtkosten des Errichtens der Anlage noch eine spätere Schlussabrechnung. Der Betrag von 87 Millionen DM ist als Programmaufwand plausibel, aber kein belegter Einzelpreis für die Turbine.
 
 ## qQAcmDzd9O8-A0021
 
@@ -1335,9 +1346,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Die kalifornische SVB scheiterte 2023 im Zusammenhang mit stark gestiegenen Zinsen.
+**Eigene Beschreibung:** Alfred nennt die stark gestiegenen Zinsen als den Grund für das Scheitern der Silicon Valley Bank 2023.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1356,22 +1367,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zinsrisiko war wesentlich; der Aufsichtsbericht nennt auch Liquiditätsrisiken, Management- und Aufsichtsversagen. Eine monokausale Kurzfassung lässt Ursachen aus.
+Alfred nennt stark gestiegene Zinsen unmittelbar als den Grund des Scheiterns. Die Fed bestätigt Zinsdruck, betont aber das Zusammenwirken mit dem mangelhaften Zins- und Liquiditätsrisikomanagement, konzentrierten unversicherten Einlagen, dem massiven Einlagenabzug und Aufsichtsversäumnissen. Der Auslöser ist damit nicht ausgedacht, aber der Bericht stützt nicht die nahegelegte Erklärung aus einer einzigen Ursache.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. [Kai] 2026-11-26, UG-C0027: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Höhere Zinsen trugen bei; der Fed-Bericht nennt auch Risikomanagement, Einlagenabzug und Aufsicht.
 
 ### Zugeordnete Quellen
 
 - [Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank](https://www.federalreserve.gov/publications/files/svb-review-20230428.pdf) · Federal Reserve, 28.04.2023; Anschreiben und Zusammenfassung: Zins-, Liquiditäts-, Management- und Aufsichtsrisiken.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Federal Reserve, Executive Summary: Zinsänderungsrisiko, Abzüge und Aufsicht.
 
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S014. Ergebnis: Alfred nennt stark gestiegene Zinsen unmittelbar als den Grund des Scheiterns. Die Fed bestätigt Zinsdruck, betont aber das Zusammenwirken mit dem mangelhaften Zins- und Liquiditätsrisikomanagement, konzentrierten unversicherten Einlagen, dem massiven Einlagenabzug und Aufsichtsversäumnissen. Der Auslöser ist damit nicht ausgedacht, aber der Bericht stützt nicht die nahegelegte Erklärung aus einer einzigen Ursache.
 
 ## qQAcmDzd9O8-A0031
 
@@ -1881,7 +1898,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** An einem schwachen Standort könne die energetische Amortisation ungefähr ein Jahr dauern.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1900,22 +1917,31 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die UBA-Modellbandbreite reicht ungefähr bis ein Jahr; sie hängt zusätzlich zum Standort vom Referenzstrommix ab. Schwachwind allein erklärt die längste Dauer nicht.
+Unmittelbar im Anschluss an die UBA-Zahlen nennt Alfred einen schwachen Standort mit rund einem Jahr. In derselben UBA-Tabelle liegt der Schwachwindfall an Land bei 3,2 Monaten mit deutschem beziehungsweise 7,6 Monaten mit dänischem Referenzmix. Nahe einem Jahr liegt dort nur der Offshore-Fall mit dänischem Referenzmix (10,7 Monate). Ein Jahr wird hier nicht allgemein für unmöglich erklärt; es ist aber nicht das Ergebnis des nahegelegten Schwachwindfalls dieser Studie.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. [Kai] 2026-11-26, UG-C0025: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Im UBA-Schwachwindfall an Land sind es 3,2 bzw. 7,6 Monate. Nahe einem Jahr liegt der Offshore-Fall mit dänischem Referenzmix.
 
 ### Zugeordnete Quellen
 
 - [Ökobilanzen von Windenergie- und Photovoltaikanlagen](https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf) · Hengstler et al., UBA Climate Change 35/2021; S. 35 und 307; Primärenergie-/Referenzstrommixabhängigkeit.
   Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
+- [Umweltbundesamt: Ökobilanzen von Windenergie- und Photovoltaikanlagen, Tab. 97](https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf#page=307) · Studie 35/2021, S. 307, Tabelle 97 und der Absatz zum Primärenergiebedarf der Referenzstrommixe.
+  Quellenzugriff am 2026-11-26. Referenzstrommixe und die drei Parametrisierungen Offshore, Starkwind und Schwachwind getrennt gegengelesen. Tabelle 97: Zeilen und Spalten zum maßgeblichen Schwachwindfall und zum Offshore-Vergleich.
+
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S009, S050. Ergebnis: Unmittelbar im Anschluss an die UBA-Zahlen nennt Alfred einen schwachen Standort mit rund einem Jahr. In derselben UBA-Tabelle liegt der Schwachwindfall an Land bei 3,2 Monaten mit deutschem beziehungsweise 7,6 Monaten mit dänischem Referenzmix. Nahe einem Jahr liegt dort nur der Offshore-Fall mit dänischem Referenzmix (10,7 Monate). Ein Jahr wird hier nicht allgemein für unmöglich erklärt; es ist aber nicht das Ergebnis des nahegelegten Schwachwindfalls dieser Studie.
 
 ## qQAcmDzd9O8-A0042
 

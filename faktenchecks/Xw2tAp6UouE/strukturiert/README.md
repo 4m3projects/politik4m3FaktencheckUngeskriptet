@@ -6,7 +6,7 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 Stand: 2026-11-26 · Video: Xw2tAp6UouE
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 3 frühere Teilurteile einzeln nachgeprüft (UG-C0021 bis UG-C0023). Kein neuer Hör-/Sichtabgleich.
 
 ## Umfang und Bearbeitungsstand
 
@@ -36,10 +36,10 @@ Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eig
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 37 | 58.7 % |
-| Teilweise belegt | 15 | 23.8 % |
+| Belegt | 39 | 61.9 % |
+| Teilweise belegt | 12 | 19.0 % |
 | Irreführend / Kontext fehlt | 6 | 9.5 % |
-| Widerlegt | 5 | 7.9 % |
+| Widerlegt | 6 | 9.5 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 1 | nicht anwendbar |
 

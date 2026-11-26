@@ -1,0 +1,75 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0030",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "QxMuH1bjMwo-A0062",
+    "entryId": null,
+    "description": "Das ECCC-Urteil bestätigt systematische Tötungen von Kindern; die behauptete Häufigkeit einer bestimmten Methode bleibt separat offen."
+  },
+  "evidence": [
+    {
+      "title": "ECCC: Urteil gegen Kaing Guek Eav, 26. Juli 2010",
+      "url": "https://www.eccc.gov.kh/sites/default/files/documents/courtdoc/20100726_Judgement_Case_001_ENG_PUBLIC.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Das Urteil hält die systematische Tötung junger Kinder im S-21-Komplex fest."
+    },
+    {
+      "title": "ECCC: Aussage des Angeklagten Kaing Guek Eav vom 17. Juni 2009",
+      "url": "https://www.eccc.gov.kh/sites/default/files/documents/courtdoc/E1_34.1_TR001_20090617_Final_EN_Pub.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Befragung bestätigt keine genaue Zahl für die spezifische Methode; Zusatzfrage wird nicht aus dem Kern abgeleitet."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/QxMuH1bjMwo",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 1:11:23, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "QxMuH1bjMwo-A0062",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0076",
+      "reason": "Eigenständige, offen belassene Zusatzbehauptung zur Häufigkeit einer bestimmten Methode, ohne zweite Trefferwertung."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "QxMuH1bjMwo-A0062",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "QxMuH1bjMwo-A0062",
+      "field": "reason",
+      "before": "Das ECCC-Urteil hält Hinrichtungen kleiner Kinder in S-21 und Choeung Ek sowie einen dokumentierten Fall mit etwa 160 Kindern fest. Damit ist der Kern der geschilderten Massengewalt belegt. Die konkrete Baum-Methode und die im Gespräch genannte unbestimmte Häufigkeit wurden durch die gelesenen Urteilsabschnitte nicht unabhängig bestätigt; eine allgemeine Erklärung der Täterpersönlichkeit folgt daraus ebenfalls nicht.",
+      "after": "Das ECCC-Urteil bestätigt, dass der Sicherheitsapparat der Roten Khmer systematisch auch kleine Kinder hinrichtete. Das wird für den Komplex S-21 einschließlich Choeung Ek in den Absätzen 214–219 dokumentiert. Der zusätzlich im Video behauptete Umfang einer bestimmten Tötungsmethode ist hiervon unabhängig und wird in A0076 separat und ohne Wertung weiter geprüft."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0062",
+      "field": "shortReason",
+      "before": "Die gezielte Tötung von Kindern ist gerichtlich dokumentiert; die konkrete Methode und Häufigkeit bleiben hier ungeprüft.",
+      "after": "Das ECCC-Urteil bestätigt systematische Tötungen von Kindern; die behauptete Häufigkeit einer bestimmten Methode bleibt separat offen."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

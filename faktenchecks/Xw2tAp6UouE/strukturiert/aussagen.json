@@ -10,7 +10,7 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich.",
+    "researchNote": "[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 3 frühere Teilurteile einzeln nachgeprüft (UG-C0021 bis UG-C0023). Kein neuer Hör-/Sichtabgleich.",
     "coverageNote": "Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand."
   },
   "legacyPoints": [],
@@ -574,6 +574,30 @@
       "details": "J Pers Soc Psychol 77(6), S. 1121–1134; Originalabstract, PMID 10626367.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Messwerte und abgegrenzten Aufgabenbereich im publizierten Abstract gelesen."
+    },
+    {
+      "id": "S071",
+      "title": "Lenin: Rede zur Naturalsteuer und neuen Wirtschaftspolitik",
+      "url": "https://seventeenmoments.web.illinois.edu/1921-2/tenth-party-congress/tenth-party-congress-texts/lenin-explains-the-tax-in-kind-and-the-new-policy/",
+      "details": "Rede vom 15. März 1921 in der Quellensammlung der University of Illinois.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Datierung, Naturalsteuer und den vorgesehenen lokalen Warenaustausch im übersetzten Originaltext gelesen."
+    },
+    {
+      "id": "S072",
+      "title": "Edler et al. (2020): Hamburger Obduktionsserie",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7271136/",
+      "details": "International Journal of Legal Medicine, 134, 1275–1284.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Methodik und Datierung der 80 tatsächlich zwischen dem 20. März und dem 18. April 2020 durchgeführten Untersuchungen im publizierten Original gelesen."
+    },
+    {
+      "id": "S073",
+      "title": "Bundestag: Wissenschaftliche Dienste, Obduktionen bei Corona-Todesfällen",
+      "url": "https://www.bundestag.de/resource/blob/706214/3186743b43670ebb3d93c9566e39eab5/WD-8-032-20-pdf-data.pdf",
+      "details": "WD 8-3000-032/20; dokumentiert den Wortlaut und die Entwicklung der RKI-Empfehlung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Passagen zur Empfehlung vom 24. März 2020 und ihrer späteren Änderung gelesen."
     }
   ],
   "speakers": [
@@ -1726,13 +1750,13 @@
       "kind": "Tatsachenbehauptung",
       "description": "Schimpansen können berücksichtigen, was ein anderer weiß oder erwartet.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Die Blickverhaltensexperimente von Krupenye und Kollegen liefern Hinweise, dass Menschenaffen zumindest implizit Erwartungen anderer berücksichtigen. Die Autoren diskutieren selbst alternative Erklärungen und Unterschiede zu expliziten Tests. Das stützt einen begrenzten Theory-of-Mind-Befund, beweist aber nicht sämtliche im Gespräch angeschlossenen Aussagen über ein menschlich vergleichbares Ichbewusstsein oder philosophische Personalität.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.",
+      "verdict": "Belegt",
+      "reason": "Blickexperimente mit Schimpansen, Bonobos und Orang-Utans zeigen, dass ihre Reaktionen berücksichtigen können, was eine andere Figur gesehen hat und wo sie deshalb nach einem Objekt suchen dürfte. Das stützt den eingegrenzten Befund zur Erwartung anderer. Die Autoren diskutieren auch einfachere Lernerklärungen: Aus solchen Versuchen folgt weder ein vollständiges menschenähnliches Verständnis fremder Gedanken noch der philosophische Schluss über Ichbewusstsein oder Personalität.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Kai] 2026-11-26, UG-C0023: vorher Teilweise belegt, jetzt Belegt. Menschenaffen berücksichtigten in Blickexperimenten, wo eine Figur aufgrund ihrer Information suchen dürfte."
       },
       "sourceRefs": [
         {
@@ -1741,7 +1765,7 @@
         },
         {
           "sourceId": "S022",
-          "note": "Abstract, Versuchsaufbau, Blickergebnisse und Diskussion alternativer Regel-Lern-Erklärungen gelesen. Nicht mit einem vollständigen menschlichen Ichbewusstsein gleichgesetzt."
+          "note": "Originalstudie Krupenye et al., Blickmaße, Ergebnisse und alternative Lernerklärungen."
         }
       ],
       "openQuestions": [],
@@ -1774,7 +1798,7 @@
         "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
       },
-      "shortReason": "Experimente stützen begrenzte Perspektivübernahme, beweisen aber kein vollständig menschenähnliches Ichbewusstsein.",
+      "shortReason": "Menschenaffen berücksichtigten in Blickexperimenten, wo eine Figur aufgrund ihrer Information suchen dürfte.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachkern der jeweiligen Themenargumentation; Standardbedeutung ohne zusätzliche Hochgewichtung.",
@@ -1798,6 +1822,16 @@
               "S022"
             ],
             "result": "Die Blickverhaltensexperimente von Krupenye und Kollegen liefern Hinweise, dass Menschenaffen zumindest implizit Erwartungen anderer berücksichtigen. Die Autoren diskutieren selbst alternative Erklärungen und Unterschiede zu expliziten Tests. Das stützt einen begrenzten Theory-of-Mind-Befund, beweist aber nicht sämtliche im Gespräch angeschlossenen Aussagen über ein menschlich vergleichbares Ichbewusstsein oder philosophische Personalität."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S012",
+              "S022"
+            ],
+            "result": "Blickexperimente mit Schimpansen, Bonobos und Orang-Utans zeigen, dass ihre Reaktionen berücksichtigen können, was eine andere Figur gesehen hat und wo sie deshalb nach einem Objekt suchen dürfte. Das stützt den eingegrenzten Befund zur Erwartung anderer. Die Autoren diskutieren auch einfachere Lernerklärungen: Aus solchen Versuchen folgt weder ein vollständiges menschenähnliches Verständnis fremder Gedanken noch der philosophische Schluss über Ichbewusstsein oder Personalität."
           }
         ],
         "missingInformation": null,
@@ -3317,13 +3351,13 @@
       "kind": "Tatsachenbehauptung",
       "description": "Lenin führte nach der Krise des Kriegskommunismus eine neue ökonomische Politik mit marktwirtschaftlichen Elementen ein.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Lenin leitete die Neue Ökonomische Politik als Reaktion auf die Krise ein; sie enthielt wieder marktwirtschaftliche Elemente. Die DHM-Chronik datiert den Beginn bereits auf März 1921, nicht erst auf die im Gespräch ungefähr genannten Jahre 1922/23. Der Kurswechsel stimmt, die Chronologie ist ungenau und bedeutete keine vollständige Aufgabe bolschewistischer Herrschaft.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.",
+      "verdict": "Belegt",
+      "reason": "Lenin leitete in der Krise nach dem Kriegskommunismus eine neue Wirtschaftspolitik mit Marktelementen ein. In seiner Rede vom 15. März 1921 schlug er vor, die Ablieferung von Überschüssen durch eine Naturalsteuer zu ersetzen und lokalen Warenaustausch zu ermöglichen. Die im Gespräch ungefähr genannten Jahre 1922/23 gehören bereits in die Phase der Umsetzung; der Kurswechsel begann im März 1921. Er bedeutete weder die Abschaffung der bolschewistischen Herrschaft noch die Einführung einer vollständig freien Marktwirtschaft.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Kai] 2026-11-26, UG-C0021: vorher Teilweise belegt, jetzt Belegt. Der Kurswechsel zu begrenztem Warenaustausch begann im März 1921; 1922/23 lag bereits in der Umsetzungsphase."
       },
       "sourceRefs": [
         {
@@ -3332,7 +3366,11 @@
         },
         {
           "sourceId": "S036",
-          "note": "Datierte Notiz zur Versorgungskrise und teilweisen Rückkehr zu kapitalistischen Wirtschaftsmethoden gelesen."
+          "note": "Chronik zur Einführung 1921 und zur Versorgungskrise."
+        },
+        {
+          "sourceId": "S071",
+          "note": "Lenins zeitgenössische Rede zur Reform und zum Warenaustausch."
         }
       ],
       "openQuestions": [],
@@ -3365,7 +3403,7 @@
         "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
       },
-      "shortReason": "Die Neue Ökonomische Politik begann bereits 1921; der sachliche Kurswechsel stimmt, die Gesprächsdatierung ist ungenau.",
+      "shortReason": "Der Kurswechsel zu begrenztem Warenaustausch begann im März 1921; 1922/23 lag bereits in der Umsetzungsphase.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachkern der jeweiligen Themenargumentation; Standardbedeutung ohne zusätzliche Hochgewichtung.",
@@ -3386,14 +3424,20 @@
               "u": 0
             },
             "reason": "Bei der Ersterfassung den nachweislich falschen Teil von ungeklärten Anteilen getrennt; Begründung wie im Sachurteil."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "shares",
+            "previous": {
+              "p": 0.75,
+              "f": 0.25,
+              "u": 0
+            },
+            "next": null,
+            "reason": "UG-C0021: Bisherige Sonderanteile zum Teilurteil entfallen. Gewicht unverändert."
           }
-        ],
-        "shares": {
-          "p": 0.75,
-          "f": 0.25,
-          "u": 0
-        },
-        "sharesReason": "Der überwiegende Sachkern ist belegt; die in der Begründung ausdrücklich korrigierte Verallgemeinerung beziehungsweise Datierung ist falsch, nicht bloß ungeklärt. Standardnahe qualitative Aufteilung, keine Satz- oder Wortzählung."
+        ]
       },
       "research": {
         "gap": null,
@@ -3408,6 +3452,17 @@
               "S036"
             ],
             "result": "Lenin leitete die Neue Ökonomische Politik als Reaktion auf die Krise ein; sie enthielt wieder marktwirtschaftliche Elemente. Die DHM-Chronik datiert den Beginn bereits auf März 1921, nicht erst auf die im Gespräch ungefähr genannten Jahre 1922/23. Der Kurswechsel stimmt, die Chronologie ist ungenau und bedeutete keine vollständige Aufgabe bolschewistischer Herrschaft."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S012",
+              "S036",
+              "S071"
+            ],
+            "result": "Lenin leitete in der Krise nach dem Kriegskommunismus eine neue Wirtschaftspolitik mit Marktelementen ein. In seiner Rede vom 15. März 1921 schlug er vor, die Ablieferung von Überschüssen durch eine Naturalsteuer zu ersetzen und lokalen Warenaustausch zu ermöglichen. Die im Gespräch ungefähr genannten Jahre 1922/23 gehören bereits in die Phase der Umsetzung; der Kurswechsel begann im März 1921. Er bedeutete weder die Abschaffung der bolschewistischen Herrschaft noch die Einführung einer vollständig freien Marktwirtschaft."
           }
         ],
         "missingInformation": null,
@@ -4823,13 +4878,13 @@
       "kind": "Tatsachenbehauptung",
       "description": "Pathologen hätten anfangs Corona-Verstorbene nicht obduzieren dürfen.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Die Pathologenverbände kritisierten im April 2020 tatsächlich die RKI-Empfehlung, innere Leichenschauen wegen Infektionsrisiken möglichst zu vermeiden. Die von ihnen wiedergegebene Empfehlung ließ notwendige Untersuchungen aber ausdrücklich zu. Das belegt eine anfängliche Einschränkungsempfehlung und den fachlichen Streit, kein generelles gesetzliches Obduktionsverbot oder ein ausnahmsloses Verbot für Pathologen.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.",
+      "verdict": "Widerlegt",
+      "reason": "Die pauschale Aussage, Pathologen hätten anfangs keine Corona-Verstorbenen obduzieren dürfen, trifft nicht zu. Das RKI empfahl am 24. März 2020, solche Untersuchungen möglichst zu vermeiden und nötige Obduktionen auf ein Minimum zu beschränken. Das war eine Empfehlung mit benannter Ausnahme, kein allgemeines Verbot. Die Hamburger Rechtsmedizin dokumentierte 80 tatsächlich durchgeführte Obduktionen SARS-CoV-2-positiver Verstorbener zwischen dem 20. März und dem 18. April 2020.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Kai] 2026-11-26, UG-C0022: vorher Teilweise belegt, jetzt Widerlegt. Es galt eine RKI-Empfehlung, kein Verbot. Hamburg dokumentierte bereits vom 20. März bis 18. April 2020 80 Obduktionen."
       },
       "sourceRefs": [
         {
@@ -4838,7 +4893,15 @@
         },
         {
           "sourceId": "S051",
-          "note": "Mitteilung einschließlich Empfehlung, notwendige Obduktionen auf ein Minimum zu beschränken, und Begründung des Widerspruchs direkt gelesen."
+          "note": "Zeitgenössische Stellungnahme der Fachgesellschaft zur anderslautenden Empfehlung."
+        },
+        {
+          "sourceId": "S073",
+          "note": "Wiedergabe der RKI-Empfehlung und ihrer Änderung."
+        },
+        {
+          "sourceId": "S072",
+          "note": "Originalstudie zu den tatsächlich durchgeführten Hamburger Obduktionen."
         }
       ],
       "openQuestions": [],
@@ -4871,7 +4934,7 @@
         "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
       },
-      "shortReason": "Das RKI riet anfangs zur Vermeidung von Obduktionen, ließ notwendige Untersuchungen aber zu; ein generelles Verbot folgt daraus nicht.",
+      "shortReason": "Es galt eine RKI-Empfehlung, kein Verbot. Hamburg dokumentierte bereits vom 20. März bis 18. April 2020 80 Obduktionen.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachkern der jeweiligen Themenargumentation; Standardbedeutung ohne zusätzliche Hochgewichtung.",
@@ -4892,14 +4955,20 @@
               "u": 0
             },
             "reason": "Bei der Ersterfassung den nachweislich falschen Teil von ungeklärten Anteilen getrennt; Begründung wie im Sachurteil."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "shares",
+            "previous": {
+              "p": 0.75,
+              "f": 0.25,
+              "u": 0
+            },
+            "next": null,
+            "reason": "UG-C0022: Bisherige Sonderanteile zum Teilurteil entfallen. Gewicht unverändert."
           }
-        ],
-        "shares": {
-          "p": 0.75,
-          "f": 0.25,
-          "u": 0
-        },
-        "sharesReason": "Der überwiegende Sachkern ist belegt; die in der Begründung ausdrücklich korrigierte Verallgemeinerung beziehungsweise Datierung ist falsch, nicht bloß ungeklärt. Standardnahe qualitative Aufteilung, keine Satz- oder Wortzählung."
+        ]
       },
       "research": {
         "gap": null,
@@ -4914,6 +4983,18 @@
               "S051"
             ],
             "result": "Die Pathologenverbände kritisierten im April 2020 tatsächlich die RKI-Empfehlung, innere Leichenschauen wegen Infektionsrisiken möglichst zu vermeiden. Die von ihnen wiedergegebene Empfehlung ließ notwendige Untersuchungen aber ausdrücklich zu. Das belegt eine anfängliche Einschränkungsempfehlung und den fachlichen Streit, kein generelles gesetzliches Obduktionsverbot oder ein ausnahmsloses Verbot für Pathologen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S012",
+              "S051",
+              "S073",
+              "S072"
+            ],
+            "result": "Die pauschale Aussage, Pathologen hätten anfangs keine Corona-Verstorbenen obduzieren dürfen, trifft nicht zu. Das RKI empfahl am 24. März 2020, solche Untersuchungen möglichst zu vermeiden und nötige Obduktionen auf ein Minimum zu beschränken. Das war eine Empfehlung mit benannter Ausnahme, kein allgemeines Verbot. Die Hamburger Rechtsmedizin dokumentierte 80 tatsächlich durchgeführte Obduktionen SARS-CoV-2-positiver Verstorbener zwischen dem 20. März und dem 18. April 2020."
           }
         ],
         "missingInformation": null,

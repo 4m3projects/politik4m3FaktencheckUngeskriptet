@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0024",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "qQAcmDzd9O8-A0016",
+    "entryId": null,
+    "description": "Die UBA-Tabelle nennt 2,5 bis 4,5 Monate beim deutschen Referenzstrommix; gerundet passt das zu drei bis fünf."
+  },
+  "evidence": [
+    {
+      "title": "Umweltbundesamt: Ökobilanzen von Windenergie- und Photovoltaikanlagen, Tab. 97",
+      "url": "https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf#page=307",
+      "accessedOn": "2026-11-26",
+      "finding": "Für den deutschen Mix ergeben die drei Modellszenarien 2,5, 3,2 und 4,5 Monate."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/qQAcmDzd9O8",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:06:22, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "qQAcmDzd9O8-A0016",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "qQAcmDzd9O8-A0016",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "qQAcmDzd9O8-A0016",
+      "field": "reason",
+      "before": "Tabelle 97 stützt gerundet drei bis fünf Monate beim deutschen Referenzmix; andere Referenzmixe ergeben längere Zeiten. Die nötige Methodenabgrenzung zum Vestas-Nettorücklauf fehlt in der Kurzfassung. Kein nachgewiesener Zahlenwiderspruch.",
+      "after": "Alfred nennt rund drei bis fünf Monate und sagt unmittelbar davor, dass das UBA etwas anders rechnet. Die wirkliche Modellspanne beim deutschen Referenzstrommix beträgt 2,5 bis 4,5 Monate und passt gerundet zur Angabe. Erfasst wird die eingesetzte Primärenergie über den Lebenszyklus relativ zum ersetzten Referenzstrom; die Zahl ist nicht mit dem Vestas-Nettorücklauf gleichzusetzen. Der dänische Referenzmix ergibt in derselben Tabelle längere Zeiten."
+    },
+    {
+      "target": "qQAcmDzd9O8-A0016",
+      "field": "shortReason",
+      "before": "Gerundet stimmt das mit deutschem Strommix; andere Referenzmixe ergeben längere Zeiten, die Methodenabgrenzung fehlt.",
+      "after": "Die UBA-Tabelle nennt 2,5 bis 4,5 Monate beim deutschen Referenzstrommix; gerundet passt das zu drei bis fünf."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

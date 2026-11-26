@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0029",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "sLMyP0H7tSY-A0010",
+    "entryId": null,
+    "description": "Die britische Regierung bezeichnete die Testpflicht als unbeabsichtigt; eine spätere Ausnahme erlaubt Fassbeförderung unter Bedingungen."
+  },
+  "evidence": [
+    {
+      "title": "Hansard: Scotch Whisky (Transportation), 02.11.1994",
+      "url": "https://api.parliament.uk/historic-hansard/written-answers/1994/nov/02/scotch-whisky-transportation",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Regierung nannte die Folge unbeabsichtigt und erklärte der Branche die angestrebte Ausnahme."
+    },
+    {
+      "title": "Department for Transport: UK Road Derogation 13",
+      "url": "https://www.gov.uk/government/publications/the-carriage-of-dangerous-goods-approved-derogations-and-transitional-provisions/carriage-of-dangerous-goods-approved-derogations-and-transitional-provisions#road-derogation-13-the-carriage-of-alcohol-in-wooden-casks",
+      "accessedOn": "2026-11-26",
+      "finding": "Die veröffentlichte Ausnahme nennt Holzfässer und die Bedingungen für den Wegfall der Designprüfung."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/sLMyP0H7tSY",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:04:19, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "sLMyP0H7tSY-A0010",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "sLMyP0H7tSY-A0010",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "sLMyP0H7tSY-A0010",
+      "field": "description",
+      "before": "Die Fässer durften nach der Intervention bleiben; niemand habe eine Verbotswirkung gewollt.",
+      "after": "Die britische Regierung nannte die Wirkung der Fass-Prüfpflicht unbeabsichtigt; der Transport in Holzfässern blieb unter Bedingungen möglich."
+    },
+    {
+      "target": "sLMyP0H7tSY-A0010",
+      "field": "reason",
+      "before": "Die Ministerantwort nennt eine geplante Ausnahme, damit der herkömmliche Fass-Transport im Vereinigten Königreich fortgesetzt werden konnte. Sie belegt die Absicht der Regierung, enthält aber noch keinen in Kraft getretenen Ausnahmetext.",
+      "after": "In der dokumentierten Regierungsantwort von 1994 wird die Testpflicht als unbeabsichtigte Folge beschrieben; die Regierung teilte der Branche mit, dass sie eine britische Ausnahme für die Fassbeförderung anstrebe. Eine spätere britische Ausnahmevorschrift nimmt die Beförderung von Alkohol in Holzfässern unter bestimmten Bedingungen von Designprüfungen aus. Das trägt den Sachbefund zur Regierungsposition und zum fortbestehenden Transport. Alfreds rhetorisches „gewollt hat sie niemand“ weist damit nicht die Absicht jeder beteiligten Person nach."
+    },
+    {
+      "target": "sLMyP0H7tSY-A0010",
+      "field": "shortReason",
+      "before": "Die Regierung kündigte eine Ausnahme für den Fass-Transport an; ein in Kraft getretener Ausnahmetext ist damit noch nicht belegt.",
+      "after": "Die britische Regierung bezeichnete die Testpflicht als unbeabsichtigt; eine spätere Ausnahme erlaubt Fassbeförderung unter Bedingungen."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

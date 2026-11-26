@@ -10,7 +10,7 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich.",
+    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 1 frühere Teilurteile einzeln nachgeprüft (UG-C0030). Kein neuer Hör-/Sichtabgleich. [Kai] Ein eigenständiger Zusatz aus A0062 ist als A0076 in Bearbeitung und noch ohne Urteil.",
     "coverageNote": "Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand."
   },
   "legacyPoints": [],
@@ -830,6 +830,14 @@
       "details": "DO 142/416 und DO 142/439 (Quellen 2c–2d), insbesondere der Vermerk vom 25. August 1947.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Originalakten mit zeitgenössischen Berichten zur Gewalt im östlichen Punjab im August und September 1947 gelesen."
+    },
+    {
+      "id": "S103",
+      "title": "ECCC: Aussage des Angeklagten Kaing Guek Eav vom 17. Juni 2009",
+      "url": "https://www.eccc.gov.kh/sites/default/files/documents/courtdoc/E1_34.1_TR001_20090617_Final_EN_Pub.pdf",
+      "details": "Case 001, Verhandlungstag 30, S. 25.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Befragung zur Tötung von Kindern gelesen; der Befragte verneint eigene Beobachtung und Kenntnis der genauen Zahl."
     }
   ],
   "speakers": [
@@ -4642,18 +4650,22 @@
       "kind": "Tatsachenbehauptung",
       "description": "In Kambodscha wurden unter den Roten Khmer auch Kinder systematisch getötet.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Das ECCC-Urteil hält Hinrichtungen kleiner Kinder in S-21 und Choeung Ek sowie einen dokumentierten Fall mit etwa 160 Kindern fest. Damit ist der Kern der geschilderten Massengewalt belegt. Die konkrete Baum-Methode und die im Gespräch genannte unbestimmte Häufigkeit wurden durch die gelesenen Urteilsabschnitte nicht unabhängig bestätigt; eine allgemeine Erklärung der Täterpersönlichkeit folgt daraus ebenfalls nicht.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "verdict": "Belegt",
+      "reason": "Das ECCC-Urteil bestätigt, dass der Sicherheitsapparat der Roten Khmer systematisch auch kleine Kinder hinrichtete. Das wird für den Komplex S-21 einschließlich Choeung Ek in den Absätzen 214–219 dokumentiert. Der zusätzlich im Video behauptete Umfang einer bestimmten Tötungsmethode ist hiervon unabhängig und wird in A0076 separat und ohne Wertung weiter geprüft.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
-        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0030: vorher Teilweise belegt, jetzt Belegt. Das ECCC-Urteil bestätigt systematische Tötungen von Kindern; die behauptete Häufigkeit einer bestimmten Methode bleibt separat offen."
       },
       "sourceRefs": [
         {
           "sourceId": "S081",
-          "note": "Urteilsabschnitte 214–219, gedruckte S. 76–77, zu getöteten Kindern und Massenhinrichtungen gelesen. Keine pauschale Übernahme jeder im Gespräch genannten Tötungsart."
+          "note": "Urteil im Verfahren 001, Abs. 214–219 zur organisierten Tötung von Kindern."
+        },
+        {
+          "sourceId": "S103",
+          "note": "Zeugnis ohne eigene Beobachtung der Methode und ohne Kenntnis der genauen Zahl, für die separate offene Teilfrage."
         }
       ],
       "openQuestions": [],
@@ -4689,12 +4701,22 @@
               "S081"
             ],
             "result": "Das ECCC-Urteil hält Hinrichtungen kleiner Kinder in S-21 und Choeung Ek sowie einen dokumentierten Fall mit etwa 160 Kindern fest. Damit ist der Kern der geschilderten Massengewalt belegt. Die konkrete Baum-Methode und die im Gespräch genannte unbestimmte Häufigkeit wurden durch die gelesenen Urteilsabschnitte nicht unabhängig bestätigt; eine allgemeine Erklärung der Täterpersönlichkeit folgt daraus ebenfalls nicht."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S081",
+              "S103"
+            ],
+            "result": "Das ECCC-Urteil bestätigt, dass der Sicherheitsapparat der Roten Khmer systematisch auch kleine Kinder hinrichtete. Das wird für den Komplex S-21 einschließlich Choeung Ek in den Absätzen 214–219 dokumentiert. Der zusätzlich im Video behauptete Umfang einer bestimmten Tötungsmethode ist hiervon unabhängig und wird in A0076 separat und ohne Wertung weiter geprüft."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Die gezielte Tötung von Kindern ist gerichtlich dokumentiert; die konkrete Methode und Häufigkeit bleiben hier ungeprüft.",
+      "shortReason": "Das ECCC-Urteil bestätigt systematische Tötungen von Kindern; die behauptete Häufigkeit einer bestimmten Methode bleibt separat offen.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Historischer Gegenstand der Frage, wie Menschen an Massengewalt mitwirken.",
@@ -5736,6 +5758,82 @@
         "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0076",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Gespräch wird behauptet, die Roten Khmer hätten an kleinen Kindern eine bestimmte Tötungsmethode in Hunderten oder Tausenden Fällen angewandt.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Die systematische Tötung von Kindern ist getrennt in A0062 belegt. Die ergänzende Behauptung zur Häufigkeit einer bestimmten Tötungsart ist noch nicht gesichert. Das Gerichtsprotokoll enthält eine Aussage zu dieser Methode, aber ohne eigene Beobachtung des Befragten oder genaue Fallzahl. Ein Zahlenbeleg für die Kinder insgesamt ist kein Beleg für die Häufigkeit einer bestimmten Methode.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige, noch offene Teilfrage aus dem ursprünglichen Prüffenster A0062, getrennt mit UG-C0030.",
+        "assessmentChange": "[Kai] 26.11.2026: Als eigene offene Frage ausgewiesen und nicht im Faktenindex als Treffer gezählt."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S081",
+          "note": "Gerichtsentscheidung zum historischen Kern, keine Anzahl für die spezifische Methode aus ihr abgeleitet."
+        },
+        {
+          "sourceId": "S103",
+          "note": "Gerichtsprotokoll mit einer Aussage ohne eigene Beobachtung oder genaue Zahl."
+        }
+      ],
+      "openQuestions": [
+        "Welche voneinander unabhängigen Gerichts-, Archiv- oder Grabungsberichte trennen die Zahl von Tötungen nach Methode und Alter?"
+      ],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0076",
+          "startSeconds": 4313,
+          "endSeconds": 4330,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Separates Suchfenster für die noch offene Zusatzbehauptung; nicht dieselbe Wertung wie A0062.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Eigenständigen Zusatz im zeitmarkierten automatischen Originaltext abgegrenzt; Urteil und Aussageprotokoll auf Belege für Methode und Zahl überprüft.",
+            "sourceIds": [
+              "S081",
+              "S103"
+            ],
+            "result": "Systematische Tötung von Kindern belegt; keine belastbare Zahl für die im Gespräch genannte einzelne Methode."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenbehauptung zu Zahl und Methode; offen, ohne Treffer im Faktenindex.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-26",
+        "assessedBeforeVerdict": true
       }
     }
   ]

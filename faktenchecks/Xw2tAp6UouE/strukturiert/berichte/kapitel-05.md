@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 3 frühere Teilurteile einzeln nachgeprüft (UG-C0021 bis UG-C0023). Kein neuer Hör-/Sichtabgleich.
 
 ## Xw2tAp6UouE-A0021
 
@@ -341,7 +341,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Pathologen hätten anfangs Corona-Verstorbene nicht obduzieren dürfen.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -360,13 +360,13 @@ Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Pathologenverbände kritisierten im April 2020 tatsächlich die RKI-Empfehlung, innere Leichenschauen wegen Infektionsrisiken möglichst zu vermeiden. Die von ihnen wiedergegebene Empfehlung ließ notwendige Untersuchungen aber ausdrücklich zu. Das belegt eine anfängliche Einschränkungsempfehlung und den fachlichen Streit, kein generelles gesetzliches Obduktionsverbot oder ein ausnahmsloses Verbot für Pathologen.
+Die pauschale Aussage, Pathologen hätten anfangs keine Corona-Verstorbenen obduzieren dürfen, trifft nicht zu. Das RKI empfahl am 24. März 2020, solche Untersuchungen möglichst zu vermeiden und nötige Obduktionen auf ein Minimum zu beschränken. Das war eine Empfehlung mit benannter Ausnahme, kein allgemeines Verbot. Die Hamburger Rechtsmedizin dokumentierte 80 tatsächlich durchgeführte Obduktionen SARS-CoV-2-positiver Verstorbener zwischen dem 20. März und dem 18. April 2020.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Kai] 2026-11-26, UG-C0022: vorher Teilweise belegt, jetzt Widerlegt. Es galt eine RKI-Empfehlung, kein Verbot. Hamburg dokumentierte bereits vom 20. März bis 18. April 2020 80 Obduktionen.
 
 ### Zugeordnete Quellen
 
@@ -374,7 +374,13 @@ Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung 
   Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
 
 - [Deutsche Gesellschaft für Pathologie: An Corona Verstorbene sollten obduziert werden, 07.04.2020](https://www.pathologie-dgp.de/die-dgp/presse/meldung/pressemitteilung-an-corona-verstorbene-sollten-obduziert-werden/) · Zeitgenössische Mitteilung der Pathologenverbände mit dem Text der kritisierten RKI-Empfehlung vom 24.03.2020.
-  Quellenzugriff am 2026-11-24. Mitteilung einschließlich Empfehlung, notwendige Obduktionen auf ein Minimum zu beschränken, und Begründung des Widerspruchs direkt gelesen. Mitteilung einschließlich Empfehlung, notwendige Obduktionen auf ein Minimum zu beschränken, und Begründung des Widerspruchs direkt gelesen.
+  Quellenzugriff am 2026-11-24. Mitteilung einschließlich Empfehlung, notwendige Obduktionen auf ein Minimum zu beschränken, und Begründung des Widerspruchs direkt gelesen. Zeitgenössische Stellungnahme der Fachgesellschaft zur anderslautenden Empfehlung.
+
+- [Bundestag: Wissenschaftliche Dienste, Obduktionen bei Corona-Todesfällen](https://www.bundestag.de/resource/blob/706214/3186743b43670ebb3d93c9566e39eab5/WD-8-032-20-pdf-data.pdf) · WD 8-3000-032/20; dokumentiert den Wortlaut und die Entwicklung der RKI-Empfehlung.
+  Quellenzugriff am 2026-11-26. Passagen zur Empfehlung vom 24. März 2020 und ihrer späteren Änderung gelesen. Wiedergabe der RKI-Empfehlung und ihrer Änderung.
+
+- [Edler et al. (2020): Hamburger Obduktionsserie](https://pmc.ncbi.nlm.nih.gov/articles/PMC7271136/) · International Journal of Legal Medicine, 134, 1275–1284.
+  Quellenzugriff am 2026-11-26. Methodik und Datierung der 80 tatsächlich zwischen dem 20. März und dem 18. April 2020 durchgeführten Untersuchungen im publizierten Original gelesen. Originalstudie zu den tatsächlich durchgeführten Hamburger Obduktionen.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -385,6 +391,8 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S051. Ergebnis: Die Pathologenverbände kritisierten im April 2020 tatsächlich die RKI-Empfehlung, innere Leichenschauen wegen Infektionsrisiken möglichst zu vermeiden. Die von ihnen wiedergegebene Empfehlung ließ notwendige Untersuchungen aber ausdrücklich zu. Das belegt eine anfängliche Einschränkungsempfehlung und den fachlichen Streit, kein generelles gesetzliches Obduktionsverbot oder ein ausnahmsloses Verbot für Pathologen.
+
+- Durchgang 2 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S012, S051, S073, S072. Ergebnis: Die pauschale Aussage, Pathologen hätten anfangs keine Corona-Verstorbenen obduzieren dürfen, trifft nicht zu. Das RKI empfahl am 24. März 2020, solche Untersuchungen möglichst zu vermeiden und nötige Obduktionen auf ein Minimum zu beschränken. Das war eine Empfehlung mit benannter Ausnahme, kein allgemeines Verbot. Die Hamburger Rechtsmedizin dokumentierte 80 tatsächlich durchgeführte Obduktionen SARS-CoV-2-positiver Verstorbener zwischen dem 20. März und dem 18. April 2020.
 
 ## Xw2tAp6UouE-A0049
 

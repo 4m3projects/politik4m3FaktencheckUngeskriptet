@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0026",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "qQAcmDzd9O8-A0020",
+    "entryId": null,
+    "description": "87 Mio. DM waren der geschätzte Aufwand des Programms, nicht der Einzelpreis der Turbine."
+  },
+  "evidence": [
+    {
+      "title": "Bundesregierung: GROWIAN, Drucksache 9/1249",
+      "url": "https://dserver.bundestag.de/btd/09/012/0901249.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Bundesregierung unterscheidet ca. 87 Mio. DM für das ganze Programm von rund 30 Mio. DM reiner Anlagenfertigung."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/qQAcmDzd9O8",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:07:23, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "qQAcmDzd9O8-A0020",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "qQAcmDzd9O8-A0020",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "qQAcmDzd9O8-A0020",
+      "field": "reason",
+      "before": "Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt.",
+      "after": "Alfred nennt 87 Millionen DM als Kosten des Windrads. Die Bundesregierung veranschlagte diese Summe 1981/82 für das gesamte GROWIAN-Forschungsprogramm einschließlich Entwicklung, Begleituntersuchungen und Auswertung. Die reine Anlagenfertigung schätzte sie separat auf rund 30 Millionen DM. Das ist weder dasselbe wie die Gesamtkosten des Errichtens der Anlage noch eine spätere Schlussabrechnung. Der Betrag von 87 Millionen DM ist als Programmaufwand plausibel, aber kein belegter Einzelpreis für die Turbine."
+    },
+    {
+      "target": "qQAcmDzd9O8-A0020",
+      "field": "shortReason",
+      "before": "87 Millionen DM waren 1981 eine Schätzung des gesamten GROWIAN-Programms; die historische Forschung nennt rund 90 Millionen.",
+      "after": "87 Mio. DM waren der geschätzte Aufwand des Programms, nicht der Einzelpreis der Turbine."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

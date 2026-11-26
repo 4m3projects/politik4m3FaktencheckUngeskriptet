@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 3 frühere Teilurteile einzeln nachgeprüft (UG-C0021 bis UG-C0023). Kein neuer Hör-/Sichtabgleich.
 
 ## Xw2tAp6UouE-A0001
 
@@ -485,7 +485,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Schimpansen können berücksichtigen, was ein anderer weiß oder erwartet.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -504,13 +504,13 @@ Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Blickverhaltensexperimente von Krupenye und Kollegen liefern Hinweise, dass Menschenaffen zumindest implizit Erwartungen anderer berücksichtigen. Die Autoren diskutieren selbst alternative Erklärungen und Unterschiede zu expliziten Tests. Das stützt einen begrenzten Theory-of-Mind-Befund, beweist aber nicht sämtliche im Gespräch angeschlossenen Aussagen über ein menschlich vergleichbares Ichbewusstsein oder philosophische Personalität.
+Blickexperimente mit Schimpansen, Bonobos und Orang-Utans zeigen, dass ihre Reaktionen berücksichtigen können, was eine andere Figur gesehen hat und wo sie deshalb nach einem Objekt suchen dürfte. Das stützt den eingegrenzten Befund zur Erwartung anderer. Die Autoren diskutieren auch einfachere Lernerklärungen: Aus solchen Versuchen folgt weder ein vollständiges menschenähnliches Verständnis fremder Gedanken noch der philosophische Schluss über Ichbewusstsein oder Personalität.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Kai] 2026-11-26, UG-C0023: vorher Teilweise belegt, jetzt Belegt. Menschenaffen berücksichtigten in Blickexperimenten, wo eine Figur aufgrund ihrer Information suchen dürfte.
 
 ### Zugeordnete Quellen
 
@@ -518,7 +518,7 @@ Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung 
   Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
 
 - [Krupenye et al. (2016): Great apes anticipate that other individuals will act according to false beliefs](https://www.wrc.kyoto-u.ac.jp/en/publications/ChristopherKrupenye/Krupenye-Kano2016-Science.html) · Autorenfassung der Science-Originalstudie am beteiligten Wildlife Research Center; DOI 10.1126/science.aaf8110.
-  Quellenzugriff am 2026-11-24. Abstract, Versuchsaufbau, Blickergebnisse und Diskussion alternativer Regel-Lern-Erklärungen gelesen. Nicht mit einem vollständigen menschlichen Ichbewusstsein gleichgesetzt. Abstract, Versuchsaufbau, Blickergebnisse und Diskussion alternativer Regel-Lern-Erklärungen gelesen. Nicht mit einem vollständigen menschlichen Ichbewusstsein gleichgesetzt.
+  Quellenzugriff am 2026-11-24. Abstract, Versuchsaufbau, Blickergebnisse und Diskussion alternativer Regel-Lern-Erklärungen gelesen. Nicht mit einem vollständigen menschlichen Ichbewusstsein gleichgesetzt. Originalstudie Krupenye et al., Blickmaße, Ergebnisse und alternative Lernerklärungen.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -529,6 +529,8 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S022. Ergebnis: Die Blickverhaltensexperimente von Krupenye und Kollegen liefern Hinweise, dass Menschenaffen zumindest implizit Erwartungen anderer berücksichtigen. Die Autoren diskutieren selbst alternative Erklärungen und Unterschiede zu expliziten Tests. Das stützt einen begrenzten Theory-of-Mind-Befund, beweist aber nicht sämtliche im Gespräch angeschlossenen Aussagen über ein menschlich vergleichbares Ichbewusstsein oder philosophische Personalität.
+
+- Durchgang 2 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S012, S022. Ergebnis: Blickexperimente mit Schimpansen, Bonobos und Orang-Utans zeigen, dass ihre Reaktionen berücksichtigen können, was eine andere Figur gesehen hat und wo sie deshalb nach einem Objekt suchen dürfte. Das stützt den eingegrenzten Befund zur Erwartung anderer. Die Autoren diskutieren auch einfachere Lernerklärungen: Aus solchen Versuchen folgt weder ein vollständiges menschenähnliches Verständnis fremder Gedanken noch der philosophische Schluss über Ichbewusstsein oder Personalität.
 
 ## Xw2tAp6UouE-A0017
 

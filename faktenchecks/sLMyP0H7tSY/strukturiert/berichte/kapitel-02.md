@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Unabhängige Teilprüfung der Reaktion mit gezielten Nachprüfungen am Original und an den angegebenen Sachquellen. Die Einzelprüfungen unterscheiden abgeschlossene Bewertungen von noch offenen Arbeitsaufträgen. Durchgängiger Hör-/Sichtabgleich und redaktionelle Zweitprüfung stehen weiter aus; keine Gesamtabdeckung behauptet.
 
-Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen. [Kai] 26.11.2026: 1 frühere Teilurteile einzeln nachgeprüft (UG-C0016). Kein neuer Hör-/Sichtabgleich.
+Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen. [Kai] 26.11.2026: 1 frühere Teilurteile einzeln nachgeprüft (UG-C0016). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 2 frühere Teilurteile einzeln nachgeprüft (UG-C0028 bis UG-C0029). Kein neuer Hör-/Sichtabgleich.
 
 ## sLMyP0H7tSY-A0004
 
@@ -287,9 +287,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Die Fässer durften nach der Intervention bleiben; niemand habe eine Verbotswirkung gewollt.
+**Eigene Beschreibung:** Die britische Regierung nannte die Wirkung der Fass-Prüfpflicht unbeabsichtigt; der Transport in Holzfässern blieb unter Bedingungen möglich.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -308,22 +308,31 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Ministerantwort nennt eine geplante Ausnahme, damit der herkömmliche Fass-Transport im Vereinigten Königreich fortgesetzt werden konnte. Sie belegt die Absicht der Regierung, enthält aber noch keinen in Kraft getretenen Ausnahmetext.
+In der dokumentierten Regierungsantwort von 1994 wird die Testpflicht als unbeabsichtigte Folge beschrieben; die Regierung teilte der Branche mit, dass sie eine britische Ausnahme für die Fassbeförderung anstrebe. Eine spätere britische Ausnahmevorschrift nimmt die Beförderung von Alkohol in Holzfässern unter bestimmten Bedingungen von Designprüfungen aus. Das trägt den Sachbefund zur Regierungsposition und zum fortbestehenden Transport. Alfreds rhetorisches „gewollt hat sie niemand“ weist damit nicht die Absicht jeder beteiligten Person nach.
 
-Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.
+Grundlage der Bewertung: [Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0010 (Art: schlussfolgerung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. Die damalige Regierungsantwort beschreibt eine beabsichtigte Ausnahme, nicht deren späteren Vollzug. Sie bezeichnet die Prüfanforderung als unbeabsichtigt, belegt aber nicht die Absicht sämtlicher Beteiligter. Alfred verallgemeinert hier eine begrenzte Quelle.
+Bewertungsuebergang: Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. Die damalige Regierungsantwort beschreibt eine beabsichtigte Ausnahme, nicht deren späteren Vollzug. Sie bezeichnet die Prüfanforderung als unbeabsichtigt, belegt aber nicht die Absicht sämtlicher Beteiligter. Alfred verallgemeinert hier eine begrenzte Quelle. [Kai] 2026-11-26, UG-C0029: vorher Teilweise belegt, jetzt Belegt. Die britische Regierung bezeichnete die Testpflicht als unbeabsichtigt; eine spätere Ausnahme erlaubt Fassbeförderung unter Bedingungen.
 
 ### Zugeordnete Quellen
 
 - [Hansard: Scotch Whisky (Transportation), 02.11.1994](https://api.parliament.uk/historic-hansard/written-answers/1994/nov/02/scotch-whisky-transportation) · Regierungsantwort zu Fässern über 250 Litern und vorgeschlagenen Ausnahmen innerhalb Großbritanniens; keine umgesetzte Endfassung.
-  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Beleg für den in der Begründung benannten Sachkern.
+  Quellenzugriff am 2026-11-18. Von Codex am Abrufdatum gelesen. Offizielle schriftliche Antwort der britischen Regierung vom 2. November 1994.
+
+- [Department for Transport: UK Road Derogation 13](https://www.gov.uk/government/publications/the-carriage-of-dangerous-goods-approved-derogations-and-transitional-provisions/carriage-of-dangerous-goods-approved-derogations-and-transitional-provisions#road-derogation-13-the-carriage-of-alcohol-in-wooden-casks) · Beförderung von alkoholischen Getränken in Holzfässern; Ausnahme von den Designprüfungen unter Bedingungen.
+  Quellenzugriff am 2026-11-26. Einschlägiges Kapitel zu den Fass- und Beförderungsanforderungen gelesen; nicht rückwirkend als Erstfassung von 1994 behandelt. Britisches Verkehrsministerium: spätere Ausnahme für Alkoholtransporte in Holzfässern.
 
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S006, S027. Ergebnis: In der dokumentierten Regierungsantwort von 1994 wird die Testpflicht als unbeabsichtigte Folge beschrieben; die Regierung teilte der Branche mit, dass sie eine britische Ausnahme für die Fassbeförderung anstrebe. Eine spätere britische Ausnahmevorschrift nimmt die Beförderung von Alkohol in Holzfässern unter bestimmten Bedingungen von Designprüfungen aus. Das trägt den Sachbefund zur Regierungsposition und zum fortbestehenden Transport. Alfreds rhetorisches „gewollt hat sie niemand“ weist damit nicht die Absicht jeder beteiligten Person nach.
 
 ## sLMyP0H7tSY-A0030
 

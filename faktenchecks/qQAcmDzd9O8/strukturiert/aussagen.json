@@ -10,7 +10,7 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen. [Kai] 26.11.2026: 2 frühere Teilurteile einzeln nachgeprüft (UG-C0014 bis UG-C0015). Kein neuer Hör-/Sichtabgleich.",
+    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen. [Kai] 26.11.2026: 2 frühere Teilurteile einzeln nachgeprüft (UG-C0014 bis UG-C0015). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0024 bis UG-C0027). Kein neuer Hör-/Sichtabgleich.",
     "coverageNote": "Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote."
   },
   "legacyPoints": [],
@@ -270,6 +270,14 @@
       "details": "Illustrierter Bergungsbericht mit Beschreibung des Schachts und der Hebung.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Bergungsschritte und die mehrfach ausdrücklich genannte Hubtiefe von 268 Fuß im Bericht gelesen."
+    },
+    {
+      "id": "S050",
+      "title": "Umweltbundesamt: Ökobilanzen von Windenergie- und Photovoltaikanlagen, Tab. 97",
+      "url": "https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf#page=307",
+      "details": "Studie 35/2021, S. 307, Tabelle 97 und der Absatz zum Primärenergiebedarf der Referenzstrommixe.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Referenzstrommixe und die drei Parametrisierungen Offshore, Starkwind und Schwachwind getrennt gegengelesen."
     }
   ],
   "speakers": [
@@ -1345,14 +1353,14 @@
       "kind": "Tatsachenbehauptung",
       "description": "Das UBA komme auf ungefähr drei bis fünf Monate energetische Amortisation.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Tabelle 97 stützt gerundet drei bis fünf Monate beim deutschen Referenzmix; andere Referenzmixe ergeben längere Zeiten. Die nötige Methodenabgrenzung zum Vestas-Nettorücklauf fehlt in der Kurzfassung. Kein nachgewiesener Zahlenwiderspruch.",
-      "shortReason": "Gerundet stimmt das mit deutschem Strommix; andere Referenzmixe ergeben längere Zeiten, die Methodenabgrenzung fehlt.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "verdict": "Belegt",
+      "reason": "Alfred nennt rund drei bis fünf Monate und sagt unmittelbar davor, dass das UBA etwas anders rechnet. Die wirkliche Modellspanne beim deutschen Referenzstrommix beträgt 2,5 bis 4,5 Monate und passt gerundet zur Angabe. Erfasst wird die eingesetzte Primärenergie über den Lebenszyklus relativ zum ersetzten Referenzstrom; die Zahl ist nicht mit dem Vestas-Nettorücklauf gleichzusetzen. Der dänische Referenzmix ergibt in derselben Tabelle längere Zeiten.",
+      "shortReason": "Die UBA-Tabelle nennt 2,5 bis 4,5 Monate beim deutschen Referenzstrommix; gerundet passt das zu drei bis fünf.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. [Kai] 2026-11-26, UG-C0024: vorher Teilweise belegt, jetzt Belegt. Die UBA-Tabelle nennt 2,5 bis 4,5 Monate beim deutschen Referenzstrommix; gerundet passt das zu drei bis fünf."
       },
       "sourceRefs": [
         {
@@ -1362,6 +1370,10 @@
         {
           "sourceId": "S010",
           "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S050",
+          "note": "Tabelle 97 und Methodik zur Primärenergie, deutscher und dänischer Referenzstrommix."
         }
       ],
       "openQuestions": [],
@@ -1392,6 +1404,25 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S009",
+              "S010",
+              "S050"
+            ],
+            "result": "Alfred nennt rund drei bis fünf Monate und sagt unmittelbar davor, dass das UBA etwas anders rechnet. Die wirkliche Modellspanne beim deutschen Referenzstrommix beträgt 2,5 bis 4,5 Monate und passt gerundet zur Angabe. Erfasst wird die eingesetzte Primärenergie über den Lebenszyklus relativ zum ersetzten Referenzstrom; die Zahl ist nicht mit dem Vestas-Nettorücklauf gleichzusetzen. Der dänische Referenzmix ergibt in derselben Tabelle längere Zeiten."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -1575,18 +1606,18 @@
       "kind": "Tatsachenbehauptung",
       "description": "Growian habe 87 Millionen Mark gekostet.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt.",
-      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Alfred nennt 87 Millionen DM als Kosten des Windrads. Die Bundesregierung veranschlagte diese Summe 1981/82 für das gesamte GROWIAN-Forschungsprogramm einschließlich Entwicklung, Begleituntersuchungen und Auswertung. Die reine Anlagenfertigung schätzte sie separat auf rund 30 Millionen DM. Das ist weder dasselbe wie die Gesamtkosten des Errichtens der Anlage noch eine spätere Schlussabrechnung. Der Betrag von 87 Millionen DM ist als Programmaufwand plausibel, aber kein belegter Einzelpreis für die Turbine.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt. [Kai] 2026-11-26, UG-C0026: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. 87 Mio. DM waren der geschätzte Aufwand des Programms, nicht der Einzelpreis der Turbine."
       },
       "sourceRefs": [
         {
           "sourceId": "S040",
-          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+          "note": "Bundestagsdrucksache 9/1249, S. 3: Programmschätzung und separate Anlagenfertigung."
         },
         {
           "sourceId": "S041",
@@ -1635,12 +1666,22 @@
               "S041"
             ],
             "result": "Rund 90 Millionen; Reichweite der präzisen Zahl begrenzt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S040",
+              "S041"
+            ],
+            "result": "Alfred nennt 87 Millionen DM als Kosten des Windrads. Die Bundesregierung veranschlagte diese Summe 1981/82 für das gesamte GROWIAN-Forschungsprogramm einschließlich Entwicklung, Begleituntersuchungen und Auswertung. Die reine Anlagenfertigung schätzte sie separat auf rund 30 Millionen DM. Das ist weder dasselbe wie die Gesamtkosten des Errichtens der Anlage noch eine spätere Schlussabrechnung. Der Betrag von 87 Millionen DM ist als Programmaufwand plausibel, aber kein belegter Einzelpreis für die Turbine."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "87 Millionen DM waren 1981 eine Schätzung des gesamten GROWIAN-Programms; die historische Forschung nennt rund 90 Millionen.",
+      "shortReason": "87 Mio. DM waren der geschätzte Aufwand des Programms, nicht der Einzelpreis der Turbine.",
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Historisches Detail zu Growian ohne Einfluss auf die Hauptthese.",
@@ -2264,21 +2305,21 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Die kalifornische SVB scheiterte 2023 im Zusammenhang mit stark gestiegenen Zinsen.",
+      "description": "Alfred nennt die stark gestiegenen Zinsen als den Grund für das Scheitern der Silicon Valley Bank 2023.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Zinsrisiko war wesentlich; der Aufsichtsbericht nennt auch Liquiditätsrisiken, Management- und Aufsichtsversagen. Eine monokausale Kurzfassung lässt Ursachen aus.",
-      "shortReason": "Das Zinsrisiko war wesentlich, der Aufsichtsbericht nennt aber auch Liquiditätsrisiken sowie Management- und Aufsichtsversagen.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Alfred nennt stark gestiegene Zinsen unmittelbar als den Grund des Scheiterns. Die Fed bestätigt Zinsdruck, betont aber das Zusammenwirken mit dem mangelhaften Zins- und Liquiditätsrisikomanagement, konzentrierten unversicherten Einlagen, dem massiven Einlagenabzug und Aufsichtsversäumnissen. Der Auslöser ist damit nicht ausgedacht, aber der Bericht stützt nicht die nahegelegte Erklärung aus einer einzigen Ursache.",
+      "shortReason": "Höhere Zinsen trugen bei; der Fed-Bericht nennt auch Risikomanagement, Einlagenabzug und Aufsicht.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. [Kai] 2026-11-26, UG-C0027: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Höhere Zinsen trugen bei; der Fed-Bericht nennt auch Risikomanagement, Einlagenabzug und Aufsicht."
       },
       "sourceRefs": [
         {
           "sourceId": "S014",
-          "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+          "note": "Federal Reserve, Executive Summary: Zinsänderungsrisiko, Abzüge und Aufsicht."
         }
       ],
       "openQuestions": [],
@@ -2328,6 +2369,23 @@
             "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Der SVB-Fall ist ein eigener Vergleich im Bankenkomplex; eine besondere Hauptthesenstellung ist im dokumentierten Aufbau nicht ausgewiesen."
           }
         ]
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S014"
+            ],
+            "result": "Alfred nennt stark gestiegene Zinsen unmittelbar als den Grund des Scheiterns. Die Fed bestätigt Zinsdruck, betont aber das Zusammenwirken mit dem mangelhaften Zins- und Liquiditätsrisikomanagement, konzentrierten unversicherten Einlagen, dem massiven Einlagenabzug und Aufsichtsversäumnissen. Der Auslöser ist damit nicht ausgedacht, aber der Bericht stützt nicht die nahegelegte Erklärung aus einer einzigen Ursache."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -3213,19 +3271,23 @@
       "kind": "Tatsachenbehauptung",
       "description": "An einem schwachen Standort könne die energetische Amortisation ungefähr ein Jahr dauern.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Die UBA-Modellbandbreite reicht ungefähr bis ein Jahr; sie hängt zusätzlich zum Standort vom Referenzstrommix ab. Schwachwind allein erklärt die längste Dauer nicht.",
-      "shortReason": "Bis etwa ein Jahr reicht die UBA-Bandbreite, das hängt aber vor allem auch vom Referenzstrommix ab, nicht nur vom Standort.",
-      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Unmittelbar im Anschluss an die UBA-Zahlen nennt Alfred einen schwachen Standort mit rund einem Jahr. In derselben UBA-Tabelle liegt der Schwachwindfall an Land bei 3,2 Monaten mit deutschem beziehungsweise 7,6 Monaten mit dänischem Referenzmix. Nahe einem Jahr liegt dort nur der Offshore-Fall mit dänischem Referenzmix (10,7 Monate). Ein Jahr wird hier nicht allgemein für unmöglich erklärt; es ist aber nicht das Ergebnis des nahegelegten Schwachwindfalls dieser Studie.",
+      "shortReason": "Im UBA-Schwachwindfall an Land sind es 3,2 bzw. 7,6 Monate. Nahe einem Jahr liegt der Offshore-Fall mit dänischem Referenzmix.",
+      "assessmentBasis": "Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. [Kai] 2026-11-26, UG-C0025: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Im UBA-Schwachwindfall an Land sind es 3,2 bzw. 7,6 Monate. Nahe einem Jahr liegt der Offshore-Fall mit dänischem Referenzmix."
       },
       "sourceRefs": [
         {
           "sourceId": "S009",
           "note": "Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These."
+        },
+        {
+          "sourceId": "S050",
+          "note": "Tabelle 97: Zeilen und Spalten zum maßgeblichen Schwachwindfall und zum Offshore-Vergleich."
         }
       ],
       "openQuestions": [],
@@ -3256,6 +3318,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S009",
+              "S050"
+            ],
+            "result": "Unmittelbar im Anschluss an die UBA-Zahlen nennt Alfred einen schwachen Standort mit rund einem Jahr. In derselben UBA-Tabelle liegt der Schwachwindfall an Land bei 3,2 Monaten mit deutschem beziehungsweise 7,6 Monaten mit dänischem Referenzmix. Nahe einem Jahr liegt dort nur der Offshore-Fall mit dänischem Referenzmix (10,7 Monate). Ein Jahr wird hier nicht allgemein für unmöglich erklärt; es ist aber nicht das Ergebnis des nahegelegten Schwachwindfalls dieser Studie."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {

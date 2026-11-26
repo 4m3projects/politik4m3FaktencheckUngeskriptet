@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 1 frühere Teilurteile einzeln nachgeprüft (UG-C0030). Kein neuer Hör-/Sichtabgleich. [Kai] Ein eigenständiger Zusatz aus A0062 ist als A0076 in Bearbeitung und noch ohne Urteil.
 
 ## QxMuH1bjMwo-A0005
 
@@ -549,7 +549,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** In Kambodscha wurden unter den Roten Khmer auch Kinder systematisch getötet.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -568,18 +568,21 @@ Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte a
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das ECCC-Urteil hält Hinrichtungen kleiner Kinder in S-21 und Choeung Ek sowie einen dokumentierten Fall mit etwa 160 Kindern fest. Damit ist der Kern der geschilderten Massengewalt belegt. Die konkrete Baum-Methode und die im Gespräch genannte unbestimmte Häufigkeit wurden durch die gelesenen Urteilsabschnitte nicht unabhängig bestätigt; eine allgemeine Erklärung der Täterpersönlichkeit folgt daraus ebenfalls nicht.
+Das ECCC-Urteil bestätigt, dass der Sicherheitsapparat der Roten Khmer systematisch auch kleine Kinder hinrichtete. Das wird für den Komplex S-21 einschließlich Choeung Ek in den Absätzen 214–219 dokumentiert. Der zusätzlich im Video behauptete Umfang einer bestimmten Tötungsmethode ist hiervon unabhängig und wird in A0076 separat und ohne Wertung weiter geprüft.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0030: vorher Teilweise belegt, jetzt Belegt. Das ECCC-Urteil bestätigt systematische Tötungen von Kindern; die behauptete Häufigkeit einer bestimmten Methode bleibt separat offen.
 
 ### Zugeordnete Quellen
 
 - [ECCC: Urteil gegen Kaing Guek Eav, 26. Juli 2010](https://www.eccc.gov.kh/sites/default/files/documents/courtdoc/20100726_Judgement_Case_001_ENG_PUBLIC.pdf) · Gezielte Nachprüfung durch Codex, 24. November 2026.
-  Quellenzugriff am 2026-11-24. Urteilsabschnitte 214–219, gedruckte S. 76–77, zu getöteten Kindern und Massenhinrichtungen gelesen. Keine pauschale Übernahme jeder im Gespräch genannten Tötungsart. Urteilsabschnitte 214–219, gedruckte S. 76–77, zu getöteten Kindern und Massenhinrichtungen gelesen. Keine pauschale Übernahme jeder im Gespräch genannten Tötungsart.
+  Quellenzugriff am 2026-11-24. Urteilsabschnitte 214–219, gedruckte S. 76–77, zu getöteten Kindern und Massenhinrichtungen gelesen. Keine pauschale Übernahme jeder im Gespräch genannten Tötungsart. Urteil im Verfahren 001, Abs. 214–219 zur organisierten Tötung von Kindern.
+
+- [ECCC: Aussage des Angeklagten Kaing Guek Eav vom 17. Juni 2009](https://www.eccc.gov.kh/sites/default/files/documents/courtdoc/E1_34.1_TR001_20090617_Final_EN_Pub.pdf) · Case 001, Verhandlungstag 30, S. 25.
+  Quellenzugriff am 2026-11-26. Befragung zur Tötung von Kindern gelesen; der Befragte verneint eigene Beobachtung und Kenntnis der genauen Zahl. Zeugnis ohne eigene Beobachtung der Methode und ohne Kenntnis der genauen Zahl, für die separate offene Teilfrage.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -590,6 +593,8 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 
 - Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S081. Ergebnis: Das ECCC-Urteil hält Hinrichtungen kleiner Kinder in S-21 und Choeung Ek sowie einen dokumentierten Fall mit etwa 160 Kindern fest. Damit ist der Kern der geschilderten Massengewalt belegt. Die konkrete Baum-Methode und die im Gespräch genannte unbestimmte Häufigkeit wurden durch die gelesenen Urteilsabschnitte nicht unabhängig bestätigt; eine allgemeine Erklärung der Täterpersönlichkeit folgt daraus ebenfalls nicht.
+
+- Durchgang 2 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S081, S103. Ergebnis: Das ECCC-Urteil bestätigt, dass der Sicherheitsapparat der Roten Khmer systematisch auch kleine Kinder hinrichtete. Das wird für den Komplex S-21 einschließlich Choeung Ek in den Absätzen 214–219 dokumentiert. Der zusätzlich im Video behauptete Umfang einer bestimmten Tötungsmethode ist hiervon unabhängig und wird in A0076 separat und ohne Wertung weiter geprüft.
 
 ## QxMuH1bjMwo-A0063
 
@@ -640,5 +645,56 @@ Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 - Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S082. Ergebnis: Spinoza beschreibt 1670 in der Vorrede des Theologisch-politischen Traktats, wie religiös verkleidete Angst Menschen dazu bringen kann, ihre Knechtschaft für Rettung zu halten. Der historische Bezug ist sachlich tragfähig. Eine allgemeine empirische Lust an Unterwerfung formuliert oder beweist diese Passage nicht.
 
 - Durchgang 2 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Gepruefte Quellen: S082. Ergebnis: Der Gast beruft sich auf Spinoza für eine „Lust an der Unterwerfung“ im Anschluss an eine Aussage darüber, ob Unterworfene selbst Spaß daran hätten. In der Vorrede des Theologisch-politischen Traktats von 1670 beschreibt Spinoza, wie Herrscher Menschen durch Täuschung und religiös verbrämte Angst dazu bringen, für ihre Knechtschaft zu kämpfen, weil sie sie für die eigene Rettung halten. Die Stelle beschreibt also Unterstützung für die eigene Unterwerfung, aber aus einem anderen Motiv als Freude an Unterwerfung selbst.
+
+## QxMuH1bjMwo-A0076
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Im Gespräch wird behauptet, die Roten Khmer hätten an kleinen Kindern eine bestimmte Tötungsmethode in Hunderten oder Tausenden Fällen angewandt.
+
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:11:53–01:12:10](https://www.youtube.com/watch?v=QxMuH1bjMwo&t=4313s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.
+
+Grundlage des Aussagebezugs: Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Separates Suchfenster für die noch offene Zusatzbehauptung; nicht dieselbe Wertung wie A0062.
+
+Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Die systematische Tötung von Kindern ist getrennt in A0062 belegt. Die ergänzende Behauptung zur Häufigkeit einer bestimmten Tötungsart ist noch nicht gesichert. Das Gerichtsprotokoll enthält eine Aussage zu dieser Methode, aber ohne eigene Beobachtung des Befragten oder genaue Fallzahl. Ein Zahlenbeleg für die Kinder insgesamt ist kein Beleg für die Häufigkeit einer bestimmten Methode.
+
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
+
+Uebernahme: Eigenständige, noch offene Teilfrage aus dem ursprünglichen Prüffenster A0062, getrennt mit UG-C0030.
+
+Bewertungsuebergang: [Kai] 26.11.2026: Als eigene offene Frage ausgewiesen und nicht im Faktenindex als Treffer gezählt.
+
+### Zugeordnete Quellen
+
+- [ECCC: Urteil gegen Kaing Guek Eav, 26. Juli 2010](https://www.eccc.gov.kh/sites/default/files/documents/courtdoc/20100726_Judgement_Case_001_ENG_PUBLIC.pdf) · Gezielte Nachprüfung durch Codex, 24. November 2026.
+  Quellenzugriff am 2026-11-24. Urteilsabschnitte 214–219, gedruckte S. 76–77, zu getöteten Kindern und Massenhinrichtungen gelesen. Keine pauschale Übernahme jeder im Gespräch genannten Tötungsart. Gerichtsentscheidung zum historischen Kern, keine Anzahl für die spezifische Methode aus ihr abgeleitet.
+
+- [ECCC: Aussage des Angeklagten Kaing Guek Eav vom 17. Juni 2009](https://www.eccc.gov.kh/sites/default/files/documents/courtdoc/E1_34.1_TR001_20090617_Final_EN_Pub.pdf) · Case 001, Verhandlungstag 30, S. 25.
+  Quellenzugriff am 2026-11-26. Befragung zur Tötung von Kindern gelesen; der Befragte verneint eigene Beobachtung und Kenntnis der genauen Zahl. Gerichtsprotokoll mit einer Aussage ohne eigene Beobachtung oder genaue Zahl.
+
+### Offene Fragen und Unsicherheiten
+
+- Welche voneinander unabhängigen Gerichts-, Archiv- oder Grabungsberichte trennen die Zahl von Tötungen nach Methode und Alter?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
+
+- Durchgang 1 am 2026-11-26 (Kai): Eigenständigen Zusatz im zeitmarkierten automatischen Originaltext abgegrenzt; Urteil und Aussageprotokoll auf Belege für Methode und Zahl überprüft. Gepruefte Quellen: S081, S103. Ergebnis: Systematische Tötung von Kindern belegt; keine belastbare Zahl für die im Gespräch genannte einzelne Methode.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

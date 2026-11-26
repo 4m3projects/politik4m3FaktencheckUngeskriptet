@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0021",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "Xw2tAp6UouE-A0031",
+    "entryId": null,
+    "description": "Der Kurswechsel zu begrenztem Warenaustausch begann im März 1921; 1922/23 lag bereits in der Umsetzungsphase."
+  },
+  "evidence": [
+    {
+      "title": "Lenin: Rede zur Naturalsteuer und neuen Wirtschaftspolitik",
+      "url": "https://seventeenmoments.web.illinois.edu/1921-2/tenth-party-congress/tenth-party-congress-texts/lenin-explains-the-tax-in-kind-and-the-new-policy/",
+      "accessedOn": "2026-11-26",
+      "finding": "Am 15. März 1921 diskutierte Lenin ausdrücklich Naturalsteuer anstelle der Beschlagnahme und die Zulassung lokalen Warenaustauschs."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/Xw2tAp6UouE",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:36:25, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "Xw2tAp6UouE-A0031",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "Xw2tAp6UouE-A0031",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "Xw2tAp6UouE-A0031",
+      "field": "reason",
+      "before": "Lenin leitete die Neue Ökonomische Politik als Reaktion auf die Krise ein; sie enthielt wieder marktwirtschaftliche Elemente. Die DHM-Chronik datiert den Beginn bereits auf März 1921, nicht erst auf die im Gespräch ungefähr genannten Jahre 1922/23. Der Kurswechsel stimmt, die Chronologie ist ungenau und bedeutete keine vollständige Aufgabe bolschewistischer Herrschaft.",
+      "after": "Lenin leitete in der Krise nach dem Kriegskommunismus eine neue Wirtschaftspolitik mit Marktelementen ein. In seiner Rede vom 15. März 1921 schlug er vor, die Ablieferung von Überschüssen durch eine Naturalsteuer zu ersetzen und lokalen Warenaustausch zu ermöglichen. Die im Gespräch ungefähr genannten Jahre 1922/23 gehören bereits in die Phase der Umsetzung; der Kurswechsel begann im März 1921. Er bedeutete weder die Abschaffung der bolschewistischen Herrschaft noch die Einführung einer vollständig freien Marktwirtschaft."
+    },
+    {
+      "target": "Xw2tAp6UouE-A0031",
+      "field": "shortReason",
+      "before": "Die Neue Ökonomische Politik begann bereits 1921; der sachliche Kurswechsel stimmt, die Gesprächsdatierung ist ungenau.",
+      "after": "Der Kurswechsel zu begrenztem Warenaustausch begann im März 1921; 1922/23 lag bereits in der Umsetzungsphase."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}
