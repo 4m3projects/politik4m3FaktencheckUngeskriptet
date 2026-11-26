@@ -93,9 +93,13 @@ test('Krall: Indexlücken nach Recherche ohne Falschbehauptung abgrenzen, EBA-Be
     assert.ok(c.research.rounds.length >= 2);
     assert.ok(c.research.missingInformation && c.openQuestions.length > 0);
   }
-  const index = byText(A, /1.360 Punkten/);
-  assert.equal(index.verdict, 'Teilweise belegt');
-  assert.match(index.reason, /590 \+ 470 \+ 300 = 1360/);
+  const index = data[A].claims.find(c => c.id === `${A}-A0035`);
+  assert.ok(index, 'Alfreds Summenprüfung muss als eigene Aussage erhalten bleiben');
+  assert.equal(index.verdict, 'Belegt');
+  assert.match(index.reason, /590, 470 und 300/);
+  assert.match(index.reason, /1\.360 Punkte/);
+  assert.match(index.reason, /Einzelkodierungen.*bleibt offen/);
+  assert.ok(index.openQuestions.length > 0, 'Herleitung der Eingabewerte bleibt eine offene Frage');
   const capital = byText(A, /Rekordkapitalpolster/);
   assert.equal(capital.verdict, 'Teilweise belegt');
   assert.match(capital.reason, /Quote|quote/);
