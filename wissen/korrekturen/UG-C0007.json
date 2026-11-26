@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0007",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "Xw2tAp6UouE-A0021",
+    "entryId": null,
+    "description": "Die pauschale Darstellung verdeckt den entscheidenden Unterschied zwischen einem Verbot geschäftsmäßiger Förderung und einem allumfassenden Hilfeverbot."
+  },
+  "evidence": [
+    {
+      "title": "Bundesverfassungsgericht: Urteil 2 BvR 2347/15 u. a.",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/02/rs20200226_2bvr234715.html",
+      "accessedOn": "2026-11-26",
+      "finding": "Der Tenor erklärt § 217 StGB für nichtig; das Urteil grenzt einmalige Hilfe ohne Wiederholungsabsicht vom Tatbestand ab."
+    }
+  ],
+  "affected": [
+    {
+      "target": "Xw2tAp6UouE-A0021",
+      "reason": "Nur diese konkrete Behauptung. Der allgemein geteilte Originalvideolink begründet keine inhaltliche Abhängigkeit; die Wissenssuche ergab keine betroffenen Einträge."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Die gelesene Primärquelle und der Gesprächskontext tragen den sachlichen Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "Xw2tAp6UouE-A0021",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "Xw2tAp6UouE-A0021",
+      "field": "reason",
+      "before": "Der 2015 eingeführte § 217 StGB wurde am 26.02.2020 für nichtig erklärt. Verboten war die geschäftsmäßige, also auf Wiederholung angelegte Förderung der Selbsttötung, nicht jede einmalige Hilfe. Das Bundesverfassungsgericht bekräftigte das Recht auf selbstbestimmtes Sterben und freiwillige Hilfe, ließ aber eine verhältnismäßige Regulierung zu. Die verkürzte Darstellung als allgemeines Suizidhilfeverbot ist deshalb zu weit.",
+      "after": "Der Gast kontrastiert die frühere Straflosigkeit von Suizidhilfe mit einem 2015 eingeführten und später aufgehobenen Verbot, ohne den Umfang dieses Tatbestands zu benennen. Das Bundesverfassungsgericht erklärte § 217 StGB am 26. Februar 2020 tatsächlich für nichtig. Er erfasste jedoch geschäftsmäßige, auf Wiederholung angelegte Förderung, nicht jede einmalige Hilfe. Ohne die Einschränkung legt die Darstellung ein früheres allgemeines Suizidhilfeverbot nahe und überzeichnet damit die Reichweite des aufgehobenen Gesetzes."
+    },
+    {
+      "target": "Xw2tAp6UouE-A0021",
+      "field": "shortReason",
+      "before": "2015 wurde die geschäftsmäßige Förderung verboten, nicht jede Hilfe; das Bundesverfassungsgericht hob § 217 im Februar 2020 auf.",
+      "after": "2015 wurde nur geschäftsmäßige Suizidhilfe verboten; diesen Tatbestand erklärte das Gericht 2020 für nichtig."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Einzeln nachgeprüft, Zuständigkeitsgrenzen und Zeitbezug abgegrenzt. Das alte Urteil und die alte Begründung sind hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

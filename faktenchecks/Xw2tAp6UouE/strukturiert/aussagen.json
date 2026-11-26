@@ -5,12 +5,12 @@
     "videoId": "Xw2tAp6UouE",
     "videoUrl": "https://www.youtube.com/watch?v=Xw2tAp6UouE",
     "durationSeconds": 10785,
-    "asOf": "2026-11-25",
+    "asOf": "2026-11-26",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung.",
+    "researchNote": "[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich.",
     "coverageNote": "Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand."
   },
   "legacyPoints": [],
@@ -558,6 +558,22 @@
       "details": "Eigene universitäre Geschichte zum Abschluss von 1678.",
       "accessBasis": "Biografische Ergebnisabsätze zu Abschluss in Philosophie am 25.06.1678 und vorangehendem Studium gelesen.",
       "accessedOn": "2026-11-24"
+    },
+    {
+      "id": "S069",
+      "title": "BVerfG: Urteil zur geschäftsmäßigen Förderung der Selbsttötung",
+      "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/02/rs20200226_2bvr234715.html",
+      "details": "Zweiter Senat, 26.02.2020, 2 BvR 2347/15 u. a.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Tenor und Abgrenzung der Hilfe ohne Wiederholungsabsicht im veröffentlichten Urteil gelesen."
+    },
+    {
+      "id": "S070",
+      "title": "Kruger und Dunning (1999): Unskilled and unaware of it",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10626367/",
+      "details": "J Pers Soc Psychol 77(6), S. 1121–1134; Originalabstract, PMID 10626367.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Messwerte und abgegrenzten Aufgabenbereich im publizierten Abstract gelesen."
     }
   ],
   "speakers": [
@@ -903,13 +919,13 @@
       "kind": "Tatsachenbehauptung",
       "description": "Das Europäische Parlament habe eine neue Regelung erlassen, um Aktivitäten der Muslimbruderschaft in Europa zu überprüfen.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Am 8. Oktober 2026 verabschiedete das Parlament tatsächlich die Entschließung 2026/2868(RSP). Darin verlangt es unter anderem eine Übersicht über bestimmte EU-Finanzierungen und bessere Kontrollen. Eine solche parlamentarische Aufforderung ist aber keine neu erlassene verbindliche EU-Regelung und beweist nicht, dass ein entsprechendes Prüfverfahren bereits eingerichtet wurde.",
-      "assessmentBasis": "[Kai] Sachquellen neu gelesen. Der vorhandene, aus YouTube-Untertiteln ermittelte Prüfhinweis wurde mit der öffentlich lesbaren Podcast-Textfassung abgeglichen. Keine neue Prüfung von Originalton oder Bild; die Sprecherzuordnung bleibt plausibel.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Im Gespräch setzt der Gast eine erlassene Regelung als Beispiel dafür ein, dass inzwischen etwas gegen die Aktivitäten der Muslimbruderschaft unternommen werde. Am 8. Oktober 2026 fasste das Parlament tatsächlich die Entschließung 2026/2868(RSP) und forderte unter anderem eine Übersicht bestimmter EU-Finanzierungen und bessere Kontrollen. Es erließ damit aber keine neue verbindliche Vorschrift und richtete kein Prüfverfahren ein. Die Ausdrucksweise lässt eine bereits eingeführte Maßnahme vermuten, obwohl der Beschluss zunächst eine politische Aufforderung war.",
+      "assessmentBasis": "[Kai] Sachquellen neu gelesen. Der vorhandene, aus YouTube-Untertiteln ermittelte Prüfhinweis wurde mit der öffentlich lesbaren Podcast-Textfassung abgeglichen. Keine neue Prüfung von Originalton oder Bild; die Sprecherzuordnung bleibt plausibel. [Kai] Quellen am 26.11.2026 erneut gelesen. Fundstelle aus dokumentiertem YouTube-Originaltext mit öffentlich lesbarer Podcast-Fassung desselben Gesprächs abgeglichen, keine neue Hör-/Sichtprüfung; Zurechnung und Zeitmarken unverändert.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständig formuliert; Grundlage ist ein bereits im bisherigen Prüfstart dokumentierter Fundpunkt aus dem Originalvideo. Kein nummerierter Altprüfpunkt.",
-        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts. [Codex] 24.11.2026: Zurechnung vorher Gast/Ungeklärt, jetzt Gast/Nur wiedergegeben nach Kontrolle der direkten Originaltextfassung samt Anschluss. Frühere Grundlage: Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert. Sachurteil und Gewicht unverändert."
+        "assessmentChange": "[Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts. [Codex] 24.11.2026: Zurechnung vorher Gast/Ungeklärt, jetzt Gast/Nur wiedergegeben nach Kontrolle der direkten Originaltextfassung samt Anschluss. Frühere Grundlage: Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert. Sachurteil und Gewicht unverändert. [Kai] 2026-11-26, UG-C0006: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Die im Gespräch aufgerufene Maßnahme war eine politische Entschließung, keine neu erlassene verbindliche Regelung."
       },
       "sourceRefs": [
         {
@@ -976,7 +992,27 @@
         "reviews": [],
         "history": []
       },
-      "shortReason": "Das Parlament beschloss eine Entschließung mit Prüfforderungen, aber keine verbindliche neue EU-Regelung."
+      "shortReason": "Das Parlament verabschiedete eine Entschließung mit Prüfforderungen, aber keine verbindliche neue Regelung.",
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Wissensdatenbank-Suche und Prüfung möglicher Abhängigkeiten; im früheren Originaltext verzeichneten Gesprächsausschnitt mit dem Umfeld der Podcast-Textfassung verglichen und nachstehende Sachquelle neu gelesen. Kein vidIQ.",
+            "sourceIds": [
+              "S001",
+              "S002",
+              "S009",
+              "S010"
+            ],
+            "result": "Im Gespräch setzt der Gast eine erlassene Regelung als Beispiel dafür ein, dass inzwischen etwas gegen die Aktivitäten der Muslimbruderschaft unternommen werde. Am 8. Oktober 2026 fasste das Parlament tatsächlich die Entschließung 2026/2868(RSP) und forderte unter anderem eine Übersicht bestimmter EU-Finanzierungen und bessere Kontrollen. Es erließ damit aber keine neue verbindliche Vorschrift und richtete kein Prüfverfahren ein. Die Ausdrucksweise lässt eine bereits eingeführte Maßnahme vermuten, obwohl der Beschluss zunächst eine politische Aufforderung war."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      }
     },
     {
       "id": "Xw2tAp6UouE-A0006",
@@ -2328,13 +2364,13 @@
       "kind": "Tatsachenbehauptung",
       "description": "2015 wurde Hilfe zum Suizid verboten und das Bundesverfassungsgericht hob das Verbot wieder auf.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Der 2015 eingeführte § 217 StGB wurde am 26.02.2020 für nichtig erklärt. Verboten war die geschäftsmäßige, also auf Wiederholung angelegte Förderung der Selbsttötung, nicht jede einmalige Hilfe. Das Bundesverfassungsgericht bekräftigte das Recht auf selbstbestimmtes Sterben und freiwillige Hilfe, ließ aber eine verhältnismäßige Regulierung zu. Die verkürzte Darstellung als allgemeines Suizidhilfeverbot ist deshalb zu weit.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Gast kontrastiert die frühere Straflosigkeit von Suizidhilfe mit einem 2015 eingeführten und später aufgehobenen Verbot, ohne den Umfang dieses Tatbestands zu benennen. Das Bundesverfassungsgericht erklärte § 217 StGB am 26. Februar 2020 tatsächlich für nichtig. Er erfasste jedoch geschäftsmäßige, auf Wiederholung angelegte Förderung, nicht jede einmalige Hilfe. Ohne die Einschränkung legt die Darstellung ein früheres allgemeines Suizidhilfeverbot nahe und überzeichnet damit die Reichweite des aufgehobenen Gesetzes.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle. [Kai] Quellen am 26.11.2026 erneut gelesen. Fundstelle aus dokumentiertem YouTube-Originaltext mit öffentlich lesbarer Podcast-Fassung desselben Gesprächs abgeglichen, keine neue Hör-/Sichtprüfung; Zurechnung und Zeitmarken unverändert.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Kai] 2026-11-26, UG-C0007: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Die pauschale Darstellung verdeckt den entscheidenden Unterschied zwischen einem Verbot geschäftsmäßiger Förderung und einem allumfassenden Hilfeverbot."
       },
       "sourceRefs": [
         {
@@ -2344,6 +2380,14 @@
         {
           "sourceId": "S029",
           "note": "Amtliche Pressemitteilung nach gesperrtem Recherchebrowser per direktem HTTPS-Abruf gelesen; Rechtsumfang, Wiederholungsabsicht und verbleibende Regulierungsmöglichkeit geprüft."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Gesprächsumfeld in der Podcast-Textfassung gegengelesen."
+        },
+        {
+          "sourceId": "S069",
+          "note": "Tenor und Abgrenzung bei fehlender Wiederholungsabsicht."
         }
       ],
       "openQuestions": [],
@@ -2376,7 +2420,7 @@
         "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
       },
-      "shortReason": "2015 wurde die geschäftsmäßige Förderung verboten, nicht jede Hilfe; das Bundesverfassungsgericht hob § 217 im Februar 2020 auf.",
+      "shortReason": "2015 wurde nur geschäftsmäßige Suizidhilfe verboten; diesen Tatbestand erklärte das Gericht 2020 für nichtig.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachkern der jeweiligen Themenargumentation; Standardbedeutung ohne zusätzliche Hochgewichtung.",
@@ -2397,14 +2441,20 @@
               "u": 0
             },
             "reason": "Bei der Ersterfassung den nachweislich falschen Teil von ungeklärten Anteilen getrennt; Begründung wie im Sachurteil."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "shares",
+            "previous": {
+              "p": 0.75,
+              "f": 0.25,
+              "u": 0
+            },
+            "next": null,
+            "reason": "UG-C0007: bisherige Sonderanteile bezogen sich auf das frühere Teilurteil und entfallen; die Standardregel bewertet das neue Urteil. Gewicht unverändert."
           }
-        ],
-        "shares": {
-          "p": 0.75,
-          "f": 0.25,
-          "u": 0
-        },
-        "sharesReason": "Der überwiegende Sachkern ist belegt; die in der Begründung ausdrücklich korrigierte Verallgemeinerung beziehungsweise Datierung ist falsch, nicht bloß ungeklärt. Standardnahe qualitative Aufteilung, keine Satz- oder Wortzählung."
+        ]
       },
       "research": {
         "gap": null,
@@ -2419,6 +2469,16 @@
               "S029"
             ],
             "result": "Der 2015 eingeführte § 217 StGB wurde am 26.02.2020 für nichtig erklärt. Verboten war die geschäftsmäßige, also auf Wiederholung angelegte Förderung der Selbsttötung, nicht jede einmalige Hilfe. Das Bundesverfassungsgericht bekräftigte das Recht auf selbstbestimmtes Sterben und freiwillige Hilfe, ließ aber eine verhältnismäßige Regulierung zu. Die verkürzte Darstellung als allgemeines Suizidhilfeverbot ist deshalb zu weit."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Wissensdatenbank-Suche und Prüfung möglicher Abhängigkeiten; im früheren Originaltext verzeichneten Gesprächsausschnitt mit dem Umfeld der Podcast-Textfassung verglichen und nachstehende Sachquelle neu gelesen. Kein vidIQ.",
+            "sourceIds": [
+              "S002",
+              "S069"
+            ],
+            "result": "Der Gast kontrastiert die frühere Straflosigkeit von Suizidhilfe mit einem 2015 eingeführten und später aufgehobenen Verbot, ohne den Umfang dieses Tatbestands zu benennen. Das Bundesverfassungsgericht erklärte § 217 StGB am 26. Februar 2020 tatsächlich für nichtig. Er erfasste jedoch geschäftsmäßige, auf Wiederholung angelegte Förderung, nicht jede einmalige Hilfe. Ohne die Einschränkung legt die Darstellung ein früheres allgemeines Suizidhilfeverbot nahe und überzeichnet damit die Reichweite des aufgehobenen Gesetzes."
           }
         ],
         "missingInformation": null,
@@ -3955,13 +4015,13 @@
       "kind": "Tatsachenbehauptung",
       "description": "Menschen mit den geringsten Fähigkeiten hielten sich nach dem Dunning-Kruger-Effekt für die Allerbesten.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Die Originalstudie zeigt deutliche Selbstüberschätzung bei schwachen Leistungen in konkreten Aufgaben. Das unterste Viertel lag im Mittel tatsächlich beim 12. Perzentil und schätzte sich beim 62. ein. Das ist nicht gleichbedeutend damit, sich für die Allerbesten zu halten. Der Befund aus bestimmten Aufgaben ist zudem keine Diagnose einzelner Politiker oder Journalisten und keine universelle Intelligenzregel.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.",
+      "verdict": "Widerlegt",
+      "reason": "Der Gesprächsbeitrag steigert die Aussage ausdrücklich zur Behauptung, schwache Teilnehmer ordneten sich unter den Allerbesten ein. Das Originalabstract der vier Studien berichtet für das leistungsschwächste Viertel im Mittel das tatsächliche 12. und das selbstgeschätzte 62. Perzentil. Das belegt Überschätzung, stützt aber nicht bloß knapp, sondern widerspricht der konkreten Behauptung einer durchschnittlichen Selbsteinordnung in die Spitzengruppe. Untersucht wurden konkrete Aufgaben; eine allgemeine Intelligenzdiagnose ergibt sich daraus nicht.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle. [Kai] Quellen am 26.11.2026 erneut gelesen. Fundstelle aus dokumentiertem YouTube-Originaltext mit öffentlich lesbarer Podcast-Fassung desselben Gesprächs abgeglichen, keine neue Hör-/Sichtprüfung; Zurechnung und Zeitmarken unverändert.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Kai] 2026-11-26, UG-C0008: vorher Teilweise belegt, jetzt Widerlegt. Die zugespitzte Behauptung über eine Selbstzuschreibung zur Spitzengruppe wird von den Originalmesswerten direkt widerlegt."
       },
       "sourceRefs": [
         {
@@ -3971,6 +4031,14 @@
         {
           "sourceId": "S043",
           "note": "Vollständiges Abstract gelesen; unteres Quartil, tatsächliches 12. und geschätztes 62. Perzentil. Kein hier nicht gelesener Volltext behauptet."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Gesprächsumfeld und ausdrücklich zugespitzte Formulierung in der Podcast-Textfassung gegengelesen."
+        },
+        {
+          "sourceId": "S070",
+          "note": "Originalabstract zu den Perzentilen der untersuchten Aufgaben."
         }
       ],
       "openQuestions": [],
@@ -3994,7 +4062,7 @@
         }
       ],
       "relations": [],
-      "shortReason": "Schwache Teilnehmer überschätzten sich deutlich, hielten sich im Mittel aber nicht für die Allerbesten.",
+      "shortReason": "Das schwächste Viertel schätzte sich im Schnitt auf das 62. Perzentil, nicht in die Spitzengruppe.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständiger Sachkern der jeweiligen Themenargumentation; Standardbedeutung ohne zusätzliche Hochgewichtung.",
@@ -4015,14 +4083,20 @@
               "u": 0
             },
             "reason": "Bei der Ersterfassung den nachweislich falschen Teil von ungeklärten Anteilen getrennt; Begründung wie im Sachurteil."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "field": "shares",
+            "previous": {
+              "p": 0.75,
+              "f": 0.25,
+              "u": 0
+            },
+            "next": null,
+            "reason": "UG-C0008: bisherige Sonderanteile bezogen sich auf das frühere Teilurteil und entfallen; die Standardregel bewertet das neue Urteil. Gewicht unverändert."
           }
-        ],
-        "shares": {
-          "p": 0.75,
-          "f": 0.25,
-          "u": 0
-        },
-        "sharesReason": "Der überwiegende Sachkern ist belegt; die in der Begründung ausdrücklich korrigierte Verallgemeinerung beziehungsweise Datierung ist falsch, nicht bloß ungeklärt. Standardnahe qualitative Aufteilung, keine Satz- oder Wortzählung."
+        ]
       },
       "research": {
         "gap": null,
@@ -4037,6 +4111,16 @@
               "S043"
             ],
             "result": "Die Originalstudie zeigt deutliche Selbstüberschätzung bei schwachen Leistungen in konkreten Aufgaben. Das unterste Viertel lag im Mittel tatsächlich beim 12. Perzentil und schätzte sich beim 62. ein. Das ist nicht gleichbedeutend damit, sich für die Allerbesten zu halten. Der Befund aus bestimmten Aufgaben ist zudem keine Diagnose einzelner Politiker oder Journalisten und keine universelle Intelligenzregel."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Wissensdatenbank-Suche und Prüfung möglicher Abhängigkeiten; im früheren Originaltext verzeichneten Gesprächsausschnitt mit dem Umfeld der Podcast-Textfassung verglichen und nachstehende Sachquelle neu gelesen. Kein vidIQ.",
+            "sourceIds": [
+              "S002",
+              "S070"
+            ],
+            "result": "Der Gesprächsbeitrag steigert die Aussage ausdrücklich zur Behauptung, schwache Teilnehmer ordneten sich unter den Allerbesten ein. Das Originalabstract der vier Studien berichtet für das leistungsschwächste Viertel im Mittel das tatsächliche 12. und das selbstgeschätzte 62. Perzentil. Das belegt Überschätzung, stützt aber nicht bloß knapp, sondern widerspricht der konkreten Behauptung einer durchschnittlichen Selbsteinordnung in die Spitzengruppe. Untersucht wurden konkrete Aufgaben; eine allgemeine Intelligenzdiagnose ergibt sich daraus nicht."
           }
         ],
         "missingInformation": null,

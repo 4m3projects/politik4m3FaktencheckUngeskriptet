@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich.
 
 ## Xw2tAp6UouE-A0021
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** 2015 wurde Hilfe zum Suizid verboten und das Bundesverfassungsgericht hob das Verbot wieder auf.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,13 +29,13 @@ Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der 2015 eingeführte § 217 StGB wurde am 26.02.2020 für nichtig erklärt. Verboten war die geschäftsmäßige, also auf Wiederholung angelegte Förderung der Selbsttötung, nicht jede einmalige Hilfe. Das Bundesverfassungsgericht bekräftigte das Recht auf selbstbestimmtes Sterben und freiwillige Hilfe, ließ aber eine verhältnismäßige Regulierung zu. Die verkürzte Darstellung als allgemeines Suizidhilfeverbot ist deshalb zu weit.
+Der Gast kontrastiert die frühere Straflosigkeit von Suizidhilfe mit einem 2015 eingeführten und später aufgehobenen Verbot, ohne den Umfang dieses Tatbestands zu benennen. Das Bundesverfassungsgericht erklärte § 217 StGB am 26. Februar 2020 tatsächlich für nichtig. Er erfasste jedoch geschäftsmäßige, auf Wiederholung angelegte Förderung, nicht jede einmalige Hilfe. Ohne die Einschränkung legt die Darstellung ein früheres allgemeines Suizidhilfeverbot nahe und überzeichnet damit die Reichweite des aufgehobenen Gesetzes.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle. [Kai] Quellen am 26.11.2026 erneut gelesen. Fundstelle aus dokumentiertem YouTube-Originaltext mit öffentlich lesbarer Podcast-Fassung desselben Gesprächs abgeglichen, keine neue Hör-/Sichtprüfung; Zurechnung und Zeitmarken unverändert.
 
 Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Kai] 2026-11-26, UG-C0007: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Die pauschale Darstellung verdeckt den entscheidenden Unterschied zwischen einem Verbot geschäftsmäßiger Förderung und einem allumfassenden Hilfeverbot.
 
 ### Zugeordnete Quellen
 
@@ -44,6 +44,12 @@ Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung 
 
 - [Bundesverfassungsgericht: Verbot der geschäftsmäßigen Förderung der Selbsttötung verfassungswidrig](https://www.bundesverfassungsgericht.de/SharedDocs/Pressemitteilungen/DE/2020/bvg20-012.html) · Pressemitteilung Nr. 12/2020 zum Urteil vom 26.02.2020, 2 BvR 2347/15 u. a.
   Quellenzugriff am 2026-11-24. Amtliche Pressemitteilung nach gesperrtem Recherchebrowser per direktem HTTPS-Abruf gelesen; Rechtsumfang, Wiederholungsabsicht und verbleibende Regulierungsmöglichkeit geprüft. Amtliche Pressemitteilung nach gesperrtem Recherchebrowser per direktem HTTPS-Abruf gelesen; Rechtsumfang, Wiederholungsabsicht und verbleibende Regulierungsmöglichkeit geprüft.
+
+- [Happy Scribe: Textfassung der Podcastfolge #355](https://podcasts.happyscribe.com/de/ungeskriptet-der-meinungsfreiheit-verpflichtet/355-die-brandmauer-hat-unser-miteinander-zerstort-philosoph) · Automatische, öffentlich lesbare Textfassung der Podcast-Ausgabe desselben Gesprächs. Die Sprecherlabels wechseln und sind kein Personenbeleg.
+  Quellenzugriff am 2026-11-24. Jeweilige Passagen und Gesprächsumfeld gelesen; die Fassung dient der Gegenkontrolle der bereits im Repository lokalisierten Aussagen, nicht als Quelle für YouTube-Zeitmarken oder Sachurteile. Gesprächsumfeld in der Podcast-Textfassung gegengelesen.
+
+- [BVerfG: Urteil zur geschäftsmäßigen Förderung der Selbsttötung](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2020/02/rs20200226_2bvr234715.html) · Zweiter Senat, 26.02.2020, 2 BvR 2347/15 u. a.
+  Quellenzugriff am 2026-11-26. Tenor und Abgrenzung der Hilfe ohne Wiederholungsabsicht im veröffentlichten Urteil gelesen. Tenor und Abgrenzung bei fehlender Wiederholungsabsicht.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -54,6 +60,8 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S029. Ergebnis: Der 2015 eingeführte § 217 StGB wurde am 26.02.2020 für nichtig erklärt. Verboten war die geschäftsmäßige, also auf Wiederholung angelegte Förderung der Selbsttötung, nicht jede einmalige Hilfe. Das Bundesverfassungsgericht bekräftigte das Recht auf selbstbestimmtes Sterben und freiwillige Hilfe, ließ aber eine verhältnismäßige Regulierung zu. Die verkürzte Darstellung als allgemeines Suizidhilfeverbot ist deshalb zu weit.
+
+- Durchgang 2 am 2026-11-26 (Kai): Wissensdatenbank-Suche und Prüfung möglicher Abhängigkeiten; im früheren Originaltext verzeichneten Gesprächsausschnitt mit dem Umfeld der Podcast-Textfassung verglichen und nachstehende Sachquelle neu gelesen. Kein vidIQ. Gepruefte Quellen: S002, S069. Ergebnis: Der Gast kontrastiert die frühere Straflosigkeit von Suizidhilfe mit einem 2015 eingeführten und später aufgehobenen Verbot, ohne den Umfang dieses Tatbestands zu benennen. Das Bundesverfassungsgericht erklärte § 217 StGB am 26. Februar 2020 tatsächlich für nichtig. Er erfasste jedoch geschäftsmäßige, auf Wiederholung angelegte Förderung, nicht jede einmalige Hilfe. Ohne die Einschränkung legt die Darstellung ein früheres allgemeines Suizidhilfeverbot nahe und überzeichnet damit die Reichweite des aufgehobenen Gesetzes.
 
 ## Xw2tAp6UouE-A0038
 
@@ -115,7 +123,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Menschen mit den geringsten Fähigkeiten hielten sich nach dem Dunning-Kruger-Effekt für die Allerbesten.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -134,13 +142,13 @@ Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Originalstudie zeigt deutliche Selbstüberschätzung bei schwachen Leistungen in konkreten Aufgaben. Das unterste Viertel lag im Mittel tatsächlich beim 12. Perzentil und schätzte sich beim 62. ein. Das ist nicht gleichbedeutend damit, sich für die Allerbesten zu halten. Der Befund aus bestimmten Aufgaben ist zudem keine Diagnose einzelner Politiker oder Journalisten und keine universelle Intelligenzregel.
+Der Gesprächsbeitrag steigert die Aussage ausdrücklich zur Behauptung, schwache Teilnehmer ordneten sich unter den Allerbesten ein. Das Originalabstract der vier Studien berichtet für das leistungsschwächste Viertel im Mittel das tatsächliche 12. und das selbstgeschätzte 62. Perzentil. Das belegt Überschätzung, stützt aber nicht bloß knapp, sondern widerspricht der konkreten Behauptung einer durchschnittlichen Selbsteinordnung in die Spitzengruppe. Untersucht wurden konkrete Aufgaben; eine allgemeine Intelligenzdiagnose ergibt sich daraus nicht.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle. [Kai] Quellen am 26.11.2026 erneut gelesen. Fundstelle aus dokumentiertem YouTube-Originaltext mit öffentlich lesbarer Podcast-Fassung desselben Gesprächs abgeglichen, keine neue Hör-/Sichtprüfung; Zurechnung und Zeitmarken unverändert.
 
 Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Kai] 2026-11-26, UG-C0008: vorher Teilweise belegt, jetzt Widerlegt. Die zugespitzte Behauptung über eine Selbstzuschreibung zur Spitzengruppe wird von den Originalmesswerten direkt widerlegt.
 
 ### Zugeordnete Quellen
 
@@ -149,6 +157,12 @@ Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung 
 
 - [Kruger und Dunning (1999): Unskilled and unaware of it – Originalabstract](https://ackerschott.eu/files/ackerschott/assets/articlefiles/unskilled_but_not_aware_of_it.pdf) · Lesbare Wiedergabe des Originalabstracts, Journal of Personality and Social Psychology 77(6), 1121–1134.
   Quellenzugriff am 2026-11-24. Vollständiges Abstract gelesen; unteres Quartil, tatsächliches 12. und geschätztes 62. Perzentil. Kein hier nicht gelesener Volltext behauptet. Vollständiges Abstract gelesen; unteres Quartil, tatsächliches 12. und geschätztes 62. Perzentil. Kein hier nicht gelesener Volltext behauptet.
+
+- [Happy Scribe: Textfassung der Podcastfolge #355](https://podcasts.happyscribe.com/de/ungeskriptet-der-meinungsfreiheit-verpflichtet/355-die-brandmauer-hat-unser-miteinander-zerstort-philosoph) · Automatische, öffentlich lesbare Textfassung der Podcast-Ausgabe desselben Gesprächs. Die Sprecherlabels wechseln und sind kein Personenbeleg.
+  Quellenzugriff am 2026-11-24. Jeweilige Passagen und Gesprächsumfeld gelesen; die Fassung dient der Gegenkontrolle der bereits im Repository lokalisierten Aussagen, nicht als Quelle für YouTube-Zeitmarken oder Sachurteile. Gesprächsumfeld und ausdrücklich zugespitzte Formulierung in der Podcast-Textfassung gegengelesen.
+
+- [Kruger und Dunning (1999): Unskilled and unaware of it](https://pubmed.ncbi.nlm.nih.gov/10626367/) · J Pers Soc Psychol 77(6), S. 1121–1134; Originalabstract, PMID 10626367.
+  Quellenzugriff am 2026-11-26. Messwerte und abgegrenzten Aufgabenbereich im publizierten Abstract gelesen. Originalabstract zu den Perzentilen der untersuchten Aufgaben.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -159,6 +173,8 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S043. Ergebnis: Die Originalstudie zeigt deutliche Selbstüberschätzung bei schwachen Leistungen in konkreten Aufgaben. Das unterste Viertel lag im Mittel tatsächlich beim 12. Perzentil und schätzte sich beim 62. ein. Das ist nicht gleichbedeutend damit, sich für die Allerbesten zu halten. Der Befund aus bestimmten Aufgaben ist zudem keine Diagnose einzelner Politiker oder Journalisten und keine universelle Intelligenzregel.
+
+- Durchgang 2 am 2026-11-26 (Kai): Wissensdatenbank-Suche und Prüfung möglicher Abhängigkeiten; im früheren Originaltext verzeichneten Gesprächsausschnitt mit dem Umfeld der Podcast-Textfassung verglichen und nachstehende Sachquelle neu gelesen. Kein vidIQ. Gepruefte Quellen: S002, S070. Ergebnis: Der Gesprächsbeitrag steigert die Aussage ausdrücklich zur Behauptung, schwache Teilnehmer ordneten sich unter den Allerbesten ein. Das Originalabstract der vier Studien berichtet für das leistungsschwächste Viertel im Mittel das tatsächliche 12. und das selbstgeschätzte 62. Perzentil. Das belegt Überschätzung, stützt aber nicht bloß knapp, sondern widerspricht der konkreten Behauptung einer durchschnittlichen Selbsteinordnung in die Spitzengruppe. Untersucht wurden konkrete Aufgaben; eine allgemeine Intelligenzdiagnose ergibt sich daraus nicht.
 
 ## Xw2tAp6UouE-A0045
 

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0008",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "Xw2tAp6UouE-A0039",
+    "entryId": null,
+    "description": "Die zugespitzte Behauptung über eine Selbstzuschreibung zur Spitzengruppe wird von den Originalmesswerten direkt widerlegt."
+  },
+  "evidence": [
+    {
+      "title": "Kruger und Dunning: Originalabstract (1999)",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/10626367/",
+      "accessedOn": "2026-11-26",
+      "finding": "Untere Leistungsgruppe bei 12. Perzentil, selbstgeschätzt bei 62.; belegt Überschätzung, nicht die behauptete Position unter den Allerbesten."
+    }
+  ],
+  "affected": [
+    {
+      "target": "Xw2tAp6UouE-A0039",
+      "reason": "Nur diese konkrete Behauptung. Der allgemein geteilte Originalvideolink begründet keine inhaltliche Abhängigkeit; die Wissenssuche ergab keine betroffenen Einträge."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Die gelesene Primärquelle und der Gesprächskontext tragen den sachlichen Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "Xw2tAp6UouE-A0039",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Widerlegt"
+    },
+    {
+      "target": "Xw2tAp6UouE-A0039",
+      "field": "reason",
+      "before": "Die Originalstudie zeigt deutliche Selbstüberschätzung bei schwachen Leistungen in konkreten Aufgaben. Das unterste Viertel lag im Mittel tatsächlich beim 12. Perzentil und schätzte sich beim 62. ein. Das ist nicht gleichbedeutend damit, sich für die Allerbesten zu halten. Der Befund aus bestimmten Aufgaben ist zudem keine Diagnose einzelner Politiker oder Journalisten und keine universelle Intelligenzregel.",
+      "after": "Der Gesprächsbeitrag steigert die Aussage ausdrücklich zur Behauptung, schwache Teilnehmer ordneten sich unter den Allerbesten ein. Das Originalabstract der vier Studien berichtet für das leistungsschwächste Viertel im Mittel das tatsächliche 12. und das selbstgeschätzte 62. Perzentil. Das belegt Überschätzung, stützt aber nicht bloß knapp, sondern widerspricht der konkreten Behauptung einer durchschnittlichen Selbsteinordnung in die Spitzengruppe. Untersucht wurden konkrete Aufgaben; eine allgemeine Intelligenzdiagnose ergibt sich daraus nicht."
+    },
+    {
+      "target": "Xw2tAp6UouE-A0039",
+      "field": "shortReason",
+      "before": "Schwache Teilnehmer überschätzten sich deutlich, hielten sich im Mittel aber nicht für die Allerbesten.",
+      "after": "Das schwächste Viertel schätzte sich im Schnitt auf das 62. Perzentil, nicht in die Spitzengruppe."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Einzeln nachgeprüft, Zuständigkeitsgrenzen und Zeitbezug abgegrenzt. Das alte Urteil und die alte Begründung sind hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

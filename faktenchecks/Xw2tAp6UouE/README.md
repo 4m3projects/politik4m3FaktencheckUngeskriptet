@@ -15,6 +15,10 @@ Die am 24.11.2026 erstellte Erweiterung ergänzt 58 abgeschlossene Sachprüfunge
 
 Die angezeigte Ampel wird ausschließlich aus dem strukturierten Teilbestand berechnet und ist keine Bilanz aller Aussagen im Video. Bedeutungsfaktoren und eigene Anteile der neuen Aussagen bleiben bis zur unabhängigen Gegenprüfung vorläufig. [Prüfbericht](strukturiert/README.md) · [Übernahme und Veröffentlichungskontrolle](../../docs/VEROEFFENTLICHUNG_RESTSTAENDE_2026-11-25.md).
 
+## Einzelne Nachprüfungen (26.11.2026, Kai)
+
+Drei frühere Teilurteile wurden mit Sachquellen und Gesprächskontext überprüft. Die Beschreibungen der EU-Entschließung und des früheren Verbots geschäftsmäßiger Suizidhilfe brauchen entscheidenden Kontext; die zugespitzte Beschreibung des Dunning-Kruger-Befunds widerspricht den Originalmesswerten. Einzelne Begründungen und Grenzen: [strukturierter Prüfbericht](strukturiert/README.md). Das ist keine Neubewertung aller übrigen Aussagen.
+
 ## [ChatGPT / Kai] Start der Prüfung, 21.11.2026
 
 In einem knapp dreistündigen Gespräch diskutieren Ben und der Philosoph Michael Schmidt-Salomon Humanismus, Evolution, Religion, Meinungsbildung, Politik, Corona, Integration, Ethik, Abtreibung und das menschliche Bewusstsein.
@@ -25,7 +29,7 @@ Die erste Sichtung lieferte **keine endgültige Gesamtfehlerquote und noch keine
 
 ## Strukturierter Teilbestand (24.11.2026, Kai)
 
-[Fünf strukturierte Sachprüfungen](strukturiert/README.md): vier belegt, eine teilweise belegt. Der Abgleich mit einer öffentlich lesbaren automatischen Podcast-Textfassung bestätigt die fünf bereits im YouTube-Prüfstart erfassten Sachkerne. Die Zeitmarken stammen aus dem ursprünglichen YouTube-Prüfstart und sind Suchpositionen. Die Podcast-Fassung liefert keine neue YouTube-Zeitmessung und keine sichere Sprecheridentifizierung. Die deutschen YouTube-Untertitel konnten in dieser Nachprüfung nicht erneut abgerufen werden; keine Bild-/Tonprüfung und kein Einsatz von vidIQ.
+Der damalige erste Arbeitsstand umfasste [fünf strukturierte Sachprüfungen](strukturiert/README.md): vier belegt, eine damals teilweise belegt. Die EU-Aussage wurde am 26.11. nachgeprüft (UG-C0006). Der Abgleich mit einer öffentlich lesbaren automatischen Podcast-Textfassung bestätigt die fünf bereits im YouTube-Prüfstart erfassten Sachkerne. Die Zeitmarken stammen aus dem ursprünglichen YouTube-Prüfstart und sind Suchpositionen. Die Podcast-Fassung liefert keine neue YouTube-Zeitmessung und keine sichere Sprecheridentifizierung. Die deutschen YouTube-Untertitel konnten in dieser Nachprüfung nicht erneut abgerufen werden; keine Bild-/Tonprüfung und kein Einsatz von vidIQ.
 
 Im ersten Durchgang war die Zurechnung der fünf Sachurteile noch ungeklärt. Der Teilbefund betrifft Gründungsjahr der Stiftung, Artikel 1 der Menschenrechtserklärung, die Verwandtschaft der Menschenaffen, formale Religionszugehörigkeiten und den Beschluss des Europäischen Parlaments zur Muslimbruderschaft. Bei Letzterem handelt es sich um eine Entschließung mit Aufforderungen an andere EU-Organe, nicht um eine neu erlassene bindende Regelung. Die Kirchenvergleiche beziehen sich auf die beiden Großkirchen und eine ausdrücklich als Schätzung ausgewiesene Zahl der Konfessionsfreien.
 
