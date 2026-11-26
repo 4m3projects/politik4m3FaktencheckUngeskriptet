@@ -6,7 +6,7 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 Stand: 2026-11-26 · Video: QxMuH1bjMwo
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich.
 
 ## Umfang und Bearbeitungsstand
 
@@ -36,9 +36,9 @@ Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eig
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 32 | 45.1 % |
-| Teilweise belegt | 21 | 29.6 % |
-| Irreführend / Kontext fehlt | 8 | 11.3 % |
+| Belegt | 33 | 46.5 % |
+| Teilweise belegt | 17 | 23.9 % |
+| Irreführend / Kontext fehlt | 11 | 15.5 % |
 | Widerlegt | 7 | 9.9 % |
 | Nicht ausreichend belegbar | 3 | 4.2 % |
 | Meinung / Prognose | 3 | nicht anwendbar |

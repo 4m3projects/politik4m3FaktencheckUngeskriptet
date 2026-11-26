@@ -10,7 +10,7 @@
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich.",
+    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich.",
     "coverageNote": "Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand."
   },
   "legacyPoints": [],
@@ -822,6 +822,14 @@
       "details": "Historischer Regelungsstand für 2022: Bemessungsgrundlage und Fördersatz, insbesondere Rn. 166, 188.",
       "accessedOn": "2026-11-26",
       "accessBasis": "Beträge und Satz im damaligen Anwendungsschreiben gelesen; Angaben für spätere Jahre daraus nicht übernommen."
+    },
+    {
+      "id": "S102",
+      "title": "The National Archives: Britische Akten zur Teilung Indiens",
+      "url": "https://cdn.nationalarchives.gov.uk/documents/education/partition-of-british-india.pdf",
+      "details": "DO 142/416 und DO 142/439 (Quellen 2c–2d), insbesondere der Vermerk vom 25. August 1947.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalakten mit zeitgenössischen Berichten zur Gewalt im östlichen Punjab im August und September 1947 gelesen."
     }
   ],
   "speakers": [
@@ -2349,19 +2357,23 @@
       "kind": "Tatsachenbehauptung",
       "description": "Mit der Unabhängigkeit 1947 eskalierte die Gewalt zwischen Religionsgemeinschaften im geteilten Britisch-Indien.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Indien und Pakistan wurden im August 1947 unabhängig. Das National Army Museum dokumentiert Gewalt und Massenflucht im Zuge der Teilung. Die Gewalteskalation hatte bereits vor der formalen Unabhängigkeit begonnen.",
-      "shortReason": "Gewalt und Massenflucht bei der Teilung sind belegt; die Eskalation begann aber schon vor der Unabhängigkeit.",
-      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "verdict": "Belegt",
+      "reason": "Der Gast beschreibt eine Eskalation der Gewalt um und nach der britisch-indischen Teilung 1947. Amtliche britische Akten dokumentieren für die zweite Augusthälfte eine rasche Verschärfung im Punjab und anschließende schwere Gewalttaten im August und September. Das bestätigt den zeitlich eingegrenzten Sachverhalt; Übergriffe und Vertreibungen hatten bereits vorher begonnen. Eine alleinige religiöse Ursache oder eine exakte Opferzahl wird hier nicht behauptet.",
+      "shortReason": "Zeitgenössische Berichte belegen die Gewalteskalation um und nach der Teilung im August 1947; Gewalt gab es auch zuvor.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0017: vorher Teilweise belegt, jetzt Belegt. Zeitgenössische Berichte belegen die Gewalteskalation um und nach der Teilung im August 1947; Gewalt gab es auch zuvor."
       },
       "sourceRefs": [
         {
           "sourceId": "S032",
-          "note": "Unabhängigkeit, Teilung und zeitlicher Verlauf der Gewalt."
+          "note": "Überblick über die Gewalt vor und nach der Teilung."
+        },
+        {
+          "sourceId": "S102",
+          "note": "Amtliche zeitgenössische Berichte zu den Folgen der Teilung im Punjab."
         }
       ],
       "openQuestions": [],
@@ -2392,6 +2404,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S032",
+              "S102"
+            ],
+            "result": "Der Gast beschreibt eine Eskalation der Gewalt um und nach der britisch-indischen Teilung 1947. Amtliche britische Akten dokumentieren für die zweite Augusthälfte eine rasche Verschärfung im Punjab und anschließende schwere Gewalttaten im August und September. Das bestätigt den zeitlich eingegrenzten Sachverhalt; Übergriffe und Vertreibungen hatten bereits vorher begonnen. Eine alleinige religiöse Ursache oder eine exakte Opferzahl wird hier nicht behauptet."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -4126,20 +4156,20 @@
       "chapter": 5,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Ein Hadith bezeichnet eine parfümierte Frau unter bestimmten Umständen als Ehebrecherin.",
+      "description": "Ein Hadith nenne eine Frau schon wegen von anderen gerochenem oder als angenehm empfundenem Parfüm eine Ehebrecherin.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "An-Nasa’i 5126 enthält die drastische Zuschreibung. Die Überlieferung nennt aber zusätzlich das Vorbeigehen an Menschen, damit sie den Duft wahrnehmen. Die verkürzte Wiedergabe im Gespräch lässt diese Bedingung weitgehend weg. Der Text erlaubt keine Aussage über die Haltung aller heutigen Muslime und ist keine allgemeine rechtliche Erlaubnis zu Übergriffen.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Gast gibt einen Hadith so wieder, dass das Tragen von Parfüm und dessen Wahrnehmung beziehungsweise Gefallen genügen. In der identifizierten Überlieferung Sunan an-Nasa’i 5126 kommt ausdrücklich hinzu, dass die Frau an Leuten vorbeigeht, damit sie ihren Duft wahrnehmen. Das ist enger als ein pauschales Urteil über Frauen, deren Parfüm jemand zufällig riecht oder mag. Das Urteil betrifft die Wiedergabe dieses Textes, nicht die heutige Rechtslage oder die Haltung von Muslimen.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
-        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0018: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Der Hadith nennt gezieltes Vorbeigehen, damit andere den Duft wahrnehmen, nicht bloß das Tragen von Parfüm."
       },
       "sourceRefs": [
         {
           "sourceId": "S073",
-          "note": "Arabische Fundstelle und englische Übersetzung mit der Bedingung des Vorbeigehens zur Duftwahrnehmung gelesen. Keine Aussage über eine heutige Strafbarkeit daraus abgeleitet."
+          "note": "Originaltext und englische Übersetzung samt Zweck des Vorbeigehens."
         }
       ],
       "openQuestions": [],
@@ -4175,12 +4205,21 @@
               "S073"
             ],
             "result": "An-Nasa’i 5126 enthält die drastische Zuschreibung. Die Überlieferung nennt aber zusätzlich das Vorbeigehen an Menschen, damit sie den Duft wahrnehmen. Die verkürzte Wiedergabe im Gespräch lässt diese Bedingung weitgehend weg. Der Text erlaubt keine Aussage über die Haltung aller heutigen Muslime und ist keine allgemeine rechtliche Erlaubnis zu Übergriffen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S073"
+            ],
+            "result": "Der Gast gibt einen Hadith so wieder, dass das Tragen von Parfüm und dessen Wahrnehmung beziehungsweise Gefallen genügen. In der identifizierten Überlieferung Sunan an-Nasa’i 5126 kommt ausdrücklich hinzu, dass die Frau an Leuten vorbeigeht, damit sie ihren Duft wahrnehmen. Das ist enger als ein pauschales Urteil über Frauen, deren Parfüm jemand zufällig riecht oder mag. Das Urteil betrifft die Wiedergabe dieses Textes, nicht die heutige Rechtslage oder die Haltung von Muslimen."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Der Hadith enthält die Zuschreibung, knüpft sie aber an das Vorbeigehen zur Duftwahrnehmung durch andere.",
+      "shortReason": "Der Hadith nennt gezieltes Vorbeigehen, damit andere den Duft wahrnehmen, nicht bloß das Tragen von Parfüm.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Hamed Abdel-Samad",
@@ -4673,20 +4712,20 @@
       "chapter": 5,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Spinoza habe bereits vor Arendt die Unterwerfung von Menschen unter Herrschaft beschrieben.",
+      "description": "Spinoza habe vor Arendt über die Lust der Menschen an ihrer eigenen Unterwerfung gesprochen.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Spinoza beschreibt 1670 in der Vorrede des Theologisch-politischen Traktats, wie religiös verkleidete Angst Menschen dazu bringen kann, ihre Knechtschaft für Rettung zu halten. Der historische Bezug ist sachlich tragfähig. Eine allgemeine empirische Lust an Unterwerfung formuliert oder beweist diese Passage nicht.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Gast beruft sich auf Spinoza für eine „Lust an der Unterwerfung“ im Anschluss an eine Aussage darüber, ob Unterworfene selbst Spaß daran hätten. In der Vorrede des Theologisch-politischen Traktats von 1670 beschreibt Spinoza, wie Herrscher Menschen durch Täuschung und religiös verbrämte Angst dazu bringen, für ihre Knechtschaft zu kämpfen, weil sie sie für die eigene Rettung halten. Die Stelle beschreibt also Unterstützung für die eigene Unterwerfung, aber aus einem anderen Motiv als Freude an Unterwerfung selbst.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
-        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0019: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Spinoza beschreibt Täuschung und Angst als Mittel der Unterwerfung, nicht Freude an der Unterwerfung selbst."
       },
       "sourceRefs": [
         {
           "sourceId": "S082",
-          "note": "Vorrede §§ 5–8, besonders § 7 zur Täuschung und Verteidigung der eigenen Knechtschaft, gelesen."
+          "note": "Vorrede, Abschnitt 7: Angst, Täuschung und vermeintliche Befreiung."
         }
       ],
       "openQuestions": [],
@@ -4722,12 +4761,21 @@
               "S082"
             ],
             "result": "Spinoza beschreibt 1670 in der Vorrede des Theologisch-politischen Traktats, wie religiös verkleidete Angst Menschen dazu bringen kann, ihre Knechtschaft für Rettung zu halten. Der historische Bezug ist sachlich tragfähig. Eine allgemeine empirische Lust an Unterwerfung formuliert oder beweist diese Passage nicht."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S082"
+            ],
+            "result": "Der Gast beruft sich auf Spinoza für eine „Lust an der Unterwerfung“ im Anschluss an eine Aussage darüber, ob Unterworfene selbst Spaß daran hätten. In der Vorrede des Theologisch-politischen Traktats von 1670 beschreibt Spinoza, wie Herrscher Menschen durch Täuschung und religiös verbrämte Angst dazu bringen, für ihre Knechtschaft zu kämpfen, weil sie sie für die eigene Rettung halten. Die Stelle beschreibt also Unterstützung für die eigene Unterwerfung, aber aus einem anderen Motiv als Freude an Unterwerfung selbst."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Spinoza behandelt die Verteidigung der eigenen Knechtschaft durch Täuschung, nicht eine nachgewiesene allgemeine Lust daran.",
+      "shortReason": "Spinoza beschreibt Täuschung und Angst als Mittel der Unterwerfung, nicht Freude an der Unterwerfung selbst.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Hamed Abdel-Samad",
@@ -5073,22 +5121,22 @@
       "kind": "Tatsachenbehauptung",
       "description": "Die EU habe ein Verbot von Verbrennern beschlossen.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Mit „Verbrennerverbot“ bezeichnet die Debatte häufig die 2023 beschlossenen CO₂-Flottenziele von null für ab 2035 in der EU neu zugelassene Pkw und leichte Nutzfahrzeuge. Der Moderator leitet daraus im Gespräch aber ein Aufhören des Motorenbaus allgemein ab. Dafür ist die Regel kein allgemeines Herstellungsverbot; auch Fahrzeuge im Bestand werden nicht durch diese Regel verboten. Das gesonderte Verfahren 2025/0420(COD) war am Prüftag noch vor der ersten Lesung im Parlament. Die Bewertung der wirtschaftlichen Folgen ist nicht Teil dieses Befunds.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
-        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0020: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Das CO₂-Ziel betrifft neue Pkw und leichte Nutzfahrzeuge ab 2035. Es verbietet weder generell die Motorenproduktion noch den Bestand."
       },
       "sourceRefs": [
         {
           "sourceId": "S087",
-          "note": "Abschnitte zu Neuzulassungen ab 2035 und vorgesehenen Folgeentscheidungen gelesen. Die direkten EUR-Lex-Abrufe lieferten nur eine JavaScript-Abfrage; sie werden nicht als gelesen ausgegeben."
+          "note": "Amtliche Mitteilung über den Beschluss und die betroffenen Fahrzeugklassen."
         },
         {
           "sourceId": "S088",
-          "note": "Verfahrensgegenstand, Änderung der Verordnung 2019/631 und Stand vor der ersten Lesung des Parlaments gelesen."
+          "note": "Verfahrensstand des gesonderten späteren Kommissionsvorschlags."
         }
       ],
       "openQuestions": [],
@@ -5125,12 +5173,22 @@
               "S088"
             ],
             "result": "Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S087",
+              "S088"
+            ],
+            "result": "Mit „Verbrennerverbot“ bezeichnet die Debatte häufig die 2023 beschlossenen CO₂-Flottenziele von null für ab 2035 in der EU neu zugelassene Pkw und leichte Nutzfahrzeuge. Der Moderator leitet daraus im Gespräch aber ein Aufhören des Motorenbaus allgemein ab. Dafür ist die Regel kein allgemeines Herstellungsverbot; auch Fahrzeuge im Bestand werden nicht durch diese Regel verboten. Das gesonderte Verfahren 2025/0420(COD) war am Prüftag noch vor der ersten Lesung im Parlament. Die Bewertung der wirtschaftlichen Folgen ist nicht Teil dieses Befunds."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Die EU-Regel betrifft neue Pkw und Transporter ab 2035, nicht die Nutzung sämtlicher vorhandener Verbrenner.",
+      "shortReason": "Das CO₂-Ziel betrifft neue Pkw und leichte Nutzfahrzeuge ab 2035. Es verbietet weder generell die Motorenproduktion noch den Bestand.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Konkretes politisches Beispiel in der These vom Rückzug vernünftiger Akteure.",

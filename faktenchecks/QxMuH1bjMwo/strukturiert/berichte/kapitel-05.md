@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich.
 
 ## QxMuH1bjMwo-A0005
 
@@ -142,7 +142,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Mit der Unabhängigkeit 1947 eskalierte die Gewalt zwischen Religionsgemeinschaften im geteilten Britisch-Indien.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -161,22 +161,31 @@ Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Indien und Pakistan wurden im August 1947 unabhängig. Das National Army Museum dokumentiert Gewalt und Massenflucht im Zuge der Teilung. Die Gewalteskalation hatte bereits vor der formalen Unabhängigkeit begonnen.
+Der Gast beschreibt eine Eskalation der Gewalt um und nach der britisch-indischen Teilung 1947. Amtliche britische Akten dokumentieren für die zweite Augusthälfte eine rasche Verschärfung im Punjab und anschließende schwere Gewalttaten im August und September. Das bestätigt den zeitlich eingegrenzten Sachverhalt; Übergriffe und Vertreibungen hatten bereits vorher begonnen. Eine alleinige religiöse Ursache oder eine exakte Opferzahl wird hier nicht behauptet.
 
-Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkt aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: Erste dokumentierte Einordnung.
+Bewertungsuebergang: Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0017: vorher Teilweise belegt, jetzt Belegt. Zeitgenössische Berichte belegen die Gewalteskalation um und nach der Teilung im August 1947; Gewalt gab es auch zuvor.
 
 ### Zugeordnete Quellen
 
 - [National Army Museum: Independence and Partition, 1947](https://www.nam.ac.uk/explore/independence-and-partition-1947) · Museumsdarstellung mit Archivmaterial zur Teilung Britisch-Indiens.
-  Quellenzugriff am 2026-11-19. Abschnitte zu Teilung, Flucht und Gewalt im Umfeld der Unabhängigkeit gelesen. Unabhängigkeit, Teilung und zeitlicher Verlauf der Gewalt.
+  Quellenzugriff am 2026-11-19. Abschnitte zu Teilung, Flucht und Gewalt im Umfeld der Unabhängigkeit gelesen. Überblick über die Gewalt vor und nach der Teilung.
+
+- [The National Archives: Britische Akten zur Teilung Indiens](https://cdn.nationalarchives.gov.uk/documents/education/partition-of-british-india.pdf) · DO 142/416 und DO 142/439 (Quellen 2c–2d), insbesondere der Vermerk vom 25. August 1947.
+  Quellenzugriff am 2026-11-26. Originalakten mit zeitgenössischen Berichten zur Gewalt im östlichen Punjab im August und September 1947 gelesen. Amtliche zeitgenössische Berichte zu den Folgen der Teilung im Punjab.
 
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Gepruefte Quellen: S032, S102. Ergebnis: Der Gast beschreibt eine Eskalation der Gewalt um und nach der britisch-indischen Teilung 1947. Amtliche britische Akten dokumentieren für die zweite Augusthälfte eine rasche Verschärfung im Punjab und anschließende schwere Gewalttaten im August und September. Das bestätigt den zeitlich eingegrenzten Sachverhalt; Übergriffe und Vertreibungen hatten bereits vorher begonnen. Eine alleinige religiöse Ursache oder eine exakte Opferzahl wird hier nicht behauptet.
 
 ## QxMuH1bjMwo-A0045
 
@@ -240,9 +249,9 @@ Fehlende Information: Eine vergleichbare Erhebung für die genannten Länder und
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Ein Hadith bezeichnet eine parfümierte Frau unter bestimmten Umständen als Ehebrecherin.
+**Eigene Beschreibung:** Ein Hadith nenne eine Frau schon wegen von anderen gerochenem oder als angenehm empfundenem Parfüm eine Ehebrecherin.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -261,18 +270,18 @@ Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte a
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-An-Nasa’i 5126 enthält die drastische Zuschreibung. Die Überlieferung nennt aber zusätzlich das Vorbeigehen an Menschen, damit sie den Duft wahrnehmen. Die verkürzte Wiedergabe im Gespräch lässt diese Bedingung weitgehend weg. Der Text erlaubt keine Aussage über die Haltung aller heutigen Muslime und ist keine allgemeine rechtliche Erlaubnis zu Übergriffen.
+Der Gast gibt einen Hadith so wieder, dass das Tragen von Parfüm und dessen Wahrnehmung beziehungsweise Gefallen genügen. In der identifizierten Überlieferung Sunan an-Nasa’i 5126 kommt ausdrücklich hinzu, dass die Frau an Leuten vorbeigeht, damit sie ihren Duft wahrnehmen. Das ist enger als ein pauschales Urteil über Frauen, deren Parfüm jemand zufällig riecht oder mag. Das Urteil betrifft die Wiedergabe dieses Textes, nicht die heutige Rechtslage oder die Haltung von Muslimen.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0018: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Der Hadith nennt gezieltes Vorbeigehen, damit andere den Duft wahrnehmen, nicht bloß das Tragen von Parfüm.
 
 ### Zugeordnete Quellen
 
 - [Sunan an-Nasa’i 5126: Parfüm und die Zuschreibung des Ehebruchs](https://sunnah.com/nasai/48/87) · Gezielte Nachprüfung durch Codex, 24. November 2026.
-  Quellenzugriff am 2026-11-24. Arabische Fundstelle und englische Übersetzung mit der Bedingung des Vorbeigehens zur Duftwahrnehmung gelesen. Keine Aussage über eine heutige Strafbarkeit daraus abgeleitet. Arabische Fundstelle und englische Übersetzung mit der Bedingung des Vorbeigehens zur Duftwahrnehmung gelesen. Keine Aussage über eine heutige Strafbarkeit daraus abgeleitet.
+  Quellenzugriff am 2026-11-24. Arabische Fundstelle und englische Übersetzung mit der Bedingung des Vorbeigehens zur Duftwahrnehmung gelesen. Keine Aussage über eine heutige Strafbarkeit daraus abgeleitet. Originaltext und englische Übersetzung samt Zweck des Vorbeigehens.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -283,6 +292,8 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 
 - Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S073. Ergebnis: An-Nasa’i 5126 enthält die drastische Zuschreibung. Die Überlieferung nennt aber zusätzlich das Vorbeigehen an Menschen, damit sie den Duft wahrnehmen. Die verkürzte Wiedergabe im Gespräch lässt diese Bedingung weitgehend weg. Der Text erlaubt keine Aussage über die Haltung aller heutigen Muslime und ist keine allgemeine rechtliche Erlaubnis zu Übergriffen.
+
+- Durchgang 2 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Gepruefte Quellen: S073. Ergebnis: Der Gast gibt einen Hadith so wieder, dass das Tragen von Parfüm und dessen Wahrnehmung beziehungsweise Gefallen genügen. In der identifizierten Überlieferung Sunan an-Nasa’i 5126 kommt ausdrücklich hinzu, dass die Frau an Leuten vorbeigeht, damit sie ihren Duft wahrnehmen. Das ist enger als ein pauschales Urteil über Frauen, deren Parfüm jemand zufällig riecht oder mag. Das Urteil betrifft die Wiedergabe dieses Textes, nicht die heutige Rechtslage oder die Haltung von Muslimen.
 
 ## QxMuH1bjMwo-A0057
 
@@ -584,9 +595,9 @@ Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Spinoza habe bereits vor Arendt die Unterwerfung von Menschen unter Herrschaft beschrieben.
+**Eigene Beschreibung:** Spinoza habe vor Arendt über die Lust der Menschen an ihrer eigenen Unterwerfung gesprochen.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -605,18 +616,18 @@ Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte a
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Spinoza beschreibt 1670 in der Vorrede des Theologisch-politischen Traktats, wie religiös verkleidete Angst Menschen dazu bringen kann, ihre Knechtschaft für Rettung zu halten. Der historische Bezug ist sachlich tragfähig. Eine allgemeine empirische Lust an Unterwerfung formuliert oder beweist diese Passage nicht.
+Der Gast beruft sich auf Spinoza für eine „Lust an der Unterwerfung“ im Anschluss an eine Aussage darüber, ob Unterworfene selbst Spaß daran hätten. In der Vorrede des Theologisch-politischen Traktats von 1670 beschreibt Spinoza, wie Herrscher Menschen durch Täuschung und religiös verbrämte Angst dazu bringen, für ihre Knechtschaft zu kämpfen, weil sie sie für die eigene Rettung halten. Die Stelle beschreibt also Unterstützung für die eigene Unterwerfung, aber aus einem anderen Motiv als Freude an Unterwerfung selbst.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0019: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Spinoza beschreibt Täuschung und Angst als Mittel der Unterwerfung, nicht Freude an der Unterwerfung selbst.
 
 ### Zugeordnete Quellen
 
 - [Spinoza: Theologisch-politischer Traktat, Vorrede, Cambridge-Ausgabe](https://assets.cambridge.org/97805218/24118/excerpt/9780521824118_excerpt.pdf) · Gezielte Nachprüfung durch Codex, 24. November 2026.
-  Quellenzugriff am 2026-11-24. Vorrede §§ 5–8, besonders § 7 zur Täuschung und Verteidigung der eigenen Knechtschaft, gelesen. Vorrede §§ 5–8, besonders § 7 zur Täuschung und Verteidigung der eigenen Knechtschaft, gelesen.
+  Quellenzugriff am 2026-11-24. Vorrede §§ 5–8, besonders § 7 zur Täuschung und Verteidigung der eigenen Knechtschaft, gelesen. Vorrede, Abschnitt 7: Angst, Täuschung und vermeintliche Befreiung.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -627,5 +638,7 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 
 - Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S082. Ergebnis: Spinoza beschreibt 1670 in der Vorrede des Theologisch-politischen Traktats, wie religiös verkleidete Angst Menschen dazu bringen kann, ihre Knechtschaft für Rettung zu halten. Der historische Bezug ist sachlich tragfähig. Eine allgemeine empirische Lust an Unterwerfung formuliert oder beweist diese Passage nicht.
+
+- Durchgang 2 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Gepruefte Quellen: S082. Ergebnis: Der Gast beruft sich auf Spinoza für eine „Lust an der Unterwerfung“ im Anschluss an eine Aussage darüber, ob Unterworfene selbst Spaß daran hätten. In der Vorrede des Theologisch-politischen Traktats von 1670 beschreibt Spinoza, wie Herrscher Menschen durch Täuschung und religiös verbrämte Angst dazu bringen, für ihre Knechtschaft zu kämpfen, weil sie sie für die eigene Rettung halten. Die Stelle beschreibt also Unterstützung für die eigene Unterwerfung, aber aus einem anderen Motiv als Freude an Unterwerfung selbst.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
