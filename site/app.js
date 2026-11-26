@@ -12,7 +12,7 @@ const DATA = 'daten/';
 const VERDICTS = [
   { name: 'Belegt', key: 'belegt', text: 'Die geprüfte Tatsachenbehauptung wird durch geeignete, gelesene Quellen gestützt.' },
   { name: 'Teilweise belegt', key: 'teilweise', text: 'Ein wesentlicher Teil stimmt, ein anderer Teil ist ungenau, zu weit gefasst oder nicht gestützt.' },
-  { name: 'Irreführend / Kontext fehlt', key: 'irrefuehrend', text: 'Einzelangaben können stimmen, der entstehende Eindruck ist ohne fehlenden Kontext aber schief.' },
+  { name: 'Irreführend / Kontext fehlt', key: 'irrefuehrend', text: 'Zutreffende Angaben erzeugen wegen einer wesentlichen Auslassung oder ihrer Darstellung einen nachweislich falschen Eindruck. Absicht wird nicht unterstellt.' },
   { name: 'Widerlegt', key: 'widerlegt', text: 'Geeignete Quellen sprechen klar gegen die Behauptung.' },
   { name: 'Nicht ausreichend belegbar', key: 'unbelegbar', text: 'Geprüft: Die Aussage ist grundsätzlich prüfbar, die Recherche ist erfolgt, aber die gelesenen Quellen reichen weder für eine Bestätigung noch für eine Widerlegung. Das ist kein Urteil „falsch“.' },
   { name: 'Meinung / Prognose', key: 'meinung', text: 'Wertung oder Vorhersage; nicht als wahr oder falsch bewertbar. Überprüfbare Voraussetzungen werden gesondert betrachtet.' }
@@ -88,11 +88,13 @@ function isUnchecked(c) {
 }
 function verdictBadge(verdict, status, reason) {
   if (verdict) {
-    return `<span class="badge"><i class="fill-${VKEY[verdict] || 'offen'}" aria-hidden="true"></i>${esc(verdict)}</span>`;
+    const label = verdict + (FactIndex.CONFIG.legacyVerdicts.includes(verdict) ? ' · Altbewertung, Nachprüfung offen' : '');
+    return `<span class="badge"><i class="fill-${VKEY[verdict] || 'offen'}" aria-hidden="true"></i>${esc(label)}</span>`;
   }
   if (isUnverifiable({ verdict, status, reason })) {
     return `<span class="badge"><i class="fill-nichtpruefbar" aria-hidden="true"></i>Nicht überprüfbar</span>`;
   }
+  if (status === 'Offen' && /^Offen nach Recherche:/i.test(reason || '')) return '<span class="badge plain"><i class="fill-offen" aria-hidden="true"></i>Offen nach Recherche</span>';
   if (status === 'In Bearbeitung') return `<span class="badge plain"><i class="fill-bearbeitung" aria-hidden="true"></i>In Bearbeitung · noch ohne Bewertung</span>`;
   return `<span class="badge plain badge-todo" data-tip="Grundsätzlich prüfbar, aber noch nicht recherchiert – wird nachgearbeitet."><i class="fill-offen" aria-hidden="true"></i>Noch nicht geprüft</span>`;
 }
@@ -109,7 +111,7 @@ function bucketOf(c) {
 
 /* Verteilung aller strukturierten Aussagen: Endbewertungen plus offene/laufende Prüfungen. */
 function distribution(claims) {
-  const buckets = [...VERDICTS, ...STATUS].map(b => ({ ...b, n: 0 }));
+  const buckets = [...VERDICTS, ...STATUS].map(b => ({ ...b, name: FactIndex.CONFIG.legacyVerdicts.includes(b.name) ? b.name + ' (Altbewertung)' : b.name, n: 0 }));
   for (const c of claims) {
     const b = buckets.find(x => x.key === bucketOf(c));
     if (b) b.n++;
@@ -1321,9 +1323,16 @@ async function pageMethod() {
     <header class="video-head"><h1>So prüfen wir</h1>
       <p class="lead" style="color:var(--text-2);max-width:70ch">Wir bewerten einzelne, überprüfbare Aussagen – nie ein ganzes Video pauschal. Die Faktenampel je Video ist nur eine offengelegte Rechnung aus diesen Einzelbewertungen. Entscheidend sind nachvollziehbare Quellen und die Trennung von Tatsachen, Meinungen und Prognosen. Dafür gibt es zwei getrennte Maßstäbe: die <strong>Faktenbewertung</strong> (stimmt die Aussage?) und die <strong>Darstellung</strong> (wie wird sie gesagt?).</p></header>
 
-    <section class="section" id="bewertung"><h2>Maßstab 1 – Faktenbewertung: sechs feste Bewertungen</h2>
-      <ul class="verdict-list">${VERDICTS.map(x => `<li><span class="badge"><i class="fill-${x.key}" aria-hidden="true"></i>${esc(x.name)}</span><p>${esc(x.text)}</p></li>`).join('')}</ul>
-      <p class="small">Solange eine Prüfung <strong>offen</strong> oder <strong>in Bearbeitung</strong> ist, gibt es bewusst keine Bewertung. Eine nicht belegte Aussage ist nicht automatisch falsch.</p>
+    <section class="section" id="bewertung"><h2>Maßstab 1: Drei Faktenurteile</h2>
+      <ul class="verdict-list">${VERDICTS.filter(x => Object.hasOwn(FactIndex.CONFIG.shares, x.name)).map(x => `<li><span class="badge"><i class="fill-${x.key}" aria-hidden="true"></i>${esc(x.name)}</span><p>${esc(x.text)}</p></li>`).join('')}</ul>
+      <p class="small">Solange eine Prüfung <strong>offen</strong> oder <strong>in Bearbeitung</strong> ist, gibt es bewusst keine Bewertung. Fehlende Belege sind kein Gegenbeweis.</p>
+      <p>Ist die Beweislage nach Recherche nicht eindeutig, bleibt die Aussage offen. Meinungen und Prognosen sind keine Faktenurteile. Frühere Einträge mit „Teilweise belegt“ oder „Nicht ausreichend belegbar“ bleiben sichtbar, zählen aber ohne Einzelprüfung nicht zum Index.</p>
+    </section>
+
+    <section class="section prose-plain" id="aussagen-erfassen"><h2>Wie zählen wir Aussagen?</h2>
+      <p>Eine Aussage ist ein Sachverhalt, der eine eigene Prüfung braucht. Eigenständige Behauptungen prüfen wir getrennt. Beispiel: Die Mondlandung ist belegt, die Landung am geografischen Mondsüdpol widerlegt. Behauptet jemand A und B ausdrücklich als einen gemeinsamen Sachverhalt, ist dieser widerlegt, sobald ein notwendiger Teil widerlegt ist. Ist keiner widerlegt, aber mindestens einer ungeklärt, bleibt die gemeinsame Behauptung offen. Belegt ist sie erst, wenn alle nötigen Teile belegt sind. Den Zusammenhang zählen wir nicht zusätzlich zu einzeln erfassten Aussagen. Eine falsche Prämisse macht den vorgelegten Beweis unbrauchbar, widerlegt aber nicht automatisch seine Schlussfolgerung. Der Beschluss einer Regelung und ihr Inkrafttreten sind zum Beispiel zwei Prüfpunkte. Sinngleiche Wiederholungen zählen als eine Aussage mit mehreren Fundstellen.</p>
+      <p>Wir protokollieren abschnittsweise, welche Teile der Folge wir gesichtet haben und wo Lücken bleiben. Vor einer vollständigen Erfassung gleichen wir die Kandidaten in einem zweiten Durchgang ab. Die Prozentangabe zur Prüfabdeckung bezieht sich auf bereits erfasste Tatsachenbehauptungen, die in die Quote eingehen.</p>
+      <p><a href="https://github.com/4m3projects/politik4m3Facktencheck/blob/main/docs/STRUKTURIERTE_DATEN.md#aussagen-erfassen-und-erfassungslücken-prüfen">Vollständige Arbeitsanleitung zur Erfassung</a></p>
     </section>
 
     <section class="section prose-plain" id="pruefstatus"><h2>Noch nicht geprüft, nicht überprüfbar oder nicht belegbar?</h2>
@@ -1331,21 +1340,21 @@ async function pageMethod() {
       <ul class="verdict-list">
         <li><span class="badge plain badge-todo"><i class="fill-offen" aria-hidden="true"></i>Noch nicht geprüft</span><p>Die Aussage ließe sich mit öffentlichen Quellen prüfen, wir haben es aber noch nicht getan. Das ist ein offener Arbeitsauftrag, kein Ergebnis – solche Aussagen werden nachgearbeitet.</p></li>
         <li><span class="badge"><i class="fill-nichtpruefbar" aria-hidden="true"></i>Nicht überprüfbar</span><p>Es gibt grundsätzlich keine öffentliche Prüfgrundlage: private Erlebnisse, interne Vorgänge, unbenannte Personen oder eine zu unbestimmte Behauptung. Die Einordnung ist abgeschlossen; der Grund steht dabei.</p></li>
-        <li><span class="badge"><i class="fill-unbelegbar" aria-hidden="true"></i>Nicht ausreichend belegbar</span><p>Die Aussage ist prüfbar und wir haben recherchiert, die gelesenen Quellen reichen aber weder für eine Bestätigung noch für eine Widerlegung. Die Quellen sind angegeben.</p></li>
+        <li><span class="badge"><i class="fill-offen" aria-hidden="true"></i>Offen nach Recherche</span><p>Die bisher gelesenen Quellen reichen weder für eine Bestätigung noch für eine Widerlegung. Quellen und nächste Prüfschritte stehen im Eintrag. Das zählt nicht im Index.</p></li>
       </ul>
       <p class="small">Fehlt uns nur der Zugang zu einer Quelle oder die Zeit, steht eine Aussage als „Noch nicht geprüft“ – nie als „nicht überprüfbar“. Keiner der drei Fälle bedeutet „falsch“, und keiner zählt in der Faktenampel als Fehler.</p>
-      <p class="small"><strong>Ein fehlender Suchtreffer ist kein Gegenbeweis.</strong> Bevor eine prüfbare Aussage als „nicht ausreichend belegbar“ gilt, recherchieren wir mindestens ein zweites Mal gezielt anders: mit anderen Suchbegriffen, über Primärquellen wie amtliche Statistiken, Gesetzestexte und Studien, im zeitlichen Zusammenhang der Aussage und über indirekte, belastbare Wege. Wo vorhanden, steht bei der Aussage eine Recherchedokumentation: welche Quellen geprüft wurden, was fehlt, wo sich Quellen widersprechen und wie sicher die Einordnung ist. Belegte Aussagen sind dabei genauso ein Ergebnis wie widerlegte.</p>
+      <p class="small"><strong>Ein fehlender Suchtreffer ist kein Gegenbeweis.</strong> Wenn der erste Durchgang keine Entscheidung zulässt, recherchieren wir mindestens ein zweites Mal gezielt anders: mit anderen Suchbegriffen, über Primärquellen wie amtliche Statistiken, Gesetzestexte und Studien, im zeitlichen Zusammenhang der Aussage und über indirekte, belastbare Wege. Wo vorhanden, steht bei der Aussage eine Recherchedokumentation: welche Quellen geprüft wurden, was fehlt, wo sich Quellen widersprechen und wie sicher die Einordnung ist. Belegte Aussagen sind dabei genauso ein Ergebnis wie widerlegte.</p>
     </section>
 
     <div id="ampel"></div>${fiMethod(ampelDemo)}
     <section class="section prose-plain" id="ampel-alle">${ampelOverview(all)}</section>
 
     <section class="section prose-plain" id="gegendarstellung"><h2>Gegendarstellung aus einem anderen Video</h2>
-      <p>Ist eine Aussage widerlegt, irreführend, nicht ausreichend belegbar, eine Meinung oder Vermutung oder noch nicht fertig geprüft, und sagt ein anderes geprüftes Video an seiner Stelle etwas anderes, das selbst als <strong>belegt</strong> oder <strong>teilweise belegt</strong> bewertet ist, erscheint diese Gegenaussage als Hinweis mit Zeitmarke: in der Auswertung und neben dem laufenden Video.</p>
+      <p>Ist eine Aussage widerlegt, irreführend, nicht ausreichend belegbar, eine Meinung oder Vermutung oder noch nicht fertig geprüft, und sagt ein anderes geprüftes Video an seiner Stelle etwas anderes, das selbst als <strong>belegt</strong> bewertet ist, erscheint diese Gegenaussage als Hinweis mit Zeitmarke: in der Auswertung und neben dem laufenden Video.</p>
       <ul>
         <li><strong>Woher die Zuordnung kommt:</strong> nur aus bereits geprüften Verknüpfungen, nämlich einem Reaktionsvideo, das der Aussage ausdrücklich widerspricht, oder einem Eintrag der Themen-Wissensdatenbank, dem die eine Aussage entspricht und die andere widerspricht. Ähnliche Wörter allein reichen nie.</li>
-        <li><strong>Bei mehreren Gegenaussagen</strong> steht die besser bewertete vorn (belegt vor teilweise belegt), danach die aus dem Video mit der besseren Faktenampel. Die übrigen lassen sich aufklappen.</li>
-        <li><strong>Belegte und teilweise belegte Aussagen</strong> bekommen keine Gegendarstellung.</li>
+        <li><strong>Bei mehreren Gegenaussagen</strong> steht die aus dem Video mit der besseren Faktenampel vorn. Die übrigen lassen sich aufklappen.</li>
+        <li><strong>Belegte Aussagen</strong> bekommen keine Gegendarstellung. Altbewertungen dienen nicht als Beleg für eine Gegenaussage.</li>
         <li>Der Hinweis ändert keine Bewertung und fließt nicht in Statistik oder Faktenampel ein.</li>
       </ul>
     </section>
@@ -1376,7 +1385,7 @@ async function pageMethod() {
     </section>
 
     <section class="section prose-plain" id="themen"><h2>Themen und Wissensdatenbank</h2>
-      <p>Jede geprüfte Aussage kann einem oder mehreren Themen zugeordnet werden, zum Beispiel „Energie › Windkraft“. Die Zuordnung beruht auf dem Inhalt der Aussagen, nicht auf dem Videotitel. Daraus entsteht die <a href="#/themen">Themenübersicht</a>: Je Thema zeigen wir belegte Tatsachen, teilweise belegte, widerlegte oder irreführende Behauptungen und nicht ausreichend belegte Aussagen. Bewertet wird dabei nichts neu; es sind dieselben Einzelbewertungen wie auf den Videoseiten.</p>
+      <p>Jede geprüfte Aussage kann einem oder mehreren Themen zugeordnet werden, zum Beispiel „Energie › Windkraft“. Die Zuordnung beruht auf dem Inhalt der Aussagen, nicht auf dem Videotitel. Daraus entsteht die <a href="#/themen">Themenübersicht</a>: Je Thema zeigen wir belegte, widerlegte und irreführende Aussagen sowie offene Prüfungen und gekennzeichnete Altbewertungen. Bewertet wird dabei nichts neu; es sind dieselben Einzelbewertungen wie auf den Videoseiten.</p>
       <p>Ein Thema erhält eine eigene Kategorie, wenn es in mindestens zwei geprüften Videos mit jeweils mindestens zwei Aussagen behandelt wird. Eine beiläufige Erwähnung reicht nicht. Seltenere Themen bleiben über die Suche und an den Videos auffindbar. Wenn wir dieselbe Behauptung in mehreren Videos geprüft haben, steht „In n von uns geprüften Videos“ dabei; aufgeklappt zeigt die Liste neben der Bewertung der einzelnen Aussage auch die Faktenampel des ganzen Videos. Die Angabe „In n Videos“ beschreibt nur unseren Videobestand, nicht wie verbreitet eine Behauptung allgemein ist.</p>
       <p><strong>Passende Videos</strong> werden nur aus den Aussagen zum jeweiligen Thema berechnet: Mindestens drei entschiedene Tatsachenbehauptungen zum Thema, davon weniger als ein Viertel widerlegt oder irreführend. Reihenfolge nach der Zahl belegter Aussagen und verschiedener Quellen. Die Gesamtbewertung des Videos, die Person und ihre politische Haltung spielen keine Rolle. Ein Video kann deshalb zu einem Thema empfohlen werden, auch wenn andere Teile problematisch sind.</p>
       <p>Wird ein Fehler in einer früheren Prüfung bestätigt, korrigieren wir die betroffenen Aussagen gezielt und dokumentieren alte und neue Bewertung. Themenseiten, Statistiken und Ampel werden danach automatisch neu berechnet. Jede umgesetzte Korrektur steht mit Datum, Grund und Quellen im <a href="#/themen">Korrekturprotokoll</a> und auf den betroffenen Themenseiten. Betrifft eine Korrektur mehr als drei Aussagen oder das Ergebnis eines Wissenseintrags, entscheidet Jens selbst. Eine Aussage, die zu ihrem Zeitpunkt stimmte, wird nicht nachträglich als falsch markiert, nur weil sich die Lage geändert hat. Die Regeln stehen in <a href="${esc(blobUrl('docs/WISSENSDATENBANK.md'))}" rel="noopener noreferrer" target="_blank">docs/WISSENSDATENBANK.md</a>.</p>

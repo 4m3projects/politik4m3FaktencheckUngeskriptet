@@ -4,6 +4,8 @@ Diese Anweisung gilt für alle KI-Agenten (Claude, Codex, ChatGPT) in beiden Fak
 
 **Grundsatz:** Ein fehlender Suchtreffer ist kein Beweis dafür, dass es keine Belege gibt. Ziel ist nicht, möglichst viele Aussagen als richtig oder falsch einzustufen, sondern möglichst viele Aussagen zuverlässig zu überprüfen. Muss eine Bewertung offenbleiben, soll nachvollziehbar sein, warum.
 
+**Aktualisierung ab Regelstand 1.4:** Die bisherigen Fälle A und B bleiben bei neuen Prüfungen `Offen` ohne Endurteil. `Nicht ausreichend belegbar` und `Teilweise belegt` sind lediglich Altbewertungen. Für offene Aussagen nach Recherche die tatsächlich gelesenen Quellen, den offenen Punkt und die nächsten Prüfschritte in `sourceRefs`, `reason` („Offen nach Recherche:“) und `openQuestions` festhalten. Die nachstehenden Status-/Bewertungszuordnungen und Pflichtfelder zu A/B beschreiben nur Altdaten; die Pflicht zur zweiten anders angelegten Recherche bleibt.
+
 ## 1. Zweite Recherche vor jedem „nicht belegt“
 
 Findet ein Agent für eine überprüfbare Tatsachenbehauptung zunächst keine ausreichenden Belege, darf er sie **nicht nach einem einzigen erfolglosen Suchversuch** als `Nicht ausreichend belegbar` oder `Nicht überprüfbar` einordnen. Vorher muss er:
@@ -22,7 +24,7 @@ Die zusätzliche Recherche bleibt **verhältnismäßig**: In der Regel genügt e
 
 ## 2. Vier Arten offener Bewertungen (intern unterschieden)
 
-Die vier Fälle werden **intern** im optionalen Feld `research.gap` unterschieden. Auf der Webseite entstehen dadurch **keine neuen Bewertungskategorien**: Es bleibt bei den sechs Bewertungen und den vier Prüfstatus.
+Die vier Fälle werden **intern** im optionalen Feld `research.gap` unterschieden. Auf der Webseite entstehen dadurch **keine neuen Bewertungskategorien**: Die öffentliche Methode hat drei Faktenurteile; die Tabelle dokumentiert die Zuordnung historischer Datensätze.
 
 | Fall | `research.gap` | Status / Bewertung | Bedeutung |
 | --- | --- | --- | --- |

@@ -25,7 +25,7 @@ test('Kritisch sind alle Aussagen ohne tragfähiges Urteil, belegte nie', () => 
   assert.equal(C.isCritical(claim('X', null, 'In Bearbeitung')), true);
   assert.equal(C.isCritical(claim('X', null, 'Nicht überprüfbar')), true);
   assert.equal(C.isCritical(claim('X', 'Belegt')), false);
-  assert.equal(C.isCritical(claim('X', 'Teilweise belegt')), false);
+  assert.equal(C.isCritical(claim('X', 'Teilweise belegt')), true);
 });
 
 test('Gegenbehauptung aus Reaktion erscheint nur, wenn die Gegenaussage belegt ist', () => {
@@ -48,7 +48,7 @@ test('Belegte Aussagen bekommen keine Gegendarstellung', () => {
 });
 
 test('Auch eine kritische Reaktionsaussage kann vom Original korrigiert werden', () => {
-  const o = claim(ORIG + '-A0001', 'Teilweise belegt');
+  const o = claim(ORIG + '-A0001', 'Belegt');
   const r = claim(R1 + '-A0001', 'Irreführend / Kontext fehlt');
   const idx = C.buildIndex(rel([link('L0001', 'gegenbehauptung', o.id, r.id)]), []);
   assert.deepEqual(C.forClaim(r, idx, lookupFrom([o, r])).map(x => x.claimId), [o.id]);
@@ -89,7 +89,7 @@ test('Aussagen im selben Video sind keine Gegendarstellung', () => {
   assert.deepEqual(C.forClaim(a, C.buildIndex({}, [entry]), lookupFrom([a, b])), []);
 });
 
-test('Mehrere Gegendarstellungen: belegt vor teilweise, dann bessere Ampel, ohne Doppelte', () => {
+test('Mehrere Gegendarstellungen: nur belegt, dann bessere Ampel, ohne Doppelte', () => {
   const o = claim(ORIG + '-A0001', 'Widerlegt');
   const part = claim(R1 + '-A0001', 'Teilweise belegt');
   const red = claim(R2 + '-A0001', 'Belegt');
@@ -100,7 +100,7 @@ test('Mehrere Gegendarstellungen: belegt vor teilweise, dann bessere Ampel, ohne
     { id: 'R0003', reactionVideoId: R3, originalVideoId: ORIG, claimLinks: [link('L0003', 'gegenbehauptung', o.id, green.id)] }] };
   const entry = { id: 'UG-K0001', status: 'Geprüft', verdict: 'Widerlegt', links: [{ claimId: o.id, relation: 'gleichwertig' }, { claimId: green.id, relation: 'widerspricht' }] };
   const res = C.forClaim(o, C.buildIndex(relations, [entry]), lookupFrom([o, part, red, green], { [R2]: 'rot', [R3]: 'gruen', [R1]: 'gruen' }));
-  assert.deepEqual(res.map(x => x.claimId), [green.id, red.id, part.id]);
+  assert.deepEqual(res.map(x => x.claimId), [green.id, red.id]);
   assert.equal(res[0].via, 'reaktion');
 });
 

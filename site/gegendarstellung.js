@@ -11,9 +11,9 @@
  *  - Nichts wird gespeichert oder neu bewertet. Die Zuordnung ergibt sich ausschließlich aus bereits
  *    gepflegten Verknüpfungen: `gegenbehauptung` in faktenchecks/beziehungen.json und Wissenseinträge
  *    (wissen/eintraege), in denen eine Aussage dem Eintrag entspricht und die andere ihm widerspricht.
- *  - Angezeigt werden nur Gegenaussagen, die selbst abgeschlossen als „Belegt“ oder „Teilweise belegt“ bewertet sind.
- *  - Belegte und teilweise belegte Aussagen erhalten nie eine Gegendarstellung.
- *  - Bei mehreren Gegenaussagen gewinnt die besser bewertete (Belegt vor Teilweise belegt), danach das
+ *  - Angezeigt werden nur Gegenaussagen, die selbst abgeschlossen als „Belegt“ bewertet sind.
+ *  - Belegte Aussagen erhalten keine Gegendarstellung. Alte Teilurteile dienen nicht als Belege.
+ *  - Bei mehreren Gegenaussagen gewinnt das
  *    Video mit der besseren Faktenampel (berechnet nur in site/faktenindex.js und hier nur übergeben).
  */
 (function (root, factory) {
@@ -24,13 +24,13 @@
   'use strict';
 
   /* Diese Urteile gelten als tragfähig; solche Aussagen bekommen keine Gegendarstellung. */
-  const SUPPORTED = ['Belegt', 'Teilweise belegt'];
+  const SUPPORTED = ['Belegt'];
   /* Rangfolge der Gegenaussage und der Faktenampel ihres Videos (kleiner = besser). */
-  const VERDICT_RANK = { 'Belegt': 0, 'Teilweise belegt': 1 };
+  const VERDICT_RANK = { 'Belegt': 0 };
   const AMPEL_RANK = { gruen: 0, gelb: 1, nicht_bewertbar: 2, vorlaeufig: 3, rot: 4 };
   /* Haltung einer Aussage zu einem Wissenseintrag: +1 behauptet ihn, -1 widerspricht ihm, sonst keine. */
   const STANCE = { gleichwertig: 1, teilaspekt: 1, widerspricht: -1 };
-  const POLARITY = { 'Belegt': 1, 'Teilweise belegt': 1, 'Irreführend / Kontext fehlt': -1, 'Widerlegt': -1 };
+  const POLARITY = { 'Belegt': 1, 'Irreführend / Kontext fehlt': -1, 'Widerlegt': -1 };
 
   const videoOf = claimId => String(claimId || '').slice(0, 11);
 
@@ -40,7 +40,7 @@
     return !!claim && !(claim.status === 'Abgeschlossen' && SUPPORTED.includes(claim.verdict));
   }
 
-  /* Taugt eine Aussage als Gegendarstellung? Nur abgeschlossen belegt oder teilweise belegt. */
+  /* Taugt eine Aussage als Gegendarstellung? Nur als belegt abgeschlossen. */
   function isSupported(claim) {
     return !!claim && claim.status === 'Abgeschlossen' && SUPPORTED.includes(claim.verdict);
   }

@@ -29,8 +29,8 @@
 
   /* Zentrale Konfiguration. Schwellen und Mindestabdeckung gelten für alle Seiten gleich. */
   const CONFIG = deepFreeze({
-    version: '1.3',
-    since: '2026-11-20',
+    version: '1.4',
+    since: '2026-11-26',
     refutedFactor: 5,                  // widerlegter Anteil zählt fünffach (bis 20.11.2026: 10)
     decimals: 3,                       // Anzeige und Ampelvergleich auf drei Nachkommastellen
     thresholds: { green: 0.8, yellow: 0.4 },   // Grün ab 0,800; Gelb ab 0,400; darunter Rot
@@ -44,13 +44,13 @@
     /* Abbildung der bestehenden Bewertungskategorien auf belegt (p), widerlegt (f), ungeklärt (u). */
     shares: {
       'Belegt': { p: 1, f: 0, u: 0 },
-      'Teilweise belegt': { p: 0.75, f: 0, u: 0.25 },
       'Irreführend / Kontext fehlt': { p: 0.75, f: 0.25, u: 0 },
-      'Widerlegt': { p: 0, f: 1, u: 0 },
-      'Nicht ausreichend belegbar': { p: 0, f: 0, u: 1 }
+      'Widerlegt': { p: 0, f: 1, u: 0 }
     },
     /* Nur bei Mischkategorien dürfen begründete eigene Anteile die Standardabbildung ersetzen. */
-    adjustableShares: ['Teilweise belegt', 'Irreführend / Kontext fehlt'],
+    legacyVerdicts: ['Teilweise belegt', 'Nicht ausreichend belegbar'],
+    adjustableShares: ['Irreführend / Kontext fehlt'],
+    historicalAdjustableShares: ['Teilweise belegt'],
     shareStep: 0.05,
     /* Bedeutungsfaktor R: Standard 1,0; Abweichungen nur mit Begründung; Zwischenwerte in Viertelschritten. */
     weight: { default: 1, min: 0.5, max: 3, step: 0.25 },
@@ -87,7 +87,7 @@
   /* Klassen je Aussage: in den Index (indexed), nur in die Prüfabdeckung (pending) oder gar nicht (excluded). */
   const CLASSES = deepFreeze({
     belastbar: { label: 'Geprüft, belastbares Ergebnis', indexed: true, coverage: 'done' },
-    ungeklaert: { label: 'Geprüft, Ergebnis ungeklärt', indexed: true, coverage: 'done' },
+    nachpruefung: { label: 'Frühere Bewertung · Nachprüfung offen', indexed: false, coverage: 'pending' },
     ungeprueft: { label: 'Noch nicht geprüft', indexed: false, coverage: 'pending' },
     in_pruefung: { label: 'Prüfung begonnen', indexed: false, coverage: 'pending' },
     nicht_pruefbar: { label: 'Nicht überprüfbar', indexed: false, coverage: null },
@@ -138,8 +138,9 @@
     if (fi(c)?.duplicateOf) return 'duplikat';
     if (c.status === 'Nicht überprüfbar') return 'nicht_pruefbar';
     if (c.status === 'In Bearbeitung') return 'in_pruefung';
-    if (c.status !== 'Abgeschlossen' || !CONFIG.shares[c.verdict]) return 'ungeprueft';
-    return c.verdict === 'Nicht ausreichend belegbar' ? 'ungeklaert' : 'belastbar';
+    if (c.status === 'Abgeschlossen' && CONFIG.legacyVerdicts.includes(c.verdict)) return 'nachpruefung';
+    if (c.status !== 'Abgeschlossen' || !Object.hasOwn(CONFIG.shares, c.verdict)) return 'ungeprueft';
+    return 'belastbar';
   }
 
   /* Anteile p/f/u einer Aussage; eigene Anteile nur bei Mischkategorien (sonst Standardabbildung). */
@@ -177,8 +178,8 @@
     const clamp = x => Math.min(1, Math.max(0, x));
     const index = den > 0 ? clamp(num / den) : null;
     const unweighted = den1 > 0 ? clamp(num1 / den1) : null;
-    const done = counts.belastbar + counts.ungeklaert;
-    const pending = counts.ungeprueft + counts.in_pruefung + counts.zuordnung_offen;
+    const done = counts.belastbar;
+    const pending = counts.ungeprueft + counts.in_pruefung + counts.zuordnung_offen + counts.nachpruefung;
     const coverage = done + pending > 0 ? done / (done + pending) : null;
     /* Erfasste Tatsachenbehauptungen (für die Erfassungsdichte je Stunde): auch nicht überprüfbare, ohne Zitate. */
     const facts = done + pending - counts.zuordnung_offen + counts.nicht_pruefbar;
@@ -227,7 +228,7 @@
     const out = (key, reason) => ({ ...base, key, ...LEVELS[key], reason, reliable: key === 'gruen' || key === 'gelb' || key === 'rot' });
     const finished = video?.workStatus === 'Abgeschlossen';
     const waiting = r.pending > 0 && !finished;
-    const rest = finished && r.pending ? ` Die Analyse ist abgeschlossen; ${r.pending} Aussagen bleiben als noch nicht geprüft vermerkt.` : '';
+    const rest = finished && r.pending ? ` Die Analyse ist abgeschlossen; ${r.pending} Aussagen warten auf eine Prüfung oder Nachprüfung.` : '';
 
     if (!claims) return out('nicht_bewertbar', 'Für dieses Video liegen keine strukturierten Prüfdaten vor.');
     if (video?.workStatus === 'In Bearbeitung') return out('vorlaeufig', `Die Analyse läuft noch; ${r.done} von ${r.done + r.pending} relevanten Tatsachenbehauptungen sind geprüft.`);
@@ -295,7 +296,7 @@
     }
     if ('shares' in x) {
       const s = x.shares;
-      if (!CONFIG.adjustableShares.includes(c.verdict)) e.push(`${at}.shares nur bei ${CONFIG.adjustableShares.join(' oder ')}.`);
+      if (![...CONFIG.adjustableShares, ...CONFIG.historicalAdjustableShares].includes(c.verdict)) e.push(`${at}.shares nur bei ${CONFIG.adjustableShares.join(' oder ')}.`);
       else if (!s || !['p', 'f', 'u'].every(k => isNum(s[k]) && s[k] >= 0 && s[k] <= 1 && onStep(s[k], CONFIG.shareStep)) || Object.keys(s).length !== 3) e.push(`${at}.shares braucht p, f und u zwischen 0 und 1 in Schritten von ${CONFIG.shareStep}.`);
       else {
         if (Math.abs(s.p + s.f + s.u - 1) > 1e-9) e.push(`${at}.shares: p + f + u muss 1 ergeben.`);

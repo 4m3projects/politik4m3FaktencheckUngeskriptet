@@ -85,7 +85,7 @@ function fiDetails(v, r = fiRate(v)) {
   const cnt = r.counts;
   const cov = `<ul class="fi-list">
       <li>Geprüft mit belastbarem Ergebnis: <b>${cnt.belastbar}</b></li>
-      <li>Geprüft, Ergebnis ungeklärt (nicht ausreichend belegbar): <b>${cnt.ungeklaert}</b></li>
+      ${cnt.nachpruefung ? `<li>Frühere Bewertung, Nachprüfung offen (nicht im Index): <b>${cnt.nachpruefung}</b></li>` : ''}
       <li>Prüfung begonnen: <b>${cnt.in_pruefung}</b></li>
       <li>Noch nicht geprüft: <b>${cnt.ungeprueft}</b></li>
       ${cnt.zuordnung_offen ? `<li>Zitat, Haltung des Videos noch ungeklärt: <b>${cnt.zuordnung_offen}</b></li>` : ''}
@@ -185,6 +185,7 @@ function fiClaimBlock(c, v) {
     zuordnung_offen: 'Die Aussage stammt von einer anderen Person; ob das Video sie sich zu eigen macht, ist noch nicht geklärt. Bis dahin zählt sie nicht im Index und senkt die Prüfabdeckung.',
     duplikat: `Wiederholung von ${x.duplicateOf ? String(x.duplicateOf).replace(v.id + '-', '') : 'einer anderen Aussage'}; sie wird nur dort einmal gezählt.`,
     nicht_pruefbar: 'Für diese Aussage gibt es keine öffentliche Prüfgrundlage. Sie zählt weder für noch gegen den Index und nicht zur Prüfabdeckung.',
+    nachpruefung: 'Die Altbewertung bleibt sichtbar, zählt aber bis zur Einzelprüfung nicht im Index.',
     ungeprueft: 'Noch nicht geprüft: Die Aussage zählt nicht im Index (weder als widerlegt noch als ungeklärt), senkt aber die Prüfabdeckung, bis sie geprüft ist.',
     in_pruefung: 'Prüfung begonnen: Die Aussage zählt erst nach Abschluss im Index und senkt bis dahin die Prüfabdeckung.'
   }[cls];
@@ -238,7 +239,8 @@ function fiMethod(demo) {
       <p>Für jede Aussage: p = belegter, f = widerlegter, u = ungeklärter Anteil (p + f + u = 1), R = Bedeutungsfaktor. Eine widerlegte Aussage wiegt ${C.refutedFactor}-mal so schwer wie eine belegte. Beispiele mit Faktor 1: 10 belegt, 0 widerlegt → ${ex(10, 0)}; 10 belegt, 1 widerlegt → ${ex(10, 1)}; 20 belegt, 1 widerlegt → ${ex(20, 1)}; 100 belegt, 1 widerlegt → ${ex(100, 1)}; 0 belegt, 10 widerlegt → ${ex(0, 10)}. Sobald eine Widerlegung vorliegt, erreicht der Index nie genau 1.</p>
       <div class="fi-table-wrap"><table class="fi-table"><caption>So gehen die Bewertungen ein</caption><thead><tr><th scope="col">Bewertung</th><th scope="col">belegt p</th><th scope="col">widerlegt f</th><th scope="col">ungeklärt u</th></tr></thead><tbody>${map}</tbody></table></div>
       <ul>
-        <li><strong>Teilweise belegt</strong> und <strong>Irreführend / Kontext fehlt</strong> sind Mischfälle. Wenn die Prüfung genauer zeigt, welcher Teil belegt, widerlegt oder offen ist, dürfen die Prüfer andere Anteile setzen – nur mit Begründung, die bei der Aussage steht.</li>
+        <li><strong>Irreführend / Kontext fehlt</strong> hat einen eigenen Indexbeitrag. Seine Anteile bewerten die Wirkung des fehlenden Kontexts, nicht falsche Einzelbehauptungen. Eine nachweislich falsche Teilbehauptung wird einzeln als „Widerlegt“ erfasst.</li>
+        <li><strong>Frühere Bewertungen:</strong> „Teilweise belegt“ und „Nicht ausreichend belegbar“ bleiben sichtbar, zählen bis zur Einzelprüfung aber nicht im Index und gelten in der Prüfabdeckung als ausstehend.</li>
         <li><strong>Gar nicht</strong> in den Index gehen ein: Meinungen, Prognosen, Werturteile und Satire; noch nicht geprüfte und laufende Prüfungen (ungeprüft ist weder falsch noch ungeklärt); nicht überprüfbare Aussagen ohne öffentliche Prüfgrundlage; Aussagen, die das Video nur erwähnt oder zurückweist; Wiederholungen derselben Aussage (jede Aussage zählt einmal, egal wie oft sie fällt).</li>
         <li id="zitate"><strong>Wer sagt es?</strong> Gemessen wird das Video, nicht jede Person, die darin vorkommt. Zeigt ein Video einen Ausschnitt, liest ein Zitat vor oder blendet einen Beitrag ein, steht bei der Aussage „Zitat: Person“. Eine falsche Aussage einer zitierten Person zählt nur dann gegen das Video, wenn es sie sich zu eigen macht (etwa als Beleg für die eigene Argumentation). Gibt das Video sie nur wieder oder widerspricht es ihr, wird sie dem Video nicht angerechnet. Aussagen von Gästen in Gesprächen zählen wie Aussagen des Videos, außer das Video widerspricht ihnen deutlich. Der Faktenstatus der Aussage selbst bleibt sichtbar.</li>
         <li>Gibt es keine bewertbare Tatsachenbehauptung, steht „Nicht bewertbar“ statt einer Zahl.</li>
@@ -248,7 +250,7 @@ function fiMethod(demo) {
       <ul class="fi-list">${scale}</ul>
       <p>Maßstab ist allein, wie zentral die Aussage für die Hauptthese und Argumentation des Videos ist, welche Folgen eine falsche Darstellung hätte, ob sie besonders hervorgehoben wird und ob sie eigenständig ist. <strong>Nicht</strong> maßgeblich ist, ob sie stimmt: Eine zentrale belegte Aussage bekommt denselben Faktor wie eine zentrale widerlegte; die Bedeutung soll möglichst vor dem Faktenurteil eingeschätzt werden. Jeder Faktor ungleich 1,0 hat eine öffentliche Begründung und wird von einem anderen KI-Prüfer kontrolliert; ohne begründeten Konsens bleibt er „vorläufig“ oder „strittig“. Ein höherer Faktor ändert nie das Faktenurteil selbst. Zum Vergleich zeigt jede Videoseite aufgeklappt auch den Index ohne Bedeutungsfaktoren und die Differenz.</p>
       <h3>Prüfabdeckung</h3>
-      <p>Die Prüfabdeckung zeigt getrennt vom Index, welcher Anteil der relevanten Tatsachenbehauptungen schon fertig geprüft ist (belastbares oder ungeklärtes Ergebnis) – gemessen an allen, die geprüft, gerade in Prüfung oder noch nicht geprüft sind. Eine hohe Prüfabdeckung heißt nicht, dass viel belegt ist; ein Index bei geringer Abdeckung ist nur vorläufig.</p>
+      <p>Die Prüfabdeckung zeigt getrennt vom Index, welcher Anteil der relevanten Tatsachenbehauptungen bereits eines der drei Faktenurteile erhalten hat – gemessen an allen, die geprüft, gerade in Prüfung oder noch nicht geprüft sind. Eine hohe Prüfabdeckung heißt nicht, dass viel belegt ist; ein Index bei geringer Abdeckung ist nur vorläufig.</p>
       <h3>Ampel</h3>
       <p>Die Ampel ergibt sich ausschließlich aus dem Index und der Bewertbarkeit. Niemand kann sie von Hand oder per KI anders setzen.</p>
       <ul class="verdict-list">
