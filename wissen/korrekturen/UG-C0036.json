@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0036",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0070",
+    "entryId": null,
+    "description": "Aufnahme und Markieren per Tastendruck sind dokumentierte Funktionen. Transkriptionsdauer wird hier nicht mitbewertet."
+  },
+  "evidence": [
+    {
+      "title": "Plaud: Europäische Produktseite für Plaud Note Pro",
+      "url": "https://eu.plaud.ai/pages/plaud-note-pro",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Anleitung beschreibt Aufnahme und Markierung wichtiger Passagen als getrennte Funktionen."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://yoututranscript.com/transcript/mlxFA9T88I0",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:09:58, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0070",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "mlxFA9T88I0-A0070",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "mlxFA9T88I0-A0070",
+      "field": "reason",
+      "before": "Die Produktdarstellung beschreibt Aufnahmen und Highlights. Das stützt die angebotenen Funktionen als Herstellerangabe, ohne Bedienzuverlässigkeit oder Tonqualität unabhängig zu bestätigen.",
+      "after": "Der Werbeblock beschreibt zwei getrennte Gerätefunktionen: Aufnahmen und das Markieren wichtiger Stellen per Tastendruck. Die europäische Produktdokumentation nennt beide. Das belegt das vom Hersteller angebotene Funktionsprinzip, nicht die Qualität jeder Aufnahme oder eine sofortige Fertigstellung der Transkription; der letzte Punkt ist separat in A0071 erfasst."
+    },
+    {
+      "target": "mlxFA9T88I0-A0070",
+      "field": "shortReason",
+      "before": "Aufnahme und Markierungen sind laut Hersteller möglich; unabhängig getestet ist das nicht.",
+      "after": "Aufnahme und Markieren per Tastendruck sind dokumentierte Funktionen. Transkriptionsdauer wird hier nicht mitbewertet."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0032",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0007",
+    "entryId": null,
+    "description": "Das reale BIP je Arbeitsstunde nahm 2017–2025 um rund 2,9 Prozent zu. Schwaches Wachstum ist nicht dasselbe wie kein Zuwachs."
+  },
+  "evidence": [
+    {
+      "title": "Deutsche Bundesbank: Lange Zeitreihen zur Wirtschaftsentwicklung",
+      "url": "https://www.bundesbank.de/resource/blob/991620/de577e40ef9042c741ee3734fb902eb3/472B63F073F071307366337C94F8C870/2026-03-17-11-04-56-lange-zeitreihen-data.pdf#page=33",
+      "accessedOn": "2026-11-26",
+      "finding": "98,1 im Jahr 2017; 101,9 im Jahr 2022; 100,9 im Jahr 2025; der Vergleich ergibt rund +2,9 Prozent."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://yoututranscript.com/transcript/mlxFA9T88I0",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 2:03:05, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0007",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "mlxFA9T88I0-A0007",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "mlxFA9T88I0-A0007",
+      "field": "description",
+      "before": "Die deutsche Arbeitsproduktivität habe ab etwa 2017 stagniert.",
+      "after": "Seit etwa 2017 sei die deutsche Produktivität flach geblieben; es sei nicht mehr je Arbeitsstunde erzeugt worden."
+    },
+    {
+      "target": "mlxFA9T88I0-A0007",
+      "field": "reason",
+      "before": "Die Arbeitsproduktivität je Stunde und je Erwerbstätigem stagniert seit einigen Jahren; Destatis weist 2022 +0,3, 2023 −1,2, 2024 −0,3 und 2025 +0,4 Prozent je Stunde aus. Den Beginn der Stagnation um 2017 belegen die gelesenen Quellen nicht ausdrücklich.",
+      "after": "Lüning beschreibt ab 2017 eine flache Entwicklung und sagt anschließend, Deutschland habe nicht mehr pro Arbeitsstunde erzeugen können. Die Ausgabe März 2026 der Bundesbank zeigt schwaches, aber über den Zeitraum positives Wachstum: Der Index des realen BIP je Arbeitsstunde lag 2017 bei 98,1, 2022 bei 101,9 und 2025 bei 100,9 (2020 = 100). Von 2017 bis 2025 sind das rund 2,9 Prozent Zuwachs. Die Aussage zur schwachen Dynamik hat einen Kern; die konkrete Folgerung, es sei gar nicht mehr je Stunde produziert worden, geht zu weit. Die getrennte Erklärung zu Maschineninvestitionen wird hier nicht bewertet."
+    },
+    {
+      "target": "mlxFA9T88I0-A0007",
+      "field": "shortReason",
+      "before": "Die Produktivität stagniert seit einigen Jahren; einen Beginn um 2017 belegen die Quellen nicht.",
+      "after": "Das reale BIP je Arbeitsstunde nahm 2017–2025 um rund 2,9 Prozent zu. Schwaches Wachstum ist nicht dasselbe wie kein Zuwachs."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

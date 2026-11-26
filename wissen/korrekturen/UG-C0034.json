@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0034",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0039",
+    "entryId": null,
+    "description": "Bei Community-Strikes zählt das gemeinsame 90-Tage-Fenster. Der persönliche Sperrfall und Copyright folgen nicht automatisch daraus."
+  },
+  "evidence": [
+    {
+      "title": "Community Guidelines strike basics on YouTube",
+      "url": "https://support.google.com/youtube/answer/2802032?hl=en",
+      "accessedOn": "2026-11-26",
+      "finding": "Drei Community-Strikes innerhalb desselben 90-Tage-Zeitraums können zur Kanalbeendigung führen."
+    },
+    {
+      "title": "YouTube: Reform des Strike-Systems 2019",
+      "url": "https://blog.youtube/intl/de-de/news-and-events/system-fur-verwarnungen-wird-einfacher/",
+      "accessedOn": "2026-11-26",
+      "finding": "Auch die frühere bestimmtere Darstellung knüpfte die Regel an ein gemeinsames 90-Tage-Fenster."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://yoututranscript.com/transcript/mlxFA9T88I0",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:11:59, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0039",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "mlxFA9T88I0-A0039",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "mlxFA9T88I0-A0039",
+      "field": "description",
+      "before": "Nach drei Community-Strikes könne ein YouTube-Kanal beendet werden.",
+      "after": "Beim dritten Community-Strike werde ein YouTube-Kanal beendet; ein gemeinsames 90-Tage-Fenster nennt die Darstellung nicht ausdrücklich."
+    },
+    {
+      "target": "mlxFA9T88I0-A0039",
+      "field": "reason",
+      "before": "Die heutige Hilfeseite bestätigt den Regelkern: Drei Strikes innerhalb von 90 Tagen können zur Kanalbeendigung führen. Das Gespräch erläutert drei Verstöße und zeitliche Abstände, nennt aber kein eindeutiges 90-Tage-Fenster und verkürzt die Eskalation. Warnungen, Ausnahmen und weitere Beendigungsgründe fehlen. Deshalb teilweise belegt, keine nachträglich als Originalbehauptung ausgegebene präzise Vollregel. Der persönliche Sperrfall bleibt davon unabhängig offen. Das Copyright-Beispiel des Moderators ist eine Rückfrage und keine Behauptung gleicher Verfahren.",
+      "after": "Der Gast erklärt das Verfahren an mehreren Stellen als automatisches Ausscheiden beim dritten Strike und nennt für die allgemeine Regel kein eindeutiges Zeitfenster. Die aktuelle offizielle YouTube-Hilfe spricht von einer möglichen Beendigung bei drei aktiven Community-Strikes innerhalb desselben 90-Tage-Zeitraums. Auch der historische YouTube-Regeltext von 2019, der die Beendigung bestimmter formulierte, begrenzte die Drei-Strike-Regel auf 90 Tage. Damit bleibt der Regelkern zutreffend, seine zeitliche Reichweite ist in der pauschalen Darstellung aber unvollständig. Lünings konkreter persönlicher Fall und Copyright-Strikes werden nicht aus diesen Angaben abgeleitet."
+    },
+    {
+      "target": "mlxFA9T88I0-A0039",
+      "field": "shortReason",
+      "before": "Drei Strikes innerhalb von 90 Tagen können zur Kanalbeendigung führen; Zeitfenster, Warnungen und Ausnahmen fehlen.",
+      "after": "Bei Community-Strikes zählt das gemeinsame 90-Tage-Fenster. Der persönliche Sperrfall und Copyright folgen nicht automatisch daraus."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

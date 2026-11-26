@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0039",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0074",
+    "entryId": null,
+    "description": "Drei Millionen sind eine weltweite Angabe zur Marke Plaud, keine veröffentlichte Nutzerzahl nur für das Note Pro."
+  },
+  "evidence": [
+    {
+      "title": "Plaud: Mitteilung zur Markteinführung in Vietnam",
+      "url": "https://sea.plaud.ai/blogs/news/plaud-officially-launches-in-vietnam-as-users-nearly-triple-year-on-year",
+      "accessedOn": "2026-11-26",
+      "finding": "Der Hersteller bezieht die Zahl auf Plaud insgesamt und nennt beide Gerätemodelle separat."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://yoututranscript.com/transcript/mlxFA9T88I0",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:10:39, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0074",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "mlxFA9T88I0-A0074",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "mlxFA9T88I0-A0074",
+      "field": "description",
+      "before": "Plaud wird von mehr als drei Millionen Menschen genutzt.",
+      "after": "Mehr als drei Millionen Menschen nutzten das im Werbeblock gezeigte Plaud Note Pro."
+    },
+    {
+      "target": "mlxFA9T88I0-A0074",
+      "field": "reason",
+      "before": "Die Zahl findet sich auf der Herstellerseite als Angabe über berufliche Nutzer. Eine unabhängige Zählung, Stichtagsdefinition oder Abgrenzung aktiver Nutzer fehlt. Deshalb nur als unternehmenseigene Größenangabe teilweise belegt.",
+      "after": "Der Werbeblock bezieht mehr als drei Millionen Nutzer mit der unmittelbar auf das Plaud Note Pro bezogenen Formulierung auf das gezeigte Gerät. Plauds Hersteller-Mitteilung nennt die drei Millionen dagegen für die weltweite Marke, bei einer Ankündigung über mehrere Geräte. Die Mitteilung nennt keine Zahl für das Note Pro allein und lässt die Definition aktiver Nutzer offen. Damit ist der Unterschied zwischen Markenreichweite und Zahl der Nutzer eines einzelnen Geräts wesentlich."
+    },
+    {
+      "target": "mlxFA9T88I0-A0074",
+      "field": "shortReason",
+      "before": "Die Zahl ist eine Herstellerangabe ohne unabhängige Zählung.",
+      "after": "Drei Millionen sind eine weltweite Angabe zur Marke Plaud, keine veröffentlichte Nutzerzahl nur für das Note Pro."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

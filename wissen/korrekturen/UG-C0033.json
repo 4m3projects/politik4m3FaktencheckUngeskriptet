@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0033",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0020",
+    "entryId": null,
+    "description": "Der Originalupload ist vom 21. November 2007; Whisky.de führt ihn als Lünings erstes Verkostungsvideo."
+  },
+  "evidence": [
+    {
+      "title": "Whisky.de: Originalupload zur Verkostung von Lagavulin 16",
+      "url": "https://www.youtube.com/watch?v=6u-UjswzDcU",
+      "accessedOn": "2026-11-26",
+      "finding": "Das öffentlich verfügbare Original ist auf 21.11.2007 datiert."
+    },
+    {
+      "title": "Whisky.de: Zehn Jahre YouTube-Videos mit Horst Lüning",
+      "url": "https://www.whisky.de/whisky/aktuelles/nachrichten-details/article/10-jahre-youtube-videos-mit-horst-luening?type=1460111689",
+      "accessedOn": "2026-11-26",
+      "finding": "Der Herausgeber bezeichnet diesen Upload als den ersten und nennt spätere Neufassungen."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://yoututranscript.com/transcript/mlxFA9T88I0",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:02:22, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0020",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "mlxFA9T88I0-A0020",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "mlxFA9T88I0-A0020",
+      "field": "reason",
+      "before": "Die Firmenchronik nennt ebenfalls 2007. Das stützt die Erinnerung durch eine weitere unternehmenseigene Veröffentlichung; Originalupload und unabhängige Datierung sind nicht geprüft. Deshalb nur teilweise belegt.",
+      "after": "Lüning datiert sein erstes selbst hochgeladenes Verkostungsvideo auf 2007. Der noch verfügbare Lagavulin-16-Upload auf Whisky.de ist auf den 21. November 2007 datiert. Whisky.de bezeichnet ihn zusätzlich ausdrücklich als seinen ersten Upload und grenzt später veröffentlichte Neufassungen davon ab. Die Zuschauerzahl im Gespräch wird hier nicht bewertet."
+    },
+    {
+      "target": "mlxFA9T88I0-A0020",
+      "field": "shortReason",
+      "before": "Die Firmenchronik nennt ebenfalls 2007; Originalupload und unabhängige Datierung sind nicht geprüft.",
+      "after": "Der Originalupload ist vom 21. November 2007; Whisky.de führt ihn als Lünings erstes Verkostungsvideo."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

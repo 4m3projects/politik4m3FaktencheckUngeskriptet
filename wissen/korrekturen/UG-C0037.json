@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0037",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0072",
+    "entryId": null,
+    "description": "Plaud dokumentierte rund 112 Sprachen zum Veröffentlichungszeitpunkt; das sagt nichts über gleiche Qualität oder alle Sprachmischungen aus."
+  },
+  "evidence": [
+    {
+      "title": "Plaud: Mitteilung zur Markteinführung in Vietnam",
+      "url": "https://sea.plaud.ai/blogs/news/plaud-officially-launches-in-vietnam-as-users-nearly-triple-year-on-year",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Mitteilung vor der Videoveröffentlichung nennt mehr als 112 unterstützte Sprachen."
+    },
+    {
+      "title": "Plaud: Offizielle Hilfe zu unterstützten Transkriptionssprachen",
+      "url": "https://support.plaud.ai/hc/en-us/articles/53422487420953-How-many-languages-does-Plaud-support-for-transcription",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Hilfeseite differenziert die unterstützten Sprachmodi."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://yoututranscript.com/transcript/mlxFA9T88I0",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:10:43, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0072",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "mlxFA9T88I0-A0072",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "mlxFA9T88I0-A0072",
+      "field": "reason",
+      "before": "Die gelesene Produktübersicht nennt mindestens diesen Sprachumfang. Belegt ist das Angebot nach Herstellerangabe; weder gleiche Genauigkeit für alle Sprachen noch ein unabhängiger Funktionsnachweis.",
+      "after": "Die Produktwerbung nennt 112 Sprachen. Plaud dokumentierte zum Zeitpunkt der Veröffentlichung der Folge einen Umfang von mehr als 112 bei der Transkription, unter anderem in seiner Mitteilung vom 3. November 2026. Die Hilfeseite unterscheidet den Umfang für einsprachige Aufnahmen von mehrsprachiger Erkennung. Geprüft ist die Angebotsangabe zur Veröffentlichung, nicht der frühere Aufnahmetag, gleichbleibende Genauigkeit oder jede Mischung aus mehreren Sprachen."
+    },
+    {
+      "target": "mlxFA9T88I0-A0072",
+      "field": "shortReason",
+      "before": "Die Herstellerseite nennt diesen Sprachumfang; gleiche Genauigkeit in allen Sprachen ist nicht belegt.",
+      "after": "Plaud dokumentierte rund 112 Sprachen zum Veröffentlichungszeitpunkt; das sagt nichts über gleiche Qualität oder alle Sprachmischungen aus."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0035",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0052",
+    "entryId": null,
+    "description": "Belegt ist die Abschaltung des Twitter-Betriebs in Sacramento um den Jahreswechsel 2022/23, nicht die Schließung des Standorts für andere."
+  },
+  "evidence": [
+    {
+      "title": "On Musk: Walter Isaacson über Sacramento",
+      "url": "https://podcasts.happyscribe.com/on-musk-with-walter-isaacson/episode-two-demons",
+      "accessedOn": "2026-11-26",
+      "finding": "Der recherchierende Biograf beschreibt Räumungsanordnung und Verlagerung."
+    },
+    {
+      "title": "BBC-Interview mit Elon Musk, Transkript",
+      "url": "https://www.rev.com/transcripts/elon-musk-interview-with-the-bbc-4-11-23-transcript",
+      "accessedOn": "2026-11-26",
+      "finding": "Musk beschreibt die Reduktion der Rechenzentren von drei auf zwei."
+    },
+    {
+      "title": "The New York Times: Bericht zu Twitters Sacramento-Standort",
+      "url": "https://indianexpress.com/article/technology/tech-news-technology/whats-gone-at-twitter-data-center-janitors-toilet-paper-8354710/",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Veröffentlichung dokumentiert die Abwicklung des dortigen Twitter-Betriebs und Betriebsprobleme."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://yoututranscript.com/transcript/mlxFA9T88I0",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:27:19, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0052",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "mlxFA9T88I0-A0052",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "mlxFA9T88I0-A0052",
+      "field": "description",
+      "before": "Musk ließ ein Twitter-Rechenzentrum schließen.",
+      "after": "Musk veranlasste um den Jahreswechsel 2022/23 die Abschaltung des Twitter-Betriebs im Rechenzentrum Sacramento."
+    },
+    {
+      "target": "mlxFA9T88I0-A0052",
+      "field": "reason",
+      "before": "Der recherchierende Biograf Walter Isaacson beschreibt in einer vom Veranstalter veröffentlichten Gesprächsfassung die Auflösung des Serverstandorts Sacramento und eine eigenmächtige Serververlagerung Ende 2022. Das stützt den Ereigniskern als recherchierten Autorenbericht. Vollständiger betrieblicher Abschluss, Ausmaß und störungsfreier Ersatz sind dadurch nicht belegt; die Darstellung nennt vielmehr anschließende Betriebsprobleme. Die technische Erfolgserzählung und Wachstum bleiben getrennte offene Prüfungen.",
+      "after": "Walter Isaacson beschreibt aus eigener Recherche, wie Musk Ende 2022 die rasche Räumung der Twitter-Technik in Sacramento anordnete. Ein zeitnaher Bericht über den Standort und interne Unternehmensunterlagen bestätigt die Abschaltung des dortigen Twitter-Betriebs um den Jahreswechsel 2022/23. Musk selbst bestätigte später, Twitter arbeite mit zwei statt drei Rechenzentren. Geprüft ist die Beendigung dieses Betriebs, nicht die Schließung des physischen Gebäudes für andere Mieter oder die Behauptung, die Umstellung sei störungsfrei oder allein dank Automatisierung gelungen."
+    },
+    {
+      "target": "mlxFA9T88I0-A0052",
+      "field": "shortReason",
+      "before": "Der Biograf Isaacson beschreibt die Auflösung eines Serverstandorts Ende 2022; Ausmaß und reibungsloser Ersatz sind nicht belegt.",
+      "after": "Belegt ist die Abschaltung des Twitter-Betriebs in Sacramento um den Jahreswechsel 2022/23, nicht die Schließung des Standorts für andere."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

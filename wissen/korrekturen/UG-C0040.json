@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0040",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0082",
+    "entryId": null,
+    "description": "Die öffentlich belegte Zahl aus 2020 reicht nicht für den im Gespräch zeitlich nicht eingegrenzten aktuellen Umsatz."
+  },
+  "evidence": [
+    {
+      "title": "Was ein paar Kisten Whisky bewirken können",
+      "url": "https://www.seeshaupt.de/fileadmin/Gemeinde_Seeshaupt/Dateien/Seeshaupter_Dorfleben/DORFleben_Ausgabe_04-21.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Historische Zahl für 2020, keine Aussage zum Geschäftsjahr der Videoaufnahme."
+    },
+    {
+      "title": "Whisky.de GmbH & Co. KG: offengelegter Abschluss 2024",
+      "url": "https://www.validatis.de/unternehmen/whisky-de-gmbh-und-co-kg-c48e1a24-be39-40d0-a21f-20817112db8b/",
+      "accessedOn": "2026-11-26",
+      "finding": "In den gelesenen Unterlagen fehlt ein Umsatznachweis; Bilanzsumme nicht umgedeutet."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://yoututranscript.com/transcript/mlxFA9T88I0",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:40:42, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0082",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "mlxFA9T88I0-A0082",
+      "field": "status",
+      "before": "Abgeschlossen",
+      "after": "In Bearbeitung"
+    },
+    {
+      "target": "mlxFA9T88I0-A0082",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": null
+    },
+    {
+      "target": "mlxFA9T88I0-A0082",
+      "field": "reason",
+      "before": "Das Lokalporträt nennt für 2020 einen Umsatz von 32 Millionen Euro. Das passt zur Größenordnung, belegt aber ohne aktuellen geprüften Abschluss weder das Geschäftsjahr der Aufnahme noch dauerhaft gültige Grenzen.",
+      "after": "Im Gespräch wird der Jahresumsatz ohne genanntes Geschäftsjahr zwischen über 10 Millionen Euro und unter 50 Millionen Euro eingeordnet. Das Lokalporträt berichtet 32 Millionen Euro für 2020. Die öffentlich wiedergegebenen 2024er Abschlussunterlagen enthalten jedoch keine belastbare aktuelle Umsatzzahl; eine Bilanzsumme ist kein Umsatz. Die historische Zahl macht die Größenordnung denkbar, genügt aber nicht zur Bewertung der konkreten aktuellen Selbstauskunft."
+    },
+    {
+      "target": "mlxFA9T88I0-A0082",
+      "field": "shortReason",
+      "before": "Ein Lokalporträt nennt 32 Mio. Euro Umsatz für 2020; ein aktueller geprüfter Abschluss fehlt.",
+      "after": null
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}
