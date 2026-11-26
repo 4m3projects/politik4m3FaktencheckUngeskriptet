@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0009",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "QxMuH1bjMwo-A0005",
+    "entryId": null,
+    "description": "Die erste Kölner Polizeimeldung sprach von überwiegend friedlichen Feiern, nannte aber Straftaten. Sexualdelikte am Hauptbahnhof fehlten."
+  },
+  "evidence": [
+    {
+      "title": "Landtag Nordrhein-Westfalen: Schlussbericht zur Kölner Silvesternacht",
+      "url": "https://www.landtag.nrw.de/Dokumentenservice/portal/WWW/dokumentenarchiv/Dokument/MMD16-14450.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Die erste Meldung nannte bereits konkrete Straftaten; die dokumentierte Folgemeldung berichtete über die Sexualdelikte."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/QxMuH1bjMwo",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld bei ca. 0:48:29, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "QxMuH1bjMwo-A0005",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "QxMuH1bjMwo-A0005",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "QxMuH1bjMwo-A0005",
+      "field": "reason",
+      "before": "Die erste Meldung der Kölner Polizei stellte die Feier als weitgehend friedlich dar und ließ das Ausmaß der Sexualdelikte unerwähnt. Sie nannte jedoch bereits unter anderem Körperverletzungsdelikte und Ruhestörungen. Der Untersuchungsausschuss dokumentiert weitere Meldungen und die spätere Richtigstellung.",
+      "after": "Die erste dokumentierte Kölner Polizeimeldung vom 1. Januar, 08:57 Uhr, bezeichnete die Feiern als überwiegend friedlich. Sie nannte dabei unter anderem Körperverletzungen und weitere Einsätze. Die Sexualdelikte am Hauptbahnhof kamen in der Meldung nicht vor; der Untersuchungsausschuss dokumentiert eine weitere Meldung über diese Taten am Folgetag. Die pauschale Wiedergabe „keine Zwischenfälle“ macht aus der beschönigenden Gesamtdarstellung fälschlich eine Meldung mit null Vorfällen. Andere nicht konkret benannte Stimmen sind damit nicht bewertet."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0005",
+      "field": "shortReason",
+      "before": "Die erste Polizeimeldung nannte die Feier weitgehend friedlich und verschwieg die Sexualdelikte, erwähnte aber andere Vorfälle.",
+      "after": "Die erste Kölner Polizeimeldung sprach von überwiegend friedlichen Feiern, nannte aber Straftaten. Sexualdelikte am Hauptbahnhof fehlten."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

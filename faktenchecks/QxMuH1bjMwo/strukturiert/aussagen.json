@@ -5,12 +5,12 @@
     "videoId": "QxMuH1bjMwo",
     "videoUrl": "https://www.youtube.com/watch?v=QxMuH1bjMwo",
     "durationSeconds": 12053,
-    "asOf": "2026-11-24",
+    "asOf": "2026-11-26",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.",
+    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich.",
     "coverageNote": "Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand."
   },
   "legacyPoints": [],
@@ -798,6 +798,30 @@
       "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
       "accessedOn": "2026-11-24",
       "accessBasis": "Versübersetzung gelesen; ihre Auslegung ist von der späteren juristischen Tradition zu unterscheiden."
+    },
+    {
+      "id": "S099",
+      "title": "Sahih al-Bukhari 8: Aufzählung der fünf Säulen",
+      "url": "https://sunnah.com/bukhari:8",
+      "details": "Hadith Nr. 8 im Buch des Glaubens; Text und Übersetzung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Die ausdrücklich fünfteilige Aufzählung im veröffentlichten arabischen Text mit Übersetzung gelesen."
+    },
+    {
+      "id": "S100",
+      "title": "Kabinett der VAE: Bundesverfassung",
+      "url": "https://uaecabinet.ae/en/the-constitution",
+      "details": "Art. 1, 3 und 7 in amtlicher englischer Fassung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Staatsstruktur, Rechte der Mitgliedsemirate und Bestimmung zur Religion gelesen."
+    },
+    {
+      "id": "S101",
+      "title": "BMF: Forschungszulage, Anwendungsschreiben vom 7. Februar 2023",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Forschungszulagen/2023-02-07-gewaehrung-von-forschungszulage-nach-dem-gesetz-zur-steuerlichen-foerderung-von-forschung-und-entwicklung.pdf?__blob=publicationFile&v=2",
+      "details": "Historischer Regelungsstand für 2022: Bemessungsgrundlage und Fördersatz, insbesondere Rn. 166, 188.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Beträge und Satz im damaligen Anwendungsschreiben gelesen; Angaben für spätere Jahre daraus nicht übernommen."
     }
   ],
   "speakers": [
@@ -1027,19 +1051,19 @@
       "kind": "Tatsachenbehauptung",
       "description": "Nach der Kölner Silvesternacht 2015/16 hieß es zunächst, es habe keine Zwischenfälle gegeben.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Die erste Meldung der Kölner Polizei stellte die Feier als weitgehend friedlich dar und ließ das Ausmaß der Sexualdelikte unerwähnt. Sie nannte jedoch bereits unter anderem Körperverletzungsdelikte und Ruhestörungen. Der Untersuchungsausschuss dokumentiert weitere Meldungen und die spätere Richtigstellung.",
-      "shortReason": "Die erste Polizeimeldung nannte die Feier weitgehend friedlich und verschwieg die Sexualdelikte, erwähnte aber andere Vorfälle.",
-      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die erste dokumentierte Kölner Polizeimeldung vom 1. Januar, 08:57 Uhr, bezeichnete die Feiern als überwiegend friedlich. Sie nannte dabei unter anderem Körperverletzungen und weitere Einsätze. Die Sexualdelikte am Hauptbahnhof kamen in der Meldung nicht vor; der Untersuchungsausschuss dokumentiert eine weitere Meldung über diese Taten am Folgetag. Die pauschale Wiedergabe „keine Zwischenfälle“ macht aus der beschönigenden Gesamtdarstellung fälschlich eine Meldung mit null Vorfällen. Andere nicht konkret benannte Stimmen sind damit nicht bewertet.",
+      "shortReason": "Die erste Kölner Polizeimeldung sprach von überwiegend friedlichen Feiern, nannte aber Straftaten. Sexualdelikte am Hauptbahnhof fehlten.",
+      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0009: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Die erste Kölner Polizeimeldung sprach von überwiegend friedlichen Feiern, nannte aber Straftaten. Sexualdelikte am Hauptbahnhof fehlten."
       },
       "sourceRefs": [
         {
           "sourceId": "S006",
-          "note": "Gibt den Wortlaut der ersten Meldung und die spätere Aufarbeitung wieder."
+          "note": "Amtlicher Untersuchungsbericht, S. 355–356, 544: erste Silvestermeldung und Folgemeldung."
         }
       ],
       "openQuestions": [],
@@ -1070,6 +1094,23 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S006"
+            ],
+            "result": "Die erste dokumentierte Kölner Polizeimeldung vom 1. Januar, 08:57 Uhr, bezeichnete die Feiern als überwiegend friedlich. Sie nannte dabei unter anderem Körperverletzungen und weitere Einsätze. Die Sexualdelikte am Hauptbahnhof kamen in der Meldung nicht vor; der Untersuchungsausschuss dokumentiert eine weitere Meldung über diese Taten am Folgetag. Die pauschale Wiedergabe „keine Zwischenfälle“ macht aus der beschönigenden Gesamtdarstellung fälschlich eine Meldung mit null Vorfällen. Andere nicht konkret benannte Stimmen sind damit nicht bewertet."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -2361,19 +2402,23 @@
       "kind": "Tatsachenbehauptung",
       "description": "Der Gast beschreibt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis als vollständige Liste der Säulen des Islam.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Alle vier genannten Pflichten gehören zu den fünf Säulen. Das Fasten im Ramadan fehlt in der Aufzählung. Diese Einordnung betrifft die Glaubenspflichten.",
-      "shortReason": "Die vier genannten Pflichten gehören dazu, es fehlt aber die fünfte Säule, das Fasten im Ramadan.",
-      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "verdict": "Widerlegt",
+      "reason": "Der Gast nennt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis und beendet die Aufzählung ausdrücklich als vollständig. Der überlieferte Hadith al-Bukhari 8 nennt fünf Säulen, darunter zusätzlich das Fasten im Ramadan. Die vier genannten Punkte stimmen; widerlegt ist die Aussage, dass sie die vollständige Liste bilden. Dafür werden nicht nochmals vier einzelne Treffer gezählt.",
+      "shortReason": "Die als vollständig dargestellte Liste lässt das Fasten im Ramadan aus, die fünfte Säule.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0010: vorher Teilweise belegt, jetzt Widerlegt. Die als vollständig dargestellte Liste lässt das Fasten im Ramadan aus, die fünfte Säule."
       },
       "sourceRefs": [
         {
           "sourceId": "S033",
-          "note": "Vollständige Aufzählung der fünf Säulen."
+          "note": "Einführung des Metropolitan Museum of Art; Gegenabgleich mit der Überlieferung."
+        },
+        {
+          "sourceId": "S099",
+          "note": "Der Hadith nennt fünf Säulen, darunter das Fasten im Ramadan."
         }
       ],
       "openQuestions": [],
@@ -2404,6 +2449,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S033",
+              "S099"
+            ],
+            "result": "Der Gast nennt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis und beendet die Aufzählung ausdrücklich als vollständig. Der überlieferte Hadith al-Bukhari 8 nennt fünf Säulen, darunter zusätzlich das Fasten im Ramadan. Die vier genannten Punkte stimmen; widerlegt ist die Aussage, dass sie die vollständige Liste bilden. Dafür werden nicht nochmals vier einzelne Treffer gezählt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -2819,19 +2882,23 @@
       "kind": "Tatsachenbehauptung",
       "description": "Dubai sei ein islamischer Staat.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Dubai ist eines von sieben Emiraten der Vereinigten Arabischen Emirate. Art. 7 der Bundesverfassung bestimmt den Islam als offizielle Religion der Föderation. Die Bezeichnung trifft den religiösen Bezug, verwechselt aber das Emirat mit dem souveränen Bundesstaat.",
-      "shortReason": "Der Islam ist Staatsreligion der Vereinigten Arabischen Emirate; Dubai ist eines ihrer Emirate, kein eigener Staat.",
-      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Moderator benutzt die Staatsbezeichnung im Vergleich unterschiedlicher gesellschaftlicher Regeln. Der Islam ist nach Art. 7 Staatsreligion der Vereinigten Arabischen Emirate. Dubai gehört nach Art. 1 als Emirat zu dieser Föderation und besitzt nach Art. 3 eigene Zuständigkeiten. Die Formulierung lässt aber außer Acht, dass die VAE, nicht Dubai, der unabhängige Bundesstaat sind. Der anschließende Vergleich zum Alkoholkonsum ist nicht Teil dieses Befunds.",
+      "shortReason": "Dubai ist ein Emirat der Vereinigten Arabischen Emirate. Der Islam ist Staatsreligion des Bundesstaats.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0011: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Dubai ist ein Emirat der Vereinigten Arabischen Emirate. Der Islam ist Staatsreligion des Bundesstaats."
       },
       "sourceRefs": [
         {
           "sourceId": "S040",
-          "note": "Föderale Struktur und Staatsreligion der VAE."
+          "note": "Grundstruktur laut Regierungsportal der VAE."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Amtliche Fassung: Art. 1 zur Föderation, Art. 3 zu den Emiraten, Art. 7 zur Religion."
         }
       ],
       "openQuestions": [],
@@ -2862,6 +2929,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S040",
+              "S100"
+            ],
+            "result": "Der Moderator benutzt die Staatsbezeichnung im Vergleich unterschiedlicher gesellschaftlicher Regeln. Der Islam ist nach Art. 7 Staatsreligion der Vereinigten Arabischen Emirate. Dubai gehört nach Art. 1 als Emirat zu dieser Föderation und besitzt nach Art. 3 eigene Zuständigkeiten. Die Formulierung lässt aber außer Acht, dass die VAE, nicht Dubai, der unabhängige Bundesstaat sind. Der anschließende Vergleich zum Alkoholkonsum ist nicht Teil dieses Befunds."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -3230,19 +3315,23 @@
       "kind": "Tatsachenbehauptung",
       "description": "Im Werbeblock heißt es, Unternehmen könnten bei der Forschungszulage bis zu 4,2 Millionen Euro im Jahr erhalten, auch rückwirkend bis 2022.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "4,2 Millionen Euro ergeben sich ab 2026 aus 35 Prozent von 12 Millionen Euro förderfähigen Aufwendungen, wenn ein anspruchsberechtigtes kleines oder mittleres Unternehmen die Erhöhung beantragt. Der allgemeine Satz beträgt 25 Prozent. In den zurückliegenden Jahren galten niedrigere Bemessungsgrenzen, für 2022 etwa vier Millionen Euro als Bemessungsgrundlage. Ob für ein bestimmtes Jahr rückwirkend noch ein Anspruch besteht, richtet sich nach den gesetzlichen und verfahrensrechtlichen Voraussetzungen.",
-      "shortReason": "4,2 Mio. Euro gelten erst ab 2026 und nur für kleine und mittlere Unternehmen mit erhöhtem Satz; für 2022 galten niedrigere Grenzen.",
-      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Im Werbeblock werden bis zu 4,2 Millionen Euro jährlich mit der Möglichkeit rückwirkender Förderung bis 2022 in einem Satz verbunden. Der Höchstbetrag ergibt sich erst für förderfähige Aufwendungen ab 2026: 12 Millionen Euro mal 35 Prozent bei beantragter Erhöhung für anspruchsberechtigte kleine oder mittlere Unternehmen. Für 2022 galten 4 Millionen Euro Bemessungsgrenze und 25 Prozent, also höchstens 1 Million Euro. Die Möglichkeit eines nachträglichen Antrags ändert den für das jeweilige Jahr geltenden Höchstbetrag nicht.",
+      "shortReason": "4,2 Mio. Euro sind erst ab 2026 für qualifizierte KMU möglich. Für 2022 lag die Obergrenze bei 1 Mio. Euro.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0012: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. 4,2 Mio. Euro sind erst ab 2026 für qualifizierte KMU möglich. Für 2022 lag die Obergrenze bei 1 Mio. Euro."
       },
       "sourceRefs": [
         {
           "sourceId": "S060",
-          "note": "Bemessungsgrenzen, Höhe der Zulage und Antrag."
+          "note": "§§ 3–4: gestaffelte Bemessungsgrenzen und Fördersätze."
+        },
+        {
+          "sourceId": "S101",
+          "note": "Zeitgenössische Bestätigung für die 2022 geltende Berechnung."
         }
       ],
       "openQuestions": [],
@@ -3273,6 +3362,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S060",
+              "S101"
+            ],
+            "result": "Im Werbeblock werden bis zu 4,2 Millionen Euro jährlich mit der Möglichkeit rückwirkender Förderung bis 2022 in einem Satz verbunden. Der Höchstbetrag ergibt sich erst für förderfähige Aufwendungen ab 2026: 12 Millionen Euro mal 35 Prozent bei beantragter Erhöhung für anspruchsberechtigte kleine oder mittlere Unternehmen. Für 2022 galten 4 Millionen Euro Bemessungsgrenze und 25 Prozent, also höchstens 1 Million Euro. Die Möglichkeit eines nachträglichen Antrags ändert den für das jeweilige Jahr geltenden Höchstbetrag nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -3527,25 +3634,25 @@
       "chapter": 9,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Die Linke setze sich in Berlin dafür ein, die geltenden Neutralitätsvorschriften für Schulen und Justiz aufzuheben.",
+      "description": "Die Linke wolle die Neutralität des Staates in Berliner Schulen und Gerichten aufheben.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Der Gesetzentwurf der Fraktion Die Linke von 2025 fordert die Aufhebung des Berliner Neutralitätsgesetzes. Er nennt in seiner Begründung ausdrücklich Lehrkräfte sowie Richter, Staatsanwälte und Rechtsreferendare. Das verfassungsrechtliche Neutralitätsgebot, das der Senat aus dem Grundgesetz ableitet, ist davon zu unterscheiden und würde durch diesen Gesetzentwurf nicht aufgehoben.",
-      "shortReason": "Die Linke will das Berliner Neutralitätsgesetz aufheben; das Neutralitätsgebot des Grundgesetzes bliebe davon unberührt.",
-      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Gast spricht von einer Aufhebung der Neutralität des Staates in Schulen und Gerichten. Die Linke beantragte 2025 die Aufhebung des Berliner Neutralitätsgesetzes. Der Entwurf unterscheidet aber ausdrücklich das Tragen religiöser Symbole durch einzelne Beschäftigte von einer religiösen Identifikation staatlicher Institutionen und erkennt das Neutralitätsgebot an. Das verfassungsrechtliche Gebot bliebe von der beantragten Aufhebung unberührt. Bewertet wird der Inhalt des Antrags, nicht sein späteres parlamentarisches Schicksal.",
+      "shortReason": "Die Linke beantragte die Aufhebung des Berliner Neutralitätsgesetzes, nicht des verfassungsrechtlichen Neutralitätsgebots.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0013: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Die Linke beantragte die Aufhebung des Berliner Neutralitätsgesetzes, nicht des verfassungsrechtlichen Neutralitätsgebots."
       },
       "sourceRefs": [
         {
           "sourceId": "S066",
-          "note": "Gesetzentwurf und betroffene Berufsgruppen."
+          "note": "Drucksache 19/2554 vom 2. Juli 2025; Aufhebungsantrag und Begründung."
         },
         {
           "sourceId": "S067",
-          "note": "Verfassungsrechtliches Neutralitätsgebot."
+          "note": "Neutralitätsgebot in der Darstellung des Landes Berlin."
         }
       ],
       "openQuestions": [],
@@ -3576,6 +3683,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S066",
+              "S067"
+            ],
+            "result": "Der Gast spricht von einer Aufhebung der Neutralität des Staates in Schulen und Gerichten. Die Linke beantragte 2025 die Aufhebung des Berliner Neutralitätsgesetzes. Der Entwurf unterscheidet aber ausdrücklich das Tragen religiöser Symbole durch einzelne Beschäftigte von einer religiösen Identifikation staatlicher Institutionen und erkennt das Neutralitätsgebot an. Das verfassungsrechtliche Gebot bliebe von der beantragten Aufhebung unberührt. Bewertet wird der Inhalt des Antrags, nicht sein späteres parlamentarisches Schicksal."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {

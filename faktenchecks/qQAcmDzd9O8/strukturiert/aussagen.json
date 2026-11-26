@@ -5,12 +5,12 @@
     "videoId": "qQAcmDzd9O8",
     "videoUrl": "https://www.youtube.com/watch?v=qQAcmDzd9O8",
     "durationSeconds": 1003,
-    "asOf": "2026-11-20",
+    "asOf": "2026-11-26",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen.",
+    "researchNote": "[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen. [Kai] 26.11.2026: 2 frühere Teilurteile einzeln nachgeprüft (UG-C0014 bis UG-C0015). Kein neuer Hör-/Sichtabgleich.",
     "coverageNote": "Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote."
   },
   "legacyPoints": [],
@@ -262,6 +262,14 @@
       "details": "Über die sichtbare Navigation geöffnete Übersicht; kein dort sichtbarer Nachweis der hier untersuchten Prüferläufe.",
       "accessedOn": "2026-11-20",
       "accessBasis": "Sichtbare Projektübersicht selbst gelesen. Aus dem fehlenden Eintrag auf dieser Seite wird nicht geschlossen, dass andernorts niemals Unterlagen existieren."
+    },
+    {
+      "id": "S049",
+      "title": "P-38 National Association: Bergung der Glacier Girl",
+      "url": "https://p38assn.org/glacier-girl-recovery/",
+      "details": "Illustrierter Bergungsbericht mit Beschreibung des Schachts und der Hebung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Bergungsschritte und die mehrfach ausdrücklich genannte Hubtiefe von 268 Fuß im Bericht gelesen."
     }
   ],
   "speakers": [
@@ -427,18 +435,22 @@
       "kind": "Tatsachenbehauptung",
       "description": "Ein 1942 notgelandetes Flugzeug sei 50 Jahre später unter 82 Metern grönländischem Schnee und Eis geborgen worden.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds.",
-      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "verdict": "Belegt",
+      "reason": "Der Bergungsbericht der P-38 National Association beschreibt, wie die 1942 in Grönland notgelandete P-38 1992 in Teilen aus 268 Fuß Tiefe geborgen wurde. Das sind rund 81,7 Meter und damit gerundet 82 Meter. Bewertet ist dieses lokale historische Ereignis, nicht die Bilanz des grönländischen Eisschilds. Eine unabhängige Nachmessung der Bergungstiefe liegt dieser Prüfung nicht zugrunde.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr. [Kai] 2026-11-26: Dokumentierte Originalfundstelle und ihre Paraphrase aus dem Projektstand gegengelesen, Sachquelle erneut geprüft. Keine neue Hör-/Sichtprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Die Anekdote misst keine gesamte Eisschildbilanz. Bergungsbericht, Tiefe und Ort noch nicht unabhängig geprüft.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Teilweise belegt. Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Die Anekdote misst keine gesamte Eisschildbilanz. Bergungsbericht, Tiefe und Ort noch nicht unabhängig geprüft.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Teilweise belegt. Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds. [Kai] 2026-11-26, UG-C0014: vorher Teilweise belegt, jetzt Belegt. Der Bergungsbericht nennt 268 Fuß (rund 82 Meter); zwischen Notlandung und Bergung lagen 50 Jahre."
       },
       "sourceRefs": [
         {
           "sourceId": "S045",
-          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+          "note": "Register zum Flugzeug und seiner Geschichte."
+        },
+        {
+          "sourceId": "S049",
+          "note": "Ausführliche Dokumentation der Bergung und der Hubtiefe."
         }
       ],
       "openQuestions": [],
@@ -474,12 +486,22 @@
               "S045"
             ],
             "result": "50 Jahre und 268 Fuß dokumentiert; historische Einzelmessung nicht selbst reproduziert."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Dokumentierte Originalfundstelle und ihre Paraphrase aus dem Projektstand gegengelesen, Sachquelle erneut geprüft. Keine neue Hör-/Sichtprüfung.",
+            "sourceIds": [
+              "S045",
+              "S049"
+            ],
+            "result": "Der Bergungsbericht der P-38 National Association beschreibt, wie die 1942 in Grönland notgelandete P-38 1992 in Teilen aus 268 Fuß Tiefe geborgen wurde. Das sind rund 81,7 Meter und damit gerundet 82 Meter. Bewertet ist dieses lokale historische Ereignis, nicht die Bilanz des grönländischen Eisschilds. Eine unabhängige Nachmessung der Bergungstiefe liegt dieser Prüfung nicht zugrunde."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Das Vereinsregister nennt 50 Jahre und rund 82 Meter; der ursprüngliche Bergungs- und Messbericht wurde nicht kontrolliert.",
+      "shortReason": "Der Bergungsbericht nennt 268 Fuß (rund 82 Meter); zwischen Notlandung und Bergung lagen 50 Jahre.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Eigenständige Sachaussage ohne besondere Stellung in der Hauptthese oder Argumentation des Videos; normale Bedeutung.",
@@ -2684,20 +2706,20 @@
       "chapter": 1,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Aus den drei Kategorien ergebe sich für Krall ein Alfred-Index von 1.360 Punkten.",
+      "description": "Die drei in Alfreds Grafik genannten Teilwerte ergeben addiert 1.360 Punkte.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung.",
-      "assessmentBasis": "[Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "verdict": "Belegt",
+      "reason": "Die im Repository dokumentierte Sichtprüfung der Originalgrafik zeigt die drei Teilwerte 590, 470 und 300. Die im Video angegebene Addition ist korrekt: Sie ergibt 1.360 Punkte. Damit ist nur der Summenschritt belegt. Wie Alfred die drei Teilwerte aus Einzelkodierungen, Gewichten und Mittelung gebildet hat, ist nicht vollständig reproduzierbar und bleibt offen. Die Addition ist auch kein Beleg für eine objektive Personenbewertung.",
+      "assessmentBasis": "[Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr. [Kai] 2026-11-26: Darstellung und Zahlen der im Repository dokumentierten Sichtprüfung der Originalgrafik nachvollzogen und die Addition unabhängig nachgerechnet. Keine neue Sichtprüfung.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.",
-        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Alfred nennt diese Zahl; ihre Berechnung ist ohne Gewichte und Einzelkodierungen nicht nachvollzogen. Weder Personenrangliste noch eigene Glaubwürdigkeitsnote daraus abgeleitet.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung."
+        "assessmentChange": "Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Alfred nennt diese Zahl; ihre Berechnung ist ohne Gewichte und Einzelkodierungen nicht nachvollzogen. Weder Personenrangliste noch eigene Glaubwürdigkeitsnote daraus abgeleitet.\",\"sourceIds\":[\"S002\"]}. Jetzt Abgeschlossen / Teilweise belegt. Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung. [Kai] 2026-11-26, UG-C0015: vorher Teilweise belegt, jetzt Belegt. Die drei gezeigten Werte ergeben tatsächlich 1.360. Die Herleitung der Einzelwerte bleibt offen."
       },
       "sourceRefs": [
         {
           "sourceId": "S002",
-          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+          "note": "Originalgrafik bei ca. 14:50–14:53 laut dokumentierter Sichtprüfung vom 20.11.2026; Teilwerte nachgerechnet."
         },
         {
           "sourceId": "S047",
@@ -2753,12 +2775,21 @@
               "S048"
             ],
             "result": "Die gelesenen Seiten liefern keine vollständige Codier- und Gewichtungsrechnung; daraus folgt kein allgemeiner Negativbeweis über andernorts vorhandene Unterlagen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Darstellung und Zahlen der im Repository dokumentierten Sichtprüfung der Originalgrafik nachvollzogen und die Addition unabhängig nachgerechnet. Keine neue Sichtprüfung.",
+            "sourceIds": [
+              "S002"
+            ],
+            "result": "Die im Repository dokumentierte Sichtprüfung der Originalgrafik zeigt die drei Teilwerte 590, 470 und 300. Die im Video angegebene Addition ist korrekt: Sie ergibt 1.360 Punkte. Damit ist nur der Summenschritt belegt. Wie Alfred die drei Teilwerte aus Einzelkodierungen, Gewichten und Mittelung gebildet hat, ist nicht vollständig reproduzierbar und bleibt offen. Die Addition ist auch kein Beleg für eine objektive Personenbewertung."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "590 + 470 + 300 ergeben tatsächlich 1.360 Punkte; die Herleitung der drei Ausgangswerte ist damit noch nicht vollständig nachgewiesen.",
+      "shortReason": "Die drei gezeigten Werte ergeben tatsächlich 1.360. Die Herleitung der Einzelwerte bleibt offen.",
       "factIndex": {
         "weight": 0.5,
         "weightReason": "Hinweis zur Machart oder zum Ablauf des Videos, nicht zur inhaltlichen These.",

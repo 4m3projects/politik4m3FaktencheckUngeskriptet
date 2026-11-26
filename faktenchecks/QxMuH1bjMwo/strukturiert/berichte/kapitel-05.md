@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich.
 
 ## QxMuH1bjMwo-A0005
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Nach der Kölner Silvesternacht 2015/16 hieß es zunächst, es habe keine Zwischenfälle gegeben.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -29,22 +29,28 @@ Zeitgrundlage: Ungefähres Zeitfenster auf der YouTube-Videospur.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die erste Meldung der Kölner Polizei stellte die Feier als weitgehend friedlich dar und ließ das Ausmaß der Sexualdelikte unerwähnt. Sie nannte jedoch bereits unter anderem Körperverletzungsdelikte und Ruhestörungen. Der Untersuchungsausschuss dokumentiert weitere Meldungen und die spätere Richtigstellung.
+Die erste dokumentierte Kölner Polizeimeldung vom 1. Januar, 08:57 Uhr, bezeichnete die Feiern als überwiegend friedlich. Sie nannte dabei unter anderem Körperverletzungen und weitere Einsätze. Die Sexualdelikte am Hauptbahnhof kamen in der Meldung nicht vor; der Untersuchungsausschuss dokumentiert eine weitere Meldung über diese Taten am Folgetag. Die pauschale Wiedergabe „keine Zwischenfälle“ macht aus der beschönigenden Gesamtdarstellung fälschlich eine Meldung mit null Vorfällen. Andere nicht konkret benannte Stimmen sind damit nicht bewertet.
 
-Grundlage der Bewertung: [Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.
+Grundlage der Bewertung: [Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Unmittelbar aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: Erste dokumentierte Einordnung.
+Bewertungsuebergang: Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0009: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Die erste Kölner Polizeimeldung sprach von überwiegend friedlichen Feiern, nannte aber Straftaten. Sexualdelikte am Hauptbahnhof fehlten.
 
 ### Zugeordnete Quellen
 
 - [Landtag Nordrhein-Westfalen: Schlussbericht zur Kölner Silvesternacht](https://www.landtag.nrw.de/Dokumentenservice/portal/WWW/dokumentenarchiv/Dokument/MMD16-14450.pdf) · Drucksache 16/14450, S. 354, 507 und 543–544.
-  Quellenzugriff am 2026-11-19. Originalmeldung der Kölner Polizei, spätere Richtigstellung und Bewertung der Pressearbeit im Ausschussbericht gelesen. Gibt den Wortlaut der ersten Meldung und die spätere Aufarbeitung wieder.
+  Quellenzugriff am 2026-11-19. Originalmeldung der Kölner Polizei, spätere Richtigstellung und Bewertung der Pressearbeit im Ausschussbericht gelesen. Amtlicher Untersuchungsbericht, S. 355–356, 544: erste Silvestermeldung und Folgemeldung.
 
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Gepruefte Quellen: S006. Ergebnis: Die erste dokumentierte Kölner Polizeimeldung vom 1. Januar, 08:57 Uhr, bezeichnete die Feiern als überwiegend friedlich. Sie nannte dabei unter anderem Körperverletzungen und weitere Einsätze. Die Sexualdelikte am Hauptbahnhof kamen in der Meldung nicht vor; der Untersuchungsausschuss dokumentiert eine weitere Meldung über diese Taten am Folgetag. Die pauschale Wiedergabe „keine Zwischenfälle“ macht aus der beschönigenden Gesamtdarstellung fälschlich eine Meldung mit null Vorfällen. Andere nicht konkret benannte Stimmen sind damit nicht bewertet.
 
 ## QxMuH1bjMwo-A0026
 

@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich.
 
 ## QxMuH1bjMwo-A0010
 
@@ -139,7 +139,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Im Werbeblock heißt es, Unternehmen könnten bei der Forschungszulage bis zu 4,2 Millionen Euro im Jahr erhalten, auch rückwirkend bis 2022.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -158,22 +158,31 @@ Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-4,2 Millionen Euro ergeben sich ab 2026 aus 35 Prozent von 12 Millionen Euro förderfähigen Aufwendungen, wenn ein anspruchsberechtigtes kleines oder mittleres Unternehmen die Erhöhung beantragt. Der allgemeine Satz beträgt 25 Prozent. In den zurückliegenden Jahren galten niedrigere Bemessungsgrenzen, für 2022 etwa vier Millionen Euro als Bemessungsgrundlage. Ob für ein bestimmtes Jahr rückwirkend noch ein Anspruch besteht, richtet sich nach den gesetzlichen und verfahrensrechtlichen Voraussetzungen.
+Im Werbeblock werden bis zu 4,2 Millionen Euro jährlich mit der Möglichkeit rückwirkender Förderung bis 2022 in einem Satz verbunden. Der Höchstbetrag ergibt sich erst für förderfähige Aufwendungen ab 2026: 12 Millionen Euro mal 35 Prozent bei beantragter Erhöhung für anspruchsberechtigte kleine oder mittlere Unternehmen. Für 2022 galten 4 Millionen Euro Bemessungsgrenze und 25 Prozent, also höchstens 1 Million Euro. Die Möglichkeit eines nachträglichen Antrags ändert den für das jeweilige Jahr geltenden Höchstbetrag nicht.
 
-Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkt aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: Erste dokumentierte Einordnung.
+Bewertungsuebergang: Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0012: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. 4,2 Mio. Euro sind erst ab 2026 für qualifizierte KMU möglich. Für 2022 lag die Obergrenze bei 1 Mio. Euro.
 
 ### Zugeordnete Quellen
 
 - [Forschungszulagengesetz, insbesondere §§ 3–5](https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html) · Konsolidierter Gesetzestext auf dem Bundesportal.
-  Quellenzugriff am 2026-11-19. Bemessungsgrenzen der verschiedenen Zeiträume, Zulagensatz und Erhöhung für kleine und mittlere Unternehmen gelesen. Bemessungsgrenzen, Höhe der Zulage und Antrag.
+  Quellenzugriff am 2026-11-19. Bemessungsgrenzen der verschiedenen Zeiträume, Zulagensatz und Erhöhung für kleine und mittlere Unternehmen gelesen. §§ 3–4: gestaffelte Bemessungsgrenzen und Fördersätze.
+
+- [BMF: Forschungszulage, Anwendungsschreiben vom 7. Februar 2023](https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Forschungszulagen/2023-02-07-gewaehrung-von-forschungszulage-nach-dem-gesetz-zur-steuerlichen-foerderung-von-forschung-und-entwicklung.pdf?__blob=publicationFile&v=2) · Historischer Regelungsstand für 2022: Bemessungsgrundlage und Fördersatz, insbesondere Rn. 166, 188.
+  Quellenzugriff am 2026-11-26. Beträge und Satz im damaligen Anwendungsschreiben gelesen; Angaben für spätere Jahre daraus nicht übernommen. Zeitgenössische Bestätigung für die 2022 geltende Berechnung.
 
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Gepruefte Quellen: S060, S101. Ergebnis: Im Werbeblock werden bis zu 4,2 Millionen Euro jährlich mit der Möglichkeit rückwirkender Förderung bis 2022 in einem Satz verbunden. Der Höchstbetrag ergibt sich erst für förderfähige Aufwendungen ab 2026: 12 Millionen Euro mal 35 Prozent bei beantragter Erhöhung für anspruchsberechtigte kleine oder mittlere Unternehmen. Für 2022 galten 4 Millionen Euro Bemessungsgrenze und 25 Prozent, also höchstens 1 Million Euro. Die Möglichkeit eines nachträglichen Antrags ändert den für das jeweilige Jahr geltenden Höchstbetrag nicht.
 
 ## QxMuH1bjMwo-A0055
 

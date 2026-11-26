@@ -5,12 +5,12 @@
     "videoId": "sLMyP0H7tSY",
     "videoUrl": "https://www.youtube.com/watch?v=sLMyP0H7tSY",
     "durationSeconds": 999,
-    "asOf": "2026-11-20",
+    "asOf": "2026-11-26",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen.",
+    "researchNote": "Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen. [Kai] 26.11.2026: 1 frühere Teilurteile einzeln nachgeprüft (UG-C0016). Kein neuer Hör-/Sichtabgleich.",
     "coverageNote": "Unabhängige Teilprüfung der Reaktion mit gezielten Nachprüfungen am Original und an den angegebenen Sachquellen. Die Einzelprüfungen unterscheiden abgeschlossene Bewertungen von noch offenen Arbeitsaufträgen. Durchgängiger Hör-/Sichtabgleich und redaktionelle Zweitprüfung stehen weiter aus; keine Gesamtabdeckung behauptet."
   },
   "legacyPoints": [],
@@ -2166,19 +2166,19 @@
       "kind": "Tatsachenbehauptung",
       "description": "Für Langformat nennt Alfred 1.000 Abonnenten und 4.000 Wiedergabestunden innerhalb eines Jahres als Monetarisierungshürden.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Für den Zugang zur Werbeumsatzbeteiligung bei Langformaten nennt YouTube 1.000 Abonnenten und 4.000 gültige öffentliche Wiedergabestunden innerhalb von zwölf Monaten. Dazu kommen weitere Teilnahmebedingungen und eine Kanalprüfung. Eine andere Schwelle gilt für Shorts.",
-      "shortReason": "Die Schwellen stimmen; dazu kommen aber weitere Teilnahmebedingungen und eine Kanalprüfung.",
-      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
+      "verdict": "Belegt",
+      "reason": "Die beiden von Alfred für Langvideos genannten Zahlenschwellen stimmen: 1.000 Abonnenten und 4.000 gültige öffentliche Wiedergabestunden binnen zwölf Monaten. Diese Zahlen sind Voraussetzungen für den Zugang zur Werbeumsatzbeteiligung über Langvideos, aber allein keine Zusage der Monetarisierung. YouTube nennt weitere Kriterien und prüft den Kanal. Für Shorts gibt es einen anderen Zugang.",
+      "shortReason": "Die Zahlenschwellen für Langvideos stimmen; Anforderungen und Kanalprüfung gelten zusätzlich.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen. [Kai] 2026-11-26: Dokumentierte Originalfundstelle und ihre Paraphrase aus dem Projektstand gegengelesen, Sachquelle erneut geprüft. Keine neue Hör-/Sichtprüfung.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0028 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. S014 bestätigt diese Schwelle für die Bewerbung: gültige öffentliche Wiedergabezeit der letzten zwölf Monate, weitere Bedingungen und Kanalprüfung erforderlich. Kein automatischer Zahlungsanspruch; andere Zugangswege existieren."
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. S014 bestätigt diese Schwelle für die Bewerbung: gültige öffentliche Wiedergabezeit der letzten zwölf Monate, weitere Bedingungen und Kanalprüfung erforderlich. Kein automatischer Zahlungsanspruch; andere Zugangswege existieren. [Kai] 2026-11-26, UG-C0016: vorher Teilweise belegt, jetzt Belegt. Die Zahlenschwellen für Langvideos stimmen; Anforderungen und Kanalprüfung gelten zusätzlich."
       },
       "sourceRefs": [
         {
           "sourceId": "S014",
-          "note": "Beleg für den in der Begründung benannten Sachkern."
+          "note": "Offizielle YouTube-Hilfe zu den Voraussetzungen, gültiger Wiedergabezeit und Kanalprüfung."
         }
       ],
       "openQuestions": [],
@@ -2228,6 +2228,23 @@
             "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Monetarisierungshürden betreffen den eigenen Kanal im Schluss und tragen keinen der vier behandelten Sachfälle."
           }
         ]
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Dokumentierte Originalfundstelle und ihre Paraphrase aus dem Projektstand gegengelesen, Sachquelle erneut geprüft. Keine neue Hör-/Sichtprüfung.",
+            "sourceIds": [
+              "S014"
+            ],
+            "result": "Die beiden von Alfred für Langvideos genannten Zahlenschwellen stimmen: 1.000 Abonnenten und 4.000 gültige öffentliche Wiedergabestunden binnen zwölf Monaten. Diese Zahlen sind Voraussetzungen für den Zugang zur Werbeumsatzbeteiligung über Langvideos, aber allein keine Zusage der Monetarisierung. YouTube nennt weitere Kriterien und prüft den Kanal. Für Shorts gibt es einen anderen Zugang."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {

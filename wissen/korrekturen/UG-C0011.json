@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0011",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "QxMuH1bjMwo-A0037",
+    "entryId": null,
+    "description": "Dubai ist ein Emirat der Vereinigten Arabischen Emirate. Der Islam ist Staatsreligion des Bundesstaats."
+  },
+  "evidence": [
+    {
+      "title": "Kabinett der VAE: Bundesverfassung",
+      "url": "https://uaecabinet.ae/en/the-constitution",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Verfassung nennt die Föderation den souveränen Bundesstaat und Dubai ein Mitgliedsemirat; Art. 7 betrifft die Föderation."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/QxMuH1bjMwo",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld bei ca. 3:02:33, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "QxMuH1bjMwo-A0037",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "QxMuH1bjMwo-A0037",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "QxMuH1bjMwo-A0037",
+      "field": "reason",
+      "before": "Dubai ist eines von sieben Emiraten der Vereinigten Arabischen Emirate. Art. 7 der Bundesverfassung bestimmt den Islam als offizielle Religion der Föderation. Die Bezeichnung trifft den religiösen Bezug, verwechselt aber das Emirat mit dem souveränen Bundesstaat.",
+      "after": "Der Moderator benutzt die Staatsbezeichnung im Vergleich unterschiedlicher gesellschaftlicher Regeln. Der Islam ist nach Art. 7 Staatsreligion der Vereinigten Arabischen Emirate. Dubai gehört nach Art. 1 als Emirat zu dieser Föderation und besitzt nach Art. 3 eigene Zuständigkeiten. Die Formulierung lässt aber außer Acht, dass die VAE, nicht Dubai, der unabhängige Bundesstaat sind. Der anschließende Vergleich zum Alkoholkonsum ist nicht Teil dieses Befunds."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0037",
+      "field": "shortReason",
+      "before": "Der Islam ist Staatsreligion der Vereinigten Arabischen Emirate; Dubai ist eines ihrer Emirate, kein eigener Staat.",
+      "after": "Dubai ist ein Emirat der Vereinigten Arabischen Emirate. Der Islam ist Staatsreligion des Bundesstaats."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

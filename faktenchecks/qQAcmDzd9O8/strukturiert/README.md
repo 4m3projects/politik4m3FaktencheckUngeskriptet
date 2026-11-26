@@ -4,9 +4,9 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 **Abdeckung: Teilbestand.** Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote.
 
-Stand: 2026-11-20 · Video: qQAcmDzd9O8
+Stand: 2026-11-26 · Video: qQAcmDzd9O8
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen. [Kai] 26.11.2026: 2 frühere Teilurteile einzeln nachgeprüft (UG-C0014 bis UG-C0015). Kein neuer Hör-/Sichtabgleich.
 
 ## Umfang und Bearbeitungsstand
 
@@ -36,8 +36,8 @@ Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eig
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 27 | 65.9 % |
-| Teilweise belegt | 11 | 26.8 % |
+| Belegt | 29 | 70.7 % |
+| Teilweise belegt | 9 | 22.0 % |
 | Irreführend / Kontext fehlt | 1 | 2.4 % |
 | Widerlegt | 0 | 0.0 % |
 | Nicht ausreichend belegbar | 2 | 4.9 % |

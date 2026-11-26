@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0015",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "qQAcmDzd9O8-A0035",
+    "entryId": null,
+    "description": "Die drei gezeigten Werte ergeben tatsächlich 1.360. Die Herleitung der Einzelwerte bleibt offen."
+  },
+  "evidence": [
+    {
+      "title": "Alfred: Wächst das Eis am Südpol?",
+      "url": "https://www.youtube.com/watch?v=qQAcmDzd9O8",
+      "accessedOn": "2026-11-26",
+      "finding": "Die projektseitig dokumentierte Sichtprüfung verzeichnet 590, 470 und 300. Nachrechnung: 1.360."
+    }
+  ],
+  "affected": [
+    {
+      "target": "qQAcmDzd9O8-A0035",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "qQAcmDzd9O8-A0035",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "qQAcmDzd9O8-A0035",
+      "field": "description",
+      "before": "Aus den drei Kategorien ergebe sich für Krall ein Alfred-Index von 1.360 Punkten.",
+      "after": "Die drei in Alfreds Grafik genannten Teilwerte ergeben addiert 1.360 Punkte."
+    },
+    {
+      "target": "qQAcmDzd9O8-A0035",
+      "field": "reason",
+      "before": "Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung.",
+      "after": "Die im Repository dokumentierte Sichtprüfung der Originalgrafik zeigt die drei Teilwerte 590, 470 und 300. Die im Video angegebene Addition ist korrekt: Sie ergibt 1.360 Punkte. Damit ist nur der Summenschritt belegt. Wie Alfred die drei Teilwerte aus Einzelkodierungen, Gewichten und Mittelung gebildet hat, ist nicht vollständig reproduzierbar und bleibt offen. Die Addition ist auch kein Beleg für eine objektive Personenbewertung."
+    },
+    {
+      "target": "qQAcmDzd9O8-A0035",
+      "field": "shortReason",
+      "before": "590 + 470 + 300 ergeben tatsächlich 1.360 Punkte; die Herleitung der drei Ausgangswerte ist damit noch nicht vollständig nachgewiesen.",
+      "after": "Die drei gezeigten Werte ergeben tatsächlich 1.360. Die Herleitung der Einzelwerte bleibt offen."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0010",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "QxMuH1bjMwo-A0029",
+    "entryId": null,
+    "description": "Die als vollständig dargestellte Liste lässt das Fasten im Ramadan aus, die fünfte Säule."
+  },
+  "evidence": [
+    {
+      "title": "Sahih al-Bukhari 8: Aufzählung der fünf Säulen",
+      "url": "https://sunnah.com/bukhari:8",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Überlieferung nennt das Fasten im Ramadan ausdrücklich als fünfte Säule."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/QxMuH1bjMwo",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld bei ca. 1:23:06, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "QxMuH1bjMwo-A0029",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "QxMuH1bjMwo-A0029",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Widerlegt"
+    },
+    {
+      "target": "QxMuH1bjMwo-A0029",
+      "field": "reason",
+      "before": "Alle vier genannten Pflichten gehören zu den fünf Säulen. Das Fasten im Ramadan fehlt in der Aufzählung. Diese Einordnung betrifft die Glaubenspflichten.",
+      "after": "Der Gast nennt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis und beendet die Aufzählung ausdrücklich als vollständig. Der überlieferte Hadith al-Bukhari 8 nennt fünf Säulen, darunter zusätzlich das Fasten im Ramadan. Die vier genannten Punkte stimmen; widerlegt ist die Aussage, dass sie die vollständige Liste bilden. Dafür werden nicht nochmals vier einzelne Treffer gezählt."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0029",
+      "field": "shortReason",
+      "before": "Die vier genannten Pflichten gehören dazu, es fehlt aber die fünfte Säule, das Fasten im Ramadan.",
+      "after": "Die als vollständig dargestellte Liste lässt das Fasten im Ramadan aus, die fünfte Säule."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

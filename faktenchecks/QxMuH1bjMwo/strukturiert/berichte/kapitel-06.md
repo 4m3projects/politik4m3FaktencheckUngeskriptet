@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich.
 
 ## QxMuH1bjMwo-A0012
 
@@ -113,7 +113,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Der Gast beschreibt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis als vollständige Liste der Säulen des Islam.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Widerlegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -132,22 +132,31 @@ Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Alle vier genannten Pflichten gehören zu den fünf Säulen. Das Fasten im Ramadan fehlt in der Aufzählung. Diese Einordnung betrifft die Glaubenspflichten.
+Der Gast nennt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis und beendet die Aufzählung ausdrücklich als vollständig. Der überlieferte Hadith al-Bukhari 8 nennt fünf Säulen, darunter zusätzlich das Fasten im Ramadan. Die vier genannten Punkte stimmen; widerlegt ist die Aussage, dass sie die vollständige Liste bilden. Dafür werden nicht nochmals vier einzelne Treffer gezählt.
 
-Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkt aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: Erste dokumentierte Einordnung.
+Bewertungsuebergang: Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0010: vorher Teilweise belegt, jetzt Widerlegt. Die als vollständig dargestellte Liste lässt das Fasten im Ramadan aus, die fünfte Säule.
 
 ### Zugeordnete Quellen
 
 - [Metropolitan Museum of Art: The Five Pillars of Islam](https://www.metmuseum.org/es/learn/educators/curriculum-resources/art-of-the-islamic-world/unit-one/the-five-pillars-of-islam) · Lehrmaterial zur Kunst und Religion der islamischen Welt.
-  Quellenzugriff am 2026-11-19. Alle fünf Glaubenspflichten einschließlich Fasten im Ramadan gelesen. Vollständige Aufzählung der fünf Säulen.
+  Quellenzugriff am 2026-11-19. Alle fünf Glaubenspflichten einschließlich Fasten im Ramadan gelesen. Einführung des Metropolitan Museum of Art; Gegenabgleich mit der Überlieferung.
+
+- [Sahih al-Bukhari 8: Aufzählung der fünf Säulen](https://sunnah.com/bukhari:8) · Hadith Nr. 8 im Buch des Glaubens; Text und Übersetzung.
+  Quellenzugriff am 2026-11-26. Die ausdrücklich fünfteilige Aufzählung im veröffentlichten arabischen Text mit Übersetzung gelesen. Der Hadith nennt fünf Säulen, darunter das Fasten im Ramadan.
 
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Gepruefte Quellen: S033, S099. Ergebnis: Der Gast nennt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis und beendet die Aufzählung ausdrücklich als vollständig. Der überlieferte Hadith al-Bukhari 8 nennt fünf Säulen, darunter zusätzlich das Fasten im Ramadan. Die vier genannten Punkte stimmen; widerlegt ist die Aussage, dass sie die vollständige Liste bilden. Dafür werden nicht nochmals vier einzelne Treffer gezählt.
 
 ## QxMuH1bjMwo-A0030
 

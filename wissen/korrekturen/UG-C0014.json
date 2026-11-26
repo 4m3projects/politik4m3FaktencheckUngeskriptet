@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0014",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "qQAcmDzd9O8-A0003",
+    "entryId": null,
+    "description": "Der Bergungsbericht nennt 268 Fuß (rund 82 Meter); zwischen Notlandung und Bergung lagen 50 Jahre."
+  },
+  "evidence": [
+    {
+      "title": "P-38 National Association: Bergung der Glacier Girl",
+      "url": "https://p38assn.org/glacier-girl-recovery/",
+      "accessedOn": "2026-11-26",
+      "finding": "Der Bericht beschreibt, wie die letzte Flugzeugsektion 268 Fuß bis zur Oberfläche gehoben wurde."
+    }
+  ],
+  "affected": [
+    {
+      "target": "qQAcmDzd9O8-A0003",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "qQAcmDzd9O8-A0003",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "qQAcmDzd9O8-A0003",
+      "field": "reason",
+      "before": "Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds.",
+      "after": "Der Bergungsbericht der P-38 National Association beschreibt, wie die 1942 in Grönland notgelandete P-38 1992 in Teilen aus 268 Fuß Tiefe geborgen wurde. Das sind rund 81,7 Meter und damit gerundet 82 Meter. Bewertet ist dieses lokale historische Ereignis, nicht die Bilanz des grönländischen Eisschilds. Eine unabhängige Nachmessung der Bergungstiefe liegt dieser Prüfung nicht zugrunde."
+    },
+    {
+      "target": "qQAcmDzd9O8-A0003",
+      "field": "shortReason",
+      "before": "Das Vereinsregister nennt 50 Jahre und rund 82 Meter; der ursprüngliche Bergungs- und Messbericht wurde nicht kontrolliert.",
+      "after": "Der Bergungsbericht nennt 268 Fuß (rund 82 Meter); zwischen Notlandung und Bergung lagen 50 Jahre."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

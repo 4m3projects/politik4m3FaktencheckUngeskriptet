@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0016",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "sLMyP0H7tSY-A0028",
+    "entryId": null,
+    "description": "Die Zahlenschwellen für Langvideos stimmen; Anforderungen und Kanalprüfung gelten zusätzlich."
+  },
+  "evidence": [
+    {
+      "title": "YouTube: Voraussetzungen des Partnerprogramms",
+      "url": "https://support.google.com/youtube/answer/72851?hl=de",
+      "accessedOn": "2026-11-26",
+      "finding": "Offizielle YPP-Hilfe bestätigt beide Zahlen für Langformate, schließt Shorts-Feed-Zeit aus und verneint automatische Aufnahme."
+    }
+  ],
+  "affected": [
+    {
+      "target": "sLMyP0H7tSY-A0028",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "sLMyP0H7tSY-A0028",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "sLMyP0H7tSY-A0028",
+      "field": "reason",
+      "before": "Für den Zugang zur Werbeumsatzbeteiligung bei Langformaten nennt YouTube 1.000 Abonnenten und 4.000 gültige öffentliche Wiedergabestunden innerhalb von zwölf Monaten. Dazu kommen weitere Teilnahmebedingungen und eine Kanalprüfung. Eine andere Schwelle gilt für Shorts.",
+      "after": "Die beiden von Alfred für Langvideos genannten Zahlenschwellen stimmen: 1.000 Abonnenten und 4.000 gültige öffentliche Wiedergabestunden binnen zwölf Monaten. Diese Zahlen sind Voraussetzungen für den Zugang zur Werbeumsatzbeteiligung über Langvideos, aber allein keine Zusage der Monetarisierung. YouTube nennt weitere Kriterien und prüft den Kanal. Für Shorts gibt es einen anderen Zugang."
+    },
+    {
+      "target": "sLMyP0H7tSY-A0028",
+      "field": "shortReason",
+      "before": "Die Schwellen stimmen; dazu kommen aber weitere Teilnahmebedingungen und eine Kanalprüfung.",
+      "after": "Die Zahlenschwellen für Langvideos stimmen; Anforderungen und Kanalprüfung gelten zusätzlich."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

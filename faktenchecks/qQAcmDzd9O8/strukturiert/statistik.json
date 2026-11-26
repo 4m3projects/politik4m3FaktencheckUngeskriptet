@@ -34,13 +34,13 @@
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 27,
-      "completedFactPercent": 65.9
+      "completedCount": 29,
+      "completedFactPercent": 70.7
     },
     {
       "category": "Teilweise belegt",
-      "completedCount": 11,
-      "completedFactPercent": 26.8
+      "completedCount": 9,
+      "completedFactPercent": 22.0
     },
     {
       "category": "Irreführend / Kontext fehlt",

@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich.
 
 ## QxMuH1bjMwo-A0016
 
@@ -97,7 +97,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Dubai sei ein islamischer Staat.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -116,22 +116,31 @@ Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Dubai ist eines von sieben Emiraten der Vereinigten Arabischen Emirate. Art. 7 der Bundesverfassung bestimmt den Islam als offizielle Religion der Föderation. Die Bezeichnung trifft den religiösen Bezug, verwechselt aber das Emirat mit dem souveränen Bundesstaat.
+Der Moderator benutzt die Staatsbezeichnung im Vergleich unterschiedlicher gesellschaftlicher Regeln. Der Islam ist nach Art. 7 Staatsreligion der Vereinigten Arabischen Emirate. Dubai gehört nach Art. 1 als Emirat zu dieser Föderation und besitzt nach Art. 3 eigene Zuständigkeiten. Die Formulierung lässt aber außer Acht, dass die VAE, nicht Dubai, der unabhängige Bundesstaat sind. Der anschließende Vergleich zum Alkoholkonsum ist nicht Teil dieses Befunds.
 
-Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.
+Grundlage der Bewertung: [Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkt aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: Erste dokumentierte Einordnung.
+Bewertungsuebergang: Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0011: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Dubai ist ein Emirat der Vereinigten Arabischen Emirate. Der Islam ist Staatsreligion des Bundesstaats.
 
 ### Zugeordnete Quellen
 
 - [Vereinigte Arabische Emirate: Verfassung](https://u.ae/en/about-the-uae/the-constitution-of-the-uae) · Verfassungsübersicht auf dem offiziellen Regierungsportal.
-  Quellenzugriff am 2026-11-19. Angaben zur Föderation der sieben Emirate und zur Stellung des Islam gelesen. Föderale Struktur und Staatsreligion der VAE.
+  Quellenzugriff am 2026-11-19. Angaben zur Föderation der sieben Emirate und zur Stellung des Islam gelesen. Grundstruktur laut Regierungsportal der VAE.
+
+- [Kabinett der VAE: Bundesverfassung](https://uaecabinet.ae/en/the-constitution) · Art. 1, 3 und 7 in amtlicher englischer Fassung.
+  Quellenzugriff am 2026-11-26. Staatsstruktur, Rechte der Mitgliedsemirate und Bestimmung zur Religion gelesen. Amtliche Fassung: Art. 1 zur Föderation, Art. 3 zu den Emiraten, Art. 7 zur Religion.
 
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Gepruefte Quellen: S040, S100. Ergebnis: Der Moderator benutzt die Staatsbezeichnung im Vergleich unterschiedlicher gesellschaftlicher Regeln. Der Islam ist nach Art. 7 Staatsreligion der Vereinigten Arabischen Emirate. Dubai gehört nach Art. 1 als Emirat zu dieser Föderation und besitzt nach Art. 3 eigene Zuständigkeiten. Die Formulierung lässt aber außer Acht, dass die VAE, nicht Dubai, der unabhängige Bundesstaat sind. Der anschließende Vergleich zum Alkoholkonsum ist nicht Teil dieses Befunds.
 
 ## QxMuH1bjMwo-A0038
 

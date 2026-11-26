@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0012",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "QxMuH1bjMwo-A0044",
+    "entryId": null,
+    "description": "4,2 Mio. Euro sind erst ab 2026 für qualifizierte KMU möglich. Für 2022 lag die Obergrenze bei 1 Mio. Euro."
+  },
+  "evidence": [
+    {
+      "title": "Forschungszulagengesetz, insbesondere §§ 3–5",
+      "url": "https://www.gesetze-im-internet.de/fzulg/BJNR276310019.html",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Bemessungsgrundlage für Aufwendungen ab 2026 ist höher; 35 Prozent setzen die KMU-Erhöhung voraus."
+    },
+    {
+      "title": "BMF: Forschungszulage, Anwendungsschreiben vom 7. Februar 2023",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Forschungszulagen/2023-02-07-gewaehrung-von-forschungszulage-nach-dem-gesetz-zur-steuerlichen-foerderung-von-forschung-und-entwicklung.pdf?__blob=publicationFile&v=2",
+      "accessedOn": "2026-11-26",
+      "finding": "Für 2022 galten 25 Prozent auf höchstens 4 Millionen Euro Bemessungsgrundlage."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/QxMuH1bjMwo",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld bei ca. 0:47:07, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "QxMuH1bjMwo-A0044",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "QxMuH1bjMwo-A0044",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "QxMuH1bjMwo-A0044",
+      "field": "reason",
+      "before": "4,2 Millionen Euro ergeben sich ab 2026 aus 35 Prozent von 12 Millionen Euro förderfähigen Aufwendungen, wenn ein anspruchsberechtigtes kleines oder mittleres Unternehmen die Erhöhung beantragt. Der allgemeine Satz beträgt 25 Prozent. In den zurückliegenden Jahren galten niedrigere Bemessungsgrenzen, für 2022 etwa vier Millionen Euro als Bemessungsgrundlage. Ob für ein bestimmtes Jahr rückwirkend noch ein Anspruch besteht, richtet sich nach den gesetzlichen und verfahrensrechtlichen Voraussetzungen.",
+      "after": "Im Werbeblock werden bis zu 4,2 Millionen Euro jährlich mit der Möglichkeit rückwirkender Förderung bis 2022 in einem Satz verbunden. Der Höchstbetrag ergibt sich erst für förderfähige Aufwendungen ab 2026: 12 Millionen Euro mal 35 Prozent bei beantragter Erhöhung für anspruchsberechtigte kleine oder mittlere Unternehmen. Für 2022 galten 4 Millionen Euro Bemessungsgrenze und 25 Prozent, also höchstens 1 Million Euro. Die Möglichkeit eines nachträglichen Antrags ändert den für das jeweilige Jahr geltenden Höchstbetrag nicht."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0044",
+      "field": "shortReason",
+      "before": "4,2 Mio. Euro gelten erst ab 2026 und nur für kleine und mittlere Unternehmen mit erhöhtem Satz; für 2022 galten niedrigere Grenzen.",
+      "after": "4,2 Mio. Euro sind erst ab 2026 für qualifizierte KMU möglich. Für 2022 lag die Obergrenze bei 1 Mio. Euro."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}
