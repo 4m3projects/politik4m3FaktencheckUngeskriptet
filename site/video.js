@@ -173,7 +173,25 @@ async function pageVideoSync(id, opts = {}) {
         </div>
         <div class="vc-list-col">
           <div class="vc-scroll" id="vc-scroll">
+          <section class="vc-overview" aria-labelledby="vc-dist-h">
+            <h2 class="vc-list-head" id="vc-dist-h">Verteilung aller erfassten Aussagen</h2>
+            <p class="small">${num(d.claims.length)} Aussagen insgesamt. Wiederholungen werden hier nur einmal gezählt; die Liste zeigt alle Fundstellen.</p>
+            ${distribution(d.claims, 'vc-scroll')}
+          </section>
           <h2 class="vc-list-head" id="vc-list-h">Fundstellen im Zeitverlauf <span class="muted">(${timeline.entries.length})</span></h2>
+          <div class="filters vc-filters" role="search" aria-label="Fundstellen filtern">
+            <input id="vc-q" type="search" placeholder="Aussagen durchsuchen …" aria-label="Aussagen durchsuchen">
+            <select id="vc-v" aria-label="Nach Bewertung filtern">
+              <option value="">Alle Bewertungen</option>
+              ${[...VERDICTS, ...STATUS].map(x => `<option value="${esc(x.key)}">${esc(x.name)}</option>`).join('')}
+            </select>
+            <select id="vc-c" aria-label="Nach Kapitel filtern">
+              <option value="">Alle Kapitel</option>
+              ${[...new Set(d.claims.map(c => c.chapter))].sort((a, b) => a - b).map(n => `<option value="${n}">Kapitel ${n}</option>`).join('')}
+            </select>
+            <button type="button" class="btn ghost" id="vc-clear" disabled>Filter zurücksetzen</button>
+          </div>
+          <p id="vc-result" class="result-count" aria-live="polite"></p>
           <p class="small vc-hint">Alle Zeitmarken sind ${timeline.entries.every(e => e.precision === 'Ungefähr') ? 'ungefähr (aus Untertiteltext eingegrenzt, ohne Audio-/Videokontrolle)' : 'unterschiedlich genau; siehe Angabe je Eintrag'}. Einträge kurz davor oder danach werden deshalb als „in der Nähe“ markiert (${esc(tolText)}).</p>
           <ol class="vc-list" id="vc-list" aria-labelledby="vc-list-h" tabindex="-1">${items || '<li class="small">Keine Fundstellen mit Zeitmarke vorhanden.</li>'}</ol>
           ${untimed ? `<h3 class="vc-list-head">Ohne verwendbare Zeitmarke</h3><ol class="vc-list vc-list-untimed">${untimed}</ol>` : ''}
@@ -190,7 +208,32 @@ async function pageVideoSync(id, opts = {}) {
   const reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   const itemEls = Object.fromEntries([...vc.querySelectorAll('.vc-item')].map(el => [el.dataset.key, el]));
 
+  /* Nur die Liste filtern. Player, Zeitposition und „Jetzt im Video“ bleiben unabhängig. */
+  const search = $('vc-q'), verdict = $('vc-v'), chapter = $('vc-c'), clear = $('vc-clear');
+  const applyFilters = () => {
+    const q = search.value.trim().toLocaleLowerCase('de');
+    let shown = 0;
+    for (const [key, el] of Object.entries(itemEls)) {
+      const c = byClaim[entryByKey[key].claimId];
+      const match = (!verdict.value || bucketOf(c) === verdict.value) &&
+        (!chapter.value || String(c.chapter) === chapter.value) &&
+        (!q || [c.description, c.shortReason, c.reason].some(t => String(t || '').toLocaleLowerCase('de').includes(q)));
+      el.hidden = !match;
+      if (match) shown++;
+    }
+    const total = Object.keys(itemEls).length;
+    $('vc-result').textContent = !total ? 'Keine Fundstellen erfasst.'
+      : !shown ? 'Keine Fundstelle passt zu den Filtern.'
+      : shown === total ? `${num(total)} Fundstellen` : `${num(shown)} von ${num(total)} Fundstellen`;
+    clear.disabled = !(search.value || verdict.value || chapter.value);
+  };
+  const resetFilters = () => { search.value = verdict.value = chapter.value = ''; verdict.dispatchEvent(new Event('input', { bubbles: true })); };
+  [search, verdict, chapter].forEach(el => el.addEventListener('input', applyFilters));
+  clear.addEventListener('click', () => { resetFilters(); search.focus(); });
+  applyFilters();
+
   let player = null, ready = false, pendingSeek = null, controller = null, lastUserScroll = 0, destroyed = false, expanded = false, lastFocus = null, autoplay = false;
+  bindVerdictLegend(vc, verdict, Object.values(itemEls), $('vc-result'), () => { lastUserScroll = Date.now(); });
 
   /* ---------- Layout und Großansicht ---------- */
   const setLayout = layout => {
@@ -202,7 +245,7 @@ async function pageVideoSync(id, opts = {}) {
   vc.querySelectorAll('.seg button').forEach(b => b.addEventListener('click', () => setLayout(b.dataset.layout)));
   $('vc-auto').addEventListener('change', e => { prefs.autoscroll = e.target.checked; savePrefs(prefs); });
 
-  const focusables = () => [...vc.querySelectorAll('button, a[href], input, summary, iframe, [tabindex="0"]')].filter(el => !el.closest('[hidden]') && el.offsetParent !== null);
+  const focusables = () => [...vc.querySelectorAll('button:not(:disabled), a[href], input, select, summary, iframe, [tabindex="0"]')].filter(el => !el.closest('[hidden]') && el.offsetParent !== null);
   const onKey = e => {
     if (!expanded) return;
     if (e.key === 'Escape') { e.preventDefault(); setExpanded(false); return; }
@@ -241,7 +284,7 @@ async function pageVideoSync(id, opts = {}) {
   ['wheel', 'touchmove', 'keydown', 'pointerdown'].forEach(t => scroller.addEventListener(t, () => { lastUserScroll = Date.now(); }, { passive: true }));
 
   function scrollToCurrent(force) {
-    const el = list.querySelector('.vc-item.is-current') || list.querySelector('.vc-item.is-near');
+    const el = list.querySelector('.vc-item.is-current:not([hidden])') || list.querySelector('.vc-item.is-near:not([hidden])');
     if (!el || (!force && !$('vc-auto').checked)) return;
     if (!force && Date.now() - lastUserScroll < 4000) return; // Nutzer liest gerade selbst
     if (scroller.scrollHeight > scroller.clientHeight + 1) scrollToEl(el);
@@ -303,7 +346,7 @@ async function pageVideoSync(id, opts = {}) {
     const g = e.target.closest('[data-goto]');
     if (g) {
       const el = itemEls[g.dataset.goto];
-      if (el) { el.querySelector('details').open = true; scrollToEl(el); const b = el.querySelector('.vc-seek'); if (b) b.focus({ preventScroll: true }); }
+      if (el) { if (el.hidden) resetFilters(); el.querySelector('details').open = true; scrollToEl(el); const b = el.querySelector('.vc-seek'); if (b) b.focus({ preventScroll: true }); }
       return;
     }
     const s = e.target.closest('[data-seek]');

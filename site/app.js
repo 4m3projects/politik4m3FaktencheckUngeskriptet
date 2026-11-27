@@ -108,19 +108,51 @@ function bucketOf(c) {
 }
 
 /* Verteilung aller strukturierten Aussagen: Endbewertungen plus offene/laufende Prüfungen. */
-function distribution(claims) {
+function distribution(claims, filterId = null) {
   const buckets = [...VERDICTS, ...STATUS].map(b => ({ ...b, n: 0 }));
   for (const c of claims) {
     const b = buckets.find(x => x.key === bucketOf(c));
     if (b) b.n++;
   }
   const total = claims.length || 1;
-  const bar = buckets.filter(b => b.n > 0).map(b =>
-    `<span class="fill-${b.key}" style="flex:${b.n}" data-tip="${esc(b.name)}: ${b.n} von ${claims.length} (${pct(b.n / total * 100)})"></span>`).join('');
-  const legend = buckets.filter(b => b.n > 0).map(b =>
-    `<li><i class="fill-${b.key}" aria-hidden="true"></i>${esc(b.name)} <b>${b.n}</b></li>`).join('');
+  const bar = buckets.filter(b => b.n > 0).map(b => {
+    const tip = esc(`${b.name}: ${b.n} von ${claims.length} (${pct(b.n / total * 100)})`);
+    const segment = `class="fill-${b.key}${filterId ? ' dist-filter' : ''}" style="flex:${b.n}" data-tip="${tip}"`;
+    return filterId
+      ? `<button type="button" ${segment} aria-label="${tip} – Aussagen filtern" data-verdict-filter="${esc(b.key)}" aria-controls="${esc(filterId)}" aria-pressed="false"></button>`
+      : `<span ${segment}></span>`;
+  }).join('');
+  const legend = buckets.filter(b => b.n > 0).map(b => {
+    const entry = `<i class="fill-${b.key}" aria-hidden="true"></i>${esc(b.name)} <b>${b.n}</b>`;
+    return filterId
+      ? `<li><button type="button" class="legend-filter" data-verdict-filter="${esc(b.key)}" aria-controls="${esc(filterId)}" aria-pressed="false">${entry}</button></li>`
+      : `<li>${entry}</li>`;
+  }).join('');
   const label = buckets.filter(b => b.n > 0).map(b => `${b.name}: ${b.n}`).join(', ');
-  return `<div class="dist" role="img" aria-label="Verteilung der ${claims.length} strukturierten Aussagen – ${esc(label)}">${bar}</div><ul class="legend">${legend}</ul>`;
+  return `<div class="dist${filterId ? ' dist-interactive' : ''}" role="${filterId ? 'group' : 'img'}" aria-label="Verteilung der ${claims.length} strukturierten Aussagen – ${esc(label)}">${bar}</div><ul class="legend">${legend}</ul>`;
+}
+
+/* Dieselbe Bewertungs-Auswahl wie das Dropdown, ohne weitere Filter zu verändern. */
+function bindVerdictLegend(root, select, cards, empty, onJump) {
+  const buttons = [...root.querySelectorAll('[data-verdict-filter]')];
+  const sync = () => {
+    for (const b of buttons) b.setAttribute('aria-pressed', String(b.dataset.verdictFilter === select.value));
+  };
+  select.addEventListener('input', sync);
+  sync();
+  for (const b of buttons) b.addEventListener('click', () => {
+    if (document.querySelector('.tip-panel:not([hidden])')) hideTip();
+    select.value = b.dataset.verdictFilter;
+    select.dispatchEvent(new Event('input', { bubbles: true }));
+    const target = cards.find(card => !card.hidden) || empty;
+    if (onJump) onJump();
+    target.setAttribute('tabindex', '-1');
+    target.focus({ preventScroll: true });
+    target.scrollIntoView({ block: 'start', behavior: 'instant' });
+    const barBottom = document.querySelector('.topbar')?.getBoundingClientRect().bottom || 0;
+    const overlap = barBottom + 8 - target.getBoundingClientRect().top;
+    if (overlap > 0) window.scrollBy({ top: -overlap, behavior: 'instant' });
+  });
 }
 
 /* ---------- Hinweistafeln (Tooltips) ----------
@@ -1164,7 +1196,7 @@ async function pageVideo(id, focusClaim) {
           <div style="margin-top:16px">
             <h2>Verteilung aller erfassten Aussagen</h2>
             <p class="small">Hier zählen auch zitierte, hinterfragte und zurückgewiesene Aussagen mit.</p>
-            ${distribution(d.claims)}
+            ${distribution(d.claims, 'claims')}
           </div>
           <div style="margin-top:16px">${rhetSummary(v, true)}</div>
         </section>
@@ -1225,6 +1257,7 @@ async function pageVideo(id, focusClaim) {
     document.getElementById('count').textContent = n === cards.length ? `${n} Aussagen` : `${n} von ${cards.length} Aussagen`;
   };
   [q, fv, fc, fr].filter(Boolean).forEach(el => el.addEventListener('input', apply));
+  bindVerdictLegend(main(), fv, cards, document.getElementById('count'));
   document.querySelectorAll('[data-rhet-filter]').forEach(b => b.addEventListener('click', () => {
     if (!fr) return;
     fr.value = fr.value === b.dataset.rhetFilter ? '' : b.dataset.rhetFilter;
