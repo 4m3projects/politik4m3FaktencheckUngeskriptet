@@ -1,6 +1,6 @@
 # Das Ende von Deutschland steht bevor (Markus Krall)
 
-[Codex] Stand 2026-11-27 · {ungeskriptet} by Ben · **Teilbestand geprüft: 77 Prüfgegenstände, 4 offene Sachprüfungen**.
+[Codex] Stand 2026-11-27 · {ungeskriptet} by Ben · **Teilbestand geprüft: 77 Prüfgegenstände, 3 offene Sachprüfungen**.
 
 - Veröffentlichung: 2026-10-17
 
@@ -25,3 +25,5 @@ Die vorherige eigene Auswertung ist als [historische Arbeitsgrundlage](../../doc
 [Codex] Erweiterung, recherchiert am 24. und vor Veröffentlichung kontrolliert am 25. November 2026: A0041–A0077 ergänzen 28 abgeschlossene Sachprüfungen und neun konkrete offene Fragen. Die 40 bereits veröffentlichten Prüfgegenstände bleiben unverändert. Die Auswahl verteilt sich breiter über Geldgeschichte, Wirtschaft, Klima und Recht; sie ist weiterhin keine Vollerfassung und keine Gesamtfehlerquote des Interviews. Zeitfenster und Sprecherzuordnung beruhen auf dem direkten automatischen Originaltext, ohne durchgängige Ton-/Bildkontrolle. [Übernahme und Veröffentlichungskontrolle](../../docs/VEROEFFENTLICHUNG_RESTSTAENDE_2026-11-25.md).
 
 [Codex] Nachprüfung vom 27. November 2026. Beschäftigte und Personalausgaben (A0071), deutsche Steuereinnahmen (A0072), argentinische Monatsinflation (A0076) und Arbeitslosenquote (A0077) mit amtlichen Daten geprüft. Als Aufnahmedatum nennt die Videobeschreibung den 15. September 2026. Das Suchfenster wurde im maschinellen Dritttranskript abgeglichen. Die Sprecherzuordnung beruht weiterhin auf dem Textkontext. [Strukturierter Prüfbericht](strukturiert/README.md)
+
+[Codex] Weitere Nachprüfung vom 27. November 2026. A0053 anhand der amtlichen Kreditermächtigungen und des Haushaltsabschlusses bewertet. Zu A0073–A0075 sind aussagebezogene Quellen und konkrete Grenzen der Prüfung ergänzt. [Strukturierter Prüfbericht](strukturiert/README.md)

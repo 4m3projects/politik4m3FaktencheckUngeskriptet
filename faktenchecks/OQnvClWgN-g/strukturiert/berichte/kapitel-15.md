@@ -359,7 +359,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** In einer hundertjährigen Statistik seien Waldbrände noch nie so niedrig gewesen wie aktuell.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -378,29 +378,37 @@ Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen.
+Das maschinelle Dritttranskript nennt an der Fundstelle weder den Namen der behaupteten hundertjährigen Statistik noch einen eindeutigen Raum oder eine Maßzahl. Eine von NASA dokumentierte Satellitenauswertung ergab 1998–2015 rund 24 Prozent weniger verbrannte Fläche weltweit. Der stärkste Rückgang betraf Savannen und Grasland. Die untersuchte Fläche umfasst mehrere Vegetationsarten. Die Zeitreihe reicht zudem weder über ein Jahrhundert noch bis zum Aufnahmejahr.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.
+Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Drittes maschinelles Textmaterial an der Fundstelle gegengeprüft; amtliche und institutionelle Originalquellen gelesen. Keine neue Hörkontrolle.
 
 Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → In Bearbeitung nach Quellenabgleich.
 
 ### Zugeordnete Quellen
 
 - [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
   Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
 
+- [SozAI – Maschinelles Dritttranskript zum Originalvideo](https://sozai.app/transcript/ende-deutschland-steht-bevor-markus-krall/) · Text bei ungefähr 33:26 nennt sowohl das Einführungjahr 1948 als auch 4 Mark 20. Nur Wortlautabgleich mit früher gesichtetem Originalplayer-Text; kein eigenständiger Sach- oder Audiobeleg.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage beziehungsweise Tabellenzeile im veröffentlichten Text gelesen. Maschinelles Dritttranskript an der Suchstelle abgeglichen. Nur Aussagebezug, keine bestätigte Stimme.
+
+- [NASA Earth Observatory: Globale Veränderung verbrannter Flächen](https://science.nasa.gov/earth/earth-observatory/researchers-detect-a-global-drop-in-fires-90493/) · NASA Goddard, 30.06.2017, Ergebnis der Arbeitsgruppe um Niels Andela.
+  Quellenzugriff am 2026-11-27. Datengrundlage und Ergebnis gelesen. Rückgang der gesamten global verbrannten Fläche um rund 24 Prozent von 1998 bis 2015, am stärksten in Savannen und Grasland. Datengrundlage und Ergebnis gelesen. Rückgang der gesamten global verbrannten Fläche um rund 24 Prozent von 1998 bis 2015, am stärksten in Savannen und Grasland.
+
 ### Offene Fragen und Unsicherheiten
 
-- Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen.
+- Gemeinte historische Reihe, Erhebungsraum und Maßzahl identifizieren. Bei einer möglichen Versicherungsstatistik Schäden von Ereignissen und Flächen unterscheiden.
 
 ### Recherchedokumentation
 
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
 
-Fehlende Information: Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen.
+Fehlende Information: Gemeinte historische Reihe, Erhebungsraum und Maßzahl identifizieren. Bei einer möglichen Versicherungsstatistik Schäden von Ereignissen und Flächen unterscheiden.
 
 - Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Vorprüfung in UG und HP und Originaltextfenster gelesen; ausstehende Schritte konkret bezeichnet. Kein abschließendes Sachurteil bei fehlendem Quellen- oder Tonabgleich. Gepruefte Quellen: S063. Ergebnis: Noch nicht geprüft – Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen.
+
+- Durchgang 2 am 2026-11-27 (Codex): Gezielte Suche in UG und HP, Dritttranskript und einschlägige Originalquellen abgeglichen. Gepruefte Quellen: S100, S114. Ergebnis: Das maschinelle Dritttranskript nennt an der Fundstelle weder den Namen der behaupteten hundertjährigen Statistik noch einen eindeutigen Raum oder eine Maßzahl. Eine von NASA dokumentierte Satellitenauswertung ergab 1998–2015 rund 24 Prozent weniger verbrannte Fläche weltweit. Der stärkste Rückgang betraf Savannen und Grasland. Die untersuchte Fläche umfasst mehrere Vegetationsarten. Die Zeitreihe reicht zudem weder über ein Jahrhundert noch bis zum Aufnahmejahr.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
