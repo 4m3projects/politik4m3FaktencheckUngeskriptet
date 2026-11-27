@@ -263,7 +263,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Deutschland habe jährlich mehr als eine Billion Euro Steuereinnahmen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -282,29 +282,40 @@ Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen.
+Eurostat weist für den deutschen Staat nach den Volkswirtschaftlichen Gesamtrechnungen ohne Sozialbeiträge 1.007,1 Milliarden Euro für 2024 und 1.047,0 Milliarden Euro für 2025 aus. Damit trifft die Größenangabe unter dieser Abgrenzung zu. Die kassenmäßige Reihe des Arbeitskreises Steuerschätzungen weist für 2025 einschließlich der auf die EU entfallenden Anteile insgesamt 989,8 Milliarden Euro aus. Für 2026 lag die zum Aufnahmezeitpunkt verfügbare Schätzung bei 998,7 Milliarden Euro. Ohne Angabe der Statistik gilt die Billionengrenze daher nur eingeschränkt. Die VGR-Zahlen entsprechen dem nach der Aufnahme abgerufenen Datenstand.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.
+Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Den Prüfgegenstand am maschinellen Dritttranskript gegengeprüft und die amtlichen Reihen ausgewertet. Das Aufnahmedatum stammt aus der Videobeschreibung. Keine neue Kontrolle am Originalton.
 
 Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → Teilweise belegt nach erster amtlicher Sachprüfung.
 
 ### Zugeordnete Quellen
 
 - [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
   Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
 
+- [SozAI – Maschinelles Dritttranskript zum Originalvideo](https://sozai.app/transcript/ende-deutschland-steht-bevor-markus-krall/) · Text bei ungefähr 33:26 nennt sowohl das Einführungjahr 1948 als auch 4 Mark 20. Nur Wortlautabgleich mit früher gesichtetem Originalplayer-Text; kein eigenständiger Sach- oder Audiobeleg.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage beziehungsweise Tabellenzeile im veröffentlichten Text gelesen. Fundstellen im Dritttranskript gegengeprüft. Keine Bestätigung der Stimme oder der Sachangabe.
+
+- [BMF: Ergebnis der Steuerschätzung vom Mai 2026](https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Steuerschaetzungen_und_Steuereinnahmen/Steuerschaetzung/2026-05-07-ergebnisse-170-steuerschaetzung-dl.pdf?__blob=publicationFile&v=4) · Arbeitskreis Steuerschätzungen, 07.05.2026, Tabelle 1.
+  Quellenzugriff am 2026-11-27. PDF und Tabelle 1 geöffnet. Ist 2025, Schätzung für 2026 und Aufteilung auf Bund, Länder, Gemeinden und EU gelesen. PDF und Tabelle 1 geöffnet. Ist 2025, Schätzung für 2026 und Aufteilung auf Bund, Länder, Gemeinden und EU gelesen.
+
+- [Eurostat: Steuereinnahmen des Staates nach Volkswirtschaftlichen Gesamtrechnungen](https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?lang=EN&geo=DE&sector=S13&unit=MIO_EUR&time=2024&time=2025&na_item=D2_D5_D91) · gov_10a_taxag, Deutschland, S13, D2_D5_D91, Mio. Euro, API-Stand 05.11.2026.
+  Quellenzugriff am 2026-11-27. Gefilterte Daten direkt aus der Eurostat-API gelesen. Steuern ohne Sozialbeiträge: 1.007.145 Mio. Euro 2024 und 1.046.957 Mio. Euro 2025. Abrufstand nach der Aufnahme. Gefilterte Daten direkt aus der Eurostat-API gelesen. Steuern ohne Sozialbeiträge: 1.007.145 Mio. Euro 2024 und 1.046.957 Mio. Euro 2025. Abrufstand nach der Aufnahme.
+
 ### Offene Fragen und Unsicherheiten
 
-- Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ### Recherchedokumentation
 
-Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
-Fehlende Information: Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen.
+Fehlende Information: Die beiden amtlichen Reihen haben unterschiedliche Abgrenzungen. Das Interview nennt an der Stelle weder eine Statistik noch ein bestimmtes Haushaltsjahr.
 
 - Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Vorprüfung in UG und HP und Originaltextfenster gelesen; ausstehende Schritte konkret bezeichnet. Kein abschließendes Sachurteil bei fehlendem Quellen- oder Tonabgleich. Gepruefte Quellen: S063. Ergebnis: Noch nicht geprüft – Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen.
+
+- Durchgang 2 am 2026-11-27 (Codex): Wissenssuche in UG und HP ohne übertragbaren Sachbeleg; Dritttranskript an der Suchstelle und amtliche Reihen mit Bezug zum Aufnahmedatum abgeglichen. Gepruefte Quellen: S100, S101, S102. Ergebnis: Eurostat weist für den deutschen Staat nach den Volkswirtschaftlichen Gesamtrechnungen ohne Sozialbeiträge 1.007,1 Milliarden Euro für 2024 und 1.047,0 Milliarden Euro für 2025 aus. Damit trifft die Größenangabe unter dieser Abgrenzung zu. Die kassenmäßige Reihe des Arbeitskreises Steuerschätzungen weist für 2025 einschließlich der auf die EU entfallenden Anteile insgesamt 989,8 Milliarden Euro aus. Für 2026 lag die zum Aufnahmezeitpunkt verfügbare Schätzung bei 998,7 Milliarden Euro. Ohne Angabe der Statistik gilt die Billionengrenze daher nur eingeschränkt. Die VGR-Zahlen entsprechen dem nach der Aufnahme abgerufenen Datenstand.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
