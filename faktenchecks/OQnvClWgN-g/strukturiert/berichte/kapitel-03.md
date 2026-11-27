@@ -320,7 +320,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die globale Produktion sei während der Corona-Lockdowns für einige Wochen um 50 Prozent eingebrochen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **In Bearbeitung** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -339,29 +339,37 @@ Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Gemeinten Wochenzeitraum und Produktionsbegriff identifizieren und mit UNIDO-Weltindustrieproduktion beziehungsweise passenden hochfrequenten Reihen abgleichen; Einbruch einzelner Branchen nicht mit Weltproduktion gleichsetzen.
+In der zeitgenössischen UNIDO-Schätzung lag die weltweite Produktion des verarbeitenden Gewerbes im April 2020 rund ein Fünftel unter dem Vorjahresmonat. Der Bericht zeigt größere nationale Einbrüche, zum Beispiel in Indien. Daraus lässt sich kein weltweiter Einbruch um 50 Prozent ableiten. Die Monatsreihe erlaubt auch keine direkte Aussage über einen kurzen Wochenzeitraum und deckt nicht die gesamte Wirtschaftsproduktion ab.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.
+Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Drittes maschinelles Textmaterial an der Fundstelle gegengeprüft; amtliche und institutionelle Originalquellen gelesen. Keine neue Hörkontrolle.
 
 Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → In Bearbeitung nach Quellenabgleich.
 
 ### Zugeordnete Quellen
 
 - [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
   Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
 
+- [SozAI – Maschinelles Dritttranskript zum Originalvideo](https://sozai.app/transcript/ende-deutschland-steht-bevor-markus-krall/) · Text bei ungefähr 33:26 nennt sowohl das Einführungjahr 1948 als auch 4 Mark 20. Nur Wortlautabgleich mit früher gesichtetem Originalplayer-Text; kein eigenständiger Sach- oder Audiobeleg.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage beziehungsweise Tabellenzeile im veröffentlichten Text gelesen. Maschinelles Dritttranskript an der Suchstelle abgeglichen. Nur Aussagebezug, keine bestätigte Stimme.
+
+- [UNIDO: Weltweite Produktion des verarbeitenden Gewerbes im April 2020](https://downloads.unido.org/ot/21/25/21251977/economic_impact_2020_04.pdf) · UNIDO Statistics, Tabelle 1 und methodischer Hinweis, saisonbereinigter Index, 2015 = 100.
+  Quellenzugriff am 2026-11-27. Tabelle und Methodik gelesen. Weltindex 112,2 im April 2019 und 89,7 im April 2020. Das entspricht rund 20 Prozent Rückgang. Der Monatsindex schätzt das verarbeitende Gewerbe, keine Wochenwerte für die gesamte Wirtschaft. Tabelle und Methodik gelesen. Weltindex 112,2 im April 2019 und 89,7 im April 2020. Das entspricht rund 20 Prozent Rückgang. Der Monatsindex schätzt das verarbeitende Gewerbe, keine Wochenwerte für die gesamte Wirtschaft.
+
 ### Offene Fragen und Unsicherheiten
 
-- Gemeinten Wochenzeitraum und Produktionsbegriff identifizieren und mit UNIDO-Weltindustrieproduktion beziehungsweise passenden hochfrequenten Reihen abgleichen; Einbruch einzelner Branchen nicht mit Weltproduktion gleichsetzen.
+- Genauen Wochenzeitraum, Produktionsbegriff und Bezugswert bestimmen und eine geeignete globale Reihe mit Wochenauflösung finden.
 
 ### Recherchedokumentation
 
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
 
-Fehlende Information: Gemeinten Wochenzeitraum und Produktionsbegriff identifizieren und mit UNIDO-Weltindustrieproduktion beziehungsweise passenden hochfrequenten Reihen abgleichen; Einbruch einzelner Branchen nicht mit Weltproduktion gleichsetzen.
+Fehlende Information: Genauen Wochenzeitraum, Produktionsbegriff und Bezugswert bestimmen und eine geeignete globale Reihe mit Wochenauflösung finden.
 
 - Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Vorprüfung in UG und HP und Originaltextfenster gelesen; ausstehende Schritte konkret bezeichnet. Kein abschließendes Sachurteil bei fehlendem Quellen- oder Tonabgleich. Gepruefte Quellen: S063. Ergebnis: Noch nicht geprüft – Gemeinten Wochenzeitraum und Produktionsbegriff identifizieren und mit UNIDO-Weltindustrieproduktion beziehungsweise passenden hochfrequenten Reihen abgleichen; Einbruch einzelner Branchen nicht mit Weltproduktion gleichsetzen.
+
+- Durchgang 2 am 2026-11-27 (Codex): Gezielte Suche in UG und HP, Dritttranskript und einschlägige Originalquellen abgeglichen. Gepruefte Quellen: S100, S113. Ergebnis: In der zeitgenössischen UNIDO-Schätzung lag die weltweite Produktion des verarbeitenden Gewerbes im April 2020 rund ein Fünftel unter dem Vorjahresmonat. Der Bericht zeigt größere nationale Einbrüche, zum Beispiel in Indien. Daraus lässt sich kein weltweiter Einbruch um 50 Prozent ableiten. Die Monatsreihe erlaubt auch keine direkte Aussage über einen kurzen Wochenzeitraum und deckt nicht die gesamte Wirtschaftsproduktion ab.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)
