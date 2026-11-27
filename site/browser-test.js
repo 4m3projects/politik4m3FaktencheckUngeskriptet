@@ -111,12 +111,27 @@ async function step(name, fn) {
   catch (e) { results.push(['FAIL', name, e.message]); console.log('FAIL ' + name + '\n     ' + e.message.split('\n').join('\n     ')); }
 }
 
+async function assertVerdictJump(page, dropdown, selector, key) {
+  assert.equal(await page.locator(dropdown).inputValue(), key);
+  for (const cls of ['dist-filter', 'legend-filter']) {
+    assert.equal(await page.locator(`.${cls}[data-verdict-filter="${key}"]`).getAttribute('aria-pressed'), 'true');
+  }
+  const visible = page.locator(selector + ':not([hidden])');
+  assert.ok(await visible.count() > 0);
+  assert.equal(await visible.locator('.badge .fill-' + key).count(), await visible.count());
+  assert.equal(await page.evaluate(() => document.activeElement.id), await visible.first().getAttribute('id'));
+  assert.ok(await page.evaluate(() => {
+    const top = document.activeElement.getBoundingClientRect().top;
+    return top >= document.querySelector('.topbar').getBoundingClientRect().bottom && top < innerHeight;
+  }), 'Fokusziel ist unter der Kopfzeile sichtbar');
+}
+
 (async () => {
   const dir = buildSite();
   const server = await serve(dir);
   const base = `http://127.0.0.1:${server.address().port}/`;
   const shots = process.env.SCREENSHOTS;
-  const browser = await chromium.launch();
+  const browser = await chromium.launch(process.env.CHROMIUM_EXECUTABLE ? { executablePath: process.env.CHROMIUM_EXECUTABLE } : {});
   const ctx = await browser.newContext({ viewport: { width: 1360, height: 860 }, reducedMotion: 'reduce' });
   ctx.setDefaultTimeout(15000);
   const external = [];
@@ -152,6 +167,7 @@ async function step(name, fn) {
   await step('Startseite und Aussagen-Ansicht weiter funktionsfähig', async () => {
     await page.goto(base + '#/');
     await page.waitForSelector('.card');
+    assert.equal(await page.locator('.card :is(.dist-filter, .legend-filter)').count(), 0, 'keine Buttons in den verlinkten Startkarten');
     await page.goto(base + `#/video/${VIDEO}`);
     await page.waitForSelector('#claims .claim');
     assert.ok(await page.locator('.tabs a', { hasText: 'Video mit Faktencheck' }).count() === 1);
@@ -167,6 +183,23 @@ async function step(name, fn) {
     }
     await page.waitForSelector('#pruefstatus');
     assert.match(await page.locator('#pruefstatus').textContent(), /Nicht ausreichend belegbar/);
+  });
+
+  await step('Aussagen: rotes Segment und Legende filtern, fokussieren den Treffer und behalten die Suche', async () => {
+    await page.goto(base + `#/video/${VIDEO}`);
+    const red = page.locator('.dist-filter[data-verdict-filter="widerlegt"]');
+    await red.hover();
+    assert.match(await page.locator('.tip-panel').textContent(), /Widerlegt:/);
+    await red.click();
+    await assertVerdictJump(page, '#f-v', '#claims .claim', 'widerlegt');
+    await page.locator('#f-v').selectOption('belegt');
+    assert.equal(await red.getAttribute('aria-pressed'), 'false');
+    const search = page.locator('#f-q');
+    await search.fill('UnauffindbareTestzeichenfolge');
+    await page.locator('.legend-filter[data-verdict-filter="widerlegt"]').click();
+    assert.equal(await search.inputValue(), 'UnauffindbareTestzeichenfolge');
+    assert.equal(await page.locator('#claims .claim:not([hidden])').count(), 0);
+    assert.equal(await page.evaluate(() => document.activeElement.id), 'count');
   });
 
   await step('Video-Ansicht ohne YouTube: Liste vollständig lesbar, keine externen Anfragen', async () => {
@@ -420,6 +453,14 @@ async function step(name, fn) {
     const c = await p.locator('#vc-consent').boundingBox(), lb = await p.locator('#vc-load').boundingBox();
     assert.ok(lb.y + lb.height <= c.y + c.height + 1, 'Ladeknopf ohne inneres Scrollen erreichbar');
     if (shots) { await p.locator('#vc-frame').scrollIntoViewIfNeeded(); await p.screenshot({ path: path.join(shots, 'mobil.png'), fullPage: false }); }
+    const red = p.locator('.vc-overview .dist-filter[data-verdict-filter="widerlegt"]');
+    assert.ok((await red.boundingBox()).height >= 44);
+    await red.tap();
+    await assertVerdictJump(p, '#vc-v', '.vc-item', 'widerlegt');
+    await p.locator('.vc-overview .legend-filter[data-verdict-filter="belegt"]').tap();
+    await assertVerdictJump(p, '#vc-v', '.vc-item', 'belegt');
+    assert.equal(await p.locator('#vc-consent').isVisible(), true);
+    assert.equal(await p.locator('iframe').count(), 0);
     await m.close();
   });
 
