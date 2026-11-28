@@ -213,7 +213,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Argentiniens monatliche Inflation sei von ungefähr 25 auf ungefähr ein Prozent gefallen.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -232,30 +232,42 @@ Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – Den ungefähr gemeinten Endmonat zum Aufnahmestichtag bestimmen und mit monatlichen INDEC-Mitteilungen vergleichen; Vorjahresrate und Monatsrate sowie zwischenzeitliche Tiefstände trennen.
+Der nationale Verbraucherpreisindex stieg im Dezember 2023 gegenüber dem Vormonat um 25,5 Prozent. Im Mai 2025 waren es 1,5 Prozent und im August 2026 1,7 Prozent. Letzteren Wert veröffentlichte INDEC am 10.09.2026 vor der Aufnahme vom 15.09.2026. Der starke Rückgang ist belegt. Rund ein Prozent ist als Angabe für den Aufnahmestand zu niedrig. Der Rückgang der Inflationsrate bedeutet, dass die Preise langsamer stiegen.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.
+Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Den Prüfgegenstand am maschinellen Dritttranskript gegengeprüft und die amtlichen Reihen ausgewertet. Das Aufnahmedatum stammt aus der Videobeschreibung. Keine neue Kontrolle am Originalton.
 
 Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → Teilweise belegt nach erster amtlicher Sachprüfung.
 
 ### Zugeordnete Quellen
 
 - [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
   Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
 
+- [SozAI – Maschinelles Dritttranskript zum Originalvideo](https://sozai.app/transcript/ende-deutschland-steht-bevor-markus-krall/) · Text bei ungefähr 33:26 nennt sowohl das Einführungjahr 1948 als auch 4 Mark 20. Nur Wortlautabgleich mit früher gesichtetem Originalplayer-Text; kein eigenständiger Sach- oder Audiobeleg.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage beziehungsweise Tabellenzeile im veröffentlichten Text gelesen. Fundstellen im Dritttranskript gegengeprüft. Keine Bestätigung der Stimme oder der Sachangabe.
+
+- [INDEC: Landesweiter Verbraucherpreisindex, Dezember 2023](https://www.indec.gob.ar/uploads/informesdeprensa/ipc_01_24DBD5D8158C.pdf) · INDEC, 11.01.2024, nationale Monatsrate im Dezember 2023.
+  Quellenzugriff am 2026-11-27. Bericht und nationale Monatswerte gelesen. Dezember 2023: 25,5 Prozent gegenüber dem Vormonat, November: 12,8 Prozent. Bericht und nationale Monatswerte gelesen. Dezember 2023: 25,5 Prozent gegenüber dem Vormonat, November: 12,8 Prozent.
+
+- [INDEC: Landesweiter Verbraucherpreisindex, Mai 2025](https://biblioteca.indec.gob.ar/bases/minde/ipc_06_25.pdf) · INDEC, 12.06.2025, nationale Monatsrate im Mai 2025.
+  Quellenzugriff am 2026-11-27. Bericht und Gesamtindex gelesen: 1,5 Prozent gegenüber dem Vormonat. Bericht und Gesamtindex gelesen: 1,5 Prozent gegenüber dem Vormonat.
+
+- [INDEC: Landesweiter Verbraucherpreisindex, August 2026](https://biblioteca.indec.gob.ar/bases/minde/ipc_09_26.pdf) · INDEC, 10.09.2026, Tabelle 1, August 2026.
+  Quellenzugriff am 2026-11-27. Bericht und Gesamtindex gelesen. Landesweit 1,7 Prozent gegenüber dem Vormonat, 33,5 Prozent gegenüber dem Vorjahresmonat. Bericht und Gesamtindex gelesen. Landesweit 1,7 Prozent gegenüber dem Vormonat, 33,5 Prozent gegenüber dem Vorjahresmonat.
+
 ### Offene Fragen und Unsicherheiten
 
-- Den ungefähr gemeinten Endmonat zum Aufnahmestichtag bestimmen und mit monatlichen INDEC-Mitteilungen vergleichen; Vorjahresrate und Monatsrate sowie zwischenzeitliche Tiefstände trennen.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ### Recherchedokumentation
 
-Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
-
-Fehlende Information: Den ungefähr gemeinten Endmonat zum Aufnahmestichtag bestimmen und mit monatlichen INDEC-Mitteilungen vergleichen; Vorjahresrate und Monatsrate sowie zwischenzeitliche Tiefstände trennen.
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Vorprüfung in UG und HP und Originaltextfenster gelesen; ausstehende Schritte konkret bezeichnet. Kein abschließendes Sachurteil bei fehlendem Quellen- oder Tonabgleich. Gepruefte Quellen: S063. Ergebnis: Noch nicht geprüft – Den ungefähr gemeinten Endmonat zum Aufnahmestichtag bestimmen und mit monatlichen INDEC-Mitteilungen vergleichen; Vorjahresrate und Monatsrate sowie zwischenzeitliche Tiefstände trennen.
+
+- Durchgang 2 am 2026-11-27 (Codex): Wissenssuche in UG und HP ohne übertragbaren Sachbeleg; Dritttranskript an der Suchstelle und amtliche Reihen mit Bezug zum Aufnahmedatum abgeglichen. Gepruefte Quellen: S100, S103, S104, S105. Ergebnis: Der nationale Verbraucherpreisindex stieg im Dezember 2023 gegenüber dem Vormonat um 25,5 Prozent. Im Mai 2025 waren es 1,5 Prozent und im August 2026 1,7 Prozent. Letzteren Wert veröffentlichte INDEC am 10.09.2026 vor der Aufnahme vom 15.09.2026. Der starke Rückgang ist belegt. Rund ein Prozent ist als Angabe für den Aufnahmestand zu niedrig. Der Rückgang der Inflationsrate bedeutet, dass die Preise langsamer stiegen.
 
 ## OQnvClWgN-g-A0077
 
@@ -263,7 +275,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Unter Milei sei die argentinische Arbeitslosigkeit gesunken.
 
-Status: **Offen** · Bewertung: **keine Endbewertung** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -282,29 +294,40 @@ Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Noch nicht geprüft – INDEC-Quartalswerte mit gleichem Erhebungskreis und Ausgangspunkt vor Amtsantritt vergleichen; Endquartal und Erwerbsbeteiligung angeben.
+Für die 31 vom INDEC erfassten Ballungsräume lag die Arbeitslosenquote im dritten Quartal 2023 bei 5,7 Prozent. Das war das letzte vollständige Quartal vor Mileis Amtsantritt im Dezember. Im gleichen Kalenderquartal 2025 lag die Quote bei 6,6 Prozent. Im ersten Quartal 2026 waren es 7,8 Prozent gegenüber 6,9 Prozent im ersten Quartal 2023. Die Erwerbsbeteiligung lag dabei bei 48,6 statt 48,3 Prozent. Zwischen einzelnen Quartalen unter Milei gab es Rückgänge, etwa von 7,6 auf 6,6 Prozent im Jahr 2025. Über die Amtszeit bis zum Aufnahmestand zeigen die Vergleichswerte dagegen eine höhere Quote. Der erst zwei Tage nach der Aufnahme veröffentlichte Bericht wies für das zweite Quartal 2026 7,9 Prozent aus.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.
+Grundlage der Bewertung: [Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Den Prüfgegenstand am maschinellen Dritttranskript gegengeprüft und die amtlichen Reihen ausgewertet. Das Aufnahmedatum stammt aus der Videobeschreibung. Keine neue Kontrolle am Originalton.
 
 Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → Irreführend / Kontext fehlt nach erster amtlicher Sachprüfung.
 
 ### Zugeordnete Quellen
 
 - [YouTube: erweiterte Prüfung der direkten deutschen Originaltextfassung](https://www.youtube.com/watch?v=OQnvClWgN-g) · Originalplayer am 24.11.2026 direkt erschlossen; automatische deutsche Textfassung privat exportiert.
   Quellenzugriff am 2026-11-24. Zusätzliche, über das Gespräch verteilte Suchfenster der direkten automatischen Originaltextfassung samt Anschluss gelesen. Keine durchgängige Ton-/Bildkontrolle; keine Übernahme historischer Urteile. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
 
+- [SozAI – Maschinelles Dritttranskript zum Originalvideo](https://sozai.app/transcript/ende-deutschland-steht-bevor-markus-krall/) · Text bei ungefähr 33:26 nennt sowohl das Einführungjahr 1948 als auch 4 Mark 20. Nur Wortlautabgleich mit früher gesichtetem Originalplayer-Text; kein eigenständiger Sach- oder Audiobeleg.
+  Quellenzugriff am 2026-11-26. Maßgebliche Passage beziehungsweise Tabellenzeile im veröffentlichten Text gelesen. Fundstellen im Dritttranskript gegengeprüft. Keine Bestätigung der Stimme oder der Sachangabe.
+
+- [INDEC: Arbeitsmarkt im vierten Quartal 2023](https://www.indec.gob.ar/uploads/informesdeprensa/mercado_trabajo_eph_4trim23BB05224E02.pdf) · Encuesta Permanente de Hogares, 31 Ballungsräume, Tabelle 1.1.
+  Quellenzugriff am 2026-11-27. Bericht und Vergleichsreihe Q1 bis Q4 2023 gelesen. Arbeitslosenquote 6,9 Prozent in Q1, 5,7 Prozent in Q3 und Q4. Bericht und Vergleichsreihe Q1 bis Q4 2023 gelesen. Arbeitslosenquote 6,9 Prozent in Q1, 5,7 Prozent in Q3 und Q4.
+
+- [INDEC: Arbeitsmarkt im zweiten Quartal 2026](https://biblioteca.indec.gob.ar/bases/minde/mercado_trabajo_eph_2trim26.pdf) · Encuesta Permanente de Hogares, 31 Ballungsräume, Tabelle 1.1, Bericht vom 17.09.2026.
+  Quellenzugriff am 2026-11-27. Tabelle 1.1 gelesen. Q1 2026: Arbeitslosenquote 7,8 und Erwerbsbeteiligung 48,6 Prozent; Q2 2026: 7,9 und 48,9 Prozent. Veröffentlichung zwei Tage nach dem Aufnahmedatum. Tabelle 1.1 gelesen. Q1 2026: Arbeitslosenquote 7,8 und Erwerbsbeteiligung 48,6 Prozent; Q2 2026: 7,9 und 48,9 Prozent. Veröffentlichung zwei Tage nach dem Aufnahmedatum.
+
 ### Offene Fragen und Unsicherheiten
 
-- INDEC-Quartalswerte mit gleichem Erhebungskreis und Ausgangspunkt vor Amtsantritt vergleichen; Endquartal und Erwerbsbeteiligung angeben.
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
 
 ### Recherchedokumentation
 
-Einordnung: kein offener Fall. Sicherheit der Einordnung: Niedrig.
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
-Fehlende Information: INDEC-Quartalswerte mit gleichem Erhebungskreis und Ausgangspunkt vor Amtsantritt vergleichen; Endquartal und Erwerbsbeteiligung angeben.
+Fehlende Information: Die Vierteljahreswerte gelten für die 31 untersuchten Ballungsräume. Die Aussage nennt an der Stelle keinen ausdrücklich bestimmten kurzzeitigen Vergleich.
 
 - Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Vorprüfung in UG und HP und Originaltextfenster gelesen; ausstehende Schritte konkret bezeichnet. Kein abschließendes Sachurteil bei fehlendem Quellen- oder Tonabgleich. Gepruefte Quellen: S063. Ergebnis: Noch nicht geprüft – INDEC-Quartalswerte mit gleichem Erhebungskreis und Ausgangspunkt vor Amtsantritt vergleichen; Endquartal und Erwerbsbeteiligung angeben.
+
+- Durchgang 2 am 2026-11-27 (Codex): Wissenssuche in UG und HP ohne übertragbaren Sachbeleg; Dritttranskript an der Suchstelle und amtliche Reihen mit Bezug zum Aufnahmedatum abgeglichen. Gepruefte Quellen: S100, S106, S107. Ergebnis: Für die 31 vom INDEC erfassten Ballungsräume lag die Arbeitslosenquote im dritten Quartal 2023 bei 5,7 Prozent. Das war das letzte vollständige Quartal vor Mileis Amtsantritt im Dezember. Im gleichen Kalenderquartal 2025 lag die Quote bei 6,6 Prozent. Im ersten Quartal 2026 waren es 7,8 Prozent gegenüber 6,9 Prozent im ersten Quartal 2023. Die Erwerbsbeteiligung lag dabei bei 48,6 statt 48,3 Prozent. Zwischen einzelnen Quartalen unter Milei gab es Rückgänge, etwa von 7,6 auf 6,6 Prozent im Jahr 2025. Über die Amtszeit bis zum Aufnahmestand zeigen die Vergleichswerte dagegen eine höhere Quote. Der erst zwei Tage nach der Aufnahme veröffentlichte Bericht wies für das zweite Quartal 2026 7,9 Prozent aus.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

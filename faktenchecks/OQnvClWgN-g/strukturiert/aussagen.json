@@ -750,6 +750,134 @@
       "details": "Text bei ungefähr 33:26 nennt sowohl das Einführungjahr 1948 als auch 4 Mark 20. Nur Wortlautabgleich mit früher gesichtetem Originalplayer-Text; kein eigenständiger Sach- oder Audiobeleg.",
       "accessBasis": "Maßgebliche Passage beziehungsweise Tabellenzeile im veröffentlichten Text gelesen.",
       "accessedOn": "2026-11-26"
+    },
+    {
+      "id": "S101",
+      "title": "BMF: Ergebnis der Steuerschätzung vom Mai 2026",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Steuern/Steuerschaetzungen_und_Steuereinnahmen/Steuerschaetzung/2026-05-07-ergebnisse-170-steuerschaetzung-dl.pdf?__blob=publicationFile&v=4",
+      "details": "Arbeitskreis Steuerschätzungen, 07.05.2026, Tabelle 1.",
+      "accessBasis": "PDF und Tabelle 1 geöffnet. Ist 2025, Schätzung für 2026 und Aufteilung auf Bund, Länder, Gemeinden und EU gelesen.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S102",
+      "title": "Eurostat: Steuereinnahmen des Staates nach Volkswirtschaftlichen Gesamtrechnungen",
+      "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?lang=EN&geo=DE&sector=S13&unit=MIO_EUR&time=2024&time=2025&na_item=D2_D5_D91",
+      "details": "gov_10a_taxag, Deutschland, S13, D2_D5_D91, Mio. Euro, API-Stand 05.11.2026.",
+      "accessBasis": "Gefilterte Daten direkt aus der Eurostat-API gelesen. Steuern ohne Sozialbeiträge: 1.007.145 Mio. Euro 2024 und 1.046.957 Mio. Euro 2025. Abrufstand nach der Aufnahme.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S103",
+      "title": "INDEC: Landesweiter Verbraucherpreisindex, Dezember 2023",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/ipc_01_24DBD5D8158C.pdf",
+      "details": "INDEC, 11.01.2024, nationale Monatsrate im Dezember 2023.",
+      "accessBasis": "Bericht und nationale Monatswerte gelesen. Dezember 2023: 25,5 Prozent gegenüber dem Vormonat, November: 12,8 Prozent.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S104",
+      "title": "INDEC: Landesweiter Verbraucherpreisindex, Mai 2025",
+      "url": "https://biblioteca.indec.gob.ar/bases/minde/ipc_06_25.pdf",
+      "details": "INDEC, 12.06.2025, nationale Monatsrate im Mai 2025.",
+      "accessBasis": "Bericht und Gesamtindex gelesen: 1,5 Prozent gegenüber dem Vormonat.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S105",
+      "title": "INDEC: Landesweiter Verbraucherpreisindex, August 2026",
+      "url": "https://biblioteca.indec.gob.ar/bases/minde/ipc_09_26.pdf",
+      "details": "INDEC, 10.09.2026, Tabelle 1, August 2026.",
+      "accessBasis": "Bericht und Gesamtindex gelesen. Landesweit 1,7 Prozent gegenüber dem Vormonat, 33,5 Prozent gegenüber dem Vorjahresmonat.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S106",
+      "title": "INDEC: Arbeitsmarkt im vierten Quartal 2023",
+      "url": "https://www.indec.gob.ar/uploads/informesdeprensa/mercado_trabajo_eph_4trim23BB05224E02.pdf",
+      "details": "Encuesta Permanente de Hogares, 31 Ballungsräume, Tabelle 1.1.",
+      "accessBasis": "Bericht und Vergleichsreihe Q1 bis Q4 2023 gelesen. Arbeitslosenquote 6,9 Prozent in Q1, 5,7 Prozent in Q3 und Q4.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S107",
+      "title": "INDEC: Arbeitsmarkt im zweiten Quartal 2026",
+      "url": "https://biblioteca.indec.gob.ar/bases/minde/mercado_trabajo_eph_2trim26.pdf",
+      "details": "Encuesta Permanente de Hogares, 31 Ballungsräume, Tabelle 1.1, Bericht vom 17.09.2026.",
+      "accessBasis": "Tabelle 1.1 gelesen. Q1 2026: Arbeitslosenquote 7,8 und Erwerbsbeteiligung 48,6 Prozent; Q2 2026: 7,9 und 48,9 Prozent. Veröffentlichung zwei Tage nach dem Aufnahmedatum.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S108",
+      "title": "Destatis: Beschäftigte des öffentlichen Dienstes zum 30. Juni 2025",
+      "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/06/PD26_215_741.html",
+      "details": "Statistisches Bundesamt, Meldung vom 23.06.2026.",
+      "accessBasis": "Originalmeldung direkt geöffnet und Einleitung gelesen. Vorläufiger Personalstand zum 30.06.2025: rund 5,5 Millionen Beschäftigte, einschließlich der dort erfassten Dienstverhältnisse.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S109",
+      "title": "Destatis: Kassenergebnisse des Öffentlichen Gesamthaushalts 2025",
+      "url": "https://www.destatis.de/DE/Themen/Staat/Oeffentliche-Finanzen/Ausgaben-Einnahmen/Publikationen/Downloads-Ausgaben-und-Einnahmen/statistischer-bericht-kassenergebnis-gesamthaushalt-2140200253245.xlsx?__blob=publicationFile&v=2",
+      "details": "Statistisches Bundesamt, 1.–4. Vierteljahr 2025, Tabelle 71511-02, Zeilen 1–6, Kern- und Extrahaushalte.",
+      "accessBasis": "Amtliche Datei geöffnet. In der Spalte Insgesamt stehen 434.408,2 Mio. Euro Personalausgaben, darunter 329.149,3 Mio. Euro Bezüge, Entgelte und Nebenleistungen sowie 76.347,4 Mio. Euro Versorgungsbezüge und dergleichen.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S110",
+      "title": "Bundesgesetzblatt: Änderung der Art. 109, 115 und 143h GG",
+      "url": "https://www.recht.bund.de/bgbl/1/2025/94/regelungstext.pdf?__blob=publicationFile&v=3",
+      "details": "BGBl. 2025 I Nr. 94 vom 24.03.2025.",
+      "accessBasis": "Originalverkündung geöffnet. Kreditregeln für Länder und Sicherheit sowie die gesonderte Ermächtigung über bis zu 500 Milliarden Euro und zwölf Jahre nach Art. 143h gelesen.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S111",
+      "title": "Gesetz zur Errichtung eines Sondervermögens Infrastruktur und Klimaneutralität",
+      "url": "https://www.gesetze-im-internet.de/svikg/BJNR0E60A0025.html",
+      "details": "SVIKG vom 30.09.2025, besonders §§ 1–4, 6 und 11.",
+      "accessBasis": "Amtlichen Normtext geöffnet. Gründung, Kreditobergrenze, Anteile und Bewilligungszeitraum gelesen.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S112",
+      "title": "BMF: Vorläufiger Haushaltsabschluss 2025",
+      "url": "https://www.bundesfinanzministerium.de/Monatsberichte/Ausgabe/2026/01/Inhalte/Kapitel-2-Analysen/2-1-abschluss-bundeshaushalt-ktf-svik-2025.html?nn=237786",
+      "details": "Monatsbericht Januar 2026, Abschnitt zum Sondervermögen Infrastruktur und Klimaneutralität.",
+      "accessBasis": "Abschnitt geöffnet und den Ausgabenansatz von 37,2 sowie das vorläufige Ergebnis von 24,0 Milliarden Euro gelesen.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S113",
+      "title": "UNIDO: Weltweite Produktion des verarbeitenden Gewerbes im April 2020",
+      "url": "https://downloads.unido.org/ot/21/25/21251977/economic_impact_2020_04.pdf",
+      "details": "UNIDO Statistics, Tabelle 1 und methodischer Hinweis, saisonbereinigter Index, 2015 = 100.",
+      "accessBasis": "Tabelle und Methodik gelesen. Weltindex 112,2 im April 2019 und 89,7 im April 2020. Das entspricht rund 20 Prozent Rückgang. Der Monatsindex schätzt das verarbeitende Gewerbe, keine Wochenwerte für die gesamte Wirtschaft.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S114",
+      "title": "NASA Earth Observatory: Globale Veränderung verbrannter Flächen",
+      "url": "https://science.nasa.gov/earth/earth-observatory/researchers-detect-a-global-drop-in-fires-90493/",
+      "details": "NASA Goddard, 30.06.2017, Ergebnis der Arbeitsgruppe um Niels Andela.",
+      "accessBasis": "Datengrundlage und Ergebnis gelesen. Rückgang der gesamten global verbrannten Fläche um rund 24 Prozent von 1998 bis 2015, am stärksten in Savannen und Grasland.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S115",
+      "title": "Deutsche Bundesbank: Finanzstabilitätsbericht 2024, Immobilienpreise",
+      "url": "https://publikationen.bundesbank.de/publikationen-de/berichte-studien/finanzstabilitaetsberichte/finanzstabilitaetsbericht-2024-943028?article=stabilitaetslage-im-deutschen-finanzsystem-943564",
+      "details": "Kapitel zur Stabilitätslage, Schaubild 4.1.6 und begleitende Analyse.",
+      "accessBasis": "Abschnitt zur Immobilienpreisentwicklung geöffnet. Preisrückgang um rund 13 Prozent vom Hoch Mitte 2022 bis zum ersten Quartal 2024 und Einordnung der Finanzierungs- und Lebenshaltungskosten gelesen.",
+      "accessedOn": "2026-11-27"
+    },
+    {
+      "id": "S116",
+      "title": "Deutsche Bundesbank: Preise für Wohnimmobilien im Jahr 2023",
+      "url": "https://www.bundesbank.de/resource/blob/925164/76272eb8e5288c51b480e0349a7edac3/472B63F073F071307366337C94F8C870/2024-02-konjunktur-data.pdf",
+      "details": "Monatsbericht Februar 2024, Analyse der Wohnimmobilienpreise.",
+      "accessBasis": "Abschnitt über Finanzierungsbedingungen, Erschwinglichkeit und geldpolitische Nachfragedämpfung gelesen.",
+      "accessedOn": "2026-11-27"
     }
   ],
   "speakers": [
@@ -4532,14 +4660,14 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die 2025 beschlossenen Regeln hätten ein neues Sondervermögen von über einer Billion Euro genehmigt.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – die Billionensumme muss über die tatsächlich gemeinten Kreditinstrumente aufgeschlüsselt werden. Artikel 143h allein regelt nur das Infrastruktur-Sondervermögen bis 500 Milliarden Euro; daraus ergibt sich keine vollständige Summe aller weiteren Sonderregeln.",
-      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Das 2025 errichtete Sondervermögen für Infrastruktur und Klimaneutralität hat nach Art. 143h GG und § 6 SVIKG eine Kreditermächtigung bis 500 Milliarden Euro. Investitionen können bis Ende 2036 bewilligt werden. Je 100 Milliarden Euro für Länder und Klimafonds stammen aus diesem Rahmen. Die Reform schuf daneben zusätzliche Kreditspielräume für die Länder bis 0,35 Prozent des nominalen BIP sowie eine Bereichsausnahme für bestimmte Sicherheitsausgaben oberhalb von einem Prozent des BIP. Diese Regeln haben im Gesetz keinen gemeinsamen Euro-Gesamtbetrag. Eine Modellrechnung über die künftige Kreditaufnahme wäre daher anders zu prüfen. Für 2025 weist der vorläufige BMF-Abschluss 24 Milliarden Euro Ausgaben aus dem Sondervermögen aus, einschließlich der Zuweisung an den Klimafonds.",
+      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Drittes maschinelles Textmaterial an der Fundstelle gegengeprüft; amtliche und institutionelle Originalquellen gelesen. Keine neue Hörkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → Widerlegt nach Quellenabgleich."
       },
       "sourceRefs": [
         {
@@ -4549,11 +4677,25 @@
         {
           "sourceId": "S080",
           "note": "Kreditermächtigung bis 500 Milliarden, Zusätzlichkeit und Bewilligungszeitraum von zwölf Jahren direkt gelesen."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Maschinelles Dritttranskript an der Suchstelle abgeglichen. Nur Aussagebezug, keine bestätigte Stimme."
+        },
+        {
+          "sourceId": "S110",
+          "note": "Originalverkündung geöffnet. Kreditregeln für Länder und Sicherheit sowie die gesonderte Ermächtigung über bis zu 500 Milliarden Euro und zwölf Jahre nach Art. 143h gelesen."
+        },
+        {
+          "sourceId": "S111",
+          "note": "Amtlichen Normtext geöffnet. Gründung, Kreditobergrenze, Anteile und Bewilligungszeitraum gelesen."
+        },
+        {
+          "sourceId": "S112",
+          "note": "Abschnitt geöffnet und den Ausgabenansatz von 37,2 sowie das vorläufige Ergebnis von 24,0 Milliarden Euro gelesen."
         }
       ],
-      "openQuestions": [
-        "Alle 2025–2026 gemeinten Sondervermögen und Kreditregeln mit genehmigtem Höchstvolumen, Laufzeit und tatsächlichen Ausgaben aufschlüsseln; keine einzelne 500-Milliarden-Regel als Widerlegung der Gesamtsumme verwenden."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0054",
@@ -4595,7 +4737,7 @@
       },
       "research": {
         "gap": null,
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -4606,11 +4748,24 @@
               "S080"
             ],
             "result": "Noch nicht geprüft – die Billionensumme muss über die tatsächlich gemeinten Kreditinstrumente aufgeschlüsselt werden. Artikel 143h allein regelt nur das Infrastruktur-Sondervermögen bis 500 Milliarden Euro; daraus ergibt sich keine vollständige Summe aller weiteren Sonderregeln."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP, Dritttranskript und einschlägige Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S100",
+              "S110",
+              "S111",
+              "S112"
+            ],
+            "result": "Das 2025 errichtete Sondervermögen für Infrastruktur und Klimaneutralität hat nach Art. 143h GG und § 6 SVIKG eine Kreditermächtigung bis 500 Milliarden Euro. Investitionen können bis Ende 2036 bewilligt werden. Je 100 Milliarden Euro für Länder und Klimafonds stammen aus diesem Rahmen. Die Reform schuf daneben zusätzliche Kreditspielräume für die Länder bis 0,35 Prozent des nominalen BIP sowie eine Bereichsausnahme für bestimmte Sicherheitsausgaben oberhalb von einem Prozent des BIP. Diese Regeln haben im Gesetz keinen gemeinsamen Euro-Gesamtbetrag. Eine Modellrechnung über die künftige Kreditaufnahme wäre daher anders zu prüfen. Für 2025 weist der vorläufige BMF-Abschluss 24 Milliarden Euro Ausgaben aus dem Sondervermögen aus, einschließlich der Zuweisung an den Klimafonds."
           }
         ],
-        "missingInformation": "Alle 2025–2026 gemeinten Sondervermögen und Kreditregeln mit genehmigtem Höchstvolumen, Laufzeit und tatsächlichen Ausgaben aufschlüsseln; keine einzelne 500-Milliarden-Regel als Widerlegung der Gesamtsumme verwenden.",
+        "missingInformation": "Der erfasste Aussagekontext nennt keine eigene Summenrechnung zu den weiteren Kreditregeln.",
         "conflicts": null
-      }
+      },
+      "shortReason": "Das neue Infrastruktur-Sondervermögen ist gesetzlich auf 500 Milliarden Euro gedeckelt. Weitere Kreditregeln bilden kein gemeinsames Sondervermögen."
     },
     {
       "id": "OQnvClWgN-g-A0054",
@@ -6130,24 +6285,34 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Der öffentliche Dienst umfasse 5,6 Millionen Beschäftigte und koste 400 Milliarden Euro Personalausgaben jährlich.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Beschäftigtenstand und Gesamtpersonalausgaben mit einheitlichem Stichtag und Abgrenzung aus Destatis-Tabellen ermitteln; Angestellte, Beamte, Versorgung und öffentliche Unternehmen auseinanderhalten.",
-      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der vor der Aufnahme veröffentlichte vorläufige Destatis-Stand nennt rund 5,5 Millionen Beschäftigte im öffentlichen Dienst zum 30.06.2025. Die Zahl umfasst mehrere Dienstverhältnisse, darunter Tarifbeschäftigte und Beamte. Die Kassenstatistik der Kern- und Extrahaushalte weist für 2025 insgesamt 434,4 Milliarden Euro Personalausgaben aus. Darin enthalten sind 76,3 Milliarden Euro Versorgungsbezüge und ähnliche Leistungen. Bezüge, Entgelte und Nebenleistungen bilden mit 329,1 Milliarden Euro eine eigene Position. Die genannten Größenordnungen liegen nahe an den amtlichen Gesamtwerten. Die Ausgaben lassen sich aber nicht vollständig den zum Stichtag aktiv Beschäftigten zurechnen. Öffentliche Unternehmen außerhalb der erfassten Haushalte sind mit dieser Rechnung nicht abgedeckt.",
+      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Zahlen am maschinellen Dritttranskript gegengeprüft. Destatis-Personalstand und Kassenstatistik samt Einzelpositionen kontrolliert. Keine Hörkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → Teilweise belegt nach erster amtlicher Sachprüfung."
       },
       "sourceRefs": [
         {
           "sourceId": "S063",
           "note": "Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Suchfenster mit den beiden Zahlen am Dritttranskript abgeglichen; keine bestätigte Stimme."
+        },
+        {
+          "sourceId": "S108",
+          "note": "Originalmeldung direkt geöffnet und Einleitung gelesen. Vorläufiger Personalstand zum 30.06.2025: rund 5,5 Millionen Beschäftigte, einschließlich der dort erfassten Dienstverhältnisse."
+        },
+        {
+          "sourceId": "S109",
+          "note": "Amtliche Datei geöffnet. In der Spalte Insgesamt stehen 434.408,2 Mio. Euro Personalausgaben, darunter 329.149,3 Mio. Euro Bezüge, Entgelte und Nebenleistungen sowie 76.347,4 Mio. Euro Versorgungsbezüge und dergleichen."
         }
       ],
-      "openQuestions": [
-        "Beschäftigtenstand und Gesamtpersonalausgaben mit einheitlichem Stichtag und Abgrenzung aus Destatis-Tabellen ermitteln; Angestellte, Beamte, Versorgung und öffentliche Unternehmen auseinanderhalten."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0072",
@@ -6189,7 +6354,7 @@
       },
       "research": {
         "gap": null,
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -6199,11 +6364,23 @@
               "S063"
             ],
             "result": "Noch nicht geprüft – Beschäftigtenstand und Gesamtpersonalausgaben mit einheitlichem Stichtag und Abgrenzung aus Destatis-Tabellen ermitteln; Angestellte, Beamte, Versorgung und öffentliche Unternehmen auseinanderhalten."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Vorwissenssuche in den Projektbeständen, Dritttranskript an der Fundstelle und amtlichen Personalstand sowie Ausgabenpositionen abgeglichen.",
+            "sourceIds": [
+              "S100",
+              "S108",
+              "S109"
+            ],
+            "result": "Der vor der Aufnahme veröffentlichte vorläufige Destatis-Stand nennt rund 5,5 Millionen Beschäftigte im öffentlichen Dienst zum 30.06.2025. Die Zahl umfasst mehrere Dienstverhältnisse, darunter Tarifbeschäftigte und Beamte. Die Kassenstatistik der Kern- und Extrahaushalte weist für 2025 insgesamt 434,4 Milliarden Euro Personalausgaben aus. Darin enthalten sind 76,3 Milliarden Euro Versorgungsbezüge und ähnliche Leistungen. Bezüge, Entgelte und Nebenleistungen bilden mit 329,1 Milliarden Euro eine eigene Position. Die genannten Größenordnungen liegen nahe an den amtlichen Gesamtwerten. Die Ausgaben lassen sich aber nicht vollständig den zum Stichtag aktiv Beschäftigten zurechnen. Öffentliche Unternehmen außerhalb der erfassten Haushalte sind mit dieser Rechnung nicht abgedeckt."
           }
         ],
-        "missingInformation": "Beschäftigtenstand und Gesamtpersonalausgaben mit einheitlichem Stichtag und Abgrenzung aus Destatis-Tabellen ermitteln; Angestellte, Beamte, Versorgung und öffentliche Unternehmen auseinanderhalten.",
+        "missingInformation": "Der genaue in der Aussage vorausgesetzte Haushalts- und Beschäftigtenkreis wird nicht angegeben.",
         "conflicts": null
-      }
+      },
+      "shortReason": "Destatis meldet rund 5,5 Millionen Beschäftigte und 434,4 Milliarden Euro Personalausgaben einschließlich Versorgungsbezügen für 2025."
     },
     {
       "id": "OQnvClWgN-g-A0072",
@@ -6212,24 +6389,34 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Deutschland habe jährlich mehr als eine Billion Euro Steuereinnahmen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen.",
-      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Eurostat weist für den deutschen Staat nach den Volkswirtschaftlichen Gesamtrechnungen ohne Sozialbeiträge 1.007,1 Milliarden Euro für 2024 und 1.047,0 Milliarden Euro für 2025 aus. Damit trifft die Größenangabe unter dieser Abgrenzung zu. Die kassenmäßige Reihe des Arbeitskreises Steuerschätzungen weist für 2025 einschließlich der auf die EU entfallenden Anteile insgesamt 989,8 Milliarden Euro aus. Für 2026 lag die zum Aufnahmezeitpunkt verfügbare Schätzung bei 998,7 Milliarden Euro. Ohne Angabe der Statistik gilt die Billionengrenze daher nur eingeschränkt. Die VGR-Zahlen entsprechen dem nach der Aufnahme abgerufenen Datenstand.",
+      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Den Prüfgegenstand am maschinellen Dritttranskript gegengeprüft und die amtlichen Reihen ausgewertet. Das Aufnahmedatum stammt aus der Videobeschreibung. Keine neue Kontrolle am Originalton.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → Teilweise belegt nach erster amtlicher Sachprüfung."
       },
       "sourceRefs": [
         {
           "sourceId": "S063",
           "note": "Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Fundstellen im Dritttranskript gegengeprüft. Keine Bestätigung der Stimme oder der Sachangabe."
+        },
+        {
+          "sourceId": "S101",
+          "note": "PDF und Tabelle 1 geöffnet. Ist 2025, Schätzung für 2026 und Aufteilung auf Bund, Länder, Gemeinden und EU gelesen."
+        },
+        {
+          "sourceId": "S102",
+          "note": "Gefilterte Daten direkt aus der Eurostat-API gelesen. Steuern ohne Sozialbeiträge: 1.007.145 Mio. Euro 2024 und 1.046.957 Mio. Euro 2025. Abrufstand nach der Aufnahme."
         }
       ],
-      "openQuestions": [
-        "Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0073",
@@ -6271,7 +6458,7 @@
       },
       "research": {
         "gap": null,
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -6281,11 +6468,23 @@
               "S063"
             ],
             "result": "Noch nicht geprüft – Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Wissenssuche in UG und HP ohne übertragbaren Sachbeleg; Dritttranskript an der Suchstelle und amtliche Reihen mit Bezug zum Aufnahmedatum abgeglichen.",
+            "sourceIds": [
+              "S100",
+              "S101",
+              "S102"
+            ],
+            "result": "Eurostat weist für den deutschen Staat nach den Volkswirtschaftlichen Gesamtrechnungen ohne Sozialbeiträge 1.007,1 Milliarden Euro für 2024 und 1.047,0 Milliarden Euro für 2025 aus. Damit trifft die Größenangabe unter dieser Abgrenzung zu. Die kassenmäßige Reihe des Arbeitskreises Steuerschätzungen weist für 2025 einschließlich der auf die EU entfallenden Anteile insgesamt 989,8 Milliarden Euro aus. Für 2026 lag die zum Aufnahmezeitpunkt verfügbare Schätzung bei 998,7 Milliarden Euro. Ohne Angabe der Statistik gilt die Billionengrenze daher nur eingeschränkt. Die VGR-Zahlen entsprechen dem nach der Aufnahme abgerufenen Datenstand."
           }
         ],
-        "missingInformation": "Zum Aufnahmestichtag verfügbare BMF-Steuerschätzung und endgültiges Vorjahresergebnis nach Bund, Ländern, Gemeinden und EU vergleichen; Jahresprognose nicht als bereits eingegangenes Ist ausgeben und kein nicht ausgesprochenes Bundesalleinaufkommen unterstellen.",
+        "missingInformation": "Die beiden amtlichen Reihen haben unterschiedliche Abgrenzungen. Das Interview nennt an der Stelle weder eine Statistik noch ein bestimmtes Haushaltsjahr.",
         "conflicts": null
-      }
+      },
+      "shortReason": "In der VGR lag das Steueraufkommen 2025 über einer Billion Euro. Die kassenmäßige Statistik kam auf 989,8 Milliarden Euro."
     },
     {
       "id": "OQnvClWgN-g-A0073",
@@ -6294,23 +6493,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die globale Produktion sei während der Corona-Lockdowns für einige Wochen um 50 Prozent eingebrochen.",
-      "status": "Offen",
+      "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Noch nicht geprüft – Gemeinten Wochenzeitraum und Produktionsbegriff identifizieren und mit UNIDO-Weltindustrieproduktion beziehungsweise passenden hochfrequenten Reihen abgleichen; Einbruch einzelner Branchen nicht mit Weltproduktion gleichsetzen.",
-      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.",
+      "reason": "In der zeitgenössischen UNIDO-Schätzung lag die weltweite Produktion des verarbeitenden Gewerbes im April 2020 rund ein Fünftel unter dem Vorjahresmonat. Der Bericht zeigt größere nationale Einbrüche, zum Beispiel in Indien. Daraus lässt sich kein weltweiter Einbruch um 50 Prozent ableiten. Die Monatsreihe erlaubt auch keine direkte Aussage über einen kurzen Wochenzeitraum und deckt nicht die gesamte Wirtschaftsproduktion ab.",
+      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Drittes maschinelles Textmaterial an der Fundstelle gegengeprüft; amtliche und institutionelle Originalquellen gelesen. Keine neue Hörkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → In Bearbeitung nach Quellenabgleich."
       },
       "sourceRefs": [
         {
           "sourceId": "S063",
           "note": "Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Maschinelles Dritttranskript an der Suchstelle abgeglichen. Nur Aussagebezug, keine bestätigte Stimme."
+        },
+        {
+          "sourceId": "S113",
+          "note": "Tabelle und Methodik gelesen. Weltindex 112,2 im April 2019 und 89,7 im April 2020. Das entspricht rund 20 Prozent Rückgang. Der Monatsindex schätzt das verarbeitende Gewerbe, keine Wochenwerte für die gesamte Wirtschaft."
         }
       ],
       "openQuestions": [
-        "Gemeinten Wochenzeitraum und Produktionsbegriff identifizieren und mit UNIDO-Weltindustrieproduktion beziehungsweise passenden hochfrequenten Reihen abgleichen; Einbruch einzelner Branchen nicht mit Weltproduktion gleichsetzen."
+        "Genauen Wochenzeitraum, Produktionsbegriff und Bezugswert bestimmen und eine geeignete globale Reihe mit Wochenauflösung finden."
       ],
       "occurrences": [
         {
@@ -6363,9 +6570,19 @@
               "S063"
             ],
             "result": "Noch nicht geprüft – Gemeinten Wochenzeitraum und Produktionsbegriff identifizieren und mit UNIDO-Weltindustrieproduktion beziehungsweise passenden hochfrequenten Reihen abgleichen; Einbruch einzelner Branchen nicht mit Weltproduktion gleichsetzen."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP, Dritttranskript und einschlägige Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S100",
+              "S113"
+            ],
+            "result": "In der zeitgenössischen UNIDO-Schätzung lag die weltweite Produktion des verarbeitenden Gewerbes im April 2020 rund ein Fünftel unter dem Vorjahresmonat. Der Bericht zeigt größere nationale Einbrüche, zum Beispiel in Indien. Daraus lässt sich kein weltweiter Einbruch um 50 Prozent ableiten. Die Monatsreihe erlaubt auch keine direkte Aussage über einen kurzen Wochenzeitraum und deckt nicht die gesamte Wirtschaftsproduktion ab."
           }
         ],
-        "missingInformation": "Gemeinten Wochenzeitraum und Produktionsbegriff identifizieren und mit UNIDO-Weltindustrieproduktion beziehungsweise passenden hochfrequenten Reihen abgleichen; Einbruch einzelner Branchen nicht mit Weltproduktion gleichsetzen.",
+        "missingInformation": "Genauen Wochenzeitraum, Produktionsbegriff und Bezugswert bestimmen und eine geeignete globale Reihe mit Wochenauflösung finden.",
         "conflicts": null
       }
     },
@@ -6376,23 +6593,31 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "In einer hundertjährigen Statistik seien Waldbrände noch nie so niedrig gewesen wie aktuell.",
-      "status": "Offen",
+      "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Noch nicht geprüft – Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen.",
-      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.",
+      "reason": "Das maschinelle Dritttranskript nennt an der Fundstelle weder den Namen der behaupteten hundertjährigen Statistik noch einen eindeutigen Raum oder eine Maßzahl. Eine von NASA dokumentierte Satellitenauswertung ergab 1998–2015 rund 24 Prozent weniger verbrannte Fläche weltweit. Der stärkste Rückgang betraf Savannen und Grasland. Die untersuchte Fläche umfasst mehrere Vegetationsarten. Die Zeitreihe reicht zudem weder über ein Jahrhundert noch bis zum Aufnahmejahr.",
+      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Drittes maschinelles Textmaterial an der Fundstelle gegengeprüft; amtliche und institutionelle Originalquellen gelesen. Keine neue Hörkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → In Bearbeitung nach Quellenabgleich."
       },
       "sourceRefs": [
         {
           "sourceId": "S063",
           "note": "Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Maschinelles Dritttranskript an der Suchstelle abgeglichen. Nur Aussagebezug, keine bestätigte Stimme."
+        },
+        {
+          "sourceId": "S114",
+          "note": "Datengrundlage und Ergebnis gelesen. Rückgang der gesamten global verbrannten Fläche um rund 24 Prozent von 1998 bis 2015, am stärksten in Savannen und Grasland."
         }
       ],
       "openQuestions": [
-        "Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen."
+        "Gemeinte historische Reihe, Erhebungsraum und Maßzahl identifizieren. Bei einer möglichen Versicherungsstatistik Schäden von Ereignissen und Flächen unterscheiden."
       ],
       "occurrences": [
         {
@@ -6445,9 +6670,19 @@
               "S063"
             ],
             "result": "Noch nicht geprüft – Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP, Dritttranskript und einschlägige Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S100",
+              "S114"
+            ],
+            "result": "Das maschinelle Dritttranskript nennt an der Fundstelle weder den Namen der behaupteten hundertjährigen Statistik noch einen eindeutigen Raum oder eine Maßzahl. Eine von NASA dokumentierte Satellitenauswertung ergab 1998–2015 rund 24 Prozent weniger verbrannte Fläche weltweit. Der stärkste Rückgang betraf Savannen und Grasland. Die untersuchte Fläche umfasst mehrere Vegetationsarten. Die Zeitreihe reicht zudem weder über ein Jahrhundert noch bis zum Aufnahmejahr."
           }
         ],
-        "missingInformation": "Bezugsraum und Maßzahl (Ereignisse, Fläche oder Schäden) am Originalton präzisieren; globale Satellitenreihen mit ihrer begrenzten Laufzeit und historische nationale Reihen getrennt prüfen.",
+        "missingInformation": "Gemeinte historische Reihe, Erhebungsraum und Maßzahl identifizieren. Bei einer möglichen Versicherungsstatistik Schäden von Ereignissen und Flächen unterscheiden.",
         "conflicts": null
       }
     },
@@ -6458,23 +6693,35 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Die Heizungs- und Energiegesetze hätten allein zwei bis zweieinhalb Billionen Euro Immobilienvermögen vernichtet.",
-      "status": "Offen",
+      "status": "In Bearbeitung",
       "verdict": null,
-      "reason": "Noch nicht geprüft – Zeitraum, Bestandswert und Kausalmodell ermitteln; Bundesbank- und amtliche Preisreihen sowie Zins-, Bau- und Transaktionseffekte von einem isolierten Gesetzeseffekt trennen.",
-      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.",
+      "reason": "Der Finanzstabilitätsbericht 2024 beziffert den Rückgang der Wohnimmobilienpreise vom Höchststand Mitte 2022 bis zum ersten Quartal 2024 auf rund 13 Prozent. Die Bundesbank dokumentiert ab Mitte 2022 die abnehmende Kaufnachfrage bei gestiegenen Finanzierungs- und Lebenshaltungskosten. Ihr Monatsbericht beschreibt Beiträge von Geldpolitik und verschlechterter Erschwinglichkeit. Ein Preisindex für Wohnimmobilien misst keine Veränderung des gesamten Immobilienvermögens in Euro. Beide Analysen liefern keinen bezifferten isolierten Effekt der im Interview angeführten Gesetze.",
+      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Drittes maschinelles Textmaterial an der Fundstelle gegengeprüft; amtliche und institutionelle Originalquellen gelesen. Keine neue Hörkontrolle.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → In Bearbeitung nach Quellenabgleich."
       },
       "sourceRefs": [
         {
           "sourceId": "S063",
           "note": "Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Maschinelles Dritttranskript an der Suchstelle abgeglichen. Nur Aussagebezug, keine bestätigte Stimme."
+        },
+        {
+          "sourceId": "S115",
+          "note": "Abschnitt zur Immobilienpreisentwicklung geöffnet. Preisrückgang um rund 13 Prozent vom Hoch Mitte 2022 bis zum ersten Quartal 2024 und Einordnung der Finanzierungs- und Lebenshaltungskosten gelesen."
+        },
+        {
+          "sourceId": "S116",
+          "note": "Abschnitt über Finanzierungsbedingungen, Erschwinglichkeit und geldpolitische Nachfragedämpfung gelesen."
         }
       ],
       "openQuestions": [
-        "Zeitraum, Bestandswert und Kausalmodell ermitteln; Bundesbank- und amtliche Preisreihen sowie Zins-, Bau- und Transaktionseffekte von einem isolierten Gesetzeseffekt trennen."
+        "Gemeinte Gesetze, Zeitraum und Vermögensbestand bestimmen. Für die Billionensumme braucht es eine benannte kontrafaktische Schätzung, die Gesetzeseffekte von Zinsen und anderen Faktoren trennt."
       ],
       "occurrences": [
         {
@@ -6527,9 +6774,20 @@
               "S063"
             ],
             "result": "Noch nicht geprüft – Zeitraum, Bestandswert und Kausalmodell ermitteln; Bundesbank- und amtliche Preisreihen sowie Zins-, Bau- und Transaktionseffekte von einem isolierten Gesetzeseffekt trennen."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Gezielte Suche in UG und HP, Dritttranskript und einschlägige Originalquellen abgeglichen.",
+            "sourceIds": [
+              "S100",
+              "S115",
+              "S116"
+            ],
+            "result": "Der Finanzstabilitätsbericht 2024 beziffert den Rückgang der Wohnimmobilienpreise vom Höchststand Mitte 2022 bis zum ersten Quartal 2024 auf rund 13 Prozent. Die Bundesbank dokumentiert ab Mitte 2022 die abnehmende Kaufnachfrage bei gestiegenen Finanzierungs- und Lebenshaltungskosten. Ihr Monatsbericht beschreibt Beiträge von Geldpolitik und verschlechterter Erschwinglichkeit. Ein Preisindex für Wohnimmobilien misst keine Veränderung des gesamten Immobilienvermögens in Euro. Beide Analysen liefern keinen bezifferten isolierten Effekt der im Interview angeführten Gesetze."
           }
         ],
-        "missingInformation": "Zeitraum, Bestandswert und Kausalmodell ermitteln; Bundesbank- und amtliche Preisreihen sowie Zins-, Bau- und Transaktionseffekte von einem isolierten Gesetzeseffekt trennen.",
+        "missingInformation": "Gemeinte Gesetze, Zeitraum und Vermögensbestand bestimmen. Für die Billionensumme braucht es eine benannte kontrafaktische Schätzung, die Gesetzeseffekte von Zinsen und anderen Faktoren trennt.",
         "conflicts": null
       }
     },
@@ -6540,24 +6798,38 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Argentiniens monatliche Inflation sei von ungefähr 25 auf ungefähr ein Prozent gefallen.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – Den ungefähr gemeinten Endmonat zum Aufnahmestichtag bestimmen und mit monatlichen INDEC-Mitteilungen vergleichen; Vorjahresrate und Monatsrate sowie zwischenzeitliche Tiefstände trennen.",
-      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.",
+      "status": "Abgeschlossen",
+      "verdict": "Teilweise belegt",
+      "reason": "Der nationale Verbraucherpreisindex stieg im Dezember 2023 gegenüber dem Vormonat um 25,5 Prozent. Im Mai 2025 waren es 1,5 Prozent und im August 2026 1,7 Prozent. Letzteren Wert veröffentlichte INDEC am 10.09.2026 vor der Aufnahme vom 15.09.2026. Der starke Rückgang ist belegt. Rund ein Prozent ist als Angabe für den Aufnahmestand zu niedrig. Der Rückgang der Inflationsrate bedeutet, dass die Preise langsamer stiegen.",
+      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Den Prüfgegenstand am maschinellen Dritttranskript gegengeprüft und die amtlichen Reihen ausgewertet. Das Aufnahmedatum stammt aus der Videobeschreibung. Keine neue Kontrolle am Originalton.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → Teilweise belegt nach erster amtlicher Sachprüfung."
       },
       "sourceRefs": [
         {
           "sourceId": "S063",
           "note": "Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Fundstellen im Dritttranskript gegengeprüft. Keine Bestätigung der Stimme oder der Sachangabe."
+        },
+        {
+          "sourceId": "S103",
+          "note": "Bericht und nationale Monatswerte gelesen. Dezember 2023: 25,5 Prozent gegenüber dem Vormonat, November: 12,8 Prozent."
+        },
+        {
+          "sourceId": "S104",
+          "note": "Bericht und Gesamtindex gelesen: 1,5 Prozent gegenüber dem Vormonat."
+        },
+        {
+          "sourceId": "S105",
+          "note": "Bericht und Gesamtindex gelesen. Landesweit 1,7 Prozent gegenüber dem Vormonat, 33,5 Prozent gegenüber dem Vorjahresmonat."
         }
       ],
-      "openQuestions": [
-        "Den ungefähr gemeinten Endmonat zum Aufnahmestichtag bestimmen und mit monatlichen INDEC-Mitteilungen vergleichen; Vorjahresrate und Monatsrate sowie zwischenzeitliche Tiefstände trennen."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0077",
@@ -6599,7 +6871,7 @@
       },
       "research": {
         "gap": null,
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -6609,11 +6881,24 @@
               "S063"
             ],
             "result": "Noch nicht geprüft – Den ungefähr gemeinten Endmonat zum Aufnahmestichtag bestimmen und mit monatlichen INDEC-Mitteilungen vergleichen; Vorjahresrate und Monatsrate sowie zwischenzeitliche Tiefstände trennen."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Wissenssuche in UG und HP ohne übertragbaren Sachbeleg; Dritttranskript an der Suchstelle und amtliche Reihen mit Bezug zum Aufnahmedatum abgeglichen.",
+            "sourceIds": [
+              "S100",
+              "S103",
+              "S104",
+              "S105"
+            ],
+            "result": "Der nationale Verbraucherpreisindex stieg im Dezember 2023 gegenüber dem Vormonat um 25,5 Prozent. Im Mai 2025 waren es 1,5 Prozent und im August 2026 1,7 Prozent. Letzteren Wert veröffentlichte INDEC am 10.09.2026 vor der Aufnahme vom 15.09.2026. Der starke Rückgang ist belegt. Rund ein Prozent ist als Angabe für den Aufnahmestand zu niedrig. Der Rückgang der Inflationsrate bedeutet, dass die Preise langsamer stiegen."
           }
         ],
-        "missingInformation": "Den ungefähr gemeinten Endmonat zum Aufnahmestichtag bestimmen und mit monatlichen INDEC-Mitteilungen vergleichen; Vorjahresrate und Monatsrate sowie zwischenzeitliche Tiefstände trennen.",
+        "missingInformation": null,
         "conflicts": null
-      }
+      },
+      "shortReason": "Die Monatsinflation sank von 25,5 Prozent im Dezember 2023 auf 1,7 Prozent im August 2026. Ein Prozent unterschätzt den letzten vor der Aufnahme bekannten Wert."
     },
     {
       "id": "OQnvClWgN-g-A0077",
@@ -6622,24 +6907,34 @@
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
       "description": "Unter Milei sei die argentinische Arbeitslosigkeit gesunken.",
-      "status": "Offen",
-      "verdict": null,
-      "reason": "Noch nicht geprüft – INDEC-Quartalswerte mit gleichem Erhebungskreis und Ausgangspunkt vor Amtsantritt vergleichen; Endquartal und Erwerbsbeteiligung angeben.",
-      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Für die 31 vom INDEC erfassten Ballungsräume lag die Arbeitslosenquote im dritten Quartal 2023 bei 5,7 Prozent. Das war das letzte vollständige Quartal vor Mileis Amtsantritt im Dezember. Im gleichen Kalenderquartal 2025 lag die Quote bei 6,6 Prozent. Im ersten Quartal 2026 waren es 7,8 Prozent gegenüber 6,9 Prozent im ersten Quartal 2023. Die Erwerbsbeteiligung lag dabei bei 48,6 statt 48,3 Prozent. Zwischen einzelnen Quartalen unter Milei gab es Rückgänge, etwa von 7,6 auf 6,6 Prozent im Jahr 2025. Über die Amtszeit bis zum Aufnahmestand zeigen die Vergleichswerte dagegen eine höhere Quote. Der erst zwei Tage nach der Aufnahme veröffentlichte Bericht wies für das zweite Quartal 2026 7,9 Prozent aus.",
+      "assessmentBasis": "[Codex] 24.11.2026: Suchfenster im direkten automatischen YouTube-Originaltext samt Anschluss gelesen. Die in openQuestions bezeichnete Fach- beziehungsweise Wortlautprüfung ist noch nicht abgeschlossen; keine bestätigte Stimme. [Codex] 27.11.2026: Den Prüfgegenstand am maschinellen Dritttranskript gegengeprüft und die amtlichen Reihen ausgewertet. Das Aufnahmedatum stammt aus der Videobeschreibung. Keine neue Kontrolle am Originalton.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.",
-        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung."
+        "assessmentChange": "[Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Codex] 27.11.2026: Offen → Irreführend / Kontext fehlt nach erster amtlicher Sachprüfung."
       },
       "sourceRefs": [
         {
           "sourceId": "S063",
           "note": "Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Fundstellen im Dritttranskript gegengeprüft. Keine Bestätigung der Stimme oder der Sachangabe."
+        },
+        {
+          "sourceId": "S106",
+          "note": "Bericht und Vergleichsreihe Q1 bis Q4 2023 gelesen. Arbeitslosenquote 6,9 Prozent in Q1, 5,7 Prozent in Q3 und Q4."
+        },
+        {
+          "sourceId": "S107",
+          "note": "Tabelle 1.1 gelesen. Q1 2026: Arbeitslosenquote 7,8 und Erwerbsbeteiligung 48,6 Prozent; Q2 2026: 7,9 und 48,9 Prozent. Veröffentlichung zwei Tage nach dem Aufnahmedatum."
         }
       ],
-      "openQuestions": [
-        "INDEC-Quartalswerte mit gleichem Erhebungskreis und Ausgangspunkt vor Amtsantritt vergleichen; Endquartal und Erwerbsbeteiligung angeben."
-      ],
+      "openQuestions": [],
       "occurrences": [
         {
           "id": "OQnvClWgN-g-O0078",
@@ -6681,7 +6976,7 @@
       },
       "research": {
         "gap": null,
-        "confidence": "Niedrig",
+        "confidence": "Mittel",
         "rounds": [
           {
             "date": "2026-11-24",
@@ -6691,11 +6986,23 @@
               "S063"
             ],
             "result": "Noch nicht geprüft – INDEC-Quartalswerte mit gleichem Erhebungskreis und Ausgangspunkt vor Amtsantritt vergleichen; Endquartal und Erwerbsbeteiligung angeben."
+          },
+          {
+            "date": "2026-11-27",
+            "agent": "Codex",
+            "strategy": "Wissenssuche in UG und HP ohne übertragbaren Sachbeleg; Dritttranskript an der Suchstelle und amtliche Reihen mit Bezug zum Aufnahmedatum abgeglichen.",
+            "sourceIds": [
+              "S100",
+              "S106",
+              "S107"
+            ],
+            "result": "Für die 31 vom INDEC erfassten Ballungsräume lag die Arbeitslosenquote im dritten Quartal 2023 bei 5,7 Prozent. Das war das letzte vollständige Quartal vor Mileis Amtsantritt im Dezember. Im gleichen Kalenderquartal 2025 lag die Quote bei 6,6 Prozent. Im ersten Quartal 2026 waren es 7,8 Prozent gegenüber 6,9 Prozent im ersten Quartal 2023. Die Erwerbsbeteiligung lag dabei bei 48,6 statt 48,3 Prozent. Zwischen einzelnen Quartalen unter Milei gab es Rückgänge, etwa von 7,6 auf 6,6 Prozent im Jahr 2025. Über die Amtszeit bis zum Aufnahmestand zeigen die Vergleichswerte dagegen eine höhere Quote. Der erst zwei Tage nach der Aufnahme veröffentlichte Bericht wies für das zweite Quartal 2026 7,9 Prozent aus."
           }
         ],
-        "missingInformation": "INDEC-Quartalswerte mit gleichem Erhebungskreis und Ausgangspunkt vor Amtsantritt vergleichen; Endquartal und Erwerbsbeteiligung angeben.",
+        "missingInformation": "Die Vierteljahreswerte gelten für die 31 untersuchten Ballungsräume. Die Aussage nennt an der Stelle keinen ausdrücklich bestimmten kurzzeitigen Vergleich.",
         "conflicts": null
-      }
+      },
+      "shortReason": "Im letzten vollen Quartal vor Mileis Amtsantritt lag die Quote bei 5,7 Prozent. Im ersten Quartal 2026 lag sie bei 7,8 Prozent."
     }
   ]
 }
