@@ -292,6 +292,18 @@ a.card:hover { transform: translateY(-2px); border-color: var(--line-strong); }
 .crumbs a { color: var(--text-3); }
 .video-head { padding: 8px 0 24px; border-bottom: 1px solid var(--line); margin-bottom: 24px; }
 .video-head h1 { max-width: 30ch; }
+.video-preview {
+  position: relative; display: block; width: min(100%, 480px); overflow: hidden;
+  border-radius: 10px; background: #101727; margin: 0 0 14px;
+}
+.video-preview-img { display: block; width: 100%; height: auto; }
+.video-preview-play {
+  position: absolute; inset: 50% auto auto 50%; transform: translate(-50%, -50%);
+  display: grid; place-items: center; width: 56px; height: 56px; border-radius: 50%;
+  background: #132444e8; color: #fff; font-size: 1.25rem; pointer-events: none;
+}
+.video-preview:hover .video-preview-play { background: #2055aa; }
+.video-preview:focus-visible { outline: 3px solid var(--accent); outline-offset: 4px; }
 .facts { display: flex; flex-wrap: wrap; gap: 6px 18px; padding: 0; margin: 0 0 16px; list-style: none; color: var(--text-2); font-size: .95rem; }
 .facts li strong { color: var(--text); font-weight: 600; }
 .btn {

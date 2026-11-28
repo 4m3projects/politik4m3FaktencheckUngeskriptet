@@ -1131,9 +1131,14 @@ function videoCrumbs(v) {
 
 function videoHeader(v, tab) {
   const scope = v.data?.scope;
+  const youtubeUrl = scope?.videoUrl || v.video?.videoUrl;
+  const playerPath = v.data && FactSync.youtubeId(youtubeUrl) ? `#/video/${esc(v.id)}/video` : null;
+  const playPath = playerPath && tab !== 'video' ? playerPath + '/start' : null;
+  const preview = playPath ? thumbImg(v.id, youtubeUrl, 'video-preview-img') : '';
+  const playbackTip = 'Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.';
   const tabs = [
     v.data ? ['aussagen', `#/video/${v.id}`, 'Aussagen'] : null,
-    v.data && FactSync.youtubeId(scope?.videoUrl) ? ['video', `#/video/${v.id}/video`, 'Video mit Faktencheck'] : null,
+    playerPath ? ['video', playerPath, 'Video mit Faktencheck'] : null,
     ['berichte', `#/video/${v.id}/bericht/README.md`, 'Berichte'],
     v.video?.role === 'original' ? ['reaktionen', `#/video/${v.id}/reaktionen`, `Reaktionen (${(state.rel.byOriginal.get(v.id) || []).length})`] : null,
     v.video?.role === 'reaction' ? ['reaktionen', `#/video/${v.id}/reaktionen`, 'Bezug zum Original'] : null,
@@ -1145,12 +1150,13 @@ function videoHeader(v, tab) {
     ${typeof videoTopicLine === 'function' ? videoTopicLine(v.id) : ''}
     ${fiHeader(v)}
     <ul class="facts">${videoFacts(v, true)}</ul>
+    ${preview ? `<a class="video-preview" href="${playPath}" aria-label="Video mit Faktencheck hier abspielen" data-tip="${playbackTip}">${preview}<span class="video-preview-play" aria-hidden="true">▶</span></a>` : ''}
     <div class="btn-row">
-      ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? `<a class="btn" href="#/video/${esc(v.id)}/video/start" data-tip="Startet den YouTube-Player (youtube-nocookie.com) direkt neben dem Faktencheck. Dabei werden Daten an YouTube übertragen.">▶ Video mit Faktencheck hier abspielen</a>` : ''}
-      ${(scope?.videoUrl || v.video?.videoUrl) ? extLink(scope?.videoUrl || v.video.videoUrl, `<span class="btn ghost">${v.video?.role === 'reaction' ? 'Video' : 'Originalvideo'} auf YouTube</span>`) : ''}
+      ${playPath ? `<a class="btn" href="${playPath}" data-tip="${playbackTip}">▶ Video mit Faktencheck hier abspielen</a>` : ''}
+      ${youtubeUrl ? extLink(youtubeUrl, `<span class="btn">${v.video?.playbackUrl ? 'Musikvideo' : v.video?.role === 'reaction' ? 'Video' : 'Originalvideo'} auf YouTube</span>`) : ''}
       <a class="btn ghost" href="${esc(blobUrl('faktenchecks/' + v.id))}" rel="noopener noreferrer" target="_blank">Daten auf GitHub</a>
     </div>
-    ${tabs.some(t => t[0] === 'video') && tab !== 'video' ? '<p class="small btn-note">Der Knopf „hier abspielen“ lädt den YouTube-Player im erweiterten Datenschutzmodus; dabei werden Daten wie deine IP-Adresse an YouTube (Google) übertragen.</p>' : ''}
+    ${playPath ? '<p class="small btn-note">„Hier abspielen“ lädt den YouTube-Player im erweiterten Datenschutzmodus; dabei werden Daten wie deine IP-Adresse an YouTube (Google) übertragen.</p>' : ''}
   </header>
   <nav class="tabs" aria-label="Ansicht">${tabs.map(t => `<a href="${esc(t[1])}"${t[0] === tab ? ' aria-current="page"' : ''}>${t[2]}</a>`).join('')}</nav>`;
 }
