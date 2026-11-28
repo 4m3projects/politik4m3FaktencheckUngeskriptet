@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.
+**Abdeckung: Teilbestand.** Erweiterter Teilbestand: 35 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.
 
 Stand: 2026-11-28 · Video: Ro-IDk_Zrns
 
@@ -12,12 +12,12 @@ Stand: 2026-11-28 · Video: Ro-IDk_Zrns
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 29
-- Abgeschlossen: 20
-- Offen (noch nicht geprueft): 9
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 34
+- Abgeschlossen: 24
+- Offen (noch nicht geprueft): 10
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
-- Erfasste Behauptungsvorkommen: 31
+- Erfasste Behauptungsvorkommen: 36
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 2
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 2
@@ -30,16 +30,16 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 20 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 24 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 13 | 65.0 % |
+| Belegt | 14 | 58.3 % |
 | Teilweise belegt | 0 | 0.0 % |
-| Irreführend / Kontext fehlt | 1 | 5.0 % |
-| Widerlegt | 6 | 30.0 % |
+| Irreführend / Kontext fehlt | 4 | 16.7 % |
+| Widerlegt | 6 | 25.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 0 | nicht anwendbar |
 
@@ -52,12 +52,12 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 29. Ohne verlaessliche Personenzuordnung: 29.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 34. Ohne verlaessliche Personenzuordnung: 34.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 29; mit unsicherem eigenem Aussagebezug: 29. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 34; mit unsicherem eigenem Aussagebezug: 34. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 33, Aussagebezug 33 Vorkommen.
+- Plausibel: Sprecherzuordnung 38, Aussagebezug 38 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |

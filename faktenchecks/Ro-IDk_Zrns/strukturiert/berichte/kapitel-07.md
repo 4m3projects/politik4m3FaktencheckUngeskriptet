@@ -1,6 +1,6 @@
 # Kapitel 07: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand: 35 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.
 
 [Kai] Originalplayer-Metadaten und Herausgeber-Feed zugeordnet. Deutsche automatische YouTube-Spur ausgewiesen; direkter Textabruf blieb ohne Inhalt. Aus offizieller MP3 lokal erzeugte deutsche Whisper-base-Textfenster. Satzzeitmarken gerundet und Zuordnungen plausibel, nicht akustisch bestätigt. Die genannte Zeitabdeckung beschreibt Textfundstellen, nicht alle Aussagen in den Kapiteln.
 
