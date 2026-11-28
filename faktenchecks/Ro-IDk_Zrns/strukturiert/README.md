@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Erweiterter Teilbestand: 22 Prüfgegenstände aus dem Vorspann und ausgewählten Gesprächsstellen bis etwa 2:19. Erfasst sind unter anderem IHRA, der Gaza-Vorwurf, IGH-Gutachten und EU-Maßnahmen. Keine lückenlose Erfassung der Abschnitte oder der Folge; die genannten Zeitfenster sind Fundstellen aus der Audiofassung.
+**Abdeckung: Teilbestand.** Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.
 
 Stand: 2026-11-28 · Video: Ro-IDk_Zrns
 
@@ -12,15 +12,15 @@ Stand: 2026-11-28 · Video: Ro-IDk_Zrns
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 21
-- Abgeschlossen: 13
-- Offen (noch nicht geprueft): 8
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 29
+- Abgeschlossen: 20
+- Offen (noch nicht geprueft): 9
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
-- Erfasste Behauptungsvorkommen: 22
-- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 1
+- Erfasste Behauptungsvorkommen: 31
+- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 2
 - Davon bestaetigte Wiederholungen derselben Person: 0
-- Rueckfragen/Fremdbezuege/Zurueckweisungen: 1
+- Rueckfragen/Fremdbezuege/Zurueckweisungen: 2
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
 - Aussagen ausschliesslich mit ungeklaertem eigenem Bezug: 0
 - Nur referenzierte Aussagen ohne eigene Behauptung: 1
@@ -30,16 +30,16 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 13 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 20 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 11 | 84.6 % |
+| Belegt | 13 | 65.0 % |
 | Teilweise belegt | 0 | 0.0 % |
-| Irreführend / Kontext fehlt | 0 | 0.0 % |
-| Widerlegt | 2 | 15.4 % |
+| Irreführend / Kontext fehlt | 1 | 5.0 % |
+| Widerlegt | 6 | 30.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 0 | nicht anwendbar |
 
@@ -52,12 +52,12 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 21. Ohne verlaessliche Personenzuordnung: 21.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 29. Ohne verlaessliche Personenzuordnung: 29.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 21; mit unsicherem eigenem Aussagebezug: 21. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 29; mit unsicherem eigenem Aussagebezug: 29. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 23, Aussagebezug 23 Vorkommen.
+- Plausibel: Sprecherzuordnung 33, Aussagebezug 33 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
@@ -71,9 +71,11 @@ Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswa
 
 - [Kapitel 1](berichte/kapitel-01.md)
 - [Kapitel 2](berichte/kapitel-02.md)
+- [Kapitel 3](berichte/kapitel-03.md)
 - [Kapitel 5](berichte/kapitel-05.md)
 - [Kapitel 6](berichte/kapitel-06.md)
 - [Kapitel 7](berichte/kapitel-07.md)
 - [Kapitel 8](berichte/kapitel-08.md)
+- [Kapitel 10](berichte/kapitel-10.md)
 - [Vorher/Nachher und vollstaendige eigene Alttexte](migration.md)
 - [Zentrale JSON-Daten](aussagen.json) · [Maschinenlesbare Statistik](statistik.json)

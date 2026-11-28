@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "[Kai] Originalplayer-Metadaten und Herausgeber-Feed zugeordnet. Deutsche automatische YouTube-Spur ausgewiesen; direkter Textabruf blieb ohne Inhalt. Aus offizieller MP3 lokal erzeugte deutsche Whisper-base-Textfenster. Satzzeitmarken gerundet und Zuordnungen plausibel, nicht akustisch bestätigt. Die genannte Zeitabdeckung beschreibt Textfundstellen, nicht alle Aussagen in den Kapiteln.",
-    "coverageNote": "Erweiterter Teilbestand: 22 Prüfgegenstände aus dem Vorspann und ausgewählten Gesprächsstellen bis etwa 2:19. Erfasst sind unter anderem IHRA, der Gaza-Vorwurf, IGH-Gutachten und EU-Maßnahmen. Keine lückenlose Erfassung der Abschnitte oder der Folge; die genannten Zeitfenster sind Fundstellen aus der Audiofassung."
+    "coverageNote": "Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung."
   },
   "legacyPoints": [],
   "sources": [
@@ -286,6 +286,126 @@
       "details": "November 2024.",
       "accessedOn": "2026-11-28",
       "accessBasis": "Ältere Schätzung: etwa 1,9 Mio. Binnenvertriebene bei rund 2,1 Mio. Einwohnern."
+    },
+    {
+      "id": "S035",
+      "title": "BKA und BMI: Bundesweite Fallzahlen 2025 Politisch motivierte Kriminalität",
+      "url": "https://www.publikationen-bundesregierung.de/pp-de/publikationssuche/kriminalitaet-2025-2438466",
+      "details": "9. Juni 2026, Tabelle 15.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Publikation im Regierungskatalog und Tabelle 15 aus einer zugänglichen Kopie des amtlichen Dokuments abgeglichen."
+    },
+    {
+      "id": "S036",
+      "title": "Amtliches BKA/BMI-Factsheet 2025, zugängliche Dokumentkopie",
+      "url": "https://www.lsvd.de/media/doc/2445/2025pmkfallzahlen.pdf",
+      "details": "Tabelle 15, 2024 und 2025.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Absolute Tabellenzahlen gelesen und Anteile eigenständig berechnet. Die Erläuterung oberhalb der Tabelle passt nicht zur Zeilenzuordnung."
+    },
+    {
+      "id": "S037",
+      "title": "Bundestag: Antisemitische Straftaten im vierten Quartal 2025",
+      "url": "https://www.bundestag.de/presse/hib/kurzmeldungen-1146176",
+      "details": "Antwort 21/4063, vorläufige Quartalsdaten.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Amtliche Quartalsaufteilung als unabhängiger Abgleich mit begrenzter Reichweite."
+    },
+    {
+      "id": "S038",
+      "title": "NDR/infratest dimap: Vertrauen in Berichte über den Gaza-Israel-Krieg",
+      "url": "https://www.ndr.de/der_ndr/presse/mitteilungen/NDR-ZAPP-Umfrage-Wenig-Vertrauen-in-deutsche-Berichterstattung-zum-Gaza-Israel-Krieg%2Cpressemeldungndr24698.html",
+      "details": "August 2024.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Originalergebnis des Auftraggebers, 48 Prozent wenig oder kein Vertrauen."
+    },
+    {
+      "id": "S039",
+      "title": "Knesset: amtliches Ergebnis der Parlamentswahl",
+      "url": "https://main.knesset.gov.il/en/mk/pages/electionsresults26.aspx",
+      "details": "Wahl vom 27. Oktober 2026, 120 Mandate.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Veröffentlichte Sitzverteilung pro Liste; Blöcke sind Zusammenfassungen, keine Wahllisten."
+    },
+    {
+      "id": "S040",
+      "title": "Israelische Wahlkommission: endgültiges Wahlprotokoll",
+      "url": "https://www.gov.il/BlobFolder/generalpage/mandates/he/Memorandum%20-%20Results%20of%20the%2026th%20Knesset%20Elections.pdf",
+      "details": "4. November 2026, Wahlergebnis vom 27. Oktober.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Amtliches Protokoll als Abgleich der Sitzverteilung."
+    },
+    {
+      "id": "S041",
+      "title": "PCPSR: Wahlumfrage Oktober 2026",
+      "url": "https://www.pcpsr.org/en/node/1018",
+      "details": "Parteipräferenz, keine Schätzung von Mitgliedschaften.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Ergebnisse zu Gebiet, Parteien und Unentschlossenen gelesen."
+    },
+    {
+      "id": "S042",
+      "title": "PCPSR: Bericht mit regionalen Tabellen zur Oktoberumfrage",
+      "url": "https://mail.pcpsr.org/sites/default/files/PSR%20October%202026%20Election%20Poll.pdf",
+      "details": "Grafik zur Parteipräferenz: Gesamt, Gaza und Westjordanland.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Gebietsergebnisse und nationale Zahl aus der Primärerhebung."
+    },
+    {
+      "id": "S043",
+      "title": "Vereinte Nationen: Übereinkommen zur Bekämpfung der Finanzierung des Terrorismus",
+      "url": "https://www.un.org/law/cod/finterr.htm",
+      "details": "1999, Art. 2.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Amtlicher Vertragstext mit völkerrechtlichem Tatbestand und anwendbaren Definitionen."
+    },
+    {
+      "id": "S044",
+      "title": "Rat der EU: Sanktionsrahmen gegen Hamas und Palästinensischen Islamischen Dschihad",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/28/hamas-and-the-palestinian-islamic-jihad-council-expands-the-legal-framework-and-adds-ten-individuals-to-the-sanctions-list/",
+      "details": "28. Mai 2026; verweist ausdrücklich auf bestehende EU-Terrorlistung.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Amtliche Beschreibung von EU-Einstufung und gesondertem Sanktionsrahmen."
+    },
+    {
+      "id": "S045",
+      "title": "Internationaler Strafgerichtshof: Verfahrensübersicht zu Mohammed Deif",
+      "url": "https://www.icc-cpi.int/defendant/deif",
+      "details": "Haftbefehl 21. November 2024; Beendigung des Verfahrens 26. Februar 2025.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Gerichtliche Angaben zum Vorwurf und zum Verfahrensstand gelesen."
+    },
+    {
+      "id": "S046",
+      "title": "Internationaler Strafgerichtshof: Haftbefehl gegen Mohammed Deif",
+      "url": "https://www.icc-cpi.int/news/situation-state-palestine-icc-pre-trial-chamber-i-issues-warrant-arrest-mohammed-diab-ibrahim",
+      "details": "21. November 2024.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Haftbefehl gegen Deif von zurückgezogenen Anträgen gegen Haniyeh und Sinwar unterschieden."
+    },
+    {
+      "id": "S047",
+      "title": "Palästinensische Wahlkommission: amtliches Ergebnis der Parlamentswahl",
+      "url": "https://www.elections.ps/tabid/146/ArtMID/9115/ArticleID/889/language/en-US/Default.aspx",
+      "details": "Januar 2006: Liste „Change and Reform“ 74, Fatah 45 Sitze.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Amtliches Endergebnis der Legislativwahl."
+    },
+    {
+      "id": "S048",
+      "title": "Palästinensische Wahlkommission: Kommunalwahlen 2004/2005",
+      "url": "https://www.elections.ps/tabid/168/language/en-US/Default.aspx",
+      "details": "Gaza: erste kommunale Runde am 27. Januar 2005.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Abgrenzung von Kommunalwahlen und Parlamentswahl."
+    },
+    {
+      "id": "S049",
+      "title": "Deutsches Reichsgesetzblatt: Weimarer Reichsverfassung",
+      "url": "https://germanhistorydocs.org/de/die-weimarer-republik-1918-1933/die-weimarer-verfassung-11-august-1919",
+      "details": "1919, Art. 145; historische Edition des amtlichen Texts.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Rechtswortlaut zur allgemeinen Schulpflicht."
     }
   ],
   "speakers": [
@@ -379,7 +499,7 @@
       "description": "Bei „Where’s Daddy?“ seien Handys von Kindern abgehört worden, um die Heimkehr der Väter festzustellen.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Offen nach Recherche: Die Originalrecherche und HRW beschreiben die Ortung von Zielpersonen beziehungsweise Mobilfunksignalen. Das belegt nicht, dass ausgerechnet Telefone von Kindern akustisch abgehört wurden. Die Quellenlücke allein widerlegt den behaupteten Vorgang nicht.",
+      "reason": "Offen nach Recherche: Die Originalrecherche und HRW beschreiben die Ortung von Zielpersonen beziehungsweise Mobilfunksignalen. Das belegt nicht, dass ausgerechnet Telefone von Kindern akustisch abgehört wurden. Die Quellenlücke allein widerlegt den behaupteten Vorgang nicht. In der Hauptpassage wiederholt Baé laut Audio-Textfassung ausdrücklich die Behauptung zum Abhören der Telefone der Kinder. Der zusätzliche Gesprächskontext löst die technische Quellenlücke nicht.",
       "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -405,13 +525,30 @@
         }
       ],
       "openQuestions": [
-        "Hauptpassage, den dort genannten Quellenbericht und den Unterschied zwischen Standortdaten und Gesprächsinhalten prüfen."
+        "Konkreten Quellenbericht für die behauptete Erfassung von Gesprächsinhalten, die Bezugspersonen und den geschilderten Ablauf identifizieren."
       ],
       "occurrences": [
         {
           "id": "Ro-IDk_Zrns-O0002",
           "startSeconds": 7,
           "endSeconds": 14,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        },
+        {
+          "id": "Ro-IDk_Zrns-O0033",
+          "startSeconds": 7081,
+          "endSeconds": 7099,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP02",
@@ -1761,6 +1898,528 @@
         "assessedOn": "2026-11-28"
       },
       "shortReason": "Das Gutachten stellte einen Verstoß gegen Artikel 3 fest, benannte die Maßnahmen aber nicht ausdrücklich als Apartheid."
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0023",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 3,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die meisten polizeilich erfassten antisemitischen Gewalttaten in Deutschland seien rechtsmotiviert.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die absoluten Zeilen von Tabelle 15 weisen 2025 54 von 156 Taten rechts und 73 ausländischer Ideologie zu, 2024 64 bzw. 81 von 173. Rechts war in beiden Jahren keine Mehrheit. Die 2025er Prosa im selben Factsheet vertauscht offenbar die Zuordnung: Sie nennt rund 47 Prozent rechts, obwohl die Tabelle 54 rechts und 73 ausländische Ideologie ausweist. Selbst nach der Prosa wäre Letzteres kein kleiner Anteil. Polizeiliche Motivkategorien sind keine Angaben zur Herkunft oder Religion der Täter; die Statistik misst registrierte Fälle, nicht alle tatsächlich begangenen Taten.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S035",
+          "note": "Amtliches Factsheet, Berichtsstand."
+        },
+        {
+          "sourceId": "S036",
+          "note": "Tabelle 15 mit Vergleichsjahren; Fließtext weicht ab."
+        },
+        {
+          "sourceId": "S037",
+          "note": "Q4 2025: 14 ausländische Ideologie von insgesamt 23 Gewalttaten, vorläufig."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0024",
+          "startSeconds": 1738,
+          "endSeconds": 1759,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      },
+      "shortReason": "Laut BKA-Tabelle waren 2025 54 von 156 Fällen rechts und 73 „ausländischer Ideologie“ zugeordnet; 2024 war die Verteilung ähnlich."
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0024",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Laut Umfragen vertraue eine Mehrheit der Deutschen der deutschen Berichterstattung über den Gaza-Krieg nicht mehr.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die namensnahe repräsentative NDR-Erhebung ergab 2024 48 Prozent wenig oder kein Vertrauen, also keine Mehrheit in dieser Befragung. Sie allein misst auch nicht, ob das Vertrauen zuvor höher war. Baé nennt hier keine konkrete Statistik. Eine andere Erhebung zum Aufnahmedatum ist damit nicht ausgeschlossen.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S038",
+          "note": "48 Prozent im August 2024, kein Trendnachweis."
+        }
+      ],
+      "openQuestions": [
+        "Erhebung, Frage, Feldzeit und frühere Vergleichswerte identifizieren; keine Kausalität aus einer Einzelbefragung ableiten."
+      ],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0025",
+          "startSeconds": 4832,
+          "endSeconds": 4841,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0025",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Lager um Netanjahu erreichte bei der Knessetwahl im Oktober 2026 keine Mandatsmehrheit.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Likud erhielt 27 Sitze. Zusammen mit Otzma Yehudit (7), Vereinigtem Thora-Judentum (7), Schas (6) und Religiösem Zionismus (6) kommt das bisherige Regierungslager auf 53 von 120 Mandaten und liegt damit unter der Mehrheit von 61. Die Summe ist ein politischer Block, keine gemeinsame Wahlliste, und sagt nicht voraus, welche Koalition entsteht.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S039",
+          "note": "Sitze der fünf Listen."
+        },
+        {
+          "sourceId": "S040",
+          "note": "Endgültiges Ergebnis, 4. November; die Aufzeichnung war am 3. November."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0026",
+          "startSeconds": 6005,
+          "endSeconds": 6015,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": []
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0026",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Weniger als 20 Prozent der Menschen in Gaza unterstützten die Hamas.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die Oktober-Umfrage des PCPSR nennt 19 Prozent Parteipräferenz insgesamt für Westjordanland und Gaza, aber etwa 27 Prozent in Gaza. Bens Frage bezog sich auf Gaza. Zustimmung zu bestimmten Positionen, Stimmabsicht für eine gemeinsame Liste oder formale Mitgliedschaft sind andere Messgrößen. Baé nennt die konkrete Erhebung nicht; die 19 Prozent taugen deshalb nicht als Beleg für eine Gaza-Quote.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S041",
+          "note": "19 Prozent insgesamt; 13 Prozent im Westjordanland."
+        },
+        {
+          "sourceId": "S042",
+          "note": "Gesonderte Gaza-Zahlen der Parteipräferenz."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0027",
+          "startSeconds": 7193,
+          "endSeconds": 7215,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      },
+      "shortReason": "19 Prozent ist der Gesamtwert der PCPSR-Umfrage, nicht der Gaza-Wert. In Gaza liegt die Parteipräferenz dort bei rund 27 Prozent."
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0027",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Das Völkerrecht kenne den Begriff Terrorismus nicht.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Es gibt keine in allen Rechtsbereichen einheitliche Definition. Das Völkerrecht kennt Terrorismus aber ausdrücklich, etwa im Übereinkommen zur Bekämpfung seiner Finanzierung. Die EU führt Hamas auf ihrer Terrorliste. Davon zu unterscheiden ist, unter welchen konkreten Tatbeständen der Internationale Strafgerichtshof bestimmte Handlungen verfolgt.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S043",
+          "note": "Völkerrechtlicher Vertrag mit einschlägigem Straftatbestand."
+        },
+        {
+          "sourceId": "S044",
+          "note": "EU-Einstufung der Hamas, nicht bloß deutsche politische Sprachwahl."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0028",
+          "startSeconds": 7243,
+          "endSeconds": 7256,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      },
+      "shortReason": "Ein UN-Übereinkommen verwendet den Begriff ausdrücklich. Eine fehlende allgemeine Definition heißt nicht, dass der Begriff im Völkerrecht unbekannt ist."
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0028",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Internationale Strafgerichtshof warf einem Hamas-Führungsmitglied in einem Haftbefehl Kriegsverbrechen und Verbrechen gegen die Menschlichkeit vor.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Gegen Mohammed Deif erging am 21. November 2024 ein Haftbefehl wegen des Verdachts beider Deliktsgruppen. Die Anträge gegen Haniyeh und Sinwar waren vor Erteilung zurückgezogen worden. Das Verfahren gegen Deif wurde im Februar 2025 nach Mitteilung seines Todes beendet. Es handelt sich nicht um Verurteilungen oder einen zur Interviewzeit fortgeltenden Haftbefehl gegen Deif.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S045",
+          "note": "Ein Haftbefehl mit beiden Deliktsgruppen; Verfahren beendet."
+        },
+        {
+          "sourceId": "S046",
+          "note": "Anträge gegen zwei weitere Hamas-Führungsmitglieder und Abgrenzung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0029",
+          "startSeconds": 7261,
+          "endSeconds": 7272,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0029",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der Wahlsieg der Hamas vor dem Bruch mit Fatah sei 2005 gewesen.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Die als „Change and Reform“ angetretene Hamas-Liste gewann die palästinensische Legislativwahl im Januar 2006 mit 74 Sitzen gegen 45 der Fatah. 2005 fanden in Gaza auch Kommunalwahlen statt. Die Abfolge im Gespräch deutet auf die Parlamentswahl, nicht auf einen bestimmten lokalen Urnengang.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S047",
+          "note": "Amtliches Ergebnis der Parlamentswahl im Januar 2006."
+        },
+        {
+          "sourceId": "S048",
+          "note": "Kommunalwahlen 2005 als anderer Wahltyp."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0030",
+          "startSeconds": 7452,
+          "endSeconds": 7460,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      },
+      "shortReason": "Die Parlamentswahl gewann die Hamas-Liste im Januar 2006. Die Urnengänge 2005 in Gaza waren Kommunalwahlen."
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0030",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 10,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die NSDAP habe die allgemeine Schulpflicht in Deutschland eingeführt.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Bereits die Weimarer Reichsverfassung von 1919 bestimmte in Artikel 145 die allgemeine Schulpflicht. Der Satz wird im Gespräch unmittelbar von Baé korrigiert. Eine spätere Neuordnung der Schulpflicht ist nicht ihre erstmalige Einführung.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S049",
+          "note": "Amtlicher Verfassungstext von 1919, Art. 145."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0031",
+          "startSeconds": 13255,
+          "endSeconds": 13258,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        },
+        {
+          "id": "Ro-IDk_Zrns-O0032",
+          "startSeconds": 13259,
+          "endSeconds": 13264,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Zurückweisung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Die Aussage wird im Gespräch unmittelbar korrigiert.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "shortReason": "Die allgemeine Schulpflicht stand schon 1919 in Artikel 145 der Weimarer Reichsverfassung."
     }
   ]
 }

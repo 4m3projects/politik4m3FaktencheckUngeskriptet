@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Erweiterter Teilbestand: 22 Prüfgegenstände aus dem Vorspann und ausgewählten Gesprächsstellen bis etwa 2:19. Erfasst sind unter anderem IHRA, der Gaza-Vorwurf, IGH-Gutachten und EU-Maßnahmen. Keine lückenlose Erfassung der Abschnitte oder der Folge; die genannten Zeitfenster sind Fundstellen aus der Audiofassung.",
+  "coverageNote": "Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.",
   "videoId": "Ro-IDk_Zrns",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 22,
-  "uniqueStatements": 21,
+  "statementRecords": 30,
+  "uniqueStatements": 29,
   "referenceOnlyStatements": 1,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 22,
-  "additionalAssertionOccurrences": 1,
+  "assertionOccurrences": 31,
+  "additionalAssertionOccurrences": 2,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
-  "referenceOccurrences": 1,
+  "referenceOccurrences": 2,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 8,
+    "Offen": 9,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 13
+    "Abgeschlossen": 20
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 21,
+    "Tatsachenbehauptung": 29,
     "Meinung": 0,
     "Prognose": 0
   },
-  "completedFacts": 13,
-  "openFacts": 8,
+  "completedFacts": 20,
+  "openFacts": 9,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 13,
+  "percentageDenominator": 20,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 11,
-      "completedFactPercent": 84.6
+      "completedCount": 13,
+      "completedFactPercent": 65.0
     },
     {
       "category": "Teilweise belegt",
@@ -44,13 +44,13 @@
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 1,
+      "completedFactPercent": 5.0
     },
     {
       "category": "Widerlegt",
-      "completedCount": 2,
-      "completedFactPercent": 15.4
+      "completedCount": 6,
+      "completedFactPercent": 30.0
     },
     {
       "category": "Nicht ausreichend belegbar",
@@ -151,19 +151,19 @@
         ]
       }
     ],
-    "eligibleFacts": 21,
+    "eligibleFacts": 29,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 21,
-    "factsWithUncertainAttribution": 21,
-    "factsWithUncertainOwnRole": 21,
+    "factsWithoutReliablePerson": 29,
+    "factsWithUncertainAttribution": 29,
+    "factsWithUncertainOwnRole": 29,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 23,
+      "Plausibel": 33,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 23,
+      "Plausibel": 33,
       "Ungeklärt": 0
     }
   }
