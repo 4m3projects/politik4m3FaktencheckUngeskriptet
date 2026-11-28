@@ -2,6 +2,6 @@
 
 Automatisch aus aussagen.json erzeugt. Die nachstehenden Alttexte sind unsere bereits veroeffentlichten Projekttexte, keine Originalrede oder Transkripte.
 
-Abdeckung: Erweiterter Teilbestand: 22 Prüfgegenstände aus dem Vorspann und ausgewählten Gesprächsstellen bis etwa 2:19. Erfasst sind unter anderem IHRA, der Gaza-Vorwurf, IGH-Gutachten und EU-Maßnahmen. Keine lückenlose Erfassung der Abschnitte oder der Folge; die genannten Zeitfenster sind Fundstellen aus der Audiofassung.
+Abdeckung: Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.
 
 Keine Altpunkte migriert; dieser Datenbestand erfasst Aussagen direkt.

@@ -1,6 +1,6 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand: 22 Prüfgegenstände aus dem Vorspann und ausgewählten Gesprächsstellen bis etwa 2:19. Erfasst sind unter anderem IHRA, der Gaza-Vorwurf, IGH-Gutachten und EU-Maßnahmen. Keine lückenlose Erfassung der Abschnitte oder der Folge; die genannten Zeitfenster sind Fundstellen aus der Audiofassung.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.
 
 [Kai] Originalplayer-Metadaten und Herausgeber-Feed zugeordnet. Deutsche automatische YouTube-Spur ausgewiesen; direkter Textabruf blieb ohne Inhalt. Aus offizieller MP3 lokal erzeugte deutsche Whisper-base-Textfenster. Satzzeitmarken gerundet und Zuordnungen plausibel, nicht akustisch bestätigt. Die genannte Zeitabdeckung beschreibt Textfundstellen, nicht alle Aussagen in den Kapiteln.
 
@@ -78,9 +78,22 @@ Fundstellenhinweis: Sinngemäße Paraphrase, kein wörtliches Zitat.
 
 Zeitgrundlage: Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.
 
+- [01:58:01–01:58:19](https://www.youtube.com/watch?v=Ro-IDk_Zrns&t=7081s) · nicht bestaetigt; Kandidat: Tarek Baé · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Originalbeschreibung und Frage-Antwort-Zusammenhang
+
+Grundlage des Aussagebezugs: Automatische Textfassung im Zusammenhang.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Sinngemäße Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.
+
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen nach Recherche: Die Originalrecherche und HRW beschreiben die Ortung von Zielpersonen beziehungsweise Mobilfunksignalen. Das belegt nicht, dass ausgerechnet Telefone von Kindern akustisch abgehört wurden. Die Quellenlücke allein widerlegt den behaupteten Vorgang nicht.
+Offen nach Recherche: Die Originalrecherche und HRW beschreiben die Ortung von Zielpersonen beziehungsweise Mobilfunksignalen. Das belegt nicht, dass ausgerechnet Telefone von Kindern akustisch abgehört wurden. Die Quellenlücke allein widerlegt den behaupteten Vorgang nicht. In der Hauptpassage wiederholt Baé laut Audio-Textfassung ausdrücklich die Behauptung zum Abhören der Telefone der Kinder. Der zusätzliche Gesprächskontext löst die technische Quellenlücke nicht.
 
 Grundlage der Bewertung: [Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.
 
@@ -104,7 +117,7 @@ Bewertungsuebergang: [Kai] Erfasst und nach Quellenlage eingestuft.
 
 ### Offene Fragen und Unsicherheiten
 
-- Hauptpassage, den dort genannten Quellenbericht und den Unterschied zwischen Standortdaten und Gesprächsinhalten prüfen.
+- Konkreten Quellenbericht für die behauptete Erfassung von Gesprächsinhalten, die Bezugspersonen und den geschilderten Ablauf identifizieren.
 
 ## Ro-IDk_Zrns-A0003
 

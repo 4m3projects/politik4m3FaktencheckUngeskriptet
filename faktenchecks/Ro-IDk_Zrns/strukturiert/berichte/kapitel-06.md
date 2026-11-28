@@ -1,6 +1,6 @@
 # Kapitel 06: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand: 22 Prüfgegenstände aus dem Vorspann und ausgewählten Gesprächsstellen bis etwa 2:19. Erfasst sind unter anderem IHRA, der Gaza-Vorwurf, IGH-Gutachten und EU-Maßnahmen. Keine lückenlose Erfassung der Abschnitte oder der Folge; die genannten Zeitfenster sind Fundstellen aus der Audiofassung.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.
 
 [Kai] Originalplayer-Metadaten und Herausgeber-Feed zugeordnet. Deutsche automatische YouTube-Spur ausgewiesen; direkter Textabruf blieb ohne Inhalt. Aus offizieller MP3 lokal erzeugte deutsche Whisper-base-Textfenster. Satzzeitmarken gerundet und Zuordnungen plausibel, nicht akustisch bestätigt. Die genannte Zeitabdeckung beschreibt Textfundstellen, nicht alle Aussagen in den Kapiteln.
 
@@ -296,6 +296,57 @@ Bewertungsuebergang: [Kai] Erfasst und nach Quellenlage eingestuft.
 
 - [Internationaler Gerichtshof: Gutachten zum besetzten palästinensischen Gebiet](https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf) · 19. Juli 2024, Rechtssache 186, Abs. 78–94, 225–229, 267 und 285.
   Quellenzugriff am 2026-11-28. Amtlichen Gutachtentext zu territorialer und zeitlicher Reichweite, Art. 3 CERD sowie Folgen der rechtswidrigen Präsenz gelesen. Abs. 78–94 zur Reichweite, Abs. 267 und 285 zum Ende der Präsenz.
+
+### Offene Fragen und Unsicherheiten
+
+Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+## Ro-IDk_Zrns-A0025
+
+Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
+
+**Eigene Beschreibung:** Das Lager um Netanjahu erreichte bei der Knessetwahl im Oktober 2026 keine Mandatsmehrheit.
+
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
+
+### Fundstellen und Zuordnung
+
+- [01:40:05–01:40:15](https://www.youtube.com/watch?v=Ro-IDk_Zrns&t=6005s) · nicht bestaetigt; Kandidat: Ben Berndt · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Originalbeschreibung und Frage-Antwort-Zusammenhang
+
+Grundlage des Aussagebezugs: Automatische Textfassung im Zusammenhang.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Sinngemäße Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.
+
+### Eigene Begruendung und Migrationsentscheidung
+
+Likud erhielt 27 Sitze. Zusammen mit Otzma Yehudit (7), Vereinigtem Thora-Judentum (7), Schas (6) und Religiösem Zionismus (6) kommt das bisherige Regierungslager auf 53 von 120 Mandaten und liegt damit unter der Mehrheit von 61. Die Summe ist ein politischer Block, keine gemeinsame Wahlliste, und sagt nicht voraus, welche Koalition entsteht.
+
+Grundlage der Bewertung: [Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.
+
+Uebernahme: Erstprüfung ohne Altpunkte.
+
+Bewertungsuebergang: [Kai] Erfasst und nach Quellenlage eingestuft.
+
+### Zugeordnete Quellen
+
+- [YouTube-Original: Ben Berndt im Gespräch mit Tarek Baé](https://www.youtube.com/watch?v=Ro-IDk_Zrns) · 28.11.2026; 3:55:55; Originaltitel und Kapitel.
+  Quellenzugriff am 2026-11-28. Öffentliche Metadaten des offiziellen YouTube-Uploads geprüft. Die automatisch erzeugte deutsche Untertitelspur war ausgewiesen, lieferte im Abruf aber keinen Text. Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg.
+
+- [Offizieller Podcast-Feed: Folge 357](https://feeds.megaphone.fm/UNGESKRIPTETMEDIAGMBH9200557996) · Audioepisode mit Tarek Baé; die konkret abgerufene Ausgabe misst 3:55:54,6; im RSS ist eine abweichende Laufzeit angegeben.
+  Quellenzugriff am 2026-11-28. Bereitgestellte MP3 lokal mit Whisper (base, Deutsch) transkribiert und ausgewählte Textfenster gelesen. Automatische Textgrundlage, keine durchgängige Hör- oder Bildkontrolle. Zeitangaben näherungsweise. Automatische Textfundstelle aus der offiziellen Audiofassung.
+
+- [Knesset: amtliches Ergebnis der Parlamentswahl](https://main.knesset.gov.il/en/mk/pages/electionsresults26.aspx) · Wahl vom 27. Oktober 2026, 120 Mandate.
+  Quellenzugriff am 2026-11-28. Veröffentlichte Sitzverteilung pro Liste; Blöcke sind Zusammenfassungen, keine Wahllisten. Sitze der fünf Listen.
+
+- [Israelische Wahlkommission: endgültiges Wahlprotokoll](https://www.gov.il/BlobFolder/generalpage/mandates/he/Memorandum%20-%20Results%20of%20the%2026th%20Knesset%20Elections.pdf) · 4. November 2026, Wahlergebnis vom 27. Oktober.
+  Quellenzugriff am 2026-11-28. Amtliches Protokoll als Abgleich der Sitzverteilung. Endgültiges Ergebnis, 4. November; die Aufzeichnung war am 3. November.
 
 ### Offene Fragen und Unsicherheiten
 
