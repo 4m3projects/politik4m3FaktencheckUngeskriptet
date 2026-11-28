@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Erster Teilbestand: sieben Prüfgegenstände aus dem Vorspann und dem Einstieg in die Antisemitismusdebatte. Drei historische Sachkerne bewertet, vier konkrete Fragen offen. Der Vorspann ist eine Auswahl; der übrige Gesprächsverlauf und die Hauptstelle zum Genozid-Vorwurf sind nicht in diesem Teilbestand. Kein abschließender Hör-/Bildabgleich und keine Vollerfassung.",
+  "coverageNote": "Erweiterter Teilbestand: 22 Prüfgegenstände aus dem Vorspann und ausgewählten Gesprächsstellen bis etwa 2:19. Erfasst sind unter anderem IHRA, der Gaza-Vorwurf, IGH-Gutachten und EU-Maßnahmen. Keine lückenlose Erfassung der Abschnitte oder der Folge; die genannten Zeitfenster sind Fundstellen aus der Audiofassung.",
   "videoId": "Ro-IDk_Zrns",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 7,
-  "uniqueStatements": 6,
+  "statementRecords": 22,
+  "uniqueStatements": 21,
   "referenceOnlyStatements": 1,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 6,
-  "additionalAssertionOccurrences": 0,
+  "assertionOccurrences": 22,
+  "additionalAssertionOccurrences": 1,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 1,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 3,
+    "Offen": 8,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 3
+    "Abgeschlossen": 13
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 6,
+    "Tatsachenbehauptung": 21,
     "Meinung": 0,
     "Prognose": 0
   },
-  "completedFacts": 3,
-  "openFacts": 3,
+  "completedFacts": 13,
+  "openFacts": 8,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 3,
+  "percentageDenominator": 13,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 3,
-      "completedFactPercent": 100.0
+      "completedCount": 11,
+      "completedFactPercent": 84.6
     },
     {
       "category": "Teilweise belegt",
@@ -49,8 +49,8 @@
     },
     {
       "category": "Widerlegt",
-      "completedCount": 0,
-      "completedFactPercent": 0.0
+      "completedCount": 2,
+      "completedFactPercent": 15.4
     },
     {
       "category": "Nicht ausreichend belegbar",
@@ -151,19 +151,19 @@
         ]
       }
     ],
-    "eligibleFacts": 6,
+    "eligibleFacts": 21,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 6,
-    "factsWithUncertainAttribution": 6,
-    "factsWithUncertainOwnRole": 6,
+    "factsWithoutReliablePerson": 21,
+    "factsWithUncertainAttribution": 21,
+    "factsWithUncertainOwnRole": 21,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 7,
+      "Plausibel": 23,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 7,
+      "Plausibel": 23,
       "Ungeklärt": 0
     }
   }

@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
-**Abdeckung: Teilbestand.** Erster Teilbestand: sieben Prüfgegenstände aus dem Vorspann und dem Einstieg in die Antisemitismusdebatte. Drei historische Sachkerne bewertet, vier konkrete Fragen offen. Der Vorspann ist eine Auswahl; der übrige Gesprächsverlauf und die Hauptstelle zum Genozid-Vorwurf sind nicht in diesem Teilbestand. Kein abschließender Hör-/Bildabgleich und keine Vollerfassung.
+**Abdeckung: Teilbestand.** Erweiterter Teilbestand: 22 Prüfgegenstände aus dem Vorspann und ausgewählten Gesprächsstellen bis etwa 2:19. Erfasst sind unter anderem IHRA, der Gaza-Vorwurf, IGH-Gutachten und EU-Maßnahmen. Keine lückenlose Erfassung der Abschnitte oder der Folge; die genannten Zeitfenster sind Fundstellen aus der Audiofassung.
 
 Stand: 2026-11-28 · Video: Ro-IDk_Zrns
 
@@ -12,13 +12,13 @@ Stand: 2026-11-28 · Video: Ro-IDk_Zrns
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 6
-- Abgeschlossen: 3
-- Offen (noch nicht geprueft): 3
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 21
+- Abgeschlossen: 13
+- Offen (noch nicht geprueft): 8
 - In Bearbeitung: 0
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
-- Erfasste Behauptungsvorkommen: 6
-- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
+- Erfasste Behauptungsvorkommen: 22
+- Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 1
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 1
 - Vorkommen mit ungeklaertem eigenem Aussagebezug: 0
@@ -30,16 +30,16 @@ Zusaetzliche Vorkommen umfassen auch ausdrueckliche Zustimmung anderer Personen.
 
 ## Bewertungen und Prozentnenner
 
-Nenner der folgenden Tatsachenprozente: 3 abgeschlossene eigenstaendige Tatsachenpruefungen.
+Nenner der folgenden Tatsachenprozente: 13 abgeschlossene eigenstaendige Tatsachenpruefungen.
 
 Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 3 | 100.0 % |
+| Belegt | 11 | 84.6 % |
 | Teilweise belegt | 0 | 0.0 % |
 | Irreführend / Kontext fehlt | 0 | 0.0 % |
-| Widerlegt | 0 | 0.0 % |
+| Widerlegt | 2 | 15.4 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |
 | Meinung / Prognose | 0 | nicht anwendbar |
 
@@ -52,12 +52,12 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 6. Ohne verlaessliche Personenzuordnung: 6.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 21. Ohne verlaessliche Personenzuordnung: 21.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 6; mit unsicherem eigenem Aussagebezug: 6. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 21; mit unsicherem eigenem Aussagebezug: 21. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 7, Aussagebezug 7 Vorkommen.
+- Plausibel: Sprecherzuordnung 23, Aussagebezug 23 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |
@@ -71,5 +71,9 @@ Null zugeordnete Tatsachen bedeutet keine bestaetigte Zurechnung in dieser Auswa
 
 - [Kapitel 1](berichte/kapitel-01.md)
 - [Kapitel 2](berichte/kapitel-02.md)
+- [Kapitel 5](berichte/kapitel-05.md)
+- [Kapitel 6](berichte/kapitel-06.md)
+- [Kapitel 7](berichte/kapitel-07.md)
+- [Kapitel 8](berichte/kapitel-08.md)
 - [Vorher/Nachher und vollstaendige eigene Alttexte](migration.md)
 - [Zentrale JSON-Daten](aussagen.json) · [Maschinenlesbare Statistik](statistik.json)

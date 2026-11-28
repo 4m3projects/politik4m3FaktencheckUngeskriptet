@@ -1,6 +1,6 @@
 # Kapitel 01: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erster Teilbestand: sieben Prüfgegenstände aus dem Vorspann und dem Einstieg in die Antisemitismusdebatte. Drei historische Sachkerne bewertet, vier konkrete Fragen offen. Der Vorspann ist eine Auswahl; der übrige Gesprächsverlauf und die Hauptstelle zum Genozid-Vorwurf sind nicht in diesem Teilbestand. Kein abschließender Hör-/Bildabgleich und keine Vollerfassung.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand: 22 Prüfgegenstände aus dem Vorspann und ausgewählten Gesprächsstellen bis etwa 2:19. Erfasst sind unter anderem IHRA, der Gaza-Vorwurf, IGH-Gutachten und EU-Maßnahmen. Keine lückenlose Erfassung der Abschnitte oder der Folge; die genannten Zeitfenster sind Fundstellen aus der Audiofassung.
 
 [Kai] Originalplayer-Metadaten und Herausgeber-Feed zugeordnet. Deutsche automatische YouTube-Spur ausgewiesen; direkter Textabruf blieb ohne Inhalt. Aus offizieller MP3 lokal erzeugte deutsche Whisper-base-Textfenster. Satzzeitmarken gerundet und Zuordnungen plausibel, nicht akustisch bestätigt. Die genannte Zeitabdeckung beschreibt Textfundstellen, nicht alle Aussagen in den Kapiteln.
 
@@ -129,9 +129,22 @@ Fundstellenhinweis: Sinngemäße Paraphrase, kein wörtliches Zitat.
 
 Zeitgrundlage: Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.
 
+- [02:16:54–02:17:03](https://www.youtube.com/watch?v=Ro-IDk_Zrns&t=8214s) · nicht bestaetigt; Kandidat: Tarek Baé · Behauptung · Ungefähr
+  Zeitpraezision: Ungefähr. Sprecherzuordnung: **Plausibel**. Aussagebezug: **Plausibel**.
+
+Grundlage der Sprecherzuordnung: Originalbeschreibung und Frage-Antwort-Zusammenhang
+
+Grundlage des Aussagebezugs: Automatische Textfassung im Zusammenhang.
+
+Personenstatistik: ausgeschlossen: Person oder eigener Aussagebezug nicht bestaetigt, oder nur referierender Bezug.
+
+Fundstellenhinweis: Sinngemäße Paraphrase, kein wörtliches Zitat.
+
+Zeitgrundlage: Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.
+
 ### Eigene Begruendung und Migrationsentscheidung
 
-Offen nach Recherche: Der EU-Verfahrenseintrag belegt einen konkreten Vorschlag zur Aussetzung von Handelsbestimmungen. Der kurze Vorspann klärt nicht, welches Paket, welches Datum und welche Art von Sanktionen gemeint sind. Der Vorschlag belegt keine alleinige Blockade.
+Offen hinsichtlich der ausschließlichen Zuschreibung: Im Hauptgespräch nennt Baé drei verschiedene Vorgänge. Die Prüfung von Artikel 2 fand statt. Die Bundesregierung unterstützte den Vorstoß zur Aussetzung im April 2026 nicht, der Rat meldete fehlende Einstimmigkeit. Der EU-Kommissionsvorschlag zu Handelsbestimmungen nach Art. 207 Abs. 4 Unterabs. 1 AEUV hat kein deutsches Einzelveto. Das schließt eine politisch entscheidende deutsche Rolle nicht aus. Die personalisierten Sanktionen folgen einem anderen Verfahren; für die behauptete Alleinursache fehlen nach Vorgang getrennte Belege.
 
 Grundlage der Bewertung: [Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.
 
@@ -150,8 +163,23 @@ Bewertungsuebergang: [Kai] Erfasst und nach Quellenlage eingestuft.
 - [Europäische Kommission: Vorschlag COM(2025) 890](https://eur-lex.europa.eu/procedure/EN/2025_890) · Vorschlag zur Aussetzung bestimmter handelsbezogener Bestimmungen des EU-Israel-Assoziierungsabkommens.
   Quellenzugriff am 2026-11-28. Verfahrenseintrag und Gegenstand geprüft, keine Abstimmungspositionen daraus abgeleitet. Gegenstand eines möglichen Referenzvorschlags, kein Nachweis einer alleinigen Blockade.
 
+- [EU-Außenbeauftragte: Prüfung der Einhaltung des Assoziierungsabkommens](https://www.europarl.europa.eu/doceo/document/P-10-2025-001865-ASW_EN.pdf) · Antwort P-001865/2025; 17 Mitgliedstaaten befürworteten die Prüfung am 20. Mai 2025.
+  Quellenzugriff am 2026-11-28. Amtliche Antwort zum Beginn der Überprüfung gelesen. Überprüfung wurde gestartet.
+
+- [Auswärtiges Amt: Deutsche Haltung zur Aussetzung](https://www.auswaertiges-amt.de/de/newsroom/regierungspressekonferenz-2768490) · Regierungspressekonferenz 22. April 2026.
+  Quellenzugriff am 2026-11-28. Die Bundesregierung erläutert ihre ablehnende Haltung gegen den damaligen Vorstoß und ihre Begründung. Deutsche Position zum April-Vorstoß.
+
+- [EU-Außenministerrat: Ergebnisse zu Israel](https://www.consilium.europa.eu/en/meetings/fac/2026/04/21/) · 21. April 2026, keine Einstimmigkeit zu einem Vorstoß mehrerer Staaten zur vollständigen oder teilweisen Aussetzung.
+  Quellenzugriff am 2026-11-28. Die amtliche Zusammenfassung gibt keine vollständige Aufschlüsselung der Positionen. Ratsergebnis ohne komplette Abstimmungspositionen.
+
+- [EU-Kommission: Handelsteil des EU-Israel-Abkommens](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2025%3A890%3AFIN) · COM(2025) 890, September 2025.
+  Quellenzugriff am 2026-11-28. Originaltext, Umfang und zitierte Rechtsgrundlage Art. 207 Abs. 4 Unterabs. 1 und 218 Abs. 9 AEUV gelesen; eigenständiger Vorschlag. Eigenständiger Handelsvorschlag und Rechtsgrundlage.
+
+- [EU-Kommission: Antwort zu den Vorschlägen gegen Israel](https://redmapl3.europarl.europa.eu/RedmapFront/media/reds_iMaQp_Asw/E-10-2026-000951-ASW/E-10-2026-000951-ASW_en.pdf) · 8. Mai 2026, E-000951/2026.
+  Quellenzugriff am 2026-11-28. Kommission unterscheidet Handelsaussetzung und gezielte Sanktionen; nicht genügend Unterstützung im Rat für Handelsvorschlag. EU-Kommission nennt fehlende Unterstützung; keine Aussage zur Alleinursache.
+
 ### Offene Fragen und Unsicherheiten
 
-- Vollständige Passage und Maßnahme identifizieren; Abstimmungsregel und dokumentierte Positionen der Mitgliedstaaten abgleichen.
+- Weitere dokumentierte Länderpositionen und konkrete Verfahrensstände je Maßnahme prüfen; formales Veto und politischen Einfluss unterscheiden.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

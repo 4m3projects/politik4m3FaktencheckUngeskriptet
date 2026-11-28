@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "[Kai] Originalplayer-Metadaten und Herausgeber-Feed zugeordnet. Deutsche automatische YouTube-Spur ausgewiesen; direkter Textabruf blieb ohne Inhalt. Aus offizieller MP3 lokal erzeugte deutsche Whisper-base-Textfenster. Satzzeitmarken gerundet und Zuordnungen plausibel, nicht akustisch bestätigt. Die genannte Zeitabdeckung beschreibt Textfundstellen, nicht alle Aussagen in den Kapiteln.",
-    "coverageNote": "Erster Teilbestand: sieben Prüfgegenstände aus dem Vorspann und dem Einstieg in die Antisemitismusdebatte. Drei historische Sachkerne bewertet, vier konkrete Fragen offen. Der Vorspann ist eine Auswahl; der übrige Gesprächsverlauf und die Hauptstelle zum Genozid-Vorwurf sind nicht in diesem Teilbestand. Kein abschließender Hör-/Bildabgleich und keine Vollerfassung."
+    "coverageNote": "Erweiterter Teilbestand: 22 Prüfgegenstände aus dem Vorspann und ausgewählten Gesprächsstellen bis etwa 2:19. Erfasst sind unter anderem IHRA, der Gaza-Vorwurf, IGH-Gutachten und EU-Maßnahmen. Keine lückenlose Erfassung der Abschnitte oder der Folge; die genannten Zeitfenster sind Fundstellen aus der Audiofassung."
   },
   "legacyPoints": [],
   "sources": [
@@ -94,6 +94,198 @@
       "details": "Vorschlag zur Aussetzung bestimmter handelsbezogener Bestimmungen des EU-Israel-Assoziierungsabkommens.",
       "accessedOn": "2026-11-28",
       "accessBasis": "Verfahrenseintrag und Gegenstand geprüft, keine Abstimmungspositionen daraus abgeleitet."
+    },
+    {
+      "id": "S011",
+      "title": "Deutscher Bundestag: Abstimmung zum Antrag gegen Antisemitismus",
+      "url": "https://www.bundestag.de/dokumente/textarchiv/2024/kw45-de-juedisches-leben-1027708",
+      "details": "7. November 2024, Drucksache 20/13627.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Amtliche Abstimmungsdarstellung und Dokumentbezug gelesen."
+    },
+    {
+      "id": "S012",
+      "title": "IHRA: Nicht rechtsverbindliche Arbeitsdefinition von Antisemitismus",
+      "url": "https://holocaustremembrance.com/wp-content/uploads/2024/01/IHRA-non-legally-binding-working-definition-of-antisemitism-1.pdf",
+      "details": "Definition und Anwendungsbeispiele.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Originaldefinition, Kontextklausel, Beispiel zu Doppelstandards und Grenze bei vergleichbarer Israelkritik gelesen."
+    },
+    {
+      "id": "S013",
+      "title": "UN-Untersuchungskommission: Rechtliche Analyse zum Genozidvorwurf in Gaza",
+      "url": "https://www.un.org/unispal/wp-content/uploads/2025/09/a-hrc-60-crp-3.pdf",
+      "details": "A/HRC/60/CRP.3, September 2025, insbesondere Abs. 168–170, 226–230 und 252–255.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Feststellungen, Evidenzmaßstab und Datierung der von der Kommission ausgewerteten Äußerungen gelesen."
+    },
+    {
+      "id": "S014",
+      "title": "Internationaler Gerichtshof: Fristen Südafrika gegen Israel",
+      "url": "https://icj-web.leman.un-icc.cloud/sites/default/files/case-related/192/192-20260521-ord-01-00-en.pdf",
+      "details": "Beschluss vom 21. Mai 2026, Rechtssache 192.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Weiterer Schriftsatzwechsel mit Fristen 22. November 2027 und 22. Mai 2029; keine Entscheidung zur Hauptsache."
+    },
+    {
+      "id": "S015",
+      "title": "Israelische Streitkräfte: Klarstellung zur Hagari-Äußerung",
+      "url": "https://www.idf.il/en/mini-sites/israel-at-war/war-on-hamas-2023-resources/idf-press-release-clarification/",
+      "details": "25. Dezember 2023; Stellungnahme zum mündlichen Briefing vom 10. Oktober.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Widerspruch zum verbreiteten Zitat und eigene Darstellung gelesen; Beteiligtenquelle, kein unabhängiger Mitschnitt."
+    },
+    {
+      "id": "S016",
+      "title": "Israelische Streitkräfte: eigenes Briefing von Daniel Hagari",
+      "url": "https://www.idf.il/en/mini-sites/israel-at-war/briefings-by-idf-spokesperson-bg-effie-defrin/october-press-briefings/press-briefing-by-idf-spokesperson-rear-admiral-daniel-hagari-october-10th-morning/",
+      "details": "10. Oktober 2023, morgens, englischsprachige Veröffentlichung.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Veröffentlichte Darstellung zu anvisierten Zielen und großer Schadenswirkung; kein vollständiger hebräischer Mitschnitt der Pressefragen."
+    },
+    {
+      "id": "S017",
+      "title": "George W. Bush: State of the Union",
+      "url": "https://georgewbush-whitehouse.archives.gov/news/releases/2002/01/20020129-11.html",
+      "details": "29. Januar 2002.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Originalrede im Archiv des Weißen Hauses, die drei zuvor besprochenen Staaten geprüft."
+    },
+    {
+      "id": "S018",
+      "title": "Vereinte Nationen: Genozidkonvention",
+      "url": "https://www.un.org/en/genocide-prevention/1948-convention",
+      "details": "Artikel II.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Konventionstext zum notwendigen besonderen Vernichtungsvorsatz gelesen."
+    },
+    {
+      "id": "S019",
+      "title": "Internationaler Gerichtshof: Kroatien gegen Serbien",
+      "url": "https://api.icj-cij.org/sites/default/files/case-related/118/118-20150203-JUD-01-00-EN.pdf",
+      "details": "Urteil vom 3. Februar 2015, insbesondere Abs. 148.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Beweismaß für Schluss aus Verhaltensmustern gelesen."
+    },
+    {
+      "id": "S020",
+      "title": "Internationaler Gerichtshof: Gutachten zum besetzten palästinensischen Gebiet",
+      "url": "https://www.un.org/unispal/wp-content/uploads/2024/07/186-20240719-adv-01-00-en.pdf",
+      "details": "19. Juli 2024, Rechtssache 186, Abs. 78–94, 225–229, 267 und 285.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Amtlichen Gutachtentext zu territorialer und zeitlicher Reichweite, Art. 3 CERD sowie Folgen der rechtswidrigen Präsenz gelesen."
+    },
+    {
+      "id": "S021",
+      "title": "IGH-Richter Iwasawa: Sondervotum zum Gutachten",
+      "url": "https://api.icj-cij.org/sites/default/files/case-related/186/186-20240719-adv-01-07-enc.pdf",
+      "details": "19. Juli 2024, besonders Abs. 13.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Sondervotum unterscheidet Vertragsverletzung und nicht eigens vorgenommene Apartheideinstufung."
+    },
+    {
+      "id": "S022",
+      "title": "EU-Außenbeauftragte: Prüfung der Einhaltung des Assoziierungsabkommens",
+      "url": "https://www.europarl.europa.eu/doceo/document/P-10-2025-001865-ASW_EN.pdf",
+      "details": "Antwort P-001865/2025; 17 Mitgliedstaaten befürworteten die Prüfung am 20. Mai 2025.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Amtliche Antwort zum Beginn der Überprüfung gelesen."
+    },
+    {
+      "id": "S023",
+      "title": "Europäischer Rat: Bericht zur Einhaltung von Art. 2",
+      "url": "https://www.consilium.europa.eu/en/meetings/european-council/2025/06/26/",
+      "details": "Ergebnisse vom 26. Juni 2025.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Der Europäische Rat nahm den Bericht zur Kenntnis und lud zu weiteren Beratungen ein."
+    },
+    {
+      "id": "S024",
+      "title": "EU-Außenministerrat: Ergebnisse zu Israel",
+      "url": "https://www.consilium.europa.eu/en/meetings/fac/2026/04/21/",
+      "details": "21. April 2026, keine Einstimmigkeit zu einem Vorstoß mehrerer Staaten zur vollständigen oder teilweisen Aussetzung.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Die amtliche Zusammenfassung gibt keine vollständige Aufschlüsselung der Positionen."
+    },
+    {
+      "id": "S025",
+      "title": "Auswärtiges Amt: Deutsche Haltung zur Aussetzung",
+      "url": "https://www.auswaertiges-amt.de/de/newsroom/regierungspressekonferenz-2768490",
+      "details": "Regierungspressekonferenz 22. April 2026.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Die Bundesregierung erläutert ihre ablehnende Haltung gegen den damaligen Vorstoß und ihre Begründung."
+    },
+    {
+      "id": "S026",
+      "title": "EU-Kommission: Handelsteil des EU-Israel-Abkommens",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=COM%3A2025%3A890%3AFIN",
+      "details": "COM(2025) 890, September 2025.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Originaltext, Umfang und zitierte Rechtsgrundlage Art. 207 Abs. 4 Unterabs. 1 und 218 Abs. 9 AEUV gelesen; eigenständiger Vorschlag."
+    },
+    {
+      "id": "S027",
+      "title": "EU-Kommission: Antwort zu den Vorschlägen gegen Israel",
+      "url": "https://redmapl3.europarl.europa.eu/RedmapFront/media/reds_iMaQp_Asw/E-10-2026-000951-ASW/E-10-2026-000951-ASW_en.pdf",
+      "details": "8. Mai 2026, E-000951/2026.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Kommission unterscheidet Handelsaussetzung und gezielte Sanktionen; nicht genügend Unterstützung im Rat für Handelsvorschlag."
+    },
+    {
+      "id": "S028",
+      "title": "Rat der EU: Gezielte Menschenrechtssanktionen",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/28/extremist-israeli-settlers-eu-lists-four-entities-and-three-individuals/",
+      "details": "28. Mai 2026, vier Einrichtungen und drei Personen.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Amtliche Namensliste und Rechtsakt; nicht das Paket gegen die beiden Minister."
+    },
+    {
+      "id": "S029",
+      "title": "Fünf Regierungen: Maßnahmen gegen Ben-Gvir und Smotrich",
+      "url": "https://www.gov.uk/government/news/foreign-ministers-joint-statement-on-measures-targeting-itamar-ben-gvir-and-bezalel-smotrich",
+      "details": "10. Juni 2025.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Gemeinsame Ankündigung Australiens, Kanadas, Neuseelands, Norwegens und des Vereinigten Königreichs gelesen."
+    },
+    {
+      "id": "S030",
+      "title": "Fünf Regierungen: Maßnahmen gegen extremistische Siedler",
+      "url": "https://www.gov.uk/government/news/joint-statement-in-response-to-the-deteriorating-situation-in-the-west-bank",
+      "details": "9. Juni 2026.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Gemeinsame Mitteilung Australiens, Kanadas, Frankreichs, Norwegens und des Vereinigten Königreichs gelesen."
+    },
+    {
+      "id": "S031",
+      "title": "Zwölf Staaten: Erklärung zum Handel mit Siedlungen",
+      "url": "https://www.gov.uk/government/news/joint-foreign-ministers-statement-on-the-two-state-solution",
+      "details": "8. September 2026.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Erklärung u. a. Frankreichs, Spaniens, Kanadas und des Vereinigten Königreichs unterscheidet geplante, geprüfte und unterstützte Schritte."
+    },
+    {
+      "id": "S032",
+      "title": "Itidal: Eigene Darstellung zur öffentlichen Nennung Baés durch Shalicar",
+      "url": "https://itidal.de/israels-militar-setzt-tarek-bae-auf-feindesliste/",
+      "details": "Darstellung des von Baé geleiteten Mediums.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Quellenhinweis zur öffentlichen Zuschreibung; keine unabhängige Bestätigung einer amtlichen Liste."
+    },
+    {
+      "id": "S033",
+      "title": "UN-Nothilfekoordination: Lagebericht zu Starkregen und Unterkünften in Gaza",
+      "url": "https://container.ochaopt.org/content/humanitarian-situation-report-heavy-rains-gaza-strip-8-november-2026",
+      "details": "8. November 2026, fünf Tage nach Gesprächsaufzeichnung.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Unterscheidet Vertriebene allgemein von 1,4 Mio. Menschen in Zelten oder Behelfsunterkünften."
+    },
+    {
+      "id": "S034",
+      "title": "UN-Nothilfekoordination: Gaza-Übersicht zur internen Vertreibung",
+      "url": "https://www.ochaopt.org/sites/default/files/Gaza_Displacement_population_Nov24.pdf",
+      "details": "November 2024.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Ältere Schätzung: etwa 1,9 Mio. Binnenvertriebene bei rund 2,1 Mio. Einwohnern."
     }
   ],
   "speakers": [
@@ -254,7 +446,7 @@
       "description": "EU-Sanktionen gegen Israel seien allein am Widerstand Deutschlands gescheitert.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Offen nach Recherche: Der EU-Verfahrenseintrag belegt einen konkreten Vorschlag zur Aussetzung von Handelsbestimmungen. Der kurze Vorspann klärt nicht, welches Paket, welches Datum und welche Art von Sanktionen gemeint sind. Der Vorschlag belegt keine alleinige Blockade.",
+      "reason": "Offen hinsichtlich der ausschließlichen Zuschreibung: Im Hauptgespräch nennt Baé drei verschiedene Vorgänge. Die Prüfung von Artikel 2 fand statt. Die Bundesregierung unterstützte den Vorstoß zur Aussetzung im April 2026 nicht, der Rat meldete fehlende Einstimmigkeit. Der EU-Kommissionsvorschlag zu Handelsbestimmungen nach Art. 207 Abs. 4 Unterabs. 1 AEUV hat kein deutsches Einzelveto. Das schließt eine politisch entscheidende deutsche Rolle nicht aus. Die personalisierten Sanktionen folgen einem anderen Verfahren; für die behauptete Alleinursache fehlen nach Vorgang getrennte Belege.",
       "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -273,16 +465,53 @@
         {
           "sourceId": "S010",
           "note": "Gegenstand eines möglichen Referenzvorschlags, kein Nachweis einer alleinigen Blockade."
+        },
+        {
+          "sourceId": "S022",
+          "note": "Überprüfung wurde gestartet."
+        },
+        {
+          "sourceId": "S025",
+          "note": "Deutsche Position zum April-Vorstoß."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Ratsergebnis ohne komplette Abstimmungspositionen."
+        },
+        {
+          "sourceId": "S026",
+          "note": "Eigenständiger Handelsvorschlag und Rechtsgrundlage."
+        },
+        {
+          "sourceId": "S027",
+          "note": "EU-Kommission nennt fehlende Unterstützung; keine Aussage zur Alleinursache."
         }
       ],
       "openQuestions": [
-        "Vollständige Passage und Maßnahme identifizieren; Abstimmungsregel und dokumentierte Positionen der Mitgliedstaaten abgleichen."
+        "Weitere dokumentierte Länderpositionen und konkrete Verfahrensstände je Maßnahme prüfen; formales Veto und politischen Einfluss unterscheiden."
       ],
       "occurrences": [
         {
           "id": "Ro-IDk_Zrns-O0003",
           "startSeconds": 47,
           "endSeconds": 53,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        },
+        {
+          "id": "Ro-IDk_Zrns-O0023",
+          "startSeconds": 8214,
+          "endSeconds": 8223,
           "precision": "Ungefähr",
           "speakerId": null,
           "candidateSpeakerId": "SP02",
@@ -557,6 +786,981 @@
         "assessedBy": "Kai",
         "assessedOn": "2026-11-28"
       }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0008",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die Bundestagsresolution zur Antisemitismusdefinition wurde von den Fraktionen außer BSW und Linke mitgetragen.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Beim naheliegenden Antrag 20/13627 stimmten SPD, Union, Grüne, FDP und AfD zu. BSW stimmte dagegen; Die Linke enthielt sich. Baé nennt kein Datum. Der Befund bestätigt die beschriebene Gruppenkonstellation für den Antrag, nicht eine namentliche Einzelabstimmung aller Abgeordneten.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Offizielle Darstellung; Gegenstimme und Enthaltung getrennt."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0008",
+          "startSeconds": 1464,
+          "endSeconds": 1475,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0009",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 2,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Nach der IHRA-Arbeitsdefinition können besondere Doppelstandards bei der Kritik an Israel ein Beispiel für Antisemitismus sein.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das IHRA-Beispiel betrifft Doppelstandards, nicht allein die Tatsache, dass ein Beitrag nur Israel behandelt. Die Beispiele gelten im Gesamtkontext; Kritik wie an anderen Ländern wird ausdrücklich nicht als antisemitisch eingestuft. Die Arbeitsdefinition ist nicht rechtsverbindlich.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S012",
+          "note": "Beispiel zu Doppelstandards mit Kontext und Grenze."
+        },
+        {
+          "sourceId": "S011",
+          "note": "Der angenommene Antrag stellt auf die IHRA-Arbeitsdefinition ab."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0009",
+          "startSeconds": 1474,
+          "endSeconds": 1488,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0010",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Ein israelischer Militärsprecher habe Tarek Baé öffentlich auf eine Feindesliste gesetzt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Baés eigenes Medium berichtet dazu über Arye Sharuz Shalicar. Eine öffentliche persönliche Nennung, ihre Einordnung und ein amtlicher Listeneintrag sind verschiedene Dinge. Die vorliegenden Belege erlauben insbesondere nicht, eine amtliche IDF-Liste oder eine behördliche Folge zu bestätigen.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S032",
+          "note": "Eigendarstellung und Spur zum Originalbeleg."
+        }
+      ],
+      "openQuestions": [
+        "Originalveröffentlichung mit Namensnennung und damalige Funktion prüfen; amtliche Liste und öffentliche Zuschreibung nicht gleichsetzen."
+      ],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0010",
+          "startSeconds": 5114,
+          "endSeconds": 5128,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0011",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Eine vom UN-Menschenrechtsrat eingesetzte Untersuchungskommission kam für Gaza zu einer Genozid-Einordnung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "A/HRC/60/CRP.3 zieht diese Schlussfolgerung für das israelische Vorgehen seit Oktober 2023 und begründet sie mit Äußerungen und Verhaltensmustern. Die Prüfung belegt die wiedergegebene Feststellung der Kommission; sie ist kein Urteil und besagt nicht, dass der IGH die Hauptsache entschieden hat.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Bericht und Schlussfolgerungen, Abs. 252–255."
+        },
+        {
+          "sourceId": "S014",
+          "note": "Separates gerichtliches Verfahren; weitere Schriftsatzfristen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0011",
+          "startSeconds": 5475,
+          "endSeconds": 5494,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0012",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die israelische Regierung habe am 7. oder 8. Oktober 2023 bereits eindeutig öffentlich einen Genozidvorsatz erklärt.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Kommission wertet öffentliche Aussagen als direkte Hinweise auf Vorsatz und stützt ihre Gesamtfolgerung zusätzlich auf Verhaltensmuster. Sie dokumentiert scharfe Aussagen Netanjahus am 7. Oktober; die anschließend im Gespräch angeführten Aussagen über eine vollständige Abriegelung und die Aussage Herzogs fallen auf den 9. bzw. 13. Oktober. Das stützt die Analyse der Kommission, beantwortet aber die zugespitzte Aussage zur eindeutig erklärten Absicht gerade am 7./8. Oktober nicht abschließend.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S013",
+          "note": "Datierungen, zugrunde liegende Aussagen und kumulative Begründung."
+        }
+      ],
+      "openQuestions": [
+        "Welche Äußerung vom 7. oder 8. Oktober meint der Gast konkret, und was belegt sie im vollständigen Kontext?"
+      ],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0012",
+          "startSeconds": 5485,
+          "endSeconds": 5503,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0013",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Daniel Hagari habe im Oktober 2023 erklärt, es gehe um Zerstörung statt Präzision.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die institutionelle Klarstellung bestreitet die verbreitete Lesart und nennt einen längeren Kontext. Das separate veröffentlichte Briefing spricht von Schadenswirkung gegen bezeichnete Ziele. Beide Quellen stammen vom israelischen Militär. Ohne unabhängigen Abgleich des vollständigen mündlichen Wortlauts ist eine exakte Wiedergabe weder bestätigt noch widerlegt.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S015",
+          "note": "Nachträgliche Stellungnahme einer beteiligten Stelle."
+        },
+        {
+          "sourceId": "S016",
+          "note": "Eigene veröffentlichte Fassung; kein vollständiger Mitschnitt der Pressefragen."
+        }
+      ],
+      "openQuestions": [
+        "Vollständiges hebräisches Briefing oder zeitnahe wörtliche Dokumentation einschließlich Frage und Antwort abgleichen."
+      ],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0013",
+          "startSeconds": 5537,
+          "endSeconds": 5546,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0014",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "George W. Bush bezog den Begriff „Achse des Bösen“ auf drei Länder.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "In der Rede vom 29. Januar 2002 nennt Bush Nordkorea, Iran und Irak und verwendet danach die Bezeichnung. Das belegt nur den historischen Vergleichspunkt, nicht eine Gleichsetzung der Kriege.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S017",
+          "note": "Originalrede und direkte Textfolge."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0014",
+          "startSeconds": 5556,
+          "endSeconds": 5578,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0015",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Genozidvorsatz kann auch ohne öffentliche Erklärung rechtlich nachgewiesen werden.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Baé sagt ausdrücklich, dass der Nachweis ohne Erklärung möglich, aber komplizierter sei. Die Genozidkonvention verlangt besonderen Vorsatz, nicht dessen öffentliche Verkündung. Der IGH akzeptiert bei einem Schluss auf Vorsatz allein aus einem Verhaltensmuster nur die einzig vernünftige Schlussfolgerung. Das bewertet die Beweisregel, nicht den Ausgang des Gaza-Verfahrens.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S018",
+          "note": "Artikel II: besonderes Vorsatzerfordernis."
+        },
+        {
+          "sourceId": "S019",
+          "note": "Abs. 148: Schluss aus einem Verhaltensmuster."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0015",
+          "startSeconds": 5591,
+          "endSeconds": 5614,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0016",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 6,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der IGH gelangte zu dem Schluss, dass Israel seine rechtswidrige Präsenz im besetzten palästinensischen Gebiet beenden muss.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Gutachten von 2024 verlangt ein Ende so rasch wie möglich. Es erfasst das Westjordanland, Ostjerusalem und Gaza als territoriale Einheit. Für Gaza differenziert der IGH nach dem fortbestehenden Maß tatsächlicher Kontrolle nach dem Rückzug 2005. Israels militärisches Vorgehen in Gaza als Reaktion auf den 7. Oktober 2023 ist nicht Gegenstand dieses Gutachtens.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Abs. 78–94 zur Reichweite, Abs. 267 und 285 zum Ende der Präsenz."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0016",
+          "startSeconds": 5666,
+          "endSeconds": 5697,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0017",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 7,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Baé beziffert die Zahl der in Gaza Vertriebenen auf 1,8 Millionen.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die Größenordnung ist mit älteren UN-Schätzungen vereinbar: OCHA nannte im November 2024 etwa 1,9 Millionen. Der Bericht vom 8. November 2026 sagt, die meisten Menschen blieben vertrieben, beziffert aber die Teilgruppe in Zelten oder Behelfsunterkünften auf etwa 1,4 Millionen. Das ist keine neue Gesamtzahl. Baé selbst schränkt ein, er wisse nicht, wie aktuell seine Zahl sei.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S034",
+          "note": "Älterer Vergleichswert, kein Stand November 2026."
+        },
+        {
+          "sourceId": "S033",
+          "note": "Neuere Lagebeschreibung mit abweichender Messgröße."
+        }
+      ],
+      "openQuestions": [
+        "Zeitnahe Gesamtzahl zur Vertreibung suchen und von wiederholter Vertreibung und Unterkunftsart unterscheiden."
+      ],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0017",
+          "startSeconds": 8134,
+          "endSeconds": 8149,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0018",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland habe die Überprüfung des EU-Israel-Assoziierungsabkommens blockiert.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Falls mit „blockiert“ gemeint ist, die Prüfung sei verhindert worden, widersprechen die amtlichen Unterlagen: Die EU-Außenbeauftragte startete am 20. Mai 2025 eine Prüfung von Artikel 2 mit Unterstützung von 17 Staaten. Der Europäische Rat nahm den Bericht am 26. Juni zur Kenntnis. Das ist mit deutscher Ablehnung vereinbar, nicht mit einem verhinderten Prüfverfahren.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S022",
+          "note": "Prüfung mit Mehrheit der Mitgliedstaaten tatsächlich eingeleitet."
+        },
+        {
+          "sourceId": "S023",
+          "note": "Prüfbericht anschließend im Europäischen Rat zur Kenntnis genommen."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0018",
+          "startSeconds": 8235,
+          "endSeconds": 8247,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      },
+      "shortReason": "Die EU leitete die Überprüfung ein und legte dem Europäischen Rat einen Bericht vor."
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0019",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland unterstützte den Vorstoß zum Aussetzen des EU-Israel-Assoziierungsabkommens nicht.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Die Bundesregierung bestätigt ihre ablehnende Haltung zum Vorstoß im Außenrat vom 21. April 2026 und begründet sie mit dem Vorrang eines kritischen Dialogs. Der Rat meldet keine Einstimmigkeit; daraus ergibt sich nicht, dass Deutschland allein für das Scheitern verantwortlich war. Der enger gefasste Kommissionsvorschlag zu Handelsbestimmungen ist ein separater Vorgang.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S025",
+          "note": "Amtliche Begründung der deutschen Haltung zum April-Vorstoß."
+        },
+        {
+          "sourceId": "S024",
+          "note": "Ratsergebnis ohne vollständige Aufschlüsselung der Positionen."
+        },
+        {
+          "sourceId": "S026",
+          "note": "Separater Handelsvorschlag."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0019",
+          "startSeconds": 8246,
+          "endSeconds": 8252,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0020",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Deutschland habe die vorgeschlagenen EU-Sanktionen gegen Ben-Gvir und Smotrich blockiert.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die EU-Kommission unterschied gezielte Sanktionen von der Handelsaussetzung. Die EU-Liste vom Mai 2026 betrifft andere Personen und Organisationen. Außerhalb der EU wurden die beiden Minister 2025 von fünf Staaten mit Maßnahmen belegt. Keines dieser Dokumente zeigt, wie Deutschland im Rat über genau diese Personen agierte.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S027",
+          "note": "Unterscheidung der EU-Maßnahmen."
+        },
+        {
+          "sourceId": "S028",
+          "note": "Tatsächlich beschlossene, anders zusammengesetzte EU-Liste."
+        },
+        {
+          "sourceId": "S029",
+          "note": "Konkrete nationale Maßnahmen, keine EU-Abstimmung."
+        }
+      ],
+      "openQuestions": [
+        "Offizielle deutsche Position oder belastbare Ratsunterlagen speziell zu den beiden Ministern und anderen Mitgliedstaaten abgleichen."
+      ],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0020",
+          "startSeconds": 8251,
+          "endSeconds": 8262,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0021",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Mehrere europäische Staaten und Kanada ergriffen außerhalb der EU koordinierte Maßnahmen gegen extremistische Siedler.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Australien, Kanada, Frankreich, Norwegen und das Vereinigte Königreich teilten am 9. Juni 2026 koordinierte Maßnahmen mit. Spanien gehört nicht zu dieser Erklärung; es unterzeichnete die getrennte Erklärung vom September 2026 zu Siedlungswaren. Diese Erklärung benennt je nach Land eingeführte, beabsichtigte oder noch geprüfte Schritte, keine einheitliche bereits vollzogene Maßnahme aller Unterzeichner.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S030",
+          "note": "Konkretes Maßnahmenpaket, Frankreich, Vereinigtes Königreich und Kanada ausdrücklich beteiligt."
+        },
+        {
+          "sourceId": "S031",
+          "note": "Gesonderte Handelsinitiative mit Spanien; nicht dieselbe Maßnahme."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0021",
+          "startSeconds": 8297,
+          "endSeconds": 8312,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0022",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 8,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Der IGH habe die israelischen Maßnahmen bereits ausdrücklich als Apartheid eingestuft.",
+      "status": "Abgeschlossen",
+      "verdict": "Widerlegt",
+      "reason": "Das Gutachten stellte für Maßnahmen im Westjordanland und in Ostjerusalem einen Verstoß gegen Artikel 3 des UN-Antirassismusübereinkommens fest. Artikel 3 umfasst sowohl Rassentrennung als auch Apartheid. Der Gerichtshof hat die Maßnahmen in dieser Passage nicht ausdrücklich einer der beiden Kategorien zugeordnet. Einzelne Richter erläuterten den Befund unterschiedlich. Das widerlegt nicht den Apartheidvorwurf an sich, sondern die Zuschreibung einer ausdrücklichen Einstufung durch den Gerichtshof.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S020",
+          "note": "Abs. 225–229: Trennung und Verstoß gegen Art. 3, keine ausdrückliche Einstufung."
+        },
+        {
+          "sourceId": "S021",
+          "note": "Abs. 13: gesonderte richterliche Erläuterung zum fehlenden ausdrücklichen Begriff."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0022",
+          "startSeconds": 8325,
+          "endSeconds": 8330,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      },
+      "shortReason": "Das Gutachten stellte einen Verstoß gegen Artikel 3 fest, benannte die Maßnahmen aber nicht ausdrücklich als Apartheid."
     }
   ]
 }
