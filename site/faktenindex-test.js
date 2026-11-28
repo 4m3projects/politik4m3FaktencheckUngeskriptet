@@ -60,11 +60,14 @@ test('Noch nicht geprüfte Aussagen zählen nicht als widerlegt und nicht als un
   assert.equal(Math.round(r.coverage * 1000) / 1000, 0.588);
 });
 
-test('Geprüft, aber ungeklärt (nicht ausreichend belegbar) senkt den Index als ungeklärter Anteil und zählt als geprüft', () => {
-  const r = FI.compute([...many(9, 'Belegt'), claim('Nicht ausreichend belegbar')]);
-  assert.equal(r.indexRounded, 0.9);
-  assert.equal(r.coverage, 1);
-  assert.equal(r.counts.ungeklaert, 1);
+test('Altbewertungen zählen als ausstehend, nicht als positives, ungeklärtes oder widerlegtes Indexergebnis', () => {
+  const r = FI.compute([...many(8, 'Belegt'), claim('Nicht ausreichend belegbar'), claim('Teilweise belegt')]);
+  assert.equal(r.indexRounded, 1);
+  assert.equal(r.coverage, 0.8);
+  assert.equal(r.indexed, 8);
+  assert.equal(r.counts.nachpruefung, 2);
+  assert.equal(FI.compute([claim('Teilweise belegt')]).index, null);
+  assert.deepEqual(Object.keys(FI.CONFIG.shares), ['Belegt', 'Irreführend / Kontext fehlt', 'Widerlegt']);
 });
 
 test('Nicht überprüfbar, Meinungen, Fremdbezüge und Wiederholungen bleiben außerhalb von Index und Abdeckung', () => {
@@ -125,21 +128,21 @@ test('Höhere Bedeutung einer widerlegten Aussage senkt den Index, wenn positive
   assert.equal(idx([claim('Widerlegt', weighted(3))]), 0, 'ohne positive Anteile bleibt 0');
 });
 
-test('Höhere Bedeutung einer belegten Aussage erhöht den Index, wenn negative oder ungeklärte Anteile vorhanden sind', () => {
+test('Höhere Bedeutung einer belegten Aussage erhöht den Index, wenn negative Anteile vorhanden sind', () => {
   const a = FI.compute([claim('Belegt'), claim('Widerlegt')]).index;
   const b = FI.compute([claim('Belegt', weighted(3)), claim('Widerlegt')]).index;
   assert.ok(b > a);
   const c = FI.compute([claim('Belegt'), claim('Nicht ausreichend belegbar')]).index;
   const d = FI.compute([claim('Belegt', weighted(2)), claim('Nicht ausreichend belegbar')]).index;
-  assert.ok(d > c);
+  assert.equal(d, c, 'ein ausstehender Altbefund verändert den Index nicht');
   assert.equal(idx(many(4, 'Belegt', weighted(3))), 1, 'nur belegte bleiben 1');
 });
 
-test('Mischkategorien: Standardanteile und begründete eigene Anteile', () => {
-  assert.equal(idx([claim('Teilweise belegt')]), 0.75);
+test('Irreführend bleibt gewertet; historische eigene Anteile sind lesbar, aber ungewertet', () => {
+  assert.equal(idx([claim('Teilweise belegt')]), null);
   assert.equal(idx([claim('Irreführend / Kontext fehlt')]), 0.375);
   const own = claim('Teilweise belegt', { factIndex: { shares: { p: 0.5, f: 0, u: 0.5 }, sharesReason: 'Nur eine von zwei Kernzahlen belegt, die andere offen.' } });
-  assert.equal(idx([own]), 0.5);
+  assert.equal(idx([own]), null);
   assert.deepEqual(FI.validateData(data([own])), []);
   const bad = claim('Belegt', { factIndex: { shares: { p: 0.5, f: 0, u: 0.5 }, sharesReason: 'x' } });
   assert.equal(idx([bad]), 1, 'feste Kategorien ignorieren eigene Anteile');

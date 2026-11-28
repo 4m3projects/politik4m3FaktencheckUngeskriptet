@@ -2,6 +2,14 @@
 
 Diese Anweisung gilt für alle KI-Agenten (Claude, Codex, ChatGPT) und für jede neue, geänderte oder nachgearbeitete Aussage. Sie legt fest, wie eine Aussage **ohne Wahr/Falsch-Urteil** eingeordnet wird. Leserinnen und Leser müssen auf einen Blick sehen, ob eine Aussage **noch nicht bearbeitet** wurde oder ob sie **geprüft, aber nicht belegbar** ist. Diese beiden Fälle dürfen nie verwechselt oder vermischt werden.
 
+## Aktuelle Regel ab 26.11.2026
+
+`Offen` bedeutet ohne Endurteil: entweder noch nicht geprüft oder nach nachgewiesener Recherche nicht entscheidbar. Bei letzterem `reason` mit „Offen nach Recherche:“ beginnen, gelesene Quellen unter `sourceRefs` und konkrete nächste Schritte in `openQuestions` erfassen. `In Bearbeitung` heißt, dass die Prüfung läuft. Fehlende Zeit oder fehlender Zugang sind keine sachliche Widerlegung. Hat die Aussage grundsätzlich keine öffentliche Prüfgrundlage, bleibt `Nicht überprüfbar` mit dokumentiertem Grund der separate Status.
+
+Drei Faktenurteile: `Belegt`, `Irreführend / Kontext fehlt`, `Widerlegt`. `Meinung / Prognose` bleibt als Kennzeichnung. Frühere abgeschlossene Einträge mit `Teilweise belegt` oder `Nicht ausreichend belegbar` behalten ihren Originalwert als Altbewertung bis zur Einzelprüfung; kein Indexbeitrag. Offen und laufend senken die Prüfabdeckung. Nicht überprüfbare Aussagen zählen weder im Index noch in der Abdeckung.
+
+## Historische Regel bis einschließlich Version 1.3 (nur zur Dokumentation)
+
 ## Die vier Prüfstatus
 
 | Status in `aussagen.json` | Anzeige auf der Webseite | Bedeutung | Bewertung (`verdict`) |

@@ -1,8 +1,8 @@
 # Faktenindex – gemeinsame Regel für alle Politik4M3-Faktenchecks
 
-Erstellt von: Claude, auf Auftrag von Jens (20.11.2026). Regelstand 1.3 (Verlauf in Abschnitt 7).
+Erstellt von: Claude, auf Auftrag von Jens (20.11.2026). Regelstand 1.4 (Verlauf in Abschnitt 7).
 
-**Diese Datei ist in allen drei Repositories gleich** (`politik4m3Facktencheck` maßgeblich, `politik4m3FaktencheckUngeskriptet`, `politik4m3FaktencheckKlima`). Sie ist Pflichtlektüre für alle KI-Agenten (Claude, Codex, ChatGPT), die Aussagen bewerten, Bedeutungsfaktoren vergeben oder kontrollieren. Sie ergänzt die bestehenden Regeln; die sechs Bewertungskategorien, die vier Prüfstatus und ihre Begründungen bleiben unverändert.
+**Diese Datei ist in allen drei Repositories gleich** (`politik4m3Facktencheck` maßgeblich, `politik4m3FaktencheckUngeskriptet`, `politik4m3FaktencheckKlima`). Sie ist Pflichtlektüre für alle KI-Agenten (Claude, Codex, ChatGPT), die Aussagen bewerten, Bedeutungsfaktoren vergeben oder kontrollieren. Sie erläutert die drei wertenden Faktenurteile sowie die nicht gewerteten Prüfzustände.
 
 ## 1. Wo die Regel steht
 
@@ -31,11 +31,11 @@ Beispiele (R = 1): 10 belegt/0 widerlegt → 1,000; 10/1 → 0,667; 20/1 → 0,8
 | Kategorie / Status | p | f | u | Index | Prüfabdeckung |
 | --- | --- | --- | --- | --- | --- |
 | Belegt | 1 | 0 | 0 | ja | geprüft |
-| Teilweise belegt | 0,75 | 0 | 0,25 | ja | geprüft |
+| Teilweise belegt (Altbewertung) | – | – | – | nein | Nachprüfung ausstehend |
 | Irreführend / Kontext fehlt | 0,75 | 0,25 | 0 | ja | geprüft |
 | Widerlegt | 0 | 1 | 0 | ja | geprüft |
-| Nicht ausreichend belegbar (geprüft, ungeklärt) | 0 | 0 | 1 | ja | geprüft |
-| Offen (noch nicht geprüft) | – | – | – | nein | ausstehend |
+| Nicht ausreichend belegbar (Altbewertung) | – | – | – | nein | Nachprüfung ausstehend |
+| Offen (noch nicht geprüft oder Ergebnis ungeklärt) | – | – | – | nein | ausstehend |
 | In Bearbeitung (Prüfung begonnen) | – | – | – | nein | ausstehend |
 | Nicht überprüfbar | – | – | – | nein | nicht gezählt |
 | Meinung / Prognose, Werturteil, Satire, künstlerische Zuspitzung | – | – | – | nein | nicht gezählt |
@@ -46,11 +46,10 @@ Beispiele (R = 1): 10 belegt/0 widerlegt → 1,000; 10/1 → 0,667; 20/1 → 0,8
 
 Begründung der Abbildung:
 
-- **Fehlende Quelle ist kein Gegenbeweis.** „Nicht ausreichend belegbar“ ist ungeklärt (u), nie widerlegt.
-- **Ungeprüft ist weder widerlegt noch ungeklärt.** Offene und laufende Prüfungen gehen gar nicht in den Index ein, senken aber die Prüfabdeckung. „Noch nicht geprüft“ und „geprüft, aber ungeklärt“ bleiben getrennt.
-- **Nicht überprüfbar** heißt: Es gibt grundsätzlich keine öffentliche Prüfgrundlage (private Erlebnisse, interne Vorgänge …). Das ist kein Mangel der Faktenlage des Videos, sondern keine bewertbare Tatsachenbehauptung. Die Zahl steht trotzdem sichtbar in der Rechnung.
-- **Teilweise belegt** heißt in den Altdaten nicht einheitlich, ob der nicht belegte Teil offen oder falsch ist. In der Prüfpraxis bedeutet die Kategorie meist: Der Kern stimmt, Reichweite oder Details sind nicht vollständig belegt. Ohne genauere Angabe zählt sie deshalb zu drei Vierteln belegt und zu einem Viertel ungeklärt. Zeigt die Prüfung einen widerlegten Teil, setzt der Agent eigene Anteile (siehe 4).
-- **Irreführend / Kontext fehlt**: Der wörtliche Kern stimmt meist, es fehlt aber Kontext, sodass ein schiefer Eindruck entsteht. Ohne genauere Angabe zählt die Aussage deshalb zu drei Vierteln belegt und zu einem Viertel widerlegt. Ist der erzeugte Eindruck überwiegend falsch, setzt der Agent eigene Anteile.
+- **Fehlende Quelle ist kein Gegenbeweis.** Offen und in Bearbeitung fließen nicht in den Index ein und gelten für die Prüfabdeckung als ausstehend. Eine Recherche ohne ausreichende Belege bleibt offen.
+- **Nicht überprüfbar:** Ohne öffentliche Prüfgrundlage zählt die Aussage weder für den Index noch für die Abdeckung.
+- **Altbewertungen:** „Teilweise belegt“ und „Nicht ausreichend belegbar“ sind keine neuen Urteile. Bestehende Einstufungen bleiben nachvollziehbar, werden nicht automatisch in ein anderes Urteil umgewandelt und zählen bis zur Einzelprüfung nicht im Index. An den bisherigen Gewichten und Schwellen ändert sich nichts.
+- **Irreführend / Kontext fehlt**: Der wörtliche Kern stimmt meist, es fehlt aber Kontext, sodass ein schiefer Eindruck entsteht. Ohne genauere Angabe zählt die Aussage deshalb zu drei Vierteln belegt und zu einem Viertel widerlegt. Wenn der erzeugte Eindruck es begründet, können die Anteile angepasst werden. Nachweislich falsche, eigenständig überprüfbare Teilbehauptungen werden stattdessen einzeln als „Widerlegt“ erfasst.
 - Jede Aussage zählt **einmal**, egal wie viele Fundstellen sie hat. Identische Aussagen werden ohnehin zusammengeführt (Validator); inhaltlich gleiche, getrennt erfasste Aussagen markiert man mit `duplicateOf`.
 
 ## 3. Prüfabdeckung, Ampel und Bewertbarkeit
@@ -90,7 +89,7 @@ Fehlt das Feld, gilt **R = 1,0 (Standardwert, noch nicht einzeln eingeschätzt)*
 
 - `weight`: 0,5 bis 3,0 in Viertelschritten. Ungleich 1,0 nur mit `weightReason`. Mit `weight` immer `weightStatus`, `assessedBy`, `assessedOn`, `assessedBeforeVerdict`.
 - `weightStatus`: `Vorläufig` (nur eingeschätzt), `Gegengeprüft` (mindestens eine bestätigende Kontrolle eines **anderen** Agenten, nach der letzten abweichenden), `Strittig` (begründete abweichende Einschätzung ohne Konsens).
-- `shares`: nur bei „Teilweise belegt“ und „Irreführend / Kontext fehlt“, Schritte 0,05, Summe 1, mit `sharesReason`. Teilweise belegt braucht 0 < p < 1, Irreführend f > 0. Bei den übrigen Kategorien sind die Anteile fest.
+- `shares`: bei „Irreführend / Kontext fehlt“ in Schritten von 0,05 mit Summe 1, f > 0 und `sharesReason`. Historische Metadaten bei „Teilweise belegt“ bleiben lesbar, haben aber keinen Einfluss auf den Index.
 - `duplicateOf`: Verweis auf die zusammengeführte Hauptaussage (nicht auf eine weitere Wiederholung).
 - Geprüft wird alles von `node scripts/faktenindex.js pruefen` (CI).
 
@@ -189,6 +188,7 @@ Jede Änderung von `weight` oder `shares` erhält einen Eintrag in `history` (Da
 
 | Version | Datum | Änderung | Grund |
 | --- | --- | --- | --- |
+| 1.4 | 26.11.2026 | Nur Belegt, Irreführend / Kontext fehlt und Widerlegt zählen; zwei frühere Kategorien werden bis zur Einzelprüfung ausgeschlossen | Auftrag Jens. |
 | 1.0 | 20.11.2026 | Einführung mit Widerlegungsfaktor 10 | Auftrag Jens |
 | 1.1 | 20.11.2026 | Widerlegungsfaktor 10 → 5 | Mit 10 begann Rot schon bei etwa 13 % widerlegter Aussagen und Grün verlangte höchstens etwa 2,5 %. Das war gegenüber der früheren Ampel (Grün unter 10 %, Rot ab 25 % Fehleranteil) deutlich zu streng. Mit 5 liegt Rot bei etwa 23 %, Grün bei höchstens etwa 4,8 %. Freigabe durch Jens. |
 | 1.3 | 20.11.2026 | Wer sagt es? (`attribution`, Abschnitt 4a): Aussagen zitierter Personen zählen nur, wenn das Video sie übernimmt; Gastaussagen nicht, wenn das Video ihnen widerspricht | Falsche Zitate wurden bisher dem Video angelastet, obwohl es sie nur zeigte oder richtigstellte. Regel von Jens. |
@@ -204,6 +204,6 @@ Jede Änderung von `weight` oder `shares` erhält einen Eintrag in `history` (Da
 ## 9. Offene Aufgaben
 
 - **Bedeutungsfaktoren gegenprüfen:** Am 20.11.2026 hat Claude für alle bestehenden Videos aller drei Seiten Faktoren vergeben (Status „Vorläufig“). Die Gegenprüfung durch einen zweiten Agenten ist in jedem Repository als offenes Issue „[Claude] Mitmachen: Bedeutungsfaktoren gegenprüfen“ ausgeschrieben.
-- **Teilweise belegt präzisieren:** Bei Aussagen mit nachweislich falschem Teil eigene Anteile mit Begründung setzen.
+- **Teilweise belegt präzisieren:** Frühere Einträge gezielt an Original und Quellen nachprüfen, gegebenenfalls trennen. Keine automatische Umwertung.
 - **Sprecherzuordnung prüfen:** Bestehende Aussagen wurden vor Regelstand 1.3 erfasst und haben noch kein `attribution`. Ein Agent prüft in jedem Repository alle Videos auf Zitate und Gastaussagen (Issue „[Claude] Mitmachen: Sprecherzuordnung prüfen“).
 - **Mindestabdeckung kalibrieren**, sobald genug abgeschlossene Videos vorliegen.

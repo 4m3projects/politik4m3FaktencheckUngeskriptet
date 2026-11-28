@@ -237,9 +237,9 @@ async function pageTopic(id) {
     </header>
     ${empty ? '<p class="notice">Zu diesem Thema gibt es noch keine abgeschlossen bewerteten Tatsachenbehauptungen.</p>' : thumbPrompt()}
     ${kbSection('belegt', 'Belegte Tatsachen', 'Aussagen, die unsere Prüfungen mit Quellen bestätigt haben – auch das ist ein Ergebnis.', sec.belegt)}
-    ${kbSection('teilweise', 'Teilweise belegt', 'Ein wesentlicher Teil stimmt, ein anderer ist ungenau oder zu weit gefasst. Die Begründung sagt, welcher.', sec.teilweise)}
+    ${kbSection('teilweise', 'Altbewertung: teilweise belegt', 'Früheres Urteil. Die Einzelprüfung steht aus; kein Einfluss auf den Faktenindex.', sec.teilweise)}
     ${kbSection('falsch', 'Falsche oder irreführende Behauptungen', 'Widerlegt oder irreführend, mit Begründung, was nicht stimmt oder welcher Kontext fehlt.', sec.falsch)}
-    ${kbSection('unbelegt', 'Nicht ausreichend belegt', 'Recherchiert, aber die Quellen reichen weder für eine Bestätigung noch für eine Widerlegung. Das heißt ausdrücklich nicht „falsch“.', sec.unbelegt)}
+    ${kbSection('unbelegt', 'Altbewertung: nicht ausreichend belegt', 'Die damalige Recherche reichte nicht für ein Faktenurteil. Kein Einfluss auf den Faktenindex.', sec.unbelegt)}
     ${recs ? `<section class="section" id="empfehlungen"><div class="section-head"><h2>Passende Videos</h2></div>
       <p class="small kb-intro">Videos, deren Aussagen zu diesem Thema überwiegend belegt sind. Gezählt werden nur Aussagen zu diesem Thema, nicht das ganze Video und nicht die Person. <a href="#/methodik#themen">Regel</a></p>
       <ul class="kb-list">${recs}</ul></section>` : ''}

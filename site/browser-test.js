@@ -182,7 +182,10 @@ async function assertVerdictJump(page, dropdown, selector, key) {
       await page.goto(base + '#/methodik#pruefstatus');
     }
     await page.waitForSelector('#pruefstatus');
-    assert.match(await page.locator('#pruefstatus').textContent(), /Nicht ausreichend belegbar/);
+    assert.match(await page.locator('#pruefstatus').textContent(), /Offen nach Recherche/);
+    assert.deepEqual(await page.locator('#bewertung .badge').allTextContents(), ['Belegt', 'Irreführend / Kontext fehlt', 'Widerlegt']);
+    assert.match(await page.locator('#aussagen-erfassen').textContent(), /ein notwendiger Teil widerlegt/);
+    assert.equal(await page.locator('#faktenindex .fi-table tbody tr').count(), 3);
   });
 
   await step('Aussagen: rotes Segment und Legende filtern, fokussieren den Treffer und behalten die Suche', async () => {
