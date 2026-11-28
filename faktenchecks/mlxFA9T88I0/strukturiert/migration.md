@@ -34,7 +34,7 @@ Vier Aussagen: Registrierungsabstand und späterer Erwerb von whisky.de sind get
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0001 | Nicht überprüfbar | keine Endbewertung | Übernommen: die Acht-Wochen-Angabe; zugeordnet: der bisher ausdrücklich nicht belegte Registrierungsabstand. |
-| mlxFA9T88I0-A0002 | Abgeschlossen | Teilweise belegt | Übernommen: der spätere Erwerb; erhalten bleibt auch die alte Anmerkung zum ungeprüften Preis von whisky.de im Herkunftstext. |
+| mlxFA9T88I0-A0002 | Abgeschlossen | Belegt | Übernommen: der spätere Erwerb; erhalten bleibt auch die alte Anmerkung zum ungeprüften Preis von whisky.de im Herkunftstext. |
 | mlxFA9T88I0-A0003 | Abgeschlossen | Belegt | Übernommen: Erwerb und Kaufpreis von whisky.com sowie die dazugehörige Firmenmitteilung. Die alte Sammelbewertung teilweise belegt wird ausdrücklich zu einem engeren Einzelbefund differenziert. |
 | mlxFA9T88I0-A0004 | Nicht überprüfbar | keine Endbewertung | Übernommen: die ungefähre Rangposition; zugeordnet: die bisherigen Einschränkungen zu Rangdefinition und Stichtag. |
 | mlxFA9T88I0-A0120 | Nicht überprüfbar | keine Endbewertung | A0001–A0004 samt bisheriger Herkunft bleiben erhalten. Ergänzungen betreffen weitere im Gespräch erkennbare Einzelheiten; Erwerb und Preis werden nicht ein zweites Mal als neue Aussage angelegt. |
@@ -46,7 +46,7 @@ Vier Aussagen: Registrierungsabstand und späterer Erwerb von whisky.de sind get
 Bewertungsuebergang mlxFA9T88I0-A0001: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0002: Aktualisierung Kapitel 3: bisher Offen ohne eigenen Sachbeleg; nun Teilweise belegt aufgrund neu gelesener Firmenchronik und Lokalporträt. Frühere Entscheidung und vollständiger Altpunkt bleiben in Git-Historie beziehungsweise Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0002: Aktualisierung Kapitel 3: bisher Offen ohne eigenen Sachbeleg; nun Teilweise belegt aufgrund neu gelesener Firmenchronik und Lokalporträt. Frühere Entscheidung und vollständiger Altpunkt bleiben in Git-Historie beziehungsweise Herkunft erhalten. [Kai] 2026-11-26, UG-C0031: vorher Teilweise belegt, jetzt Belegt. Firmenchronik und Lokalporträt dokumentieren den Erwerb von whisky.de im Jahr 2010.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0003: Die neue Einzelbewertung wird aus der bisherigen Begründung abgeleitet. Die historische Sammelbewertung bleibt im Herkunftstext erhalten.
@@ -101,7 +101,7 @@ Vier Aussagen: Die historische Renditebehauptung bleibt als eine modal formulier
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0005 | Nicht überprüfbar | keine Endbewertung | Übernommen: Renditespanne, fünfjährige Rückschau und die Anlagebeispiele als Kontext; erhalten: sämtliche bisherigen MSCI-Zahlen und Einschränkungen im Herkunftstext. Eine pauschale Irreführend-Bewertung wird nicht auf die unpräzise Modalbehauptung übertragen. |
 | mlxFA9T88I0-A0006 | Abgeschlossen | Irreführend / Kontext fehlt | Übernommen: die Maschineninvestitionsbehauptung; zugeordnet: die bisher ausdrücklich nicht abgeschlossene Investitionsprüfung. |
-| mlxFA9T88I0-A0007 | Abgeschlossen | Teilweise belegt | Übernommen: Beginn und Stagnationsbehauptung; zugeordnet: die bisher offene längerfristige Produktivitätsprüfung. |
+| mlxFA9T88I0-A0007 | Abgeschlossen | Irreführend / Kontext fehlt | Übernommen: Beginn und Stagnationsbehauptung; zugeordnet: die bisher offene längerfristige Produktivitätsprüfung. |
 | mlxFA9T88I0-A0008 | Abgeschlossen | Belegt | Übernommen: die spätere Rückgangsbehauptung; erhalten: Destatis-Zahl, deren begrenzte Aussagekraft und Revisionsvorbehalt im Herkunftstext. Die überstarke Gegenüberstellung mit einem durchgehenden Rückgang wird nicht als Einzelurteil übernommen. |
 | mlxFA9T88I0-A0292 | Abgeschlossen | Meinung / Prognose | Bestehende Aussagen A0005–A0008 bleiben unverändert; zusätzlich nur die Deutung zum Konsumverhalten Vermögender. |
 
@@ -111,7 +111,7 @@ Bewertungsuebergang mlxFA9T88I0-A0005: Keine abschließende Einzelbewertung verg
 Bewertungsuebergang mlxFA9T88I0-A0006: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Irreführend / Kontext fehlt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0007: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Teilweise belegt).
+Bewertungsuebergang mlxFA9T88I0-A0007: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Teilweise belegt). [Kai] 2026-11-26, UG-C0032: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Das reale BIP je Arbeitsstunde nahm 2017–2025 um rund 2,9 Prozent zu. Schwaches Wachstum ist nicht dasselbe wie kein Zuwachs.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0008: Keine abschließende Einzelbewertung vergeben. Die bisherige Sammelbewertung wird nicht übernommen. Abschlussprüfung 18.11.2026 (Claude): bisher Offen; mit gelesenen Quellen abschließend bewertet (Belegt).
@@ -303,14 +303,14 @@ Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und fr�
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0019 | Abgeschlossen | Belegt | Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und frühere Vortragspraxis getrennt. Unternehmenschronik bleibt Selbstauskunft. |
-| mlxFA9T88I0-A0020 | Abgeschlossen | Teilweise belegt | Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und frühere Vortragspraxis getrennt. Unternehmenschronik bleibt Selbstauskunft. |
+| mlxFA9T88I0-A0020 | Abgeschlossen | Belegt | Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und frühere Vortragspraxis getrennt. Unternehmenschronik bleibt Selbstauskunft. |
 | mlxFA9T88I0-A0021 | Nicht überprüfbar | keine Endbewertung | Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und frühere Vortragspraxis getrennt. Unternehmenschronik bleibt Selbstauskunft. |
 | mlxFA9T88I0-A0022 | Nicht überprüfbar | keine Endbewertung | Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und frühere Vortragspraxis getrennt. Unternehmenschronik bleibt Selbstauskunft. |
 
 Bewertungsuebergang mlxFA9T88I0-A0019: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0020: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0020: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0033: vorher Teilweise belegt, jetzt Belegt. Der Originalupload ist vom 21. November 2007; Whisky.de führt ihn als Lünings erstes Verkostungsvideo.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0021: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (persönliche Darstellung ohne öffentlichen Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
@@ -523,10 +523,10 @@ Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegu
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0039 | Abgeschlossen | Teilweise belegt | Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegung der Alkoholregeln. Das Urheberrechtsbeispiel ist eine Rückfrage, keine gesicherte Behauptung gleicher Verfahren. |
+| mlxFA9T88I0-A0039 | Abgeschlossen | Irreführend / Kontext fehlt | Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegung der Alkoholregeln. Das Urheberrechtsbeispiel ist eine Rückfrage, keine gesicherte Behauptung gleicher Verfahren. |
 | mlxFA9T88I0-A0040 | Nicht überprüfbar | keine Endbewertung | Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegung der Alkoholregeln. Das Urheberrechtsbeispiel ist eine Rückfrage, keine gesicherte Behauptung gleicher Verfahren. |
 
-Bewertungsuebergang mlxFA9T88I0-A0039: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0039: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0034: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Bei Community-Strikes zählt das gemeinsame 90-Tage-Fenster. Der persönliche Sperrfall und Copyright folgen nicht automatisch daraus.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0040: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen mit der unzutreffenden Überschrift „keine zugängliche Quelle in dieser Prüfung“ geführt, obwohl Quellen gelesen wurden. Ergebnis der Recherche: Die Aussage lässt mehrere Lesarten zu, deshalb abschließend Nicht überprüfbar ohne Bewertung.
@@ -682,7 +682,7 @@ Referenzhash der Kapiteldatei: e38538f4babd3086eff295423c879e7027bbef36bb0cd9836
 | --- | --- | --- | --- |
 | mlxFA9T88I0-A0050 | Abgeschlossen | Belegt | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
 | mlxFA9T88I0-A0051 | Abgeschlossen | Belegt | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
-| mlxFA9T88I0-A0052 | Abgeschlossen | Teilweise belegt | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
+| mlxFA9T88I0-A0052 | Abgeschlossen | Belegt | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
 | mlxFA9T88I0-A0053 | Nicht überprüfbar | keine Endbewertung | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
 | mlxFA9T88I0-A0054 | Nicht überprüfbar | keine Endbewertung | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
 | mlxFA9T88I0-A0055 | Abgeschlossen | Belegt | Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik. |
@@ -694,7 +694,7 @@ Bewertungsuebergang mlxFA9T88I0-A0050: Neue Einzelentscheidung in Status, Begrü
 Bewertungsuebergang mlxFA9T88I0-A0051: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): bisher In Bearbeitung; mit gelesenen Quellen abschließend bewertet (Belegt).
 
 
-Bewertungsuebergang mlxFA9T88I0-A0052: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0052: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0035: vorher Teilweise belegt, jetzt Belegt. Belegt ist die Abschaltung des Twitter-Betriebs in Sacramento um den Jahreswechsel 2022/23, nicht die Schließung des Standorts für andere.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0053: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (Behauptung über Dritte oder Ursachen ohne Beleg); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
@@ -844,25 +844,25 @@ Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getren
 
 | ID | Status | Einzelbewertung | Redaktionelle Zuordnung |
 | --- | --- | --- | --- |
-| mlxFA9T88I0-A0070 | Abgeschlossen | Teilweise belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
+| mlxFA9T88I0-A0070 | Abgeschlossen | Belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
 | mlxFA9T88I0-A0071 | Abgeschlossen | Irreführend / Kontext fehlt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
-| mlxFA9T88I0-A0072 | Abgeschlossen | Teilweise belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
-| mlxFA9T88I0-A0073 | Abgeschlossen | Teilweise belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
-| mlxFA9T88I0-A0074 | Abgeschlossen | Teilweise belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
+| mlxFA9T88I0-A0072 | Abgeschlossen | Belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
+| mlxFA9T88I0-A0073 | Abgeschlossen | Belegt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
+| mlxFA9T88I0-A0074 | Abgeschlossen | Irreführend / Kontext fehlt | Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung. |
 
-Bewertungsuebergang mlxFA9T88I0-A0070: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0070: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0036: vorher Teilweise belegt, jetzt Belegt. Aufnahme und Markieren per Tastendruck sind dokumentierte Funktionen. Transkriptionsdauer wird hier nicht mitbewertet.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0071: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (keine zugängliche Quelle in dieser Prüfung); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher als nicht überprüfbar angezeigt. Der Inhalt ist mit öffentlichen Quellen grundsätzlich prüfbar, die Recherche ist aber nicht erfolgt oder nicht abgeschlossen. Deshalb Offen (noch nicht geprüft) und zur Nachrecherche vorgemerkt. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"Offen","kind":"Tatsachenbehauptung","verdict":null,"reason":"Noch nicht geprüft – keine zugängliche Quelle in dieser Prüfung. Ob sofortige Fertigstellung zugesagt oder nur ein verkürzter Arbeitsablauf gezeigt wird, ist ohne Hör- und Bildkontrolle nicht sicher. Aufzeichnung, Übertragung und Verarbeitung werden nicht als identischer technischer Schritt behandelt.","sourceIds":["S033"]}. Jetzt Abgeschlossen / Irreführend / Kontext fehlt. Die Werbepassage des Hosts verbindet das Beenden der Aufnahme mit einem bereits fertigen Transkript; bei etwa 00:10:28 zeigt sie zugleich eine fertige Textansicht. Diese ausgewählte Stelle ist im Originalbild und in den dortigen Untertiteln kontrolliert. Die Herstelleranleitung vom 03.03.2026 trennt dagegen Aufnahme, Verbindung beziehungsweise Upload und Start der Transkription. Die später aktualisierte App-FAQ erläutert zusätzlich eine von Länge und Netzwerk abhängige Verarbeitung, und die produktspezifische Hersteller-FAQ verneint Echtzeittranskription. Der beworbene Transkriptionsnutzen ist vorhanden, die Abfolge blendet aber wesentliche Zwischenschritte und Wartezeit aus. Deshalb irreführend in Bezug auf die unmittelbare Fertigstellung; keine Aussage, dass das Gerät überhaupt nicht transkribieren könne. Die Oktober-FAQ und laufende Produktseite sind ergänzende Erläuterungen, keine archivierte September-Fassung oder eigener Geschwindigkeitstest.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0072: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0072: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0037: vorher Teilweise belegt, jetzt Belegt. Plaud dokumentierte rund 112 Sprachen zum Veröffentlichungszeitpunkt; das sagt nichts über gleiche Qualität oder alle Sprachmischungen aus.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0073: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0073: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0038: vorher Teilweise belegt, jetzt Belegt. Der kostenlose europäische Startertarif nennt 300 Transkriptionsminuten pro Monat.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0074: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang mlxFA9T88I0-A0074: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0039: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Drei Millionen sind eine weltweite Angabe zur Marke Plaud, keine veröffentlichte Nutzerzahl nur für das Note Pro.
 
 
 ## C02-P14
@@ -968,7 +968,7 @@ Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Modera
 | mlxFA9T88I0-A0079 | Nicht überprüfbar | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
 | mlxFA9T88I0-A0080 | Nicht überprüfbar | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
 | mlxFA9T88I0-A0081 | Nicht überprüfbar | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
-| mlxFA9T88I0-A0082 | Abgeschlossen | Teilweise belegt | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
+| mlxFA9T88I0-A0082 | In Bearbeitung | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
 | mlxFA9T88I0-A0083 | Nicht überprüfbar | keine Endbewertung | Lagerfläche, Stückbestand, Wertbestand, Umsatzrahmen und Schätzung des Moderators getrennt. Keine Rückrechnung aus einem erfundenen Durchschnittspreis. |
 
 Bewertungsuebergang mlxFA9T88I0-A0079: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
@@ -980,7 +980,7 @@ Bewertungsuebergang mlxFA9T88I0-A0080: Eigenständige Einzelentscheidung; frühe
 Bewertungsuebergang mlxFA9T88I0-A0081: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.
 
 
-Bewertungsuebergang mlxFA9T88I0-A0082: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert.
+Bewertungsuebergang mlxFA9T88I0-A0082: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. [Kai] 2026-11-26, UG-C0040: vorher Teilweise belegt, jetzt In Bearbeitung (ohne Urteil). Die öffentlich belegte Zahl aus 2020 reicht nicht für den im Gespräch zeitlich nicht eingegrenzten aktuellen Umsatz.
 
 
 Bewertungsuebergang mlxFA9T88I0-A0083: Eigenständige Einzelentscheidung; frühere Sammelurteile nicht automatisch als neue Endbewertung übernommen. Ursprüngliche öffentliche Berichte bleiben unverändert. Abschlussprüfung 18.11.2026 (Claude): als nicht überprüfbar gekennzeichnet (nicht öffentlicher Vorgang oder interne Daten); keine Bewertung geraten. Statusklärung 18.11.2026 (Claude): Bisher technisch als Offen geführt; jetzt eigener Status Nicht überprüfbar, weil es für diesen Inhalt grundsätzlich keine öffentliche Prüfgrundlage gibt. Begründung unverändert, keine Bewertung.

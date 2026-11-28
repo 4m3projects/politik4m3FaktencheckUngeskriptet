@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 1 frühere Teilurteile einzeln nachgeprüft (UG-C0030). Kein neuer Hör-/Sichtabgleich. [Kai] Ein eigenständiger Zusatz aus A0062 ist als A0076 in Bearbeitung und noch ohne Urteil.
 
 ## QxMuH1bjMwo-A0007
 
@@ -236,9 +236,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Die Linke setze sich in Berlin dafür ein, die geltenden Neutralitätsvorschriften für Schulen und Justiz aufzuheben.
+**Eigene Beschreibung:** Die Linke wolle die Neutralität des Staates in Berliner Schulen und Gerichten aufheben.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -257,25 +257,31 @@ Zeitgrundlage: Ungefähres Zeitfenster im deutschen YouTube-Originaltranskript.
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Gesetzentwurf der Fraktion Die Linke von 2025 fordert die Aufhebung des Berliner Neutralitätsgesetzes. Er nennt in seiner Begründung ausdrücklich Lehrkräfte sowie Richter, Staatsanwälte und Rechtsreferendare. Das verfassungsrechtliche Neutralitätsgebot, das der Senat aus dem Grundgesetz ableitet, ist davon zu unterscheiden und würde durch diesen Gesetzentwurf nicht aufgehoben.
+Der Gast spricht von einer Aufhebung der Neutralität des Staates in Schulen und Gerichten. Die Linke beantragte 2025 die Aufhebung des Berliner Neutralitätsgesetzes. Der Entwurf unterscheidet aber ausdrücklich das Tragen religiöser Symbole durch einzelne Beschäftigte von einer religiösen Identifikation staatlicher Institutionen und erkennt das Neutralitätsgebot an. Das verfassungsrechtliche Gebot bliebe von der beantragten Aufhebung unberührt. Bewertet wird der Inhalt des Antrags, nicht sein späteres parlamentarisches Schicksal.
 
-Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.
+Grundlage der Bewertung: [Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkt aus der Originalfundstelle erfasst.
 
-Bewertungsuebergang: Erste dokumentierte Einordnung.
+Bewertungsuebergang: Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0013: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Die Linke beantragte die Aufhebung des Berliner Neutralitätsgesetzes, nicht des verfassungsrechtlichen Neutralitätsgebots.
 
 ### Zugeordnete Quellen
 
 - [Abgeordnetenhaus von Berlin: Gesetzentwurf 19/2554](https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-2554.pdf) · Gesetzentwurf der Fraktion Die Linke vom Juli 2025.
-  Quellenzugriff am 2026-11-19. Aufhebungsvorschrift, Begründung und darin genannte Berufsgruppen gelesen. Gesetzentwurf und betroffene Berufsgruppen.
+  Quellenzugriff am 2026-11-19. Aufhebungsvorschrift, Begründung und darin genannte Berufsgruppen gelesen. Drucksache 19/2554 vom 2. Juli 2025; Aufhebungsantrag und Begründung.
 
 - [Land Berlin: Religionsverfassungsrecht und staatliches Neutralitätsgebot](https://www.berlin.de/sen/kultgz/religion-und-weltanschauung/religionsverfassungsrecht/artikel.21593.php) · Rechtsgrundlagen der Berliner Senatsverwaltung für Kultur.
-  Quellenzugriff am 2026-11-19. Abschnitt zum verfassungsrechtlichen Neutralitätsgebot gelesen. Verfassungsrechtliches Neutralitätsgebot.
+  Quellenzugriff am 2026-11-19. Abschnitt zum verfassungsrechtlichen Neutralitätsgebot gelesen. Neutralitätsgebot in der Darstellung des Landes Berlin.
 
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Gepruefte Quellen: S066, S067. Ergebnis: Der Gast spricht von einer Aufhebung der Neutralität des Staates in Schulen und Gerichten. Die Linke beantragte 2025 die Aufhebung des Berliner Neutralitätsgesetzes. Der Entwurf unterscheidet aber ausdrücklich das Tragen religiöser Symbole durch einzelne Beschäftigte von einer religiösen Identifikation staatlicher Institutionen und erkennt das Neutralitätsgebot an. Das verfassungsrechtliche Gebot bliebe von der beantragten Aufhebung unberührt. Bewertet wird der Inhalt des Antrags, nicht sein späteres parlamentarisches Schicksal.
 
 ## QxMuH1bjMwo-A0050
 

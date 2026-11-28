@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0020",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "QxMuH1bjMwo-A0068",
+    "entryId": null,
+    "description": "Das CO₂-Ziel betrifft neue Pkw und leichte Nutzfahrzeuge ab 2035. Es verbietet weder generell die Motorenproduktion noch den Bestand."
+  },
+  "evidence": [
+    {
+      "title": "EU-Kommission: Annahme der CO₂-Ziele für neue Pkw und Transporter, 28. März 2023",
+      "url": "https://climate.ec.europa.eu/news-other-reads/news/fit-55-eu-reaches-new-milestone-make-all-new-cars-and-vans-zero-emission-2035-2023-03-28_en",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Kommissionsmitteilung beschreibt CO₂-Ziele für Neufahrzeuge, kein allgemeines Verbot des Motorenbaus."
+    },
+    {
+      "title": "Europäisches Parlament: Gesetzgebungsverfahren 2025/0420(COD)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0420%28COD%29",
+      "accessedOn": "2026-11-26",
+      "finding": "Das Änderungsverfahren wartet auf den Standpunkt des Parlaments in erster Lesung."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/QxMuH1bjMwo",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld bei ca. 2:11:45, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "QxMuH1bjMwo-A0068",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "QxMuH1bjMwo-A0068",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "QxMuH1bjMwo-A0068",
+      "field": "reason",
+      "before": "Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen.",
+      "after": "Mit „Verbrennerverbot“ bezeichnet die Debatte häufig die 2023 beschlossenen CO₂-Flottenziele von null für ab 2035 in der EU neu zugelassene Pkw und leichte Nutzfahrzeuge. Der Moderator leitet daraus im Gespräch aber ein Aufhören des Motorenbaus allgemein ab. Dafür ist die Regel kein allgemeines Herstellungsverbot; auch Fahrzeuge im Bestand werden nicht durch diese Regel verboten. Das gesonderte Verfahren 2025/0420(COD) war am Prüftag noch vor der ersten Lesung im Parlament. Die Bewertung der wirtschaftlichen Folgen ist nicht Teil dieses Befunds."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0068",
+      "field": "shortReason",
+      "before": "Die EU-Regel betrifft neue Pkw und Transporter ab 2035, nicht die Nutzung sämtlicher vorhandener Verbrenner.",
+      "after": "Das CO₂-Ziel betrifft neue Pkw und leichte Nutzfahrzeuge ab 2035. Es verbietet weder generell die Motorenproduktion noch den Bestand."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

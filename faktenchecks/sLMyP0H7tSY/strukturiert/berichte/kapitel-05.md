@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Unabhängige Teilprüfung der Reaktion mit gezielten Nachprüfungen am Original und an den angegebenen Sachquellen. Die Einzelprüfungen unterscheiden abgeschlossene Bewertungen von noch offenen Arbeitsaufträgen. Durchgängiger Hör-/Sichtabgleich und redaktionelle Zweitprüfung stehen weiter aus; keine Gesamtabdeckung behauptet.
 
-Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen.
+Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen. [Kai] 26.11.2026: 1 frühere Teilurteile einzeln nachgeprüft (UG-C0016). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 2 frühere Teilurteile einzeln nachgeprüft (UG-C0028 bis UG-C0029). Kein neuer Hör-/Sichtabgleich.
 
 ## sLMyP0H7tSY-A0017
 
@@ -137,9 +137,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Der Kommissionsentwurf schließe programmierbares Geld ausdrücklich aus; Kaufverbote erforderten eine Gesetzesänderung.
+**Eigene Beschreibung:** Der Kommissionsentwurf schließt eingebaute Waren- und Verfallsbeschränkungen für digitale Euro aus.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -158,18 +158,18 @@ Zeitgrundlage: Untertitel-Suchbereich; nicht schnittgenau (Codex, 18.11.2026).
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Artikel 24 Absatz 2 des Kommissionsentwurfs verbietet programmierbares Geld ausdrücklich. Erwägungsgrund 55 unterscheidet dies von bedingten Zahlungen auf Wunsch der Nutzer. Für eingebaute Waren- oder Verfallsbeschränkungen müsste dieser Entwurf daher geändert werden. Das ist keine allgemeine Garantie gegen Sanktionen oder andere gesetzliche Zahlungsbeschränkungen und bezeichnet noch kein verabschiedetes Gesetz. Die amtliche Ratskopie macht den zuvor nicht lesbaren Entwurf jetzt unmittelbar prüfbar.
+Alfred definiert programmierbares Geld unmittelbar vorher als Zahleinheiten, die selbst eine Wareneinschränkung oder ein Verfallsdatum enthalten. Artikel 24 Absatz 2 und Erwägungsgrund 55 des Kommissionsentwurfs schließen genau dieses eingebaute Merkmal aus. Bedingte Zahlungsaufträge sind davon zu unterscheiden. Belegt ist der Wortlaut des Entwurfs, nicht die Annahme eines endgültigen Gesetzes und keine allgemeine Garantie gegen Zahlungsbeschränkungen auf anderer Rechtsgrundlage.
 
-Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Codex-Eintrag sLMyP0H7tSY-A0020 (Art: rechtsbehauptung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.
 
-Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Vorläufiger Befund [Codex]: offen. Der genaue Entwurfstext S017 war nicht lesbar. Die Aussage ist mit S010 vereinbar, aber damit nicht wortlautgetreu juristisch verifiziert. Eine Garantie gegen jede anders begründete staatliche Zahlungsbeschränkung wäre weitergehend.","sourceIds":["S010","S017"]}. Jetzt Abgeschlossen / Teilweise belegt. Artikel 24 Absatz 2 des Kommissionsentwurfs verbietet programmierbares Geld ausdrücklich. Erwägungsgrund 55 unterscheidet dies von bedingten Zahlungen auf Wunsch der Nutzer. Für eingebaute Waren- oder Verfallsbeschränkungen müsste dieser Entwurf daher geändert werden. Das ist keine allgemeine Garantie gegen Sanktionen oder andere gesetzliche Zahlungsbeschränkungen und bezeichnet noch kein verabschiedetes Gesetz. Die amtliche Ratskopie macht den zuvor nicht lesbaren Entwurf jetzt unmittelbar prüfbar.
+Bewertungsuebergang: Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Vorläufiger Befund [Codex]: offen. Der genaue Entwurfstext S017 war nicht lesbar. Die Aussage ist mit S010 vereinbar, aber damit nicht wortlautgetreu juristisch verifiziert. Eine Garantie gegen jede anders begründete staatliche Zahlungsbeschränkung wäre weitergehend.","sourceIds":["S010","S017"]}. Jetzt Abgeschlossen / Teilweise belegt. Artikel 24 Absatz 2 des Kommissionsentwurfs verbietet programmierbares Geld ausdrücklich. Erwägungsgrund 55 unterscheidet dies von bedingten Zahlungen auf Wunsch der Nutzer. Für eingebaute Waren- oder Verfallsbeschränkungen müsste dieser Entwurf daher geändert werden. Das ist keine allgemeine Garantie gegen Sanktionen oder andere gesetzliche Zahlungsbeschränkungen und bezeichnet noch kein verabschiedetes Gesetz. Die amtliche Ratskopie macht den zuvor nicht lesbaren Entwurf jetzt unmittelbar prüfbar. [Kai] 2026-11-26, UG-C0028: vorher Teilweise belegt, jetzt Belegt. Der Kommissionsentwurf schließt eingebaute Waren- oder Verfallsbeschränkungen aus. Andere Zahlungsregeln sind davon zu trennen.
 
 ### Zugeordnete Quellen
 
 - [Kommissionsentwurf COM(2023)369, amtliche Ratskopie](https://data.consilium.europa.eu/doc/document/ST-11605-2023-INIT/en/pdf) · Deckblatt identifiziert COM(2023)369 final vom 28.06.2023; Artikel 24 Absatz 2 und Erwägungsgrund 55.
-  Quellenzugriff am 2026-11-19. Amtliche PDF-Kopie selbst gelesen; direkter EUR-Lex-Zugang weiterhin blockiert. Entwurf, kein Beleg für ein schon geltendes Gesetz. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-19. Amtliche PDF-Kopie selbst gelesen; direkter EUR-Lex-Zugang weiterhin blockiert. Entwurf, kein Beleg für ein schon geltendes Gesetz. Amtliche Ratskopie COM(2023) 369, Art. 24 Abs. 2 und Erwägungsgrund 55.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -180,5 +180,7 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 
 - Durchgang 1 am 2026-11-19 (Codex): Wissensdatenbanken UG/HP gezielt durchsucht; automatische Textstelle mit Umfeld im Originalplayer-Angebot und genannte Sachquellen selbst gelesen. Gepruefte Quellen: S023. Ergebnis: Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt.
+
+- Durchgang 2 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S023. Ergebnis: Alfred definiert programmierbares Geld unmittelbar vorher als Zahleinheiten, die selbst eine Wareneinschränkung oder ein Verfallsdatum enthalten. Artikel 24 Absatz 2 und Erwägungsgrund 55 des Kommissionsentwurfs schließen genau dieses eingebaute Merkmal aus. Bedingte Zahlungsaufträge sind davon zu unterscheiden. Belegt ist der Wortlaut des Entwurfs, nicht die Annahme eines endgültigen Gesetzes und keine allgemeine Garantie gegen Zahlungsbeschränkungen auf anderer Rechtsgrundlage.
 
 [Uebersicht und Statistik](../README.md) · [Migrationsvergleich](../migration.md)

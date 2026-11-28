@@ -5,12 +5,12 @@
     "videoId": "sLMyP0H7tSY",
     "videoUrl": "https://www.youtube.com/watch?v=sLMyP0H7tSY",
     "durationSeconds": 999,
-    "asOf": "2026-11-20",
+    "asOf": "2026-11-26",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen.",
+    "researchNote": "Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen. [Kai] 26.11.2026: 1 frühere Teilurteile einzeln nachgeprüft (UG-C0016). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 2 frühere Teilurteile einzeln nachgeprüft (UG-C0028 bis UG-C0029). Kein neuer Hör-/Sichtabgleich.",
     "coverageNote": "Unabhängige Teilprüfung der Reaktion mit gezielten Nachprüfungen am Original und an den angegebenen Sachquellen. Die Einzelprüfungen unterscheiden abgeschlossene Bewertungen von noch offenen Arbeitsaufträgen. Durchgängiger Hör-/Sichtabgleich und redaktionelle Zweitprüfung stehen weiter aus; keine Gesamtabdeckung behauptet."
   },
   "legacyPoints": [],
@@ -222,6 +222,14 @@
       "details": "Öffentliche Selbstauskunft zum SinansWoche-Gesamtprojekt, angezeigter Datenstand 19.11.2026. Kein gesonderter Kostennachweis für Alfred.",
       "accessedOn": "2026-11-20",
       "accessBasis": "Am 20.11.2026 im Browser Einleitung, Einnahmequellen, Schätzungsgrenzen und Projektbezug gelesen. Keine Buchhaltungsprüfung; keine Spendernamen, Bankdaten oder Einzelzahlungen übernommen."
+    },
+    {
+      "id": "S027",
+      "title": "Department for Transport: UK Road Derogation 13",
+      "url": "https://www.gov.uk/government/publications/the-carriage-of-dangerous-goods-approved-derogations-and-transitional-provisions/carriage-of-dangerous-goods-approved-derogations-and-transitional-provisions#road-derogation-13-the-carriage-of-alcohol-in-wooden-casks",
+      "details": "Beförderung von alkoholischen Getränken in Holzfässern; Ausnahme von den Designprüfungen unter Bedingungen.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Einschlägiges Kapitel zu den Fass- und Beförderungsanforderungen gelesen; nicht rückwirkend als Erstfassung von 1994 behandelt."
     }
   ],
   "claims": [
@@ -954,21 +962,25 @@
       "chapter": 2,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Die Fässer durften nach der Intervention bleiben; niemand habe eine Verbotswirkung gewollt.",
+      "description": "Die britische Regierung nannte die Wirkung der Fass-Prüfpflicht unbeabsichtigt; der Transport in Holzfässern blieb unter Bedingungen möglich.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Die Ministerantwort nennt eine geplante Ausnahme, damit der herkömmliche Fass-Transport im Vereinigten Königreich fortgesetzt werden konnte. Sie belegt die Absicht der Regierung, enthält aber noch keinen in Kraft getretenen Ausnahmetext.",
-      "shortReason": "Die Regierung kündigte eine Ausnahme für den Fass-Transport an; ein in Kraft getretener Ausnahmetext ist damit noch nicht belegt.",
-      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
+      "verdict": "Belegt",
+      "reason": "In der dokumentierten Regierungsantwort von 1994 wird die Testpflicht als unbeabsichtigte Folge beschrieben; die Regierung teilte der Branche mit, dass sie eine britische Ausnahme für die Fassbeförderung anstrebe. Eine spätere britische Ausnahmevorschrift nimmt die Beförderung von Alkohol in Holzfässern unter bestimmten Bedingungen von Designprüfungen aus. Das trägt den Sachbefund zur Regierungsposition und zum fortbestehenden Transport. Alfreds rhetorisches „gewollt hat sie niemand“ weist damit nicht die Absicht jeder beteiligten Person nach.",
+      "shortReason": "Die britische Regierung bezeichnete die Testpflicht als unbeabsichtigt; eine spätere Ausnahme erlaubt Fassbeförderung unter Bedingungen.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0010 (Art: schlussfolgerung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. Die damalige Regierungsantwort beschreibt eine beabsichtigte Ausnahme, nicht deren späteren Vollzug. Sie bezeichnet die Prüfanforderung als unbeabsichtigt, belegt aber nicht die Absicht sämtlicher Beteiligter. Alfred verallgemeinert hier eine begrenzte Quelle."
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. Die damalige Regierungsantwort beschreibt eine beabsichtigte Ausnahme, nicht deren späteren Vollzug. Sie bezeichnet die Prüfanforderung als unbeabsichtigt, belegt aber nicht die Absicht sämtlicher Beteiligter. Alfred verallgemeinert hier eine begrenzte Quelle. [Kai] 2026-11-26, UG-C0029: vorher Teilweise belegt, jetzt Belegt. Die britische Regierung bezeichnete die Testpflicht als unbeabsichtigt; eine spätere Ausnahme erlaubt Fassbeförderung unter Bedingungen."
       },
       "sourceRefs": [
         {
           "sourceId": "S006",
-          "note": "Beleg für den in der Begründung benannten Sachkern."
+          "note": "Offizielle schriftliche Antwort der britischen Regierung vom 2. November 1994."
+        },
+        {
+          "sourceId": "S027",
+          "note": "Britisches Verkehrsministerium: spätere Ausnahme für Alkoholtransporte in Holzfässern."
         }
       ],
       "openQuestions": [],
@@ -1018,6 +1030,24 @@
             "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Folgen der Intervention beantworten die konkrete Regulierungsbehauptung und sind eine normale eigenständige Sachfrage."
           }
         ]
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S006",
+              "S027"
+            ],
+            "result": "In der dokumentierten Regierungsantwort von 1994 wird die Testpflicht als unbeabsichtigte Folge beschrieben; die Regierung teilte der Branche mit, dass sie eine britische Ausnahme für die Fassbeförderung anstrebe. Eine spätere britische Ausnahmevorschrift nimmt die Beförderung von Alkohol in Holzfässern unter bestimmten Bedingungen von Designprüfungen aus. Das trägt den Sachbefund zur Regierungsposition und zum fortbestehenden Transport. Alfreds rhetorisches „gewollt hat sie niemand“ weist damit nicht die Absicht jeder beteiligten Person nach."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -1624,20 +1654,20 @@
       "chapter": 5,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Der Kommissionsentwurf schließe programmierbares Geld ausdrücklich aus; Kaufverbote erforderten eine Gesetzesänderung.",
+      "description": "Der Kommissionsentwurf schließt eingebaute Waren- und Verfallsbeschränkungen für digitale Euro aus.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Artikel 24 Absatz 2 des Kommissionsentwurfs verbietet programmierbares Geld ausdrücklich. Erwägungsgrund 55 unterscheidet dies von bedingten Zahlungen auf Wunsch der Nutzer. Für eingebaute Waren- oder Verfallsbeschränkungen müsste dieser Entwurf daher geändert werden. Das ist keine allgemeine Garantie gegen Sanktionen oder andere gesetzliche Zahlungsbeschränkungen und bezeichnet noch kein verabschiedetes Gesetz. Die amtliche Ratskopie macht den zuvor nicht lesbaren Entwurf jetzt unmittelbar prüfbar.",
-      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.",
+      "verdict": "Belegt",
+      "reason": "Alfred definiert programmierbares Geld unmittelbar vorher als Zahleinheiten, die selbst eine Wareneinschränkung oder ein Verfallsdatum enthalten. Artikel 24 Absatz 2 und Erwägungsgrund 55 des Kommissionsentwurfs schließen genau dieses eingebaute Merkmal aus. Bedingte Zahlungsaufträge sind davon zu unterscheiden. Belegt ist der Wortlaut des Entwurfs, nicht die Annahme eines endgültigen Gesetzes und keine allgemeine Garantie gegen Zahlungsbeschränkungen auf anderer Rechtsgrundlage.",
+      "assessmentBasis": "[Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0020 (Art: rechtsbehauptung) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: offen. Der genaue Entwurfstext S017 war nicht lesbar. Die Aussage ist mit S010 vereinbar, aber damit nicht wortlautgetreu juristisch verifiziert. Eine Garantie gegen jede anders begründete staatliche Zahlungsbeschränkung wäre weitergehend.\",\"sourceIds\":[\"S010\",\"S017\"]}. Jetzt Abgeschlossen / Teilweise belegt. Artikel 24 Absatz 2 des Kommissionsentwurfs verbietet programmierbares Geld ausdrücklich. Erwägungsgrund 55 unterscheidet dies von bedingten Zahlungen auf Wunsch der Nutzer. Für eingebaute Waren- oder Verfallsbeschränkungen müsste dieser Entwurf daher geändert werden. Das ist keine allgemeine Garantie gegen Sanktionen oder andere gesetzliche Zahlungsbeschränkungen und bezeichnet noch kein verabschiedetes Gesetz. Die amtliche Ratskopie macht den zuvor nicht lesbaren Entwurf jetzt unmittelbar prüfbar."
+        "assessmentChange": "Vorläufiger Befund „offen“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {\"status\":\"In Bearbeitung\",\"kind\":\"Tatsachenbehauptung\",\"verdict\":null,\"reason\":\"Vorläufiger Befund [Codex]: offen. Der genaue Entwurfstext S017 war nicht lesbar. Die Aussage ist mit S010 vereinbar, aber damit nicht wortlautgetreu juristisch verifiziert. Eine Garantie gegen jede anders begründete staatliche Zahlungsbeschränkung wäre weitergehend.\",\"sourceIds\":[\"S010\",\"S017\"]}. Jetzt Abgeschlossen / Teilweise belegt. Artikel 24 Absatz 2 des Kommissionsentwurfs verbietet programmierbares Geld ausdrücklich. Erwägungsgrund 55 unterscheidet dies von bedingten Zahlungen auf Wunsch der Nutzer. Für eingebaute Waren- oder Verfallsbeschränkungen müsste dieser Entwurf daher geändert werden. Das ist keine allgemeine Garantie gegen Sanktionen oder andere gesetzliche Zahlungsbeschränkungen und bezeichnet noch kein verabschiedetes Gesetz. Die amtliche Ratskopie macht den zuvor nicht lesbaren Entwurf jetzt unmittelbar prüfbar. [Kai] 2026-11-26, UG-C0028: vorher Teilweise belegt, jetzt Belegt. Der Kommissionsentwurf schließt eingebaute Waren- oder Verfallsbeschränkungen aus. Andere Zahlungsregeln sind davon zu trennen."
       },
       "sourceRefs": [
         {
           "sourceId": "S023",
-          "note": "Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten."
+          "note": "Amtliche Ratskopie COM(2023) 369, Art. 24 Abs. 2 und Erwägungsgrund 55."
         }
       ],
       "openQuestions": [],
@@ -1673,12 +1703,21 @@
               "S023"
             ],
             "result": "Sachkern, begrenzte Quellenreichweite und eigene Einordnung in der Begründung getrennt."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S023"
+            ],
+            "result": "Alfred definiert programmierbares Geld unmittelbar vorher als Zahleinheiten, die selbst eine Wareneinschränkung oder ein Verfallsdatum enthalten. Artikel 24 Absatz 2 und Erwägungsgrund 55 des Kommissionsentwurfs schließen genau dieses eingebaute Merkmal aus. Bedingte Zahlungsaufträge sind davon zu unterscheiden. Belegt ist der Wortlaut des Entwurfs, nicht die Annahme eines endgültigen Gesetzes und keine allgemeine Garantie gegen Zahlungsbeschränkungen auf anderer Rechtsgrundlage."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Der Entwurf verbietet programmierbares Geld; andere gesetzliche Zahlungsbeschränkungen werden dadurch nicht ausgeschlossen.",
+      "shortReason": "Der Kommissionsentwurf schließt eingebaute Waren- oder Verfallsbeschränkungen aus. Andere Zahlungsregeln sind davon zu trennen.",
       "factIndex": {
         "weight": 2,
         "weightReason": "Beantwortet die im Titel gestellte Frage, ob der digitale Euro Käufe verbieten kann.",
@@ -2166,19 +2205,19 @@
       "kind": "Tatsachenbehauptung",
       "description": "Für Langformat nennt Alfred 1.000 Abonnenten und 4.000 Wiedergabestunden innerhalb eines Jahres als Monetarisierungshürden.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Für den Zugang zur Werbeumsatzbeteiligung bei Langformaten nennt YouTube 1.000 Abonnenten und 4.000 gültige öffentliche Wiedergabestunden innerhalb von zwölf Monaten. Dazu kommen weitere Teilnahmebedingungen und eine Kanalprüfung. Eine andere Schwelle gilt für Shorts.",
-      "shortReason": "Die Schwellen stimmen; dazu kommen aber weitere Teilnahmebedingungen und eine Kanalprüfung.",
-      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen.",
+      "verdict": "Belegt",
+      "reason": "Die beiden von Alfred für Langvideos genannten Zahlenschwellen stimmen: 1.000 Abonnenten und 4.000 gültige öffentliche Wiedergabestunden binnen zwölf Monaten. Diese Zahlen sind Voraussetzungen für den Zugang zur Werbeumsatzbeteiligung über Langvideos, aber allein keine Zusage der Monetarisierung. YouTube nennt weitere Kriterien und prüft den Kanal. Für Shorts gibt es einen anderen Zugang.",
+      "shortReason": "Die Zahlenschwellen für Langvideos stimmen; Anforderungen und Kanalprüfung gelten zusätzlich.",
+      "assessmentBasis": "[Codex] Die Textstelle und die Sachquellen gegengeprüft. Bei Bezug auf Lüning wurde auch die einschlägige Originalpassage im deutschen Transkript gelesen. [Kai] 2026-11-26: Dokumentierte Originalfundstelle und ihre Paraphrase aus dem Projektstand gegengelesen, Sachquelle erneut geprüft. Keine neue Hör-/Sichtprüfung.",
       "migration": {
         "changeType": "Aus Codex-Arbeitsstand übernommen",
         "mapping": "Codex-Eintrag sLMyP0H7tSY-A0028 (Art: tatsache) aus docs/arbeitsstaende/reaktionen/alfred-luening/pruefdaten.md.",
-        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. S014 bestätigt diese Schwelle für die Bewerbung: gültige öffentliche Wiedergabezeit der letzten zwölf Monate, weitere Bedingungen und Kanalprüfung erforderlich. Kein automatischer Zahlungsanspruch; andere Zugangswege existieren."
+        "assessmentChange": "Vorläufiger Befund „teilweise belegt“ nur in der Begründung genannt, nicht als Endbewertung übernommen. Status bleibt In Bearbeitung bis zur Zweitprüfung. Nachrecherche 2026-11-19 (Codex): von In Bearbeitung zu Teilweise belegt. Frühere Arbeitsbegründung: Vorläufiger Befund [Codex]: teilweise belegt. S014 bestätigt diese Schwelle für die Bewerbung: gültige öffentliche Wiedergabezeit der letzten zwölf Monate, weitere Bedingungen und Kanalprüfung erforderlich. Kein automatischer Zahlungsanspruch; andere Zugangswege existieren. [Kai] 2026-11-26, UG-C0016: vorher Teilweise belegt, jetzt Belegt. Die Zahlenschwellen für Langvideos stimmen; Anforderungen und Kanalprüfung gelten zusätzlich."
       },
       "sourceRefs": [
         {
           "sourceId": "S014",
-          "note": "Beleg für den in der Begründung benannten Sachkern."
+          "note": "Offizielle YouTube-Hilfe zu den Voraussetzungen, gültiger Wiedergabezeit und Kanalprüfung."
         }
       ],
       "openQuestions": [],
@@ -2228,6 +2267,23 @@
             "reason": "Unabhängige redaktionelle Gegenprüfung anhand dokumentierter Paraphrase, Fundstellenkontext und Aufbau; keine neue audiovisuelle Kontrolle. Die Monetarisierungshürden betreffen den eigenen Kanal im Schluss und tragen keinen der vier behandelten Sachfälle."
           }
         ]
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Dokumentierte Originalfundstelle und ihre Paraphrase aus dem Projektstand gegengelesen, Sachquelle erneut geprüft. Keine neue Hör-/Sichtprüfung.",
+            "sourceIds": [
+              "S014"
+            ],
+            "result": "Die beiden von Alfred für Langvideos genannten Zahlenschwellen stimmen: 1.000 Abonnenten und 4.000 gültige öffentliche Wiedergabestunden binnen zwölf Monaten. Diese Zahlen sind Voraussetzungen für den Zugang zur Werbeumsatzbeteiligung über Langvideos, aber allein keine Zusage der Monetarisierung. YouTube nennt weitere Kriterien und prüft den Kanal. Für Shorts gibt es einen anderen Zugang."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {

@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 1 frühere Teilurteile einzeln nachgeprüft (UG-C0030). Kein neuer Hör-/Sichtabgleich. [Kai] Ein eigenständiger Zusatz aus A0062 ist als A0076 in Bearbeitung und noch ohne Urteil.
 
 ## QxMuH1bjMwo-A0014
 
@@ -206,7 +206,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Die EU habe ein Verbot von Verbrennern beschlossen.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -225,21 +225,21 @@ Zeitgrundlage: Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte a
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen.
+Mit „Verbrennerverbot“ bezeichnet die Debatte häufig die 2023 beschlossenen CO₂-Flottenziele von null für ab 2035 in der EU neu zugelassene Pkw und leichte Nutzfahrzeuge. Der Moderator leitet daraus im Gespräch aber ein Aufhören des Motorenbaus allgemein ab. Dafür ist die Regel kein allgemeines Herstellungsverbot; auch Fahrzeuge im Bestand werden nicht durch diese Regel verboten. Das gesonderte Verfahren 2025/0420(COD) war am Prüftag noch vor der ersten Lesung im Parlament. Die Bewertung der wirtschaftlichen Folgen ist nicht Teil dieses Befunds.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln.
+Bewertungsuebergang: [Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0020: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Das CO₂-Ziel betrifft neue Pkw und leichte Nutzfahrzeuge ab 2035. Es verbietet weder generell die Motorenproduktion noch den Bestand.
 
 ### Zugeordnete Quellen
 
 - [EU-Kommission: Annahme der CO₂-Ziele für neue Pkw und Transporter, 28. März 2023](https://climate.ec.europa.eu/news-other-reads/news/fit-55-eu-reaches-new-milestone-make-all-new-cars-and-vans-zero-emission-2035-2023-03-28_en) · Gezielte Nachprüfung durch Codex, 24. November 2026.
-  Quellenzugriff am 2026-11-24. Abschnitte zu Neuzulassungen ab 2035 und vorgesehenen Folgeentscheidungen gelesen. Die direkten EUR-Lex-Abrufe lieferten nur eine JavaScript-Abfrage; sie werden nicht als gelesen ausgegeben. Abschnitte zu Neuzulassungen ab 2035 und vorgesehenen Folgeentscheidungen gelesen. Die direkten EUR-Lex-Abrufe lieferten nur eine JavaScript-Abfrage; sie werden nicht als gelesen ausgegeben.
+  Quellenzugriff am 2026-11-24. Abschnitte zu Neuzulassungen ab 2035 und vorgesehenen Folgeentscheidungen gelesen. Die direkten EUR-Lex-Abrufe lieferten nur eine JavaScript-Abfrage; sie werden nicht als gelesen ausgegeben. Amtliche Mitteilung über den Beschluss und die betroffenen Fahrzeugklassen.
 
 - [Europäisches Parlament: Gesetzgebungsverfahren 2025/0420(COD)](https://oeil.europarl.europa.eu/oeil/en/procedure-file?reference=2025%2F0420%28COD%29) · Gezielte Nachprüfung durch Codex, 24. November 2026.
-  Quellenzugriff am 2026-11-24. Verfahrensgegenstand, Änderung der Verordnung 2019/631 und Stand vor der ersten Lesung des Parlaments gelesen. Verfahrensgegenstand, Änderung der Verordnung 2019/631 und Stand vor der ersten Lesung des Parlaments gelesen.
+  Quellenzugriff am 2026-11-24. Verfahrensgegenstand, Änderung der Verordnung 2019/631 und Stand vor der ersten Lesung des Parlaments gelesen. Verfahrensstand des gesonderten späteren Kommissionsvorschlags.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -250,6 +250,8 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 
 - Durchgang 1 am 2026-11-24 (Codex): Vor Recherche gezielt in UG und HP nach Religion, Koran, Aufklärung, Kant, Nietzsche, Batterietechnik und Winterdienst gesucht; keine übertragbare Vorprüfung der neuen Sachkerne. Konkrete Originalstelle im direkt erschlossenen YouTube-Text mit dem Anschlusskontext gelesen, danach die hier genannten Original- oder Fachquellen geöffnet. Vorrecherche vom 24.11.2026 nur als Suchhilfe genutzt. Gepruefte Quellen: S087, S088. Ergebnis: Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen.
+
+- Durchgang 2 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Gepruefte Quellen: S087, S088. Ergebnis: Mit „Verbrennerverbot“ bezeichnet die Debatte häufig die 2023 beschlossenen CO₂-Flottenziele von null für ab 2035 in der EU neu zugelassene Pkw und leichte Nutzfahrzeuge. Der Moderator leitet daraus im Gespräch aber ein Aufhören des Motorenbaus allgemein ab. Dafür ist die Regel kein allgemeines Herstellungsverbot; auch Fahrzeuge im Bestand werden nicht durch diese Regel verboten. Das gesonderte Verfahren 2025/0420(COD) war am Prüftag noch vor der ersten Lesung im Parlament. Die Bewertung der wirtschaftlichen Folgen ist nicht Teil dieses Befunds.
 
 ## QxMuH1bjMwo-A0069
 

@@ -1,0 +1,59 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0006",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "Xw2tAp6UouE-A0005",
+    "entryId": null,
+    "description": "Die im Gespräch aufgerufene Maßnahme war eine politische Entschließung, keine neu erlassene verbindliche Regelung."
+  },
+  "evidence": [
+    {
+      "title": "Europäisches Parlament: amtliche Zusammenfassung 2026/2868(RSP)",
+      "url": "https://oeil.europarl.europa.eu/oeil/en/document-summary?id=1919148",
+      "accessedOn": "2026-11-26",
+      "finding": "Bestätigt den Beschluss einer Entschließung und die an die Kommission gerichteten Forderungen; kein neuer Vorschriftenerlass."
+    }
+  ],
+  "affected": [
+    {
+      "target": "Xw2tAp6UouE-A0005",
+      "reason": "Nur diese konkrete Behauptung. Der allgemein geteilte Originalvideolink begründet keine inhaltliche Abhängigkeit; die Wissenssuche ergab keine betroffenen Einträge."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Die gelesene Primärquelle und der Gesprächskontext tragen den sachlichen Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "Xw2tAp6UouE-A0005",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "Xw2tAp6UouE-A0005",
+      "field": "reason",
+      "before": "Am 8. Oktober 2026 verabschiedete das Parlament tatsächlich die Entschließung 2026/2868(RSP). Darin verlangt es unter anderem eine Übersicht über bestimmte EU-Finanzierungen und bessere Kontrollen. Eine solche parlamentarische Aufforderung ist aber keine neu erlassene verbindliche EU-Regelung und beweist nicht, dass ein entsprechendes Prüfverfahren bereits eingerichtet wurde.",
+      "after": "Im Gespräch setzt der Gast eine erlassene Regelung als Beispiel dafür ein, dass inzwischen etwas gegen die Aktivitäten der Muslimbruderschaft unternommen werde. Am 8. Oktober 2026 fasste das Parlament tatsächlich die Entschließung 2026/2868(RSP) und forderte unter anderem eine Übersicht bestimmter EU-Finanzierungen und bessere Kontrollen. Es erließ damit aber keine neue verbindliche Vorschrift und richtete kein Prüfverfahren ein. Die Ausdrucksweise lässt eine bereits eingeführte Maßnahme vermuten, obwohl der Beschluss zunächst eine politische Aufforderung war."
+    },
+    {
+      "target": "Xw2tAp6UouE-A0005",
+      "field": "shortReason",
+      "before": "Das Parlament beschloss eine Entschließung mit Prüfforderungen, aber keine verbindliche neue EU-Regelung.",
+      "after": "Das Parlament verabschiedete eine Entschließung mit Prüfforderungen, aber keine verbindliche neue Regelung."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Einzeln nachgeprüft, Zuständigkeitsgrenzen und Zeitbezug abgegrenzt. Das alte Urteil und die alte Begründung sind hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

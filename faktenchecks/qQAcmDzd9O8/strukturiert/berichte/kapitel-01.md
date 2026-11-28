@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Gesamte verfügbare deutsche automatische Textfassung gelesen; nachprüfbare Kernaussagen und methodische Behauptungen erfasst. Einzelne Nebenangaben und visuelle Inhalte bleiben offen. Keine vollständige audiovisuelle oder Satz-für-Satz-Verifikation, keine Gesamtfehlerquote.
 
-[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen.
+[Codex] Eigenständige Gegenprüfung zu Issue #13. Automatische deutsche Textstellen und ausdrücklich dokumentierte Sachquellen, keine vollständige audiovisuelle Verifikation. Beide Faktenchecks und die eigene Vorarbeit sind Prüfobjekte, keine Wahrheitsautorität. [Codex] 19.11.2026: A0006, A0008 und A0017 nach erneuter Originaltext- und Primärquellenprüfung abgeschlossen. Andere offenen Sachfragen bleiben bestehen. [Kai] 26.11.2026: 2 frühere Teilurteile einzeln nachgeprüft (UG-C0014 bis UG-C0015). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0024 bis UG-C0027). Kein neuer Hör-/Sichtabgleich.
 
 ## qQAcmDzd9O8-A0001
 
@@ -97,7 +97,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Ein 1942 notgelandetes Flugzeug sei 50 Jahre später unter 82 Metern grönländischem Schnee und Eis geborgen worden.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -116,18 +116,21 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds.
+Der Bergungsbericht der P-38 National Association beschreibt, wie die 1942 in Grönland notgelandete P-38 1992 in Teilen aus 268 Fuß Tiefe geborgen wurde. Das sind rund 81,7 Meter und damit gerundet 82 Meter. Bewertet ist dieses lokale historische Ereignis, nicht die Bilanz des grönländischen Eisschilds. Eine unabhängige Nachmessung der Bergungstiefe liegt dieser Prüfung nicht zugrunde.
 
-Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr. [Kai] 2026-11-26: Dokumentierte Originalfundstelle und ihre Paraphrase aus dem Projektstand gegengelesen, Sachquelle erneut geprüft. Keine neue Hör-/Sichtprüfung.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Die Anekdote misst keine gesamte Eisschildbilanz. Bergungsbericht, Tiefe und Ort noch nicht unabhängig geprüft.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Die Anekdote misst keine gesamte Eisschildbilanz. Bergungsbericht, Tiefe und Ort noch nicht unabhängig geprüft.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Das Register der P-38 National Association dokumentiert für Glacier Girl eine Bergung nach 50 Jahren aus 268 Fuß Tiefe; das entspricht rund 81,7 Metern. Damit ist der historische Kern der Anekdote gestützt. Der ausführliche Bergungsbericht war nicht zugänglich und die ursprüngliche Tiefenmessung wurde hier nicht nachgeprüft. Eine örtliche Schneeakkumulation beweist unabhängig davon keine Zunahme des gesamten grönländischen Eisschilds. [Kai] 2026-11-26, UG-C0014: vorher Teilweise belegt, jetzt Belegt. Der Bergungsbericht nennt 268 Fuß (rund 82 Meter); zwischen Notlandung und Bergung lagen 50 Jahre.
 
 ### Zugeordnete Quellen
 
 - [P-38 National Association: Surviving P-38 Lightnings](https://www.p38assn.org/surviving.htm) · Flugzeugregister des spezialisierten Vereins/Museums, Eintrag Glacier Girl, Seriennummer 41-7630.
-  Quellenzugriff am 2026-11-19. Registereintrag selbst gelesen. Ausführlicher Bergungsbericht nicht zugänglich; keine eigene Kontrolle der Tiefenmessung. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-19. Registereintrag selbst gelesen. Ausführlicher Bergungsbericht nicht zugänglich; keine eigene Kontrolle der Tiefenmessung. Register zum Flugzeug und seiner Geschichte.
+
+- [P-38 National Association: Bergung der Glacier Girl](https://p38assn.org/glacier-girl-recovery/) · Illustrierter Bergungsbericht mit Beschreibung des Schachts und der Hebung.
+  Quellenzugriff am 2026-11-26. Bergungsschritte und die mehrfach ausdrücklich genannte Hubtiefe von 268 Fuß im Bericht gelesen. Ausführliche Dokumentation der Bergung und der Hubtiefe.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -138,6 +141,8 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 
 - Durchgang 1 am 2026-11-19 (Codex): UG/HP nach Flugzeugbergung und Glacier Girl durchsucht; Register des spezialisierten Vereins gelesen. Gepruefte Quellen: S045. Ergebnis: 50 Jahre und 268 Fuß dokumentiert; historische Einzelmessung nicht selbst reproduziert.
+
+- Durchgang 2 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Dokumentierte Originalfundstelle und ihre Paraphrase aus dem Projektstand gegengelesen, Sachquelle erneut geprüft. Keine neue Hör-/Sichtprüfung. Gepruefte Quellen: S045, S049. Ergebnis: Der Bergungsbericht der P-38 National Association beschreibt, wie die 1942 in Grönland notgelandete P-38 1992 in Teilen aus 268 Fuß Tiefe geborgen wurde. Das sind rund 81,7 Meter und damit gerundet 82 Meter. Bewertet ist dieses lokale historische Ereignis, nicht die Bilanz des grönländischen Eisschilds. Eine unabhängige Nachmessung der Bergungstiefe liegt dieser Prüfung nicht zugrunde.
 
 ## qQAcmDzd9O8-A0004
 
@@ -681,7 +686,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das UBA komme auf ungefähr drei bis fünf Monate energetische Amortisation.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -700,13 +705,13 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Tabelle 97 stützt gerundet drei bis fünf Monate beim deutschen Referenzmix; andere Referenzmixe ergeben längere Zeiten. Die nötige Methodenabgrenzung zum Vestas-Nettorücklauf fehlt in der Kurzfassung. Kein nachgewiesener Zahlenwiderspruch.
+Alfred nennt rund drei bis fünf Monate und sagt unmittelbar davor, dass das UBA etwas anders rechnet. Die wirkliche Modellspanne beim deutschen Referenzstrommix beträgt 2,5 bis 4,5 Monate und passt gerundet zur Angabe. Erfasst wird die eingesetzte Primärenergie über den Lebenszyklus relativ zum ersetzten Referenzstrom; die Zahl ist nicht mit dem Vestas-Nettorücklauf gleichzusetzen. Der dänische Referenzmix ergibt in derselben Tabelle längere Zeiten.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. [Kai] 2026-11-26, UG-C0024: vorher Teilweise belegt, jetzt Belegt. Die UBA-Tabelle nennt 2,5 bis 4,5 Monate beim deutschen Referenzstrommix; gerundet passt das zu drei bis fünf.
 
 ### Zugeordnete Quellen
 
@@ -716,9 +721,18 @@ Bewertungsuebergang: Keine frühere Endbewertung übernommen.
 - [Windenergie an Land](https://www.umweltbundesamt.de/themen/klima-energie/erneuerbare-energien/windenergie-an-land) · Umweltbundesamt; Seitenstand 09.10.2026, nach Aufnahme des Interviews.
   Quellenzugriff am 2026-11-18. Verlinkte Seite geöffnet; im auslesbaren Text keine Angabe 3–5 Monate gefunden. Der separate Bericht UBA 35/2021 wurde ebenfalls gelesen. Fehlende Fundstelle ist kein Beweis, dass die Zahl nie auf der Seite stand. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
+- [Umweltbundesamt: Ökobilanzen von Windenergie- und Photovoltaikanlagen, Tab. 97](https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf#page=307) · Studie 35/2021, S. 307, Tabelle 97 und der Absatz zum Primärenergiebedarf der Referenzstrommixe.
+  Quellenzugriff am 2026-11-26. Referenzstrommixe und die drei Parametrisierungen Offshore, Starkwind und Schwachwind getrennt gegengelesen. Tabelle 97 und Methodik zur Primärenergie, deutscher und dänischer Referenzstrommix.
+
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S009, S010, S050. Ergebnis: Alfred nennt rund drei bis fünf Monate und sagt unmittelbar davor, dass das UBA etwas anders rechnet. Die wirkliche Modellspanne beim deutschen Referenzstrommix beträgt 2,5 bis 4,5 Monate und passt gerundet zur Angabe. Erfasst wird die eingesetzte Primärenergie über den Lebenszyklus relativ zum ersetzten Referenzstrom; die Zahl ist nicht mit dem Vestas-Nettorücklauf gleichzusetzen. Der dänische Referenzmix ergibt in derselben Tabelle längere Zeiten.
 
 ## qQAcmDzd9O8-A0017
 
@@ -858,7 +872,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Growian habe 87 Millionen Mark gekostet.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -877,18 +891,18 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt.
+Alfred nennt 87 Millionen DM als Kosten des Windrads. Die Bundesregierung veranschlagte diese Summe 1981/82 für das gesamte GROWIAN-Forschungsprogramm einschließlich Entwicklung, Begleituntersuchungen und Auswertung. Die reine Anlagenfertigung schätzte sie separat auf rund 30 Millionen DM. Das ist weder dasselbe wie die Gesamtkosten des Errichtens der Anlage noch eine spätere Schlussabrechnung. Der Betrag von 87 Millionen DM ist als Programmaufwand plausibel, aber kein belegter Einzelpreis für die Turbine.
 
-Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
+Grundlage der Bewertung: [Codex] Nachprüfung 19.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 19.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Historische Kostenangabe: Kostenumfang, Preisstand und primärer Projektbeleg noch nicht geprüft. Die geringe Laufzeit ersetzt keinen Kostenbeleg.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Die Bundesregierung bezifferte Ende 1981 den geschätzten Gesamtaufwand des gesamten GROWIAN-Programms auf rund 87 Millionen DM, einschließlich Entwicklung, Begleituntersuchungen und Versuchsauswertung. Das stützt die Größenordnung. Ein nachträglicher exakter Baupreis ist es nicht: Hesses historische Untersuchung nennt rund 90 Millionen DM. Alfreds Zahl ist deshalb als gerundeter Programmaufwand plausibel, als genau belegte Schlussabrechnung eingeschränkt. [Kai] 2026-11-26, UG-C0026: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. 87 Mio. DM waren der geschätzte Aufwand des Programms, nicht der Einzelpreis der Turbine.
 
 ### Zugeordnete Quellen
 
 - [Bundesregierung: GROWIAN, Drucksache 9/1249](https://dserver.bundestag.de/btd/09/012/0901249.pdf) · Antwort vom 30.12.1981, veröffentlicht 05.01.1982; Fragen 1 und 4.
-  Quellenzugriff am 2026-11-19. Kostenaufstellung und Definition des geschätzten Gesamtprogramms selbst gelesen; kein Schlussverwendungsnachweis. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-19. Kostenaufstellung und Definition des geschätzten Gesamtprogramms selbst gelesen; kein Schlussverwendungsnachweis. Bundestagsdrucksache 9/1249, S. 3: Programmschätzung und separate Anlagenfertigung.
 
 - [Hesse (2021): Visible winds](https://publikationen.bibliothek.kit.edu/1000158846/150748865) · Centaurus, Abschnitt zu GROWIAN auf S. 707; eigene historische Forschungsarbeit mit Archivquellen, DOI 10.1111/1600-0498.12420.
   Quellenzugriff am 2026-11-19. Passage zu Inbetriebnahme, Demontage, Betriebsstunden und Kosten einschließlich Quellenverweisen selbst gelesen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
@@ -904,6 +918,8 @@ Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 - Durchgang 1 am 2026-11-19 (Codex): Wissenssuche UG/HP und zeitgenössische parlamentarische Kostenunterlagen geprüft. Gepruefte Quellen: S040. Ergebnis: 87 Millionen als damalige Schätzung des Gesamtprogramms, nicht nur Anlagenbau.
 
 - Durchgang 2 am 2026-11-19 (Codex): Historische Forschungsarbeit als anderen Prüfweg gelesen. Gepruefte Quellen: S041. Ergebnis: Rund 90 Millionen; Reichweite der präzisen Zahl begrenzt.
+
+- Durchgang 3 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S040, S041. Ergebnis: Alfred nennt 87 Millionen DM als Kosten des Windrads. Die Bundesregierung veranschlagte diese Summe 1981/82 für das gesamte GROWIAN-Forschungsprogramm einschließlich Entwicklung, Begleituntersuchungen und Auswertung. Die reine Anlagenfertigung schätzte sie separat auf rund 30 Millionen DM. Das ist weder dasselbe wie die Gesamtkosten des Errichtens der Anlage noch eine spätere Schlussabrechnung. Der Betrag von 87 Millionen DM ist als Programmaufwand plausibel, aber kein belegter Einzelpreis für die Turbine.
 
 ## qQAcmDzd9O8-A0021
 
@@ -1330,9 +1346,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Die kalifornische SVB scheiterte 2023 im Zusammenhang mit stark gestiegenen Zinsen.
+**Eigene Beschreibung:** Alfred nennt die stark gestiegenen Zinsen als den Grund für das Scheitern der Silicon Valley Bank 2023.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1351,22 +1367,28 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Zinsrisiko war wesentlich; der Aufsichtsbericht nennt auch Liquiditätsrisiken, Management- und Aufsichtsversagen. Eine monokausale Kurzfassung lässt Ursachen aus.
+Alfred nennt stark gestiegene Zinsen unmittelbar als den Grund des Scheiterns. Die Fed bestätigt Zinsdruck, betont aber das Zusammenwirken mit dem mangelhaften Zins- und Liquiditätsrisikomanagement, konzentrierten unversicherten Einlagen, dem massiven Einlagenabzug und Aufsichtsversäumnissen. Der Auslöser ist damit nicht ausgedacht, aber der Bericht stützt nicht die nahegelegte Erklärung aus einer einzigen Ursache.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. [Kai] 2026-11-26, UG-C0027: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Höhere Zinsen trugen bei; der Fed-Bericht nennt auch Risikomanagement, Einlagenabzug und Aufsicht.
 
 ### Zugeordnete Quellen
 
 - [Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank](https://www.federalreserve.gov/publications/files/svb-review-20230428.pdf) · Federal Reserve, 28.04.2023; Anschreiben und Zusammenfassung: Zins-, Liquiditäts-, Management- und Aufsichtsrisiken.
-  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
+  Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Federal Reserve, Executive Summary: Zinsänderungsrisiko, Abzüge und Aufsicht.
 
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S014. Ergebnis: Alfred nennt stark gestiegene Zinsen unmittelbar als den Grund des Scheiterns. Die Fed bestätigt Zinsdruck, betont aber das Zusammenwirken mit dem mangelhaften Zins- und Liquiditätsrisikomanagement, konzentrierten unversicherten Einlagen, dem massiven Einlagenabzug und Aufsichtsversäumnissen. Der Auslöser ist damit nicht ausgedacht, aber der Bericht stützt nicht die nahegelegte Erklärung aus einer einzigen Ursache.
 
 ## qQAcmDzd9O8-A0031
 
@@ -1588,9 +1610,9 @@ Fehlende Information: Vollständige annotierte Fundstellenliste, Definition von 
 
 Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
-**Eigene Beschreibung:** Aus den drei Kategorien ergebe sich für Krall ein Alfred-Index von 1.360 Punkten.
+**Eigene Beschreibung:** Die drei in Alfreds Grafik genannten Teilwerte ergeben addiert 1.360 Punkte.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1609,18 +1631,18 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung.
+Die im Repository dokumentierte Sichtprüfung der Originalgrafik zeigt die drei Teilwerte 590, 470 und 300. Die im Video angegebene Addition ist korrekt: Sie ergibt 1.360 Punkte. Damit ist nur der Summenschritt belegt. Wie Alfred die drei Teilwerte aus Einzelkodierungen, Gewichten und Mittelung gebildet hat, ist nicht vollständig reproduzierbar und bleibt offen. Die Addition ist auch kein Beleg für eine objektive Personenbewertung.
 
-Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr.
+Grundlage der Bewertung: [Codex] Nachprüfung 20.11.2026: bezeichnete Originaltranskriptstelle mit Umfeld gelesen, Wissensdatenbanken UG/HP gezielt durchsucht und angegebene Quellen selbst gelesen. Keine durchgängige Audio-/Videosichtung; Sprecher und Zeitgrenzen bleiben plausibel beziehungsweise ungefähr. [Kai] 2026-11-26: Darstellung und Zahlen der im Repository dokumentierten Sichtprüfung der Originalgrafik nachvollzogen und die Addition unabhängig nachgerechnet. Keine neue Sichtprüfung.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Alfred nennt diese Zahl; ihre Berechnung ist ohne Gewichte und Einzelkodierungen nicht nachvollzogen. Weder Personenrangliste noch eigene Glaubwürdigkeitsnote daraus abgeleitet.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. Nachprüfung 20.11.2026 (Codex), Issue #77: vorher {"status":"In Bearbeitung","kind":"Tatsachenbehauptung","verdict":null,"reason":"Alfred nennt diese Zahl; ihre Berechnung ist ohne Gewichte und Einzelkodierungen nicht nachvollzogen. Weder Personenrangliste noch eigene Glaubwürdigkeitsnote daraus abgeleitet.","sourceIds":["S002"]}. Jetzt Abgeschlossen / Teilweise belegt. Die zusätzlich im Originalplayer visuell kontrollierte Summengrafik zeigt die drei Teilwerte 590, 470 und 300 sowie den Gesamtwert 1360. Die Addition ist korrekt: 590 + 470 + 300 = 1360. Damit ist der rechnerische Kern gegenüber der vorher nur textlichen Kontrolle nun nachvollzogen. Wie sämtliche Einzelkodierungen, Gewichte und Mittelungen zu den drei Ausgangswerten führen, lässt sich aus dem gelesenen Messabschnitt, der aktuellen Uploadbeschreibung und den gelesenen Herausgeberseiten weiterhin nicht vollständig reproduzieren. Die richtige Summe belegt weder die Richtigkeit aller Eingabewerte noch eine objektive Personennote. Kontrolliert wurden ausgewählte Messgrafiken, keine durchgängige audiovisuelle Gesamtprüfung. [Kai] 2026-11-26, UG-C0015: vorher Teilweise belegt, jetzt Belegt. Die drei gezeigten Werte ergeben tatsächlich 1.360. Die Herleitung der Einzelwerte bleibt offen.
 
 ### Zugeordnete Quellen
 
 - [Alfred: Wächst das Eis am Südpol?](https://www.youtube.com/watch?v=qQAcmDzd9O8) · Alfred räumt auf; Upload laut Metadaten 14.11.2026; 16:43.
-  Quellenzugriff am 2026-11-20. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. [Codex] 20.11.2026: Uploadbeschreibung erneut im Originalplayer geöffnet; Messabschnitt erneut textlich gelesen. Ausgewählte Bildtafeln zu zehn Minuten (um 13:02), acht Minuten (um 14:06–14:15) und Summenwerten (um 14:50–14:53) im laufenden Originalplayer visuell kontrolliert. Keine durchgängige audiovisuelle Kontrolle. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
+  Quellenzugriff am 2026-11-20. oEmbed, Uploadbeschreibung und gesamte verfügbare deutsche automatische Textfassung gelesen. Deutsch/de-orig identisch. Keine vollständige Hör-/Sichtkontrolle; kein Beleg für die Wahrheit der Sachbehauptungen. [Codex] 20.11.2026: Uploadbeschreibung erneut im Originalplayer geöffnet; Messabschnitt erneut textlich gelesen. Ausgewählte Bildtafeln zu zehn Minuten (um 13:02), acht Minuten (um 14:06–14:15) und Summenwerten (um 14:50–14:53) im laufenden Originalplayer visuell kontrolliert. Keine durchgängige audiovisuelle Kontrolle. Originalgrafik bei ca. 14:50–14:53 laut dokumentierter Sichtprüfung vom 20.11.2026; Teilwerte nachgerechnet.
 
 - [SinansWoche: öffentliche Projekt- und Produktionsdarstellung](https://sinanswoche.de/) · Vom Alfred-Upload ausdrücklich verlinkte Herausgeberseite; Eigenproduktion und Finanzierung als Selbstdarstellung, Verweis auf Projekte.
   Quellenzugriff am 2026-11-20. Am 20.11.2026 im Browser geöffnet und sichtbare Darstellung gelesen; keine Einsicht in interne Prüferläufe oder vollständige Rohkodierungen. Nur für den in der Begründung abgegrenzten Sachkern; Quellenreichweite und zeitliche Grenzen beachten.
@@ -1639,6 +1661,8 @@ Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
 - Durchgang 1 am 2026-11-20 (Codex): UG/HP mit zwei Formulierungen nach Krall-Index und Bewertungsverfahren durchsucht; Messabschnitt 12:04–15:13 und aktuelle Uploadbeschreibung gelesen; zusätzlich Summengrafik um 14:50–14:53 im Originalplayer visuell kontrolliert. Gepruefte Quellen: S002. Ergebnis: Drei sichtbare Teilwerte 590, 470 und 300 ergeben in eigener einfacher Addition korrekt 1360. Keine vollständige Herleitung der Teilwerte vorgefunden.
 
 - Durchgang 2 am 2026-11-20 (Codex): Anderer Prüfweg über die im Upload verlinkte Herausgeberseite: öffentlichen Produktionshinweis und sichtbare Projektübersicht im Browser gelesen und gegen die benötigten Eingangsdaten abgegrenzt. Gepruefte Quellen: S047, S048. Ergebnis: Die gelesenen Seiten liefern keine vollständige Codier- und Gewichtungsrechnung; daraus folgt kein allgemeiner Negativbeweis über andernorts vorhandene Unterlagen.
+
+- Durchgang 3 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Darstellung und Zahlen der im Repository dokumentierten Sichtprüfung der Originalgrafik nachvollzogen und die Addition unabhängig nachgerechnet. Keine neue Sichtprüfung. Gepruefte Quellen: S002. Ergebnis: Die im Repository dokumentierte Sichtprüfung der Originalgrafik zeigt die drei Teilwerte 590, 470 und 300. Die im Video angegebene Addition ist korrekt: Sie ergibt 1.360 Punkte. Damit ist nur der Summenschritt belegt. Wie Alfred die drei Teilwerte aus Einzelkodierungen, Gewichten und Mittelung gebildet hat, ist nicht vollständig reproduzierbar und bleibt offen. Die Addition ist auch kein Beleg für eine objektive Personenbewertung.
 
 ## qQAcmDzd9O8-A0036
 
@@ -1874,7 +1898,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** An einem schwachen Standort könne die energetische Amortisation ungefähr ein Jahr dauern.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1893,22 +1917,31 @@ Zeitgrundlage: Bereich anhand der automatischen deutschen Zeitmarken eingegrenzt
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die UBA-Modellbandbreite reicht ungefähr bis ein Jahr; sie hängt zusätzlich zum Standort vom Referenzstrommix ab. Schwachwind allein erklärt die längste Dauer nicht.
+Unmittelbar im Anschluss an die UBA-Zahlen nennt Alfred einen schwachen Standort mit rund einem Jahr. In derselben UBA-Tabelle liegt der Schwachwindfall an Land bei 3,2 Monaten mit deutschem beziehungsweise 7,6 Monaten mit dänischem Referenzmix. Nahe einem Jahr liegt dort nur der Offshore-Fall mit dänischem Referenzmix (10,7 Monate). Ein Jahr wird hier nicht allgemein für unmöglich erklärt; es ist aber nicht das Ergebnis des nahegelegten Schwachwindfalls dieser Studie.
 
-Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt.
+Grundlage der Bewertung: Eigene Prüfung am 18.11.2026 auf Basis der angegebenen Textfundstelle und tatsächlich gelesener Sachquellen; Sprecher und Wortlaut noch nicht audiovisuell bestätigt. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Direkte Neuerfassung für den fallbezogenen Vergleich, kein alter Git-Prüfpunkt.
 
-Bewertungsuebergang: Keine frühere Endbewertung übernommen.
+Bewertungsuebergang: Keine frühere Endbewertung übernommen. [Kai] 2026-11-26, UG-C0025: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Im UBA-Schwachwindfall an Land sind es 3,2 bzw. 7,6 Monate. Nahe einem Jahr liegt der Offshore-Fall mit dänischem Referenzmix.
 
 ### Zugeordnete Quellen
 
 - [Ökobilanzen von Windenergie- und Photovoltaikanlagen](https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf) · Hengstler et al., UBA Climate Change 35/2021; S. 35 und 307; Primärenergie-/Referenzstrommixabhängigkeit.
   Quellenzugriff am 2026-11-18. Relevante Quellenstelle am 18.11.2026 selbst gelesen; keine bloße Übernahme aus einem der Faktenchecks. Für den in der Begründung abgegrenzten Sachkern; Quelle beweist nicht die Sprecheridentität und keine weitergehende These.
 
+- [Umweltbundesamt: Ökobilanzen von Windenergie- und Photovoltaikanlagen, Tab. 97](https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf#page=307) · Studie 35/2021, S. 307, Tabelle 97 und der Absatz zum Primärenergiebedarf der Referenzstrommixe.
+  Quellenzugriff am 2026-11-26. Referenzstrommixe und die drei Parametrisierungen Offshore, Starkwind und Schwachwind getrennt gegengelesen. Tabelle 97: Zeilen und Spalten zum maßgeblichen Schwachwindfall und zum Offshore-Vergleich.
+
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S009, S050. Ergebnis: Unmittelbar im Anschluss an die UBA-Zahlen nennt Alfred einen schwachen Standort mit rund einem Jahr. In derselben UBA-Tabelle liegt der Schwachwindfall an Land bei 3,2 Monaten mit deutschem beziehungsweise 7,6 Monaten mit dänischem Referenzmix. Nahe einem Jahr liegt dort nur der Offshore-Fall mit dänischem Referenzmix (10,7 Monate). Ein Jahr wird hier nicht allgemein für unmöglich erklärt; es ist aber nicht das Ergebnis des nahegelegten Schwachwindfalls dieser Studie.
 
 ## qQAcmDzd9O8-A0042
 

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0027",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "qQAcmDzd9O8-A0030",
+    "entryId": null,
+    "description": "Höhere Zinsen trugen bei; der Fed-Bericht nennt auch Risikomanagement, Einlagenabzug und Aufsicht."
+  },
+  "evidence": [
+    {
+      "title": "Review of the Federal Reserve’s Supervision and Regulation of Silicon Valley Bank",
+      "url": "https://www.federalreserve.gov/publications/files/svb-review-20230428.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Der Untersuchungsbericht nennt ausdrücklich mehrere zusammenwirkende Gründe, nicht nur die gestiegenen Zinsen."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/qQAcmDzd9O8",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:11:37, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "qQAcmDzd9O8-A0030",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "qQAcmDzd9O8-A0030",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "qQAcmDzd9O8-A0030",
+      "field": "description",
+      "before": "Die kalifornische SVB scheiterte 2023 im Zusammenhang mit stark gestiegenen Zinsen.",
+      "after": "Alfred nennt die stark gestiegenen Zinsen als den Grund für das Scheitern der Silicon Valley Bank 2023."
+    },
+    {
+      "target": "qQAcmDzd9O8-A0030",
+      "field": "reason",
+      "before": "Zinsrisiko war wesentlich; der Aufsichtsbericht nennt auch Liquiditätsrisiken, Management- und Aufsichtsversagen. Eine monokausale Kurzfassung lässt Ursachen aus.",
+      "after": "Alfred nennt stark gestiegene Zinsen unmittelbar als den Grund des Scheiterns. Die Fed bestätigt Zinsdruck, betont aber das Zusammenwirken mit dem mangelhaften Zins- und Liquiditätsrisikomanagement, konzentrierten unversicherten Einlagen, dem massiven Einlagenabzug und Aufsichtsversäumnissen. Der Auslöser ist damit nicht ausgedacht, aber der Bericht stützt nicht die nahegelegte Erklärung aus einer einzigen Ursache."
+    },
+    {
+      "target": "qQAcmDzd9O8-A0030",
+      "field": "shortReason",
+      "before": "Das Zinsrisiko war wesentlich, der Aufsichtsbericht nennt aber auch Liquiditätsrisiken sowie Management- und Aufsichtsversagen.",
+      "after": "Höhere Zinsen trugen bei; der Fed-Bericht nennt auch Risikomanagement, Einlagenabzug und Aufsicht."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

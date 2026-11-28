@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 3 frühere Teilurteile einzeln nachgeprüft (UG-C0021 bis UG-C0023). Kein neuer Hör-/Sichtabgleich.
 
 ## Xw2tAp6UouE-A0005
 
@@ -10,7 +10,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Das Europäische Parlament habe eine neue Regelung erlassen, um Aktivitäten der Muslimbruderschaft in Europa zu überprüfen.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -31,13 +31,13 @@ Frueherer Suchbereich: [01:45:50–01:46:30](https://www.youtube.com/watch?v=Xw2
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Am 8. Oktober 2026 verabschiedete das Parlament tatsächlich die Entschließung 2026/2868(RSP). Darin verlangt es unter anderem eine Übersicht über bestimmte EU-Finanzierungen und bessere Kontrollen. Eine solche parlamentarische Aufforderung ist aber keine neu erlassene verbindliche EU-Regelung und beweist nicht, dass ein entsprechendes Prüfverfahren bereits eingerichtet wurde.
+Im Gespräch setzt der Gast eine erlassene Regelung als Beispiel dafür ein, dass inzwischen etwas gegen die Aktivitäten der Muslimbruderschaft unternommen werde. Am 8. Oktober 2026 fasste das Parlament tatsächlich die Entschließung 2026/2868(RSP) und forderte unter anderem eine Übersicht bestimmter EU-Finanzierungen und bessere Kontrollen. Es erließ damit aber keine neue verbindliche Vorschrift und richtete kein Prüfverfahren ein. Die Ausdrucksweise lässt eine bereits eingeführte Maßnahme vermuten, obwohl der Beschluss zunächst eine politische Aufforderung war.
 
-Grundlage der Bewertung: [Kai] Sachquellen neu gelesen. Der vorhandene, aus YouTube-Untertiteln ermittelte Prüfhinweis wurde mit der öffentlich lesbaren Podcast-Textfassung abgeglichen. Keine neue Prüfung von Originalton oder Bild; die Sprecherzuordnung bleibt plausibel.
+Grundlage der Bewertung: [Kai] Sachquellen neu gelesen. Der vorhandene, aus YouTube-Untertiteln ermittelte Prüfhinweis wurde mit der öffentlich lesbaren Podcast-Textfassung abgeglichen. Keine neue Prüfung von Originalton oder Bild; die Sprecherzuordnung bleibt plausibel. [Kai] Quellen am 26.11.2026 erneut gelesen. Fundstelle aus dokumentiertem YouTube-Originaltext mit öffentlich lesbarer Podcast-Fassung desselben Gesprächs abgeglichen, keine neue Hör-/Sichtprüfung; Zurechnung und Zeitmarken unverändert.
 
 Uebernahme: Eigenständig formuliert; Grundlage ist ein bereits im bisherigen Prüfstart dokumentierter Fundpunkt aus dem Originalvideo. Kein nummerierter Altprüfpunkt.
 
-Bewertungsuebergang: [Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts. [Codex] 24.11.2026: Zurechnung vorher Gast/Ungeklärt, jetzt Gast/Nur wiedergegeben nach Kontrolle der direkten Originaltextfassung samt Anschluss. Frühere Grundlage: Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert. Sachurteil und Gewicht unverändert.
+Bewertungsuebergang: [Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüfung der Sachquellen und des Gesprächskontexts. [Codex] 24.11.2026: Zurechnung vorher Gast/Ungeklärt, jetzt Gast/Nur wiedergegeben nach Kontrolle der direkten Originaltextfassung samt Anschluss. Frühere Grundlage: Die Gastaussage ist textlich plausibel; für die Haltung der Videomoderation wurde der audiovisuelle Originalkontext in diesem Durchgang nicht kontrolliert. Sachurteil und Gewicht unverändert. [Kai] 2026-11-26, UG-C0006: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Die im Gespräch aufgerufene Maßnahme war eine politische Entschließung, keine neu erlassene verbindliche Regelung.
 
 ### Zugeordnete Quellen
 
@@ -56,6 +56,12 @@ Bewertungsuebergang: [Kai] 24.11.2026: formale Ersterfassung nach erneuter Prüf
 ### Offene Fragen und Unsicherheiten
 
 Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen stehen in den jeweiligen Grundlagen; das ersetzt keine unabhaengige Nachpruefung.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Wissensdatenbank-Suche und Prüfung möglicher Abhängigkeiten; im früheren Originaltext verzeichneten Gesprächsausschnitt mit dem Umfeld der Podcast-Textfassung verglichen und nachstehende Sachquelle neu gelesen. Kein vidIQ. Gepruefte Quellen: S001, S002, S009, S010. Ergebnis: Im Gespräch setzt der Gast eine erlassene Regelung als Beispiel dafür ein, dass inzwischen etwas gegen die Aktivitäten der Muslimbruderschaft unternommen werde. Am 8. Oktober 2026 fasste das Parlament tatsächlich die Entschließung 2026/2868(RSP) und forderte unter anderem eine Übersicht bestimmter EU-Finanzierungen und bessere Kontrollen. Es erließ damit aber keine neue verbindliche Vorschrift und richtete kein Prüfverfahren ein. Die Ausdrucksweise lässt eine bereits eingeführte Maßnahme vermuten, obwohl der Beschluss zunächst eine politische Aufforderung war.
 
 ## Xw2tAp6UouE-A0022
 

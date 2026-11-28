@@ -4,9 +4,9 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 **Abdeckung: Teilbestand.** Unabhängige Teilprüfung der Reaktion mit gezielten Nachprüfungen am Original und an den angegebenen Sachquellen. Die Einzelprüfungen unterscheiden abgeschlossene Bewertungen von noch offenen Arbeitsaufträgen. Durchgängiger Hör-/Sichtabgleich und redaktionelle Zweitprüfung stehen weiter aus; keine Gesamtabdeckung behauptet.
 
-Stand: 2026-11-20 · Video: sLMyP0H7tSY
+Stand: 2026-11-26 · Video: sLMyP0H7tSY
 
-Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen.
+Vorläufige Quellenprüfung durch Codex (Issue #5), von Claude unverändert in dieses Format übertragen. Alle Befunde sind vorläufig und tragen keine Endbewertung. Nachrecherche 2026-11-19 (Codex): Transkriptstellen zu Whisky, Bundesfinanzierung, digitalem Euro, Christine Lagarde und zur YouTube-Monetarisierung gelesen. Originalpassagen bei 01:01:09–01:01:47, 01:29:01–01:29:49, 01:47:03–01:48:29 und 01:49:18–01:49:35 gegengeprüft. [Codex] 19.11.2026: Originalplayer geöffnet, Beschreibung und dort angebotenes automatisches Transkript vollständig gelesen. Keine vollständige Hör-/Sichtkontrolle. Elf bisherige Arbeitsstände anhand erneut gelesener Originaltexte und Primärquellen abgeschlossen; konkrete verbleibende Aufgaben bleiben offen. [Kai] 26.11.2026: 1 frühere Teilurteile einzeln nachgeprüft (UG-C0016). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 2 frühere Teilurteile einzeln nachgeprüft (UG-C0028 bis UG-C0029). Kein neuer Hör-/Sichtabgleich.
 
 ## Umfang und Bearbeitungsstand
 
@@ -36,8 +36,8 @@ Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eig
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 17 | 68.0 % |
-| Teilweise belegt | 8 | 32.0 % |
+| Belegt | 20 | 80.0 % |
+| Teilweise belegt | 5 | 20.0 % |
 | Irreführend / Kontext fehlt | 0 | 0.0 % |
 | Widerlegt | 0 | 0.0 % |
 | Nicht ausreichend belegbar | 0 | 0.0 % |

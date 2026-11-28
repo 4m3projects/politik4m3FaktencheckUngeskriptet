@@ -4,20 +4,20 @@ Automatisch aus aussagen.json erzeugt. Nicht separat bearbeiten.
 
 **Abdeckung: Teilbestand.** Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand.
 
-Stand: 2026-11-24 · Video: QxMuH1bjMwo
+Stand: 2026-11-26 · Video: QxMuH1bjMwo
 
-[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.
+[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 1 frühere Teilurteile einzeln nachgeprüft (UG-C0030). Kein neuer Hör-/Sichtabgleich. [Kai] Ein eigenständiger Zusatz aus A0062 ist als A0076 in Bearbeitung und noch ohne Urteil.
 
 ## Umfang und Bearbeitungsstand
 
 - Ausgewaehlte bisherige Pruefpunkte: 0 von 0
 - Uebrige bisherige Pruefpunkte bleiben unveraendert: 0
-- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 74
+- Eigenstaendige Aussagen mit mindestens einer eigenen Behauptung: 75
 - Abgeschlossen: 74
 - Offen (noch nicht geprueft): 0
-- In Bearbeitung: 0
+- In Bearbeitung: 1
 - Nicht ueberpruefbar (abschliessend ohne Urteil): 0
-- Erfasste Behauptungsvorkommen: 74
+- Erfasste Behauptungsvorkommen: 75
 - Zusaetzliche eigene Aussagevorkommen nach dem ersten je Aussage: 0
 - Davon bestaetigte Wiederholungen derselben Person: 0
 - Rueckfragen/Fremdbezuege/Zurueckweisungen: 1
@@ -36,10 +36,10 @@ Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eig
 
 | Bewertung | Abgeschlossene Aussagen | Anteil am Tatsachen-Nenner |
 | --- | ---: | ---: |
-| Belegt | 32 | 45.1 % |
-| Teilweise belegt | 26 | 36.6 % |
-| Irreführend / Kontext fehlt | 4 | 5.6 % |
-| Widerlegt | 6 | 8.5 % |
+| Belegt | 34 | 47.9 % |
+| Teilweise belegt | 16 | 22.5 % |
+| Irreführend / Kontext fehlt | 11 | 15.5 % |
+| Widerlegt | 7 | 9.9 % |
 | Nicht ausreichend belegbar | 3 | 4.2 % |
 | Meinung / Prognose | 3 | nicht anwendbar |
 
@@ -52,12 +52,12 @@ Keine Endbewertung fuer offene, laufende und nicht ueberpruefbare Aussagen. Bei 
 
 Nur eigenstaendige Tatsachen mit bestaetigter Personenzuordnung und bestaetigtem eigenem Aussagebezug. Je Person und Aussage hoechstens einmal. Gemeinsame Zustimmung kann mehreren Personen zugerechnet werden; Personensummen sind nicht additiv. Keine Glaubwuerdigkeitsnote.
 
-Regulaer einer Person zugeordnete Tatsachen: 0 von 71. Ohne verlaessliche Personenzuordnung: 71.
+Regulaer einer Person zugeordnete Tatsachen: 0 von 72. Ohne verlaessliche Personenzuordnung: 72.
 
-Tatsachen mit unsicherer Sprecherzuordnung: 71; mit unsicherem eigenem Aussagebezug: 71. Diese Mengen koennen sich ueberschneiden.
+Tatsachen mit unsicherer Sprecherzuordnung: 72; mit unsicherem eigenem Aussagebezug: 72. Diese Mengen koennen sich ueberschneiden.
 
 - Bestätigt: Sprecherzuordnung 0, Aussagebezug 0 Vorkommen.
-- Plausibel: Sprecherzuordnung 74, Aussagebezug 75 Vorkommen.
+- Plausibel: Sprecherzuordnung 75, Aussagebezug 76 Vorkommen.
 - Ungeklärt: Sprecherzuordnung 1, Aussagebezug 0 Vorkommen.
 
 | Person | Zugeordnete Tatsachen | Abgeschlossen | Offen | In Bearbeitung | Nicht ueberpruefbar | Prozentnenner |

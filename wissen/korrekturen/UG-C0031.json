@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0031",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0002",
+    "entryId": null,
+    "description": "Firmenchronik und Lokalporträt dokumentieren den Erwerb von whisky.de im Jahr 2010."
+  },
+  "evidence": [
+    {
+      "title": "Chronik 30 Jahre",
+      "url": "https://www.whisky.de/ueber-uns/firmenportrait/chronik-30-jahre.html",
+      "accessedOn": "2026-11-26",
+      "finding": "Dokumentiert den Erwerb 2010."
+    },
+    {
+      "title": "Was ein paar Kisten Whisky bewirken können",
+      "url": "https://www.seeshaupt.de/fileadmin/Gemeinde_Seeshaupt/Dateien/Seeshaupter_Dorfleben/DORFleben_Ausgabe_04-21.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Berichtet ebenfalls über den Erwerb 2010, ohne Vertragseinzelheiten."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://yoututranscript.com/transcript/mlxFA9T88I0",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:56:28, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0002",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "mlxFA9T88I0-A0002",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "mlxFA9T88I0-A0002",
+      "field": "reason",
+      "before": "Die für Kapitel 3 neu gelesene Firmenchronik nennt den Erwerb von whisky.de im Jahr 2010; das Lokalporträt von 2021 führt denselben Vorgang. Dies stützt den bislang offenen Erwerb als veröffentlichte Unternehmensgeschichte, ersetzt aber keine unabhängige Vertrags- oder Registerprüfung. Preis, früherer Inhaber und behaupteter Registrierungsabstand werden dadurch nicht bestätigt.",
+      "after": "Lüning erzählt die Übernahme der Domain whisky.de nach einem Gespräch mit ihrem bisherigen Betreiber. Die Firmenchronik und das Lokalporträt nennen für die Übernahme übereinstimmend 2010. Damit ist der berichtete Erwerb nachvollziehbar; Verkäuferidentität, Preis, angebliche Registrierungsabstände und Kaufvertrag sind davon nicht erfasst."
+    },
+    {
+      "target": "mlxFA9T88I0-A0002",
+      "field": "shortReason",
+      "before": "Firmenchronik und Lokalporträt nennen den Erwerb 2010; eine unabhängige Vertrags- oder Registerprüfung fehlt.",
+      "after": "Firmenchronik und Lokalporträt dokumentieren den Erwerb von whisky.de im Jahr 2010."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

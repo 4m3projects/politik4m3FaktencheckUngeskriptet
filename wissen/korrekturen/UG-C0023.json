@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0023",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "Xw2tAp6UouE-A0014",
+    "entryId": null,
+    "description": "Menschenaffen berücksichtigten in Blickexperimenten, wo eine Figur aufgrund ihrer Information suchen dürfte."
+  },
+  "evidence": [
+    {
+      "title": "Krupenye et al. (2016): Great apes anticipate that other individuals will act according to false beliefs",
+      "url": "https://www.wrc.kyoto-u.ac.jp/en/publications/ChristopherKrupenye/Krupenye-Kano2016-Science.html",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Blickdaten folgen Erwartungen der anderen Figur in der Versuchsaufgabe; die Stärke der daraus möglichen Schlussfolgerungen ist begrenzt."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/Xw2tAp6UouE",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:18:02, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "Xw2tAp6UouE-A0014",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "Xw2tAp6UouE-A0014",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "Xw2tAp6UouE-A0014",
+      "field": "reason",
+      "before": "Die Blickverhaltensexperimente von Krupenye und Kollegen liefern Hinweise, dass Menschenaffen zumindest implizit Erwartungen anderer berücksichtigen. Die Autoren diskutieren selbst alternative Erklärungen und Unterschiede zu expliziten Tests. Das stützt einen begrenzten Theory-of-Mind-Befund, beweist aber nicht sämtliche im Gespräch angeschlossenen Aussagen über ein menschlich vergleichbares Ichbewusstsein oder philosophische Personalität.",
+      "after": "Blickexperimente mit Schimpansen, Bonobos und Orang-Utans zeigen, dass ihre Reaktionen berücksichtigen können, was eine andere Figur gesehen hat und wo sie deshalb nach einem Objekt suchen dürfte. Das stützt den eingegrenzten Befund zur Erwartung anderer. Die Autoren diskutieren auch einfachere Lernerklärungen: Aus solchen Versuchen folgt weder ein vollständiges menschenähnliches Verständnis fremder Gedanken noch der philosophische Schluss über Ichbewusstsein oder Personalität."
+    },
+    {
+      "target": "Xw2tAp6UouE-A0014",
+      "field": "shortReason",
+      "before": "Experimente stützen begrenzte Perspektivübernahme, beweisen aber kein vollständig menschenähnliches Ichbewusstsein.",
+      "after": "Menschenaffen berücksichtigten in Blickexperimenten, wo eine Figur aufgrund ihrer Information suchen dürfte."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

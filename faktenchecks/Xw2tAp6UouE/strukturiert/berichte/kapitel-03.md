@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter, gezielt ausgewählter Teilbestand mit 73 Prüfgegenständen. Die gesamte automatische Originaltextfassung wurde als Suchgrundlage gelesen; die Sachrecherche betrifft die ausgewählten Aussagen. Offene Aussagen sind konkrete Folgeaufträge. Keine vollständige audiovisuelle Erfassung, keine Hochrechnung auf alle Aussagen des Videos und keine Gesamtfehlerquote. Die ausgewiesene Prüfabdeckung bezieht sich ausschließlich auf den strukturierten Teilbestand.
 
-[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung.
+[Kai] Nachprüfung zu #111. Bestehende zeitmarkierte Video-Prüfhinweise mit der automatischen Podcast-Textfassung desselben Gesprächs und mit eigenständig gelesenen Sachquellen abgeglichen. Die öffentlichen deutschen YouTube-Untertitel ließen sich in diesem Durchgang nicht erneut abrufen; kein vidIQ, keine Hör-/Sichtprüfung. [Codex] Noch am 24.11.2026 Originalplayer-Zugang hergestellt und fünf Suchfenster samt Frage/Antwort-Anschluss direkt an der automatischen YouTube-Textfassung kontrolliert. Ausschließlich Zurechnung geklärt; Sachurteile und Bedeutungsfaktoren nicht neu bewertet. Kein Audio-/Bildabgleich. [Codex] 24.11.2026, erweiterte Fortsetzung: 68 weitere eigene Prüfgegenstände; Originaltext mit Gesprächsanschluss und dokumentierte Sachquellen eigenständig geprüft. Frühere Aussagen, Urteile und Faktoren unverändert erhalten. [Codex] 25.11.2026: Veröffentlichungskontrolle der am 24.11. erstellten Erweiterung. Alle fünf zuvor publizierten Aussagen bleiben unverändert. Ausgewählte sensible Religions-, Rechts- und Entwicklungsbehauptungen erneut am privaten Originaltext und den genannten Quellen kontrolliert. Übrige neue Sachprüfungen mit ihrer dokumentierten Recherche vom 24.11. übernommen; keine neue Vollsichtung oder unabhängige Faktoren-Gegenprüfung. [Kai] 26.11.2026: Drei frühere Teilurteile anhand des Gesprächskontexts und amtlicher Dokumente bzw. des Originalabstracts nachgeprüft; UG-C0006 bis UG-C0008. Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 3 frühere Teilurteile einzeln nachgeprüft (UG-C0021 bis UG-C0023). Kein neuer Hör-/Sichtabgleich.
 
 ## Xw2tAp6UouE-A0012
 
@@ -332,7 +332,7 @@ Direkte strukturierte Neuerfassung ohne migrierten Altpruefpunkt.
 
 **Eigene Beschreibung:** Lenin führte nach der Krise des Kriegskommunismus eine neue ökonomische Politik mit marktwirtschaftlichen Elementen ein.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -351,13 +351,13 @@ Zeitgrundlage: Ungefähres Suchfenster der am 24.11.2026 direkt aus dem YouTube-
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Lenin leitete die Neue Ökonomische Politik als Reaktion auf die Krise ein; sie enthielt wieder marktwirtschaftliche Elemente. Die DHM-Chronik datiert den Beginn bereits auf März 1921, nicht erst auf die im Gespräch ungefähr genannten Jahre 1922/23. Der Kurswechsel stimmt, die Chronologie ist ungenau und bedeutete keine vollständige Aufgabe bolschewistischer Herrschaft.
+Lenin leitete in der Krise nach dem Kriegskommunismus eine neue Wirtschaftspolitik mit Marktelementen ein. In seiner Rede vom 15. März 1921 schlug er vor, die Ablieferung von Überschüssen durch eine Naturalsteuer zu ersetzen und lokalen Warenaustausch zu ermöglichen. Die im Gespräch ungefähr genannten Jahre 1922/23 gehören bereits in die Phase der Umsetzung; der Kurswechsel begann im März 1921. Er bedeutete weder die Abschaffung der bolschewistischen Herrschaft noch die Einführung einer vollständig freien Marktwirtschaft.
 
-Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle.
+Grundlage der Bewertung: [Codex] 24.11.2026: Direkte deutsche automatische YouTube-Originaltextfassung am Suchfenster mit Gesprächsanschluss und die bezeichneten Sachquellen selbst gelesen. Sprecher textlich plausibel; keine akustische oder bildliche Kontrolle. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Zusätzliche, eigenständig paraphrasierte Originalaussage. Historische Prüfhinweise nur als Suchhilfe; keine Urteile importiert.
 
-Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung.
+Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung der Originaltext- und Quellenprüfung. [Kai] 2026-11-26, UG-C0021: vorher Teilweise belegt, jetzt Belegt. Der Kurswechsel zu begrenztem Warenaustausch begann im März 1921; 1922/23 lag bereits in der Umsetzungsphase.
 
 ### Zugeordnete Quellen
 
@@ -365,7 +365,10 @@ Bewertungsuebergang: [Codex] 24.11.2026: Neuer Prüfgegenstand nach Erweiterung 
   Quellenzugriff am 2026-11-24. Gesamte automatische Textfassung von Gesprächsbeginn bis Ende gelesen; hier ausgewählte Suchfenster mit Frage/Antwort-Anschluss für neue Sachprüfungen verwendet. Zeiten ungefähr, Sprecherzuordnung plausibel. Keine Ton-/Bildkontrolle. Ungefähres Suchfenster und Gesprächsanschluss direkt an der automatischen Originaltextfassung gelesen; eigene Paraphrase.
 
 - [Deutsches Historisches Museum: Chronik 1921](https://www.dhm.de/lemo/jahreschronik/1921) · Museale Chronologie zur Verkündung der Neuen Ökonomischen Politik im März 1921.
-  Quellenzugriff am 2026-11-24. Datierte Notiz zur Versorgungskrise und teilweisen Rückkehr zu kapitalistischen Wirtschaftsmethoden gelesen. Datierte Notiz zur Versorgungskrise und teilweisen Rückkehr zu kapitalistischen Wirtschaftsmethoden gelesen.
+  Quellenzugriff am 2026-11-24. Datierte Notiz zur Versorgungskrise und teilweisen Rückkehr zu kapitalistischen Wirtschaftsmethoden gelesen. Chronik zur Einführung 1921 und zur Versorgungskrise.
+
+- [Lenin: Rede zur Naturalsteuer und neuen Wirtschaftspolitik](https://seventeenmoments.web.illinois.edu/1921-2/tenth-party-congress/tenth-party-congress-texts/lenin-explains-the-tax-in-kind-and-the-new-policy/) · Rede vom 15. März 1921 in der Quellensammlung der University of Illinois.
+  Quellenzugriff am 2026-11-26. Datierung, Naturalsteuer und den vorgesehenen lokalen Warenaustausch im übersetzten Originaltext gelesen. Lenins zeitgenössische Rede zur Reform und zum Warenaustausch.
 
 ### Offene Fragen und Unsicherheiten
 
@@ -376,6 +379,8 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 Einordnung: kein offener Fall. Sicherheit der Einordnung: Mittel.
 
 - Durchgang 1 am 2026-11-24 (Codex): Themenbezogene Suche mit mehreren Formulierungen in UG und HP; Originaltextfenster samt Anschluss gelesen und die bezeichneten Original- oder Fachquellen unabhängig kontrolliert. Frühere KI-Urteile sind kein Beleg. Gepruefte Quellen: S012, S036. Ergebnis: Lenin leitete die Neue Ökonomische Politik als Reaktion auf die Krise ein; sie enthielt wieder marktwirtschaftliche Elemente. Die DHM-Chronik datiert den Beginn bereits auf März 1921, nicht erst auf die im Gespräch ungefähr genannten Jahre 1922/23. Der Kurswechsel stimmt, die Chronologie ist ungenau und bedeutete keine vollständige Aufgabe bolschewistischer Herrschaft.
+
+- Durchgang 2 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S012, S036, S071. Ergebnis: Lenin leitete in der Krise nach dem Kriegskommunismus eine neue Wirtschaftspolitik mit Marktelementen ein. In seiner Rede vom 15. März 1921 schlug er vor, die Ablieferung von Überschüssen durch eine Naturalsteuer zu ersetzen und lokalen Warenaustausch zu ermöglichen. Die im Gespräch ungefähr genannten Jahre 1922/23 gehören bereits in die Phase der Umsetzung; der Kurswechsel begann im März 1921. Er bedeutete weder die Abschaffung der bolschewistischen Herrschaft noch die Einführung einer vollständig freien Marktwirtschaft.
 
 ## Xw2tAp6UouE-A0032
 

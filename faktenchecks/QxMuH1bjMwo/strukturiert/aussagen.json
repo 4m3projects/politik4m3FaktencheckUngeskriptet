@@ -5,12 +5,12 @@
     "videoId": "QxMuH1bjMwo",
     "videoUrl": "https://www.youtube.com/watch?v=QxMuH1bjMwo",
     "durationSeconds": 12053,
-    "asOf": "2026-11-24",
+    "asOf": "2026-11-26",
     "baselineCommit": null,
     "selectedLegacyIds": [],
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
-    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile.",
+    "researchNote": "[Codex] Kapitelverzeichnis und ausgewählte Passagen im automatischen deutschen YouTube-Originaltranskript kontrolliert. Sachquellen und offene Recherchefragen stehen bei den einzelnen Aussagen. Sprecherzuordnungen beruhen auf dem Gesprächskontext. [Codex] 24.11.2026: Direkter Originalplayer-Zugang hergestellt; deutsche automatische Textfassung privat exportiert und weitere Sachkerne aus dem Gespräch unabhängig recherchiert. 24 zusätzliche Prüfgegenstände einschließlich einer politischen Systemthese. Keine Übernahme der Podcast-Zeiten, kein Hör-/Bildabgleich und keine Änderung früherer Urteile. [Kai] 26.11.2026: 5 frühere Teilurteile einzeln nachgeprüft (UG-C0009 bis UG-C0013). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 4 frühere Teilurteile einzeln nachgeprüft (UG-C0017 bis UG-C0020). Kein neuer Hör-/Sichtabgleich. [Kai] 26.11.2026: Weitere 1 frühere Teilurteile einzeln nachgeprüft (UG-C0030). Kein neuer Hör-/Sichtabgleich. [Kai] Ein eigenständiger Zusatz aus A0062 ist als A0076 in Bearbeitung und noch ohne Urteil.",
     "coverageNote": "Erweiterte quellengeprüfte Text-Teilprüfung mit 75 Prüfgegenständen über alle elf Kapitel. Weitere Nebenbehauptungen, private Selbstauskünfte und eine durchgängige audiovisuelle Verifikation sind nicht vollständig erfasst. Die Text-Teilprüfung ist abgeschlossen, keine Vollprüfung des gesamten Gesprächs; die berechnete Prüfabdeckung bezieht sich auf den erfassten Bestand."
   },
   "legacyPoints": [],
@@ -798,6 +798,46 @@
       "details": "Gezielte Nachprüfung durch Codex, 24. November 2026.",
       "accessedOn": "2026-11-24",
       "accessBasis": "Versübersetzung gelesen; ihre Auslegung ist von der späteren juristischen Tradition zu unterscheiden."
+    },
+    {
+      "id": "S099",
+      "title": "Sahih al-Bukhari 8: Aufzählung der fünf Säulen",
+      "url": "https://sunnah.com/bukhari:8",
+      "details": "Hadith Nr. 8 im Buch des Glaubens; Text und Übersetzung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Die ausdrücklich fünfteilige Aufzählung im veröffentlichten arabischen Text mit Übersetzung gelesen."
+    },
+    {
+      "id": "S100",
+      "title": "Kabinett der VAE: Bundesverfassung",
+      "url": "https://uaecabinet.ae/en/the-constitution",
+      "details": "Art. 1, 3 und 7 in amtlicher englischer Fassung.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Staatsstruktur, Rechte der Mitgliedsemirate und Bestimmung zur Religion gelesen."
+    },
+    {
+      "id": "S101",
+      "title": "BMF: Forschungszulage, Anwendungsschreiben vom 7. Februar 2023",
+      "url": "https://www.bundesfinanzministerium.de/Content/DE/Downloads/BMF_Schreiben/Weitere_Steuerthemen/Forschungszulagen/2023-02-07-gewaehrung-von-forschungszulage-nach-dem-gesetz-zur-steuerlichen-foerderung-von-forschung-und-entwicklung.pdf?__blob=publicationFile&v=2",
+      "details": "Historischer Regelungsstand für 2022: Bemessungsgrundlage und Fördersatz, insbesondere Rn. 166, 188.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Beträge und Satz im damaligen Anwendungsschreiben gelesen; Angaben für spätere Jahre daraus nicht übernommen."
+    },
+    {
+      "id": "S102",
+      "title": "The National Archives: Britische Akten zur Teilung Indiens",
+      "url": "https://cdn.nationalarchives.gov.uk/documents/education/partition-of-british-india.pdf",
+      "details": "DO 142/416 und DO 142/439 (Quellen 2c–2d), insbesondere der Vermerk vom 25. August 1947.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Originalakten mit zeitgenössischen Berichten zur Gewalt im östlichen Punjab im August und September 1947 gelesen."
+    },
+    {
+      "id": "S103",
+      "title": "ECCC: Aussage des Angeklagten Kaing Guek Eav vom 17. Juni 2009",
+      "url": "https://www.eccc.gov.kh/sites/default/files/documents/courtdoc/E1_34.1_TR001_20090617_Final_EN_Pub.pdf",
+      "details": "Case 001, Verhandlungstag 30, S. 25.",
+      "accessedOn": "2026-11-26",
+      "accessBasis": "Befragung zur Tötung von Kindern gelesen; der Befragte verneint eigene Beobachtung und Kenntnis der genauen Zahl."
     }
   ],
   "speakers": [
@@ -1027,19 +1067,19 @@
       "kind": "Tatsachenbehauptung",
       "description": "Nach der Kölner Silvesternacht 2015/16 hieß es zunächst, es habe keine Zwischenfälle gegeben.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Die erste Meldung der Kölner Polizei stellte die Feier als weitgehend friedlich dar und ließ das Ausmaß der Sexualdelikte unerwähnt. Sie nannte jedoch bereits unter anderem Körperverletzungsdelikte und Ruhestörungen. Der Untersuchungsausschuss dokumentiert weitere Meldungen und die spätere Richtigstellung.",
-      "shortReason": "Die erste Polizeimeldung nannte die Feier weitgehend friedlich und verschwieg die Sexualdelikte, erwähnte aber andere Vorfälle.",
-      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Die erste dokumentierte Kölner Polizeimeldung vom 1. Januar, 08:57 Uhr, bezeichnete die Feiern als überwiegend friedlich. Sie nannte dabei unter anderem Körperverletzungen und weitere Einsätze. Die Sexualdelikte am Hauptbahnhof kamen in der Meldung nicht vor; der Untersuchungsausschuss dokumentiert eine weitere Meldung über diese Taten am Folgetag. Die pauschale Wiedergabe „keine Zwischenfälle“ macht aus der beschönigenden Gesamtdarstellung fälschlich eine Meldung mit null Vorfällen. Andere nicht konkret benannte Stimmen sind damit nicht bewertet.",
+      "shortReason": "Die erste Kölner Polizeimeldung sprach von überwiegend friedlichen Feiern, nannte aber Straftaten. Sexualdelikte am Hauptbahnhof fehlten.",
+      "assessmentBasis": "[Codex] Automatische deutsche YouTube-Textstelle im Zusammenhang gelesen. Sprecherzuordnung aus dem Gesprächsverlauf, ohne Hör-/Sichtabgleich. Sachurteile beziehen sich auf den angegebenen Sachkern. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Unmittelbar aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0009: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Die erste Kölner Polizeimeldung sprach von überwiegend friedlichen Feiern, nannte aber Straftaten. Sexualdelikte am Hauptbahnhof fehlten."
       },
       "sourceRefs": [
         {
           "sourceId": "S006",
-          "note": "Gibt den Wortlaut der ersten Meldung und die spätere Aufarbeitung wieder."
+          "note": "Amtlicher Untersuchungsbericht, S. 355–356, 544: erste Silvestermeldung und Folgemeldung."
         }
       ],
       "openQuestions": [],
@@ -1070,6 +1110,23 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S006"
+            ],
+            "result": "Die erste dokumentierte Kölner Polizeimeldung vom 1. Januar, 08:57 Uhr, bezeichnete die Feiern als überwiegend friedlich. Sie nannte dabei unter anderem Körperverletzungen und weitere Einsätze. Die Sexualdelikte am Hauptbahnhof kamen in der Meldung nicht vor; der Untersuchungsausschuss dokumentiert eine weitere Meldung über diese Taten am Folgetag. Die pauschale Wiedergabe „keine Zwischenfälle“ macht aus der beschönigenden Gesamtdarstellung fälschlich eine Meldung mit null Vorfällen. Andere nicht konkret benannte Stimmen sind damit nicht bewertet."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -2308,19 +2365,23 @@
       "kind": "Tatsachenbehauptung",
       "description": "Mit der Unabhängigkeit 1947 eskalierte die Gewalt zwischen Religionsgemeinschaften im geteilten Britisch-Indien.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Indien und Pakistan wurden im August 1947 unabhängig. Das National Army Museum dokumentiert Gewalt und Massenflucht im Zuge der Teilung. Die Gewalteskalation hatte bereits vor der formalen Unabhängigkeit begonnen.",
-      "shortReason": "Gewalt und Massenflucht bei der Teilung sind belegt; die Eskalation begann aber schon vor der Unabhängigkeit.",
-      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "verdict": "Belegt",
+      "reason": "Der Gast beschreibt eine Eskalation der Gewalt um und nach der britisch-indischen Teilung 1947. Amtliche britische Akten dokumentieren für die zweite Augusthälfte eine rasche Verschärfung im Punjab und anschließende schwere Gewalttaten im August und September. Das bestätigt den zeitlich eingegrenzten Sachverhalt; Übergriffe und Vertreibungen hatten bereits vorher begonnen. Eine alleinige religiöse Ursache oder eine exakte Opferzahl wird hier nicht behauptet.",
+      "shortReason": "Zeitgenössische Berichte belegen die Gewalteskalation um und nach der Teilung im August 1947; Gewalt gab es auch zuvor.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0017: vorher Teilweise belegt, jetzt Belegt. Zeitgenössische Berichte belegen die Gewalteskalation um und nach der Teilung im August 1947; Gewalt gab es auch zuvor."
       },
       "sourceRefs": [
         {
           "sourceId": "S032",
-          "note": "Unabhängigkeit, Teilung und zeitlicher Verlauf der Gewalt."
+          "note": "Überblick über die Gewalt vor und nach der Teilung."
+        },
+        {
+          "sourceId": "S102",
+          "note": "Amtliche zeitgenössische Berichte zu den Folgen der Teilung im Punjab."
         }
       ],
       "openQuestions": [],
@@ -2351,6 +2412,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S032",
+              "S102"
+            ],
+            "result": "Der Gast beschreibt eine Eskalation der Gewalt um und nach der britisch-indischen Teilung 1947. Amtliche britische Akten dokumentieren für die zweite Augusthälfte eine rasche Verschärfung im Punjab und anschließende schwere Gewalttaten im August und September. Das bestätigt den zeitlich eingegrenzten Sachverhalt; Übergriffe und Vertreibungen hatten bereits vorher begonnen. Eine alleinige religiöse Ursache oder eine exakte Opferzahl wird hier nicht behauptet."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -2361,19 +2440,23 @@
       "kind": "Tatsachenbehauptung",
       "description": "Der Gast beschreibt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis als vollständige Liste der Säulen des Islam.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Alle vier genannten Pflichten gehören zu den fünf Säulen. Das Fasten im Ramadan fehlt in der Aufzählung. Diese Einordnung betrifft die Glaubenspflichten.",
-      "shortReason": "Die vier genannten Pflichten gehören dazu, es fehlt aber die fünfte Säule, das Fasten im Ramadan.",
-      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "verdict": "Widerlegt",
+      "reason": "Der Gast nennt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis und beendet die Aufzählung ausdrücklich als vollständig. Der überlieferte Hadith al-Bukhari 8 nennt fünf Säulen, darunter zusätzlich das Fasten im Ramadan. Die vier genannten Punkte stimmen; widerlegt ist die Aussage, dass sie die vollständige Liste bilden. Dafür werden nicht nochmals vier einzelne Treffer gezählt.",
+      "shortReason": "Die als vollständig dargestellte Liste lässt das Fasten im Ramadan aus, die fünfte Säule.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0010: vorher Teilweise belegt, jetzt Widerlegt. Die als vollständig dargestellte Liste lässt das Fasten im Ramadan aus, die fünfte Säule."
       },
       "sourceRefs": [
         {
           "sourceId": "S033",
-          "note": "Vollständige Aufzählung der fünf Säulen."
+          "note": "Einführung des Metropolitan Museum of Art; Gegenabgleich mit der Überlieferung."
+        },
+        {
+          "sourceId": "S099",
+          "note": "Der Hadith nennt fünf Säulen, darunter das Fasten im Ramadan."
         }
       ],
       "openQuestions": [],
@@ -2404,6 +2487,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S033",
+              "S099"
+            ],
+            "result": "Der Gast nennt Gebet, Almosen, Pilgerfahrt und Glaubensbekenntnis und beendet die Aufzählung ausdrücklich als vollständig. Der überlieferte Hadith al-Bukhari 8 nennt fünf Säulen, darunter zusätzlich das Fasten im Ramadan. Die vier genannten Punkte stimmen; widerlegt ist die Aussage, dass sie die vollständige Liste bilden. Dafür werden nicht nochmals vier einzelne Treffer gezählt."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -2819,19 +2920,23 @@
       "kind": "Tatsachenbehauptung",
       "description": "Dubai sei ein islamischer Staat.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Dubai ist eines von sieben Emiraten der Vereinigten Arabischen Emirate. Art. 7 der Bundesverfassung bestimmt den Islam als offizielle Religion der Föderation. Die Bezeichnung trifft den religiösen Bezug, verwechselt aber das Emirat mit dem souveränen Bundesstaat.",
-      "shortReason": "Der Islam ist Staatsreligion der Vereinigten Arabischen Emirate; Dubai ist eines ihrer Emirate, kein eigener Staat.",
-      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Moderator benutzt die Staatsbezeichnung im Vergleich unterschiedlicher gesellschaftlicher Regeln. Der Islam ist nach Art. 7 Staatsreligion der Vereinigten Arabischen Emirate. Dubai gehört nach Art. 1 als Emirat zu dieser Föderation und besitzt nach Art. 3 eigene Zuständigkeiten. Die Formulierung lässt aber außer Acht, dass die VAE, nicht Dubai, der unabhängige Bundesstaat sind. Der anschließende Vergleich zum Alkoholkonsum ist nicht Teil dieses Befunds.",
+      "shortReason": "Dubai ist ein Emirat der Vereinigten Arabischen Emirate. Der Islam ist Staatsreligion des Bundesstaats.",
+      "assessmentBasis": "[Codex] Automatisches deutsches Originaltranskript und verlinkte Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächskontext, soweit erkennbar. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0011: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Dubai ist ein Emirat der Vereinigten Arabischen Emirate. Der Islam ist Staatsreligion des Bundesstaats."
       },
       "sourceRefs": [
         {
           "sourceId": "S040",
-          "note": "Föderale Struktur und Staatsreligion der VAE."
+          "note": "Grundstruktur laut Regierungsportal der VAE."
+        },
+        {
+          "sourceId": "S100",
+          "note": "Amtliche Fassung: Art. 1 zur Föderation, Art. 3 zu den Emiraten, Art. 7 zur Religion."
         }
       ],
       "openQuestions": [],
@@ -2862,6 +2967,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S040",
+              "S100"
+            ],
+            "result": "Der Moderator benutzt die Staatsbezeichnung im Vergleich unterschiedlicher gesellschaftlicher Regeln. Der Islam ist nach Art. 7 Staatsreligion der Vereinigten Arabischen Emirate. Dubai gehört nach Art. 1 als Emirat zu dieser Föderation und besitzt nach Art. 3 eigene Zuständigkeiten. Die Formulierung lässt aber außer Acht, dass die VAE, nicht Dubai, der unabhängige Bundesstaat sind. Der anschließende Vergleich zum Alkoholkonsum ist nicht Teil dieses Befunds."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -3230,19 +3353,23 @@
       "kind": "Tatsachenbehauptung",
       "description": "Im Werbeblock heißt es, Unternehmen könnten bei der Forschungszulage bis zu 4,2 Millionen Euro im Jahr erhalten, auch rückwirkend bis 2022.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "4,2 Millionen Euro ergeben sich ab 2026 aus 35 Prozent von 12 Millionen Euro förderfähigen Aufwendungen, wenn ein anspruchsberechtigtes kleines oder mittleres Unternehmen die Erhöhung beantragt. Der allgemeine Satz beträgt 25 Prozent. In den zurückliegenden Jahren galten niedrigere Bemessungsgrenzen, für 2022 etwa vier Millionen Euro als Bemessungsgrundlage. Ob für ein bestimmtes Jahr rückwirkend noch ein Anspruch besteht, richtet sich nach den gesetzlichen und verfahrensrechtlichen Voraussetzungen.",
-      "shortReason": "4,2 Mio. Euro gelten erst ab 2026 und nur für kleine und mittlere Unternehmen mit erhöhtem Satz; für 2022 galten niedrigere Grenzen.",
-      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Im Werbeblock werden bis zu 4,2 Millionen Euro jährlich mit der Möglichkeit rückwirkender Förderung bis 2022 in einem Satz verbunden. Der Höchstbetrag ergibt sich erst für förderfähige Aufwendungen ab 2026: 12 Millionen Euro mal 35 Prozent bei beantragter Erhöhung für anspruchsberechtigte kleine oder mittlere Unternehmen. Für 2022 galten 4 Millionen Euro Bemessungsgrenze und 25 Prozent, also höchstens 1 Million Euro. Die Möglichkeit eines nachträglichen Antrags ändert den für das jeweilige Jahr geltenden Höchstbetrag nicht.",
+      "shortReason": "4,2 Mio. Euro sind erst ab 2026 für qualifizierte KMU möglich. Für 2022 lag die Obergrenze bei 1 Mio. Euro.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0012: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. 4,2 Mio. Euro sind erst ab 2026 für qualifizierte KMU möglich. Für 2022 lag die Obergrenze bei 1 Mio. Euro."
       },
       "sourceRefs": [
         {
           "sourceId": "S060",
-          "note": "Bemessungsgrenzen, Höhe der Zulage und Antrag."
+          "note": "§§ 3–4: gestaffelte Bemessungsgrenzen und Fördersätze."
+        },
+        {
+          "sourceId": "S101",
+          "note": "Zeitgenössische Bestätigung für die 2022 geltende Berechnung."
         }
       ],
       "openQuestions": [],
@@ -3273,6 +3400,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S060",
+              "S101"
+            ],
+            "result": "Im Werbeblock werden bis zu 4,2 Millionen Euro jährlich mit der Möglichkeit rückwirkender Förderung bis 2022 in einem Satz verbunden. Der Höchstbetrag ergibt sich erst für förderfähige Aufwendungen ab 2026: 12 Millionen Euro mal 35 Prozent bei beantragter Erhöhung für anspruchsberechtigte kleine oder mittlere Unternehmen. Für 2022 galten 4 Millionen Euro Bemessungsgrenze und 25 Prozent, also höchstens 1 Million Euro. Die Möglichkeit eines nachträglichen Antrags ändert den für das jeweilige Jahr geltenden Höchstbetrag nicht."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -3527,25 +3672,25 @@
       "chapter": 9,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Die Linke setze sich in Berlin dafür ein, die geltenden Neutralitätsvorschriften für Schulen und Justiz aufzuheben.",
+      "description": "Die Linke wolle die Neutralität des Staates in Berliner Schulen und Gerichten aufheben.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Der Gesetzentwurf der Fraktion Die Linke von 2025 fordert die Aufhebung des Berliner Neutralitätsgesetzes. Er nennt in seiner Begründung ausdrücklich Lehrkräfte sowie Richter, Staatsanwälte und Rechtsreferendare. Das verfassungsrechtliche Neutralitätsgebot, das der Senat aus dem Grundgesetz ableitet, ist davon zu unterscheiden und würde durch diesen Gesetzentwurf nicht aufgehoben.",
-      "shortReason": "Die Linke will das Berliner Neutralitätsgesetz aufheben; das Neutralitätsgebot des Grundgesetzes bliebe davon unberührt.",
-      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Gast spricht von einer Aufhebung der Neutralität des Staates in Schulen und Gerichten. Die Linke beantragte 2025 die Aufhebung des Berliner Neutralitätsgesetzes. Der Entwurf unterscheidet aber ausdrücklich das Tragen religiöser Symbole durch einzelne Beschäftigte von einer religiösen Identifikation staatlicher Institutionen und erkennt das Neutralitätsgebot an. Das verfassungsrechtliche Gebot bliebe von der beantragten Aufhebung unberührt. Bewertet wird der Inhalt des Antrags, nicht sein späteres parlamentarisches Schicksal.",
+      "shortReason": "Die Linke beantragte die Aufhebung des Berliner Neutralitätsgesetzes, nicht des verfassungsrechtlichen Neutralitätsgebots.",
+      "assessmentBasis": "[Codex] Originaltranskript und die verlinkten Sachquellen gelesen. Sprecherzuordnung aus dem Gesprächsverlauf. Hör- und Sichtabgleich offen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Direkt aus der Originalfundstelle erfasst.",
-        "assessmentChange": "Erste dokumentierte Einordnung."
+        "assessmentChange": "Erste dokumentierte Einordnung. [Kai] 2026-11-26, UG-C0013: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Die Linke beantragte die Aufhebung des Berliner Neutralitätsgesetzes, nicht des verfassungsrechtlichen Neutralitätsgebots."
       },
       "sourceRefs": [
         {
           "sourceId": "S066",
-          "note": "Gesetzentwurf und betroffene Berufsgruppen."
+          "note": "Drucksache 19/2554 vom 2. Juli 2025; Aufhebungsantrag und Begründung."
         },
         {
           "sourceId": "S067",
-          "note": "Verfassungsrechtliches Neutralitätsgebot."
+          "note": "Neutralitätsgebot in der Darstellung des Landes Berlin."
         }
       ],
       "openQuestions": [],
@@ -3576,6 +3721,24 @@
         "assessedBy": "Claude",
         "assessedOn": "2026-11-20",
         "assessedBeforeVerdict": false
+      },
+      "research": {
+        "gap": null,
+        "confidence": "Hoch",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S066",
+              "S067"
+            ],
+            "result": "Der Gast spricht von einer Aufhebung der Neutralität des Staates in Schulen und Gerichten. Die Linke beantragte 2025 die Aufhebung des Berliner Neutralitätsgesetzes. Der Entwurf unterscheidet aber ausdrücklich das Tragen religiöser Symbole durch einzelne Beschäftigte von einer religiösen Identifikation staatlicher Institutionen und erkennt das Neutralitätsgebot an. Das verfassungsrechtliche Gebot bliebe von der beantragten Aufhebung unberührt. Bewertet wird der Inhalt des Antrags, nicht sein späteres parlamentarisches Schicksal."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
       }
     },
     {
@@ -4001,20 +4164,20 @@
       "chapter": 5,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Ein Hadith bezeichnet eine parfümierte Frau unter bestimmten Umständen als Ehebrecherin.",
+      "description": "Ein Hadith nenne eine Frau schon wegen von anderen gerochenem oder als angenehm empfundenem Parfüm eine Ehebrecherin.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "An-Nasa’i 5126 enthält die drastische Zuschreibung. Die Überlieferung nennt aber zusätzlich das Vorbeigehen an Menschen, damit sie den Duft wahrnehmen. Die verkürzte Wiedergabe im Gespräch lässt diese Bedingung weitgehend weg. Der Text erlaubt keine Aussage über die Haltung aller heutigen Muslime und ist keine allgemeine rechtliche Erlaubnis zu Übergriffen.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Gast gibt einen Hadith so wieder, dass das Tragen von Parfüm und dessen Wahrnehmung beziehungsweise Gefallen genügen. In der identifizierten Überlieferung Sunan an-Nasa’i 5126 kommt ausdrücklich hinzu, dass die Frau an Leuten vorbeigeht, damit sie ihren Duft wahrnehmen. Das ist enger als ein pauschales Urteil über Frauen, deren Parfüm jemand zufällig riecht oder mag. Das Urteil betrifft die Wiedergabe dieses Textes, nicht die heutige Rechtslage oder die Haltung von Muslimen.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
-        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0018: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Der Hadith nennt gezieltes Vorbeigehen, damit andere den Duft wahrnehmen, nicht bloß das Tragen von Parfüm."
       },
       "sourceRefs": [
         {
           "sourceId": "S073",
-          "note": "Arabische Fundstelle und englische Übersetzung mit der Bedingung des Vorbeigehens zur Duftwahrnehmung gelesen. Keine Aussage über eine heutige Strafbarkeit daraus abgeleitet."
+          "note": "Originaltext und englische Übersetzung samt Zweck des Vorbeigehens."
         }
       ],
       "openQuestions": [],
@@ -4050,12 +4213,21 @@
               "S073"
             ],
             "result": "An-Nasa’i 5126 enthält die drastische Zuschreibung. Die Überlieferung nennt aber zusätzlich das Vorbeigehen an Menschen, damit sie den Duft wahrnehmen. Die verkürzte Wiedergabe im Gespräch lässt diese Bedingung weitgehend weg. Der Text erlaubt keine Aussage über die Haltung aller heutigen Muslime und ist keine allgemeine rechtliche Erlaubnis zu Übergriffen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S073"
+            ],
+            "result": "Der Gast gibt einen Hadith so wieder, dass das Tragen von Parfüm und dessen Wahrnehmung beziehungsweise Gefallen genügen. In der identifizierten Überlieferung Sunan an-Nasa’i 5126 kommt ausdrücklich hinzu, dass die Frau an Leuten vorbeigeht, damit sie ihren Duft wahrnehmen. Das ist enger als ein pauschales Urteil über Frauen, deren Parfüm jemand zufällig riecht oder mag. Das Urteil betrifft die Wiedergabe dieses Textes, nicht die heutige Rechtslage oder die Haltung von Muslimen."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Der Hadith enthält die Zuschreibung, knüpft sie aber an das Vorbeigehen zur Duftwahrnehmung durch andere.",
+      "shortReason": "Der Hadith nennt gezieltes Vorbeigehen, damit andere den Duft wahrnehmen, nicht bloß das Tragen von Parfüm.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Hamed Abdel-Samad",
@@ -4478,18 +4650,22 @@
       "kind": "Tatsachenbehauptung",
       "description": "In Kambodscha wurden unter den Roten Khmer auch Kinder systematisch getötet.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Das ECCC-Urteil hält Hinrichtungen kleiner Kinder in S-21 und Choeung Ek sowie einen dokumentierten Fall mit etwa 160 Kindern fest. Damit ist der Kern der geschilderten Massengewalt belegt. Die konkrete Baum-Methode und die im Gespräch genannte unbestimmte Häufigkeit wurden durch die gelesenen Urteilsabschnitte nicht unabhängig bestätigt; eine allgemeine Erklärung der Täterpersönlichkeit folgt daraus ebenfalls nicht.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "verdict": "Belegt",
+      "reason": "Das ECCC-Urteil bestätigt, dass der Sicherheitsapparat der Roten Khmer systematisch auch kleine Kinder hinrichtete. Das wird für den Komplex S-21 einschließlich Choeung Ek in den Absätzen 214–219 dokumentiert. Der zusätzlich im Video behauptete Umfang einer bestimmten Tötungsmethode ist hiervon unabhängig und wird in A0076 separat und ohne Wertung weiter geprüft.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
-        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0030: vorher Teilweise belegt, jetzt Belegt. Das ECCC-Urteil bestätigt systematische Tötungen von Kindern; die behauptete Häufigkeit einer bestimmten Methode bleibt separat offen."
       },
       "sourceRefs": [
         {
           "sourceId": "S081",
-          "note": "Urteilsabschnitte 214–219, gedruckte S. 76–77, zu getöteten Kindern und Massenhinrichtungen gelesen. Keine pauschale Übernahme jeder im Gespräch genannten Tötungsart."
+          "note": "Urteil im Verfahren 001, Abs. 214–219 zur organisierten Tötung von Kindern."
+        },
+        {
+          "sourceId": "S103",
+          "note": "Zeugnis ohne eigene Beobachtung der Methode und ohne Kenntnis der genauen Zahl, für die separate offene Teilfrage."
         }
       ],
       "openQuestions": [],
@@ -4525,12 +4701,22 @@
               "S081"
             ],
             "result": "Das ECCC-Urteil hält Hinrichtungen kleiner Kinder in S-21 und Choeung Ek sowie einen dokumentierten Fall mit etwa 160 Kindern fest. Damit ist der Kern der geschilderten Massengewalt belegt. Die konkrete Baum-Methode und die im Gespräch genannte unbestimmte Häufigkeit wurden durch die gelesenen Urteilsabschnitte nicht unabhängig bestätigt; eine allgemeine Erklärung der Täterpersönlichkeit folgt daraus ebenfalls nicht."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen.",
+            "sourceIds": [
+              "S081",
+              "S103"
+            ],
+            "result": "Das ECCC-Urteil bestätigt, dass der Sicherheitsapparat der Roten Khmer systematisch auch kleine Kinder hinrichtete. Das wird für den Komplex S-21 einschließlich Choeung Ek in den Absätzen 214–219 dokumentiert. Der zusätzlich im Video behauptete Umfang einer bestimmten Tötungsmethode ist hiervon unabhängig und wird in A0076 separat und ohne Wertung weiter geprüft."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Die gezielte Tötung von Kindern ist gerichtlich dokumentiert; die konkrete Methode und Häufigkeit bleiben hier ungeprüft.",
+      "shortReason": "Das ECCC-Urteil bestätigt systematische Tötungen von Kindern; die behauptete Häufigkeit einer bestimmten Methode bleibt separat offen.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Historischer Gegenstand der Frage, wie Menschen an Massengewalt mitwirken.",
@@ -4548,20 +4734,20 @@
       "chapter": 5,
       "legacyId": null,
       "kind": "Tatsachenbehauptung",
-      "description": "Spinoza habe bereits vor Arendt die Unterwerfung von Menschen unter Herrschaft beschrieben.",
+      "description": "Spinoza habe vor Arendt über die Lust der Menschen an ihrer eigenen Unterwerfung gesprochen.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Spinoza beschreibt 1670 in der Vorrede des Theologisch-politischen Traktats, wie religiös verkleidete Angst Menschen dazu bringen kann, ihre Knechtschaft für Rettung zu halten. Der historische Bezug ist sachlich tragfähig. Eine allgemeine empirische Lust an Unterwerfung formuliert oder beweist diese Passage nicht.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der Gast beruft sich auf Spinoza für eine „Lust an der Unterwerfung“ im Anschluss an eine Aussage darüber, ob Unterworfene selbst Spaß daran hätten. In der Vorrede des Theologisch-politischen Traktats von 1670 beschreibt Spinoza, wie Herrscher Menschen durch Täuschung und religiös verbrämte Angst dazu bringen, für ihre Knechtschaft zu kämpfen, weil sie sie für die eigene Rettung halten. Die Stelle beschreibt also Unterstützung für die eigene Unterwerfung, aber aus einem anderen Motiv als Freude an Unterwerfung selbst.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
-        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0019: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Spinoza beschreibt Täuschung und Angst als Mittel der Unterwerfung, nicht Freude an der Unterwerfung selbst."
       },
       "sourceRefs": [
         {
           "sourceId": "S082",
-          "note": "Vorrede §§ 5–8, besonders § 7 zur Täuschung und Verteidigung der eigenen Knechtschaft, gelesen."
+          "note": "Vorrede, Abschnitt 7: Angst, Täuschung und vermeintliche Befreiung."
         }
       ],
       "openQuestions": [],
@@ -4597,12 +4783,21 @@
               "S082"
             ],
             "result": "Spinoza beschreibt 1670 in der Vorrede des Theologisch-politischen Traktats, wie religiös verkleidete Angst Menschen dazu bringen kann, ihre Knechtschaft für Rettung zu halten. Der historische Bezug ist sachlich tragfähig. Eine allgemeine empirische Lust an Unterwerfung formuliert oder beweist diese Passage nicht."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S082"
+            ],
+            "result": "Der Gast beruft sich auf Spinoza für eine „Lust an der Unterwerfung“ im Anschluss an eine Aussage darüber, ob Unterworfene selbst Spaß daran hätten. In der Vorrede des Theologisch-politischen Traktats von 1670 beschreibt Spinoza, wie Herrscher Menschen durch Täuschung und religiös verbrämte Angst dazu bringen, für ihre Knechtschaft zu kämpfen, weil sie sie für die eigene Rettung halten. Die Stelle beschreibt also Unterstützung für die eigene Unterwerfung, aber aus einem anderen Motiv als Freude an Unterwerfung selbst."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Spinoza behandelt die Verteidigung der eigenen Knechtschaft durch Täuschung, nicht eine nachgewiesene allgemeine Lust daran.",
+      "shortReason": "Spinoza beschreibt Täuschung und Angst als Mittel der Unterwerfung, nicht Freude an der Unterwerfung selbst.",
       "attribution": {
         "statementBy": "Gast",
         "person": "Hamed Abdel-Samad",
@@ -4948,22 +5143,22 @@
       "kind": "Tatsachenbehauptung",
       "description": "Die EU habe ein Verbot von Verbrennern beschlossen.",
       "status": "Abgeschlossen",
-      "verdict": "Teilweise belegt",
-      "reason": "Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen.",
-      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation.",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Mit „Verbrennerverbot“ bezeichnet die Debatte häufig die 2023 beschlossenen CO₂-Flottenziele von null für ab 2035 in der EU neu zugelassene Pkw und leichte Nutzfahrzeuge. Der Moderator leitet daraus im Gespräch aber ein Aufhören des Motorenbaus allgemein ab. Dafür ist die Regel kein allgemeines Herstellungsverbot; auch Fahrzeuge im Bestand werden nicht durch diese Regel verboten. Das gesonderte Verfahren 2025/0420(COD) war am Prüftag noch vor der ersten Lesung im Parlament. Die Bewertung der wirtschaftlichen Folgen ist nicht Teil dieses Befunds.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
       "migration": {
         "changeType": "Neuerfassung",
         "mapping": "Eigenständige zusätzliche Behauptung aus dem erneut gelesenen Originaltext; kein Import einer früheren Bewertung.",
-        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln."
+        "assessmentChange": "[Codex] 24.11.2026: Neue Sachprüfung im Rahmen der autorisierten Nacharbeit zu grauen Ampeln. [Kai] 2026-11-26, UG-C0020: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Das CO₂-Ziel betrifft neue Pkw und leichte Nutzfahrzeuge ab 2035. Es verbietet weder generell die Motorenproduktion noch den Bestand."
       },
       "sourceRefs": [
         {
           "sourceId": "S087",
-          "note": "Abschnitte zu Neuzulassungen ab 2035 und vorgesehenen Folgeentscheidungen gelesen. Die direkten EUR-Lex-Abrufe lieferten nur eine JavaScript-Abfrage; sie werden nicht als gelesen ausgegeben."
+          "note": "Amtliche Mitteilung über den Beschluss und die betroffenen Fahrzeugklassen."
         },
         {
           "sourceId": "S088",
-          "note": "Verfahrensgegenstand, Änderung der Verordnung 2019/631 und Stand vor der ersten Lesung des Parlaments gelesen."
+          "note": "Verfahrensstand des gesonderten späteren Kommissionsvorschlags."
         }
       ],
       "openQuestions": [],
@@ -5000,12 +5195,22 @@
               "S088"
             ],
             "result": "Der Beschluss von 2023 sieht ab 2035 CO₂-Ziele für neue Pkw und leichte Nutzfahrzeuge vor; im üblichen Sprachgebrauch wird dies als Verbrennerverbot bezeichnet. Er ist kein allgemeines Verbot, vorhandene Fahrzeuge zu fahren oder Motoren für jeden Markt zu produzieren. Das 2025 eröffnete Änderungsverfahren war am Prüftag noch vor der ersten Lesung des Parlaments, also keine bereits geltende Aufhebung. Die wirtschaftliche Bewertung des Moderators ist davon zu trennen."
+          },
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+            "sourceIds": [
+              "S087",
+              "S088"
+            ],
+            "result": "Mit „Verbrennerverbot“ bezeichnet die Debatte häufig die 2023 beschlossenen CO₂-Flottenziele von null für ab 2035 in der EU neu zugelassene Pkw und leichte Nutzfahrzeuge. Der Moderator leitet daraus im Gespräch aber ein Aufhören des Motorenbaus allgemein ab. Dafür ist die Regel kein allgemeines Herstellungsverbot; auch Fahrzeuge im Bestand werden nicht durch diese Regel verboten. Das gesonderte Verfahren 2025/0420(COD) war am Prüftag noch vor der ersten Lesung im Parlament. Die Bewertung der wirtschaftlichen Folgen ist nicht Teil dieses Befunds."
           }
         ],
         "missingInformation": null,
         "conflicts": null
       },
-      "shortReason": "Die EU-Regel betrifft neue Pkw und Transporter ab 2035, nicht die Nutzung sämtlicher vorhandener Verbrenner.",
+      "shortReason": "Das CO₂-Ziel betrifft neue Pkw und leichte Nutzfahrzeuge ab 2035. Es verbietet weder generell die Motorenproduktion noch den Bestand.",
       "factIndex": {
         "weight": 1,
         "weightReason": "Konkretes politisches Beispiel in der These vom Rückzug vernünftiger Akteure.",
@@ -5553,6 +5758,82 @@
         "basis": "Eigene Gastaussage im Gespräch, keine eingespielte Fremdbehauptung; im gelesenen Anschluss kein ausdrücklicher Widerspruch des Moderators zu diesem abgegrenzten Sachkern. Das ist keine bestätigte Zustimmung des Hosts.",
         "assessedBy": "Codex",
         "assessedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "QxMuH1bjMwo-A0076",
+      "videoId": "QxMuH1bjMwo",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Im Gespräch wird behauptet, die Roten Khmer hätten an kleinen Kindern eine bestimmte Tötungsmethode in Hunderten oder Tausenden Fällen angewandt.",
+      "status": "In Bearbeitung",
+      "verdict": null,
+      "reason": "Die systematische Tötung von Kindern ist getrennt in A0062 belegt. Die ergänzende Behauptung zur Häufigkeit einer bestimmten Tötungsart ist noch nicht gesichert. Das Gerichtsprotokoll enthält eine Aussage zu dieser Methode, aber ohne eigene Beobachtung des Befragten oder genaue Fallzahl. Ein Zahlenbeleg für die Kinder insgesamt ist kein Beleg für die Häufigkeit einer bestimmten Methode.",
+      "assessmentBasis": "[Codex] 24.11.2026: Direkt im Originalplayer erschlossene automatische deutsche YouTube-Textfassung, relevante Anschlussstellen und die angegebenen Sachquellen selbst gelesen. Zeiten ungefähr, Person aus dem Gesprächskontext plausibel; keine akustische oder bildliche Verifikation. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Eigenständige, noch offene Teilfrage aus dem ursprünglichen Prüffenster A0062, getrennt mit UG-C0030.",
+        "assessmentChange": "[Kai] 26.11.2026: Als eigene offene Frage ausgewiesen und nicht im Faktenindex als Treffer gezählt."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S081",
+          "note": "Gerichtsentscheidung zum historischen Kern, keine Anzahl für die spezifische Methode aus ihr abgeleitet."
+        },
+        {
+          "sourceId": "S103",
+          "note": "Gerichtsprotokoll mit einer Aussage ohne eigene Beobachtung oder genaue Zahl."
+        }
+      ],
+      "openQuestions": [
+        "Welche voneinander unabhängigen Gerichts-, Archiv- oder Grabungsberichte trennen die Zahl von Tötungen nach Methode und Alter?"
+      ],
+      "occurrences": [
+        {
+          "id": "QxMuH1bjMwo-O0076",
+          "startSeconds": 4313,
+          "endSeconds": 4330,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP01",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Direkte automatische Originaltextfassung und Wechsel zwischen Frage, eigener Antwort und Anschlusskontext; keine bestätigte Stimme.",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Eigene Aussage über den jeweiligen Sachgegenstand; Textverweise sind Behauptungen über eine Quelle, keine Übernahme ihrer religiösen Geltung.",
+          "note": "Separates Suchfenster für die noch offene Zusatzbehauptung; nicht dieselbe Wertung wie A0062.",
+          "timeBasis": "Am 24.11.2026 direkt aus dem YouTube-Originalplayer exportierte automatische deutsche Textfassung; keine Podcast-Zeit übertragen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "research": {
+        "gap": null,
+        "confidence": "Niedrig",
+        "rounds": [
+          {
+            "date": "2026-11-26",
+            "agent": "Kai",
+            "strategy": "Eigenständigen Zusatz im zeitmarkierten automatischen Originaltext abgegrenzt; Urteil und Aussageprotokoll auf Belege für Methode und Zahl überprüft.",
+            "sourceIds": [
+              "S081",
+              "S103"
+            ],
+            "result": "Systematische Tötung von Kindern belegt; keine belastbare Zahl für die im Gespräch genannte einzelne Methode."
+          }
+        ],
+        "missingInformation": null,
+        "conflicts": null
+      },
+      "factIndex": {
+        "weight": 0.5,
+        "weightReason": "Nebenbehauptung zu Zahl und Methode; offen, ohne Treffer im Faktenindex.",
+        "weightStatus": "Vorläufig",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-26",
+        "assessedBeforeVerdict": true
       }
     }
   ]

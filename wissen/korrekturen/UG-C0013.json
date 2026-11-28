@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0013",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "QxMuH1bjMwo-A0049",
+    "entryId": null,
+    "description": "Die Linke beantragte die Aufhebung des Berliner Neutralitätsgesetzes, nicht des verfassungsrechtlichen Neutralitätsgebots."
+  },
+  "evidence": [
+    {
+      "title": "Abgeordnetenhaus von Berlin: Gesetzentwurf 19/2554",
+      "url": "https://pardok.parlament-berlin.de/starweb/adis/citat/VT/19/DruckSachen/d19-2554.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Der Antrag will ein Landesgesetz aufheben und erkennt die weltanschaulich-religiöse Neutralität des Staates ausdrücklich an."
+    },
+    {
+      "title": "Land Berlin: Religionsverfassungsrecht und staatliches Neutralitätsgebot",
+      "url": "https://www.berlin.de/sen/kultgz/religion-und-weltanschauung/religionsverfassungsrecht/artikel.21593.php",
+      "accessedOn": "2026-11-26",
+      "finding": "Das verfassungsrechtliche Gebot gilt unabhängig vom Berliner Landesgesetz."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/QxMuH1bjMwo",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld bei ca. 2:49:41, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "QxMuH1bjMwo-A0049",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "QxMuH1bjMwo-A0049",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "QxMuH1bjMwo-A0049",
+      "field": "description",
+      "before": "Die Linke setze sich in Berlin dafür ein, die geltenden Neutralitätsvorschriften für Schulen und Justiz aufzuheben.",
+      "after": "Die Linke wolle die Neutralität des Staates in Berliner Schulen und Gerichten aufheben."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0049",
+      "field": "reason",
+      "before": "Der Gesetzentwurf der Fraktion Die Linke von 2025 fordert die Aufhebung des Berliner Neutralitätsgesetzes. Er nennt in seiner Begründung ausdrücklich Lehrkräfte sowie Richter, Staatsanwälte und Rechtsreferendare. Das verfassungsrechtliche Neutralitätsgebot, das der Senat aus dem Grundgesetz ableitet, ist davon zu unterscheiden und würde durch diesen Gesetzentwurf nicht aufgehoben.",
+      "after": "Der Gast spricht von einer Aufhebung der Neutralität des Staates in Schulen und Gerichten. Die Linke beantragte 2025 die Aufhebung des Berliner Neutralitätsgesetzes. Der Entwurf unterscheidet aber ausdrücklich das Tragen religiöser Symbole durch einzelne Beschäftigte von einer religiösen Identifikation staatlicher Institutionen und erkennt das Neutralitätsgebot an. Das verfassungsrechtliche Gebot bliebe von der beantragten Aufhebung unberührt. Bewertet wird der Inhalt des Antrags, nicht sein späteres parlamentarisches Schicksal."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0049",
+      "field": "shortReason",
+      "before": "Die Linke will das Berliner Neutralitätsgesetz aufheben; das Neutralitätsgebot des Grundgesetzes bliebe davon unberührt.",
+      "after": "Die Linke beantragte die Aufhebung des Berliner Neutralitätsgesetzes, nicht des verfassungsrechtlichen Neutralitätsgebots."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

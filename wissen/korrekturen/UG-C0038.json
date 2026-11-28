@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0038",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "mlxFA9T88I0-A0073",
+    "entryId": null,
+    "description": "Der kostenlose europäische Startertarif nennt 300 Transkriptionsminuten pro Monat."
+  },
+  "evidence": [
+    {
+      "title": "Plaud: Europäische Produktseite für Plaud Note Pro",
+      "url": "https://eu.plaud.ai/pages/plaud-note-pro",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Tarifübersicht nennt 300 Transkriptionsminuten pro Monat im kostenlosen Startertarif."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://yoututranscript.com/transcript/mlxFA9T88I0",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:10:54, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "mlxFA9T88I0-A0073",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "mlxFA9T88I0-A0073",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "mlxFA9T88I0-A0073",
+      "field": "reason",
+      "before": "Die Produktseite nennt einen kostenlosen Umfang von 300 Minuten pro Monat. Tarifbedingungen, Region und spätere Änderungen bleiben zu beachten; die Darstellung ist kein Checkout-Test.",
+      "after": "Die europäische Plaud-Produktübersicht weist für den kostenlosen Startertarif 300 Transkriptionsminuten pro Monat aus. Das entspricht der im Werbeblock genannten Obergrenze. Die Angabe beschreibt den dokumentierten Tarif, nicht dauerhaft garantierte Konditionen in sämtlichen Regionen oder einen eigenen Kauf- und Funktionstest."
+    },
+    {
+      "target": "mlxFA9T88I0-A0073",
+      "field": "shortReason",
+      "before": "Die Produktseite nennt 300 kostenlose Minuten im Monat; Tarifbedingungen und spätere Änderungen sind zu beachten.",
+      "after": "Der kostenlose europäische Startertarif nennt 300 Transkriptionsminuten pro Monat."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

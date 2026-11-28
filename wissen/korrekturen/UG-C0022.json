@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0022",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "Xw2tAp6UouE-A0048",
+    "entryId": null,
+    "description": "Es galt eine RKI-Empfehlung, kein Verbot. Hamburg dokumentierte bereits vom 20. März bis 18. April 2020 80 Obduktionen."
+  },
+  "evidence": [
+    {
+      "title": "Bundestag: Wissenschaftliche Dienste, Obduktionen bei Corona-Todesfällen",
+      "url": "https://www.bundestag.de/resource/blob/706214/3186743b43670ebb3d93c9566e39eab5/WD-8-032-20-pdf-data.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Die ursprüngliche Empfehlung beschränkte Untersuchungen, verbot sie aber nicht generell."
+    },
+    {
+      "title": "Edler et al. (2020): Hamburger Obduktionsserie",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7271136/",
+      "accessedOn": "2026-11-26",
+      "finding": "Die Autoren dokumentieren 80 in der frühen Phase tatsächlich erfolgte Obduktionen."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/Xw2tAp6UouE",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 1:04:49, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "Xw2tAp6UouE-A0048",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "Xw2tAp6UouE-A0048",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Widerlegt"
+    },
+    {
+      "target": "Xw2tAp6UouE-A0048",
+      "field": "reason",
+      "before": "Die Pathologenverbände kritisierten im April 2020 tatsächlich die RKI-Empfehlung, innere Leichenschauen wegen Infektionsrisiken möglichst zu vermeiden. Die von ihnen wiedergegebene Empfehlung ließ notwendige Untersuchungen aber ausdrücklich zu. Das belegt eine anfängliche Einschränkungsempfehlung und den fachlichen Streit, kein generelles gesetzliches Obduktionsverbot oder ein ausnahmsloses Verbot für Pathologen.",
+      "after": "Die pauschale Aussage, Pathologen hätten anfangs keine Corona-Verstorbenen obduzieren dürfen, trifft nicht zu. Das RKI empfahl am 24. März 2020, solche Untersuchungen möglichst zu vermeiden und nötige Obduktionen auf ein Minimum zu beschränken. Das war eine Empfehlung mit benannter Ausnahme, kein allgemeines Verbot. Die Hamburger Rechtsmedizin dokumentierte 80 tatsächlich durchgeführte Obduktionen SARS-CoV-2-positiver Verstorbener zwischen dem 20. März und dem 18. April 2020."
+    },
+    {
+      "target": "Xw2tAp6UouE-A0048",
+      "field": "shortReason",
+      "before": "Das RKI riet anfangs zur Vermeidung von Obduktionen, ließ notwendige Untersuchungen aber zu; ein generelles Verbot folgt daraus nicht.",
+      "after": "Es galt eine RKI-Empfehlung, kein Verbot. Hamburg dokumentierte bereits vom 20. März bis 18. April 2020 80 Obduktionen."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0018",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "QxMuH1bjMwo-A0056",
+    "entryId": null,
+    "description": "Der Hadith nennt gezieltes Vorbeigehen, damit andere den Duft wahrnehmen, nicht bloß das Tragen von Parfüm."
+  },
+  "evidence": [
+    {
+      "title": "Sunan an-Nasa’i 5126: Parfüm und die Zuschreibung des Ehebruchs",
+      "url": "https://sunnah.com/nasai/48/87",
+      "accessedOn": "2026-11-26",
+      "finding": "Arabischer Text und englische Übersetzung nennen das Vorbeigehen, damit andere den Duft wahrnehmen."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/QxMuH1bjMwo",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld bei ca. 0:53:02, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "QxMuH1bjMwo-A0056",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "QxMuH1bjMwo-A0056",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "QxMuH1bjMwo-A0056",
+      "field": "description",
+      "before": "Ein Hadith bezeichnet eine parfümierte Frau unter bestimmten Umständen als Ehebrecherin.",
+      "after": "Ein Hadith nenne eine Frau schon wegen von anderen gerochenem oder als angenehm empfundenem Parfüm eine Ehebrecherin."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0056",
+      "field": "reason",
+      "before": "An-Nasa’i 5126 enthält die drastische Zuschreibung. Die Überlieferung nennt aber zusätzlich das Vorbeigehen an Menschen, damit sie den Duft wahrnehmen. Die verkürzte Wiedergabe im Gespräch lässt diese Bedingung weitgehend weg. Der Text erlaubt keine Aussage über die Haltung aller heutigen Muslime und ist keine allgemeine rechtliche Erlaubnis zu Übergriffen.",
+      "after": "Der Gast gibt einen Hadith so wieder, dass das Tragen von Parfüm und dessen Wahrnehmung beziehungsweise Gefallen genügen. In der identifizierten Überlieferung Sunan an-Nasa’i 5126 kommt ausdrücklich hinzu, dass die Frau an Leuten vorbeigeht, damit sie ihren Duft wahrnehmen. Das ist enger als ein pauschales Urteil über Frauen, deren Parfüm jemand zufällig riecht oder mag. Das Urteil betrifft die Wiedergabe dieses Textes, nicht die heutige Rechtslage oder die Haltung von Muslimen."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0056",
+      "field": "shortReason",
+      "before": "Der Hadith enthält die Zuschreibung, knüpft sie aber an das Vorbeigehen zur Duftwahrnehmung durch andere.",
+      "after": "Der Hadith nennt gezieltes Vorbeigehen, damit andere den Duft wahrnehmen, nicht bloß das Tragen von Parfüm."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

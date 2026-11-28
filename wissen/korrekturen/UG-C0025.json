@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0025",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "qQAcmDzd9O8-A0041",
+    "entryId": null,
+    "description": "Im UBA-Schwachwindfall an Land sind es 3,2 bzw. 7,6 Monate. Nahe einem Jahr liegt der Offshore-Fall mit dänischem Referenzmix."
+  },
+  "evidence": [
+    {
+      "title": "Umweltbundesamt: Ökobilanzen von Windenergie- und Photovoltaikanlagen, Tab. 97",
+      "url": "https://www.umweltbundesamt.de/system/files/medien/5750/publikationen/2021-05-06_cc_35-2021_oekobilanzen_windenergie_photovoltaik.pdf#page=307",
+      "accessedOn": "2026-11-26",
+      "finding": "Die 10,7 Monate stehen in der Offshore-Spalte beim dänischen Mix, nicht bei Schwachwind an Land."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/qQAcmDzd9O8",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:06:29, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "qQAcmDzd9O8-A0041",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "qQAcmDzd9O8-A0041",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Irreführend / Kontext fehlt"
+    },
+    {
+      "target": "qQAcmDzd9O8-A0041",
+      "field": "reason",
+      "before": "Die UBA-Modellbandbreite reicht ungefähr bis ein Jahr; sie hängt zusätzlich zum Standort vom Referenzstrommix ab. Schwachwind allein erklärt die längste Dauer nicht.",
+      "after": "Unmittelbar im Anschluss an die UBA-Zahlen nennt Alfred einen schwachen Standort mit rund einem Jahr. In derselben UBA-Tabelle liegt der Schwachwindfall an Land bei 3,2 Monaten mit deutschem beziehungsweise 7,6 Monaten mit dänischem Referenzmix. Nahe einem Jahr liegt dort nur der Offshore-Fall mit dänischem Referenzmix (10,7 Monate). Ein Jahr wird hier nicht allgemein für unmöglich erklärt; es ist aber nicht das Ergebnis des nahegelegten Schwachwindfalls dieser Studie."
+    },
+    {
+      "target": "qQAcmDzd9O8-A0041",
+      "field": "shortReason",
+      "before": "Bis etwa ein Jahr reicht die UBA-Bandbreite, das hängt aber vor allem auch vom Referenzstrommix ab, nicht nur vom Standort.",
+      "after": "Im UBA-Schwachwindfall an Land sind es 3,2 bzw. 7,6 Monate. Nahe einem Jahr liegt der Offshore-Fall mit dänischem Referenzmix."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

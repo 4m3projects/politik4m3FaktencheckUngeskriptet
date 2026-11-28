@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0028",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "sLMyP0H7tSY-A0020",
+    "entryId": null,
+    "description": "Der Kommissionsentwurf schließt eingebaute Waren- oder Verfallsbeschränkungen aus. Andere Zahlungsregeln sind davon zu trennen."
+  },
+  "evidence": [
+    {
+      "title": "Kommissionsentwurf COM(2023)369, amtliche Ratskopie",
+      "url": "https://data.consilium.europa.eu/doc/document/ST-11605-2023-INIT/en/pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Der Vorschlag verbietet programmierbare Geldeinheiten im engeren Sinn und unterscheidet sie von bedingten Zahlungstransaktionen."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/sLMyP0H7tSY",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld im Suchfenster bei ca. 0:09:38, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "sLMyP0H7tSY-A0020",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "sLMyP0H7tSY-A0020",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "sLMyP0H7tSY-A0020",
+      "field": "description",
+      "before": "Der Kommissionsentwurf schließe programmierbares Geld ausdrücklich aus; Kaufverbote erforderten eine Gesetzesänderung.",
+      "after": "Der Kommissionsentwurf schließt eingebaute Waren- und Verfallsbeschränkungen für digitale Euro aus."
+    },
+    {
+      "target": "sLMyP0H7tSY-A0020",
+      "field": "reason",
+      "before": "Artikel 24 Absatz 2 des Kommissionsentwurfs verbietet programmierbares Geld ausdrücklich. Erwägungsgrund 55 unterscheidet dies von bedingten Zahlungen auf Wunsch der Nutzer. Für eingebaute Waren- oder Verfallsbeschränkungen müsste dieser Entwurf daher geändert werden. Das ist keine allgemeine Garantie gegen Sanktionen oder andere gesetzliche Zahlungsbeschränkungen und bezeichnet noch kein verabschiedetes Gesetz. Die amtliche Ratskopie macht den zuvor nicht lesbaren Entwurf jetzt unmittelbar prüfbar.",
+      "after": "Alfred definiert programmierbares Geld unmittelbar vorher als Zahleinheiten, die selbst eine Wareneinschränkung oder ein Verfallsdatum enthalten. Artikel 24 Absatz 2 und Erwägungsgrund 55 des Kommissionsentwurfs schließen genau dieses eingebaute Merkmal aus. Bedingte Zahlungsaufträge sind davon zu unterscheiden. Belegt ist der Wortlaut des Entwurfs, nicht die Annahme eines endgültigen Gesetzes und keine allgemeine Garantie gegen Zahlungsbeschränkungen auf anderer Rechtsgrundlage."
+    },
+    {
+      "target": "sLMyP0H7tSY-A0020",
+      "field": "shortReason",
+      "before": "Der Entwurf verbietet programmierbares Geld; andere gesetzliche Zahlungsbeschränkungen werden dadurch nicht ausgeschlossen.",
+      "after": "Der Kommissionsentwurf schließt eingebaute Waren- oder Verfallsbeschränkungen aus. Andere Zahlungsregeln sind davon zu trennen."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}

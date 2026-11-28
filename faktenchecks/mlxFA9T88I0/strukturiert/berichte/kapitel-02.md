@@ -2,7 +2,7 @@
 
 Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Nachprüfungsstand 20.11.2026: Alle 99 ursprünglichen Prüfpunkte sind übertragen; der Bestand enthält 395 Datensätze, darunter drei reine Fremdbezüge. Von 311 eigenen Tatsachenbehauptungen sind 163 mit Urteil abgeschlossen, 148 mit begründeter Grenze der Überprüfbarkeit eingeordnet und keine noch offen geblieben. Dazu kommen 81 Meinungen oder Prognosen. Erfasst sind die Prüfgegenstände der Altpunkte und gelesenen Textabschnitte, nicht jede Nebenbemerkung des dreistündigen Gesprächs. Einzelne frühere Grenzen der Überprüfbarkeit werden außerdem gezielt kontrolliert; keine vollständige Hör-/Sichtprüfung und keine bestätigte Sprecherstatistik. Keine Statistik des vollständigen Videos.
 
-A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten. [Codex] 20.11.2026: A0248 und A0356 anhand des Originalplayer-Transkripts und selbst gelesener Primärquellen nachgeprüft. Übrige Arbeitsstände und fehlende audiovisuelle Kontrolle bleiben ausdrücklich bestehen.
+A0001–A0018 und ihre Fundstellen bleiben erhalten; an A0015 wurde nur der erfolglose S019-Zugriff ausdrücklich als kein Sachbeleg markiert. Kapitel 1 ist unverändert redaktionell akzeptiert. Für Kapitel 2 wurden am 17.11.2026 die vorhandenen automatischen deutschen Originaluntertitel von 00:02:10 bis 00:36:58 samt Anschluss bis 00:37:10 gelesen und die je Aussage genannten Webquellen geprüft. Keine Audio-/Videokontrolle, keine internen Plattformakten, privaten Analytics oder vollständige historische Archivrekonstruktion. Aktuelle Hilfeseiten und Herstellerangaben sind keine rückwirkenden Einzelfallbeweise. Migration bezeichnet die vollständige Übertragung der 14 bisherigen Altpunkte, keine abgeschlossene Sachverifikation aller Aussagen oder vollständige neue Inhaltsanalyse des Videos. Kapitel 3 wurde anschließend mit vollständiger Textlektüre von 00:36:58 bis 01:15:16 und Anschlusskontext 00:36:30–01:15:40 eigenständig geprüft; Webrecherche am 17./18.11.2026. Firmen- und Lokalchroniken, EU-Lebensmittelinformation, HSE/ATEX, Talisker-Betreiberhistorie, aktuelle HMRC-Abschnitte, technische Primärinformationen und EZB-Referenz wurden nur im angegebenen Umfang gelesen. Interne Kennzahlen, historische Einzelvorgänge und mehrere Rechts-/Kausalfragen bleiben gezielt offen. Kein Audio, Video, internes System oder privater Abschluss geprüft. Quellenzugriffe und Textgrundlage erlauben keine bestätigte Personenstatistik. Kapitel-2-Ausgangsstand wird als noch ungeprüfte Draft-Abhängigkeit erhalten. Kapitel 4 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:15:16 bis 01:27:58 und Anschlusskontext 01:15:10–01:29:05 eigenständig geprüft. Gelesen wurden BA-Pressemitteilungen zu Berlin und Bremen, die KfW-Meldung zum Nachfolge-Monitoring, STIHL-Standortseiten sowie AlkStG § 2 und UStG § 12. Nicht Überprüfbares ist am Anfang der Begründung gekennzeichnet; zahlreiche Markt- und Standortaussagen bleiben mit konkreten Fragen offen. Kapitel 5 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:27:58 bis 01:48:29 und Anschlusskontext bis 01:49:30 geprüft. Gelesen wurden u. a. WD-Ausarbeitung zu Zinsausgaben, Kreditaufnahmeberichte 2024/2025, Auktionsliste und Ratings der Finanzagentur, ifo, GG Art. 115/143h, Eurostat, Auswärtiges Amt, EZB (PEPP, digitaler Euro, Rede 2019), Destatis, Bundesregierung und BMG. Kapitel 6 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 01:48:29 bis 02:05:02 geprüft. Gelesen wurden EZB-Lebenslauf und PSPP-FAQ, Destatis zum öffentlichen Dienst, ESVG 2010 Kapitel 3 und Kiel-Tracker; EUR-Lex lieferte keinen Inhalt, ein Bericht zum Lagarde-Urteil war nicht abrufbar. A0005–A0008 bleiben unverändert. Kapitel 7 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:05:02 bis 02:17:49 geprüft. Gelesen wurden Destatis zu Wanderungen und Geburten, BiB-Policy-Brief, Office of the Historian sowie amtliche Wahlergebnisse Mecklenburg-Vorpommern und Berlin; A0207 wurde damit fortgeschrieben. Kapitel 8 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:17:49 bis 02:51:43 geprüft. Gelesen wurden admin.ch und EDA zu Schweizer Abstimmungen, Dobelli-Essay, Bescheinigungsstelle Forschungszulage und AStG § 6; Lexikon-, Museums- und Herstellerseiten zu historischen und Raumfahrtangaben waren nicht abrufbar. A0009/A0010 bleiben unverändert. Kapitel 9 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 02:51:43 bis 03:03:00 geprüft. Gelesen wurden admin.ch, SEM, BMVg, ARD-DeutschlandTrend und zwei LeMO-Seiten. Kapitel 10 wurde am 18.11.2026 von Claude mit vollständiger Textlektüre von 03:03:00 bis zum Videoende geprüft; keine zusätzliche Webquelle erforderlich. Damit sind alle 99 Altpunkte übertragen; der Bestand bleibt ein Teilbestand, weil die Sachprüfung nicht abgeschlossen ist und die Erfassung der Kapitel 1 und 2 nicht erneut vollständig gegengelesen wurde. Abschlussprüfung am 18.11.2026 (Claude): Alle bis dahin offenen oder in Bearbeitung befindlichen Aussagen wurden einzeln entschieden. 28 wurden mit neu gelesenen Quellen bewertet (u. a. AEUV Art. 123/130/283, ONS, Bundesagentur für Arbeit, Destatis, KfW, S&P, SRF, NTSB), fünf als Meinung eingeordnet. Die übrigen sind am Anfang der Begründung als nicht überprüfbar gekennzeichnet, mit Grund: persönliche Darstellung, nicht öffentlicher Vorgang oder interne Daten, Behauptung über Dritte oder Ursachen ohne Beleg, zu unbestimmt, keine zugängliche Quelle in dieser Prüfung, zurückgewiesene Vermutung oder nur wiedergegebene Fremderzählung. Nicht überprüfbar heißt nicht falsch; es wurde keine Bewertung geraten. [Codex] 20.11.2026: A0248 und A0356 anhand des Originalplayer-Transkripts und selbst gelesener Primärquellen nachgeprüft. Übrige Arbeitsstände und fehlende audiovisuelle Kontrolle bleiben ausdrücklich bestehen. [Kai] 26.11.2026: Weitere 10 frühere Teilurteile einzeln nachgeprüft (UG-C0031 bis UG-C0040). Kein neuer Hör-/Sichtabgleich.
 
 ## Übertragene Herkunftspunkte und Zuordnung
 
@@ -116,7 +116,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Lünings erstes eigenes Whisky-Verkostungsvideo stammt nach seiner Darstellung aus dem Jahr 2007.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -139,22 +139,34 @@ Frueherer Suchbereich: [00:02:18–00:04:59](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Firmenchronik nennt ebenfalls 2007. Das stützt die Erinnerung durch eine weitere unternehmenseigene Veröffentlichung; Originalupload und unabhängige Datierung sind nicht geprüft. Deshalb nur teilweise belegt.
+Lüning datiert sein erstes selbst hochgeladenes Verkostungsvideo auf 2007. Der noch verfügbare Lagavulin-16-Upload auf Whisky.de ist auf den 21. November 2007 datiert. Whisky.de bezeichnet ihn zusätzlich ausdrücklich als seinen ersten Upload und grenzt später veröffentlichte Neufassungen davon ab. Die Zuschauerzahl im Gespräch wird hier nicht bewertet.
 
-Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
+Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Gründungsjahr der Plattform, eigener Videostart, regelmäßiger Betrieb und frühere Vortragspraxis getrennt. Unternehmenschronik bleibt Selbstauskunft.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0033: vorher Teilweise belegt, jetzt Belegt. Der Originalupload ist vom 21. November 2007; Whisky.de führt ihn als Lünings erstes Verkostungsvideo.
 
 ### Zugeordnete Quellen
 
 - [Chronik 30 Jahre](https://www.whisky.de/ueber-uns/firmenportrait/chronik-30-jahre.html) · Whisky.de · Firmenchronik zum Jubiläum 2023; Abschnitt zum Videostart 2007. Beteiligte Unternehmensquelle, keine unabhängige Bestätigung.
   Quellenzugriff am 2026-11-17. Am 17.11.2026 die bezeichneten relevanten Webseitenstellen tatsächlich gelesen; kein vollständiger Archiv- oder Praxistest. Eigenständige Firmenchronik bestätigt die Jahresangabe als Unternehmensselbstauskunft.
 
+- [Whisky.de: Originalupload zur Verkostung von Lagavulin 16](https://www.youtube.com/watch?v=6u-UjswzDcU) · Originalvideo; Upload am 21. November 2007 laut Plattform-Metadaten.
+  Quellenzugriff am 2026-11-26. Kanal, Titel und datiertes Upload-Metadatum kontrolliert, nicht den gesamten Inhalt gesichtet. Datiertes YouTube-Original auf dem Kanal von Whisky.de.
+
+- [Whisky.de: Zehn Jahre YouTube-Videos mit Horst Lüning](https://www.whisky.de/whisky/aktuelles/nachrichten-details/article/10-jahre-youtube-videos-mit-horst-luening?type=1460111689) · Jubiläumsbeitrag vom 21. November 2017.
+  Quellenzugriff am 2026-11-26. Die Bezeichnung als erster Upload und das genaue Datum im Herausgebertext gelesen. Redaktioneller Rückblick des ursprünglichen Herausgebers.
+
 ### Offene Fragen und Unsicherheiten
 
 - Originalupload und Uploaddatum noch unabhängig abgleichen.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S021, S247, S248. Ergebnis: Lüning datiert sein erstes selbst hochgeladenes Verkostungsvideo auf 2007. Der noch verfügbare Lagavulin-16-Upload auf Whisky.de ist auf den 21. November 2007 datiert. Whisky.de bezeichnet ihn zusätzlich ausdrücklich als seinen ersten Upload und grenzt später veröffentlichte Neufassungen davon ab. Die Zuschauerzahl im Gespräch wird hier nicht bewertet.
 
 ## mlxFA9T88I0-A0021
 
@@ -1132,9 +1144,9 @@ Keine unabhaengig gepruefte Sachquelle zugeordnet; die Videofundstelle ist kein 
 
 Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/02_plattformen.md), Pruefpunkt 6 (C02-P06).
 
-**Eigene Beschreibung:** Nach drei Community-Strikes könne ein YouTube-Kanal beendet werden.
+**Eigene Beschreibung:** Beim dritten Community-Strike werde ein YouTube-Kanal beendet; ein gemeinsames 90-Tage-Fenster nennt die Darstellung nicht ausdrücklich.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1197,25 +1209,34 @@ Frueherer Suchbereich: [00:17:59–00:19:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die heutige Hilfeseite bestätigt den Regelkern: Drei Strikes innerhalb von 90 Tagen können zur Kanalbeendigung führen. Das Gespräch erläutert drei Verstöße und zeitliche Abstände, nennt aber kein eindeutiges 90-Tage-Fenster und verkürzt die Eskalation. Warnungen, Ausnahmen und weitere Beendigungsgründe fehlen. Deshalb teilweise belegt, keine nachträglich als Originalbehauptung ausgegebene präzise Vollregel. Der persönliche Sperrfall bleibt davon unabhängig offen. Das Copyright-Beispiel des Moderators ist eine Rückfrage und keine Behauptung gleicher Verfahren.
+Der Gast erklärt das Verfahren an mehreren Stellen als automatisches Ausscheiden beim dritten Strike und nennt für die allgemeine Regel kein eindeutiges Zeitfenster. Die aktuelle offizielle YouTube-Hilfe spricht von einer möglichen Beendigung bei drei aktiven Community-Strikes innerhalb desselben 90-Tage-Zeitraums. Auch der historische YouTube-Regeltext von 2019, der die Beendigung bestimmter formulierte, begrenzte die Drei-Strike-Regel auf 90 Tage. Damit bleibt der Regelkern zutreffend, seine zeitliche Reichweite ist in der pauschalen Darstellung aber unvollständig. Lünings konkreter persönlicher Fall und Copyright-Strikes werden nicht aus diesen Angaben abgeleitet.
 
-Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
+Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Allgemeine Community-Strikes getrennt vom persönlichen Fall und von der Auslegung der Alkoholregeln. Das Urheberrechtsbeispiel ist eine Rückfrage, keine gesicherte Behauptung gleicher Verfahren.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0034: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Bei Community-Strikes zählt das gemeinsame 90-Tage-Fenster. Der persönliche Sperrfall und Copyright folgen nicht automatisch daraus.
 
 ### Zugeordnete Quellen
 
 - [Community Guidelines strike basics on YouTube](https://support.google.com/youtube/answer/2802032?hl=en) · YouTube Help · undatierte laufende Regeln beim Zugriff; Warnung, Eskalation und 90-Tage-Fenster. Kein archivierter Regelstand der persönlichen Sperre.
-  Quellenzugriff am 2026-11-17. Am 17.11.2026 die bezeichneten relevanten Webseitenstellen tatsächlich gelesen; kein vollständiger Archiv- oder Praxistest. Drei Community-Strikes im 90-Tage-Fenster; Warnungen und weitere Beendigungsgründe bleiben möglich.
+  Quellenzugriff am 2026-11-17. Am 17.11.2026 die bezeichneten relevanten Webseitenstellen tatsächlich gelesen; kein vollständiger Archiv- oder Praxistest. Aktuelle offizielle Community-Richtlinien und zeitliche Begrenzung.
 
 - [Understand copyright strikes](https://support.google.com/youtube/answer/2814000?hl=en) · YouTube Help · laufender Hilfetext beim Zugriff; Copyright-Strikes sind ein eigenes Verfahren.
   Quellenzugriff am 2026-11-17. Am 17.11.2026 die bezeichneten relevanten Webseitenstellen tatsächlich gelesen; kein vollständiger Archiv- oder Praxistest. Eigenes Copyright-Verfahren; schützt vor einer unberechtigten Gleichsetzung durch das Rückfragebeispiel.
 
+- [YouTube: Reform des Strike-Systems 2019](https://blog.youtube/intl/de-de/news-and-events/system-fur-verwarnungen-wird-einfacher/) · Zeitgenössische Darstellung der gestuften Regel und des gemeinsamen 90-Tage-Fensters.
+  Quellenzugriff am 2026-11-26. Historischen Wortlaut mit der aktuellen offiziellen Hilfeseite abgeglichen. Historische Fassung des Plattformbetreibers mit demselben 90-Tage-Zeitraum.
+
 ### Offene Fragen und Unsicherheiten
 
 - Historischer Regelstand zur persönlichen Sperre ist hier nicht rekonstruiert.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S023, S024, S249. Ergebnis: Der Gast erklärt das Verfahren an mehreren Stellen als automatisches Ausscheiden beim dritten Strike und nennt für die allgemeine Regel kein eindeutiges Zeitfenster. Die aktuelle offizielle YouTube-Hilfe spricht von einer möglichen Beendigung bei drei aktiven Community-Strikes innerhalb desselben 90-Tage-Zeitraums. Auch der historische YouTube-Regeltext von 2019, der die Beendigung bestimmter formulierte, begrenzte die Drei-Strike-Regel auf 90 Tage. Damit bleibt der Regelkern zutreffend, seine zeitliche Reichweite ist in der pauschalen Darstellung aber unvollständig. Lünings konkreter persönlicher Fall und Copyright-Strikes werden nicht aus diesen Angaben abgeleitet.
 
 ## mlxFA9T88I0-A0040
 
@@ -1841,9 +1862,9 @@ Keine weitere offene Sachfrage eingetragen. Recherche- und Zuordnungsgrenzen ste
 
 Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/02_plattformen.md), Pruefpunkt 10 (C02-P10).
 
-**Eigene Beschreibung:** Musk ließ ein Twitter-Rechenzentrum schließen.
+**Eigene Beschreibung:** Musk veranlasste um den Jahreswechsel 2022/23 die Abschaltung des Twitter-Betriebs im Rechenzentrum Sacramento.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -1866,13 +1887,13 @@ Frueherer Suchbereich: [00:26:59–00:27:48](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Der recherchierende Biograf Walter Isaacson beschreibt in einer vom Veranstalter veröffentlichten Gesprächsfassung die Auflösung des Serverstandorts Sacramento und eine eigenmächtige Serververlagerung Ende 2022. Das stützt den Ereigniskern als recherchierten Autorenbericht. Vollständiger betrieblicher Abschluss, Ausmaß und störungsfreier Ersatz sind dadurch nicht belegt; die Darstellung nennt vielmehr anschließende Betriebsprobleme. Die technische Erfolgserzählung und Wachstum bleiben getrennte offene Prüfungen.
+Walter Isaacson beschreibt aus eigener Recherche, wie Musk Ende 2022 die rasche Räumung der Twitter-Technik in Sacramento anordnete. Ein zeitnaher Bericht über den Standort und interne Unternehmensunterlagen bestätigt die Abschaltung des dortigen Twitter-Betriebs um den Jahreswechsel 2022/23. Musk selbst bestätigte später, Twitter arbeite mit zwei statt drei Rechenzentren. Geprüft ist die Beendigung dieses Betriebs, nicht die Schließung des physischen Gebäudes für andere Mieter oder die Behauptung, die Umstellung sei störungsfrei oder allein dank Automatisierung gelungen.
 
-Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
+Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Übernahme, Personalabbau, Rechenzentrum, Automatisierung, Wachstum und Veröffentlichungen getrennt. Die ausdrücklich geschätzte Verteilung der Aufgaben bleibt eine Mutmaßung ohne Personalstatistik.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0035: vorher Teilweise belegt, jetzt Belegt. Belegt ist die Abschaltung des Twitter-Betriebs in Sacramento um den Jahreswechsel 2022/23, nicht die Schließung des Standorts für andere.
 
 ### Zugeordnete Quellen
 
@@ -1882,9 +1903,24 @@ Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebene
 - [CNBC-Buchauszug von Walter Isaacson – nicht zugänglich](https://www.cnbc.com/2023/09/11/elon-musk-moved-twitter-servers-himself-in-the-night-new-biography-details-his-maniacal-sense-of-urgency.html) · CNBC / Walter Isaacson · Recherchepfad zum Buchauszug vom 11.09.2023; Inhalt nicht erfolgreich geöffnet.
   Quellenzugriff am 2026-11-17. Erfolgloser Abrufversuch – kein Sachbeleg. Am 17.11.2026 verweigerte das Recherchewerkzeug den Zugriff auf die beschränkte URL. Stattdessen gesondert die Veranstalterfassung S037 gelesen. Erfolgloser Abrufversuch – kein Sachbeleg. Der CNBC-Auszug war beschränkt; er wird nicht als gelesene Bestätigung verwendet.
 
+- [On Musk: Walter Isaacson über Sacramento](https://podcasts.happyscribe.com/on-musk-with-walter-isaacson/episode-two-demons) · Folge „Demons“; Abschnitt 01:41–04:16 in der Podcast-Textfassung.
+  Quellenzugriff am 2026-11-26. Beschriebenes Ende des Twitter-Betriebs am Standort und Zugänglichkeit der Serververlagerung gelesen; kein Betriebsaudit. Isaacsons eigener veröffentlichter Bericht über den Standort und die Anordnung.
+
+- [BBC-Interview mit Elon Musk, Transkript](https://www.rev.com/transcripts/elon-musk-interview-with-the-bbc-4-11-23-transcript) · Zeitmarken ca. 11:16 und 52:45 der Interviewfassung April 2023.
+  Quellenzugriff am 2026-11-26. Musks eigene Aussagen zum Betrieb mit zwei statt drei Rechenzentren und zur zeitlichen Einordnung der Abschaltung gelesen. Musks eigene Bestätigung des Betriebs mit zwei statt drei Rechenzentren.
+
+- [The New York Times: Bericht zu Twitters Sacramento-Standort](https://indianexpress.com/article/technology/tech-news-technology/whats-gone-at-twitter-data-center-janitors-toilet-paper-8354710/) · Zeitnaher Bericht vom Januar 2023, syndiziert im Indian Express.
+  Quellenzugriff am 2026-11-26. Dort beschriebene Abschaltung nach Unternehmensunterlagen und anschließende Betriebsprobleme getrennt gelesen. Zeitnaher Bericht über Twitter-Unterlagen und den tatsächlichen Betrieb.
+
 ### Offene Fragen und Unsicherheiten
 
 - Welche betrieblichen Unterlagen sichern den vollständigen Abschluss und die Folgen der Standortaufgabe?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S037, S038, S250, S251, S252. Ergebnis: Walter Isaacson beschreibt aus eigener Recherche, wie Musk Ende 2022 die rasche Räumung der Twitter-Technik in Sacramento anordnete. Ein zeitnaher Bericht über den Standort und interne Unternehmensunterlagen bestätigt die Abschaltung des dortigen Twitter-Betriebs um den Jahreswechsel 2022/23. Musk selbst bestätigte später, Twitter arbeite mit zwei statt drei Rechenzentren. Geprüft ist die Beendigung dieses Betriebs, nicht die Schließung des physischen Gebäudes für andere Mieter oder die Behauptung, die Umstellung sei störungsfrei oder allein dank Automatisierung gelungen.
 
 ## mlxFA9T88I0-A0053
 
@@ -2735,7 +2771,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Plaud Note Pro ermöglicht Gesprächsaufnahmen und das Markieren wichtiger Stellen.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2758,22 +2794,31 @@ Frueherer Suchbereich: [00:09:34–00:11:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Produktdarstellung beschreibt Aufnahmen und Highlights. Das stützt die angebotenen Funktionen als Herstellerangabe, ohne Bedienzuverlässigkeit oder Tonqualität unabhängig zu bestätigen.
+Der Werbeblock beschreibt zwei getrennte Gerätefunktionen: Aufnahmen und das Markieren wichtiger Stellen per Tastendruck. Die europäische Produktdokumentation nennt beide. Das belegt das vom Hersteller angebotene Funktionsprinzip, nicht die Qualität jeder Aufnahme oder eine sofortige Fertigstellung der Transkription; der letzte Punkt ist separat in A0071 erfasst.
 
-Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
+Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0036: vorher Teilweise belegt, jetzt Belegt. Aufnahme und Markieren per Tastendruck sind dokumentierte Funktionen. Transkriptionsdauer wird hier nicht mitbewertet.
 
 ### Zugeordnete Quellen
 
 - [Plaud Note Pro](https://www.plaud.ai/products/plaud-note-pro) · Plaud · undatierte Produktseite beim Zugriff; Funktionen, Sprachumfang, Gratisminuten, Nutzerzahl und Datenschutzaussagen. Herstellerwerbung, kein unabhängiger Test.
   Quellenzugriff am 2026-11-17. Am 17.11.2026 die bezeichneten relevanten Webseitenstellen tatsächlich gelesen; kein vollständiger Archiv- oder Praxistest. Produktfunktionen laut Hersteller; kein eigener Gerätetest.
 
+- [Plaud: Europäische Produktseite für Plaud Note Pro](https://eu.plaud.ai/pages/plaud-note-pro) · Herstellerdarstellung zu Aufnahmen, Highlight-Taste und EU-Startertarif.
+  Quellenzugriff am 2026-11-26. Genannte Funktionen und die 300 Minuten im Free Starter Plan gelesen; kein unabhängiger Gerätetest. Europäische Plaud-Produktdokumentation zu Aufzeichnung und Tastendruck für Highlights.
+
 ### Offene Fragen und Unsicherheiten
 
 - Bedienung und Zuverlässigkeit wurden nicht praktisch getestet.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S033, S253. Ergebnis: Der Werbeblock beschreibt zwei getrennte Gerätefunktionen: Aufnahmen und das Markieren wichtiger Stellen per Tastendruck. Die europäische Produktdokumentation nennt beide. Das belegt das vom Hersteller angebotene Funktionsprinzip, nicht die Qualität jeder Aufnahme oder eine sofortige Fertigstellung der Transkription; der letzte Punkt ist separat in A0071 erfasst.
 
 ## mlxFA9T88I0-A0071
 
@@ -2844,7 +2889,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Plaud bietet Transkription in ungefähr 112 Sprachen an.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2867,22 +2912,34 @@ Frueherer Suchbereich: [00:09:34–00:11:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die gelesene Produktübersicht nennt mindestens diesen Sprachumfang. Belegt ist das Angebot nach Herstellerangabe; weder gleiche Genauigkeit für alle Sprachen noch ein unabhängiger Funktionsnachweis.
+Die Produktwerbung nennt 112 Sprachen. Plaud dokumentierte zum Zeitpunkt der Veröffentlichung der Folge einen Umfang von mehr als 112 bei der Transkription, unter anderem in seiner Mitteilung vom 3. November 2026. Die Hilfeseite unterscheidet den Umfang für einsprachige Aufnahmen von mehrsprachiger Erkennung. Geprüft ist die Angebotsangabe zur Veröffentlichung, nicht der frühere Aufnahmetag, gleichbleibende Genauigkeit oder jede Mischung aus mehreren Sprachen.
 
-Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
+Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0037: vorher Teilweise belegt, jetzt Belegt. Plaud dokumentierte rund 112 Sprachen zum Veröffentlichungszeitpunkt; das sagt nichts über gleiche Qualität oder alle Sprachmischungen aus.
 
 ### Zugeordnete Quellen
 
 - [Plaud Note Pro](https://www.plaud.ai/products/plaud-note-pro) · Plaud · undatierte Produktseite beim Zugriff; Funktionen, Sprachumfang, Gratisminuten, Nutzerzahl und Datenschutzaussagen. Herstellerwerbung, kein unabhängiger Test.
   Quellenzugriff am 2026-11-17. Am 17.11.2026 die bezeichneten relevanten Webseitenstellen tatsächlich gelesen; kein vollständiger Archiv- oder Praxistest. Aktuelle Sprachübersicht; kein archivierter Angebotsstand und kein Sprachtest.
 
+- [Plaud: Offizielle Hilfe zu unterstützten Transkriptionssprachen](https://support.plaud.ai/hc/en-us/articles/53422487420953-How-many-languages-does-Plaud-support-for-transcription) · Sprachumfang bei einsprachigen Aufnahmen; mehrsprachige Erkennung gesondert.
+  Quellenzugriff am 2026-11-26. Herstellerangabe zu 112+ Sprachen und Einschränkungen beim Sprachwechsel gelesen. Hersteller-Hilfeseite zu ein- und mehrsprachigen Aufnahmen.
+
+- [Plaud: Mitteilung zur Markteinführung in Vietnam](https://sea.plaud.ai/blogs/news/plaud-officially-launches-in-vietnam-as-users-nearly-triple-year-on-year) · Am 3. November 2026 publizierte Hersteller-Mitteilung mit Datumszeile 27. Oktober; mehrere Geräte samt Note Pro und NotePin S.
+  Quellenzugriff am 2026-11-26. Erfolgsmeldung zur weltweiten Gesamtnutzung und zu mehreren Modellen gelesen; keine Modellzählung oder unabhängige Nutzerstatistik. Datierte Herstellerangabe zur Direct Transcription in mehr als 112 Sprachen.
+
 ### Offene Fragen und Unsicherheiten
 
 - Sprachqualität und damaliger Angebotsstand nicht unabhängig geprüft.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S033, S254, S255. Ergebnis: Die Produktwerbung nennt 112 Sprachen. Plaud dokumentierte zum Zeitpunkt der Veröffentlichung der Folge einen Umfang von mehr als 112 bei der Transkription, unter anderem in seiner Mitteilung vom 3. November 2026. Die Hilfeseite unterscheidet den Umfang für einsprachige Aufnahmen von mehrsprachiger Erkennung. Geprüft ist die Angebotsangabe zur Veröffentlichung, nicht der frühere Aufnahmetag, gleichbleibende Genauigkeit oder jede Mischung aus mehreren Sprachen.
 
 ## mlxFA9T88I0-A0073
 
@@ -2890,7 +2947,7 @@ Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapit
 
 **Eigene Beschreibung:** Zum Plaud-Angebot gehören monatlich 300 kostenlose Transkriptionsminuten.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Belegt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2913,30 +2970,39 @@ Frueherer Suchbereich: [00:09:34–00:11:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Produktseite nennt einen kostenlosen Umfang von 300 Minuten pro Monat. Tarifbedingungen, Region und spätere Änderungen bleiben zu beachten; die Darstellung ist kein Checkout-Test.
+Die europäische Plaud-Produktübersicht weist für den kostenlosen Startertarif 300 Transkriptionsminuten pro Monat aus. Das entspricht der im Werbeblock genannten Obergrenze. Die Angabe beschreibt den dokumentierten Tarif, nicht dauerhaft garantierte Konditionen in sämtlichen Regionen oder einen eigenen Kauf- und Funktionstest.
 
-Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
+Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0038: vorher Teilweise belegt, jetzt Belegt. Der kostenlose europäische Startertarif nennt 300 Transkriptionsminuten pro Monat.
 
 ### Zugeordnete Quellen
 
 - [Plaud Note Pro](https://www.plaud.ai/products/plaud-note-pro) · Plaud · undatierte Produktseite beim Zugriff; Funktionen, Sprachumfang, Gratisminuten, Nutzerzahl und Datenschutzaussagen. Herstellerwerbung, kein unabhängiger Test.
   Quellenzugriff am 2026-11-17. Am 17.11.2026 die bezeichneten relevanten Webseitenstellen tatsächlich gelesen; kein vollständiger Archiv- oder Praxistest. Aktueller Gratisumfang laut Hersteller-FAQ.
 
+- [Plaud: Europäische Produktseite für Plaud Note Pro](https://eu.plaud.ai/pages/plaud-note-pro) · Herstellerdarstellung zu Aufnahmen, Highlight-Taste und EU-Startertarif.
+  Quellenzugriff am 2026-11-26. Genannte Funktionen und die 300 Minuten im Free Starter Plan gelesen; kein unabhängiger Gerätetest. Europäische Produktseite und Tarifübersicht für den Free Starter Plan.
+
 ### Offene Fragen und Unsicherheiten
 
 - Individuelle Tarifbedingungen und damaliger Stand nicht durch Bestellung geprüft.
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S033, S253. Ergebnis: Die europäische Plaud-Produktübersicht weist für den kostenlosen Startertarif 300 Transkriptionsminuten pro Monat aus. Das entspricht der im Werbeblock genannten Obergrenze. Die Angabe beschreibt den dokumentierten Tarif, nicht dauerhaft garantierte Konditionen in sämtlichen Regionen oder einen eigenen Kauf- und Funktionstest.
 
 ## mlxFA9T88I0-A0074
 
 Herkunft: [bisheriger Kapitelbericht](../../../../faktenchecks/mlxFA9T88I0/kapitel/02_plattformen.md), Pruefpunkt 13 (C02-P13).
 
-**Eigene Beschreibung:** Plaud wird von mehr als drei Millionen Menschen genutzt.
+**Eigene Beschreibung:** Mehr als drei Millionen Menschen nutzten das im Werbeblock gezeigte Plaud Note Pro.
 
-Status: **Abgeschlossen** · Bewertung: **Teilweise belegt** · Art: Tatsachenbehauptung
+Status: **Abgeschlossen** · Bewertung: **Irreführend / Kontext fehlt** · Art: Tatsachenbehauptung
 
 ### Fundstellen und Zuordnung
 
@@ -2959,22 +3025,31 @@ Frueherer Suchbereich: [00:09:34–00:11:10](https://www.youtube.com/watch?v=mlx
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die Zahl findet sich auf der Herstellerseite als Angabe über berufliche Nutzer. Eine unabhängige Zählung, Stichtagsdefinition oder Abgrenzung aktiver Nutzer fehlt. Deshalb nur als unternehmenseigene Größenangabe teilweise belegt.
+Der Werbeblock bezieht mehr als drei Millionen Nutzer mit der unmittelbar auf das Plaud Note Pro bezogenen Formulierung auf das gezeigte Gerät. Plauds Hersteller-Mitteilung nennt die drei Millionen dagegen für die weltweite Marke, bei einer Ankündigung über mehrere Geräte. Die Mitteilung nennt keine Zahl für das Note Pro allein und lässt die Definition aktiver Nutzer offen. Damit ist der Unterschied zwischen Markenreichweite und Zahl der Nutzer eines einzelnen Geräts wesentlich.
 
-Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen.
+Grundlage der Bewertung: Kapitel-2-Migration am 17.11.2026: vorhandene automatische Originaluntertitel vollständig für 00:02:10–00:36:58 samt Anschluss bis 00:37:10 gelesen; nur die ausdrücklich genannten Webquellen geprüft. Keine Hörkontrolle, keine privaten Analytics oder internen Plattformakten. Frühere Sammelurteile nicht automatisch übernommen. [Kai] 2026-11-26: Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich.
 
 Uebernahme: Funktionen, Verarbeitungsablauf, Sprachumfang, Gratistarif und Nutzerzahl getrennt. Herstellerangaben sind keine unabhängige Produktprüfung.
 
-Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten.
+Bewertungsuebergang: Neue Einzelentscheidung in Status, Begründung und gegebenenfalls Endbewertung ausgewiesen. Der vollständige eigene Altpunkt samt früherem Sammelurteil bleibt unverändert in der Herkunft erhalten. [Kai] 2026-11-26, UG-C0039: vorher Teilweise belegt, jetzt Irreführend / Kontext fehlt. Drei Millionen sind eine weltweite Angabe zur Marke Plaud, keine veröffentlichte Nutzerzahl nur für das Note Pro.
 
 ### Zugeordnete Quellen
 
 - [Plaud Note Pro](https://www.plaud.ai/products/plaud-note-pro) · Plaud · undatierte Produktseite beim Zugriff; Funktionen, Sprachumfang, Gratisminuten, Nutzerzahl und Datenschutzaussagen. Herstellerwerbung, kein unabhängiger Test.
   Quellenzugriff am 2026-11-17. Am 17.11.2026 die bezeichneten relevanten Webseitenstellen tatsächlich gelesen; kein vollständiger Archiv- oder Praxistest. Herstellerbezogene Nutzerzahl, keine unabhängige Prüfung.
 
+- [Plaud: Mitteilung zur Markteinführung in Vietnam](https://sea.plaud.ai/blogs/news/plaud-officially-launches-in-vietnam-as-users-nearly-triple-year-on-year) · Am 3. November 2026 publizierte Hersteller-Mitteilung mit Datumszeile 27. Oktober; mehrere Geräte samt Note Pro und NotePin S.
+  Quellenzugriff am 2026-11-26. Erfolgsmeldung zur weltweiten Gesamtnutzung und zu mehreren Modellen gelesen; keine Modellzählung oder unabhängige Nutzerstatistik. Herstellerbefund zur weltweiten Markenreichweite, zwei Geräte im selben Veröffentlichungsanlass.
+
 ### Offene Fragen und Unsicherheiten
 
 - Was zählt als Nutzer und für welchen Stichtag gilt die Zahl?
+
+### Recherchedokumentation
+
+Einordnung: kein offener Fall. Sicherheit der Einordnung: Hoch.
+
+- Durchgang 1 am 2026-11-26 (Kai): Einzelprüfung mit Sachquellen und Wissensdatenbank-Abgleich. Zeitfenster im öffentlich lesbaren Spiegel des automatischen YouTube-Originaltranskripts mit Gesprächsumfeld nachgelesen. Kein neuer Hör-/Sichtabgleich. Die erneut geprüften Sachquellen stehen auch im Korrekturprotokoll; weitere Quellenverweise sind aus dem älteren Prüfstand übernommen. Gepruefte Quellen: S033, S255. Ergebnis: Der Werbeblock bezieht mehr als drei Millionen Nutzer mit der unmittelbar auf das Plaud Note Pro bezogenen Formulierung auf das gezeigte Gerät. Plauds Hersteller-Mitteilung nennt die drei Millionen dagegen für die weltweite Marke, bei einer Ankündigung über mehrere Geräte. Die Mitteilung nennt keine Zahl für das Note Pro allein und lässt die Definition aktiver Nutzer offen. Damit ist der Unterschied zwischen Markenreichweite und Zahl der Nutzer eines einzelnen Geräts wesentlich.
 
 ## mlxFA9T88I0-A0075
 

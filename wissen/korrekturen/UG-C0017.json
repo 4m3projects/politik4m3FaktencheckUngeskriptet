@@ -1,0 +1,65 @@
+{
+  "schemaVersion": 1,
+  "id": "UG-C0017",
+  "kind": "Fehlbewertung",
+  "status": "Umgesetzt",
+  "reportedOn": "2026-11-26",
+  "reportedBy": "Kai",
+  "trigger": {
+    "claimId": "QxMuH1bjMwo-A0028",
+    "entryId": null,
+    "description": "Zeitgenössische Berichte belegen die Gewalteskalation um und nach der Teilung im August 1947; Gewalt gab es auch zuvor."
+  },
+  "evidence": [
+    {
+      "title": "The National Archives: Britische Akten zur Teilung Indiens",
+      "url": "https://cdn.nationalarchives.gov.uk/documents/education/partition-of-british-india.pdf",
+      "accessedOn": "2026-11-26",
+      "finding": "Der Vermerk vom 25. August dokumentiert eine sich seit zwei Wochen erheblich verschlechternde Lage; der spätere Bericht beschreibt Gewalt im August und September."
+    },
+    {
+      "title": "Automatischer Text des Originalvideos (öffentlicher Spiegel)",
+      "url": "https://youtubetranscripthq.com/transcript/QxMuH1bjMwo",
+      "accessedOn": "2026-11-26",
+      "finding": "Sprechaussage und Gesprächsumfeld bei ca. 0:58:54, keine Hörprüfung."
+    }
+  ],
+  "affected": [
+    {
+      "target": "QxMuH1bjMwo-A0028",
+      "reason": "Nur dieser Prüfgegenstand. In der Wissensdatenbank sind keine vom Bewertungsschritt abhängigen Einträge verzeichnet."
+    }
+  ],
+  "decision": {
+    "by": "Regel:EinzelfallNachpruefung",
+    "date": "2026-11-26",
+    "basis": "Einzelprüfung im von Jens beauftragten Audit. Sachquelle und abgegrenzter Aussageumfang tragen den Befund; keine Absicht unterstellt."
+  },
+  "changes": [
+    {
+      "target": "QxMuH1bjMwo-A0028",
+      "field": "verdict",
+      "before": "Teilweise belegt",
+      "after": "Belegt"
+    },
+    {
+      "target": "QxMuH1bjMwo-A0028",
+      "field": "reason",
+      "before": "Indien und Pakistan wurden im August 1947 unabhängig. Das National Army Museum dokumentiert Gewalt und Massenflucht im Zuge der Teilung. Die Gewalteskalation hatte bereits vor der formalen Unabhängigkeit begonnen.",
+      "after": "Der Gast beschreibt eine Eskalation der Gewalt um und nach der britisch-indischen Teilung 1947. Amtliche britische Akten dokumentieren für die zweite Augusthälfte eine rasche Verschärfung im Punjab und anschließende schwere Gewalttaten im August und September. Das bestätigt den zeitlich eingegrenzten Sachverhalt; Übergriffe und Vertreibungen hatten bereits vorher begonnen. Eine alleinige religiöse Ursache oder eine exakte Opferzahl wird hier nicht behauptet."
+    },
+    {
+      "target": "QxMuH1bjMwo-A0028",
+      "field": "shortReason",
+      "before": "Gewalt und Massenflucht bei der Teilung sind belegt; die Eskalation begann aber schon vor der Unabhängigkeit.",
+      "after": "Zeitgenössische Berichte belegen die Gewalteskalation um und nach der Teilung im August 1947; Gewalt gab es auch zuvor."
+    }
+  ],
+  "history": [
+    {
+      "date": "2026-11-26",
+      "agent": "Kai",
+      "change": "Im Einzelfall nachgeprüft. Das frühere Urteil und die frühere Begründung bleiben hier und im Git-Verlauf erhalten."
+    }
+  ]
+}
