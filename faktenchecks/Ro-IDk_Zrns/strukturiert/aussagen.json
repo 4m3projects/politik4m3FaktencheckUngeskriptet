@@ -11,7 +11,7 @@
     "totalLegacyPoints": 0,
     "unmigratedLegacyPoints": 0,
     "researchNote": "[Kai] Originalplayer-Metadaten und Herausgeber-Feed zugeordnet. Deutsche automatische YouTube-Spur ausgewiesen; direkter Textabruf blieb ohne Inhalt. Aus offizieller MP3 lokal erzeugte deutsche Whisper-base-Textfenster. Satzzeitmarken gerundet und Zuordnungen plausibel, nicht akustisch bestätigt. Die genannte Zeitabdeckung beschreibt Textfundstellen, nicht alle Aussagen in den Kapiteln.",
-    "coverageNote": "Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung."
+    "coverageNote": "Erweiterter Teilbestand: 35 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung."
   },
   "legacyPoints": [],
   "sources": [
@@ -406,6 +406,70 @@
       "details": "1919, Art. 145; historische Edition des amtlichen Texts.",
       "accessedOn": "2026-11-28",
       "accessBasis": "Rechtswortlaut zur allgemeinen Schulpflicht."
+    },
+    {
+      "id": "S050",
+      "title": "Das Erste: Antwort zum internen Nahost-Glossar",
+      "url": "https://fragdenstaat.de/anfrage/glossar-berichterstattung-nahostkonflinkt-zur-internen-nutzung/",
+      "details": "Antwort vom 14. November 2023, Anfrage 292144.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Wortlaut der Antwort des Senders in der veröffentlichten Korrespondenz gelesen."
+    },
+    {
+      "id": "S051",
+      "title": "NDR-Rundfunkdatenschutz: Antwort zum Nahost-Glossar",
+      "url": "https://fragdenstaat.de/anfrage/glossar-berichterstattung-nahostkonflikt-5/#nachricht-883287",
+      "details": "Antwort vom 7. März 2024, Anfrage 300864.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Öffentlich dokumentierte Begründung zur Nutzung als redaktionelles Arbeitsmittel gelesen."
+    },
+    {
+      "id": "S052",
+      "title": "Itidal: Tarek Baés Veröffentlichung mit Dokumentauszügen",
+      "url": "https://itidal.de/pro-israelische-propaganda-sprachregelungen-des-ard-geleakt/",
+      "details": "Datiert auf 28. Oktober 2023; zeigt Textausschnitte, darunter eine E-Mail laut Artikel vom 11. Oktober.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Datierung und Wortlaut der eingebetteten Bilder direkt geprüft. Redaktionelle Deutung im Artikel von den gezeigten Auszügen getrennt."
+    },
+    {
+      "id": "S053",
+      "title": "NachDenkSeiten: Veröffentlichung eines ARD-Glossars",
+      "url": "https://www.nachdenkseiten.de/?p=105894",
+      "details": "Datiert auf 27. Oktober 2023, 14:22 Uhr; verlinkt ein Glossar mit Auszügen aus redaktionellen E-Mails.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Veröffentlichungsdatum, verlinktes Dokument und Aussagen zum erhaltenen Material geprüft."
+    },
+    {
+      "id": "S054",
+      "title": "Veröffentlichte Kopie eines internen ARD-Nahost-Glossars",
+      "url": "https://www.nachdenkseiten.de/upload/pdf/231027-Glossar_Berichterstattun-gNahostkonflikt.pdf#page=6",
+      "details": "Fassung mit Datumsangabe 18. Oktober 2023, Abs. 1.5 mit einem auf 9. Oktober datierten E-Mail-Auszug.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Wortlaut als veröffentlichte Dokumentkopie geprüft; keine vollständige externe Authentifizierung."
+    },
+    {
+      "id": "S055",
+      "title": "ARD-aktuell: Fragen und Antworten zur Tagesschau",
+      "url": "https://www.tagesschau.de/ueber-uns",
+      "details": "Aktuelle allgemeine Darstellung zum Umgang mit Begriffen.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Selbstauskunft der Redaktion über Wortwahl; kein Nachweis über damalige einzelne E-Mails oder deren Anwendung."
+    },
+    {
+      "id": "S056",
+      "title": "LMU/CIVIS: Nahost-Berichterstattung und Medienvertrauen",
+      "url": "https://www.civismedia.eu/wp-content/uploads/2026/08/Bericht-Nahost-Medienvertrauen-Reinemann-LMU-2026_final.pdf",
+      "details": "Erhebung im Herbst 2025, veröffentlicht 2026; Abb. 18 und Abschnitt zur subjektiven Veränderung des Vertrauens.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Originalbericht: 43 Prozent ausdrückliches Misstrauen gegen etablierte Medien zum Thema; 30 Prozent berichteten einen Rückgang des eigenen Vertrauens."
+    },
+    {
+      "id": "S057",
+      "title": "Veröffentlichte Glossarkopie: E-Mail vom 11. Oktober 2023",
+      "url": "https://www.nachdenkseiten.de/upload/pdf/231027-Glossar_Berichterstattun-gNahostkonflikt.pdf#page=7",
+      "details": "PDF-Seite 7; Abschnitt „Formulierungen vom 11.10.23“.",
+      "accessedOn": "2026-11-28",
+      "accessBasis": "Der Auszug auf PDF-Seite 7 enthält denselben Text über militärische Ziele wie das Itidal-Bild."
     }
   ],
   "speakers": [
@@ -1908,7 +1972,7 @@
       "description": "Die meisten polizeilich erfassten antisemitischen Gewalttaten in Deutschland seien rechtsmotiviert.",
       "status": "Abgeschlossen",
       "verdict": "Widerlegt",
-      "reason": "Die absoluten Zeilen von Tabelle 15 weisen 2025 54 von 156 Taten rechts und 73 ausländischer Ideologie zu, 2024 64 bzw. 81 von 173. Rechts war in beiden Jahren keine Mehrheit. Die 2025er Prosa im selben Factsheet vertauscht offenbar die Zuordnung: Sie nennt rund 47 Prozent rechts, obwohl die Tabelle 54 rechts und 73 ausländische Ideologie ausweist. Selbst nach der Prosa wäre Letzteres kein kleiner Anteil. Polizeiliche Motivkategorien sind keine Angaben zur Herkunft oder Religion der Täter; die Statistik misst registrierte Fälle, nicht alle tatsächlich begangenen Taten.",
+      "reason": "Tabelle 15 weist 2025 54 von 156 Gewaltdelikten der Kategorie PMK-rechts zu (34,62 Prozent) und 73 der Kategorie PMK-ausländische Ideologie (46,79 Prozent). Für 2024 sind es 64 bzw. 81 von 173. PMK-rechts war in keinem dieser beiden Jahre die Mehrheit. Der Begleittext nennt bei Gewalt 46,67 Prozent rechts und 35,02 Prozent ausländische Ideologie. Diese Werte entsprechen genau 3.056 bzw. 2.293 von 6.548, also den Anteilen an allen antisemitischen Straftaten 2025. Das spricht für einen vertauschten Bezugswert zwischen allen Taten und Gewalt im Begleittext; eine amtliche Erklärung lag bei der Prüfung nicht vor. Motivkategorien sind keine Angaben zur Herkunft oder Religion der Täter.",
       "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1978,7 +2042,7 @@
       "description": "Laut Umfragen vertraue eine Mehrheit der Deutschen der deutschen Berichterstattung über den Gaza-Krieg nicht mehr.",
       "status": "Offen",
       "verdict": null,
-      "reason": "Die namensnahe repräsentative NDR-Erhebung ergab 2024 48 Prozent wenig oder kein Vertrauen, also keine Mehrheit in dieser Befragung. Sie allein misst auch nicht, ob das Vertrauen zuvor höher war. Baé nennt hier keine konkrete Statistik. Eine andere Erhebung zum Aufnahmedatum ist damit nicht ausgeschlossen.",
+      "reason": "Die repräsentative NDR-Erhebung 2024 ergab 48 Prozent wenig oder kein Vertrauen. Der 2026 veröffentlichte LMU/CIVIS-Bericht über den Herbst 2025 ergab 43 Prozent ausdrückliches Misstrauen gegenüber der Nahost-Berichterstattung etablierter Medien, 30 Prozent gemischte Antworten und 23 Prozent Vertrauen. Auf eine andere Frage berichteten 30 Prozent, durch die Nahost-Berichterstattung sei ihr Vertrauen in zuvor genutzte Medien gesunken. Kein einschlägiger Mehrheitswert und kein kausaler Nachweis durch diese Erhebungen. Baé benennt seine Statistik nicht.",
       "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
       "migration": {
         "changeType": "Neuerfassung",
@@ -1997,6 +2061,10 @@
         {
           "sourceId": "S038",
           "note": "48 Prozent im August 2024, kein Trendnachweis."
+        },
+        {
+          "sourceId": "S056",
+          "note": "43 Prozent ausdrückliches Misstrauen, 30 Prozent subjektiver Rückgang; zwei unterschiedliche Fragen."
         }
       ],
       "openQuestions": [
@@ -2420,6 +2488,348 @@
       ],
       "relations": [],
       "shortReason": "Die allgemeine Schulpflicht stand schon 1919 in Artikel 145 der Weimarer Reichsverfassung."
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0031",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die ARD und der NDR nutzten ein internes Glossar zur Nahost-Berichterstattung.",
+      "status": "Abgeschlossen",
+      "verdict": "Belegt",
+      "reason": "Das Erste bestätigte am 14. November 2023 ein internes Glossar zur Erläuterung und Einordnung von Begriffen. Der NDR-Rundfunkdatenschutz bestätigte am 7. März 2024, dass es den NDR-Redaktionen als Arbeitsmittel diente. Das belegt Existenz und redaktionelle Nutzung, nicht jede kursierende Seite, deren Verbindlichkeit oder eine einheitliche Anwendung.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S050",
+          "note": "Bestätigung der Existenz und nach eigener Darstellung des Zwecks."
+        },
+        {
+          "sourceId": "S051",
+          "note": "Bestätigung der redaktionellen Nutzung."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0034",
+          "startSeconds": 4970,
+          "endSeconds": 4985,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0032",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Itidal habe die internen ARD-Sprachhinweise als erstes Medium öffentlich gemacht.",
+      "status": "Offen",
+      "verdict": null,
+      "reason": "Die auffindbare Itidal-Seite ist auf den 28. Oktober 2023 datiert. Die NachDenkSeiten veröffentlichten am 27. Oktober einen Beitrag mit einem Glossar und mindestens zwei Auszügen, die auch Itidal zeigt. Unter diesen beiden Artikeln erschien jener der NachDenkSeiten früher. Das bestimmt noch nicht, wer welches Dokument oder welche E-Mail zuerst veröffentlichte, etwa als Beitrag in sozialen Medien. Die Dokumente einzelner Mails müssen nicht identisch sein.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S052",
+          "note": "Beitrag vom 28. Oktober und dazugehörige Textausschnitte."
+        },
+        {
+          "sourceId": "S053",
+          "note": "Beitrag vom 27. Oktober mit eigener Dokumentkopie."
+        },
+        {
+          "sourceId": "S054",
+          "note": "Glossarfassung mit älteren E-Mail-Auszügen."
+        },
+        {
+          "sourceId": "S057",
+          "note": "Beide später bei Itidal abgebildeten Passagen stehen bereits in der früher verlinkten Kopie."
+        }
+      ],
+      "openQuestions": [
+        "Zeitlich archivierte Originalposts und Überschneidungen zwischen den beiden veröffentlichten Dokumentfassungen prüfen."
+      ],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0035",
+          "startSeconds": 4963,
+          "endSeconds": 4970,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      }
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0033",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die internen Hinweise hätten sämtliche israelischen Angriffe unabhängig vom Einzelfall als bloße Verteidigung eingeordnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der abgebildete E-Mail-Auszug empfiehlt für die damalige Situation das Wort Gegenangriffe. Die ausdrücklich situationsbezogene Formulierung ist kein Beleg für die im Interview behauptete Regel für beliebige Handlungen. Eine allgemeine, verbindliche Weisung lässt sich aus den zugänglichen Dokumenten nicht ableiten.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S052",
+          "note": "Zeigt den E-Mail-Ausschnitt, von der Auslegung des Artikels zu trennen."
+        },
+        {
+          "sourceId": "S054",
+          "note": "E-Mail-Auszug, ausdrücklich auf die Situation bezogen."
+        },
+        {
+          "sourceId": "S055",
+          "note": "Allgemeine Selbstauskunft, kein Abgleich der damaligen Redaktionspraxis."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0036",
+          "startSeconds": 4985,
+          "endSeconds": 4989,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      },
+      "shortReason": "Der veröffentlichte Auszug empfiehlt „Gegenangriffe“ für die damalige Situation, nicht für sämtliche israelischen Handlungen."
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0034",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die internen Hinweise hätten jedes israelische Angriffsziel ohne Ausnahme als militärisch bezeichnet.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der bei Itidal sichtbare Auszug enthält eine absolute Aussage über frühere Ziele, formuliert den redaktionellen Hinweis für Angriffe aber ausdrücklich als Regelfall. Im Interview entfällt diese Einschränkung. Der Check betrifft die Wiedergabe des Ausschnitts, nicht die Richtigkeit seiner militärischen Behauptungen oder eine unabhängig bestätigte Vorgabe für alle Redaktionen.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S052",
+          "note": "Im eingebetteten Bild stehen eine Aussage zu früheren Zielen und eine davon getrennte Formulierung zum Regelfall."
+        },
+        {
+          "sourceId": "S057",
+          "note": "Gleicher Ausschnitt mit Einschränkung auf den Regelfall."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0037",
+          "startSeconds": 4989,
+          "endSeconds": 4992,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      },
+      "shortReason": "Im veröffentlichten Auszug steht bei der Empfehlung „in der Regel“; im Interview wird daraus „egal, was Israel angreift“."
+    },
+    {
+      "id": "Ro-IDk_Zrns-A0035",
+      "videoId": "Ro-IDk_Zrns",
+      "chapter": 5,
+      "legacyId": null,
+      "kind": "Tatsachenbehauptung",
+      "description": "Die internen Hinweise hätten verlangt, stets zu betonen, Israel habe nicht angefangen.",
+      "status": "Abgeschlossen",
+      "verdict": "Irreführend / Kontext fehlt",
+      "reason": "Der veröffentlichte Ausschnitt empfiehlt, bei der erwarteten Verlagerung der Berichterstattung das aus seiner Sicht auslösende Handeln der Hamas im aktuellen Konflikt nicht auszublenden. Das ist enger als ein ständiger Hinweis in jedem Beitrag oder eine Feststellung über den Ursprung des gesamten Nahostkonflikts. Die Ausschnitte belegen keine einheitliche Durchsetzung.",
+      "assessmentBasis": "[Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.",
+      "migration": {
+        "changeType": "Neuerfassung",
+        "mapping": "Erstprüfung ohne Altpunkte.",
+        "assessmentChange": "[Kai] Erfasst und nach Quellenlage eingestuft."
+      },
+      "sourceRefs": [
+        {
+          "sourceId": "S001",
+          "note": "Identität, Videolaufzeit, Originalkapitel; kein Sachbeleg."
+        },
+        {
+          "sourceId": "S002",
+          "note": "Automatische Textfundstelle aus der offiziellen Audiofassung."
+        },
+        {
+          "sourceId": "S052",
+          "note": "Abgebildeter Text bezieht sich auf die kommenden Tage und auf den aktuellen Konflikt."
+        },
+        {
+          "sourceId": "S057",
+          "note": "Abschnitt „Aktion und Reaktion“ auf derselben Seite."
+        }
+      ],
+      "openQuestions": [],
+      "occurrences": [
+        {
+          "id": "Ro-IDk_Zrns-O0038",
+          "startSeconds": 4992,
+          "endSeconds": 4996,
+          "precision": "Ungefähr",
+          "speakerId": null,
+          "candidateSpeakerId": "SP02",
+          "attributionStatus": "Plausibel",
+          "attributionBasis": "Originalbeschreibung und Frage-Antwort-Zusammenhang",
+          "legacySpeaker": null,
+          "role": "Behauptung",
+          "roleStatus": "Plausibel",
+          "roleBasis": "Automatische Textfassung im Zusammenhang.",
+          "note": "Sinngemäße Paraphrase, kein wörtliches Zitat.",
+          "timeBasis": "Gerundete Position der lokal transkribierten Podcastdatei. Gleiche Gesamtlaufzeit bis auf Rundung; Einzelstelle nicht exakt an der Videospur abgeglichen.",
+          "timeHistory": []
+        }
+      ],
+      "relations": [],
+      "attribution": {
+        "statementBy": "Gast",
+        "person": "Tarek Baé",
+        "presentation": "Gespräch",
+        "creatorStance": "Nur wiedergegeben",
+        "basis": "Im Ausschnitt keine ausdrückliche Übernahme oder Korrektur durch den Moderator festgestellt.",
+        "assessedBy": "Kai",
+        "assessedOn": "2026-11-28"
+      },
+      "shortReason": "Der Auszug bezieht sich auf die Berichterstattung der kommenden Tage und den aktuellen Konflikt, nicht auf jeden Beitrag."
     }
   ]
 }

@@ -1,6 +1,6 @@
 # Kapitel 03: strukturierte Faktenprüfung
 
-Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.
+Automatisch aus aussagen.json erzeugt. Abdeckung: Teilbestand. Erweiterter Teilbestand: 35 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.
 
 [Kai] Originalplayer-Metadaten und Herausgeber-Feed zugeordnet. Deutsche automatische YouTube-Spur ausgewiesen; direkter Textabruf blieb ohne Inhalt. Aus offizieller MP3 lokal erzeugte deutsche Whisper-base-Textfenster. Satzzeitmarken gerundet und Zuordnungen plausibel, nicht akustisch bestätigt. Die genannte Zeitabdeckung beschreibt Textfundstellen, nicht alle Aussagen in den Kapiteln.
 
@@ -29,7 +29,7 @@ Zeitgrundlage: Gerundete Position der lokal transkribierten Podcastdatei. Gleich
 
 ### Eigene Begruendung und Migrationsentscheidung
 
-Die absoluten Zeilen von Tabelle 15 weisen 2025 54 von 156 Taten rechts und 73 ausländischer Ideologie zu, 2024 64 bzw. 81 von 173. Rechts war in beiden Jahren keine Mehrheit. Die 2025er Prosa im selben Factsheet vertauscht offenbar die Zuordnung: Sie nennt rund 47 Prozent rechts, obwohl die Tabelle 54 rechts und 73 ausländische Ideologie ausweist. Selbst nach der Prosa wäre Letzteres kein kleiner Anteil. Polizeiliche Motivkategorien sind keine Angaben zur Herkunft oder Religion der Täter; die Statistik misst registrierte Fälle, nicht alle tatsächlich begangenen Taten.
+Tabelle 15 weist 2025 54 von 156 Gewaltdelikten der Kategorie PMK-rechts zu (34,62 Prozent) und 73 der Kategorie PMK-ausländische Ideologie (46,79 Prozent). Für 2024 sind es 64 bzw. 81 von 173. PMK-rechts war in keinem dieser beiden Jahre die Mehrheit. Der Begleittext nennt bei Gewalt 46,67 Prozent rechts und 35,02 Prozent ausländische Ideologie. Diese Werte entsprechen genau 3.056 bzw. 2.293 von 6.548, also den Anteilen an allen antisemitischen Straftaten 2025. Das spricht für einen vertauschten Bezugswert zwischen allen Taten und Gewalt im Begleittext; eine amtliche Erklärung lag bei der Prüfung nicht vor. Motivkategorien sind keine Angaben zur Herkunft oder Religion der Täter.
 
 Grundlage der Bewertung: [Kai] Deutsche automatische Textfassung aus der offiziellen Podcastaufnahme im jeweiligen Zusammenhang gelesen. Originalvideo-Metadaten und verfügbare Sachquellen separat geprüft. Keine akustisch bestätigte Sprecherzuordnung.
 

@@ -1,41 +1,41 @@
 {
   "schemaVersion": 2,
   "scope": "Teilbestand",
-  "coverageNote": "Erweiterter Teilbestand: 30 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.",
+  "coverageNote": "Erweiterter Teilbestand: 35 Prüfgegenstände an ausgewählten Gesprächsstellen bis etwa 3:41. Die Auswertung erfasst ausgewählte Aussagen, keine lückenlose Erhebung der ganzen Folge; Zeitfenster stammen aus der Audiofassung.",
   "videoId": "Ro-IDk_Zrns",
   "selectedLegacyPoints": 0,
   "totalLegacyPoints": 0,
-  "statementRecords": 30,
-  "uniqueStatements": 29,
+  "statementRecords": 35,
+  "uniqueStatements": 34,
   "referenceOnlyStatements": 1,
   "unresolvedRoleOnlyStatements": 0,
-  "assertionOccurrences": 31,
+  "assertionOccurrences": 36,
   "additionalAssertionOccurrences": 2,
   "sameSpeakerRepeatedAssertionOccurrences": 0,
   "referenceOccurrences": 2,
   "unresolvedRoleOccurrences": 0,
   "statusCounts": {
-    "Offen": 9,
+    "Offen": 10,
     "In Bearbeitung": 0,
     "Nicht überprüfbar": 0,
-    "Abgeschlossen": 20
+    "Abgeschlossen": 24
   },
   "kindCounts": {
-    "Tatsachenbehauptung": 29,
+    "Tatsachenbehauptung": 34,
     "Meinung": 0,
     "Prognose": 0
   },
-  "completedFacts": 20,
-  "openFacts": 9,
+  "completedFacts": 24,
+  "openFacts": 10,
   "inProgressFacts": 0,
   "unverifiableFacts": 0,
-  "percentageDenominator": 20,
+  "percentageDenominator": 24,
   "percentageDenominatorDefinition": "Einmalig gezaehlte abgeschlossene Tatsachenbehauptungen mit mindestens einem eigenen Behauptungs-, Zustimmungs- oder Selbstkorrekturvorkommen (Bezug bestaetigt oder plausibel). Sprecheridentitaet unabhaengig davon; Unsicherheit separat ausgewiesen. Meinungen, Prognosen, offene/laufende, nicht ueberpruefbare und nur erwaehnte Aussagen ausgeschlossen; abgeschlossen nicht ausreichend belegbar eingeschlossen.",
   "categories": [
     {
       "category": "Belegt",
-      "completedCount": 13,
-      "completedFactPercent": 65.0
+      "completedCount": 14,
+      "completedFactPercent": 58.3
     },
     {
       "category": "Teilweise belegt",
@@ -44,13 +44,13 @@
     },
     {
       "category": "Irreführend / Kontext fehlt",
-      "completedCount": 1,
-      "completedFactPercent": 5.0
+      "completedCount": 4,
+      "completedFactPercent": 16.7
     },
     {
       "category": "Widerlegt",
       "completedCount": 6,
-      "completedFactPercent": 30.0
+      "completedFactPercent": 25.0
     },
     {
       "category": "Nicht ausreichend belegbar",
@@ -151,19 +151,19 @@
         ]
       }
     ],
-    "eligibleFacts": 29,
+    "eligibleFacts": 34,
     "reliablyAssignedFacts": 0,
-    "factsWithoutReliablePerson": 29,
-    "factsWithUncertainAttribution": 29,
-    "factsWithUncertainOwnRole": 29,
+    "factsWithoutReliablePerson": 34,
+    "factsWithUncertainAttribution": 34,
+    "factsWithUncertainOwnRole": 34,
     "occurrenceAttributionCounts": {
       "Bestätigt": 0,
-      "Plausibel": 33,
+      "Plausibel": 38,
       "Ungeklärt": 0
     },
     "occurrenceRoleStatusCounts": {
       "Bestätigt": 0,
-      "Plausibel": 33,
+      "Plausibel": 38,
       "Ungeklärt": 0
     }
   }
